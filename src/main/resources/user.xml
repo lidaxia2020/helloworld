@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="user1" class="main.java.com.helloworld.springIoc.UserEntity">
+		<property name="userId" value="0001"></property>
+		<property name="userName" value="余胜军"></property>
+	</bean>
+	<bean id="user2" class="main.java.com.helloworld.springIoc.UserEntity">
+		<property name="userId" value="0002"></property>
+		<property name="userName" value="张三"></property>
+	</bean>
+</beans>

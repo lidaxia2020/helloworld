@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+	<!--无参构造函数 -->
+	<bean id="userEntity" class="com.itmayiedu.entity.UserEntity"></bean>
+	<!--有参构造函数 -->
+	<bean id="userEntity1" class="com.itmayiedu.entity.UserEntity">
+		<constructor-arg name="name" value="yushengjun"></constructor-arg>
+		<constructor-arg name="age" value="19"></constructor-arg>
+	</bean>
+
+	<bean id="objectFactory" class="com.itmayiedu.entity.ObjectFactory"></bean>
+	<!-- 工厂创建方式 -->
+	<bean id="getUserEntity" factory-bean="objectFactory"
+		factory-method="getUserEntity"></bean>
+	<!-- 静态工厂 -->
+	<bean id="getStaticUserEntity" class="com.itmayiedu.entity.ObjectFactory"
+		factory-method="getStaticUserEntity"></bean>
+</beans>
