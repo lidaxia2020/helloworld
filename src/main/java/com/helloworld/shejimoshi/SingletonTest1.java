@@ -6,13 +6,13 @@ package com.helloworld.shejimoshi;
  */
 public class SingletonTest1 {
 
-    private static final SingletonTest1 singletonTest1 = new SingletonTest1();
+    private static final SingletonTest1 SING_LETON_TEST = new SingletonTest1();
 
     private SingletonTest1(){
     }
 
     public static SingletonTest1 getSingletonTest1(){
-        return singletonTest1;
+        return SING_LETON_TEST;
     }
 
 

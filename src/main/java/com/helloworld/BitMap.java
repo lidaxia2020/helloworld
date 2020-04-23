@@ -66,7 +66,7 @@ public class BitMap {
     public static void main(String[] args){
         System.out.println("args = " +"332626199609125912".substring(6,14));
 
-        int num[] = {1,5,30,32,64,56,159,120,21,17,35,45};
+        int[] num = {1,5,30,32,64,56,159,120,21,17,35,45};
         BitMap map = new BitMap();
         for(int i=0;i<num.length;i++){
             map.addValue(num[i]);
