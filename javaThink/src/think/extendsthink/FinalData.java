@@ -25,7 +25,7 @@ public class FinalData {
     static final int INT_5 = random.nextInt(20);
     private Value value = new Value(11);
     private final Value value2 = new Value(22);
-    private static final Value value3 = new Value(33);
+//    private static final Value value3 = new Value(33);
 
     private final int[] a = {1,2,3,4,5,6};
 
