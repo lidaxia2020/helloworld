@@ -1,5 +1,6 @@
 package think.extendsthink;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
@@ -28,6 +29,7 @@ public class Dog extends Anima
         a.equals("a");
         int i = 1000;
         System.out.println(Integer.toBinaryString(i));
+        new ArrayList<>()
     }
 }
 
