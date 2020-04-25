@@ -9,6 +9,14 @@ import java.util.Arrays;
  */
 public class Dog extends Anima
 {
+
+    private FinalData f = new FinalData();
+
+    public Dog() {
+        System.out.println("Dog");
+    }
+
+
     @Override
     void speak() {
         super.speak();
@@ -29,7 +37,6 @@ public class Dog extends Anima
         a.equals("a");
         int i = 1000;
         System.out.println(Integer.toBinaryString(i));
-        new ArrayList<>()
     }
 }
 

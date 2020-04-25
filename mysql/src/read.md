@@ -7,14 +7,24 @@
     - 并发控制<br>
         读锁（共享锁）、写锁（排他锁）；表锁、行级锁
     - 事物：A(原子性)C(一致性)I(隔离性)D(持久性)<br>  
-        隔离级别
-        死锁
-    - 多版本并发控制(MVCC)<br>
+        - 隔离级别<br/>
+            - 未提交读（read uncommitted）：事物中的修改，即使没有提交，对其他事物也是可见的。
+            - 提交读（read committed）：一个事物开始，只能看见提交了的事物做的修改。
+            - 可重复读（pereatable read）:保证了同一个事物中多次读取同样记录的结果一直。并采用MVCC解决幻读的问题。MYSQL默认的事物隔离级别。
+            - 可串行化（serializable）：强制事物串行执行 
+        - 死锁<br/>
+            - InnoDB 目前处理死锁的方法是：将持有最少行级别排它锁（写锁）的事物进行回滚。
+        - 事物日志<br/>
+            - 事物日志可以提高事物的处理能力。先将修改表的数据拷贝到内存，再把行为记录在日志中。后期再将数据写入到磁盘中。 
+    - 多版本并发控制(MVCC)<br/>
         InnoDB的MVCC，是通过在每行记录后面保存2个隐藏的列来实现的。
-            
+    - InnoDB概览
+        - InnoDB的数据存储在表空间中，表空间是由InnoDB管理的一个黑盒子，由一系列的数据文件组成。
+        - InnoDB采用MVCC来支持高并发，并采用了可重复读的隔离级别，通过间隙锁策略防止幻读的出现。
+               
     
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/v)
 
 
 
@@ -33,3 +43,35 @@
     
    
  
+#### 服务器性能剖析
+- 性能：完成某件任务所需要的时间，完成一项任务可以分为执行时间和等待时间
+    - 执行时间：通过定位每一个子任务花费的时间
+    - 等待时间：这个比较复杂，可能是其他系统间的影响导致，也可能是争用磁盘和CPU资源引起的
+- 性能剖析步骤：
+    - 测量任务所需要的时间
+    - 对结果进行排序和统计
+- 剖析Mysql查询
+    - 慢查询日志 ---> 使用pt-query-digest工具
+    - 抓取TCP网络包
+- 剖析单条查询
+    - 使用 show ProFile：使用show Profiles;show Profile for query Query_Id
+    - 使用 show status
+    - 使用慢查询日志
+- 使用性能剖析
+- 诊断间歇性问题
+    - 使用 show global status:
+    - 使用 show processlist
+    - 使用查询日志：
+    - 理解发现的问题：使用gnuplot和R绘图工具
+- 捕获诊断数据
+    - 
+
+
+
+#### Schema与数据类型优化
+
+#### 创建高性能的索引
+
+#### 查询性能的优化
+
+#### 

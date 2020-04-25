@@ -6,6 +6,10 @@ package think.extendsthink;
  */
 public class Anima
 {
+    public Anima() {
+        System.out.println("Animal");
+    }
+
     void speak(){
         System.out.println("anima speak");
     }

@@ -1,5 +1,6 @@
 package think.extendsthink;
 
+import java.util.Arrays;
 import java.util.Random;
 
 /**
@@ -11,6 +12,10 @@ public class FinalData {
     private static Random random = new Random(47);
 
     private String id;
+
+    public FinalData() {
+        System.out.println("FinalData");
+    }
 
     public FinalData(String id) {
         this.id = id;
@@ -25,7 +30,7 @@ public class FinalData {
     static final int INT_5 = random.nextInt(20);
     private Value value = new Value(11);
     private final Value value2 = new Value(22);
-//    private static final Value value3 = new Value(33);
+    private static final Value value3 = new Value(33);
 
     private final int[] a = {1,2,3,4,5,6};
 
@@ -41,9 +46,21 @@ public class FinalData {
     public static void main(String[] args) {
         FinalData fd1 = new FinalData("fd1");
         fd1.value2.i++;
+        fd1.value = new Value(9);
+        for (int i = 0; i < fd1.a.length; i++){
+            fd1.a[i]++;
+        }
+
+        System.out.println(fd1);
+        System.out.println("Create ........");
+        FinalData fd2 = new FinalData("fd2");
+        System.out.println(fd1);
+        System.out.println(fd2);
+
+        System.out.println(FinalData.value3.i);
     }
 
-    class Value {
+    static class Value {
         int i;
 
         public Value(int i) {
