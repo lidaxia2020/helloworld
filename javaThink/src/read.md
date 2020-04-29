@@ -71,6 +71,12 @@
     - 理解：A类调用B类的某个方法 C，B类中的C方法又调用A类的某个方法D
  
  ### 持有对象
+ - @SuppressWarnings是J2SE提供的最后一个批注,字面理解，抑制警告信息
+ - Object默认的toString()打印类名+该对象的散列码的无符号十六进制
+ - 添加一组元素：首选Collection.addAll()
+ - Arrays.asList()底层是数组，因此其不能调整尺寸，不能add(),delete()
+ 
+ ### 通常异常处理错误
  - 
  
  
