@@ -1,4 +1,6 @@
-package com.helloworld.threadDemo;
+package com.helloworld.threaddemo;
+
+import java.util.concurrent.*;
 
 /**
  * @author daxia li
@@ -14,8 +16,10 @@ public class RunnableDemo implements Runnable{
 
     public static void main(String[]args){
         RunnableDemo runnableDemo = new RunnableDemo();
-
-        new Thread(runnableDemo).start();
+        ThreadPoolExecutor t = new ThreadPoolExecutor(1, 1,
+                0L, TimeUnit.MILLISECONDS,
+                new LinkedBlockingQueue<Runnable>());
+        t.execute(runnableDemo);
 
         for (int i=0;i<20;i++){
             System.out.println("main : i = "+i);

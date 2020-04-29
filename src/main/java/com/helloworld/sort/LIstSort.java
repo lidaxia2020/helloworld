@@ -8,43 +8,42 @@ public class LIstSort {
     public static void main(String[] args) {
         List<Data> dataList = new ArrayList<>();
         dataList.add(new Data(3L, 1L));
-        dataList.add(new Data(1L, null));
+        dataList.add(new Data(1L, 0L));
         dataList.add(new Data(2L, 1L));
         dataList.add(new Data(5L, 4L));
         dataList.add(new Data(4L, 0L));
         dataList.add(new Data(6L, 5L));
+        dataList.add(new Data(19L, 0L));
+        dataList.add(new Data(18L, 19L));
 
         dataList.sort(Comparator.comparing(Data::getPid).thenComparing(Data::getId));
         //组--list Child data
         Map<Long, List<Data>> group = dataList.stream().collect(Collectors.groupingBy(Data::getPid));
-        System.out.println(group);
+        group.forEach((k, v) -> {
+            System.out.println(k + "=" + v.stream().map(t -> String.valueOf(t.getId())).collect(Collectors.joining(",")));
+        });
         //id --data
         Map<Long, Data> collect = dataList.stream().collect(Collectors.toMap(Data::getId, Function.identity()));
-        //已经处理过的group id
-        Set<Long> printed = new HashSet<>();
-        List<Data> sortedList = new ArrayList<>();
-        for (Long aLong : group.keySet()) {
+        LinkedHashSet<Long> sortedList = new LinkedHashSet<>();
+        Set<Long> longs = group.keySet();
+        longs.stream().sorted().forEach(aLong -> {
             Data x = collect.get(aLong);
             if (x != null) {
-                printGroup(group, x, printed,sortedList);
+                printGroup(group, x, sortedList);
+            } else {
+                System.out.println("====\t" + aLong);
             }
-        }
-        System.out.println(printed);
+        });
         System.out.println(sortedList);
     }
-
-    private static void printGroup(Map<Long, List<Data>> group, Data data, Set<Long> printed,List<Data> result) {
-        Long pid = data.getPid();
-        List<Data> childList = group.get(data.getId());
-        System.out.println(data);
-        result.add(data);
-        if (!printed.contains(pid)) {
-            printed.add(data.getPid());
-            if (childList != null) {
-                childList.sort(Comparator.comparing(Data::getId));
-                for (Data child : childList) {
-                    printGroup(group, child, printed,result);
-                }
+    private static void printGroup(Map<Long, List<Data>> group, Data data, LinkedHashSet<Long> result) {
+        Long id = data.getId();
+        List<Data> childList = group.get(id);
+        result.add(id);
+        if (childList != null) {
+            childList.sort(Comparator.comparing(Data::getId));
+            for (Data child : childList) {
+                printGroup(group, child, result);
             }
         }
     }

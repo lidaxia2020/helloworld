@@ -1,4 +1,4 @@
-package com.helloworld.threadDemo;
+package com.helloworld.threaddemo;
 
 
 
