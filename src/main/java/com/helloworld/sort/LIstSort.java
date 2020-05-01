@@ -8,19 +8,19 @@ public class LIstSort {
     public static void main(String[] args) {
         List<Data> dataList = new ArrayList<>();
         dataList.add(new Data(3L, 1L));
-        dataList.add(new Data(1L, 0L));
+        dataList.add(new Data(1L, null));
         dataList.add(new Data(2L, 1L));
         dataList.add(new Data(5L, 4L));
-        dataList.add(new Data(4L, 0L));
+        dataList.add(new Data(4L, null));
         dataList.add(new Data(6L, 5L));
-        dataList.add(new Data(19L, 0L));
+        dataList.add(new Data(19L, null));
         dataList.add(new Data(18L, 19L));
 
         dataList.sort(Comparator.comparing(Data::getPid).thenComparing(Data::getId));
         //组--list Child data
         Map<Long, List<Data>> group = dataList.stream().collect(Collectors.groupingBy(Data::getPid));
         group.forEach((k, v) -> {
-            System.out.println(k + "=" + v.stream().map(t -> String.valueOf(t.getId())).collect(Collectors.joining(",")));
+//            System.out.println(k + "=" + v.stream().map(t -> String.valueOf(t.getId())).collect(Collectors.joining(",")));
         });
         //id --data
         Map<Long, Data> collect = dataList.stream().collect(Collectors.toMap(Data::getId, Function.identity()));
