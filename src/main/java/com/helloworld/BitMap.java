@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author lijn
+ * @author daxia li
  * @date 2019/3/12 10:23
  */
 public class BitMap {

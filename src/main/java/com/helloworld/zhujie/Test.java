@@ -1,5 +1,7 @@
 package main.java.com.helloworld.zhujie;
 
+import javafx.beans.property.SetProperty;
+
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 
@@ -33,7 +35,7 @@ public class Test {
             }
         }
         //getAnnotion 获取某个注解对象
-        SetTable setTable = c.getAnnotation(SetTable.class);
+        main.java.com.helloworld.zhujie.SetTable setTable = c.getAnnotation(main.java.com.helloworld.zhujie.SetTable.class);
         System.out.println(setTable.value());
         sb.append(setTable.value());
         System.out.println(sb.toString());

@@ -2,7 +2,7 @@
 <beans>
 	<bean id="user1" class="main.java.com.helloworld.springIoc.UserEntity">
 		<property name="userId" value="0001"></property>
-		<property name="userName" value="余胜军"></property>
+		<property name="userName" value="李四"></property>
 	</bean>
 	<bean id="user2" class="main.java.com.helloworld.springIoc.UserEntity">
 		<property name="userId" value="0002"></property>

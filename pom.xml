@@ -3,6 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.helloworld</groupId>
     <artifactId>spring</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <build>
         <plugins>
@@ -16,6 +17,10 @@
             </plugin>
         </plugins>
     </build>
+    <modules>
+        <module>leetcode</module>
+        <module>linux</module>
+    </modules>
 
     <dependencies>
         <!-- 引入Spring-AOP等相关Jar -->

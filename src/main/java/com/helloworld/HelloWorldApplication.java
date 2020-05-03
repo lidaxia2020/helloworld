@@ -1,6 +1,5 @@
 package com.helloworld;
 
-import com.helloworld.spring.entity.UserEntity;
 import com.helloworld.spring.service.UserService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
