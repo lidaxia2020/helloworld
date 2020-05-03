@@ -2,6 +2,7 @@ package think.extendsthink;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Formatter;
 
 /**
  * @Auther lidaxia
@@ -11,6 +12,10 @@ public class Dog extends Anima
 {
 
     private FinalData f = new FinalData();
+
+    static {
+        System.out.println("================");
+    }
 
     public Dog() {
         System.out.println("Dog");
@@ -37,6 +42,7 @@ public class Dog extends Anima
         a.equals("a");
         int i = 1000;
         System.out.println(Integer.toBinaryString(i));
+        Formatter formatter;
     }
 }
 

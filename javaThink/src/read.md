@@ -77,10 +77,22 @@
  - Arrays.asList()底层是数组，因此其不能调整尺寸，不能add(),delete()
  
  ### 通常异常处理错误
- - 
+ - finally:用来清理资源，已经打开的文件或网络连接、在屏幕上的图形或是外部世界的某个开关。
  
+ ### 字符串
+ - Formatter：所有需要格式化的功能都由java.util.Formatter类处理
+ - 正则表达式
+    - 
+    
  
- 
+ ### 类型信息
+ - RTTI(Run-Time Type Identification):在运行时，识别一个对象的类型
+ - Class对象：Class.forName()
+ - 类字面常量：可以直接使用--类名.class
+ - 泛型化的class引用
+ - instanceof：检查某对象是否为特定类型的实例
+ - 反射：运行时类信息
+    - 类方法提取器：
  
  
  
