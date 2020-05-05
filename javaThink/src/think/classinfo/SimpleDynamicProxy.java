@@ -6,6 +6,8 @@ package think.classinfo;
  */
 public class SimpleDynamicProxy {
 
-    public static void consumer(Interface if)
+    public static void consumer(Interface i){
+
+    }
 
 }
