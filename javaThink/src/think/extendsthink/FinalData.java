@@ -1,7 +1,9 @@
 package think.extendsthink;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.Random;
+import java.util.Set;
 
 /**
  * @Auther lidaxia
@@ -58,6 +60,7 @@ public class FinalData {
         System.out.println(fd2);
 
         System.out.println(FinalData.value3.i);
+        Set set = new HashSet();
     }
 
     static class Value {
