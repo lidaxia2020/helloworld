@@ -1,5 +1,6 @@
 package think.container;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -11,5 +12,8 @@ public class SetTest {
 
     public static void main(String[] args) {
         Set set = new HashSet();
+
+        System.out.println("a".hashCode());
+        System.out.println(new String("a").hashCode());
     }
 }

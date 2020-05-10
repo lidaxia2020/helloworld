@@ -1,5 +1,8 @@
 package think.extendsthink;
 
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -14,5 +17,10 @@ public class StringTest {
 
     public static void main(String[] args) {
         Matcher matcher = pattern.matcher("aaaa");
+
+        HashMap map;
+        TreeMap treeMap;
+        System.out.println("args = " + "a".hashCode());
+        System.out.println("args = " + "a".hashCode());
     }
 }
