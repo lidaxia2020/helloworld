@@ -1,5 +1,7 @@
 package com.helloworld.sort;
 
+import com.alibaba.fastjson.JSONObject;
+
 import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
@@ -52,6 +54,17 @@ public class LIstSort {
 //            }
 //        }
 //    }
+        JSONObject jsonObject = new JSONObject();
+
+        Integer integer = new Integer(1);
+
+        test(integer);
+
+        Map map = dataList.stream().collect(Collectors.toMap(data -> {
+
+            return data.getId();
+        }, Function.identity()));
+
 
         dataList.sort(Comparator.comparing(Data::getPid).thenComparing(Data::getId));
         Map<Long, List<Data>> group = dataList.stream().collect(Collectors.groupingBy(Data::getPid));
@@ -75,7 +88,13 @@ public class LIstSort {
             }
         }
     }
+
+    static void test(Integer integer){
+        //jsonObject.put("aaa", 1);
+        integer = 3;
+    }
 }
+
 
 class Data {
     private Long id;

@@ -64,6 +64,9 @@ public class BitMap {
         }
     }
     public static void main(String[] args){
+
+        System.out.println( Long.MAX_VALUE >  Double.MAX_VALUE);
+        System.out.println("args = " + Double.MAX_VALUE);
         System.out.println("args = " +"332626199609125912".substring(6,14));
 
         int[] num = {1,5,30,32,64,56,159,120,21,17,35,45};
