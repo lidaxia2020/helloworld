@@ -84,15 +84,6 @@ package java.nio;
  * content, or by {@link #wrap(byte[]) <i>wrapping</i>} an
  * existing byte array  into a buffer.
  *
-
-
-
-
-
-
-
- *
-
  *
  * <a name="direct"></a>
  * <h2> Direct <i>vs.</i> non-direct buffers </h2>
@@ -190,28 +181,6 @@ package java.nio;
  * <p> The byte order of a view buffer is fixed to be that of its byte buffer
  * at the time that the view is created.  </p>
  *
-
-*
-
-
-
-
-
-
-
-
-
-
-
-*
-
-
-
-
-
-
-
-
  *
 
  * <h2> Invocation chaining </h2>
@@ -235,23 +204,6 @@ package java.nio;
  * <blockquote><pre>
  * bb.putInt(0xCAFEBABE).putShort(3).putShort(45);</pre></blockquote>
  *
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  *
  *
  * @author Mark Reinhold

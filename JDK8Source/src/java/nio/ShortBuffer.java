@@ -57,18 +57,6 @@ package java.nio;
  *   short array or some other short
  *   buffer into this buffer;&#32;and </p></li>
  *
-
-
-
-
-
-
-
-
-
-
-
-
  *
  *   <li><p> Methods for {@link #compact compacting}, {@link
  *   #duplicate duplicating}, and {@link #slice slicing}
@@ -79,120 +67,13 @@ package java.nio;
  * <p> Short buffers can be created either by {@link #allocate
  * <i>allocation</i>}, which allocates space for the buffer's
  *
-
-
-
-
-
-
  *
  * content, by {@link #wrap(short[]) <i>wrapping</i>} an existing
  * short array  into a buffer, or by creating a
  * <a href="ByteBuffer.html#views"><i>view</i></a> of an existing byte buffer.
  *
-
  *
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*
-
+ *
  *
  * <p> Like a byte buffer, a short buffer is either <a
  * href="ByteBuffer.html#direct"><i>direct</i> or <i>non-direct</i></a>.  A
@@ -202,56 +83,14 @@ package java.nio;
  * a short buffer is direct may be determined by invoking the {@link
  * #isDirect isDirect} method.  </p>
  *
-
 *
 
-
-
-
-
-
-
-
  *
-
-
-
  *
  * <p> Methods in this class that do not otherwise have a value to return are
  * specified to return the buffer upon which they are invoked.  This allows
  * method invocations to be chained.
  *
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  *
  *
  * @author Mark Reinhold

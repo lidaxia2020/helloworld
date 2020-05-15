@@ -123,8 +123,16 @@
     - 覆盖hashCode():
  
  
- 
- 
+ ### Java I/O系统
+ - transient（瞬时）关键字
+
+ ### 枚举
+
+ ### 注解
+ - 定义注解
+    - @Target:用来定义你的注解将用于什么地方
+    - @Retention:用来定义注解用于哪一个级别可用，在源代码中（SOURCE）、类文件中（CLASS）、或者运行时（RUNTIME）
+
  
  
  
