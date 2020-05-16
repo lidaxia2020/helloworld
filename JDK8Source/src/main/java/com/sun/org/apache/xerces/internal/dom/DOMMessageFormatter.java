@@ -1,0 +1,169 @@
+/***** Lobxxx Translate Finished ******/
+/*
+ * Copyright (c) 2007, 2015, Oracle and/or its affiliates. All rights reserved.
+ * ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ */
+/*
+ * Copyright 2002,2004 The Apache Software Foundation.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ * <p>
+ *  版权所有2002,2004 Apache软件基金会。
+ * 
+ *  根据Apache许可证2.0版("许可证")授权;您不能使用此文件,除非符合许可证。您可以通过获取许可证的副本
+ * 
+ *  http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ *  除非适用法律要求或书面同意,否则根据许可证分发的软件按"原样"分发,不附带任何明示或暗示的担保或条件。请参阅管理许可证下的权限和限制的特定语言的许可证。
+ * 
+ */
+
+
+package com.sun.org.apache.xerces.internal.dom;
+import com.sun.org.apache.xerces.internal.utils.SecuritySupport;
+import java.util.Locale;
+import java.util.MissingResourceException;
+import java.util.ResourceBundle;
+
+/**
+ * Used to format DOM error messages, using the system locale.
+ *
+ * @xerces.internal
+ *
+ * <p>
+ *  用于使用系统语言环境格式化DOM错误消息。
+ * 
+ *  @ xerces.internal
+ * 
+ * 
+ * @author Sandy Gao, IBM
+ * @version $Id: DOMMessageFormatter.java,v 1.6 2010-11-01 04:39:38 joehw Exp $
+ */
+public class DOMMessageFormatter {
+    public static final String DOM_DOMAIN = "http://www.w3.org/dom/DOMTR";
+    public static final String XML_DOMAIN = "http://www.w3.org/TR/1998/REC-xml-19980210";
+    public static final String SERIALIZER_DOMAIN = "http://apache.org/xml/serializer";
+
+    private static ResourceBundle domResourceBundle = null;
+    private static ResourceBundle xmlResourceBundle = null;
+    private static ResourceBundle serResourceBundle = null;
+    private static Locale locale = null;
+
+
+    DOMMessageFormatter(){
+        locale = Locale.getDefault();
+    }
+    /**
+     * Formats a message with the specified arguments using the given
+     * locale information.
+     *
+     * <p>
+     *  使用给定的语言环境信息格式化具有指定参数的消息。
+     * 
+     * 
+     * @param domain    domain from which error string is to come.
+     * @param key       The message key.
+     * @param arguments The message replacement text arguments. The order
+     *                  of the arguments must match that of the placeholders
+     *                  in the actual message.
+     *
+     * @return          the formatted message.
+     *
+     * @throws MissingResourceException Thrown if the message with the
+     *                                  specified key cannot be found.
+     */
+    public static String formatMessage(String domain,
+    String key, Object[] arguments)
+    throws MissingResourceException {
+        ResourceBundle resourceBundle = getResourceBundle(domain);
+        if(resourceBundle == null){
+            init();
+            resourceBundle = getResourceBundle(domain);
+            if(resourceBundle == null)
+                throw new MissingResourceException("Unknown domain" + domain, null, key);
+        }
+        // format message
+        String msg;
+        try {
+            msg = key + ": " + resourceBundle.getString(key);
+            if (arguments != null) {
+                try {
+                    msg = java.text.MessageFormat.format(msg, arguments);
+                }
+                catch (Exception e) {
+                    msg = resourceBundle.getString("FormatFailed");
+                    msg += " " + resourceBundle.getString(key);
+                }
+            }
+        } // error
+        catch (MissingResourceException e) {
+            msg = resourceBundle.getString("BadMessageKey");
+            throw new MissingResourceException(key, msg, key);
+        }
+
+        // no message
+        if (msg == null) {
+            msg = key;
+            if (arguments.length > 0) {
+                StringBuffer str = new StringBuffer(msg);
+                str.append('?');
+                for (int i = 0; i < arguments.length; i++) {
+                    if (i > 0) {
+                        str.append('&');
+                    }
+                    str.append(String.valueOf(arguments[i]));
+                }
+            }
+        }
+
+        return msg;
+    }
+
+    static ResourceBundle getResourceBundle(String domain){
+        if(domain == DOM_DOMAIN || domain.equals(DOM_DOMAIN))
+            return domResourceBundle;
+        else if( domain == XML_DOMAIN || domain.equals(XML_DOMAIN))
+            return xmlResourceBundle;
+        else if(domain == SERIALIZER_DOMAIN || domain.equals(SERIALIZER_DOMAIN))
+            return serResourceBundle;
+        return null;
+    }
+    /**
+     * Initialize Message Formatter.
+     * <p>
+     *  初始化消息格式化程序。
+     * 
+     */
+    public static void init(){
+        if (locale != null) {
+            domResourceBundle = SecuritySupport.getResourceBundle("com.sun.org.apache.xerces.internal.impl.msg.DOMMessages", locale);
+            serResourceBundle = SecuritySupport.getResourceBundle("com.sun.org.apache.xerces.internal.impl.msg.XMLSerializerMessages", locale);
+            xmlResourceBundle = SecuritySupport.getResourceBundle("com.sun.org.apache.xerces.internal.impl.msg.XMLMessages", locale);
+        }else{
+            domResourceBundle = SecuritySupport.getResourceBundle("com.sun.org.apache.xerces.internal.impl.msg.DOMMessages");
+            serResourceBundle = SecuritySupport.getResourceBundle("com.sun.org.apache.xerces.internal.impl.msg.XMLSerializerMessages");
+            xmlResourceBundle = SecuritySupport.getResourceBundle("com.sun.org.apache.xerces.internal.impl.msg.XMLMessages");
+        }
+    }
+
+    /**
+     * setLocale to be used by the formatter.
+     * <p>
+     *  setLocale供格式化程序使用。
+     * 
+     * @param locale
+     */
+    public static void setLocale(Locale dlocale){
+        locale = dlocale;
+    }
+}
