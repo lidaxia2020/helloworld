@@ -1,0 +1,163 @@
+/***** Lobxxx Translate Finished ******/
+/*
+ * Copyright (c) 2000, 2004, Oracle and/or its affiliates. All rights reserved.
+ * ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ */
+package javax.print.attribute.standard;
+
+import javax.print.attribute.Attribute;
+import javax.print.attribute.SetOfIntegerSyntax;
+import javax.print.attribute.SupportedValuesAttribute;
+
+/**
+ * Class JobKOctetsSupported is a printing attribute class, a set of integers,
+ * that gives the supported values for a {@link JobKOctets JobKOctets}
+ * attribute. It is restricted to a single contiguous range of integers;
+ * multiple non-overlapping ranges are not allowed. This gives the lower and
+ * upper bounds of the total sizes of print jobs in units of K octets (1024
+ * octets) that the printer will accept.
+ * <P>
+ * <B>IPP Compatibility:</B> The JobKOctetsSupported attribute's canonical array
+ * form gives the lower and upper bound for the range of values to be included
+ * in an IPP "job-k-octets-supported" attribute. See class {@link
+ * javax.print.attribute.SetOfIntegerSyntax SetOfIntegerSyntax} for an
+ * explanation of canonical array form. The category name returned by
+ * <CODE>getName()</CODE> gives the IPP attribute name.
+ * <P>
+ *
+ * <p>
+ *  JobKOctetsSupported类是一个打印属性类,一组整数,给出{@link JobKOctets JobKOctets}属性支持的值。它限于单个连续的整数范围;不允许多个不重叠范围。
+ * 这给出了打印机将接受的K个字节(1024个八位字节)为单位的打印作业的总大小的下限和上限。
+ * <P>
+ *  <B> IPP兼容性：</B> JobKOctetsSupported属性的规范数组形式给出了要包括在IPP"job-k-octets-supported"属性中的值范围的下限和上限。
+ * 有关规范数组形式的解释,请参阅{@link javax.print.attribute.SetOfIntegerSyntax SetOfIntegerSyntax}类。
+ * 由<CODE> getName()</CODE>返回的类别名称给出了IPP属性名称。
+ * <P>
+ * 
+ * 
+ * @author  Alan Kaminsky
+ */
+public final class JobKOctetsSupported extends SetOfIntegerSyntax
+    implements SupportedValuesAttribute {
+
+    private static final long serialVersionUID = -2867871140549897443L;
+
+    /**
+     * Construct a new job K octets supported attribute containing a single
+     * range of integers. That is, only those values of JobKOctets in the one
+     * range are supported.
+     *
+     * <p>
+     *  构造一个新的作业K个字节支持的属性,包含单个整数范围。也就是说,只支持一个范围中的JobKOctets的那些值。
+     * 
+     * 
+     * @param  lowerBound  Lower bound of the range.
+     * @param  upperBound  Upper bound of the range.
+     *
+     * @exception  IllegalArgumentException
+     *  (Unchecked exception) Thrown if a null range is specified or if a
+     *  non-null range is specified with <CODE>lowerBound</CODE> less than
+     *   0.
+     */
+    public JobKOctetsSupported(int lowerBound, int upperBound) {
+        super (lowerBound, upperBound);
+        if (lowerBound > upperBound) {
+            throw new IllegalArgumentException("Null range specified");
+        } else if (lowerBound < 0) {
+            throw new IllegalArgumentException
+                ("Job K octets value < 0 specified");
+        }
+    }
+
+    /**
+     * Returns whether this job K octets supported attribute is equivalent to
+     * the passed in object. To be equivalent, all of the following conditions
+     * must be true:
+     * <OL TYPE=1>
+     * <LI>
+     * <CODE>object</CODE> is not null.
+     * <LI>
+     * <CODE>object</CODE> is an instance of class JobKOctetsSupported.
+     * <LI>
+     * This job K octets supported attribute's members and
+     * <CODE>object</CODE>'s members are the same.
+     * </OL>
+     *
+     * <p>
+     *  返回此作业的K个八位字节支持的属性是否等同于传入的对象。为了等效,所有以下条件必须为真：
+     * <OL TYPE=1>
+     * <LI>
+     *  <CODE>对象</CODE>不为空。
+     * <LI>
+     *  <CODE>对象</CODE>是JobKOctetsSupported类的实例。
+     * <LI>
+     *  这个作业K字节支持的属性成员和<CODE>对象</CODE>的成员是一样的。
+     * </OL>
+     * 
+     * 
+     * @param  object  Object to compare to.
+     *
+     * @return  True if <CODE>object</CODE> is equivalent to this job K
+     *          octets supported attribute, false otherwise.
+     */
+    public boolean equals(Object object) {
+        return (super.equals (object) &&
+                object instanceof JobKOctetsSupported);
+    }
+
+    /**
+     * Get the printing attribute class which is to be used as the "category"
+     * for this printing attribute value.
+     * <P>
+     * For class JobKOctetsSupported, the category is class
+     * JobKOctetsSupported itself.
+     *
+     * <p>
+     * 
+     * @return  Printing attribute class (category), an instance of class
+     *          {@link java.lang.Class java.lang.Class}.
+     */
+    public final Class<? extends Attribute> getCategory() {
+        return JobKOctetsSupported.class;
+    }
+
+    /**
+     * Get the name of the category of which this attribute value is an
+     * instance.
+     * <P>
+     * For class JobKOctetsSupported, the category name is
+     * <CODE>"job-k-octets-supported"</CODE>.
+     *
+     * <p>
+     * 获取要用作此打印属性值的"类别"的打印属性类。
+     * <P>
+     *  对于JobKOctetsSupported类,类别是JobKOctetsSupported类本身。
+     * 
+     * 
+     * @return  Attribute category name.
+     */
+    public final String getName() {
+        return "job-k-octets-supported";
+    }
+
+}
