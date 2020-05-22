@@ -185,6 +185,23 @@ public class StreamDemo {
         // 得到所有班级的学生个数
         Map<Integer, Long> gradesCount = students.stream().collect(Collectors.groupingBy(Student::getGrade, Collectors.counting()));
 
+
+        /**
+         * 流运行机制
+         * 1、所有操作是链式调用的，一个操作就执行一次
+         * 2、每一个中间操作返回一个新的流
+         *  流里面的一个属性sourceStage 执行同一个地方，就是Head
+         * 3、head -> nextStage -> nextStage -> .. -> null
+         * 4、有状态操作会把无状态操作阻断
+         */
+        final Stream<Integer> integerStream = Stream.generate(() -> random.nextInt())
+                .limit(500)
+                .peek(s1 -> System.out.print("peek" + s1))
+                .filter(s1 -> {
+                    return s1 > 1000;
+                });
+        integerStream
+                .count();
     }
 
     public static void debug(int i) {
