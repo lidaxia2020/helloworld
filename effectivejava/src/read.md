@@ -16,8 +16,13 @@
 
 ### 对于所有对象的通用方法
     - 覆盖重写equals时请遵守通用约定
-        -
+        - 自反性：对于任何非null的引用x,x.equals(x)必须返回true
+        - 对称性
+        - 传递性
+        - 一致性
+        - 对于任何非null的引用x，x.equals(null)必须返回false
     - 覆盖重写equlas时总要覆盖hashCode
+        -
     - 始终要覆盖toString
     - 谨慎的覆盖克隆
     - 考虑实现Comparable接口

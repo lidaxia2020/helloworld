@@ -135,7 +135,7 @@
 
 <img>
 
- ### 并发
+ ### 并发(还需回头仔细研究)
  - 使用Executor
  - 共享受限资源
     - 基本上所有的并发模式在解决线程冲突问题的时候，都是采用了序列化访问共享资源的方式
@@ -145,7 +145,16 @@
     - 原子类：CAS
     - 线程本地存储：ThreadLocal
  - 线程之间的协作
-    -
+    - wait()和notifyAll()
+        - wait():使任务被挂起
+    - 生产者和消费者
+    - 任务之间使用管道
+ - 新类库中的构建
+    - CountDownLatch
+    - CyclicBarrier
+    - DelayQueue
+    - PriorityBlockingQueue
+
 
  
  

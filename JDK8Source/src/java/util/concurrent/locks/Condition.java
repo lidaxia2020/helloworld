@@ -42,7 +42,7 @@ import java.util.Date;
  * methods ({@link Object#wait() wait}, {@link Object#notify notify}
  * and {@link Object#notifyAll notifyAll}) into distinct objects to
  * give the effect of having multiple wait-sets per object, by
- * combining them with the use of arbitrary {@link Lock} implementations.
+ * combining（结合） them with the use of arbitrary {@link Lock} implementations.
  * Where a {@code Lock} replaces the use of {@code synchronized} methods
  * and statements, a {@code Condition} replaces the use of the Object
  * monitor methods.

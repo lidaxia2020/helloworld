@@ -3142,7 +3142,7 @@ public final class String
     }
 
     /**
-     * Returns a canonical representation for the string object.
+     * Returns a canonical(典范) representation（表示） for the string object.
      * <p>
      * A pool of strings, initially empty, is maintained privately by the
      * class {@code String}.
