@@ -1,0 +1,7 @@
+
+
+-Xmx20m                 最大内存
+-Xms20m                 最小内存
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:HeapDumpPath=D:\ideause\git\helloworld\deepJvm\src
+-XX:+PrintGCDetails     打印gc日志
