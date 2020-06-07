@@ -2,6 +2,7 @@ package gc;
 
 import sun.security.krb5.internal.TGSRep;
 
+import java.io.UnsupportedEncodingException;
 import java.util.Arrays;
 
 /**
@@ -26,7 +27,12 @@ public class FinalizeEscapeGc {
         FinalizeEscapeGc.SAVE_HOOK = this;
     }
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, UnsupportedEncodingException {
+        
+        String s = "abc芬达";
+        byte[] bytes = s.getBytes("UTF-8");
+
+        System.out.println("args = " + bytes.toString());
         SAVE_HOOK = new FinalizeEscapeGc();
 
         // 第一次自救

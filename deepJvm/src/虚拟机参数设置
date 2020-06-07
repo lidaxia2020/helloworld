@@ -2,6 +2,8 @@
 
 -Xmx20m                 最大内存
 -Xms20m                 最小内存
--XX:+HeapDumpOnOutOfMemoryError
--XX:HeapDumpPath=D:\ideause\git\helloworld\deepJvm\src
+-Xmn10m                 设置年轻代的大小
+-Xss128k                设置每个线程的堆栈大小
+-XX:+HeapDumpOnOutOfMemoryError                  设置出现内存溢出时,内存快照的保存路径
+-XX:HeapDumpPath=D:\ideause\git\helloworld\deepJvm\src        设置日志保存路径
 -XX:+PrintGCDetails     打印gc日志

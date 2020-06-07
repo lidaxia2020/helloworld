@@ -51,5 +51,51 @@
         - 新生代每次收集都发现有大量对象死去，只有少数存活
     - 标记整理算法（老年代使用）
         - 老年代对象存活率高，没有额外空间做担保
+- 垃圾收集器
+    - Serial收集器（复制算法）
+        - 这是一个“单线程”的收集器，并且他进行收集垃圾的时候，必须暂停其他所有的工作线程，直到它收集结束。--“stop the world”
+        - 适用于client模式下的虚拟机
+    - ParNew收集器（复制算法）
+        - 是Serial收集器升级版本，并且目前只有他能和CMS收集器配合使用
+    - Parallel Scavenge收集器
+        - 关注点是达到一个可控制的额吞吐量（吞吐量=运行用户的代码时间/（运行用户的代码时间+垃圾收集时间））
+    - Serial Old收集器（标记-整理算法）
+    - Parallel Old收集器（标记-整理算法）
+    - CMS收集器（Concurrent Mark Sweep）
+        - 初始标记
+            - “stop the world”;只是标记了一下GC Roots能直接关联到的对象
+        - 并发标记
+        - 重新标记
+            - “stop the world”;
+        - 并发清除
+    - G1收集器
+        - 并行和并发
+        - 分代收集
+        - 空间整合
+        - 可预测停顿
+- 理解GC日志
+- 垃圾收集器参数总结
+- 内存分配与回收策略
+    - 对象优先分配在Eden区
+    - 大对象直接进入老年代
+    - 长期存活的对象将进入老年代
+    - 动态对象年龄判断
+    - 空间分配担保
+### 虚拟机性能监控与故障处理
+- JDK的命令行工具
+    - jps 显示指定系统内所有的HotSpot虚拟机进程（jps -l）
+        - 命令格式：jps [option] [hostid(远程注册及名)]
+    - jstat 用于收集HotSpot虚拟机各方面运行时数据
+        - jstat [option vmid [interval[s|ms][count]]
+    - jinof 显示虚拟机配置信息
+    - jmap 生成虚拟机内存转储快照（heapdump文件）
+        - 格式：jmap [option] vmid
+    - jhat 用于分析heapdump文件，它会建立一个Http/Html服务器，让用户可以在浏览器查看
+    - jstack 显示虚拟机的线程快照
+- JDK可视化工具
+    - JConsole:Java监视与管理控制台
+    - VisualVM
+        - Profiler插件
+        - BTrace动态日志跟踪插件
+### 调优案例分析与实战
 -
-
