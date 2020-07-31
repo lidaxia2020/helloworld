@@ -1,0 +1,8 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬íü×
+o
+squid:S135^"YReduce the total number of break and continue statements in this loop to use at most one.(ªËªó
+Zsquid:S001070"=Method has 11 parameters, which is greater than 7 authorized.(Ëå«Êÿÿÿÿÿ
+Vsquid:S00107¸"=Method has 14 parameters, which is greater than 7 authorized.(³³Íÿ
+Vsquid:S1118-":Add a private constructor to hide the implicit public one.(ù¾¤¼þÿÿÿÿ
+nsquid:S37760"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ëå«Êÿÿÿÿÿ

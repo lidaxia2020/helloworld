@@ -1,0 +1,9 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(úÊÛí
+šsquid:S1192x"~Define a constant instead of duplicating this literal "com.sun.org.apache.xerces.internal.impl.msg.XMLSchemaMessages" 3 times.(™âÓıÿÿÿÿ
+asquid:UselessImportCheck#"=Remove this unused import 'java.util.PropertyResourceBundle'.(ä÷¶¾
+3squid:S1165>"Make this "key" field final.(ü‡²À
+4squid:S1165?"Make this "args" field final.(˜Óàø
+=squid:S1948?"&Make "args" transient or serializable.(˜Óàø
+Nsquid:S1161v":Add the "@Override" annotation above this method signature(‡+
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

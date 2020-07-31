@@ -1,0 +1,36 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¼¤êµ
+Gsquid:S1066ø"/Merge this if statement with the enclosing one.(Ò½ˆ
+u
+squid:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(ºÕ®»úÿÿÿÿ
+p
+squid:S135Ì"YReduce the total number of break and continue statements in this loop to use at most one.(ÿúá·
+Vsquid:S4973–"9Use the "equals" method if value comparison was intended.(¥æ¿ùÿÿÿÿ
+dsquid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(ä‰Ì­úÿÿÿÿ
+dsquid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(ÿ¹¦®ıÿÿÿÿ
+dsquid:S00112Î"FDefine and throw a dedicated exception instead of using a generic one.(ÿ¹¦®ıÿÿÿÿ
+isquid:S00116>"QRename this field "m_axis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şıİ¥
+vsquid:S00116s"YRename this field "m_targetString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ĞÎöüÿÿÿÿ
+~squid:S00116»"`Rename this field "m_relativePathPattern" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ší¹üÿÿÿÿ
+psquid:S00116¥"WRename this field "m_predicates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÕ©‘
+}squid:S1149Ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+|squid:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+usquid:S3252–"XUse static access with "com.sun.org.apache.xpath.internal.patterns.NodeTest" for "WILD".(¥æ¿ùÿÿÿÿ
+Rsquid:S2209–"5Change this instance-reference to a static reference.(¥æ¿ùÿÿÿÿ
+Wsquid:S1161¶":Add the "@Override" annotation above this method signature(ö™±¨ûÿÿÿÿ
+Rsquid:S1161„":Add the "@Override" annotation above this method signature(ÎşÃÇ
+Wsquid:S1161¥":Add the "@Override" annotation above this method signature(¬¥àÄøÿÿÿÿ
+Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(Îé¯Õ
+Rsquid:S1161à":Add the "@Override" annotation above this method signature(ÖÆñ°
+osquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ë¹†òùÿÿÿÿ
+Jsquid:S1135ß"2Complete the task associated to this TODO comment.(÷ØøÊ
+jsquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ß¾Òî
+Jsquid:S1135Í"2Complete the task associated to this TODO comment.(÷ØøÊ
+osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ßÔü²şÿÿÿÿ
+ksquid:S00116µ"RRename this field "m_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§¾°
+Qsquid:S1161Ø":Add the "@Override" annotation above this method signature(¤¼ú<
+Wsquid:S1161–	":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
+Isquid:S1068ë"1Remove this unused "DEBUG_MATCHES" private field.(üË’¦
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(±ËÕØøÿÿÿÿ

@@ -1,0 +1,71 @@
+
+Š squid:ForLoopCounterChangedCheck‘"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğÛÀøÿÿÿÿ
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
+Lsquid:S1066‹"/Merge this if statement with the enclosing one.(ˆºúğıÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckî".Extract the assignment out of this expression.(´¹Şö
+Vsquid:S4973œ"9Use the "equals" method if value comparison was intended.(á—šæÿÿÿÿÿ
+osquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†šüÿÿÿÿ
+osquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†šüÿÿÿÿ
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+Gsquid:S2160a"+Override the "equals" method in this class.(§‘£óùÿÿÿÿ
+ºsquid:S1845¼"¡Rename method "reset" to prevent any misunderstanding/clash with field "RESET" defined in interface "com.sun.org.apache.xalan.internal.xsltc.compiler.Constants".(±‚ÿÛ
+ssquid:S00116j"VRename this field "_mapTypeSub" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÆİÒÿÿÿÿÿ
+psquid:S00116w"XRename this field "_iloadCurrent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úù’ø
+qsquid:S00116x"YRename this field "_istoreCurrent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†–ŠÛ
+vsquid:S00116y"YRename this field "_astoreHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹—¿ùÿÿÿÿ
+usquid:S00116z"XRename this field "_aloadHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯È£…úÿÿÿÿ
+wsquid:S00116{"ZRename this field "_astoreIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÎËàùÿÿÿÿ
+vsquid:S00116|"YRename this field "_aloadIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ãÁıûÿÿÿÿ
+ksquid:S00116}"TRename this field "_aloadDom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å˜Ów
+lsquid:S00116~"URename this field "_astoreDom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ™‡%
+qsquid:S00116€"XRename this field "_startElement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Œò¸
+osquid:S00116"VRename this field "_endElement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œµ÷
+rsquid:S00116‚"YRename this field "_startDocument" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‚À
+usquid:S00116ƒ"WRename this field "_endDocument" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯£ÿÂüÿÿÿÿ
+ssquid:S00116„"URename this field "_attribute" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÙÖÖşÿÿÿÿ
+tsquid:S00116…"[Rename this field "_uniqueAttribute" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œü«™
+nsquid:S00116†"URename this field "_namespace" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÃÔ¨
+qsquid:S00116ˆ"XRename this field "_setStartNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ª¯Ù
+osquid:S00116‰"QRename this field "_reset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ºĞ²øÿÿÿÿ
+rsquid:S00116Š"TRename this field "_nextNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒæîÉúÿÿÿÿ
+wsquid:S00116Œ"YRename this field "_slotAllocator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄ…Šüÿÿÿÿ
+rsquid:S00116"YRename this field "_allocatorInit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éøíß
+squid:S00116"aRename this field "_localVariableRegistry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şä­×ıÿÿÿÿ
+osquid:S00116˜"WRename this field "_preCompiled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÅ¹
+qsquid:S00116½"XRename this field "m_totalChunks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å“ÚÃ
+psquid:S00116Æ"WRename this field "m_openChunks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù³óò
+msquid:S1149˜"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ˆÅ¹
+msquid:S1149Ç"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾†’¸ûÿÿÿÿ
+Wsquid:S1161õ":Add the "@Override" annotation above this method signature(ÇÖÃıÿÿÿÿ
+ssquid:S00116À"URename this field "_variables" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŒöÍüÿÿÿÿ
+vsquid:S00116È"XRename this field "_nameToLVGMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ì»ùşÿÿÿÿ
+jsquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(±–ŞÒ
+Rsquid:S1161š":Add the "@Override" annotation above this method signature(ÔÊ‘ì
+Vsquid:S1854†">Remove this useless assignment to local variable "prevLocals".(ªÇ¦³
+Rsquid:S1161‚":Add the "@Override" annotation above this method signature(’µËÑ
+vsquid:S1210°"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Œ³à¢øÿÿÿÿ
+psquid:S00116º"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹®©üÿÿÿÿ
+isquid:S00116Ã"PRename this field "m_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å­‡
+osquid:S00116Ì"QRename this field "m_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—É€ˆùÿÿÿÿ
+jsquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ìÒ×
+Gsquid:S1172Â"/Remove this unused method parameter "classGen".(ìÒ×
+jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(½•à
+ksquid:S3776Ú
+"SRefactor this method to reduce its Cognitive Complexity from 137 to the 15 allowed.(º¿ï¬
+Rsquid:S1854":Remove this useless assignment to local variable "newLVG".(çñ«
+Rsquid:S1161“":Add the "@Override" annotation above this method signature(áÃõ™
+jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(Ìˆü¶
+V"squid:SwitchLastCaseIsDefaultCheck‡""Add a default case to this switch.(™ñëÿÿÿÿÿ
+Gsquid:S1481†"/Remove this unused "prevLocals" local variable.(ªÇ¦³
+Ksquid:S1068j"/Remove this unused "_mapTypeSub" private field.(ÃÆİÒÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§¶¢¹úÿÿÿÿ
+csquid:CommentedOutCodeLineë
+"<This block of commented-out lines of code should be removed.(„ ½ë
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(¢›˜öşÿÿÿÿ
+csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(àğõ
+csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(ÊøÕ
+hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(’¿å½ûÿÿÿÿ

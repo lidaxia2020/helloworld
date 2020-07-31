@@ -1,0 +1,23 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+u
+squid:S135€"YReduce the total number of break and continue statements in this loop to use at most one.(š­±üÿÿÿÿ
+psquid:UselessImportCheck("LRemove this unused import 'com.sun.org.apache.bcel.internal.generic.ASTORE'.(Ç± Ó
+zsquid:UselessImportCheck,"VRemove this unused import 'com.sun.org.apache.bcel.internal.generic.LocalVariableGen'.(ñ‚õ«
+osquid:UselessImportCheck'"KRemove this unused import 'com.sun.org.apache.bcel.internal.generic.ALOAD'.(èËÌØ
+hsquid:S00116F"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ù™ï
+ssquid:S00116P"VRename this field "_parameters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÃ©Ïÿÿÿÿÿ
+wsquid:S00116X"ZRename this field "_calleeTemplate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®²ã˜øÿÿÿÿ
+wsquid:S1149¬"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ø²Íé
+}squid:S1149±"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÃÓÈæ
+}squid:S1149î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼³Òş
+Vsquid:S1161Z":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
+T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(²§Ç™øÿÿÿÿ
+Qsquid:S1161e":Add the "@Override" annotation above this method signature(ÁØ’›
+Vsquid:S1161z":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+Xsquid:S1854±"@Remove this useless assignment to local variable "calleeParams".(ÃÓÈæ
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(†“‹Ø
+jsquid:S1871‰"MThis branch's code block is the same as the block for the branch on line 259.(×ğÔøÿÿÿÿ
+Isquid:S1481±"1Remove this unused "calleeParams" local variable.(ÃÓÈæ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

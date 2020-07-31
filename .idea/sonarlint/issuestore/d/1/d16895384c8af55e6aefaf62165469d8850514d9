@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ç­ìÞþÿÿÿÿ
+rsquid:S1488-"[Immediately return this expression instead of assigning it to the temporary variable "dbf".(ê’È˜
+vsquid:S14886"_Immediately return this expression instead of assigning it to the temporary variable "factory".(ê’È˜
+Qsquid:S1118&":Add a private constructor to hide the implicit public one.(¾»æ«
+osquid:ModifiersOrderCheck+"EReorder the modifiers to comply with the Java Language Specification.(û±Ì¡ûÿÿÿÿ
+Dsquid:S2755."-Disable XML external entity (XXE) processing.(”¹¡Ù
+Isquid:S2755/"-Disable XML external entity (XXE) processing.(Š½­Ðûÿÿÿÿ
+osquid:ModifiersOrderCheck4"EReorder the modifiers to comply with the Java Language Specification.(ŽÐ”ëþÿÿÿÿ
+Isquid:S27557"-Disable XML external entity (XXE) processing.(åÎõŽüÿÿÿÿ
+Dsquid:S27558"-Disable XML external entity (XXE) processing.(¸½Ã 

@@ -1,0 +1,8 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
+—squid:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒœ‰.
+squid:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†è¼âúÿÿÿÿ
+˜squid:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”æô
+squid:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©…£ şÿÿÿÿ
+˜squid:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øé
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

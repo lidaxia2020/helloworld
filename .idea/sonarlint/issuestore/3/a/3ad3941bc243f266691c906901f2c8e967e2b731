@@ -1,0 +1,23 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
+asquid:S2259‚"IA "NullPointerException" could be thrown; "memberType()" can return null.(ºÿ Í
+hsquid:S2259Ô"PA "NullPointerException" could be thrown; "discriminatorType()" can return null.(å½ğ 
+fsquid:S2259«"IA "NullPointerException" could be thrown; "memberLabel" is nullable here.(±ÜèÁüÿÿÿÿ
+usquid:UselessImportCheck*"QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
+rsquid:UselessImportCheck)"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
+Fsquid:S00108q")Either remove or fill this block of code.(®¾ö·şÿÿÿÿ
+Fsquid:S00108z")Either remove or fill this block of code.(®¾ö·şÿÿÿÿ
+bsquid:S2147„"ECombine this catch with the one at line 131, which has the same body.(»ıÕ‚şÿÿÿÿ
+Gsquid:S00108ƒ")Either remove or fill this block of code.(®¾ö·şÿÿÿÿ
+Gsquid:S00108„")Either remove or fill this block of code.(»ıÕ‚şÿÿÿÿ
+bsquid:S2147"ECombine this catch with the one at line 141, which has the same body.(»ıÕ‚şÿÿÿÿ
+Gsquid:S00108")Either remove or fill this block of code.(®¾ö·şÿÿÿÿ
+Gsquid:S00108")Either remove or fill this block of code.(»ıÕ‚şÿÿÿÿ
+bsquid:S2147˜"ECombine this catch with the one at line 151, which has the same body.(»ıÕ‚şÿÿÿÿ
+Gsquid:S00108—")Either remove or fill this block of code.(®¾ö·şÿÿÿÿ
+Gsquid:S00108˜")Either remove or fill this block of code.(»ıÕ‚şÿÿÿÿ
+Gsquid:S00108¡")Either remove or fill this block of code.(®¾ö·şÿÿÿÿ
+Gsquid:S00108ü")Either remove or fill this block of code.(†ú¾¯ıÿÿÿÿ
+Gsquid:S00108")Either remove or fill this block of code.(†ú¾¯ıÿÿÿÿ
+Fsquid:S1125Í")Remove the literal "false" boolean value.(ñ¶ØÂúÿÿÿÿ
+bsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(ŠÉÅø

@@ -1,0 +1,148 @@
+
+Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+9squid:S1214""Move constants to a class or enum.(·æ“
+wsquid:S00115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØÀ¨úÿÿÿÿÿ
+wsquid:S001150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜ îĞüÿÿÿÿ
+rsquid:S00115<"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÍ˜¡
+qsquid:S00115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©§²I
+rsquid:S00115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿö¢Ş
+rsquid:S00115Z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓóüÇ
+rsquid:S00115d"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÓÂ
+rsquid:S00115l"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ²İÁ
+rsquid:S00115t"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€ã£©
+rsquid:S00115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿäº©
+xsquid:S00115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ã¸­øÿÿÿÿ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªàşø
+ssquid:S00115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü¿üÍ
+xsquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·®øãûÿÿÿÿ
+ssquid:S00115¨"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ª¦
+ssquid:S00115°"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ£¶º
+ssquid:S00115¹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾¤Òù
+ssquid:S00115Á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÎíù
+xsquid:S00115É"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ëû¶ùÿÿÿÿ
+ssquid:S00115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦Ò×Â
+xsquid:S00115Ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Ã±·ıÿÿÿÿ
+xsquid:S00115ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÇÖÁŠùÿÿÿÿ
+rsquid:S00115ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñè¿_
+ssquid:S00115ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿòÇ»
+ssquid:S00115ü"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·¤©î
+xsquid:S00115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä“¥ßüÿÿÿÿ
+xsquid:S00115Œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«§ø­ÿÿÿÿÿ
+xsquid:S00115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À‹½şÿÿÿÿ
+xsquid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ì®—¾ıÿÿÿÿ
+ssquid:S00115§"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö…€
+ssquid:S00115¯"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤ù¥½
+xsquid:S00115·"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôĞ­áøÿÿÿÿ
+ssquid:S00115¿"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š‰®®
+ssquid:S00115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( Ò¨£
+xsquid:S00115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â¨øùÿÿÿÿ
+ssquid:S00115×"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÂâĞş
+ssquid:S00115ß"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦ª¤Ÿ
+ssquid:S00115ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆæÑ
+xsquid:S00115ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÈãÉÚüÿÿÿÿ
+xsquid:S00115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(üù·½ıÿÿÿÿ
+xsquid:S00115ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ªËùÿÿÿÿ
+ssquid:S00115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š´İ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë¢€ë
+ssquid:S00115—"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Øê¸ã
+xsquid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ºáæßùÿÿÿÿ
+xsquid:S00115§"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×ËÜ¶ÿÿÿÿÿ
+xsquid:S00115¯"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’ßÌÆÿÿÿÿÿ
+xsquid:S00115º"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğîï¢ÿÿÿÿÿ
+xsquid:S00115Å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß‹ıÀÿÿÿÿÿ
+xsquid:S00115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×Ã¨ıÿÿÿÿ
+ssquid:S00115Û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£†œ
+xsquid:S00115è"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹¯¿÷ùÿÿÿÿ
+xsquid:S00115ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏŠëÇùÿÿÿÿ
+ssquid:S00115ú"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ƒ–ı
+xsquid:S00115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä«‡ãıÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç¡â}
+ssquid:S00115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤›Ú§
+ssquid:S00115¢"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ïœ‰—
+rsquid:S00115°"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úœÅ$
+ssquid:S00115º"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™²½à
+ssquid:S00115Ã"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãş¾ÿ
+xsquid:S00115Ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â¶ŒÌÿÿÿÿÿ
+ssquid:S00115Ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š±Ü•
+xsquid:S00115ß"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½îšæúÿÿÿÿ
+xsquid:S00115ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šºØúÿÿÿÿ
+xsquid:S00115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓÔñşÿÿÿÿ
+xsquid:S00115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤»œúÿÿÿÿ
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ª¨«õşÿÿÿÿ
+ssquid:S00115›"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²—¦Ä
+xsquid:S00115§"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ…Áàùÿÿÿÿ
+xsquid:S00115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àÛËÛúÿÿÿÿ
+xsquid:S00115½"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À²Ãóşÿÿÿÿ
+xsquid:S00115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆú“ãøÿÿÿÿ
+xsquid:S00115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î¡Ï—úÿÿÿÿ
+xsquid:S00115Û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°Şô‰úÿÿÿÿ
+ssquid:S00115å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²à›«
+ssquid:S00115ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûå¨÷
+ssquid:S00115û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸Ã‡
+xsquid:S00115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Äú¥Àÿÿÿÿÿ
+jsquid:ModifiersOrderCheckl"EReorder the modifiers to comply with the Java Language Specification.(Æ²İÁ
+jsquid:ModifiersOrderCheckt"EReorder the modifiers to comply with the Java Language Specification.(€ã£©
+jsquid:ModifiersOrderCheck|"EReorder the modifiers to comply with the Java Language Specification.(ÿäº©
+psquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(Ã¸­øÿÿÿÿ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ªàşø
+8squid:S2437" Remove this silly bit operation.(ªàşø
+ksquid:ModifiersOrderCheck˜"EReorder the modifiers to comply with the Java Language Specification.(ü¿üÍ
+psquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(·®øãûÿÿÿÿ
+ksquid:ModifiersOrderCheck¨"EReorder the modifiers to comply with the Java Language Specification.(¼ª¦
+ksquid:ModifiersOrderCheck°"EReorder the modifiers to comply with the Java Language Specification.(µ£¶º
+ksquid:ModifiersOrderCheck¹"EReorder the modifiers to comply with the Java Language Specification.(¾¤Òù
+ksquid:ModifiersOrderCheckÁ"EReorder the modifiers to comply with the Java Language Specification.(ÖÎíù
+psquid:ModifiersOrderCheckÉ"EReorder the modifiers to comply with the Java Language Specification.(Ëû¶ùÿÿÿÿ
+ksquid:ModifiersOrderCheckÑ"EReorder the modifiers to comply with the Java Language Specification.(¦Ò×Â
+psquid:ModifiersOrderCheckÙ"EReorder the modifiers to comply with the Java Language Specification.(¨Ã±·ıÿÿÿÿ
+psquid:ModifiersOrderCheckŸ"EReorder the modifiers to comply with the Java Language Specification.(ì®—¾ıÿÿÿÿ
+ksquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(Ö…€
+ksquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(¤ù¥½
+psquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(ôĞ­áøÿÿÿÿ
+ksquid:ModifiersOrderCheck¿"EReorder the modifiers to comply with the Java Language Specification.(Š‰®®
+ksquid:ModifiersOrderCheckÇ"EReorder the modifiers to comply with the Java Language Specification.( Ò¨£
+psquid:ModifiersOrderCheckÏ"EReorder the modifiers to comply with the Java Language Specification.(â¨øùÿÿÿÿ
+ksquid:ModifiersOrderCheck×"EReorder the modifiers to comply with the Java Language Specification.(ÂâĞş
+ksquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(¦ª¤Ÿ
+ksquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(ˆæÑ
+psquid:ModifiersOrderCheckï"EReorder the modifiers to comply with the Java Language Specification.(ÈãÉÚüÿÿÿÿ
+psquid:ModifiersOrderCheck÷"EReorder the modifiers to comply with the Java Language Specification.(üù·½ıÿÿÿÿ
+psquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(‹ªËùÿÿÿÿ
+ksquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(Š´İ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ë¢€ë
+ksquid:ModifiersOrderCheck—"EReorder the modifiers to comply with the Java Language Specification.(Øê¸ã
+psquid:ModifiersOrderCheckŸ"EReorder the modifiers to comply with the Java Language Specification.(ºáæßùÿÿÿÿ
+psquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(×ËÜ¶ÿÿÿÿÿ
+psquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(’ßÌÆÿÿÿÿÿ
+psquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(Ğîï¢ÿÿÿÿÿ
+psquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(ß‹ıÀÿÿÿÿÿ
+psquid:ModifiersOrderCheckĞ"EReorder the modifiers to comply with the Java Language Specification.(×Ã¨ıÿÿÿÿ
+ksquid:ModifiersOrderCheckÛ"EReorder the modifiers to comply with the Java Language Specification.(£†œ
+psquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(‹¯¿÷ùÿÿÿÿ
+psquid:ModifiersOrderCheckñ"EReorder the modifiers to comply with the Java Language Specification.(ÏŠëÇùÿÿÿÿ
+ksquid:ModifiersOrderCheckú"EReorder the modifiers to comply with the Java Language Specification.(¬ƒ–ı
+psquid:ModifiersOrderCheck„"EReorder the modifiers to comply with the Java Language Specification.(Ä«‡ãıÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ç¡â}
+ksquid:ModifiersOrderCheck˜"EReorder the modifiers to comply with the Java Language Specification.(¤›Ú§
+ksquid:ModifiersOrderCheck¢"EReorder the modifiers to comply with the Java Language Specification.(Ïœ‰—
+jsquid:ModifiersOrderCheck°"EReorder the modifiers to comply with the Java Language Specification.(úœÅ$
+ksquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(™²½à
+ksquid:ModifiersOrderCheckÃ"EReorder the modifiers to comply with the Java Language Specification.(ãş¾ÿ
+psquid:ModifiersOrderCheckÌ"EReorder the modifiers to comply with the Java Language Specification.(Â¶ŒÌÿÿÿÿÿ
+ksquid:ModifiersOrderCheckÖ"EReorder the modifiers to comply with the Java Language Specification.(š±Ü•
+psquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(½îšæúÿÿÿÿ
+psquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(šºØúÿÿÿÿ
+psquid:ModifiersOrderCheck÷"EReorder the modifiers to comply with the Java Language Specification.(ÓÔñşÿÿÿÿ
+psquid:ModifiersOrderCheckƒ"EReorder the modifiers to comply with the Java Language Specification.(¤»œúÿÿÿÿ
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ª¨«õşÿÿÿÿ
+ksquid:ModifiersOrderCheck›"EReorder the modifiers to comply with the Java Language Specification.(²—¦Ä
+psquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(Ÿ…Áàùÿÿÿÿ
+psquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(àÛËÛúÿÿÿÿ
+psquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(À²Ãóşÿÿÿÿ
+psquid:ModifiersOrderCheckÇ"EReorder the modifiers to comply with the Java Language Specification.(ˆú“ãøÿÿÿÿ
+psquid:ModifiersOrderCheckÑ"EReorder the modifiers to comply with the Java Language Specification.(î¡Ï—úÿÿÿÿ
+psquid:ModifiersOrderCheckÛ"EReorder the modifiers to comply with the Java Language Specification.(°Şô‰úÿÿÿÿ
+ksquid:ModifiersOrderCheckå"EReorder the modifiers to comply with the Java Language Specification.(²à›«
+ksquid:ModifiersOrderCheckğ"EReorder the modifiers to comply with the Java Language Specification.(ûå¨÷
+ksquid:ModifiersOrderCheckû"EReorder the modifiers to comply with the Java Language Specification.(¸Ã‡
+psquid:ModifiersOrderCheck…"EReorder the modifiers to comply with the Java Language Specification.(Äú¥Àÿÿÿÿÿ

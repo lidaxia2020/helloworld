@@ -1,0 +1,4 @@
+
+Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+squid:S1149U"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŞŸ£´ıÿÿÿÿ
+Bsquid:S1452U"&Remove usage of generic wildcard type.(ŞŸ£´ıÿÿÿÿ

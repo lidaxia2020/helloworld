@@ -1,0 +1,10 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+u
+squid:S135Õ"YReduce the total number of break and continue statements in this loop to use at most one.(Ñ±½›şÿÿÿÿ
+Zsquid:S00107Š"<Method has 8 parameters, which is greater than 7 authorized.(ƒÆ»ûÿÿÿÿ
+Vsquid:S11181":Add a private constructor to hide the implicit public one.(ş³ËÑûÿÿÿÿ
+Dsquid:S1125H"(Remove the literal "true" boolean value.(êÂÕØøÿÿÿÿ
+nsquid:S3776X"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÂñÒûÿÿÿÿ
+Usquid:S1854]"9Remove this useless assignment to local variable "color".(Ÿ¡ ¿üÿÿÿÿ
+esquid:S1871ß"MThis branch's code block is the same as the block for the branch on line 219.(ÕéÛÈ

@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ĞµŒëşÿÿÿÿ
+esquid:S001012"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò
+Vsquid:UselessImportCheck"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+psquid:UselessImportCheck+"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
+nsquid:UselessImportCheck*"ERemove this unused import 'com.sun.corba.se.impl.orbutil.ORBUtility'.(×˜´ùşÿÿÿÿ
+rsquid:UselessImportCheck)"NRemove this unused import 'com.sun.corba.se.impl.orbutil.concurrent.SyncUtil'.(ÂŠ¨‹

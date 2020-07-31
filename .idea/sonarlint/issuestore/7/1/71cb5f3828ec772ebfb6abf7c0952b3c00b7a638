@@ -1,0 +1,7 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÑøŠÑ
+csquid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(¼‘øóşÿÿÿÿ
+]squid:S2147Œ"ECombine this catch with the one at line 266, which has the same body.(ï­£Ä
+Vsquid:S4719é"9Replace charset name argument with StandardCharsets.UTF_8(ºÑÏ«ÿÿÿÿÿ
+vsquid:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ¸Œõúÿÿÿÿ
+vsquid:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ¸Œõúÿÿÿÿ

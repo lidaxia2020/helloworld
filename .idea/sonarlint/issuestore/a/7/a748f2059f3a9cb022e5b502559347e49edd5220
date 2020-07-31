@@ -1,0 +1,50 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(„·Ìú
+esquid:S1192ç"HDefine a constant instead of duplicating this literal "isValid" 3 times.(¼½Œıÿÿÿÿ
+`squid:S1192Œ"HDefine a constant instead of duplicating this literal "destroy" 4 times.(—óú¼
+_squid:UselessImportCheck$";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+usquid:UselessImportCheck-"LRemove this unused import 'com.sun.corba.se.spi.activation.IIOP_CLEAR_TEXT'.(†¶½¾üÿÿÿÿ
+Msquid:UselessImportCheck3")Remove this unused import 'java.io.File'.(†Ğ¥Å
+Csquid:S1659g"'Declare "classPath" on a separate line.(·ó¥ßûÿÿÿÿ
+Asquid:S1659g"%Declare "fileSep" on a separate line.(·ó¥ßûÿÿÿÿ
+Asquid:S1659g"%Declare "pathSep" on a separate line.(·ó¥ßûÿÿÿÿ
+rsquid:S00115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ª–ôô
+wsquid:S00115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È¹¤Àøÿÿÿÿ
+jsquid:ModifiersOrderCheck;"EReorder the modifiers to comply with the Java Language Specification.(İŞò
+osquid:ModifiersOrderCheck<"EReorder the modifiers to comply with the Java Language Specification.(£Ó“Îùÿÿÿÿ
+jsquid:ModifiersOrderCheck="EReorder the modifiers to comply with the Java Language Specification.(Öª¯Ú
+osquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(¹êÈËùÿÿÿÿ
+jsquid:ModifiersOrderCheck?"EReorder the modifiers to comply with the Java Language Specification.(ĞŒâË
+jsquid:ModifiersOrderCheckR"EReorder the modifiers to comply with the Java Language Specification.(ª–ôô
+?squid:S1125˜"(Remove the literal "true" boolean value.(Òæ=
+P
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(Ê÷¨À
+U
+squid:S106°"9Replace this use of System.out or System.err by a logger.(šíÑúÿÿÿÿ
+P
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(¯ªÌ®
+P
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(šú¡
+U
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(ıëÍÜıÿÿÿÿ
+P
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(âÇä
+U
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(º»çù
+Ssquid:S1854Õ";Remove this useless assignment to local variable "exitVal".(ÿí£Í
+Ssquid:S1854í";Remove this useless assignment to local variable "exitVal".(ÿí£Í
+osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(³ª¼øÿÿÿÿ
+Gsquid:S00108Œ")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Ş°—¿ùÿÿÿÿ
+Gsquid:S00108¾")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+U
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(”Ùêûÿÿÿÿ
+Dsquid:S1481Õ",Remove this unused "exitVal" local variable.(ÿí£Í
+Dsquid:S1481í",Remove this unused "exitVal" local variable.(ÿí£Í
+Isquid:S1068Z"-Remove this unused "serverDef" private field.(¦…Âşÿÿÿÿ
+csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(Ñ÷Æ
+csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(ì‘òŠ
+csquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ì‘òŠ

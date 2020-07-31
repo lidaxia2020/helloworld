@@ -1,0 +1,6 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+lsquid:S001165"TRename this field "_elements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ıµô
+|squid:S11495"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(²ıµô
+squid:S1149Q"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Àû¹Ãøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

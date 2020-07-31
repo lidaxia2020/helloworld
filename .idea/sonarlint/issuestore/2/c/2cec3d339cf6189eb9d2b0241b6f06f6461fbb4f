@@ -1,0 +1,8 @@
+
+p
+squid:S135Α"YReduce the total number of break and continue statements in this loop to use at most one.(όμÿό
+o
+squid:S135Ϋ"YReduce the total number of break and continue statements in this loop to use at most one.(φούT
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(γψ©Ζώÿÿÿÿ
+Hsquid:S1150"+Implement Iterator rather than Enumeration.(‹†‡όÿÿÿÿ
+jsquid:S3776Ω"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ε©·Ϊ

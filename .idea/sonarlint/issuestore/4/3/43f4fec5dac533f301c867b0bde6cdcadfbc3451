@@ -1,0 +1,26 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+Lsquid:S1066Š"/Merge this if statement with the enclosing one.(Úîêıÿÿÿÿ
+Gsquid:S1066‘"/Merge this if statement with the enclosing one.(ŒâÒ½
+^$squid:AssignmentInSubExpressionCheckH".Extract the assignment out of this expression.(®†£Ö
+^$squid:AssignmentInSubExpressionCheckI".Extract the assignment out of this expression.(ùĞğ
+_$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(½–Ù³
+_$squid:AssignmentInSubExpressionCheck£".Extract the assignment out of this expression.(½–Ù³
+_$squid:AssignmentInSubExpressionCheck¼".Extract the assignment out of this expression.(½–Ù³
+_$squid:AssignmentInSubExpressionCheckØ".Extract the assignment out of this expression.(¢Àµ¹
+@squid:S1659D"$Declare "_right" on a separate line.(œë¥‚ùÿÿÿÿ
+ksquid:S00116C"NRename this field "_op" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ü¿÷ıÿÿÿÿ
+msquid:S00116D"PRename this field "_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œë¥‚ùÿÿÿÿ
+nsquid:S00116D"QRename this field "_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œë¥‚ùÿÿÿÿ
+Qsquid:S1161L":Add the "@Override" annotation above this method signature(­‘“
+Qsquid:S1161Y":Add the "@Override" annotation above this method signature(–ğ±Ø
+]squid:S1126["AReplace this if-then-else statement by a single return statement.(¶Œ‘ııÿÿÿÿ
+Vsquid:S1161d":Add the "@Override" annotation above this method signature(ªß­¦ùÿÿÿÿ
+nsquid:S3776w"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(šíïÿÿÿÿÿ
+Vsquid:S1161w":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+\squid:S3358«"DExtract this nested ternary operation into an independent statement.(¬§Õ˜
+\squid:S3358¬"DExtract this nested ternary operation into an independent statement.(ÏôĞ
+Rsquid:S1161İ":Add the "@Override" annotation above this method signature(†“‹Ø
+Wsquid:S1161ú":Add the "@Override" annotation above this method signature(‚Šéƒùÿÿÿÿ
+Jsquid:S1135‡"2Complete the task associated to this TODO comment.(§”ôİ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

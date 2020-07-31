@@ -1,0 +1,24 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
+hsquid:S1192‡"KDefine a constant instead of duplicating this literal "Warning:  " 3 times.(Ÿ›ıÿÿÿÿ
+Qsquid:S1141r"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141ƒ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141‹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141“"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141©"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141±"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+asquid:UselessImportCheck-"8Remove this unused import 'javax.xml.parsers.SAXParser'.(á©ÎËøÿÿÿÿ
+isquid:UselessImportCheck7"@Remove this unused import 'javax.xml.transform.stax.StAXResult'.(©˜òøÿÿÿÿ
+Qsquid:S1118N":Add a private constructor to hide the implicit public one.(‡×ÓŞ
+isquid:S3776e"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ĞİïÉ
+Jsquid:S2755‚"-Disable XML external entity (XXE) processing.(‡¼Òüÿÿÿÿ
+fsquid:CallToDeprecatedMethod‚"8Remove this use of "XMLReaderFactory"; it is deprecated.(‡¼Òüÿÿÿÿ
+U
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(Ÿ›ıÿÿÿÿ
+Gsquid:S00108—")Either remove or fill this block of code.(¦éåÚıÿÿÿÿ
+U
+squid:S106­"9Replace this use of System.out or System.err by a logger.(Ÿ›ıÿÿÿÿ
+U
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(Ÿ›ıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

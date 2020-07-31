@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(™ÞÜ©þÿÿÿÿ
+Ysquid:UselessImportCheck#"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+Qsquid:S1133w"5Do not forget to remove this deprecated code someday.(Ù´êÙøÿÿÿÿ

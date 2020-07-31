@@ -1,0 +1,16 @@
+
+Qsquid:S1191!"5Use classes from the Java API instead of Sun classes.(°ÝÀ‰þÿÿÿÿ
+^squid:S1192Ë"GDefine a constant instead of duplicating this literal "Policy" 3 times.(·Ô“|
+@squid:S1604Ó"(Make this anonymous inner class a lambda(º¬ÄÍ
+@squid:S1604ó"(Make this anonymous inner class a lambda(ö¨ïÅ
+@squid:S1604ð"(Make this anonymous inner class a lambda(«½¹©
+osquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðŒ±„ýÿÿÿÿ
+@squid:S1148…"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Esquid:S1125”"(Remove the literal "true" boolean value.(ëùñ™ùÿÿÿÿ
+osquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(áôÍ†ûÿÿÿÿ
+Fsquid:S1125Î")Remove the literal "false" boolean value.(‹£ª•ÿÿÿÿÿ
+asquid:CallToDeprecatedMethodÞ"3Remove this use of "newInstance"; it is deprecated.(›ñ’Ùýÿÿÿÿ
+asquid:CallToDeprecatedMethodÿ"3Remove this use of "newInstance"; it is deprecated.(È†¶–øÿÿÿÿ
+3squid:S3626•"Remove this redundant jump.(ûÁÝ…
+^squid:S2445ÿ"F"p" is a method parameter, and should not be used for synchronization.(Ì—îá
+dsquid:S2445¯"L"statics" is a method parameter, and should not be used for synchronization.(‘ñÀŠ

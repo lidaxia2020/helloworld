@@ -1,0 +1,8 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(„·Ìú
+t
+squid:S1356"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+isquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ØÞÄ
+isquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ØÞÄ
+Qsquid:S11615":Add the "@Override" annotation above this method signature(“–ýþ
+bsquid:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(Ú±™€øÿÿÿÿ

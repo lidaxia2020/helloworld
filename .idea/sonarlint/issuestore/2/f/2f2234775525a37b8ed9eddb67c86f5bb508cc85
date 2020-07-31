@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(∂◊Ù∞˚ˇˇˇˇ
+õ%squid:RedundantThrowsDeclarationCheckE"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ù¶Û∂
+õ%squid:RedundantThrowsDeclarationCheckK"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ù¶Û∂
+õ%squid:RedundantThrowsDeclarationCheckX"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(πÛ¶ã
+õ%squid:RedundantThrowsDeclarationChecka"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(πÛ¶ã
+õ%squid:RedundantThrowsDeclarationCheckg"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(πÛ¶ã
+†%squid:RedundantThrowsDeclarationCheckr"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(∆«≤ò˘ˇˇˇˇ
+†%squid:RedundantThrowsDeclarationCheck}"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(â“ªÚ˚ˇˇˇˇ
+ú%squid:RedundantThrowsDeclarationCheckÜ"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(πøàî

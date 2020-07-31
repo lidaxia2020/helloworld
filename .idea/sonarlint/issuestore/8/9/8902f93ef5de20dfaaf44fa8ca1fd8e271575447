@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+Gsquid:S2160d"+Override the "equals" method in this class.(­à¾Òùÿÿÿÿ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(Ğœáõüÿÿÿÿ
+Rsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(¹Û‚æ
+Rsquid:S1161¦":Add the "@Override" annotation above this method signature(š†šø

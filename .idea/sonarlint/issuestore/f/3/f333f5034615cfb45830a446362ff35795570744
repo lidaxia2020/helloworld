@@ -1,0 +1,5 @@
+
+hsquid:S1192u"QDefine a constant instead of duplicating this literal "must be non-null" 7 times.(ì„™¾
+Ysquid:S00107e"AConstructor has 9 parameters, which is greater than 7 authorized.(„ºö¤
+Osquid:S1197>"8Move the array designator from the variable to the type.(ù¤â‘
+Csquid:S1168ø"&Return an empty array instead of null.(°µ–Ëýÿÿÿÿ

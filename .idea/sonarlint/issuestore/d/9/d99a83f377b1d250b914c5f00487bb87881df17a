@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßþÿÿÿÿ
+ssquid:S1488‹"\Immediately return this expression instead of assigning it to the temporary variable "list".(˜°½Z
+Vsquid:S1161f":Add the "@Override" annotation above this method signature(¿¥Ô´úÿÿÿÿ
+²%squid:RedundantThrowsDeclarationChecks"|Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xs.XSException' which is a runtime exception.(¬†Äéüÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

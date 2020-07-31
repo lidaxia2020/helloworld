@@ -1,0 +1,12 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+_$squid:AssignmentInSubExpressionCheck…".Extract the assignment out of this expression.(¬½æÝ
+jsquid:S00116C"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
+osquid:S00116K"RRename this field "_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§³¶Õþÿÿÿÿ
+rsquid:S00116R"URename this field "_isReverse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—°Ù›øÿÿÿÿ
+Vsquid:S1161[":Add the "@Override" annotation above this method signature(ÍïŸúúÿÿÿÿ
+Vsquid:S1161`":Add the "@Override" annotation above this method signature(¿çß¤ÿÿÿÿÿ
+Qsquid:S1161e":Add the "@Override" annotation above this method signature(À÷ÖÚ
+Qsquid:S1161t":Add the "@Override" annotation above this method signature(üÿÆ‰
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+bsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ˆÓó½

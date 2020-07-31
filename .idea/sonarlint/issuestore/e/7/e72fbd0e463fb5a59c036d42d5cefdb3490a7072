@@ -1,0 +1,12 @@
+
+Qsquid:S1191)"5Use classes from the Java API instead of Sun classes.(æí§Şûÿÿÿÿ
+_squid:S2095‘"GUse try-with-resources or close this "Formatter" in a "finally" clause.(èÙôû
+^squid:S2095–"GUse try-with-resources or close this "Formatter" in a "finally" clause.(†¾Î
+>squid:S1659v"'Declare "entityEnd" on a separate line.(øãŸÃ
+Esquid:S2786C")Remove this redundant "static" qualifier.(ı¹ÿ¨üÿÿÿÿ
+qsquid:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(â‰Ï»
+P
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ÕÂ‘Î
+P
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ùÖŠ
+Dsquid:S1068v"-Remove this unused "entityEnd" private field.(øãŸÃ

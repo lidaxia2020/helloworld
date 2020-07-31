@@ -1,0 +1,10 @@
+
+Lsquid:S1191+"5Use classes from the Java API instead of Sun classes.(éª‚€
+csquid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
+Jsquid:S3077F".Remove the "volatile" keyword from this field.(­¥ÇÏûÿÿÿÿ
+rsquid:S00115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãñÁÒ
+Csquid:S1948F"'Make "value" transient or serializable.(­¥ÇÏûÿÿÿÿ
+9squid:S1659Ë""Declare "next" on a separate line.(Ó¨9
+9squid:S1659â""Declare "next" on a separate line.(Ó¨9
+9squid:S1659ÿ""Declare "next" on a separate line.(Ó¨9
+9squid:S1659œ""Declare "next" on a separate line.(Ó¨9

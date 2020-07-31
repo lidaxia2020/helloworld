@@ -1,0 +1,15 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(à¸ª·
+dsquid:S1192È"GDefine a constant instead of duplicating this literal "method" 3 times.(ªšôÏúÿÿÿÿ
+Qsquid:S4973"9Use the "equals" method if value comparison was intended.(ÇÀïò
+dsquid:S00112ß"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S00112í"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S00112û"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Vsquid:S1118A":Add a private constructor to hide the implicit public one.(¡‰Ò¢ùÿÿÿÿ
+Dsquid:S4274y"(Replace this assert with a proper check.(á¸†ãúÿÿÿÿ
+[squid:CallToDeprecatedMethody".Remove this use of "Applet"; it is deprecated.(á¸†ãúÿÿÿÿ
+Esquid:S4274Œ"(Replace this assert with a proper check.(á¸†ãúÿÿÿÿ
+\squid:CallToDeprecatedMethodŒ".Remove this use of "Applet"; it is deprecated.(á¸†ãúÿÿÿÿ
+bsquid:S2147Ü"ECombine this catch with the one at line 218, which has the same body.(È¶ƒÈşÿÿÿÿ
+bsquid:S2147ê"ECombine this catch with the one at line 232, which has the same body.(È¶ƒÈşÿÿÿÿ
+bsquid:S2147ø"ECombine this catch with the one at line 246, which has the same body.(È¶ƒÈşÿÿÿÿ

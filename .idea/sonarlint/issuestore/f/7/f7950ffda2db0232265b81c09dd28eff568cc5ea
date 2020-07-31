@@ -1,0 +1,35 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+Vsquid:S4973×"9Use the "equals" method if value comparison was intended.(ËØØÛüÿÿÿÿ
+Vsquid:S4973ş"9Use the "equals" method if value comparison was intended.(ÖÛÊæûÿÿÿÿ
+Vsquid:S1155²">Use isEmpty() to check whether the collection is empty or not.(®¥Õ´
+Fsquid:S2390a"/Remove this reference to "AbsolutePathPattern".(‹ƒ­ã
+jsquid:S00116R"RRename this field "_parser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ú¤İ
+osquid:S00116U"RRename this field "_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¼·§ûÿÿÿÿ
+nsquid:S00116V"VRename this field "_stylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¤Í
+lsquid:S00116W"TRename this field "_template" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅâÀŒ
+lsquid:S00116X"TRename this field "_contents" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŸˆû
+isquid:S00116["QRename this field "_qname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¼Àğ
+msquid:S00116\"PRename this field "_line" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÃù‚øÿÿÿÿ
+nsquid:S00116]"VRename this field "_attributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜±›ğ
+vsquid:S00116^"YRename this field "_prefixMapping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‹Ü·øÿÿÿÿ
+rsquid:S00115d"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜Ç¹
+|squid:S1149X"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(šŸˆû
+rsquid:S1149^"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Õ‹Ü·øÿÿÿÿ
+nsquid:S1149Ÿ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(—ë†Ê
+ssquid:S1149®"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÆÏñëüÿÿÿÿ
+‚squid:S1149®"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ş±¢ıÿÿÿÿ
+‚squid:S1149»"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùù¯Üøÿÿÿÿ
+‚squid:S1149Ö"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùù¯Üøÿÿÿÿ
+‚squid:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùù¯Üøÿÿÿÿ
+}squid:S1149ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ö¢´
+3squid:S3626‰"Remove this redundant jump.(ÉŠ©ƒ
+isquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÎÄË[
+Ysquid:S1126"AReplace this if-then-else statement by a single return statement.(ÊÎÍ‘
+asquid:S3358®"DExtract this nested ternary operation into an independent statement.(ÒŠØøÿÿÿÿÿ
+isquid:S3252õ"QUse static access with "com.sun.org.apache.bcel.internal.generic.Type" for "INT".(µ³‚Ë
+P
+squid:S106Ş"9Replace this use of System.out or System.err by a logger.(øæ„ş
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(ŒşÌÉ
+csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(‹İéğ

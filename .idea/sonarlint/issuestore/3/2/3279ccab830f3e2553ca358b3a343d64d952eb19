@@ -1,0 +1,25 @@
+
+… squid:ForLoopCounterChangedCheckù"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+… squid:ForLoopCounterChangedCheck¤"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
+p
+squid:S135ç"YReduce the total number of break and continue statements in this loop to use at most one.(Û†²Ğ
+p
+squid:S135–"YReduce the total number of break and continue statements in this loop to use at most one.(Û†²Ğ
+osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(–Î íúÿÿÿÿ
+\squid:S2147Ü"ECombine this catch with the one at line 216, which has the same body.(îĞÒ
+bsquid:S2147à"ECombine this catch with the one at line 216, which has the same body.(©Ë»‡ıÿÿÿÿ
+osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(û‡Î«şÿÿÿÿ
+\squid:S2147ã"ECombine this catch with the one at line 480, which has the same body.(îĞÒ
+>squid:S1172ñ"&Remove these unused method parameters.(Äğµ
+bsquid:S2147"ECombine this catch with the one at line 639, which has the same body.(é¦ñÿüÿÿÿÿ
+]squid:S2147ƒ"ECombine this catch with the one at line 639, which has the same body.(”ı¾
+csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(ç£˜¥
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ëµ÷öúÿÿÿÿ
+hsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(˜ÀÑÙúÿÿÿÿ
+csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(Ÿèâˆ
+csquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(ˆå±ˆ
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ÎïÀ‡şÿÿÿÿ
+hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(Ìí³³üÿÿÿÿ
+hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ËÁù§ùÿÿÿÿ
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(³°ø’

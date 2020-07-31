@@ -1,0 +1,4 @@
+
+Lsquid:S11913"5Use classes from the Java API instead of Sun classes.(´ŒğŸ
+Wsquid:S1161Ú":Add the "@Override" annotation above this method signature(”ëëÊøÿÿÿÿ
+psquid:ModifiersOrderCheckï"EReorder the modifiers to comply with the Java Language Specification.(àıèúÿÿÿÿ

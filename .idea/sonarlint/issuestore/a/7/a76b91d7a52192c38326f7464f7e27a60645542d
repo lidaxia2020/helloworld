@@ -1,0 +1,13 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
+jsquid:MaximumInheritanceDepth9"<This class has 6 parents which is greater than 5 authorized.(³çÌ¸úÿÿÿÿ
+?squid:S1172="(Remove this unused method parameter "b".(àË”
+Vsquid:S1161A":Add the "@Override" annotation above this method signature(Ó‰Ï”üÿÿÿÿ
+Vsquid:S1161G":Add the "@Override" annotation above this method signature(ä¯¨‚ýÿÿÿÿ
+Dsquid:S1172L"(Remove this unused method parameter "c".(ûà›øÿÿÿÿ
+3squid:S2066P"Make this inner class static(¥ƒ¤Ó
+Vsquid:S1161W":Add the "@Override" annotation above this method signature(öÐçÓøÿÿÿÿ
+˜squid:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÞÉô
+˜squid:S1186o"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
+˜squid:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
+squid:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»‰¥åþÿÿÿÿ

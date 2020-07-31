@@ -1,0 +1,10 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
+isquid:S00117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÇ÷Ù
+isquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëñë«
+isquid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈŸˆÏ
+isquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âîÛú
+wsquid:S00116&"_Rename this field "initial_time_to_wait" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‚íÁ
+xsquid:S00116'"[Rename this field "max_time_to_wait" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â§È£ùÿÿÿÿ
+squid:S00116("gRename this field "max_giop_header_time_to_wait" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Å½ç
+qsquid:S00116)"YRename this field "backoff_factor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÊÇú

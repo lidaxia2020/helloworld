@@ -1,0 +1,22 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(˜ÿ‰¸úÿÿÿÿ
+p
+squid:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(ä’šô
+¯%squid:RedundantThrowsDeclarationCheckW"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¿ÙÆ®
+¯%squid:RedundantThrowsDeclarationCheckj"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Æ†
+µ%squid:RedundantThrowsDeclarationCheck™"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+>squid:S1172—"&Remove these unused method parameters.(‰â–
+Ysquid:S1126Á"AReplace this if-then-else statement by a single return statement.(« Û¾
+µ%squid:RedundantThrowsDeclarationCheckÖ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckì"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+isquid:CallToDeprecatedMethod†"@Remove this use of "getSchemaNormalizedValue"; it is deprecated.(‡Õì
+µ%squid:RedundantThrowsDeclarationCheckœ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Âµ…ıÿÿÿÿ
+Csquid:S1172›"&Remove these unused method parameters.(ÛÊÔÃşÿÿÿÿ
+1squid:S2178±"Correct this "&" to "&&".( À÷
+Lsquid:S1068B"0Remove this unused "fSymbolTable" private field.(õæ÷âùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(µ”Íı
+csquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(¸¦äñ
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(Õ’ıùÿÿÿÿ
+hsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(š£ó„ûÿÿÿÿ
+hsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(ÒØ•ÿÿÿÿÿ

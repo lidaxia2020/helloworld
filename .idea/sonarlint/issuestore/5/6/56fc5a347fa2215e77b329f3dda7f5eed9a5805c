@@ -1,0 +1,18 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö²‰ô
+jsquid:S00101/"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«Òö¨ùÿÿÿÿ
+^squid:S00107G"AConstructor has 8 parameters, which is greater than 7 authorized.(ªßàøÿÿÿÿ
+nsquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªßàøÿÿÿÿ
+isquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÆ§Š
+isquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÆ§Š
+isquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÆ§Š
+isquid:S00117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ó÷«
+isquid:S00117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ó÷«
+nsquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŠ¿üşÿÿÿÿ
+jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íµû
+ssquid:S001166"[Rename this field "service_contexts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»òå
+rsquid:S001167"URename this field "request_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ²Öÿÿÿÿÿ
+tsquid:S001168"\Rename this field "response_expected" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ´üâ
+msquid:S00116:"URename this field "object_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò°Ş®
+vsquid:S00116<"_Rename this field "requesting_principal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ñ÷4
+Bsquid:S19057"&Remove this unnecessary cast to "int".(µ²Öÿÿÿÿÿ

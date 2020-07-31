@@ -1,0 +1,58 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ğÔñ¯ıÿÿÿÿ
+dsquid:S1192å"LDefine a constant instead of duplicating this literal "_cp.html#cp" 3 times.(©ûÍÚ
+hsquid:S1192±"KDefine a constant instead of duplicating this literal "<A HREF=\"" 3 times.(Ç¿ƒ—ÿÿÿÿÿ
+lsquid:S1192Á"TDefine a constant instead of duplicating this literal "<TD><A HREF=\"#code" 4 times.(Çêğî
+gsquid:S2095Œ"JUse try-with-resources or close this "ByteSequence" in a "finally" clause.(–·ëûÿÿÿÿ
+nsquid:S00117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´É™øÿÿÿÿ
+isquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ•´ô
+nsquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğµë€şÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ñ“Ü
+jsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¸¯•
+jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğˆ«ù
+jsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À”Ûà
+jsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‚êÏ
+osquid:S00117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÅ‚çıÿÿÿÿ
+jsquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃõšÃ
+osquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¬ã ùÿÿÿÿ
+osquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÂÑÉûÿÿÿÿ
+osquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åæîÔşÿÿÿÿ
+jsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù½ò
+rsquid:S00116h"URename this field "class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À°¤üÿÿÿÿÿ
+psquid:S00116k"SRename this field "goto_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëàï‰øÿÿÿÿ
+usquid:S00116l"XRename this field "constant_pool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıéì¼øÿÿÿÿ
+osquid:S00116m"XRename this field "constant_html" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÂû}
+wsquid:S1149’"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(´™÷¶
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(«Ñ“Ü
+Tsquid:S1854Ï"7Remove this useless assignment to local variable "str".(Ê¨Ò·ùÿÿÿÿ
+Tsquid:S1854Ê"<Remove this useless assignment to local variable "reserved".(Ñ¨£å
+Vsquid:S1854É"9Remove this useless assignment to local variable "nargs".(ğíÎ×ıÿÿÿÿ
+Tsquid:S1854Ö"7Remove this useless assignment to local variable "str".(Ê¨Ò·ùÿÿÿÿ
+Dsquid:S1659“"'Declare "signature" on a separate line.(›¼ëøÿÿÿÿ
+9squid:S1659”"!Declare "low" on a separate line.(õ¸¯•
+:squid:S1659”""Declare "high" on a separate line.(õ¸¯•
+Asquid:S1659•")Declare "class_index" on a separate line.(Ğˆ«ù
+<squid:S1659•"$Declare "vindex" on a separate line.(Ğˆ«ù
+>squid:S1659•"&Declare "constant" on a separate line.(Ğˆ«ù
+<squid:S1659—"$Declare "offset" on a separate line.(¥‚êÏ
+asquid:S1871"IThis case's code block is the same as the block for the case on line 316.(Í†’‹
+>squid:S1905ğ"&Remove this unnecessary cast to "int".(ÑÆË
+Nsquid:S2696†"6Make the enclosing method "static" or remove this set.(•€ş°
+Ssquid:S2696—"6Make the enclosing method "static" or remove this set.(÷Øú¢ÿÿÿÿÿ
+Msquid:S2696¥"6Make the enclosing method "static" or remove this set.(‹Ãäp
+P
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(ıĞò­
+jsquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ïò•Ê
+Esquid:S1172Ò"-Remove this unused method parameter "method".(Ïò•Ê
+Vsquid:S1854¢"9Remove this useless assignment to local variable "match".(â»Ûçşÿÿÿÿ
+>squid:S1905ò"&Remove this unnecessary cast to "int".(“ãõæ
+Asquid:S1659…"$Declare "offset" on a separate line.(ÉÂÑÉûÿÿÿÿ
+osquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(åæîÔşÿÿÿÿ
+Gsquid:S1481É"*Remove this unused "nargs" local variable.(ğíÎ×ıÿÿÿÿ
+Esquid:S1481Ê"-Remove this unused "reserved" local variable.(Ñ¨£å
+Gsquid:S1481¢"*Remove this unused "match" local variable.(â»Ûçşÿÿÿÿ
+Csquid:S1481ü"&Remove this unused "i" local variable.(‚æéÉÿÿÿÿÿ
+Csquid:S1481”"&Remove this unused "i" local variable.(²Ù“ıÿÿÿÿ
+Gsquid:S1068i"+Remove this unused "methods" private field.(¡ºÚºÿÿÿÿÿ
+csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(¬³¶å
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(å¥±ì

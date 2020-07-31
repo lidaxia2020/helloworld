@@ -1,0 +1,3 @@
+
+Qsquid:S1191R"5Use classes from the Java API instead of Sun classes.(ä³ùÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck£"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ÈßÄ©úÿÿÿÿ

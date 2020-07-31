@@ -1,0 +1,8 @@
+
+Tsquid:S11973"8Move the array designator from the variable to the type.(Æ­Õ±ùÿÿÿÿ
+Tsquid:S1197R"8Move the array designator from the variable to the type.(ĞÜÏŞùÿÿÿÿ
+isquid:S3776c"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¹éî¾
+asquid:HiddenFieldChecki":Rename "params" which hides the field declared at line 49.(ç½‚ºúÿÿÿÿ
+Isquid:S1905",Remove this unnecessary cast to "Reference".(µŠšüÿÿÿÿ
+>squid:S1168 "&Return an empty array instead of null.(¥¹ï
+Wsquid:S1161ø":Add the "@Override" annotation above this method signature(ÆıÒÔüÿÿÿÿ

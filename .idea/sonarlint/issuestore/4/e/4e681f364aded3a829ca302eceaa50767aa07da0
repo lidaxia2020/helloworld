@@ -1,0 +1,25 @@
+
+Š squid:ForLoopCounterChangedCheck™"XRefactor the code in order to not assign to this loop counter from within the loop body.(à˜Í‚ıÿÿÿÿ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ğÔñ¯ıÿÿÿÿ
+^squid:S1192¤"FDefine a constant instead of duplicating this literal "  }\n" 4 times.(‡¦»Š
+dsquid:S00112Î"FDefine and throw a dedicated exception instead of using a generic one.(Ãì£şÿÿÿÿ
+jsquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ²àş
+osquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘»ëÇûÿÿÿÿ
+jsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â’óÀ
+jsquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùè¡õ
+osquid:S00117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áµÄ§ùÿÿÿÿ
+osquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‰Ó•ÿÿÿÿÿ
+osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ä÷ñøÿÿÿÿ
+osquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºèÈÕüÿÿÿÿ
+jsquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÂŞë
+nsquid:S00116i"QRename this field "_clazz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÂòÜøÿÿÿÿ
+gsquid:S00116j"ORename this field "_out" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô÷“á
+fsquid:S00116k"NRename this field "_cp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ‘£
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|squid:S1149¤"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘ıââşÿÿÿÿ
+Wsquid:S1161„":Add the "@Override" annotation above this method signature(Îª™Æıÿÿÿÿ
+Wsquid:S1161ß":Add the "@Override" annotation above this method signature(ªÿîÓÿÿÿÿÿ
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(¨¡³Äşÿÿÿÿ
+lsquid:S00100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãì£şÿÿÿÿ
+U
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(Ù¥¡‚ùÿÿÿÿ

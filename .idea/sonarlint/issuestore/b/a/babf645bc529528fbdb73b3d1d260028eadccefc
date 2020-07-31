@@ -1,0 +1,301 @@
+
+Š squid:ForLoopCounterChangedCheck¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(óØ”Šùÿÿÿÿ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+fsquid:S1192ú"IDefine a constant instead of duplicating this literal "--------" 7 times.(¢«âÿÿÿÿÿ
+Jsquid:S1199›"-Extract this nested code block into a method.(ÄŠ¯œÿÿÿÿÿ
+Esquid:S1199¤"-Extract this nested code block into a method.(Åô²ô
+Esquid:S1199©"-Extract this nested code block into a method.(”ğ¿Å
+Jsquid:S1199µ"-Extract this nested code block into a method.(¨§´½ûÿÿÿÿ
+Jsquid:S1199»"-Extract this nested code block into a method.(áäìœşÿÿÿÿ
+Esquid:S1199Â"-Extract this nested code block into a method.(—®–Œ
+Jsquid:S1199õ"-Extract this nested code block into a method.(îçŠìûÿÿÿÿ
+Jsquid:S1199ú"-Extract this nested code block into a method.(æéÍ®şÿÿÿÿ
+Esquid:S1199ÿ"-Extract this nested code block into a method.(±Úóô
+Jsquid:S1199„	"-Extract this nested code block into a method.(«¦ÿäüÿÿÿÿ
+Jsquid:S1199‰	"-Extract this nested code block into a method.(µ®Ô£üÿÿÿÿ
+Esquid:S1199’	"-Extract this nested code block into a method.(¤ƒÙŒ
+Jsquid:S1199—	"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+Jsquid:S1199‡"-Extract this nested code block into a method.(áêÅñıÿÿÿÿ
+Dsquid:S1199ˆ"-Extract this nested code block into a method.(Ï–¾1
+Jsquid:S1199‰"-Extract this nested code block into a method.(çÁİıÿÿÿÿ
+Jsquid:S1199Š"-Extract this nested code block into a method.(áÒ­¢ùÿÿÿÿ
+Esquid:S1199‹"-Extract this nested code block into a method.( ı¢ê
+Jsquid:S1199Œ"-Extract this nested code block into a method.(“ôšÜşÿÿÿÿ
+Esquid:S1199"-Extract this nested code block into a method.(“Âíé
+Esquid:S1199"-Extract this nested code block into a method.(éŞúÓ
+Jsquid:S1199"-Extract this nested code block into a method.(©ğ±¢ûÿÿÿÿ
+Esquid:S1199"-Extract this nested code block into a method.(øıùÂ
+Esquid:S1199‘"-Extract this nested code block into a method.(»ì­™
+Esquid:S1199’"-Extract this nested code block into a method.(ø÷Ó¢
+Jsquid:S1199¼"-Extract this nested code block into a method.(áêÅñıÿÿÿÿ
+Dsquid:S1199½"-Extract this nested code block into a method.(Ï–¾1
+Jsquid:S1199¾"-Extract this nested code block into a method.(çÁİıÿÿÿÿ
+Jsquid:S1199¿"-Extract this nested code block into a method.(áÒ­¢ùÿÿÿÿ
+Esquid:S1199À"-Extract this nested code block into a method.( ı¢ê
+Jsquid:S1199Á"-Extract this nested code block into a method.(“ôšÜşÿÿÿÿ
+Esquid:S1199Â"-Extract this nested code block into a method.(“Âíé
+Esquid:S1199Ã"-Extract this nested code block into a method.(éŞúÓ
+Jsquid:S1199Ä"-Extract this nested code block into a method.(©ğ±¢ûÿÿÿÿ
+Esquid:S1199Å"-Extract this nested code block into a method.(øıùÂ
+Esquid:S1199Æ"-Extract this nested code block into a method.(»ì­™
+Esquid:S1199Ç"-Extract this nested code block into a method.(¸÷ƒ‘
+xsquid:S1488ã"aImmediately return this expression instead of assigning it to the temporary variable "nodeIndex".(Ğè
+Qsquid:S4973ù"9Use the "equals" method if value comparison was intended.(¢õ¾
+Vsquid:S4973 "9Use the "equals" method if value comparison was intended.(Í‘ªƒÿÿÿÿÿ
+fsquid:S2259â"IA "NullPointerException" could be thrown; "oldAttrName" is nullable here.(Û §˜ÿÿÿÿÿ
+esquid:MaximumInheritanceDepthA"<This class has 6 parents which is greater than 5 authorized.(®ï¢–
+Psquid:S2387›"3"fBufferStr" is the name of a field in "ChildNode".(±Ó…¶üÿÿÿÿ
+Osquid:S1197q"8Move the array designator from the variable to the type.(³ã¡È
+Tsquid:S1197t"8Move the array designator from the variable to the type.(ÉÆäûÿÿÿÿ
+Osquid:S1197w"8Move the array designator from the variable to the type.(øİªğ
+Osquid:S1197z"8Move the array designator from the variable to the type.(ö¢¥ÿ
+Osquid:S1197}"8Move the array designator from the variable to the type.(ÓÖ¶®
+Usquid:S1197€"8Move the array designator from the variable to the type.(®äËáúÿÿÿÿ
+Usquid:S1197ƒ"8Move the array designator from the variable to the type.(áœªóùÿÿÿÿ
+Psquid:S1197†"8Move the array designator from the variable to the type.(ÚóÄç
+Osquid:S1197Œ"8Move the array designator from the variable to the type.(¨¼Ôl
+Usquid:S1197"8Move the array designator from the variable to the type.(îŸ‡èûÿÿÿÿ
+psquid:ModifiersOrderCheck›"EReorder the modifiers to comply with the Java Language Specification.(±Ó…¶üÿÿÿÿ
+ksquid:ModifiersOrderCheckœ"EReorder the modifiers to comply with the Java Language Specification.(æÉ°
+Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(ùáø°
+Msquid:S1133›"5Do not forget to remove this deprecated code someday.(êå˜í
+Psquid:MissingDeprecatedCheck›"'Add the missing @Deprecated annotation.(êå˜í
+Rsquid:S1133³"5Do not forget to remove this deprecated code someday.(³µÖûùÿÿÿÿ
+Usquid:MissingDeprecatedCheck³"'Add the missing @Deprecated annotation.(³µÖûùÿÿÿÿ
+Msquid:S1133“"5Do not forget to remove this deprecated code someday.(²¯–
+Psquid:MissingDeprecatedCheck“"'Add the missing @Deprecated annotation.(²¯–
+\squid:S3252½"?Use static access with "org.w3c.dom.Node" for "ATTRIBUTE_NODE".(ƒ±İÍÿÿÿÿÿ
+osquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ºÄ³Æúÿÿÿÿ
+U
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ß´ÉÃıÿÿÿÿ
+U
+squid:S106×"9Replace this use of System.out or System.err by a logger.(¦Â÷Íûÿÿÿÿ
+P
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(ºí“Ÿ
+U
+squid:S106à"9Replace this use of System.out or System.err by a logger.(Î­¢üÿÿÿÿ
+P
+squid:S106á"9Replace this use of System.out or System.err by a logger.(åù°Ã
+isquid:S3776Î	"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(íŒÖP
+P
+squid:S106È"9Replace this use of System.out or System.err by a logger.(ç“í
+Psquid:S1197×"8Move the array designator from the variable to the type.(úÑø
+Psquid:S1197Û"8Move the array designator from the variable to the type.(ØĞ—š
+osquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÃÍªàşÿÿÿÿ
+U
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(ÒĞ‡Ÿÿÿÿÿÿ
+U
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(Ä£ÿşÿÿÿÿ
+U
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(ôİ›Şøÿÿÿÿ
+U
+squid:S106ò"9Replace this use of System.out or System.err by a logger.( ±Óùÿÿÿÿ
+U
+squid:S106ó"9Replace this use of System.out or System.err by a logger.(¼˜ğşÿÿÿÿ
+P
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(ªä–×
+U
+squid:S106õ"9Replace this use of System.out or System.err by a logger.(«ÅŒúÿÿÿÿ
+U
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(¢«âÿÿÿÿÿ
+U
+squid:S106û"9Replace this use of System.out or System.err by a logger.(¢«âÿÿÿÿÿ
+U
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(¢«âÿÿÿÿÿ
+U
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(¢«âÿÿÿÿÿ
+U
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(¢«âÿÿÿÿÿ
+U
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(¢«âÿÿÿÿÿ
+U
+squid:S106€"9Replace this use of System.out or System.err by a logger.(¢«âÿÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106„"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ
+U
+squid:S106…"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+„squid:S3252‡"gUse static access with "com.sun.org.apache.xerces.internal.dom.NodeImpl" for "ELEMENT_DEFINITION_NODE".(áêÅñıÿÿÿÿ
+U
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(áêÅñıÿÿÿÿ
+O
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ï–¾1
+U
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(çÁİıÿÿÿÿ
+U
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(áÒ­¢ùÿÿÿÿ
+P
+squid:S106‹"9Replace this use of System.out or System.err by a logger.( ı¢ê
+U
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(“ôšÜşÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Âíé
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(éŞúÓ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ğ±¢ûÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(øıùÂ
+P
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(»ì­™
+P
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ø÷Ó¢
+U
+squid:S106”"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+P
+squid:S106•"9Replace this use of System.out or System.err by a logger.(’ÌòÓ
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+O
+squid:S106—"9Replace this use of System.out or System.err by a logger.(¨Âƒ^
+U
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+P
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ˆÄ³
+U
+squid:S106š"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+U
+squid:S106›"9Replace this use of System.out or System.err by a logger.(ïëÃßøÿÿÿÿ
+U
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÍ÷êÿÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+U
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(µ¿¾™şÿÿÿÿ
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+P
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(Õûá
+U
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106©"9Replace this use of System.out or System.err by a logger.(»å¬¢ûÿÿÿÿ
+U
+squid:S106®"9Replace this use of System.out or System.err by a logger.(ÒĞ‡Ÿÿÿÿÿÿ
+U
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(Ä£ÿşÿÿÿÿ
+U
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ôİ›Şøÿÿÿÿ
+U
+squid:S106±"9Replace this use of System.out or System.err by a logger.( ±Óùÿÿÿÿ
+P
+squid:S106²"9Replace this use of System.out or System.err by a logger.(¬é¨¯
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(¼˜ğşÿÿÿÿ
+P
+squid:S106´"9Replace this use of System.out or System.err by a logger.(ªä–×
+U
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(Ì¡€ûÿÿÿÿ
+U
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(ØİÉõúÿÿÿÿ
+U
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ
+U
+squid:S106º"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+„squid:S3252¼"gUse static access with "com.sun.org.apache.xerces.internal.dom.NodeImpl" for "ELEMENT_DEFINITION_NODE".(áêÅñıÿÿÿÿ
+U
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(áêÅñıÿÿÿÿ
+O
+squid:S106½"9Replace this use of System.out or System.err by a logger.(Ï–¾1
+U
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(çÁİıÿÿÿÿ
+U
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(áÒ­¢ùÿÿÿÿ
+P
+squid:S106À"9Replace this use of System.out or System.err by a logger.( ı¢ê
+U
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(“ôšÜşÿÿÿÿ
+P
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(“Âíé
+P
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(éŞúÓ
+U
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(©ğ±¢ûÿÿÿÿ
+P
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(øıùÂ
+P
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(»ì­™
+P
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(¸÷ƒ‘
+U
+squid:S106É"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+O
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(³÷º<
+U
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+U
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(·Ä“øüÿÿÿÿ
+U
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+U
+squid:S106Î"9Replace this use of System.out or System.err by a logger.(Ãª•—şÿÿÿÿ
+U
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+P
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(şÙ¢
+U
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+P
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(÷ú
+U
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+P
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(Â¤ÿ
+U
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(¿ú×îÿÿÿÿÿ
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(·ëæÑøÿÿÿÿ
+U
+squid:S106×"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(Ç¯Ìç
+osquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ƒ’û¶úÿÿÿÿ
+Wsquid:S1161ì":Add the "@Override" annotation above this method signature(ƒ’û¶úÿÿÿÿ
+Wsquid:S1161Á":Add the "@Override" annotation above this method signature(Àø¸èÿÿÿÿÿ
+3squid:S3626µ"Remove this redundant jump.(ûÁİ…
+jsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(œŒ‹‘
+Psquid:S1197Û"8Move the array designator from the variable to the type.(œŒ‹‘
+U
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(´ÅÅ•øÿÿÿÿ
+O
+squid:S106é"9Replace this use of System.out or System.err by a logger.(ÓÚä
+U
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(³ë©¡şÿÿÿÿ
+P
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ƒ¸„Ø
+Usquid:S1197’"8Move the array designator from the variable to the type.(³ãÄ¦şÿÿÿÿ
+Usquid:S1197›"8Move the array designator from the variable to the type.(È§èÏÿÿÿÿÿ
+Usquid:S1197©"8Move the array designator from the variable to the type.(÷ÄØÑøÿÿÿÿ
+Usquid:S1197»"8Move the array designator from the variable to the type.(€’ÜÛøÿÿÿÿ
+Usquid:S1197Õ"8Move the array designator from the variable to the type.(Ë‡ºÓùÿÿÿÿ
+Usquid:S1197Ø"8Move the array designator from the variable to the type.(°â–Şøÿÿÿÿ
+Psquid:S1197õ"8Move the array designator from the variable to the type.(»Ìùà
+Psquid:S1197€"8Move the array designator from the variable to the type.(¨Ù‘
+P
+squid:S106™"9Replace this use of System.out or System.err by a logger.(Ø»Á¡
+Usquid:S1197©"8Move the array designator from the variable to the type.(İæîéøÿÿÿÿ
+U
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ÔõÄ‚øÿÿÿÿ
+U
+squid:S106®"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ
+U
+squid:S106±"9Replace this use of System.out or System.err by a logger.(¡Ô¡ÿÿÿÿÿ
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(³«ÀÍùÿÿÿÿ
+U
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+P
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(×•œ²
+P
+squid:S106»"9Replace this use of System.out or System.err by a logger.(á™‚µ
+Psquid:S1197Ğ"8Move the array designator from the variable to the type.(‡ó
+Usquid:S1197ù"8Move the array designator from the variable to the type.(‚Ï‹âùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+asquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(è£^

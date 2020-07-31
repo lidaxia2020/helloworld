@@ -1,0 +1,42 @@
+
+d$squid:AssignmentInSubExpressionCheck«".Extract the assignment out of this expression.(¤Ïİ…şÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckå".Extract the assignment out of this expression.(À”¤Öşÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck™".Extract the assignment out of this expression.(™ï›
+asquid:S2583Õ"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+asquid:S2583Ã"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+asquid:S2583¾"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+asquid:S2583Ë"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+asquid:S2583ù"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ
+Hsquid:S2160â"+Override the "equals" method in this class.(À¾İ—ùÿÿÿÿ
+;squid:S1659‹"#Declare "after" on a separate line.(ŒÉïá
+Rsquid:S1161Î":Add the "@Override" annotation above this method signature(ÍùîÑ
+Rsquid:S1161Ó":Add the "@Override" annotation above this method signature(şê²¦
+vsquid:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ÚúÙüÿÿÿÿ
+Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(ºŒ¬Å
+vsquid:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä³³µıÿÿÿÿ
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(À÷ÿ¹ıÿÿÿÿ
+qsquid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œš¿ı
+Rsquid:S1161è":Add the "@Override" annotation above this method signature(æ™ƒ
+qsquid:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥òËø
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(Œ‚¤¡ùÿÿÿÿ
+<squid:S1659ñ"Declare "b" on a separate line.(âà¨¬şÿÿÿÿ
+<squid:S1659ñ"Declare "a" on a separate line.(âà¨¬şÿÿÿÿ
+Rsquid:S1161ı":Add the "@Override" annotation above this method signature(ãáö’
+Wsquid:S1161…":Add the "@Override" annotation above this method signature(Şà¿‚ıÿÿÿÿ
+<squid:S1659‰"Declare "b" on a separate line.(âà¨¬şÿÿÿÿ
+<squid:S1659‰"Declare "a" on a separate line.(âà¨¬şÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(êÁ•
+Wsquid:S1161»":Add the "@Override" annotation above this method signature(àœçœıÿÿÿÿ
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(Ë’ñÿÿÿÿÿ
+Wsquid:S1161½":Add the "@Override" annotation above this method signature(•î’üÿÿÿÿ
+Wsquid:S1161ê":Add the "@Override" annotation above this method signature(çÇâØıÿÿÿÿ
+Wsquid:S1161î":Add the "@Override" annotation above this method signature(àà…åúÿÿÿÿ
+Rsquid:S1161ï":Add the "@Override" annotation above this method signature(¨”Õı
+Wsquid:S1161ó":Add the "@Override" annotation above this method signature(Îå®åıÿÿÿÿ
+Rsquid:S1161³":Add the "@Override" annotation above this method signature(ÛÆëô
+Rsquid:S1161¸":Add the "@Override" annotation above this method signature(ß™Í
+Wsquid:S1161Å":Add the "@Override" annotation above this method signature(ÂìÎ‚øÿÿÿÿ
+Qsquid:S1161Ï":Add the "@Override" annotation above this method signature(‡æ­$
+ksquid:S2272„"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ûô¦çùÿÿÿÿ
+fsquid:S2272‰"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(èçÅø
+ksquid:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¡Éº”úÿÿÿÿ

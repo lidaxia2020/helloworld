@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰å½†ýÿÿÿÿ
+msquid:UselessImportCheck "DRemove this unused import 'org.omg.CORBA_2_3.portable.OutputStream'.(©éµ¿üÿÿÿÿ
+]squid:UselessImportCheck"4Remove this unused import 'org.omg.CORBA.BAD_PARAM'.(Š¡ë±ûÿÿÿÿ
+=squid:S2129;"!Remove this "Integer" constructor(´ ”†ÿÿÿÿÿ
+\squid:CallToDeprecatedMethod;"/Remove this use of "Integer"; it is deprecated.(´ ”†ÿÿÿÿÿ

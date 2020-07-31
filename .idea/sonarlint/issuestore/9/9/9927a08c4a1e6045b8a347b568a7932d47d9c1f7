@@ -1,0 +1,21 @@
+
+Lsquid:S1191@"5Use classes from the Java API instead of Sun classes.(§ª›‰
+zsquid:S1488å"]Immediately return this expression instead of assigning it to the temporary variable "other".(ƒ…µ©ýÿÿÿÿ
+isquid:UselessImportCheck?"@Remove this unused import 'java.util.spi.LocaleServiceProvider'.(É‰Á¿ÿÿÿÿÿ
+^squid:UselessImportCheck<"5Remove this unused import 'java.util.ResourceBundle'.(ýÆ£¯øÿÿÿÿ
+Ysquid:UselessImportCheck9"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+xsquid:S00115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï™¶üýÿÿÿÿ
+wsquid:S1149Ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(à™öÝ
+wsquid:S1149Ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(üÜÅ¤
+|squid:S1149ß"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".( Ù¡àÿÿÿÿÿ
+wsquid:S1149à"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(üÜÅ¤
+Jsquid:S1172§"-Remove this unused method parameter "number".(õ’×åøÿÿÿÿ
+ksquid:ModifiersOrderCheckÈ"EReorder the modifiers to comply with the Java Language Specification.(’º§õ
+psquid:ModifiersOrderCheckð"EReorder the modifiers to comply with the Java Language Specification.(´„ááûÿÿÿÿ
+ksquid:ModifiersOrderCheckŸ"EReorder the modifiers to comply with the Java Language Specification.(œ¬ì£
+psquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(‚ü…¹ùÿÿÿÿ
+ksquid:ModifiersOrderCheckñ"EReorder the modifiers to comply with the Java Language Specification.(†ïÌõ
+psquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(óŽöíüÿÿÿÿ
+ksquid:S2975ä"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+Q"squid:SwitchLastCaseIsDefaultCheck™	""Add a default case to this switch.(¨ÕÉ
+/squid:S2176‹"Rename this class.(çÅ“­øÿÿÿÿ

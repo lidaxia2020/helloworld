@@ -1,0 +1,30 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(úÊÛí
+"squid:ClassVariableVisibilityCheck="RMake length a static final constant or non-public and provide accessors if needed.(ÇÈÕ[
+ˆ"squid:ClassVariableVisibilityCheckE"UMake minLength a static final constant or non-public and provide accessors if needed.(ÇÉ¸šøÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheckM"UMake maxLength a static final constant or non-public and provide accessors if needed.(ÀÒ¥Üüÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckU"VMake whiteSpace a static final constant or non-public and provide accessors if needed.(ƒòÀÀúÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck]"WMake totalDigits a static final constant or non-public and provide accessors if needed.(Õ¬Ôãşÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityChecke"ZMake fractionDigits a static final constant or non-public and provide accessors if needed.(İéøå
+†"squid:ClassVariableVisibilityCheckn"SMake pattern a static final constant or non-public and provide accessors if needed.(Ê™´¡şÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheckv"WMake enumeration a static final constant or non-public and provide accessors if needed.(Œ†‹úÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheck€"WMake enumNSDecls a static final constant or non-public and provide accessors if needed.(í×ŒÂùÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheckˆ"XMake maxInclusive a static final constant or non-public and provide accessors if needed.(«‡—Öüÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"XMake maxExclusive a static final constant or non-public and provide accessors if needed.(¢ªüÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck˜"XMake minInclusive a static final constant or non-public and provide accessors if needed.(àìÔ
+Œ"squid:ClassVariableVisibilityCheckŸ"XMake minExclusive a static final constant or non-public and provide accessors if needed.(£î©ëûÿÿÿÿ
+"squid:ClassVariableVisibilityCheck£"\Make lengthAnnotation a static final constant or non-public and provide accessors if needed.(‡Ó¶Öûÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck¤"_Make minLengthAnnotation a static final constant or non-public and provide accessors if needed.(—Í˜¶úÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck¥"_Make maxLengthAnnotation a static final constant or non-public and provide accessors if needed.(«¼Çøÿÿÿÿ
+"squid:ClassVariableVisibilityCheck¦"`Make whiteSpaceAnnotation a static final constant or non-public and provide accessors if needed.(§œŸó
+"squid:ClassVariableVisibilityCheck§"aMake totalDigitsAnnotation a static final constant or non-public and provide accessors if needed.(£üƒâ
+˜"squid:ClassVariableVisibilityCheck¨"dMake fractionDigitsAnnotation a static final constant or non-public and provide accessors if needed.(Ÿ±˜·üÿÿÿÿ
+"squid:ClassVariableVisibilityCheck©"^Make patternAnnotations a static final constant or non-public and provide accessors if needed.(àñä·
+Š"squid:ClassVariableVisibilityCheckª"[Make enumAnnotations a static final constant or non-public and provide accessors if needed.(Õ¸“
+‘"squid:ClassVariableVisibilityCheck«"bMake maxInclusiveAnnotation a static final constant or non-public and provide accessors if needed.(Øƒñæ
+–"squid:ClassVariableVisibilityCheck¬"bMake maxExclusiveAnnotation a static final constant or non-public and provide accessors if needed.(ûÏ³Üûÿÿÿÿ
+–"squid:ClassVariableVisibilityCheck­"bMake minInclusiveAnnotation a static final constant or non-public and provide accessors if needed.(Ø¤÷Éıÿÿÿÿ
+–"squid:ClassVariableVisibilityCheck®"bMake minExclusiveAnnotation a static final constant or non-public and provide accessors if needed.(ÈÜ¢Ñøÿÿÿÿ
+squid:S1149v"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œ†‹úÿÿÿÿ
+‚squid:S1149€"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(í×ŒÂùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

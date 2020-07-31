@@ -1,0 +1,24 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
+¢squid:S1862é"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(õØ€‰ÿÿÿÿÿ
+<squid:S21578"%Add a "clone()" method to this class.(ä·†ó
+wsquid:S00116;"ZRename this field "m_DTMXRTreeFrag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°—Äµùÿÿÿÿ
+lsquid:S00116<"TRename this field "m_dtmRoot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÞýì
+qsquid:S00116="YRename this field "m_allowRelease" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÉ«Á
+lsquid:S00116ä"SRename this field "m_xmlStr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Àˆ
+Msquid:S1948;"1Make "m_DTMXRTreeFrag" transient or serializable.(°—Äµùÿÿÿÿ
+Bsquid:S1948ä"*Make "m_xmlStr" transient or serializable.(¼Àˆ
+Qsquid:S1161m":Add the "@Override" annotation above this method signature(ï¸šÎ
+Rsquid:S1161‹":Add the "@Override" annotation above this method signature(Ž‰¥ã
+Qsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(íàE
+Rsquid:S1161¯":Add the "@Override" annotation above this method signature(æ”Âó
+Wsquid:S1161¾":Add the "@Override" annotation above this method signature(ÂëÀýùÿÿÿÿ
+Wsquid:S1161Ì":Add the "@Override" annotation above this method signature(øâ²¨þÿÿÿÿ
+Rsquid:S1161ß":Add the "@Override" annotation above this method signature(«›‹
+Rsquid:S1161ï":Add the "@Override" annotation above this method signature(ËÐÁ
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(ËÉÖüùÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(¡‰‚”þÿÿÿÿ
+Rsquid:S1161 ":Add the "@Override" annotation above this method signature(—±ûñ
+msquid:S1201Ô"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¯¢…Ò
+Rsquid:S1161Ô":Add the "@Override" annotation above this method signature(¯¢…Ò
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

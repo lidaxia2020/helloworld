@@ -1,0 +1,56 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+Jsquid:S1199è"-Extract this nested code block into a method.(©Èøÿÿÿÿ
+Jsquid:S1199ï"-Extract this nested code block into a method.(“ûé³şÿÿÿÿ
+Jsquid:S1199ö"-Extract this nested code block into a method.(ˆÛå‰øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(½áŒ¥ıÿÿÿÿ
+dsquid:S00112¦"FDefine and throw a dedicated exception instead of using a generic one.(¹˜ŒÁşÿÿÿÿ
+dsquid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(¹˜ŒÁşÿÿÿÿ
+osquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¢´çøÿÿÿÿ
+osquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ºÃûÿÿÿÿ
+osquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¡¤Ûúÿÿÿÿ
+jsquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŞşœ
+jsquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŞşœ
+jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‡ÄØ
+jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‡ÄØ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´íãáûÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´íãáûÿÿÿÿ
+osquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨…¾”şÿÿÿÿ
+osquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨…¾”şÿÿÿÿ
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É“Ä§
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É“Ä§
+osquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Óşüÿÿÿÿ
+osquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Óşüÿÿÿÿ
+osquid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨…¾”şÿÿÿÿ
+osquid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨…¾”şÿÿÿÿ
+osquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùğ‰¶ıÿÿÿÿ
+osquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùğ‰¶ıÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÒ‹·øÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÒ‹·øÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‡¯À
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‡¯À
+osquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¢´çøÿÿÿÿ
+osquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ºÃûÿÿÿÿ
++squid:S1700x"Rename field "index"(Î‚í„
+usquid:S00116à"WRename this field "string_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŒºûÿÿÿÿ
+tsquid:S00116"VRename this field "class_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ€ìÊÿÿÿÿÿ
+ssquid:S00116½"URename this field "utf8_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èôæşÿÿÿÿ
+tsquid:S00116Ë"VRename this field "n_a_t_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä©¿¤ûÿÿÿÿ
+lsquid:S00116ú"SRename this field "cp_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä“¹
+|squid:S1149Ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+Gsquid:S1948o"+Make "constants" transient or serializable.(ş¹¹®øÿÿÿÿ
+bsquid:HiddenFieldCheckí":Rename "index" which hides the field declared at line 112.(Üùüÿÿÿÿ
+bsquid:HiddenFieldCheckœ":Rename "index" which hides the field declared at line 112.(‰—ºîúÿÿÿÿ
+lsquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¡˜ÿÿÿÿÿ
+]squid:HiddenFieldCheckÊ":Rename "index" which hides the field declared at line 112.(øŒ»
+bsquid:HiddenFieldCheckÙ":Rename "index" which hides the field declared at line 112.(Æ•˜éøÿÿÿÿ
+Esquid:S1659ê"-Declare "signature_index" on a separate line.(ÛŞşœ
+]squid:HiddenFieldCheck‰":Rename "index" which hides the field declared at line 112.(á©µÌ
+Fsquid:S1659Ÿ")Declare "class_index" on a separate line.(¨…¾”şÿÿÿÿ
+Nsquid:S1659Ÿ"1Declare "name_and_type_index" on a separate line.(¨…¾”şÿÿÿÿ
+]squid:HiddenFieldCheckÃ":Rename "index" which hides the field declared at line 112.(ÚĞ¨Í
+Fsquid:S1659Ù")Declare "class_index" on a separate line.(¨…¾”şÿÿÿÿ
+Nsquid:S1659Ù"1Declare "name_and_type_index" on a separate line.(¨…¾”şÿÿÿÿ
+]squid:HiddenFieldCheckı":Rename "index" which hides the field declared at line 112.(¸™ŸŸ
+Isquid:S1659"1Declare "name_and_type_index" on a separate line.(â‡¯À
+fsquid:HiddenFieldCheckå">Rename "constants" which hides the field declared at line 111.(‹Ø¿Èøÿÿÿÿ

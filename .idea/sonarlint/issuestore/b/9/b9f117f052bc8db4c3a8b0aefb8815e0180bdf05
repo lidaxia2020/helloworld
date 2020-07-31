@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(“ÀÝ¬
+:squid:S2129q"Remove this "Long" constructor(ŒÃÈ²ýÿÿÿÿ
+Ysquid:CallToDeprecatedMethodq",Remove this use of "Long"; it is deprecated.(ŒÃÈ²ýÿÿÿÿ
+Usquid:CallToDeprecatedMethod—",Remove this use of "Long"; it is deprecated.(œ‘Ûˆ
+^squid:S1126Õ"AReplace this if-then-else statement by a single return statement.(³Ùöžýÿÿÿÿ

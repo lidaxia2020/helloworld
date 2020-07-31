@@ -1,0 +1,44 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(–èœýÿÿÿÿ
+Jsquid:S1199ž"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199å"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Qsquid:S3516Â"9Refactor this method to not always return the same value.(º®ÅŒ
+csquid:S1301ó"KReplace this "switch" statement by "if" statements to increase readability.(ü‚æë
+`squid:S2259Ã"CA "NullPointerException" could be thrown; "itype" is nullable here.(ãªÑ£ûÿÿÿÿ
+isquid:S2259Ë"LA "NullPointerException" could be thrown; "getMethodType()" can return null.( ¤Û•ûÿÿÿÿ
+[squid:S2259Å"CA "NullPointerException" could be thrown; "itype" is nullable here.(ˆë¥õ
+_squid:S2259ð"BA "NullPointerException" could be thrown; "type" is nullable here.(¡º’Ùùÿÿÿÿ
+[squid:S2259º"CA "NullPointerException" could be thrown; "mtype" is nullable here.(€±æ¯
+`squid:S2259¾"CA "NullPointerException" could be thrown; "mtype" is nullable here.(ä­ï·üÿÿÿÿ
+`squid:S2259¼"CA "NullPointerException" could be thrown; "mtype" is nullable here.(€Üàïùÿÿÿÿ
+csquid:S2259Ð"LA "NullPointerException" could be thrown; "getMethodType()" can return null.(Üòû>
+^squid:S2259ù"FA "NullPointerException" could be thrown; "getName()" can return null.(ÜÒæ°
+Dsquid:S1659å",Declare "IS_CONSTRUCTOR" on a separate line.(ü˜°¤
+Csquid:S1659æ"&Declare "IS_FIELD" on a separate line.(èŸßýûÿÿÿÿ
+<squid:S1659ç"%Declare "IS_TYPE" on a separate line.(ÍÛÅR
+Ksquid:S1659è".Declare "CALLER_SENSITIVE" on a separate line.(³‘øÙýÿÿÿÿ
+`squid:HiddenFieldCheck "8Rename "type" which hides the field declared at line 88.(ÀÂµêýÿÿÿÿ
+`squid:HiddenFieldCheckç"8Rename "type" which hides the field declared at line 88.(ÀÂµêýÿÿÿÿ
+^squid:S1126¾"AReplace this if-then-else statement by a single return statement.(ä­ï·üÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckÅ""Add a default case to this switch.(™¤ø‹þÿÿÿÿ
+[squid:HiddenFieldCheckÍ"8Rename "type" which hides the field declared at line 88.(·ÏÍ£
+\squid:HiddenFieldCheckÎ"9Rename "flags" which hides the field declared at line 89.(ü‚íö
+Q"squid:SwitchLastCaseIsDefaultCheckä""Add a default case to this switch.(ü‚æë
+Q"squid:SwitchLastCaseIsDefaultCheckó""Add a default case to this switch.(ü‚æë
+Wsquid:S1854‰":Remove this useless assignment to local variable "result".(Ó­»¡þÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckŠ""Add a default case to this switch.(äŒ€
+psquid:S2975â"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(·ý¥Ñüÿÿÿÿ
+`squid:HiddenFieldCheckë"8Rename "type" which hides the field declared at line 88.(•ïüöûÿÿÿÿ
+`squid:HiddenFieldCheckô"8Rename "type" which hides the field declared at line 88.(Ü¨êèÿÿÿÿÿ
+`squid:HiddenFieldCheck•"8Rename "name" which hides the field declared at line 87.(Ò­ð‘ùÿÿÿÿ
+[squid:HiddenFieldCheck—"8Rename "type" which hides the field declared at line 88.(ŒºŠÌ
+psquid:S3008Ø"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Òèçþÿÿÿÿ
+usquid:S3008Ú"XRename this field "ALLOWED_FLAGS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ©‡óüÿÿÿÿ
+jsquid:S3776Ý"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÞÄ€
+\squid:S3358ê"DExtract this nested ternary operation into an independent statement.(ë«±ò
+gsquid:S00119Ê"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(µ ¤¤øÿÿÿÿ
+7squid:S3398Ø" Move this method into "Factory".(„Åöq
+=squid:S3398¢" Move this method into "Factory".(÷­ªèùÿÿÿÿ
+bsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(¼†Ü¢
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ìôÔ³ùÿÿÿÿ
+csquid:CommentedOutCodeLineº	"<This block of commented-out lines of code should be removed.(Û“¤

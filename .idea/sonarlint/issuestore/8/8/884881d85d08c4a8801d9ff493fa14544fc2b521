@@ -1,0 +1,16 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+Vsquid:UselessImportCheck'"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+rsquid:UselessImportCheck-"IRemove this unused import 'com.sun.org.apache.bcel.internal.generic.NEW'.(èú¨Óşÿÿÿÿ
+vsquid:UselessImportCheck*"SRemove this unused import 'com.sun.org.apache.bcel.internal.generic.INVOKESPECIAL'.(’¤Ò	
+lsquid:S001166"TRename this field "_modeName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èŞ®
+nsquid:S001167"VRename this field "_precedence" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÉ†¡
+Vsquid:S11619":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
+Asquid:S1172W"*Remove this unused method parameter "max".(˜¿Şñ
+Zsquid:S1854s">Remove this useless assignment to local variable "stylesheet".(Ûøßƒûÿÿÿÿ
+Qsquid:S1161g":Add the "@Override" annotation above this method signature(ÁØ’›
+Vsquid:S1161~":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+Xsquid:S1854";Remove this useless assignment to local variable "current".(ÿëó¹şÿÿÿÿ
+Rsquid:S1161‰":Add the "@Override" annotation above this method signature(†“‹Ø
+Isquid:S1481",Remove this unused "current" local variable.(ÿëó¹şÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

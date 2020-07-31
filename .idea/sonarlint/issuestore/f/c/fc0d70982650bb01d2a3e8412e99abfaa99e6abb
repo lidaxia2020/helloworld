@@ -1,0 +1,9 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
+isquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñêâ¾
+nsquid:S00117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¼½•øÿÿÿÿ
+usquid:UselessImportCheck)"QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
+rsquid:UselessImportCheck("IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
+žsquid:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§ƒ‰÷ÿÿÿÿÿ
+}squid:S1221b"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(®¼½•øÿÿÿÿ
+bsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(ÂƒµÅ

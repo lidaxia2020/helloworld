@@ -1,0 +1,53 @@
+
+_squid:S2184Ì"GCast one of the operands of this multiplication operation to a "float".(»–¤‘
+Zsquid:S2184ï"BCast one of the operands of this addition operation to a "double".(¤¬İÉ
+Zsquid:S2184"BCast one of the operands of this division operation to a "double".(Ñ“¶¥
+Xsquid:S2184"@Cast one of the operands of this integer division to a "double".(Ñ“¶¥
+_squid:S2184	"BCast one of the operands of this addition operation to a "double".(Â˜·ğùÿÿÿÿ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.( ¸¤
+gsquid:S1192À"JDefine a constant instead of duplicating this literal "focusNext" 3 times.(ñã¤·ıÿÿÿÿ
+asquid:S1192Á"JDefine a constant instead of duplicating this literal "focusLast" 3 times.(£í«
+csquid:S1192¹"FDefine a constant instead of duplicating this literal "right" 4 times.(èÑÓ¸øÿÿÿÿ
+usquid:S1488ˆ"]Immediately return this expression instead of assigning it to the temporary variable "value".(–Õšø
+usquid:S1488œ"]Immediately return this expression instead of assigning it to the temporary variable "value".(–Õšø
+jsquid:MaximumInheritanceDepth."<This class has 6 parents which is greater than 5 authorized.(ÓäÄùÿÿÿÿ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(‰Ä¹¤ùÿÿÿÿ
+Gsquid:S00108‹")Either remove or fill this block of code.(§ëÙ»ùÿÿÿÿ
+Wsquid:S1161–":Add the "@Override" annotation above this method signature(é£•‰ûÿÿÿÿ
+Gsquid:S00108Ÿ")Either remove or fill this block of code.(§ëÙ»ùÿÿÿÿ
+Rsquid:S1161¬":Add the "@Override" annotation above this method signature(€…¥š
+asquid:HiddenFieldCheck˜"9Rename "label" which hides the field declared at line 52.(¸Ş«Õøÿÿÿÿ
+Gsquid:S00108Ÿ")Either remove or fill this block of code.(éÍ¢øÿÿÿÿ
+Gsquid:S00108¨")Either remove or fill this block of code.(éÍ¢øÿÿÿÿ
+Vsquid:S1854ª"9Remove this useless assignment to local variable "color".(ìšÕÍıÿÿÿÿ
+Dsquid:S1948ş",Make "wheelImage" transient or serializable.(Ñğ÷„
+Gsquid:S1948†"/Make "triangleImage" transient or serializable.(Äû“
+jsquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(şò¸¦
+Rsquid:S1161©":Add the "@Override" annotation above this method signature(şò¸¦
+Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(³ıŸê
+_squid:HiddenFieldCheckÈ"7Rename "hue" which hides the field declared at line 68.(Œ²üôùÿÿÿÿ
+asquid:HiddenFieldCheckĞ">Rename "saturation" which hides the field declared at line 69.(ôØù“
+jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(–ë›£
+asquid:HiddenFieldCheckÀ">Rename "saturation" which hides the field declared at line 69.(Ì×’•
+>squid:S1172î"&Remove these unused method parameters.(–Úîü
+bsquid:HiddenFieldCheck“	":Rename "angle" which hides the field declared at line 654.(úØó„úÿÿÿÿ
+Qsquid:S3400Ğ	"9Remove this method and declare a constant for this value.(çÆ¦ö
+Qsquid:S3400Ú	"9Remove this method and declare a constant for this value.(¹º¸
+Vsquid:S3400ä	"9Remove this method and declare a constant for this value.(Áì¤úÿÿÿÿÿ
+Vsquid:S3400î	"9Remove this method and declare a constant for this value.(Áì¤úÿÿÿÿÿ
+Psquid:S3400ø	"9Remove this method and declare a constant for this value.(Ìî¦V
+Vsquid:S3400 
+"9Remove this method and declare a constant for this value.(Áì¤úÿÿÿÿÿ
+bsquid:HiddenFieldCheckË
+":Rename "angle" which hides the field declared at line 654.(ñ•×îşÿÿÿÿ
+Zsquid:HiddenFieldCheckş
+"7Rename "hue" which hides the field declared at line 68.(õŠä›
+Osquid:S1854¢"7Remove this useless assignment to local variable "hue".(õŠä›
+Q"squid:SwitchLastCaseIsDefaultCheck¤""Add a default case to this switch.(ÜŸ•
+Q"squid:SwitchLastCaseIsDefaultCheck¹""Add a default case to this switch.(ÜŸ•
+Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(©îÔ‚
+Gsquid:S1481ª"*Remove this unused "color" local variable.(ìšÕÍıÿÿÿÿ
+@squid:S1481¢"(Remove this unused "hue" local variable.(õŠä›
+>squid:S3398²"&Move this method into "ColorTriangle".(Ü‡œÕ
+=squid:S3398“"&Move this method into "ColorTriangle".(ßÍş
+>squid:S3398§"&Move this method into "ColorTriangle".(ö¯Ïÿ

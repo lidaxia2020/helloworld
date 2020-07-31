@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(İéÔÑøÿÿÿÿ
+hsquid:S2095Q"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(âåëÍ
+fsquid:S2095T"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ß— ùÿÿÿÿ
+gsquid:S2095r"KUse try-with-resources or close this "SocketChannel" in a "finally" clause.(ÖØƒıÿÿÿÿ
+}squid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(Ãİòøÿÿÿÿ
+_squid:UselessImportCheck&";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+`squid:UselessImportCheck%"7Remove this unused import 'org.omg.CORBA.COMM_FAILURE'.(©Ÿ·ıÿÿÿÿ
+csquid:UselessImportCheck ":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ
+squid:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾ƒÊãıÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck}"Remove this empty statement.(Åñ­õşÿÿÿÿ

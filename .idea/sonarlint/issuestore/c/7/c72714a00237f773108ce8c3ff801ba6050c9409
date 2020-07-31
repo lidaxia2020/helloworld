@@ -1,0 +1,9 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Šæƒ¼
+csquid:S1192ª"FDefine a constant instead of duplicating this literal "token" 3 times.(è„õ®ýÿÿÿÿ
+lsquid:UselessImportCheck)"HRemove this unused import 'javax.xml.parsers.FactoryConfigurationError'.(ö©á 
+wsquid:S1149©"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+wsquid:S1149Ð"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Esquid:S2755¬"-Disable XML external entity (XXE) processing.(îÄ·ú
+Jsquid:S2755®"-Disable XML external entity (XXE) processing.(ˆèÓœüÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

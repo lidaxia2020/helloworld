@@ -1,0 +1,32 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+Zsquid:S00107–"<Method has 8 parameters, which is greater than 7 authorized.(½ ìÿÿÿÿÿ
+Asquid:S16595"*Declare "buttonHeight" on a separate line.(›Î­ª
+Vsquid:S1161<":Add the "@Override" annotation above this method signature(›ßèşÿÿÿÿ
+Qsquid:S1161C":Add the "@Override" annotation above this method signature(ïÆ•ø
+Dsquid:S1125K"(Remove the literal "true" boolean value.(ğÆø ûÿÿÿÿ
+Dsquid:S1185d"(Remove this method to simply inherit it.(ä¯¨‚ıÿÿÿÿ
+Vsquid:S1161d":Add the "@Override" annotation above this method signature(ä¯¨‚ıÿÿÿÿ
+Vsquid:S1161i":Add the "@Override" annotation above this method signature(˜å³œøÿÿÿÿ
+Qsquid:S1161r":Add the "@Override" annotation above this method signature(«²ËÍ
+isquid:S3776}"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(³ıŸê
+Qsquid:S1161}":Add the "@Override" annotation above this method signature(³ıŸê
+Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+osquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•¯‹Ìıÿÿÿÿ
+Wsquid:S1161ä":Add the "@Override" annotation above this method signature(•¯‹Ìıÿÿÿÿ
+\squid:S3358è"DExtract this nested ternary operation into an independent statement.(Š”‹¹
+Wsquid:S1161Œ":Add the "@Override" annotation above this method signature(ë®ˆñşÿÿÿÿ
+Rsquid:S1161‘":Add the "@Override" annotation above this method signature(ÈÊ“À
+Wsquid:S1161µ":Add the "@Override" annotation above this method signature(Ä Ïúüÿÿÿÿ
+Wsquid:S1161¿":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
+Asquid:S00108Â")Either remove or fill this block of code.(ÌÀêM
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(æÇ‘ûøÿÿÿÿ
+Rsquid:S1161û":Add the "@Override" annotation above this method signature(€ëßí
+Wsquid:S1161ÿ":Add the "@Override" annotation above this method signature(ÇåÒ»úÿÿÿÿ
+Csquid:S1172–"&Remove these unused method parameters.(½ ìÿÿÿÿÿ
+isquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Â½¼
+Qsquid:S1161¥":Add the "@Override" annotation above this method signature(Â½¼
+<squid:S1659§"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+Wsquid:S1161Û":Add the "@Override" annotation above this method signature(ğéËøÿÿÿÿ
+usquid:S4144Á"]Update this method so that its implementation is not identical to "getIconWidth" on line 573.(ää

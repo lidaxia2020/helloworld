@@ -1,0 +1,91 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ü±ìÄûÿÿÿÿ
+jsquid:S1192¥"MDefine a constant instead of duplicating this literal "ClassName = " 3 times.(©Õ™àøÿÿÿÿ
+wsquid:S1192Á"_Define a constant instead of duplicating this literal "ObjectName name cannot be null" 3 times.(Ü—ÊÀ
+dsquid:S1192¤"LDefine a constant instead of duplicating this literal "createMBean" 3 times.(Ø™öÀ
+xsquid:S1192Ä
+"[Define a constant instead of duplicating this literal "removeNotificationListener" 4 times.(–«şÚşÿÿÿÿ
+esquid:S1192"MDefine a constant instead of duplicating this literal "setAttribute" 4 times.(ÉÌé­
+xsquid:S1192‚"[Define a constant instead of duplicating this literal "Object name cannot be null" 5 times.(ì‘†’øÿÿÿÿ
+ksquid:S1192"NDefine a constant instead of duplicating this literal "registerMBean" 4 times.(¾îÏöşÿÿÿÿ
+squid:S1192¿"dDefine a constant instead of duplicating this literal ">, but keeping the MBean registered" 4 times.(òñ€–ùÿÿÿÿ
+msquid:S1192¥"PDefine a constant instead of duplicating this literal ", ObjectName = " 4 times.(©Õ™àøÿÿÿÿ
+jsquid:S1192¿"MDefine a constant instead of duplicating this literal "rethrowing <" 8 times.(òñ€–ùÿÿÿÿ
+fsquid:S1192Ğ"NDefine a constant instead of duplicating this literal "ObjectName = " 8 times.(Äİ—º
+_squid:S1192í
+"GDefine a constant instead of duplicating this literal "MBean " 3 times.(ŒÊÉÏ
+psquid:S1192"SDefine a constant instead of duplicating this literal "Not supported yet." 8 times.(³È‹—ıÿÿÿÿ
+jsquid:S1192«"MDefine a constant instead of duplicating this literal "getAttribute" 4 times.(–¢õüÿÿÿÿ
+ksquid:S1192¨
+"NDefine a constant instead of duplicating this literal ", Listener = " 3 times.(ÒåÆÊùÿÿÿÿ
+usquid:S1192õ	"XDefine a constant instead of duplicating this literal "addNotificationListener" 3 times.(İÛñ®ıÿÿÿÿ
+™squid:S1192"|Define a constant instead of duplicating this literal "Exception occurred trying to invoke the getter on the MBean" 4 times.(‘¤ì¹øÿÿÿÿ
+™squid:S1192€"|Define a constant instead of duplicating this literal "Exception occurred trying to invoke the setter on the MBean" 4 times.(à™ë¾ÿÿÿÿÿ
+Lsquid:S1066Ñ"/Merge this if statement with the enclosing one.(¼¤‹üÿÿÿÿ
+~squid:S4165Ó"aRemove this useless assignment; "res" already holds the assigned value along all execution paths.(™ÚÜ¦ùÿÿÿÿ
+@squid:S1604À"(Make this anonymous inner class a lambda(‘°Óé
+?squid:S1604Æ"(Make this anonymous inner class a lambda(Ñ…ä0
+dsquid:S00112ú"FDefine and throw a dedicated exception instead of using a generic one.(•ù¤ùÿÿÿÿ
+dsquid:S00112ä"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(¿ªÜ¬şÿÿÿÿ
+osquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‡Çœùÿÿÿÿ
+Msquid:S2065†"0Remove the "transient" modifier from this field.(Šÿİúÿÿÿÿ
+Msquid:S2065Œ"0Remove the "transient" modifier from this field.(´ÜÎ üÿÿÿÿ
+Msquid:S2065’"0Remove the "transient" modifier from this field.(Šæ‘Ùøÿÿÿÿ
+Hsquid:S2065•"0Remove the "transient" modifier from this field.(À‚Şí
+Msquid:S2065™"0Remove the "transient" modifier from this field.(ä á³ùÿÿÿÿ
+vsquid:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢İşùÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheckĞ"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+Å%squid:RedundantThrowsDeclarationCheckÚ"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+Å%squid:RedundantThrowsDeclarationCheckä"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+Å%squid:RedundantThrowsDeclarationCheckø"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+Å%squid:RedundantThrowsDeclarationCheck„"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(¯İ˜¨
+vsquid:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î¼‹Ğıÿÿÿÿ
+^squid:S2142Á"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+qsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìù÷
+qsquid:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìù÷
+vsquid:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(„–¥©ûÿÿÿÿ
+qsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íƒ³ÿ
+Bsquid:S1181¶"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+qsquid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(áı¾í
+Bsquid:S1181ò"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Bsquid:S1181›"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+]squid:S2147™"ECombine this catch with the one at line 791, which has the same body.(Äœ·
+Bsquid:S1181Ï"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Usquid:S1197Ö"8Move the array designator from the variable to the type.(¯”Î¥úÿÿÿÿ
+Usquid:S1197Ö"8Move the array designator from the variable to the type.(¯”Î¥úÿÿÿÿ
+Bsquid:S1181à"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+>squid:S1181ö"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
+Bsquid:S1181ø"%Catch Exception instead of Throwable.(°ÿïùÿÿÿÿ
+bsquid:S2147ğ"ECombine this catch with the one at line 878, which has the same body.(é¦ñÿüÿÿÿÿ
+bsquid:S2147ò"ECombine this catch with the one at line 878, which has the same body.(¾œÕûÿÿÿÿ
+]squid:S1193à"@Replace the usage of the "instanceof" operator by a catch block.(´’¡·øÿÿÿÿ
+Xsquid:S1193â"@Replace the usage of the "instanceof" operator by a catch block.(ÿÑü¹
+»%squid:RedundantThrowsDeclarationCheck¤"ˆRemove the declaration of thrown exception 'javax.management.InstanceAlreadyExistsException', as it cannot be thrown from method's body.(À½ÊÓ
+Bsquid:S1181«"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+9squid:S1181Ã"!Catch Exception instead of Error.(ë‘¤¥
+Bsquid:S1181Ñ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+9squid:S1181ã"!Catch Exception instead of Error.(ë‘¤¥
+>squid:S1181Å"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
+csquid:S2147À"FCombine this catch with the one at line 1470, which has the same body.(¾œÕûÿÿÿÿ
+qsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¦±·
+vsquid:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÎõÜøÿÿÿÿ
+vsquid:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÎõÜøÿÿÿÿ
+qsquid:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–û¢
+É%squid:RedundantThrowsDeclarationCheck²"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(ù¨ÀŸ
+ssquid:CallToDeprecatedMethod²"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ù¨ÀŸ
+Rsquid:S1161²":Add the "@Override" annotation above this method signature(ù¨ÀŸ
+ssquid:CallToDeprecatedMethod·"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(˜İ¡
+Rsquid:S1161·":Add the "@Override" annotation above this method signature(˜İ¡
+É%squid:RedundantThrowsDeclarationCheck½"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(ú¹¢œ
+xsquid:CallToDeprecatedMethod¼"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Äü­øÿÿÿÿ
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(Äü­øÿÿÿÿ
+˜%squid:RedundantThrowsDeclarationCheck»"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(²ßôÊ
+9squid:S1214Ş""Move constants to a class or enum.(äÍ¯A
+™squid:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£ĞæÏ
+™squid:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™ÛìÚ
+squid:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïí²™şÿÿÿÿ
+Esquid:S1172ª"-Remove this unused method parameter "object".(¤Ù™á
+™squid:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸¶‘«
+hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(²ùàÍøÿÿÿÿ
+hsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(®­Ÿşşÿÿÿÿ

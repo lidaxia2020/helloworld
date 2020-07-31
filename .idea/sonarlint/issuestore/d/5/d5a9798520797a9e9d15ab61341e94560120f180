@@ -1,0 +1,16 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ä³ùÿÿÿÿ
+rsquid:S1192i"VDefine a constant instead of duplicating this literal "Method not supported" 16 times.(»©”Âúÿÿÿÿ
+squid:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ôœôşÿÿÿÿ
+™%squid:RedundantThrowsDeclarationCheckh"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(”Ñÿÿÿÿÿ
+”%squid:RedundantThrowsDeclarationCheckm"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(‹à„
+š%squid:RedundantThrowsDeclarationCheck€"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ˆ·ğ¬ûÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheck…"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ßÜ£ª
+•%squid:RedundantThrowsDeclarationCheckŠ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(½»Ğ‘
+•%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ŸáãØ
+•%squid:RedundantThrowsDeclarationCheck”"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¡€¿Ñ
+•%squid:RedundantThrowsDeclarationCheck™"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.( Œ¬·
+•%squid:RedundantThrowsDeclarationCheck÷"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ÏÚÄ
+•%squid:RedundantThrowsDeclarationCheck¿"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Šı“™
+•%squid:RedundantThrowsDeclarationCheckÕ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¥ó‡Ú
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

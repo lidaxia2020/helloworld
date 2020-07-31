@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
+Ssquid:UselessImportCheck&"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û
+Usquid:UselessImportCheck%",Remove this unused import 'java.awt.Insets'.(šôÇ³ûÿÿÿÿ
+Ssquid:UselessImportCheck!"/Remove this unused import 'java.awt.Component'.(Ÿğ¯ö
+Dsquid:S1172C"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+Vsquid:S1161N":Add the "@Override" annotation above this method signature(‘‘ºçıÿÿÿÿ
+Vsquid:S1161]":Add the "@Override" annotation above this method signature(÷åÌùøÿÿÿÿ
+Vsquid:S1161a":Add the "@Override" annotation above this method signature(‹À…ÿÿÿÿÿ
+Vsquid:S1161d":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+Qsquid:S1161h":Add the "@Override" annotation above this method signature(¶øÂÁ
+Vsquid:S1161y":Add the "@Override" annotation above this method signature(ÊïÖŠûÿÿÿÿ

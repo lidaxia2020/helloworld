@@ -1,0 +1,24 @@
+
+Lsquid:S1191U"5Use classes from the Java API instead of Sun classes.(Ç¬‘
+Lsquid:S1066Ÿ"/Merge this if statement with the enclosing one.(Ê¦üèşÿÿÿÿ
+Qsquid:S4973’"9Use the "equals" method if value comparison was intended.(úèô
+Vsquid:S4973¡"9Use the "equals" method if value comparison was intended.(ÚøÕóûÿÿÿÿ
+Vsquid:S4973¡"9Use the "equals" method if value comparison was intended.(ÚøÕóûÿÿÿÿ
+Vsquid:S4973¢"9Use the "equals" method if value comparison was intended.(‹ºÙ×ıÿÿÿÿ
+Vsquid:S4973¨"9Use the "equals" method if value comparison was intended.(¸í¥èÿÿÿÿÿ
+Vsquid:S4973¨"9Use the "equals" method if value comparison was intended.(¸í¥èÿÿÿÿÿ
+Qsquid:S4973±"9Use the "equals" method if value comparison was intended.(¬­’
+Vsquid:S4973º"9Use the "equals" method if value comparison was intended.(ÆÙÉşÿÿÿÿ
+Qsquid:S4973»"9Use the "equals" method if value comparison was intended.(ÿùòƒ
+Psquid:S4973Å"9Use the "equals" method if value comparison was intended.(‘Òô_
+Vsquid:S4973Î"9Use the "equals" method if value comparison was intended.(û‰´›ûÿÿÿÿ
+Vsquid:S4973ê"9Use the "equals" method if value comparison was intended.(¶ê Éıÿÿÿÿ
+Qsquid:S4973í"9Use the "equals" method if value comparison was intended.(Ôİ—‚
+Qsquid:S4973ÿ"9Use the "equals" method if value comparison was intended.(ÜÃöÊ
+Vsquid:S4973†"9Use the "equals" method if value comparison was intended.(íìï”ıÿÿÿÿ
+Vsquid:S4973†"9Use the "equals" method if value comparison was intended.(íìï”ıÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(¼’‡ê
+Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(¼’‡ê
+µ%squid:RedundantThrowsDeclarationCheck”"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+Wsquid:S1161“":Add the "@Override" annotation above this method signature(Ğã Ğúÿÿÿÿ

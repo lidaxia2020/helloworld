@@ -1,0 +1,11 @@
+
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(Äıç•ıÿÿÿÿ
+9squid:S12141""Move constants to a class or enum.(üöÜ¼
+jsquid:ModifiersOrderCheck3"EReorder the modifiers to comply with the Java Language Specification.(•øí¹
+jsquid:ModifiersOrderCheck4"EReorder the modifiers to comply with the Java Language Specification.(ú½äñ
+jsquid:ModifiersOrderCheck5"EReorder the modifiers to comply with the Java Language Specification.(ˆşû§
+jsquid:ModifiersOrderCheck6"EReorder the modifiers to comply with the Java Language Specification.(€¤Ã
+jsquid:ModifiersOrderCheck7"EReorder the modifiers to comply with the Java Language Specification.(ğùª‘
+jsquid:ModifiersOrderCheck8"EReorder the modifiers to comply with the Java Language Specification.(ÒÈÔŒ
+jsquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(—ğ‡®
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

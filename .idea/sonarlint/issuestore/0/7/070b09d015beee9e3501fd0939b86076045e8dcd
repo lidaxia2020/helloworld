@@ -1,0 +1,5 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(‡½Òµüÿÿÿÿ
+fsquid:S00101Ì"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ï¥ê
+]squid:S1193û"@Replace the usage of the "instanceof" operator by a catch block.(É´Àùÿÿÿÿ
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(ô¼ıøÿÿÿÿ

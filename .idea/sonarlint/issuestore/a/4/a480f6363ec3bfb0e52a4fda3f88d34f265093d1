@@ -1,0 +1,16 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+Gsquid:S1066²"/Merge this if statement with the enclosing one.(·Å†¦
+^$squid:AssignmentInSubExpressionCheckp".Extract the assignment out of this expression.(ˆ¢Ç³
+psquid:S1450A"TRemove the "stype" field and declare it as a local variable in the relevant methods.(£÷æıüÿÿÿÿ
+msquid:S00116?"PRename this field "_step" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û²·¯ıÿÿÿÿ
+msquid:S00116@"PRename this field "_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßŸµåüÿÿÿÿ
+nsquid:S00116B"VRename this field "_orderNodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ıá
+usquid:S00116C"XRename this field "_axisMismatch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊóÀ¡ıÿÿÿÿ
+Qsquid:S1161`":Add the "@Override" annotation above this method signature(­‘“
+Vsquid:S1161j":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+osquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(”Êö–ıÿÿÿÿ
+Rsquid:S1161»":Add the "@Override" annotation above this method signature(†“‹Ø
+Esquid:S1068A")Remove this unused "stype" private field.(£÷æıüÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Ó¶ ,

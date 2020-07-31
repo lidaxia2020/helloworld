@@ -1,0 +1,9 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+lsquid:S00116:"TRename this field "_translet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Éœ‰
+ssquid:S00116C"VRename this field "_sortOrders" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŸ¨éûÿÿÿÿ
+isquid:S00116L"QRename this field "_types" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÊÜ 
+ksquid:S00116U"SRename this field "_locales" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º Çç
+rsquid:S00116]"URename this field "_collators" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä£•§ýÿÿÿÿ
+ssquid:S00116e"VRename this field "_caseOrders" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÉÜúøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

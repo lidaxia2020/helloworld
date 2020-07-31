@@ -1,0 +1,8 @@
+
+Esquid:S1199—"-Extract this nested code block into a method.(Ü£ÂÇ
+Esquid:S1199›"-Extract this nested code block into a method.(Ÿ£ ñ
+Zsquid:S00107ï"<Method has 9 parameters, which is greater than 7 authorized.(ùË·éüÿÿÿÿ
+Ysquid:S00107"AConstructor has 9 parameters, which is greater than 7 authorized.(’”Þ
+Asquid:S1125‚")Remove the literal "false" boolean value.(ö³¤â
+\squid:S3358…"DExtract this nested ternary operation into an independent statement.(ÿÌÊð
+Fsquid:S2786÷")Remove this redundant "static" qualifier.(¿íÈÙüÿÿÿÿ

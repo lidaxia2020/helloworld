@@ -1,0 +1,9 @@
+
+Š squid:ForLoopCounterChangedCheck¶"XRefactor the code in order to not assign to this loop counter from within the loop body.(Úôž§øÿÿÿÿ
+„ squid:ForLoopCounterChangedCheck·"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘ý€=
+Š squid:ForLoopCounterChangedCheck¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñÁÒ­ÿÿÿÿÿ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
+fsquid:S1192]"ODefine a constant instead of duplicating this literal "Bad value for " 3 times.(Ù–¶š
+hsquid:S1192Q"LDefine a constant instead of duplicating this literal " attribute " 4 times.(÷×ì£øÿÿÿÿ
+psquid:S1192H"TDefine a constant instead of duplicating this literal "Required attribute " 4 times.(Âö¯–ûÿÿÿÿ
+jsquid:S1192H"NDefine a constant instead of duplicating this literal " not present!" 4 times.(Âö¯–ûÿÿÿÿ

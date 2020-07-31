@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û³â
+wsquid:S00116s"ZRename this field "fragmentOffset_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ç•ûÿÿÿÿ
+8squid:S2129¬" Remove this "String" constructor(ÅË®ñ

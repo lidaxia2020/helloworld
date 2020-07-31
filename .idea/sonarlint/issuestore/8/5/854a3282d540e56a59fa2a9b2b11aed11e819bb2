@@ -1,0 +1,7 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ýäÌÝûÿÿÿÿ
+?squid:S1604<"(Make this anonymous inner class a lambda(°Žûº
+usquid:UselessImportCheck("QRemove this unnecessary import: java.lang classes are always implicitly imported.(ª“á±
+Ysquid:UselessImportCheck)"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+qsquid:S1210ã"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
+Q"squid:SwitchLastCaseIsDefaultCheck›""Add a default case to this switch.(ÜŸ•

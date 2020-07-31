@@ -1,0 +1,21 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
+|squid:S1192Ğ"dDefine a constant instead of duplicating this literal "com.sun.jmx.snmp.agent.SnmpMibAgent" 4 times.(Ô¤á¿
+„squid:S1192Å"gDefine a constant instead of duplicating this literal " is not registered in the MBean server" 4 times.(ùœÏ›ûÿÿÿÿ
+_squid:S1192Ò"GDefine a constant instead of duplicating this literal "addMib" 4 times.(ã†Å
+hsquid:S1301×"KReplace this "switch" statement by "if" statements to increase readability.(ïˆ÷şÿÿÿÿ
+Vsquid:S00107Í"=Method has 10 parameters, which is greater than 7 authorized.(ˆ¨ìæ
+}squid:S1149®"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áé…Ù
+}squid:S1149Ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áé…Ù
+}squid:S1149ƒ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¡ÓÚÅ
+‚squid:S1149—"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(îİ¿„ùÿÿÿÿ
+‚squid:S1149º"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëæ¾œÿÿÿÿÿ
+‚squid:S1149º"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëæ¾œÿÿÿÿÿ
+‚squid:S1149½"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ã‹Àêşÿÿÿÿ
+‚squid:S1149Í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óö±ğùÿÿÿÿ
+Esquid:S1948õ"(Make "server" transient or serializable.(•à”öÿÿÿÿÿ
+}squid:S3038r"a"preRegister" is defined in the "MBeanRegistration" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+Ysquid:S1126‰"AReplace this if-then-else statement by a single return statement.(æ¨†¿
+Msquid:S1854‰"5Remove this useless assignment to local variable "R".(ı¹íë
+>squid:S1481‰"&Remove this unused "R" local variable.(ı¹íë
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†Şªúÿÿÿÿ

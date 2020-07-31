@@ -1,0 +1,15 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö²‰ô
+jsquid:S00101/"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æõ¹øüÿÿÿÿ
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©ÞÎûÿÿÿÿ
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©ÞÎûÿÿÿÿ
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©ÞÎûÿÿÿÿ
+hsquid:S00117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÍå
+Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+tsquid:S001167"WRename this field "GIOP_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÙöÓýÿÿÿÿ
+msquid:S001168"URename this field "byte_order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ø¸Ü
+tsquid:S001169"WRename this field "message_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘œ•‡ÿÿÿÿÿ
+tsquid:S00116:"WRename this field "message_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëï“¡ûÿÿÿÿ
+Bsquid:S19056"&Remove this unnecessary cast to "int".(’î‹¢ÿÿÿÿÿ
+Bsquid:S1905:"&Remove this unnecessary cast to "int".(Ëï“¡ûÿÿÿÿ
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(¾±£Ô

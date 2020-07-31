@@ -1,0 +1,5 @@
+
+Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(§‡’åûÿÿÿÿ
+Isquid:S1153ž"1Directly append the argument of String.valueOf().(›þ†¬
+`squid:UselessImportCheck#"7Remove this unused import 'sun.security.x509.X500Name'.(ƒ°¥±ýÿÿÿÿ
+wsquid:S1149™"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰

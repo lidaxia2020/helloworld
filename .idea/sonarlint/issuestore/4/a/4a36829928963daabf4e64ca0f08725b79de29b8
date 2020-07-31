@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+Gsquid:S2160f"+Override the "equals" method in this class.(œôöÃüÿÿÿÿ
+Wsquid:S1161¾":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ
+7squid:S2129Æ"Remove this "Float" constructor(ÖŞ‰æ
+Vsquid:CallToDeprecatedMethodÆ"-Remove this use of "Float"; it is deprecated.(ÖŞ‰æ

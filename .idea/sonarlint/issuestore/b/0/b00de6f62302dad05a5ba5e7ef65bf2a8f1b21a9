@@ -1,0 +1,23 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ì—ğá
+Dsquid:S11858"(Remove this method to simply inherit it.(§ºŒ†ùÿÿÿÿ
+Vsquid:S11618":Add the "@Override" annotation above this method signature(§ºŒ†ùÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheckD"sRemove the declaration of thrown exception 'java.lang.ArrayIndexOutOfBoundsException' which is a runtime exception.(ªÃê8
+?squid:S1185C"(Remove this method to simply inherit it.(ÎäòĞ
+Qsquid:S1161C":Add the "@Override" annotation above this method signature(ÎäòĞ
+Dsquid:S1185J"(Remove this method to simply inherit it.(ÍÅÔ­şÿÿÿÿ
+Vsquid:S1161J":Add the "@Override" annotation above this method signature(ÍÅÔ­şÿÿÿÿ
+isquid:S3776T"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ä¥°
+fsquid:S00100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¥°
+Bsquid:S1172T"+Remove this unused method parameter "args".(ä¥°
+O
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ÆøÔ×
+O
+squid:S106m"9Replace this use of System.out or System.err by a logger.(¶ŸÎ
+T
+squid:S106u"9Replace this use of System.out or System.err by a logger.(å…À¾øÿÿÿÿ
+T
+squid:S106}"9Replace this use of System.out or System.err by a logger.(«à­üÿÿÿÿ
+U
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(šùğæşÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

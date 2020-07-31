@@ -1,0 +1,5 @@
+
+Vsquid:UselessImportCheck&"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+8squid:S1214@""Move constants to a class or enum.(÷ÎÀ
+£%squid:RedundantThrowsDeclarationCheckl"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Øçİÿÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck€"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(³ÅÄùÿÿÿÿ

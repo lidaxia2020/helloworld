@@ -1,0 +1,17 @@
+
+Š squid:ForLoopCounterChangedCheckº"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯…ƒŒýÿÿÿÿ
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ü©¬Øýÿÿÿÿ
+fsquid:UselessImportCheck)"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿéúÿÿÿÿ
+Gsquid:S2065="0Remove the "transient" modifier from this field.(¢—›þ
+Gsquid:S2065E"0Remove the "transient" modifier from this field.(…çÏ–
+|squid:S1149·"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+Osquid:S1197="8Move the array designator from the variable to the type.(¢—›þ
+Osquid:S1197á"8Move the array designator from the variable to the type.(Œý³o
+Osquid:S1197ú"8Move the array designator from the variable to the type.(Œý³o
+Osquid:S1197”"8Move the array designator from the variable to the type.(Œý³o
+Psquid:S1197­"8Move the array designator from the variable to the type.(ŽÏðØ
+Psquid:S1197°"8Move the array designator from the variable to the type.(ŒÔý˜
+Osquid:S1197á"8Move the array designator from the variable to the type.(Œý³o
+Osquid:S1197‹"8Move the array designator from the variable to the type.(Œý³o
+Osquid:S1197¦"8Move the array designator from the variable to the type.(Œý³o
+hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ØõÂªøÿÿÿÿ

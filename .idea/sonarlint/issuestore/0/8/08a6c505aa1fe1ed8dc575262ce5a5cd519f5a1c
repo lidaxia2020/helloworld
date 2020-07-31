@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(∞ò„¡
+Osquid:S11971"8Move the array designator from the variable to the type.(≈”∑Å
+Åsquid:S32524"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(Ç±‰Ñ
+Ñsquid:S32524"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(Ç±‰Ñ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

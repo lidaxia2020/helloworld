@@ -1,0 +1,12 @@
+
+@squid:S1604Î"(Make this anonymous inner class a lambda(º¬ÄÍ
+@squid:S1604ò"(Make this anonymous inner class a lambda(é¦àó
+usquid:UselessImportCheck("QRemove this unnecessary import: java.lang classes are always implicitly imported.(Óû¥ó
+zsquid:UselessImportCheck)"QRemove this unnecessary import: java.lang classes are always implicitly imported.(šÆ¿ˆıÿÿÿÿ
+usquid:UselessImportCheck*"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ÒÖêœ
+usquid:UselessImportCheck+"QRemove this unnecessary import: java.lang classes are always implicitly imported.(˜Ìñ
+zsquid:UselessImportCheck,"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ç…‚ûÿÿÿÿ
+asquid:S1134Ó"DTake the required action to fix the issue indicated by this comment.(éñ¥øÿÿÿÿ
+asquid:CallToDeprecatedMethodÛ"3Remove this use of "newInstance"; it is deprecated.(¤Àº™øÿÿÿÿ
+asquid:CallToDeprecatedMethodè"3Remove this use of "newInstance"; it is deprecated.(¤Àº™øÿÿÿÿ
+\squid:CallToDeprecatedMethod—"3Remove this use of "newInstance"; it is deprecated.(Ëç£¼

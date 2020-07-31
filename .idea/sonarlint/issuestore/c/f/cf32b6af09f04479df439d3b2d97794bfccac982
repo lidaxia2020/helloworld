@@ -1,0 +1,6 @@
+
+~"squid:ClassVariableVisibilityCheckF"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+Š"squid:ClassVariableVisibilityCheckN"WMake description a static final constant or non-public and provide accessors if needed.( ‡ðôúÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheckY"TMake required a static final constant or non-public and provide accessors if needed.(ÜÜŠÜ
+„"squid:ClassVariableVisibilityCheckf"QMake value a static final constant or non-public and provide accessors if needed.(¹»êöýÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckn"SMake choices a static final constant or non-public and provide accessors if needed.(«ÑÁÓùÿÿÿÿ

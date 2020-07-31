@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛýÿÿÿÿ
+Esquid:S1066}"/Merge this if statement with the enclosing one.(Çõ’.
+isquid:S3776;"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Æîš‰
+ssquid:S3252V"\Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEY".(òžïá
+{squid:S3252W"_Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_UNIQUE".(ß÷–®úÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

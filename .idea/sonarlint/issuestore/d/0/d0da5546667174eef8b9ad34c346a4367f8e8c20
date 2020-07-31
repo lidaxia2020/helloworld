@@ -1,0 +1,87 @@
+
+bsquid:S2184q"FCast one of the operands of this multiplication operation to a "long".(–ÒÇÅúÿÿÿÿ
+csquid:S2184Î"FCast one of the operands of this multiplication operation to a "long".(î˜Šòûÿÿÿÿ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¥Û´‡øÿÿÿÿ
+Lsquid:S1066Ë"/Merge this if statement with the enclosing one.(¨§Éèùÿÿÿÿ
+Gsquid:S1066è"/Merge this if statement with the enclosing one.(—î™ö
+Lsquid:S1066¬"/Merge this if statement with the enclosing one.(Áºùıÿÿÿÿ
+Jsquid:S1199·"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ë"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¢"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ñ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ê"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ü"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199 "-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¯"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ä"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Š	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¬	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199º	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ø	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199˜
+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Â
+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ı
+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199°"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+hsquid:S1301­"KReplace this "switch" statement by "if" statements to increase readability.(ÕÄªâşÿÿÿÿ
+hsquid:S1301â"KReplace this "switch" statement by "if" statements to increase readability.(ÕÄªâşÿÿÿÿ
+esquid:S2259Ï"HA "NullPointerException" could be thrown; "transition" is nullable here.(©Ì“ıÿÿÿÿ
+esquid:S2259É"HA "NullPointerException" could be thrown; "transition" is nullable here.(™™çªûÿÿÿÿ
+Psquid:S1197¡"8Move the array designator from the variable to the type.(ß¶¯¸
+Usquid:S1197´"8Move the array designator from the variable to the type.(Ÿ¹¤±ùÿÿÿÿ
+Psquid:S1197Ç"8Move the array designator from the variable to the type.(®öÍÀ
+Rsquid:S1161×":Add the "@Override" annotation above this method signature(ÜÑã
+Rsquid:S1161à":Add the "@Override" annotation above this method signature(ğÜşŠ
+jsquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ï‹¾¤
+V"squid:SwitchLastCaseIsDefaultCheck©""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
+psquid:S3776˜"SRefactor this method to reduce its Cognitive Complexity from 172 to the 15 allowed.(ˆ“×àûÿÿÿÿ
+Wsquid:S1161˜":Add the "@Override" annotation above this method signature(ˆ“×àûÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck©""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
+usquid:S3252¶"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(úÒá
+Isquid:S1135×"2Complete the task associated to this TODO comment.(ı¬§G
+zsquid:S3252’"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(»ä÷şÿÿÿÿ
+osquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ğ£ÒÉøÿÿÿÿ
+Lsquid:S2864í"4Iterate over the "entrySet" instead of the "keySet".(û·ŸÄ
+V"squid:SwitchLastCaseIsDefaultCheck­""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckâ""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
+osquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ª¼ƒ²ûÿÿÿÿ
+Wsquid:S1161ü":Add the "@Override" annotation above this method signature(ª¼ƒ²ûÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckˆ	""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
+osquid:S3776é	"RRefactor this method to reduce its Cognitive Complexity from 87 to the 15 allowed.(Ç°†Ìùÿÿÿÿ
+Zsquid:S1854ó	"BRemove this useless assignment to local variable "normalizedYear".(Ù£ª
+Wsquid:S1161é	":Add the "@Override" annotation above this method signature(Ç°†Ìùÿÿÿÿ
+Jsquid:S1135û	"2Complete the task associated to this TODO comment.(·µÌ·
+Jsquid:S1135›
+"2Complete the task associated to this TODO comment.(·µÌ·
+zsquid:S3252Ô
+"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Îß‘Îøÿÿÿÿ
+?squid:S1659Ÿ""Declare "dow1" on a separate line.(Ç‡¤îşÿÿÿÿ
+ksquid:S2975Ü"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+Rsquid:S1161Ü":Add the "@Override" annotation above this method signature(²ÈŞ
+Rsquid:S1161å":Add the "@Override" annotation above this method signature(ÎÒÉÂ
+Rsquid:S1161ì":Add the "@Override" annotation above this method signature(ÿ„Ïú
+psquid:ModifiersOrderCheckö"EReorder the modifiers to comply with the Java Language Specification.(”»›‘ÿÿÿÿÿ
+osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(¾çæüûÿÿÿÿ
+]squid:S3252¿"FUse static access with "sun.util.calendar.BaseCalendar" for "JANUARY".(–¾¶
+zsquid:S3252Ø"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Îß‘Îøÿÿÿÿ
+]squid:S3252å"FUse static access with "sun.util.calendar.BaseCalendar" for "JANUARY".(–¾¶
+zsquid:S3252ï"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Îß‘Îøÿÿÿÿ
+zsquid:S3252‹"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Æ¤…Ùıÿÿÿÿ
+jsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(Áìœ
+osquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(ò´°Šøÿÿÿÿ
+usquid:S3252ğ"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Ÿ½È
+usquid:S3252ø"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Œôø
+zsquid:S3252"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(¢›÷Óúÿÿÿÿ
+zsquid:S3252—"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(®•ñØúÿÿÿÿ
+usquid:S3252¦"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Ÿ½È
+usquid:S3252°"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Œôø
+Tsquid:S1854Ã"7Remove this useless assignment to local variable "era".(‘Õş®ıÿÿÿÿ
+^squid:S3252Ğ"FUse static access with "sun.util.calendar.BaseCalendar" for "JANUARY".(úŞ°
+Ksquid:S1481ó	"3Remove this unused "normalizedYear" local variable.(Ù£ª
+Esquid:S1481Ã"(Remove this unused "era" local variable.(‘Õş®ıÿÿÿÿ
+Esquid:S1068i".Remove this unused "EPOCH_YEAR" private field.(Ùµçö
+Hsquid:S1068r",Remove this unused "ONE_WEEK" private field.(°ğÉ™ÿÿÿÿÿ

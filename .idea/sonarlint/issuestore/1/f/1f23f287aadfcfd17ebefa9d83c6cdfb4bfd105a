@@ -1,0 +1,24 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+Vsquid:S1118E":Add a private constructor to hide the implicit public one.(­æüãúÿÿÿÿ
+Osquid:S1197}"8Move the array designator from the variable to the type.(®¡ÌÇ
+Osquid:S1197…"8Move the array designator from the variable to the type.(õÁ—T
+Usquid:S1197"8Move the array designator from the variable to the type.( ˆÛõøÿÿÿÿ
+Usquid:S1197–"8Move the array designator from the variable to the type.(¶ÃãŒÿÿÿÿÿ
+Usquid:S1197"8Move the array designator from the variable to the type.(öó€ıÿÿÿÿ
+Usquid:S1197£"8Move the array designator from the variable to the type.(²ÃÉıÿÿÿÿ
+Usquid:S1197«"8Move the array designator from the variable to the type.(¸«İßûÿÿÿÿ
+Usquid:S1197Ö"8Move the array designator from the variable to the type.(Ï…éıÿÿÿÿ
+Usquid:S1197ç"8Move the array designator from the variable to the type.(ô®…ùÿÿÿÿ
+Usquid:S1197û"8Move the array designator from the variable to the type.(ú›»ƒøÿÿÿÿ
+Usquid:S1197†"8Move the array designator from the variable to the type.(ïÌ†ğûÿÿÿÿ
+Usquid:S1197‘"8Move the array designator from the variable to the type.(Šõ¸’şÿÿÿÿ
+Psquid:S1197•"8Move the array designator from the variable to the type.(ŞİÌ
+Psquid:S1197"8Move the array designator from the variable to the type.(ß°×’
+Fsquid:S1125ğ")Remove the literal "false" boolean value.(ÜÊâÉşÿÿÿÿ
+Fsquid:S1125ô")Remove the literal "false" boolean value.(öîàµøÿÿÿÿ
+Fsquid:S1125’")Remove the literal "false" boolean value.(°Âßúÿÿÿÿ
+Fsquid:S1125–")Remove the literal "false" boolean value.(ÂÇî•üÿÿÿÿ
+osquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ñ—§Ñıÿÿÿÿ
+jsquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(˜™—Ã
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

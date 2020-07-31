@@ -1,0 +1,11 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
+|squid:S00116;"_Rename this field "defaults_initialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨Äÿÿÿÿÿ
+Dsquid:S1172B"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+Psquid:S1161P":Add the "@Override" annotation above this method signature(„¨ér
+Qsquid:S1161W":Add the "@Override" annotation above this method signature(À…âÈ
+Qsquid:S1161`":Add the "@Override" annotation above this method signature(¬ôŒµ
+Vsquid:S1161p":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+Qsquid:S1161v":Add the "@Override" annotation above this method signature(»½¼ú
+Rsquid:S1161…":Add the "@Override" annotation above this method signature(ıÿ‰ñ
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(¨©”¨ÿÿÿÿÿ

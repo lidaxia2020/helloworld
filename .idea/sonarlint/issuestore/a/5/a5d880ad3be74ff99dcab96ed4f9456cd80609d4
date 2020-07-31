@@ -1,0 +1,33 @@
+
+… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ê¯Ø“
+Š squid:ForLoopCounterChangedCheckŸ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ã½¥Åıÿÿÿÿ
+… squid:ForLoopCounterChangedCheckÂ"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ê
+Š squid:ForLoopCounterChangedCheckÕ"XRefactor the code in order to not assign to this loop counter from within the loop body.(§×İıÿÿÿÿ
+ssquid:S1192Æ"[Define a constant instead of duplicating this literal "BigInteger not invertible." 4 times.(½‚¿Ş
+Šsquid:S1845"mRename method "binaryGcd" to prevent any misunderstanding/clash with method "binaryGCD" defined on line 2147.(ö—­Ãşÿÿÿÿ
+osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(§¦şûÿÿÿÿ
+<squid:S1659±"Declare "b" on a separate line.(”Şˆ­ûÿÿÿÿ
+Fsquid:S1125é")Remove the literal "false" boolean value.(©â­ìúÿÿÿÿ
+jsquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ƒ£òë
+Ksquid:UselessParenthesesCheck›"!Remove these useless parentheses.(Ç•Öä
+Ksquid:UselessParenthesesCheck°"!Remove these useless parentheses.(Ç•Öä
+Rsquid:S1854³":Remove this useless assignment to local variable "rstart".(¸ş´à
+Psquid:S1197¬"8Move the array designator from the variable to the type.(¢‘‡µ
+jsquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(–•£
+Rsquid:S1854ù":Remove this useless assignment to local variable "rstart".(¸ş´à
+Psquid:S1197ò"8Move the array designator from the variable to the type.(¢‘‡µ
+jsquid:S3776ã
+"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.( ˆ¸ã
+jsquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(éÄÃ
+jsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ŞĞ Ù
+Wsquid:S1854":Remove this useless assignment to local variable "offset".(àó…“úÿÿÿÿ
+Ksquid:UselessParenthesesCheck‹"!Remove these useless parentheses.(Ç•Öä
+Ksquid:UselessParenthesesCheck‘"!Remove these useless parentheses.(Ç•Öä
+jsquid:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŒêŠî
+Rsquid:S1854¨"5Remove this useless assignment to local variable "r".(Çü€­úÿÿÿÿ
+Xsquid:S1854È";Remove this useless assignment to local variable "swapper".(ş³ØÛùÿÿÿÿ
+Qsquid:UnusedPrivateMethodÂ"+Remove this unused private "getInt" method.(şÇ‡¢
+Rsquid:UnusedPrivateMethodÎ",Remove this unused private "getLong" method.(¤ûØù
+Ysquid:UnusedPrivateMethodõ"3Remove this unused private "ensureCapacity" method.(ÀÛ¬¯
+csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(Âã¹ï
+hsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(ù×ğûÿÿÿÿ

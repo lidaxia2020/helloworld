@@ -1,0 +1,5 @@
+
+Bsquid:S2160t"+Override the "equals" method in this class.(„™¾€
+ksquid:S2975Ó"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+Wsquid:S1161À":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+qsquid:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å‘ËŒ

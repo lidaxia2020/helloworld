@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
+Gsquid:S1066¦"/Merge this if statement with the enclosing one.(ßË—
+Fsquid:S1066®"/Merge this if statement with the enclosing one.(ã‹ª4
+Bsquid:S00108˜")Either remove or fill this block of code.(±—œ–
+jsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(‹ı–¼
+ksquid:S3776ª"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(œõ™É
+Msquid:S2209â"5Change this instance-reference to a static reference.(œì¶î
+Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(Ì§•ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

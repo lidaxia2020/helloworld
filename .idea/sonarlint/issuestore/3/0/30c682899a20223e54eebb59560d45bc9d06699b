@@ -1,0 +1,40 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ü©¬Øıÿÿÿÿ
+u
+squid:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(´Á¸¦şÿÿÿÿ
+Rsquid:S1141¯"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¶"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+bsquid:S2259ı"JA "NullPointerException" could be thrown; "factoryClass" is nullable here.(œŸŠª
+fsquid:S2259»"IA "NullPointerException" could be thrown; "helperClass" is nullable here.(°äüûüÿÿÿÿ
+dsquid:UselessImportCheck1"@Remove this unused import 'org.omg.CORBA.portable.OutputStream'.(‹˜´Å
+`squid:UselessImportCheck>"7Remove this unused import 'java.rmi.server.RemoteStub'.(Æåå³ÿÿÿÿÿ
+gsquid:UselessImportCheck4">Remove this unused import 'org.omg.CORBA.portable.Streamable'.(²º—ñûÿÿÿÿ
+hsquid:UselessImportCheckK"DRemove this unused import 'com.sun.org.omg.SendingContext.CodeBase'.(¹ØÙï
+Wsquid:UselessImportCheck-".Remove this unused import 'org.omg.CORBA.Any'.(ÑÔĞåşÿÿÿÿ
+Xsquid:UselessImportCheck/"4Remove this unused import 'org.omg.CORBA.Principal'.(Ğ¢Áš
+Msquid:UselessImportCheckF")Remove this unused import 'java.io.File'.(†Ğ¥Å
+Wsquid:UselessImportCheck."3Remove this unused import 'org.omg.CORBA.TypeCode'.(æŠŠÕ
+fsquid:UselessImportCheck9"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿéúÿÿÿÿ
+Ysquid:UselessImportCheck8"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+]squid:UselessImportCheck+"4Remove this unused import 'org.omg.CORBA.BAD_PARAM'.(Š¡ë±ûÿÿÿÿ
+Xsquid:UselessImportCheckG"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+\squid:UselessImportCheck*"8Remove this unused import 'org.omg.CORBA.BAD_INV_ORDER'.(äÓìæ
+@squid:S1148ò"#Use a logger to log this exception.(‡Ü¡Ãşÿÿÿÿ
+qsquid:S3008d"URename this field "CACHE_MISS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ù şÿÿÿÿ
+Vsquid:S1118Z":Add a private constructor to hide the implicit public one.(Äº¢ñúÿÿÿÿ
+nsquid:S3776z"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.( èÌÕşÿÿÿÿ
+[squid:CallToDeprecatedMethodò"3Remove this use of "newInstance"; it is deprecated.(œÀÊ9
+Bsquid:S00108ó")Either remove or fill this block of code.(”ı¾
+osquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÃËÚÿÿÿÿÿ
+asquid:CallToDeprecatedMethod»"3Remove this use of "newInstance"; it is deprecated.(°äüûüÿÿÿÿ
+jsquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(äµŸ
+\squid:CallToDeprecatedMethodı"3Remove this use of "newInstance"; it is deprecated.(œŸŠª
+jsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Òş±ª
+Ssquid:S1854Ò";Remove this useless assignment to local variable "stubDel".(õÛ“
+Gsquid:S00108Û")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+jsquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(İù¤û
+Bsquid:S1181‚"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+Xsquid:S1193„"@Replace the usage of the "instanceof" operator by a catch block.(§û—­
+%squid:RedundantThrowsDeclarationCheck"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(º¨¯¬úÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck–"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(º¨¯¬úÿÿÿÿ
+Dsquid:S1481Ò",Remove this unused "stubDel" local variable.(õÛ“

@@ -1,0 +1,16 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
+]squid:S1226Á"FIntroduce a new variable instead of reusing the parameter "methodGen".(öµ‡&
+hsquid:S00116C"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ù™ï
+psquid:S00116D"SRename this field "_useSets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î£íÔúÿÿÿÿ
+lsquid:S00116E"TRename this field "_mergeSet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ààûÿ
+isquid:S00116F"RRename this field "_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¾…
+osquid:S00116G"RRename this field "_ignore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕß²ÿÿÿÿÿ
+rsquid:S00115@"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊÉçþ
+}squid:S1149Ž"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(›øøâ
+|squid:S1149è"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•°¶´úÿÿÿÿ
+Qsquid:S1161s":Add the "@Override" annotation above this method signature(ÁØ’›
+msquid:S2159}"VRemove this call to "equals"; comparisons between unrelated types always return false.(«‰‡¢
+Wsquid:S1161©":Add the "@Override" annotation above this method signature(šžíïÿÿÿÿÿ
+Rsquid:S1161¼":Add the "@Override" annotation above this method signature(†“‹Ø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

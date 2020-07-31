@@ -1,0 +1,85 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¬Ô«ûÿÿÿÿ
+`squid:S2583ä"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583Ó"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583ø"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+[squid:S2583Ó"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+`squid:S2583®"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583‰"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+Ksquid:UselessImportCheck""(Remove this unused import 'sun.misc.VM'.(«‹ú3
+Vsquid:UselessImportCheck "-Remove this unused import 'sun.misc.Cleaner'.(¬Ô«ûÿÿÿÿ
+Psquid:UselessImportCheck!",Remove this unused import 'sun.misc.Unsafe'.(éª‚€
+Rsquid:S1161Ï":Add the "@Override" annotation above this method signature(Ï„‡È
+Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(³úöá
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(òÅîîÿÿÿÿÿ
+Rsquid:S1161¨":Add the "@Override" annotation above this method signature(òÁ³‡
+Rsquid:S1161±":Add the "@Override" annotation above this method signature(Â”Æ›
+Qsquid:S1161º":Add the "@Override" annotation above this method signature(¹…¹&
+Rsquid:S1161ã":Add the "@Override" annotation above this method signature(Ì°¢ú
+Rsquid:S1161€":Add the "@Override" annotation above this method signature(»›£ß
+Wsquid:S1161‘":Add the "@Override" annotation above this method signature(ë ¸Îøÿÿÿÿ
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(ã³¦
+gsquid:S00100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬É‘„
+lsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÈõÃùÿÿÿÿ
+tsquid:S2177ù"WRename this method; there is a "private" method in the parent class with the same name.(ŠûãÛıÿÿÿÿ
+Csquid:S1172ù"&Remove these unused method parameters.(ŠûãÛıÿÿÿÿ
+Rsquid:S1161‡":Add the "@Override" annotation above this method signature(é­î’
+Wsquid:S1161":Add the "@Override" annotation above this method signature(ùù®£üÿÿÿÿ
+Rsquid:S1161™":Add the "@Override" annotation above this method signature(°áîÖ
+Esquid:S1905¢"-Remove this unnecessary cast to "CharBuffer".(Ç±­°
+Esquid:S1905¨"-Remove this unnecessary cast to "CharBuffer".(î‘†Ö
+Jsquid:S1905°"-Remove this unnecessary cast to "CharBuffer".(ˆÀŸÆùÿÿÿÿ
+Jsquid:S1905¶"-Remove this unnecessary cast to "CharBuffer".(¢“ì÷üÿÿÿÿ
+nsquid:S2177Ô"WRename this method; there is a "private" method in the parent class with the same name.(¦§ûg
+=squid:S1172Ô"&Remove these unused method parameters.(¦§ûg
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(Ñ¶¤Ùûÿÿÿÿ
+Wsquid:S1161ë":Add the "@Override" annotation above this method signature(ÀÛ±úùÿÿÿÿ
+Rsquid:S1161ô":Add the "@Override" annotation above this method signature(‘ƒÂí
+Ksquid:S1905ı".Remove this unnecessary cast to "ShortBuffer".(´¥ışÿÿÿÿ
+Ksquid:S1905ƒ".Remove this unnecessary cast to "ShortBuffer".(õÔŞ±ıÿÿÿÿ
+Fsquid:S1905‹".Remove this unnecessary cast to "ShortBuffer".(«—µ
+Ksquid:S1905‘".Remove this unnecessary cast to "ShortBuffer".(ê³Èıÿÿÿÿ
+osquid:S2177¯"WRename this method; there is a "private" method in the parent class with the same name.(§µ–æ
+>squid:S1172¯"&Remove these unused method parameters.(§µ–æ
+Wsquid:S1161½":Add the "@Override" annotation above this method signature(¯Å­ëùÿÿÿÿ
+Rsquid:S1161Æ":Add the "@Override" annotation above this method signature(å˜¦‹
+Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(­Ûµ³ÿÿÿÿÿ
+Dsquid:S1905Ø",Remove this unnecessary cast to "IntBuffer".(Â†ä
+Isquid:S1905Ş",Remove this unnecessary cast to "IntBuffer".(Š×«üüÿÿÿÿ
+Isquid:S1905æ",Remove this unnecessary cast to "IntBuffer".(ö—İ¡ıÿÿÿÿ
+Dsquid:S1905ì",Remove this unnecessary cast to "IntBuffer".(–›¶
+tsquid:S2177Š"WRename this method; there is a "private" method in the parent class with the same name.(šì·’øÿÿÿÿ
+Csquid:S1172Š"&Remove these unused method parameters.(šì·’øÿÿÿÿ
+Rsquid:S1161˜":Add the "@Override" annotation above this method signature(˜ß±ú
+Wsquid:S1161¡":Add the "@Override" annotation above this method signature(öÈÕçüÿÿÿÿ
+Wsquid:S1161ª":Add the "@Override" annotation above this method signature(˜…¯éûÿÿÿÿ
+Esquid:S1905³"-Remove this unnecessary cast to "LongBuffer".(ÑÖúš
+Esquid:S1905¹"-Remove this unnecessary cast to "LongBuffer".(İğàæ
+Jsquid:S1905Á"-Remove this unnecessary cast to "LongBuffer".(÷Ö™½şÿÿÿÿ
+Jsquid:S1905Ç"-Remove this unnecessary cast to "LongBuffer".(’°”Ñùÿÿÿÿ
+tsquid:S2177å"WRename this method; there is a "private" method in the parent class with the same name.(“ƒäúÿÿÿÿ
+Csquid:S1172å"&Remove these unused method parameters.(“ƒäúÿÿÿÿ
+Rsquid:S1161ó":Add the "@Override" annotation above this method signature(Ëç™š
+Rsquid:S1161ü":Add the "@Override" annotation above this method signature(ãø’ì
+Rsquid:S1161…":Add the "@Override" annotation above this method signature(ß ²»
+Esquid:S1905".Remove this unnecessary cast to "FloatBuffer".(‡Î‚m
+Ksquid:S1905”".Remove this unnecessary cast to "FloatBuffer".(Ò İ¥şÿÿÿÿ
+Ksquid:S1905œ".Remove this unnecessary cast to "FloatBuffer".(óœÊ†úÿÿÿÿ
+Ksquid:S1905¢".Remove this unnecessary cast to "FloatBuffer".(‡Ù¥ëøÿÿÿÿ
+osquid:S2177À"WRename this method; there is a "private" method in the parent class with the same name.(ß­Ø
+>squid:S1172À"&Remove these unused method parameters.(ß­Ø
+Wsquid:S1161Î":Add the "@Override" annotation above this method signature(±šÆğûÿÿÿÿ
+Qsquid:S1161×":Add the "@Override" annotation above this method signature(îªf
+Wsquid:S1161à":Add the "@Override" annotation above this method signature(®ïœùÿÿÿÿ
+Gsquid:S1905é"/Remove this unnecessary cast to "DoubleBuffer".(®ëÔé
+Lsquid:S1905ï"/Remove this unnecessary cast to "DoubleBuffer".(Ä·™òÿÿÿÿÿ
+Gsquid:S1905÷"/Remove this unnecessary cast to "DoubleBuffer".(’™´«
+Gsquid:S1905ı"/Remove this unnecessary cast to "DoubleBuffer".(Ú‡›µ
+Wsquid:UnusedPrivateMethodù",Remove this unused private "putChar" method.(ŠûãÛıÿÿÿÿ
+Rsquid:UnusedPrivateMethodÔ"-Remove this unused private "putShort" method.(¦§ûg
+Qsquid:UnusedPrivateMethod¯"+Remove this unused private "putInt" method.(§µ–æ
+Wsquid:UnusedPrivateMethodŠ",Remove this unused private "putLong" method.(šì·’øÿÿÿÿ
+Xsquid:UnusedPrivateMethodå"-Remove this unused private "putFloat" method.(“ƒäúÿÿÿÿ
+Tsquid:UnusedPrivateMethodÀ".Remove this unused private "putDouble" method.(ß­Ø
+1squid:S2183Ô"Remove this useless shift(ßàÍÜ

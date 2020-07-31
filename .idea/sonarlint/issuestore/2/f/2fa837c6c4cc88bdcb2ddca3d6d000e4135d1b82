@@ -1,0 +1,18 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
+squid:S1488†"gImmediately return this expression instead of assigning it to the temporary variable "messageMediator".(éŽœÕ
+„squid:S1488´"gImmediately return this expression instead of assigning it to the temporary variable "messageMediator".(ñÔ¶„ùÿÿÿÿ
+rsquid:UselessImportCheck,"IRemove this unused import 'com.sun.corba.se.pept.transport.EventHandler'.(Ë©å†ûÿÿÿÿ
+osquid:UselessImportCheck3"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.IIOPAddress'.(é›¢ùÿÿÿÿ
+rsquid:UselessImportCheck>"NRemove this unused import 'com.sun.corba.se.impl.encoding.CDRInputStream_1_0'.(¸Šüï
+usquid:UselessImportCheckA"RRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.KeyAddr'.(àšÚD
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+tsquid:UselessImportCheck("KRemove this unused import 'com.sun.corba.se.pept.transport.ByteBufferPool'.(Å¡«÷üÿÿÿÿ
+Wsquid:UselessImportCheck!"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+tsquid:UselessImportCheck?"KRemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputObject'.(Àä­®øÿÿÿÿ
+rsquid:UselessImportCheck<"NRemove this unused import 'com.sun.corba.se.impl.encoding.ByteBufferWithInfo'.(óë³“
+psquid:UselessImportCheck1"GRemove this unused import 'com.sun.corba.se.spi.ior.ObjectKeyTemplate'.(·ÛûÀþÿÿÿÿ
+rsquid:UselessImportCheck4"NRemove this unused import 'com.sun.corba.se.spi.ior.iiop.IIOPProfileTemplate'.(úËªº
+Tsquid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º
+_squid:HiddenFieldCheck˜"7Rename "orb" which hides the field declared at line 79.(Áæ˜ºþÿÿÿÿ
+_squid:HiddenFieldCheck½"7Rename "orb" which hides the field declared at line 79.(Áæ˜ºþÿÿÿÿ

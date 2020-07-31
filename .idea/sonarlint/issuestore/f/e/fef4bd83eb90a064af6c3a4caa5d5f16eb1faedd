@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(…ÞüÏ
+ksquid:S1192Ø
+"SUse already-defined constant 'FORMAT_FAILED' instead of duplicating its value here.(Öá’÷
+ksquid:S1192×
+"NUse already-defined constant 'BAD_CODE' instead of duplicating its value here.(ø×é¯üÿÿÿÿ
+hsquid:UselessImportCheck""?Remove this unused import 'java.util.MissingResourceException'.(å—¡Þþÿÿÿÿ
+^squid:UselessImportCheck#"5Remove this unused import 'java.util.ResourceBundle'.(ýÆ£¯øÿÿÿÿ
+Vsquid:UselessImportCheck!"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ
+Msquid:S1133Ñ"5Do not forget to remove this deprecated code someday.(ðõî¸
+Psquid:MissingDeprecatedCheckÑ"'Add the missing @Deprecated annotation.(ðõî¸
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

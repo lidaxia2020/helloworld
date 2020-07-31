@@ -1,0 +1,7 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùÑú¡
+Csquid:S2160‘"+Override the "equals" method in this class.(£Ä‰√
+<squid:S1948Î"%Make "csf" transient or serializable.(ô˝ÕJ
+<squid:S1948Û"%Make "ssf" transient or serializable.(ØÈÁ_
+psquid:S2975ﬁ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(å…ØÊ˛ˇˇˇˇ
+Rsquid:S1133ë"5Do not forget to remove this deprecated code someday.(Ñ˜ôË˝ˇˇˇˇ

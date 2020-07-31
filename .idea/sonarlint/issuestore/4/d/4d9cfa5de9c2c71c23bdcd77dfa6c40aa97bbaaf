@@ -1,0 +1,13 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+[squid:UselessImportCheck#"2Remove this unused import 'javax.swing.UIManager'.(ó·Âûÿÿÿÿ
+Zsquid:UselessImportCheck!"6Remove this unused import 'javax.swing.JToggleButton'.(‚ô°˜
+bsquid:UselessImportCheck&">Remove this unused import 'javax.swing.border.CompoundBorder'.(ùö¨ä
+\squid:UselessImportCheck""3Remove this unused import 'javax.swing.UIDefaults'.(É ‹³ùÿÿÿÿ
+isquid:UselessImportCheck+"@Remove this unused import 'javax.swing.plaf.basic.BasicBorders'.(×Êÿüÿÿÿÿ
+Dsquid:S11723"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+Qsquid:S11617":Add the "@Override" annotation above this method signature(ïÆ•ø
+Vsquid:S1161>":Add the "@Override" annotation above this method signature(Ô‹ÏŒúÿÿÿÿ
+Vsquid:S1161F":Add the "@Override" annotation above this method signature(öÆŞâúÿÿÿÿ
+Vsquid:S1161N":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+Qsquid:S1161_":Add the "@Override" annotation above this method signature(³İê÷

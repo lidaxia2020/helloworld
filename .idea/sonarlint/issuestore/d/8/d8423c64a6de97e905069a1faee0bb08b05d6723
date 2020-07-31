@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(«¥·°ùÿÿÿÿ
+>squid:S1214`""Move constants to a class or enum.(üğÛéúÿÿÿÿ
+fsquid:S2386“"NMove "EXCS_CLASS_AND_INTERFACE_RESOLUTION" to a class and lower its visibility(Úõú
+bsquid:S2386˜"KMove "EXCS_FIELD_AND_METHOD_RESOLUTION" to a class and lower its visibility(şóÃn
+\squid:S2386 "?Move "EXCS_ARRAY_EXCEPTION" to a class and lower its visibility(¶¢±ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(Ğç—Ôùÿÿÿÿ

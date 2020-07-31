@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
+osquid:S1192_"XUse already-defined constant 'ATTVAL_RESTRICTION' instead of duplicating its value here.(¡ûã
+nsquid:S1192f"RUse already-defined constant 'ATTVAL_UNION' instead of duplicating its value here.(Ôôİ•ûÿÿÿÿ
+rsquid:S1192L"VUse already-defined constant 'ATTVAL_EXTENSION' instead of duplicating its value here.(”•Ç™úÿÿÿÿ
+Qsquid:S1118+":Add a private constructor to hide the implicit public one.(‘ú„
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,91 @@
+
+… squid:ForLoopCounterChangedCheckê"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş–•¦
+… squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(¹…ìÉ
+Š squid:ForLoopCounterChangedCheckŠ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Í˜Ë»üÿÿÿÿ
+Rsquid:S1191Ñ"5Use classes from the Java API instead of Sun classes.(´ è¸ÿÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckô".Extract the assignment out of this expression.(‰÷ÁÊøÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckõ".Extract the assignment out of this expression.(Äİ˜°üÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckõ".Extract the assignment out of this expression.(Äİ˜°üÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck‡".Extract the assignment out of this expression.(‰÷ÁÊøÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckˆ".Extract the assignment out of this expression.(ÂÕ©İ
+d$squid:AssignmentInSubExpressionCheckê".Extract the assignment out of this expression.(ß¦Ú·ıÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckà	".Extract the assignment out of this expression.(œœóşÿÿÿÿÿ
+^$squid:AssignmentInSubExpressionCheck
+".Extract the assignment out of this expression.(¥¸“I
+d$squid:AssignmentInSubExpressionCheckÏ
+".Extract the assignment out of this expression.(å¦Ÿİøÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck¦".Extract the assignment out of this expression.(œ®¥´
+d$squid:AssignmentInSubExpressionCheck¹".Extract the assignment out of this expression.(ß¦Ú·ıÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckœ".Extract the assignment out of this expression.(ß¦Ú·ıÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck²".Extract the assignment out of this expression.(ÆŞ“‘
+_$squid:AssignmentInSubExpressionCheckË".Extract the assignment out of this expression.(ÆŞ“‘
+_$squid:AssignmentInSubExpressionCheckÌ".Extract the assignment out of this expression.(ÀûŒ
+_$squid:AssignmentInSubExpressionCheckí".Extract the assignment out of this expression.(¹…ìÉ
+d$squid:AssignmentInSubExpressionCheckŠ".Extract the assignment out of this expression.(Í˜Ë»üÿÿÿÿ
+u
+squid:S135Û"YReduce the total number of break and continue statements in this loop to use at most one.(»éòşÿÿÿÿ
+dsquid:S00112ì"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+_squid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+}squid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(¾×¶îûÿÿÿÿ
+xsquid:UselessImportCheck1"TRemove this unnecessary import: same package classes are always implicitly imported.(œôŒ®
+xsquid:UselessImportCheck2"TRemove this unnecessary import: same package classes are always implicitly imported.(¡£ØÍ
+}squid:UselessImportCheck3"TRemove this unnecessary import: same package classes are always implicitly imported.(á¬øíıÿÿÿÿ
+}squid:UselessImportCheck4"TRemove this unnecessary import: same package classes are always implicitly imported.(É‘Äııÿÿÿÿ
+}squid:UselessImportCheck5"TRemove this unnecessary import: same package classes are always implicitly imported.(§·¶ùÿÿÿÿ
+xsquid:UselessImportCheck6"TRemove this unnecessary import: same package classes are always implicitly imported.(Æ™ş
+xsquid:UselessImportCheck7"TRemove this unnecessary import: same package classes are always implicitly imported.(£‡Ì
+squid:S1845Ò"dRename field "STATUS" to prevent any misunderstanding/clash with field "status" defined on line 341.(’ìıüÿÿÿÿ
+Dsquid:S1659€"'Declare "completed" on a separate line.(Õ•ø¥ÿÿÿÿÿ
+=squid:S1181„"%Catch Exception instead of Throwable.( Œã
+^squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(úÙÆê
+Rsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(úÙÆê
+Bsquid:S00108")Either remove or fill this block of code.(úÙÆê
+isquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(œŞ¹\
+\squid:S3358°"DExtract this nested ternary operation into an independent statement.( à•‘
+csquid:S2142¹"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+jsquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(âäı­
+asquid:S3358Ö"DExtract this nested ternary operation into an independent statement.(Ê©ÇÁÿÿÿÿÿ
+<squid:S1659ò"Declare "t" on a separate line.(‘ãŠûÿÿÿÿ
+=squid:S1659ò" Declare "wt" on a separate line.(‘ãŠûÿÿÿÿ
+<squid:S1659ò"Declare "w" on a separate line.(‘ãŠûÿÿÿÿ
+asquid:S3358ô"DExtract this nested ternary operation into an independent statement.(‰÷ÁÊøÿÿÿÿ
+asquid:S3358õ"DExtract this nested ternary operation into an independent statement.(Äİ˜°üÿÿÿÿ
+7squid:S1659…"Declare "t" on a separate line.(»©¦“
+8squid:S1659…" Declare "wt" on a separate line.(»©¦“
+asquid:S3358‡"DExtract this nested ternary operation into an independent statement.(‰÷ÁÊøÿÿÿÿ
+Esquid:S2387¼"-"next" is the name of a field in "Reference".(ËŞÉ‚
+=squid:S1181‘"%Catch Exception instead of Throwable.(Æ·™‹
+Bsquid:S00108‘")Either remove or fill this block of code.(Æ·™‹
+jsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(•€êô
+Bsquid:S00108õ")Either remove or fill this block of code.(ìŠÈ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(”‰Œ
+8squid:S1659µ" Declare "s2" on a separate line.(Æ˜Œ©
+isquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ü¤y
+jsquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(úôë²
+\squid:S3358„	"DExtract this nested ternary operation into an independent statement.(ƒûÉÎ
+=squid:S1181¶	"%Catch Exception instead of Throwable.( Œã
+osquid:S3776ù	"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(³¨èøıÿÿÿÿ
+\squid:S3358Š
+"DExtract this nested ternary operation into an independent statement.(‡»ùÄ
+8squid:S1659Œ
+" Declare "ms" on a separate line.(êÇÜ 
+<squid:S1659¸"Declare "q" on a separate line.(ÇúóÃÿÿÿÿÿ
+Csquid:S1452š"&Remove usage of generic wildcard type.(°ÀÂøÿÿÿÿ
+<squid:S1659›"Declare "q" on a separate line.(ÇúóÃÿÿÿÿÿ
+Csquid:S1452°"&Remove usage of generic wildcard type.(çğ”‡ıÿÿÿÿ
+Csquid:S1452É"&Remove usage of generic wildcard type.(¨“›ıÿÿÿÿ
+=squid:S1659Ê" Declare "wt" on a separate line.(ì€Âÿùÿÿÿÿ
+Gsquid:S1948œ"*Make "runnable" transient or serializable.(¿Ì©ùÿÿÿÿ
+Esquid:S1948"(Make "result" transient or serializable.(½Òû£øÿÿÿÿ
+squid:S1186¸"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ÚÉ¹üÿÿÿÿ
+Gsquid:S1948²"*Make "runnable" transient or serializable.(¿Ì©ùÿÿÿÿ
+squid:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ÚÉ¹üÿÿÿÿ
+Gsquid:S1948Å"*Make "runnable" transient or serializable.(¿Ì©ùÿÿÿÿ
+Rsquid:S1161Í":Add the "@Override" annotation above this method signature(«ÜÑ–
+Bsquid:S1948Û"*Make "callable" transient or serializable.(ø¢÷‘
+Esquid:S1948Ü"(Make "result" transient or serializable.(½Òû£øÿÿÿÿ
+>squid:S1181ç"!Catch Exception instead of Error.(Â¯¸êûÿÿÿÿ
+Csquid:S1452ÿ"&Remove usage of generic wildcard type.(ò¹š¾ÿÿÿÿÿ
+qsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãÒÃá
+vsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ØÚæÿÿÿÿÿ
+qsquid:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÍ‘œ

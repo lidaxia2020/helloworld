@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(הדהרÿÿÿÿ
+Fsquid:EmptyStatementUsageCheck+"Remove this empty statement.(Ú“׃
+Bsquid:S1452/"&Remove usage of generic wildcard type.(”־קûÿÿÿÿ

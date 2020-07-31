@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+osquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êè¾Ÿüÿÿÿÿ
+osquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êè¾Ÿüÿÿÿÿ
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØïÎÙ
+osquid:S00117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•úüÿÿÿÿ
+psquid:UselessImportCheckW"GRemove this unused import 'com.sun.org.apache.bcel.internal.Constants'.(Öü«ûÿÿÿÿ
+<squid:S2157f"%Add a "clone()" method to this class.(Ê¦™®
+ksquid:S00116g"SRename this field "start_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊßÔì
+ssquid:S00116h"VRename this field "line_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍƒÿÿÿÿÿ
+Gsquid:S00108à")Either remove or fill this block of code.(³›åùşÿÿÿÿ

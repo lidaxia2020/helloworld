@@ -1,0 +1,19 @@
+
+Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(°½““ùÿÿÿÿ
+jsquid:S00116U"RRename this field "m_xpath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äİÇ
+hsquid:S00116^"PRename this field "m_doc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ»ÏÆ
+jsquid:ModifiersOrderCheckU"EReorder the modifiers to comply with the Java Language Specification.(äİÇ
+jsquid:ModifiersOrderCheck^"EReorder the modifiers to comply with the Java Language Specification.(Ñ»ÏÆ
+¢%squid:RedundantThrowsDeclarationCheck¦"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(ÈÿÀ¿úÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck¦"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ÈÿÀ¿úÿÿÿÿ
+[squid:S3252³">Use static access with "org.w3c.dom.Node" for "DOCUMENT_NODE".(ƒ›ışÿÿÿÿ
+Usquid:S3252´"=Use static access with "org.w3c.dom.Node" for "ELEMENT_NODE".(öíßÍ
+Wsquid:S3252µ"?Use static access with "org.w3c.dom.Node" for "ATTRIBUTE_NODE".(€ˆÏ›
+Wsquid:S3252¶":Use static access with "org.w3c.dom.Node" for "TEXT_NODE".(‚ß¶øÿÿÿÿ
+[squid:S3252·"CUse static access with "org.w3c.dom.Node" for "CDATA_SECTION_NODE".(‹à´«
+Usquid:S3252¸"=Use static access with "org.w3c.dom.Node" for "COMMENT_NODE".(…Îİ˜
+isquid:S3252¹"LUse static access with "org.w3c.dom.Node" for "PROCESSING_INSTRUCTION_NODE".(¹Ì™³øÿÿÿÿ
+9squid:S2129Ä"!Remove this "Integer" constructor(úŸ‰’
+Xsquid:CallToDeprecatedMethodÄ"/Remove this use of "Integer"; it is deprecated.(úŸ‰’
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(êŠ™„

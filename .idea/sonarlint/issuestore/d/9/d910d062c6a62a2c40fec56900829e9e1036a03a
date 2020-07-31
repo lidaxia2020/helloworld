@@ -1,0 +1,6 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¥ëïøúÿÿÿÿ
+hsquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÕÛ9
+nsquid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âä€¿úÿÿÿÿ
+nsquid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âä€¿úÿÿÿÿ
+jsquid:CallToDeprecatedMethod›"<Remove this use of "XMLSecurityException"; it is deprecated.(˜›©Èøÿÿÿÿ

@@ -1,0 +1,6 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(áŽóš
+msquid:S00116,"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ž˜Äúÿÿÿÿ
+nsquid:S00116-"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ö’øÿÿÿÿÿ
+nsquid:S00116."QRename this field "_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›†ßàúÿÿÿÿ
+lsquid:S00116/"ORename this field "_orb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿôë‰ýÿÿÿÿ

@@ -1,0 +1,7 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+vsquid:S30083"ZRename this field "m_stringBufPool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—†íåıÿÿÿÿ
+Vsquid:S1118/":Add a private constructor to hide the implicit public one.(´ùá†ûÿÿÿÿ
+osquid:ModifiersOrderCheck@"EReorder the modifiers to comply with the Java Language Specification.(Áß™Óøÿÿÿÿ
+jsquid:ModifiersOrderCheckM"EReorder the modifiers to comply with the Java Language Specification.(´Ğ—©
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

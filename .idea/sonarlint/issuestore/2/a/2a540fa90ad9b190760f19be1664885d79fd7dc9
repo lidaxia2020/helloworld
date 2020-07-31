@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Å°ò£øÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake serverId a static final constant or non-public and provide accessors if needed.(ŸÛ°Ûıÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãâå
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¦Ù
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¦Ù
+Bsquid:S1905"&Remove this unnecessary cast to "int".(ŸÛ°Ûıÿÿÿÿ

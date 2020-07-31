@@ -1,0 +1,35 @@
+
+Rsquid:S1191Â"5Use classes from the Java API instead of Sun classes.(¸±ôöüÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckµ".Extract the assignment out of this expression.(„Ü¢ò
+_$squid:AssignmentInSubExpressionCheck™".Extract the assignment out of this expression.(·Ñ…
+d$squid:AssignmentInSubExpressionCheckº".Extract the assignment out of this expression.(„é³Äÿÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck¸".Extract the assignment out of this expression.(Ô­øÍ
+_$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(ˆù£Ç
+_$squid:AssignmentInSubExpressionCheck¸".Extract the assignment out of this expression.(™’Íƒ
+_$squid:AssignmentInSubExpressionCheckò".Extract the assignment out of this expression.(¿¥°è
+_$squid:AssignmentInSubExpressionCheck¬	".Extract the assignment out of this expression.(·ƒæ©
+ssquid:S00115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Ãã“
+ssquid:S00115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀÄèî
+xsquid:S00115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÜ‘ôüÿÿÿÿ
+<squid:S1659”"Declare "m" on a separate line.(ğşÉ§ûÿÿÿÿ
+<squid:S1659µ"Declare "m" on a separate line.(õî°äÿÿÿÿÿ
+Fsquid:S1940±")Use the opposite operator ("<=") instead.(õ×„ñøÿÿÿÿ
+Fsquid:S1940È")Use the opposite operator (">=") instead.(§–èöıÿÿÿÿ
+Fsquid:S1940÷")Use the opposite operator (">=") instead.(–á«ôùÿÿÿÿ
+Fsquid:S1940•")Use the opposite operator (">=") instead.(–á«ôùÿÿÿÿ
+7squid:S1659¶"Declare "m" on a separate line.(õÙùÇ
+6squid:S1659Æ"Declare "f" on a separate line.(Ç™àe
+Rsquid:S1161Ï":Add the "@Override" annotation above this method signature(ñ‰ì¶
+6squid:S1659Ñ"Declare "f" on a separate line.(Ç™àe
+7squid:S1659Õ"Declare "b" on a separate line.(‰«êà
+7squid:S1659ğ"Declare "m" on a separate line.(õÙùÇ
+6squid:S1659€	"Declare "f" on a separate line.(Ç™àe
+Wsquid:S1161‰	":Add the "@Override" annotation above this method signature(ÖËàúÿÿÿÿ
+6squid:S1659‹	"Declare "f" on a separate line.(Ç™àe
+7squid:S1659	"Declare "b" on a separate line.(¹¶
+7squid:S1659ª	"Declare "m" on a separate line.(õÙùÇ
+6squid:S1659º	"Declare "f" on a separate line.(Ç™àe
+Wsquid:S1161Ã	":Add the "@Override" annotation above this method signature(ß¿½ûÿÿÿÿ
+6squid:S1659Å	"Declare "f" on a separate line.(Ç™àe
+<squid:S1659É	"Declare "b" on a separate line.(ÏÚËÛıÿÿÿÿ
+hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(îÄÕÙúÿÿÿÿ

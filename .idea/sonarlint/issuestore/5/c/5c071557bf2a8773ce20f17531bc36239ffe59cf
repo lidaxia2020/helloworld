@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
+`squid:S2583:"DChange this condition so that it does not always evaluate to "false"(åş¨ìÿÿÿÿÿ
+Vsquid:S1161\":Add the "@Override" annotation above this method signature(çÌÏàıÿÿÿÿ
+Fsquid:S00108f")Either remove or fill this block of code.(ùôºúÿÿÿÿ

@@ -1,0 +1,71 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ğá
+asquid:S2259í"DA "NullPointerException" could be thrown; "reader" is nullable here.(ç²ÌÊøÿÿÿÿ
+_squid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(¾‚û
+jsquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ„½
+jsquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëİ×°
+;squid:S1148«"#Use a logger to log this exception.(Ç’Çê
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶«¢ñùÿÿÿÿ
+isquid:S00116"QRename this field "m_dtms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êı©
+vsquid:S00116•"XRename this field "m_dtm_offsets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡«­şÿÿÿÿ
+xsquid:S00116"ZRename this field "m_readerManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÇÜÓúÿÿÿÿ
+tsquid:S00116¦"[Rename this field "m_defaultHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ª¦Ù
+wsquid:S00116„"^Rename this field "m_expandedNameTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëú““
+Osquid:S1197"8Move the array designator from the variable to the type.(êı©
+Usquid:S1197•"8Move the array designator from the variable to the type.(¡«­şÿÿÿÿ
+psquid:ModifiersOrderCheck´"EReorder the modifiers to comply with the Java Language Specification.(‡úßÉûÿÿÿÿ
+ksquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(Ÿ¯öà
+Isquid:S1135É"2Complete the task associated to this TODO comment.(¢Ğ”
+Psquid:S1197Ü"8Move the array designator from the variable to the type.(ˆ„½
+Psquid:S1197ß"8Move the array designator from the variable to the type.(Ëİ×°
+ksquid:ModifiersOrderCheckñ"EReorder the modifiers to comply with the Java Language Specification.(•ˆùÍ
+psquid:S3776³"SRefactor this method to reduce its Cognitive Complexity from 113 to the 15 allowed.(‹’Æ¶ùÿÿÿÿ
+psquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(‹’Æ¶ùÿÿÿÿ
+P
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(ù¼Å·
+fsquid:S4201Â"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ïÆ¨Îüÿÿÿÿ
+Esquid:S1125Ó"(Remove the literal "true" boolean value.(©£æ®üÿÿÿÿ
+@squid:S1125Õ")Remove the literal "false" boolean value.(³í™(
+U
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(ĞÔ¥Åùÿÿÿÿ
+Dsquid:S1872—"'Use an "instanceof" comparison instead.(Ÿù»úÿÿÿÿ
+asquid:CallToDeprecatedMethod©"3Remove this use of "newInstance"; it is deprecated.(±¯âøÿÿÿÿ
+]squid:S2147•"ECombine this catch with the one at line 532, which has the same body.(“­ÿÏ
+Bsquid:S00108”")Either remove or fill this block of code.(ôµÄª
+Bsquid:S00108•")Either remove or fill this block of code.(“­ÿÏ
+P
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(í½é
+P
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Ü¯ÎÍ
+Bsquid:S00108¶")Either remove or fill this block of code.(‚Üò
+jsquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ô ¾º
+ksquid:ModifiersOrderCheckĞ"EReorder the modifiers to comply with the Java Language Specification.(ô ¾º
+Osquid:S1135é"2Complete the task associated to this TODO comment.(ÈØÇıÿÿÿÿ
+asquid:S4201ó"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ò»¾
+Gsquid:S1905¢"*Remove this unnecessary cast to "DOM2DTM".(â¤ÄÏÿÿÿÿÿ
+psquid:ModifiersOrderCheck¿"EReorder the modifiers to comply with the Java Language Specification.(¬ø¸úÿÿÿÿ
+ksquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(èìÙÉ
+ksquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(ã¹Ã­
+psquid:ModifiersOrderCheck—"EReorder the modifiers to comply with the Java Language Specification.(ªüš¬ÿÿÿÿÿ
+ksquid:ModifiersOrderCheckÄ"EReorder the modifiers to comply with the Java Language Specification.(Ìëº£
+P
+squid:S106È"9Replace this use of System.out or System.err by a logger.(ôØ’†
+psquid:ModifiersOrderCheckû"EReorder the modifiers to comply with the Java Language Specification.(ìú²¤ûÿÿÿÿ
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Î·„òıÿÿÿÿ
+Jsquid:S1135¡"2Complete the task associated to this TODO comment.(†˜÷”
+jsquid:ModifiersOrderCheck²"EReorder the modifiers to comply with the Java Language Specification.(ªñ¨5
+Jsquid:S1135¶"2Complete the task associated to this TODO comment.(†˜÷”
+ksquid:ModifiersOrderCheckÆ"EReorder the modifiers to comply with the Java Language Specification.(ŒÜ¿²
+Jsquid:S1135É"2Complete the task associated to this TODO comment.(†˜÷”
+jsquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(àáü?
+Jsquid:S1135İ"2Complete the task associated to this TODO comment.(†˜÷”
+Asquid:S1172ë"*Remove this unused method parameter "dtm".(µ•Ç
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(Íñæú
+csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(Ñ¡Ú
+csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(í÷ÿ€
+hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(âÆ®ûÿÿÿÿ
+csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(üÇ×Ù
+csquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(úöŞ˜
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(£ÿı•
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(¾‚û

@@ -1,0 +1,8 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ýŒÇ
+‚squid:S3252u"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ü¹²©ùÿÿÿÿ
+U
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ŠËåùøÿÿÿÿ
+Ysquid:S1126¬"AReplace this if-then-else statement by a single return statement.(°óª¬
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+bsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(ËŸðŽ

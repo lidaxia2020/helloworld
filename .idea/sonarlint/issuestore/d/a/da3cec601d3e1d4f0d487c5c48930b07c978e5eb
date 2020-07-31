@@ -1,0 +1,33 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+_$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(¬½æİ
+lsquid:S00116D"TRename this field "_adapters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÂÀĞ
+hsquid:S00116E"PRename this field "_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö›Ü
+ssquid:S00116F"VRename this field "_dtmManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¥™Åúÿÿÿÿ
+hsquid:S00116G"PRename this field "_free" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñµğ¼
+hsquid:S00116H"PRename this field "_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á°ö€
+rsquid:S00116J"URename this field "_documents" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÃŞùÿÿÿÿ
+hsquid:S00116N"PRename this field "_axis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥­†ÿ
+msquid:S00116O"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ãµşÿÿÿÿ
+jsquid:S00116Q"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
+hsquid:S00116R"QRename this field "_dtmId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«·‘M
+Qsquid:S1161a":Add the "@Override" annotation above this method signature(½‚ã§
+Qsquid:S1161~":Add the "@Override" annotation above this method signature(üÿÆ‰
+Rsquid:S1161…":Add the "@Override" annotation above this method signature(›ëı™
+Wsquid:S1161":Add the "@Override" annotation above this method signature(¶ÂÀèùÿÿÿÿ
+Wsquid:S1161—":Add the "@Override" annotation above this method signature(ÍïŸúúÿÿÿÿ
+Rsquid:S1161§":Add the "@Override" annotation above this method signature(À÷ÖÚ
+ksquid:S00116»"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
+osquid:S00116¼"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ƒšÿÿÿÿÿ
+gsquid:S00116½"NRename this field "_op" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‘ƒ±
+ssquid:S00116¾"URename this field "_isReverse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—°Ù›øÿÿÿÿ
+osquid:S00116¿"VRename this field "_returnType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠãÉ©
+Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(ÍïŸúúÿÿÿÿ
+Rsquid:S1161Î":Add the "@Override" annotation above this method signature(À÷ÖÚ
+Wsquid:S1161İ":Add the "@Override" annotation above this method signature(¿çß¤ÿÿÿÿÿ
+Rsquid:S1161â":Add the "@Override" annotation above this method signature(üÿÆ‰
+9squid:S2129Ş"!Remove this "Integer" constructor(ıÙË
+Xsquid:CallToDeprecatedMethodŞ"/Remove this use of "Integer"; it is deprecated.(ıÙË
+Jsquid:S1135Ã"2Complete the task associated to this TODO comment.(Æ¿¢û
+Jsquid:S1135Ï"2Complete the task associated to this TODO comment.(Æ¿¢û
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

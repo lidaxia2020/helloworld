@@ -1,0 +1,19 @@
+
+9squid:S1643÷"Use a StringBuilder instead.(·à«ßøÿÿÿÿ
+Lsquid:S1191""5Use classes from the Java API instead of Sun classes.(õ‹½
+^squid:S1192"FDefine a constant instead of duplicating this literal "https" 4 times.(ú¼‡ê
+Rsquid:S1141×"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Vsquid:S4973Ì"9Use the "equals" method if value comparison was intended.(Æş¡îúÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(³¸½ûÿÿÿÿ
+vsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(í¹èˆøÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙŠª—ÿÿÿÿÿ
+jsquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 89 to the 15 allowed.(åÏ–Ø
+Qsquid:S2864È"4Iterate over the "entrySet" instead of the "keySet".(²ê£ºùÿÿÿÿ
+bsquid:S3027æ"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(Œåô¤
+jsquid:ModifiersOrderCheck«"EReorder the modifiers to comply with the Java Language Specification.(Ÿâ§,
+^squid:S3027¬"FPut single-quotes around ',' to use the faster "indexOf(char)" method.(ª±–©
+Bsquid:S00108´")Either remove or fill this block of code.(üï™
+csquid:S3027·"FPut single-quotes around ',' to use the faster "indexOf(char)" method.(ŠŠèõşÿÿÿÿ
+Bsquid:S00108¿")Either remove or fill this block of code.(üï™
+Xsquid:S1126Ğ"AReplace this if-then-else statement by a single return statement.(ó¿Ü]
+vsquid:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(°£Áúÿÿÿÿ

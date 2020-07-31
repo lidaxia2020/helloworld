@@ -1,0 +1,9 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ĞµŒëşÿÿÿÿ
+dsquid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(¡§Æšøÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+^squid:UselessImportCheck1":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
+osquid:UselessImportCheck."KRemove this unused import 'com.sun.corba.se.impl.orbutil.concurrent.Mutex'.(ô‚¨
+asquid:HiddenFieldCheckV"@Rename "etherealizer" which hides the field declared at line 63.(…°e
+^squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(¬Êã®
+Lsquid:EmptyStatementUsageCheck¦"Remove this empty statement.(ôŸìúÿÿÿÿ

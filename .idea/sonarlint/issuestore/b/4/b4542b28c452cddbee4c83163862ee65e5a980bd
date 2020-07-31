@@ -1,0 +1,29 @@
+
+Qsquid:S1191)"5Use classes from the Java API instead of Sun classes.(íØÎàşÿÿÿÿ
+csquid:S1192ì"KDefine a constant instead of duplicating this literal " not found" 4 times.(ùœË˜
+ksquid:S1192š"SDefine a constant instead of duplicating this literal "invalid null input" 9 times.(’Ñ‡İ
+`squid:S1192é"IDefine a constant instead of duplicating this literal "KeyStore" 3 times.(²õY
+psquid:S1192¹
+"XDefine a constant instead of duplicating this literal "Uninitialized keystore" 19 times.(÷¤¼ô
+€squid:S1192æ"cDefine a constant instead of duplicating this literal "getKeyStore() must be called first" 3 times.(í•Šˆşÿÿÿÿ
+u
+squid:S135ë"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+Esquid:S1604ô	"(Make this anonymous inner class a lambda(ìŞˆ†ÿÿÿÿÿ
+_squid:S00112ô"FDefine and throw a dedicated exception instead of using a generic one.(Ø±£‡
+Msquid:UselessImportCheck")Remove this unused import 'java.net.URI'.(Ö¦¨°
+ssquid:S00115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÂâã
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(ˆˆòµşÿÿÿÿ
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(òôóîøÿÿÿÿ
+psquid:ModifiersOrderCheckò	"EReorder the modifiers to comply with the Java Language Specification.(¹§Ôœıÿÿÿÿ
+psquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(õÍµüşÿÿÿÿ
+Fsquid:S1125Ô")Remove the literal "false" boolean value.(‚‚çïÿÿÿÿÿ
+Asquid:S1125ä")Remove the literal "false" boolean value.(Æ¤“ù
+Fsquid:S1125®")Remove the literal "false" boolean value.(øİÊ—ûÿÿÿÿ
+Fsquid:S1125¯")Remove the literal "false" boolean value.(ê±Ñ´şÿÿÿÿ
+Asquid:S1125´")Remove the literal "false" boolean value.(‘ÿœ×
+jsquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ô©Ğ
+Fsquid:S1125á")Remove the literal "false" boolean value.(Ù‡Îüüÿÿÿÿ
+Gsquid:S2093ı"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+jsquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Ã‡¦å
+Fsquid:S1125å")Remove the literal "false" boolean value.(Ù‡Îüüÿÿÿÿ
+Asquid:S1125–")Remove the literal "false" boolean value.(Æ¤“ù

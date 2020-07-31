@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
+Fsquid:S1066o"/Merge this if statement with the enclosing one.(çÈµæ
+Zsquid:UselessImportCheck("6Remove this unused import 'org.omg.CORBA.LocalObject'.(øöè
+Osquid:S1197?"8Move the array designator from the variable to the type.(Áˆòú
+Csquid:S10686"'Remove this unused "orb" private field.(À¨¹§øÿÿÿÿ

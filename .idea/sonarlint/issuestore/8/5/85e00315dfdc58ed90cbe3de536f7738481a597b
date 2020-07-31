@@ -1,0 +1,8 @@
+
+Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒðw
+Osquid:S1197V"8Move the array designator from the variable to the type.(ÄäÕ¤
+wsquid:CallToDeprecatedMethodd"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(©Ÿú÷øÿÿÿÿ
+jsquid:CallToDeprecatedMethode"=Remove this use of "XMLSignatureException"; it is deprecated.(„Ýà˜ùÿÿÿÿ
+wsquid:CallToDeprecatedMethodr"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÓÑ§ºþÿÿÿÿ
+Tsquid:S1197r"8Move the array designator from the variable to the type.(ÓÑ§ºþÿÿÿÿ
+jsquid:CallToDeprecatedMethods"=Remove this use of "XMLSignatureException"; it is deprecated.(ÛÁˆ ýÿÿÿÿ

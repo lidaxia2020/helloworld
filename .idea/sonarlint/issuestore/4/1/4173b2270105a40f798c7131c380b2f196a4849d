@@ -1,0 +1,17 @@
+
+Š squid:ForLoopCounterChangedCheckƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÿûû¨øÿÿÿÿ
+… squid:ForLoopCounterChangedCheck…"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ñ¾¯Û
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(Äıç•ıÿÿÿÿ
+osquid:S001164"RRename this field "_buffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËìÅÖùÿÿÿÿ
+lsquid:S001165"ORename this field "_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­Í„üÿÿÿÿ
+msquid:S001167"URename this field "m_escaping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈöŠÉ
+tsquid:S001168"WRename this field "_nestedLevel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù†áğıÿÿÿÿ
+Vsquid:S1161:":Add the "@Override" annotation above this method signature(œ³‹€ûÿÿÿÿ
+Vsquid:S1161T":Add the "@Override" annotation above this method signature(™Ï‰“ıÿÿÿÿ
+Qsquid:S1161e":Add the "@Override" annotation above this method signature(í¢ò
+Vsquid:S1161i":Add the "@Override" annotation above this method signature(Ş¿¥åûÿÿÿÿ
+[squid:S1854p"?Remove this useless assignment to local variable "oldEscaping".(Â×‰Åúÿÿÿÿ
+Vsquid:S1161o":Add the "@Override" annotation above this method signature(…‹ûÉıÿÿÿÿ
+Msquid:S2692~"10 is a valid index, but is ignored by this check.(©Î½ÿÿÿÿÿ
+Lsquid:S1481p"0Remove this unused "oldEscaping" local variable.(Â×‰Åúÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

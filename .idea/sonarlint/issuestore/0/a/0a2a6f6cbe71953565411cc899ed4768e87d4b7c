@@ -1,0 +1,32 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ğá
+Isquid:S1199w"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¡"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199€"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¿"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+=squid:S1170A"!Make this final field static too.(éáÕˆùÿÿÿÿ
+rsquid:S00115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À˜Ù…
+wsquid:S00115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÉÕ÷µüÿÿÿÿ
+rsquid:S00115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘Ìçğ
+Tsquid:S1197I"8Move the array designator from the variable to the type.(€‡Öüùÿÿÿÿ
+O
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ç„ä
+csquid:HiddenFieldCheckx"<Rename "slotsize" which hides the field declared at line 65.(Ğšˆãıÿÿÿÿ
+¥%squid:RedundantThrowsDeclarationCheck”"sRemove the declaration of thrown exception 'java.lang.ArrayIndexOutOfBoundsException' which is a runtime exception.(•ÚÙ
+ª%squid:RedundantThrowsDeclarationCheckó"sRemove the declaration of thrown exception 'java.lang.ArrayIndexOutOfBoundsException' which is a runtime exception.(ÁÇğ–ûÿÿÿÿ
+>squid:S1170Ï"!Make this final field static too.(üøË£øÿÿÿÿ
+rsquid:S00116Ï"TRename this field "BLOCKSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üøË£øÿÿÿÿ
+nsquid:S00116Ğ"PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“‚øºùÿÿÿÿ
+lsquid:S00116Ñ"TRename this field "m_mapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÃãG
+Usquid:S1197Ğ"8Move the array designator from the variable to the type.(“‚øºùÿÿÿÿ
+Psquid:S1197ä"8Move the array designator from the variable to the type.(©±ä¬
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(‹£àîûÿÿÿÿ
+gsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ŠÆ¸œøÿÿÿÿ
+hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(ğúâåøÿÿÿÿ
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ğúâåøÿÿÿÿ
+hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(´¢ôö

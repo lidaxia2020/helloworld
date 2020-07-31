@@ -1,0 +1,76 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+_squid:S1192ã"GDefine a constant instead of duplicating this literal "xmlns:" 3 times.(•äÓÑ
+^squid:S1192Õ"FDefine a constant instead of duplicating this literal "xmlns" 4 times.(”»æ
+Jsquid:S1199â"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+p
+squid:S135Ô"YReduce the total number of break and continue statements in this loop to use at most one.(Ïúš»
+p
+squid:S135Æ"YReduce the total number of break and continue statements in this loop to use at most one.(—ÖÌ«
+u
+squid:S135ò"YReduce the total number of break and continue statements in this loop to use at most one.(Èƒ–·øÿÿÿÿ
+vsquid:S1488}"_Immediately return this expression instead of assigning it to the temporary variable "outNode".(ˆéÔš
+€squid:S1488÷"cImmediately return this expression instead of assigning it to the temporary variable "isIgnorable".(”àÿÿÿÿÿ
+Qsquid:S1141u"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Tsquid:S2589æ"7Remove this expression which always evaluates to "true"(Ìı³³ÿÿÿÿÿ
+Qsquid:S4973á"9Use the "equals" method if value comparison was intended.( ÷•ş
+lsquid:S2259Í"O"NullPointerException" will be thrown when invoking method "getParentOfNode()".(’Ç†Ãùÿÿÿÿ
+lsquid:S2259Ã"O"NullPointerException" will be thrown when invoking method "getParentOfNode()".(ì×à’üÿÿÿÿ
+lsquid:S2259î"O"NullPointerException" will be thrown when invoking method "getParentOfNode()".(ì×à’üÿÿÿÿ
+_squid:S00112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112¥	"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+^squid:S00112û"FDefine and throw a dedicated exception instead of using a generic one.(Ï÷àv
+Lsquid:S1133E"5Do not forget to remove this deprecated code someday.(ÛÃÚß
+Osquid:MissingDeprecatedCheckE"'Add the missing @Deprecated annotation.(ÛÃÚß
+rsquid:S00116Š"TRename this field "m_NSInfos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¥†ııÿÿÿÿ
+ƒsquid:S00116º"eRename this field "m_candidateNoAncestorXMLNS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÂ´‚øÿÿÿÿ
+usquid:S00116ù
+"WRename this field "m_DOMFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘åéÖıÿÿÿÿ
+ssquid:S1149Š"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(È¥†ııÿÿÿÿ
+‚squid:S1149º"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸÂ´‚øÿÿÿÿ
+Isquid:S1135N"2Complete the task associated to this TODO comment.(’ÊæÅ
+Nsquid:S1135\"2Complete the task associated to this TODO comment.(Çèšÿÿÿÿÿ
+Fsquid:S00108y")Either remove or fill this block of code.(ÛÅœ†úÿÿÿÿ
+osquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(âÁæÆûÿÿÿÿ
+Isquid:S1135ì"2Complete the task associated to this TODO comment.(–³×[
+Osquid:S1135ó"2Complete the task associated to this TODO comment.(çÀ…çøÿÿÿÿ
+?squid:S1659¦"'Declare "nParents2" on a separate line.(¡ÓÑ™
+Esquid:S1659¸"(Declare "startNode2" on a separate line.(Ï½°øÿÿÿÿ
+@squid:S1659Ñ"(Declare "prevChild2" on a separate line.(ß‹ı†
+@squid:S1125Ü"(Remove the literal "true" boolean value.(—†ñ•
+isquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(³©¢
+<squid:S1659Ã"$Declare "found2" on a separate line.(È×ê‡
+<squid:S1659ğ"$Declare "found2" on a separate line.(È×ê‡
+Jsquid:S1135ä"2Complete the task associated to this TODO comment.(µµå„
+jsquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(€êİ
+Osquid:S1135ï"2Complete the task associated to this TODO comment.(÷Èœ«ûÿÿÿÿ
+ksquid:S3776Í"SRefactor this method to reduce its Cognitive Complexity from 152 to the 15 allowed.(«Æ»ê
+Jsquid:S1135À"2Complete the task associated to this TODO comment.(ÄïĞÂ
+Osquid:S1135Ä"2Complete the task associated to this TODO comment.(­°ª¹şÿÿÿÿ
+Asquid:S1125Ú")Remove the literal "false" boolean value.(—Å®Š
+Fsquid:S1125á")Remove the literal "false" boolean value.(¯õŠ‡üÿÿÿÿ
+Lsquid:S1133ô"5Do not forget to remove this deprecated code someday.(”¸îI
+Jsquid:S1135ù"2Complete the task associated to this TODO comment.(”Å£
+Rsquid:S1133"5Do not forget to remove this deprecated code someday.(ôİñƒıÿÿÿÿ
+Osquid:S1135 "2Complete the task associated to this TODO comment.(ƒ°áøşÿÿÿÿ
+Jsquid:S1135ª"2Complete the task associated to this TODO comment.(½÷ª½
+–%squid:RedundantThrowsDeclarationCheckû"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Ï÷àv
+Osquid:S1135Å	"2Complete the task associated to this TODO comment.(ÿ–×Âıÿÿÿÿ
+Osquid:S1135Ì	"2Complete the task associated to this TODO comment.(ñü„ úÿÿÿÿ
+Jsquid:S1135ç	"2Complete the task associated to this TODO comment.(Ğ­²
+Jsquid:S1135ï	"2Complete the task associated to this TODO comment.(öØúü
+Osquid:S1135ú	"2Complete the task associated to this TODO comment.(ˆ·ïıÿÿÿÿ
+Jsquid:S1135ı	"2Complete the task associated to this TODO comment.(ã²ì¦
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(í”€ıÿÿÿÿ
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(„§ñ£
+csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(¼ê©Ë
+hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(ççÿùÿÿÿÿ
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(„¡ôáøÿÿÿÿ
+hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(ääÜàşÿÿÿÿ
+csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(¬Î¡
+hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(ˆÊ•ëÿÿÿÿÿ
+csquid:CommentedOutCodeLine…	"<This block of commented-out lines of code should be removed.(©³¯
+hsquid:CommentedOutCodeLine¨	"<This block of commented-out lines of code should be removed.(’ Öıÿÿÿÿ
+csquid:CommentedOutCodeLine²	"<This block of commented-out lines of code should be removed.(úÑ‘¿
+hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(º¸Øüÿÿÿÿÿ

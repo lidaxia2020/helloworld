@@ -1,0 +1,10 @@
+
+º%squid:RedundantThrowsDeclarationCheck”"‚Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from constructor's body.(ÌÆ«ãûÿÿÿÿ
+Rsquid:S1161‘":Add the "@Override" annotation above this method signature(ã®¸Â
+Wsquid:S1161¥":Add the "@Override" annotation above this method signature(’÷Ÿüûÿÿÿÿ
+Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(êÃö«ýÿÿÿÿ
+Usquid:S1197Ê"8Move the array designator from the variable to the type.(êÃö«ýÿÿÿÿ
+{squid:S2177ä"^Rename this method or correct the type of the argument(s) to override the parent class method.(ŒãŽ„þÿÿÿÿ
+Usquid:S1197ä"8Move the array designator from the variable to the type.(ŒãŽ„þÿÿÿÿ
+Psquid:S1197¨"8Move the array designator from the variable to the type.(Üë¿à
+Usquid:S1197Þ"8Move the array designator from the variable to the type.(¸â·²ùÿÿÿÿ

@@ -1,0 +1,56 @@
+
+[squid:S2184ğ"CCast one of the operands of this subtraction operation to a "long".(¬ÎÉ
+Lsquid:S11913"5Use classes from the Java API instead of Sun classes.(£ã› 
+Gsquid:S1066¥"/Merge this if statement with the enclosing one.(Õ¼Í
+hsquid:S1301‡"KReplace this "switch" statement by "if" statements to increase readability.(ÿÈø ùÿÿÿÿ
+hsquid:S1301•"KReplace this "switch" statement by "if" statements to increase readability.(¶üË³ûÿÿÿÿ
+[squid:S00107›"BConstructor has 10 parameters, which is greater than 7 authorized.(ëßİ¾
+[squid:S00107Ş"BConstructor has 11 parameters, which is greater than 7 authorized.(ëßİ¾
+[squid:S00107œ"BConstructor has 13 parameters, which is greater than 7 authorized.(ëßİ¾
+Zsquid:S00107ï"<Method has 8 parameters, which is greater than 7 authorized.(İá «üÿÿÿÿ
+osquid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÿÂüÿÿÿÿ
+jsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëßİ¾
+jsquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëßİ¾
+jsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëßİ¾
+>squid:S1170ú
+"!Make this final field static too.(õëÛ‹úÿÿÿÿ
+xsquid:S00115ë
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•ÏŠÖûÿÿÿÿ
+ssquid:S00115ì
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıâÎ°
+xsquid:S00115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëï÷•ûÿÿÿÿ
+Osquid:S1135"2Complete the task associated to this TODO comment.(‹Ø®×ûÿÿÿÿ
+Wsquid:S1161•":Add the "@Override" annotation above this method signature(‚íÖõÿÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(’ÕÖ´úÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheck¡";Refactor the code to remove this label and the need for it.(ù§·ı
+osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÃˆÁÜûÿÿÿÿ
+Isquid:S1135À"2Complete the task associated to this TODO comment.(Á½¢V
+Jsquid:S1135Ç"2Complete the task associated to this TODO comment.(©×Ã’
+V"squid:SwitchLastCaseIsDefaultCheckô""Add a default case to this switch.(©Øûºûÿÿÿÿ
+Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(Êë¨øÿÿÿÿ
+psquid:S2975‹"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
+Esquid:S1185‹"(Remove this method to simply inherit it.(¯ÔÚ“ùÿÿÿÿ
+Wsquid:S1161‹":Add the "@Override" annotation above this method signature(¯ÔÚ“ùÿÿÿÿ
+Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(Ä‡­øÿÿÿÿ
+Usquid:S1197ú
+"8Move the array designator from the variable to the type.(õëÛ‹úÿÿÿÿ
+Usquid:S1197û
+"8Move the array designator from the variable to the type.(÷ÒÌ›ÿÿÿÿÿ
+psquid:ModifiersOrderCheckû
+"EReorder the modifiers to comply with the Java Language Specification.(÷ÒÌ›ÿÿÿÿÿ
+Psquid:S1197ü
+"8Move the array designator from the variable to the type.(É‚¡
+ksquid:ModifiersOrderCheckü
+"EReorder the modifiers to comply with the Java Language Specification.(É‚¡
+jsquid:ModifiersOrderCheckï"EReorder the modifiers to comply with the Java Language Specification.(Ó¹–<
+jsquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÿ•·ú
+jsquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(„ö¢ã
+osquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¨Šš¿üÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckË""Add a default case to this switch.(ãˆÊıùÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckâ""Add a default case to this switch.(ìÜØ
+V"squid:SwitchLastCaseIsDefaultCheck‡""Add a default case to this switch.(ÿÈø ùÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck•""Add a default case to this switch.(¶üË³ûÿÿÿÿ
+Lsquid:S1068ú
+"/Remove this unused "monthLength" private field.(õëÛ‹úÿÿÿÿ
+Qsquid:S1068ü
+"9Remove this unused "staticLeapMonthLength" private field.(É‚¡

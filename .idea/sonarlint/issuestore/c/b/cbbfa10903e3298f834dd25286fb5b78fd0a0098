@@ -1,0 +1,18 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(áóš
+Tsquid:S2589Ò"7Remove this expression which always evaluates to "true"(‡úÆ›ùÿÿÿÿ
+^squid:S2259ı"AA "NullPointerException" could be thrown; "arg" is nullable here.(ã÷ûßûÿÿÿÿ
+osquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óƒ»şøÿÿÿÿ
+fsquid:S00116="ORename this field "_orb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®å.
+ksquid:S00116>"SRename this field "_wrapper" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÃÄª
+osquid:S00116?"RRename this field "_opName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŸ†İùÿÿÿÿ
+rsquid:S00116@"URename this field "_arguments" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û–çœÿÿÿÿÿ
+gsquid:S00116A"ORename this field "_ctx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŸä
+lsquid:S00116B"ORename this field "_ins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñœèúøÿÿÿÿ
+psquid:S00116E"XRename this field "_paramsCalled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‹‡ˆ
+msquid:S00116F"URename this field "_resultSet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù€µÀ
+usquid:S00116G"XRename this field "_exceptionSet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‚Á§ûÿÿÿÿ
+rsquid:S00116H"URename this field "_resultAny" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÕİëúÿÿÿÿ
+msquid:S00116I"URename this field "_exception" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãúâÒ
+Bsquid:S00108û")Either remove or fill this block of code.(ù³­¡
+?squid:S1068A"(Remove this unused "_ctx" private field.(ãŸä

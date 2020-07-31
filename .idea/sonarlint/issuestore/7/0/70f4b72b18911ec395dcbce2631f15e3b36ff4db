@@ -1,0 +1,21 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(à„…§ùÿÿÿÿ
+msquid:S1192i"QDefine a constant instead of duplicating this literal "invalid argument" 5 times.(ƒøşêúÿÿÿÿ
+Rsquid:S1141ñ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:UselessImportCheck9")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+`squid:UselessImportCheck6"7Remove this unused import 'java.rmi.server.RemoteStub'.(Æåå³ÿÿÿÿÿ
+psquid:UselessImportCheckB"LRemove this unused import 'com.sun.corba.se.impl.orbutil.GetPropertyAction'.(–×ï
+`squid:UselessImportCheck2"<Remove this unused import 'org.omg.CORBA.portable.Delegate'.(ß¦¸‰
+^squid:UselessImportCheck&"5Remove this unused import 'java.lang.reflect.Method'.(Í“¯äüÿÿÿÿ
+dsquid:UselessImportCheckA";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
+Usquid:UselessImportCheck/"1Remove this unused import 'java.util.Properties'.(¬µ²
+esquid:UselessImportCheck;"ARemove this unused import 'com.sun.corba.se.impl.util.JDKBridge'.(ƒ×µ°
+\squid:CallToDeprecatedMethod„"4Remove this use of "exportObject"; it is deprecated.(•›»v
+[squid:CallToDeprecatedMethod¢"2Remove this use of "RemoteStub"; it is deprecated.(Õƒã«
+[squid:CallToDeprecatedMethodË"2Remove this use of "RemoteStub"; it is deprecated.(æÎßñ
+%squid:RedundantThrowsDeclarationChecké"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(º–æİÿÿÿÿÿ
+jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¥Ÿî¶
+Bsquid:S00108ş")Either remove or fill this block of code.(â·…²
+Hsquid:S1481ë"+Remove this unused "result" local variable.(ÍŒËıÿÿÿÿ
+hsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(ùßÉ¿ûÿÿÿÿ
+csquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(ˆäÇ

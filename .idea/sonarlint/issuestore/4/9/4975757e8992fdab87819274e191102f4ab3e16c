@@ -1,0 +1,6 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
+nsquid:UselessImportCheck!"ERemove this unused import 'com.sun.corba.se.pept.transport.Acceptor'.(Ÿ÷“ûÿÿÿÿ
+psquid:UselessImportCheck""GRemove this unused import 'com.sun.corba.se.pept.transport.Connection'.(®Õ½“ıÿÿÿÿ
+isquid:S3776W"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÑŞ‡Ğ
+\squid:S2147h"ECombine this catch with the one at line 102, which has the same body.(Îâ×ß

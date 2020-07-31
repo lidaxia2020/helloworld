@@ -1,0 +1,61 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¬Ô«ûÿÿÿÿ
+[squid:S2583É"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+`squid:S2583Ä"CChange this condition so that it does not always evaluate to "true"(¶¾±µşÿÿÿÿ
+[squid:S2583"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+[squid:S2583ê"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+`squid:S2583"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+[squid:S2583…"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+[squid:S2583Ó"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+`squid:S2583ø"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583ä"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583Ó"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583®"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583‰"CChange this condition so that it does not always evaluate to "true"(ØÅŒ…üÿÿÿÿ
+`squid:S2583Õ"CChange this condition so that it does not always evaluate to "true"(¶¾±µşÿÿÿÿ
+Gsquid:S2160&"+Override the "equals" method in this class.( Êáêıÿÿÿÿ
+wsquid:S001155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óµŞÏûÿÿÿÿ
+rsquid:S001158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½ñ·ù
+Psquid:UselessParenthesesCheckú"!Remove these useless parentheses.(‚§‘ùÿÿÿÿ
+Ksquid:UselessParenthesesCheckş"!Remove these useless parentheses.(šÈ—Í
+Rsquid:S1161‡":Add the "@Override" annotation above this method signature(³”§ñ
+Psquid:UselessParenthesesCheckª"!Remove these useless parentheses.(õœğùÿÿÿÿ
+Psquid:UselessParenthesesCheck³"!Remove these useless parentheses.(›ğõûıÿÿÿÿ
+Qsquid:S1161º":Add the "@Override" annotation above this method signature(¹…¹&
+Rsquid:S1161ã":Add the "@Override" annotation above this method signature(Ì°¢ú
+gsquid:S00100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬É‘„
+lsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÈõÃùÿÿÿÿ
+Esquid:S1905¢"-Remove this unnecessary cast to "CharBuffer".(Ï÷Í
+Esquid:S1905¨"-Remove this unnecessary cast to "CharBuffer".(Î‚
+Dsquid:S1905°"-Remove this unnecessary cast to "CharBuffer".(Í‹ÌQ
+Jsquid:S1905¶"-Remove this unnecessary cast to "CharBuffer".(ƒÆ¥Îüÿÿÿÿ
+Ksquid:S1905ı".Remove this unnecessary cast to "ShortBuffer".(°‡ÊÈúÿÿÿÿ
+Fsquid:S1905ƒ".Remove this unnecessary cast to "ShortBuffer".(£é–˜
+Fsquid:S1905‹".Remove this unnecessary cast to "ShortBuffer".(«§“Ú
+Fsquid:S1905‘".Remove this unnecessary cast to "ShortBuffer".(úë’…
+Dsquid:S1905Ø",Remove this unnecessary cast to "IntBuffer".(˜•«Ô
+Isquid:S1905Ş",Remove this unnecessary cast to "IntBuffer".(¬¼‡Äúÿÿÿÿ
+Dsquid:S1905æ",Remove this unnecessary cast to "IntBuffer".(İªü
+Dsquid:S1905ì",Remove this unnecessary cast to "IntBuffer".( ±Í·
+Esquid:S1905³"-Remove this unnecessary cast to "LongBuffer".(ã˜Ô°
+Jsquid:S1905¹"-Remove this unnecessary cast to "LongBuffer".(çîğııÿÿÿÿ
+Jsquid:S1905Á"-Remove this unnecessary cast to "LongBuffer".(£¸ä‘ÿÿÿÿÿ
+Jsquid:S1905Ç"-Remove this unnecessary cast to "LongBuffer".(ø–‹‚ùÿÿÿÿ
+Ksquid:S1905".Remove this unnecessary cast to "FloatBuffer".(äŒá·ûÿÿÿÿ
+Ksquid:S1905”".Remove this unnecessary cast to "FloatBuffer".(™‹Â¶ÿÿÿÿÿ
+Fsquid:S1905œ".Remove this unnecessary cast to "FloatBuffer".(±•Æ
+Ksquid:S1905¢".Remove this unnecessary cast to "FloatBuffer".(„Ç“úüÿÿÿÿ
+Gsquid:S1905é"/Remove this unnecessary cast to "DoubleBuffer".(‡ø¡
+Lsquid:S1905ï"/Remove this unnecessary cast to "DoubleBuffer".(×ªíÙøÿÿÿÿ
+Gsquid:S1905÷"/Remove this unnecessary cast to "DoubleBuffer".(¯’ë¾
+Lsquid:S1905ı"/Remove this unnecessary cast to "DoubleBuffer".(¥´ü«øÿÿÿÿ
+esquid:UnusedPrivateMethod¢":Remove this unused private "DirectByteBuffer" constructor.(¬êêõúÿÿÿÿ
+1squid:S2183Ô"Remove this useless shift(ßàÍÜ
+1squid:S2183ö"Remove this useless shift(ßÖ¿û
+1squid:S2183‰"Remove this useless shift(ÎıÔÑ
+1squid:S2183Í"Remove this useless shift(æ‡‚â
+1squid:S2183å"Remove this useless shift(‡ƒ¯
+6squid:S2183ô"Remove this useless shift(‰Ñøûÿÿÿÿ
+6squid:S2183õ"Remove this useless shift(¬„Ñ…üÿÿÿÿ
+1squid:S2183‡"Remove this useless shift(¨¯¦–
+gsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(Ò½—óşÿÿÿÿ

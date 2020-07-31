@@ -1,0 +1,21 @@
+
+… squid:ForLoopCounterChangedCheck»"XRefactor the code in order to not assign to this loop counter from within the loop body.(é²Ğ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(£ÿõ•ûÿÿÿÿ
+Fsquid:S1066º"/Merge this if statement with the enclosing one.(ê€£L
+\squid:S2583€"DChange this condition so that it does not always evaluate to "false"(ÃÁÄ…
+@squid:S1604Œ"(Make this anonymous inner class a lambda(°ûº
+hsquid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¢#
+Gsquid:UselessImportCheck."Remove this duplicated import.(Ç›àŠÿÿÿÿÿ
+Vsquid:UselessImportCheck%"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+nsquid:UselessImportCheck7"ERemove this unused import 'com.sun.corba.se.impl.orbutil.ORBUtility'.(×˜´ùşÿÿÿÿ
+€squid:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ş•Üúÿÿÿÿ
+xsquid:S00116="[Rename this field "URLPropertyNames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÃÃ˜úÿÿÿÿ
+\squid:CallToDeprecatedMethodÅ".Remove this use of "Applet"; it is deprecated.(¦ùÁ°ıÿÿÿÿ
+fsquid:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(„‹¶®
+Rsquid:S1161‚":Add the "@Override" annotation above this method signature(¹İş±
+]squid:S1610×"@Convert the abstract class "PropertyCallback" into an interface.(Ê§¸‘ÿÿÿÿÿ
+psquid:ModifiersOrderCheckÙ"EReorder the modifiers to comply with the Java Language Specification.(ó·³íıÿÿÿÿ
+Fsquid:S1068:"*Remove this unused "parser" private field.(×³‰ïşÿÿÿÿ
+bsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(Ñ›Ö^
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(Òí×ÿÿÿÿÿ
+hsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(¨Óºèøÿÿÿÿ

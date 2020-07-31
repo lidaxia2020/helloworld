@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ØÃžµ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+nsquid:UselessImportCheck#"JRemove this unused import 'com.sun.corba.se.impl.encoding.CDRInputStream'.(³þ¾˜
+vsquid:UselessImportCheck$"MRemove this unused import 'com.sun.corba.se.impl.encoding.EncapsInputStream'.(öï˜Åÿÿÿÿÿ
+Esquid:S1172c")Remove this unused method parameter "gv".(¶‡Š´þÿÿÿÿ

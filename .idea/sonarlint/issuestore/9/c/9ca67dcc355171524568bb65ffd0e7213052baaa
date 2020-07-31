@@ -1,0 +1,108 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ùİ‚Ë
+u
+squid:S135Ù"YReduce the total number of break and continue statements in this loop to use at most one.(•ì±ûûÿÿÿÿ
+u
+squid:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(øÍµ¸øÿÿÿÿ
+_squid:S00112â"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112ï"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112¯"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112ó"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112Ó"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+dsquid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(‹êöˆøÿÿÿÿ
+_squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112Œ"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112¡"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112Õ"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112Æ
+"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112®"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+_squid:S00112÷"FDefine and throw a dedicated exception instead of using a generic one.(ù¥üÎ
+Hsquid:S2065ë"0Remove the "transient" modifier from this field.(ØÀ·
+Msquid:S2065«"0Remove the "transient" modifier from this field.(õ¯ïìûÿÿÿÿ
+Hsquid:S2065±"0Remove the "transient" modifier from this field.(»Ğ¶•
+Hsquid:S2065İ"0Remove the "transient" modifier from this field.(ÚÉÉ¸
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãØñÄÿÿÿÿÿ
+jsquid:S00116ë"QRename this field "m_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ·
+rsquid:S00116«"TRename this field "m_mutable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¯ïìûÿÿÿÿ
+psquid:S00116±"WRename this field "m_cacheNodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ğ¶•
+jsquid:S00116İ"QRename this field "m_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÉÉ¸
+osquid:S00116í"VRename this field "m_blocksize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ş¢Ï
+isquid:S00116ó"PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÉÛâ
+tsquid:S00116ù"VRename this field "m_firstFree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½—ºµùÿÿÿÿ
+rsquid:S00116ÿ"TRename this field "m_mapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¶Æ£øÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckÀ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(±òŠêşÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheckŞ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(”´Ø‰
+ƒsquid:S3252ã"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ñ£öıÿÿÿÿ
+ƒsquid:S3252©"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(‘‡İ±ıÿÿÿÿ
+Osquid:S1135¶"2Complete the task associated to this TODO comment.(†Åùÿÿÿÿ
+Osquid:S1135»"2Complete the task associated to this TODO comment.(ºÈ¤Óıÿÿÿÿ
+Dsquid:S1905È"'Remove this unnecessary cast to "Node".(³îĞÚúÿÿÿÿ
+~squid:S3252ï"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252…"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252™"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252¯"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252Ş"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252ó"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252“"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252³"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252Ó"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+Dsquid:S1905Û"'Remove this unnecessary cast to "Node".(ŞšÙ–şÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®åŠûüÿÿÿÿ
+ƒsquid:S3252“"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(‹êöˆøÿÿÿÿ
+7squid:S1659"Declare "i" on a separate line.(¨Òğç
+Dsquid:S1905¡"'Remove this unnecessary cast to "Node".(ŞšÙ–şÿÿÿÿ
+~squid:S3252á"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+ksquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(ØÀ·
+ƒsquid:S3252"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(‘‡İ±ıÿÿÿÿ
+ƒsquid:S3252¢"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(‘‡İ±ıÿÿÿÿ
+psquid:ModifiersOrderCheck«"EReorder the modifiers to comply with the Java Language Specification.(õ¯ïìûÿÿÿÿ
+ksquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(»Ğ¶•
+~squid:S3252Ö"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(êš£’
+ksquid:ModifiersOrderCheckİ"EReorder the modifiers to comply with the Java Language Specification.(ÚÉÉ¸
+Psquid:S1197ó"8Move the array designator from the variable to the type.(ùÉÛâ
+psquid:S2975Œ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
+~squid:S3252µ"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+Psquid:S1197Â"8Move the array designator from the variable to the type.(®ËÛ–
+Psquid:S1197è"8Move the array designator from the variable to the type.(®ËÛ–
+Psquid:S1197Ù	"8Move the array designator from the variable to the type.(®ËÛ–
+~squid:S3252Æ
+"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+Psquid:S1197Ñ
+"8Move the array designator from the variable to the type.(®ËÛ–
+Psquid:S1197ù
+"8Move the array designator from the variable to the type.(®ËÛ–
+~squid:S3252®"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+~squid:S3252÷"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ù¥üÎ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ñ£öıÿÿÿÿ
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(‘‡İ±ıÿÿÿÿ
+csquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(ù¥üÎ
+hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ŒÉÃüÿÿÿÿ
+csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(ù¥üÎ
+hsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ŒÉÃüÿÿÿÿ
+csquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(ù¥üÎ
+hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(‹êöˆøÿÿÿÿ
+hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ŒÉÃüÿÿÿÿ
+csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(ù¥üÎ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘‡İ±ıÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(‘‡İ±ıÿÿÿÿ
+csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(êš£’
+csquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLineÆ
+"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(ù¥üÎ
+csquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(ù¥üÎ

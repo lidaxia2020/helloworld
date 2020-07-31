@@ -1,0 +1,7 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‡Û¿Âøÿÿÿÿ
+dsquid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(ú»¦†üÿÿÿÿ
+psquid:S30088"TRename this field "XMLBundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ”Èµøÿÿÿÿ
+Tsquid:S1197n"8Move the array designator from the variable to the type.(ôáá•ùÿÿÿÿ
+Usquid:S1197‹"8Move the array designator from the variable to the type.(ğ˜Ãûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,5 @@
+
+Lsquid:S1191+"5Use classes from the Java API instead of Sun classes.(Íª²²
+Msquid:S2065"0Remove the "transient" modifier from this field.(Õ¹…Ãúÿÿÿÿ
+Asquid:S1125ì")Remove the literal "false" boolean value.(ï¢Õ
+>squid:S1452ı"&Remove usage of generic wildcard type.(ı‹íÄ

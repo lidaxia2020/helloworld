@@ -1,0 +1,16 @@
+
+Š squid:ForLoopCounterChangedCheck×"XRefactor the code in order to not assign to this loop counter from within the loop body.(üéİÖùÿÿÿÿ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
+Rsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+[squid:S1596”">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(¬ ÓØúÿÿÿÿ
+Usquid:S1596•">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(¿á±
+Vsquid:S1161{":Add the "@Override" annotation above this method signature(Ÿ®…ëşÿÿÿÿ
+Rsquid:S1161š":Add the "@Override" annotation above this method signature(¶ÌÑ±
+Rsquid:S1161¯":Add the "@Override" annotation above this method signature(ûÀØ¯
+Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(àİ³ÿıÿÿÿÿ
+Rsquid:S1161î":Add the "@Override" annotation above this method signature(ó›İŒ
+Wsquid:S1161†":Add the "@Override" annotation above this method signature(Ğòšøÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(³•–¤
+Rsquid:S1161¥":Add the "@Override" annotation above this method signature(ï±´
+Rsquid:S1161¼":Add the "@Override" annotation above this method signature(¨ŸŠ‰
+osquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ŒËµÜÿÿÿÿÿ

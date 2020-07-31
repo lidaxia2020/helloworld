@@ -1,0 +1,6 @@
+
+Ksquid:S1191#"5Use classes from the Java API instead of Sun classes.(Ä”§0
+hsquid:S001161"PRename this field "_node" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‚åµ
+nsquid:S001162"VRename this field "_isConstant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙ‰ç
+Qsquid:S1161S":Add the "@Override" annotation above this method signature(¸ˇ∆â
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

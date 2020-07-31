@@ -1,0 +1,48 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ˆ¨
+Lsquid:S1066"/Merge this if statement with the enclosing one.(ÇÂï¸ûÿÿÿÿ
+Gsquid:S1066®"/Merge this if statement with the enclosing one.(·‡… 
+Psquid:S4973±"9Use the "equals" method if value comparison was intended.(™óÂ6
+Psquid:S4973ù"9Use the "equals" method if value comparison was intended.(™óÂ6
+tsquid:UselessImportCheck="KRemove this unused import 'com.sun.org.apache.xerces.internal.util.Status'.(ĞÎ²Šıÿÿÿÿ
+;squid:S1148Œ"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148”"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148˜"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148½"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Á"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Å"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148É"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Ò"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Ö"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Ú"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Ş"#Use a logger to log this exception.(Ç’Çê
+ksquid:ModifiersOrderCheck–"EReorder the modifiers to comply with the Java Language Specification.(ÜœØ
+Å%squid:RedundantThrowsDeclarationCheckÁ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(×îäû
+µ%squid:RedundantThrowsDeclarationCheckØ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÓòœÍúÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÿ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(øš¯ıÿÿÿÿ
+]squid:S2147"ECombine this catch with the one at line 778, which has the same body.(Ãôş•
+bsquid:S2147’"ECombine this catch with the one at line 778, which has the same body.(½Ñë×ùÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheck¢"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ë®Ç£ÿÿÿÿÿ
+osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Ë®Ç£ÿÿÿÿÿ
+]squid:S2147¿"ECombine this catch with the one at line 827, which has the same body.(Ãôş•
+bsquid:S2147Ã"ECombine this catch with the one at line 827, which has the same body.(½Ñë×ùÿÿÿÿ
+]squid:S2147Ô"ECombine this catch with the one at line 848, which has the same body.(Ãôş•
+bsquid:S2147Ø"ECombine this catch with the one at line 848, which has the same body.(½Ñë×ùÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheckõ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheck’"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheck¼"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheckç"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Âä
+°%squid:RedundantThrowsDeclarationCheckö"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(÷£…ü
+µ%squid:RedundantThrowsDeclarationCheck†"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(™¬şûÿÿÿÿ
+jsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ş¢
+osquid:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‡¬°ıÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheck´	"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éôœãÿÿÿÿÿ
+osquid:S3776´	"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(éôœãÿÿÿÿÿ
+Wsquid:S1161´	":Add the "@Override" annotation above this method signature(éôœãÿÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheck
+"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(çÙæ’
+Rsquid:S1161
+":Add the "@Override" annotation above this method signature(çÙæ’
+jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨ 
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

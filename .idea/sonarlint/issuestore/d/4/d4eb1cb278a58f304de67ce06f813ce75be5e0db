@@ -1,0 +1,5 @@
+
+vsquid:S1488"YImmediately throw this expression instead of assigning it to the temporary variable "td".(ÿδ§δϋÿÿÿÿ
+^squid:S2094A"BRemove this empty class, write its code or make it an "interface".(ώ•Ένόÿÿÿÿ
+Ksquid:EmptyStatementUsageCheckA"Remove this empty statement.(ώ•Ένόÿÿÿÿ
+]squid:S1193‰"@Replace the usage of the "instanceof" operator by a catch block.(…ε™Ψύÿÿÿÿ

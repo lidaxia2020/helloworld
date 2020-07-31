@@ -1,0 +1,7 @@
+
+Lsquid:S1191	"5Use classes from the Java API instead of Sun classes.(ÞÄÿá
+]squid:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+isquid:S3776;"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(“–ýþ
+Qsquid:S1161;":Add the "@Override" annotation above this method signature(“–ýþ
+=squid:S1181h"!Catch Exception instead of Error.(Â¯¸êûÿÿÿÿ
+?squid:S1125U"(Remove the literal "true" boolean value.(²øºÂ

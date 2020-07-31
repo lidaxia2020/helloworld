@@ -1,0 +1,8 @@
+
+squid:S1186ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÔ«÷şÿÿÿÿ
+Osquid:S1197="8Move the array designator from the variable to the type.(ÖªÏæ
+Rsquid:S1161¼":Add the "@Override" annotation above this method signature( Ã˜œ
+Psquid:S1197¼"8Move the array designator from the variable to the type.( Ã˜œ
+Vsquid:S1195ò">Move the array designators "[]" to the end of the return type.(Ïİ°…
+Rsquid:S1133Ü"5Do not forget to remove this deprecated code someday.(ºåøûÿÿÿÿ
+Wsquid:S1161ç":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

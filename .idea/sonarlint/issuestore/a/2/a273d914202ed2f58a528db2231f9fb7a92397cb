@@ -1,0 +1,30 @@
+
+Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck„".Extract the assignment out of this expression.(ßÚÎ…
+™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûğ„Û
+™squid:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌëŸõ
+squid:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô®öÙÿÿÿÿÿ
+squid:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı²ıÿıÿÿÿÿ
+™squid:S1186Ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰›”°
+fsquid:S00116I"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á©ï]
+gsquid:S00116J"ORename this field "_sax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¬Èè
+lsquid:S00116K"ORename this field "_lex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÂôùÿÿÿÿ
+jsquid:S00116L"SRename this field "_saxImpl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎøÑa
+ssquid:S00116M"VRename this field "_nsPrefixes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö©ºŒúÿÿÿÿ
+rsquid:S1149M"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ö©ºŒúÿÿÿÿ
+gsquid:S1149p"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(á‹±¦
+hsquid:S1149”"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ªô­ô
+}squid:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(±ã±¾
+jsquid:ModifiersOrderCheckF"EReorder the modifiers to comply with the Java Language Specification.(©Ü’»
+Ÿ%squid:RedundantThrowsDeclarationCheckX"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
+jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(Û›¯
+^squid:S1854—"ARemove this useless assignment to local variable "localNameAttr".(ù³„îıÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckÏ""Add a default case to this switch.(ô…È·
+›%squid:RedundantThrowsDeclarationCheck¤"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(ÌëŸõ
+ %squid:RedundantThrowsDeclarationCheck¯"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheckÆ"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(«ü”ùÿÿÿÿ
+Osquid:S1481—"2Remove this unused "localNameAttr" local variable.(ù³„îıÿÿÿÿ
+Gsquid:S1481Ì"*Remove this unused "first" local variable.(üæâüÿÿÿÿ
+^squid:UnusedPrivateMethod"8Remove this unused private "getNodeTypeFromCode" method.(¹è‹â
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

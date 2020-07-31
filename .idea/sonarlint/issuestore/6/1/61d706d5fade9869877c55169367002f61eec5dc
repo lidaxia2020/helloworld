@@ -1,0 +1,51 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+u
+squid:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(«ıøÿÿÿÿ
+Usquid:S2589‰"8Remove this expression which always evaluates to "false"(¿Üæèøÿÿÿÿ
+Usquid:S2589©"8Remove this expression which always evaluates to "false"(¿Üæèøÿÿÿÿ
+Zsquid:S2259¹"BA "NullPointerException" could be thrown; "vars" is nullable here.(ÒïÔÉ
+dsquid:S00112í"FDefine and throw a dedicated exception instead of using a generic one.(¸‘şÿÿÿÿÿ
+qsquid:S00116C"TRename this field "m_pattern" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÏÅ°ıÿÿÿÿ
+nsquid:S00116F"VRename this field "m_superAxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÏ±
+ssquid:S00116I"VRename this field "m_traverser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Åç·ÿÿÿÿÿ
+Isquid:S1948I"-Make "m_traverser" transient or serializable.(¢Åç·ÿÿÿÿÿ
+nsquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ˆÆª®ùÿÿÿÿ
+Fsquid:S1125‰")Remove the literal "false" boolean value.(¿Üæèøÿÿÿÿ
+P
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(‹ú– 
+P
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(úÑÈ
+Fsquid:S1125©")Remove the literal "false" boolean value.(¿Üæèøÿÿÿÿ
+P
+squid:S106«"9Replace this use of System.out or System.err by a logger.(±³¹ı
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(òÚèˆşÿÿÿÿ
+Rsquid:S1161Î":Add the "@Override" annotation above this method signature(¶ÕŠ¹
+3squid:S3626›"Remove this redundant jump.(ÉŠ©ƒ
+jsquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ê´æ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(óïéÑûÿÿÿÿ
+P
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Êƒß„
+P
+squid:S106§"9Replace this use of System.out or System.err by a logger.(óÍ®÷
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(¬‹¦¤øÿÿÿÿ
+U
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.( Äìñÿÿÿÿÿ
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(çµ¿şÿÿÿÿ
+U
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(ŒïŠóüÿÿÿÿ
+{squid:S3252Ù"cUse static access with "com.sun.org.apache.xpath.internal.patterns.NodeTest" for "debugWhatToShow".(Ü°–œ
+Msquid:S2209Ù"5Change this instance-reference to a static reference.(Ü°–œ
+U
+squid:S106á"9Replace this use of System.out or System.err by a logger.(¦Ò™æùÿÿÿÿ
+U
+squid:S106â"9Replace this use of System.out or System.err by a logger.(©Äÿÿÿÿÿ
+Jsquid:S1135ì"2Complete the task associated to this TODO comment.(÷çºš
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(¬©—¸
+csquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(ˆÛİê
+hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(’ù¤Êıÿÿÿÿ
+csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(µ‰ù•

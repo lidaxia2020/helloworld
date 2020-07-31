@@ -1,0 +1,25 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(‘æì
+\squid:S2259É"DA "NullPointerException" could be thrown; "result" is nullable here.(¼ƒí·
+lsquid:UselessImportCheck+"CRemove this unused import 'javax.xml.stream.util.XMLEventConsumer'.(â€Îëıÿÿÿÿ
+qsquid:S00116M"TRename this field "_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡·ôùÿÿÿÿÿ
+jsquid:S00116N"RRename this field "_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş±Ô¢
+nsquid:S00116O"VRename this field "_outputType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»…•İ
+psquid:S00116P"SRename this field "_ostream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³æ‰ÿÿÿÿÿ
+isquid:S00116Q"RRename this field "_writer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÿ1
+msquid:S00116R"PRename this field "_node" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤³¦†ıÿÿÿÿ
+osquid:S00116S"WRename this field "_nextSibling" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÁÇ”
+vsquid:S00116T"^Rename this field "_xmlStAXEventWriter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş­Úı
+wsquid:S00116U"_Rename this field "_xmlStAXStreamWriter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Œ‡û
+psquid:S00116V"XRename this field "_indentNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇÊ¬
+psquid:S00116W"SRename this field "_handler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìŒÎºøÿÿÿÿ
+nsquid:S00116X"VRename this field "_lexHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§Å±
+}squid:S00116Z"`Rename this field "_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ôô²øÿÿÿÿ
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(Š³æ‰ÿÿÿÿÿ
+osquid:ModifiersOrderCheck\"EReorder the modifiers to comply with the Java Language Specification.(İÙï™ıÿÿÿÿ
+osquid:ModifiersOrderCheck_"EReorder the modifiers to comply with the Java Language Specification.(—šåêøÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheck¦"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(º’‚İùÿÿÿÿ
+osquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ï¨ı†úÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck©""Add a default case to this switch.(óâ¾şÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

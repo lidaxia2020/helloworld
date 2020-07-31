@@ -1,0 +1,11 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+_squid:S00112×"FDefine and throw a dedicated exception instead of using a generic one.(Î¢›‘
+ksquid:S3008o"TRename this field "m_formats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉžÛ»
+msquid:S1149o"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÉžÛ»
+\squid:CallToDeprecatedMethod­"3Remove this use of "newInstance"; it is deprecated.(Ôƒ×ˆ
+\squid:CallToDeprecatedMethod²"3Remove this use of "newInstance"; it is deprecated.(ýðÔá
+\squid:CallToDeprecatedMethodÍ"3Remove this use of "newInstance"; it is deprecated.( ¹ÝÌ
+Dsquid:S1068o"-Remove this unused "m_formats" private field.(ÉžÛ»
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+csquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(Ç¹ø

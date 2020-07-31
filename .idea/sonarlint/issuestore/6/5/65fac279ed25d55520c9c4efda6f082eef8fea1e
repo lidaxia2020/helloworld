@@ -1,0 +1,10 @@
+
+Qsquid:S1191Y"5Use classes from the Java API instead of Sun classes.(â’Öåüÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck}"RMake prefix a static final constant or non-public and provide accessors if needed.(ïø…©
+„"squid:ClassVariableVisibilityCheck†"UMake localpart a static final constant or non-public and provide accessors if needed.(Õ¶ƒ¼
+‡"squid:ClassVariableVisibilityCheck"SMake rawname a static final constant or non-public and provide accessors if needed.(¤°şûÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck˜"OMake uri a static final constant or non-public and provide accessors if needed.(è‡¸âıÿÿÿÿ
+wsquid:S1149‰"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
+ksquid:S2975â"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+`squid:S1182â"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+asquid:S4201ù"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¾Ç‰

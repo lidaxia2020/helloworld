@@ -1,0 +1,165 @@
+
+Š squid:ForLoopCounterChangedCheck·
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨³¢ÿÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÓ
+"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckç
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨³¢ÿÿÿÿÿ
+… squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+Š squid:ForLoopCounterChangedCheck—"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÉÃÑøÿÿÿÿ
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+hsquid:S1192Î"KDefine a constant instead of duplicating this literal " SYSTEM \"" 4 times.(œœşÿÿÿÿ
+_squid:S1192ì"GDefine a constant instead of duplicating this literal "xmlns:" 4 times.(›™¬ö
+^squid:S1192ä"FDefine a constant instead of duplicating this literal "xmlns" 3 times.(·´‹ï
+vsquid:S1192³"^Define a constant instead of duplicating this literal "http://www.w3.org/2000/xmlns/" 3 times.(—ƒÜ…
+hsquid:S1192É"KDefine a constant instead of duplicating this literal " PUBLIC \"" 4 times.(Ç¼Ìèøÿÿÿÿ
+csquid:S1192å"FDefine a constant instead of duplicating this literal "CDATA" 5 times.(“¥„ôûÿÿÿÿ
+gsquid:S1192’"JDefine a constant instead of duplicating this literal "<!ENTITY " 3 times.(¾¡éÉûÿÿÿÿ
+Gsquid:S1066"/Merge this if statement with the enclosing one.(†õìÇ
+Fsquid:S1066ü"/Merge this if statement with the enclosing one.(³ş¸;
+Lsquid:S1066´"/Merge this if statement with the enclosing one.(ŸĞıƒıÿÿÿÿ
+Jsquid:S1199ï"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ò"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+‡squid:S4165ú"jRemove this useless assignment; "m_ispreserve" already holds the assigned value along all execution paths.(Ñ˜Ñÿÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck˜".Extract the assignment out of this expression.(Ñ³óÿÿÿÿÿÿ
+asquid:S2583°"DChange this condition so that it does not always evaluate to "false"(ƒŸÇÃşÿÿÿÿ
+jsquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İº†Á
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Íé
+jsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‚€Î
+osquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŠà—ıÿÿÿÿ
+jsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¤™¦
+jsquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü€ëÆ
+isquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿå»)
+jsquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÖÙÈ
+@squid:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148½"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+€squid:S00116P"hRename this field "m_disableOutputEscapingStates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïõ©•
+qsquid:S00116b"YRename this field "m_encodingInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çùï‘
+xsquid:S00116k"[Rename this field "m_canConvertMeth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü‰Öİıÿÿÿÿ
+wsquid:S00116u"`Rename this field "m_triedToGetConverter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Œ·`
+}squid:S00116"`Rename this field "m_charToByteConverter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÛÊìøÿÿÿÿ
+tsquid:S00116"VRename this field "m_preserves" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘™¤äùÿÿÿÿ
+usquid:S00116Ÿ"WRename this field "m_ispreserve" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘®¶òşÿÿÿÿ
+usquid:S00116®"WRename this field "m_isprevtext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¼„©üÿÿÿÿ
+wsquid:S00116·"YRename this field "m_maxCharacter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠûÔŠûÿÿÿÿ
+msquid:S00116Ã"TRename this field "m_lineSep" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖîäÆ
+usquid:S00116Ì"WRename this field "m_lineSepUse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıˆ¾±ûÿÿÿÿ
+usquid:S00116Õ"WRename this field "m_lineSepLen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¯ÃÔùÿÿÿÿ
+msquid:S00116Ş"URename this field "m_charInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Á³"
+qsquid:S00116á"XRename this field "m_shouldFlush" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”š©Ë
+vsquid:S00116é"]Rename this field "m_spaceBeforeClose" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜”È
+wsquid:S00116ö"YRename this field "m_startNewLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â·¨ûÿÿÿÿ
+osquid:S00116ş"VRename this field "m_inDoctype" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾†ªŸ
+qsquid:S00116†"SRename this field "m_isUTF8" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãä·úÿÿÿÿ
+lsquid:S00116‰"SRename this field "m_format" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¿¼À
+{squid:S00116‘"]Rename this field "m_cdataStartCalled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±èÓĞıÿÿÿÿ
+wsquid:S00116š"^Rename this field "m_expandDTDEntities" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÆéõ
+nsquid:S00116ï"URename this field "m_escaping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉóˆŠ
+}squid:S1149©"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+|squid:S1149¬"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+‚squid:S1149ß"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÏŠà—ıÿÿÿÿ
+}squid:S1149€"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»¤™¦
+wsquid:S1149á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(…¤ÙÀÿÿÿÿÿ
+|squid:S1149–"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(õÊ°àıÿÿÿÿ
+jsquid:ModifiersOrderCheckI"EReorder the modifiers to comply with the Java Language Specification.(ëâùÍ
+P
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+Osquid:S1135Ô"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Usquid:S1197	"8Move the array designator from the variable to the type.(˜ä£øÿÿÿÿ
+jsquid:S3776š
+"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(èÇ¢¿
+Psquid:S1197›
+"8Move the array designator from the variable to the type.(¢½ÙÛ
+¨%squid:RedundantThrowsDeclarationCheck„"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ˆÜ‹Ëúÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheck—"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(³æ…Í
+Psquid:S1197Â"8Move the array designator from the variable to the type.(àÑ„
+Jsquid:UselessParenthesesCheckÔ"!Remove these useless parentheses.(öŠ„
+Psquid:S1197«"8Move the array designator from the variable to the type.(Ú¼È¥
+osquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(š™ÿêúÿÿÿÿ
+Usquid:S1197ê"8Move the array designator from the variable to the type.(š™ÿêúÿÿÿÿ
+Gsquid:EmptyStatementUsageCheckì"Remove this empty statement.(†ªÚ¶
+osquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(âœó¤øÿÿÿÿ
+ksquid:S1871ä"NThis branch's code block is the same as the block for the branch on line 2011.(ÒÌâ–øÿÿÿÿ
+@squid:S1125¡"(Remove the literal "true" boolean value.(ºÚë«
+¨%squid:RedundantThrowsDeclarationCheckÑ"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(êĞûœùÿÿÿÿ
+osquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ïÃÍÌøÿÿÿÿ
+Fsquid:S1125ë")Remove the literal "false" boolean value.(îç”øúÿÿÿÿ
+jsquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(çê™Ÿ
+Psquid:S1197‰"8Move the array designator from the variable to the type.(çê™Ÿ
+Usquid:S1197º"8Move the array designator from the variable to the type.(ò©…©úÿÿÿÿ
+Jsquid:S1135Ó"2Complete the task associated to this TODO comment.(³Èõ
+Rsquid:S1161ë":Add the "@Override" annotation above this method signature(¼É‡À
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(Ÿ‚€Î
+osquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹õóÍúÿÿÿÿ
+Msquid:S1172”"0Remove this unused method parameter "localName".(ßµ—ışÿÿÿÿ
+^squid:S3027Ÿ"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ç»Ä‘
+jsquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¬¸ÌØ
+csquid:S3027Ü"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ø‡Õõÿÿÿÿÿ
+osquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ØÿĞüÿÿÿÿ
+[squid:S1854¹">Remove this useless assignment to local variable "prefixUsed".(ÿ¤¡Çûÿÿÿÿ
+Wsquid:S1161²":Add the "@Override" annotation above this method signature(ØÿĞüÿÿÿÿ
+Osquid:S1135Á"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+^squid:S2147ş"FCombine this catch with the one at line 3450, which has the same body.(–Å·¾
+Usquid:S1197ó"8Move the array designator from the variable to the type.(÷½µ£ÿÿÿÿÿ
+™squid:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡ıî
+squid:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à°ø‘ıÿÿÿÿ
+tsquid:S00116"VRename this field "m_stringbuf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¤ÙÀÿÿÿÿÿ
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(…¤ÙÀÿÿÿÿÿ
+|squid:S1149–"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(õÊ°àıÿÿÿÿ
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(…¤ÙÀÿÿÿÿÿ
+Rsquid:S1161°":Add the "@Override" annotation above this method signature(¯û®ı
+Rsquid:S1161µ":Add the "@Override" annotation above this method signature(ŒéÍÚ
+Rsquid:S1161À":Add the "@Override" annotation above this method signature( ıÁó
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(–Ó¨Úüÿÿÿÿ
+3squid:S3626°"Remove this redundant jump.(ûÁİ…
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÌĞ¢¡
+Rsquid:S1161":Add the "@Override" annotation above this method signature(ÌĞ¢¡
+O
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(‚š‰1
+O
+squid:S106«"9Replace this use of System.out or System.err by a logger.(‚š‰1
+Bsquid:S00108­")Either remove or fill this block of code.(‚Üò
+qsquid:S00116È"SRename this field "m_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÚáÓüÿÿÿÿ
+xsquid:S00116Ë"ZRename this field "m_allocatedSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ–å·úÿÿÿÿ
+psquid:S00116Î"RRename this field "m_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Û®ûÿÿÿÿ
+Usquid:S1197È"8Move the array designator from the variable to the type.(‡ÚáÓüÿÿÿÿ
+Asquid:S1125»")Remove the literal "false" boolean value.(Ûøü
+Fsquid:S1125é")Remove the literal "false" boolean value.( Ô±Ûùÿÿÿÿ
+Esquid:S1125ø"(Remove the literal "true" boolean value.(Š«Ã®øÿÿÿÿ
+Usquid:S1197–"8Move the array designator from the variable to the type.(ÜŒ½Éûÿÿÿÿ
+Rsquid:S1161©":Add the "@Override" annotation above this method signature(ôÙ‘ñ
+Osquid:S1135ª"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Osquid:S1135¼"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(ùÂä¨üÿÿÿÿ
+Osquid:S1135Ì"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Osquid:S1135à"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+lsquid:S00100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¬êÃşÿÿÿÿ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(ßıÌ¯ÿÿÿÿÿ
+Lsquid:S1481¹"/Remove this unused "prefixUsed" local variable.(ÿ¤¡Çûÿÿÿÿ
+Tsquid:UnusedPrivateMethodÇ")Remove this unused private "init" method.(²…êşÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+gsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(¢­æéıÿÿÿÿ
+csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(ŸÑ·Ô
+hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(¡àœÔûÿÿÿÿ
+hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(åª†Èûÿÿÿÿ
+csquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(–ºÊ‹øÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñı®ˆ
+hsquid:CommentedOutCodeLine¯
+"<This block of commented-out lines of code should be removed.(½Ï©ëúÿÿÿÿ
+bsquid:CommentedOutCodeLineÃ
+"<This block of commented-out lines of code should be removed.(¼¤
+csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(Ïª¡
+hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(µçÇ×ùÿÿÿÿ
+hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(õ„³ïúÿÿÿÿ
+hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(Õ‹ÔÊùÿÿÿÿ
+csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(éÁö±
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²Ëë¬ÿÿÿÿÿ
+csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(Ú°à¬
+csquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(ı¥×Ğ
+hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(—³¹¡ÿÿÿÿÿ
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(·Èÿæûÿÿÿÿ
+asquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(±ğj

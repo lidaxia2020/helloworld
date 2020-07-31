@@ -1,0 +1,16 @@
+
+xsquid:S1192ÿ"[Define a constant instead of duplicating this literal "%s[length=%d, chunks=%d]%s" 3 times.(µô÷Ãùÿÿÿÿ
+{squid:S1192…"^Define a constant instead of duplicating this literal "%s[length=%d, chunks=%d]%s..." 3 times.(÷¹ââùÿÿÿÿ
+osquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ª÷‚µøÿÿÿÿ
+Wsquid:S1161É":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+bsquid:S00119Û"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(§ÂÏô
+bsquid:S00119Û"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(§ÂÏô
+rsquid:S3038˜"U"iterator" is defined in the "Iterable" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+qsquid:S3038›"T"forEach" is defined in the "Iterable" interface and can be removed from this class.(òº‘ïûÿÿÿÿ
+bsquid:S00119œ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ñëÆ¦
+Dsquid:S2388©",Prefix this call to "forEach" with "super.".(†ïİŸ
+Qsquid:S1161Ş":Add the "@Override" annotation above this method signature(§¹ˆ
+Csquid:S2388",Prefix this call to "forEach" with "super.".(æÌ£
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(µµøÿÿÿÿ
+Csquid:S2388’",Prefix this call to "forEach" with "super.".(ûó–D
+Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(ë—å©

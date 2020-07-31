@@ -1,0 +1,7 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(úÊÛí
+†squid:S1319v"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(³ýñª
+msquid:S1149v"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(³ýñª
+º%squid:RedundantThrowsDeclarationCheckD"ˆRemove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.dv.DVFactoryException' which is a runtime exception.(‚Ñ¼˜
+¿%squid:RedundantThrowsDeclarationCheckT"ˆRemove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.dv.DVFactoryException' which is a runtime exception.(ÒŒïòüÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

@@ -1,0 +1,9 @@
+
+Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+rsquid:S001169"URename this field "m_translet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐššÓúÿÿÿÿ
+jsquid:S00116:"SRename this field "m_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÁÁG
+rsquid:S00116="URename this field "m_mappings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ðâ¤úÿÿÿÿ
+tsquid:S00116@"WRename this field "m_currentDTM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¥»œùÿÿÿÿ
+xsquid:S00116A"[Rename this field "m_currentMapping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØþˆÊùÿÿÿÿ
+isquid:S3776i"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(øÑÁÄ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

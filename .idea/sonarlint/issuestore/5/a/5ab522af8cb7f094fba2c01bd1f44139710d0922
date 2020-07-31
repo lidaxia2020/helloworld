@@ -1,0 +1,90 @@
+
+Lsquid:S1191""5Use classes from the Java API instead of Sun classes.(ñÜ¸†
+gsquid:S1192˜"ODefine a constant instead of duplicating this literal "urn:publicid:" 10 times.(²™é“
+{squid:S1192ğ"cDefine a constant instead of duplicating this literal "Switching to delegated catalog(s):" 3 times.(¡ÃÌì
+¶squid:S1192Ÿ"˜Define a constant instead of duplicating this literal "urn:publicid: system identifier differs from public identifier; using public identifier" 4 times.(âûïŞıÿÿÿÿ
+Lsquid:S1066Æ"/Merge this if statement with the enclosing one.(£àÀ»øÿÿÿÿ
+Lsquid:S1066¿"/Merge this if statement with the enclosing one.(£àÀ»øÿÿÿÿ
+Lsquid:S1066™"/Merge this if statement with the enclosing one.(£àÀ»øÿÿÿÿ
+Lsquid:S1066Ï"/Merge this if statement with the enclosing one.(£àÀ»øÿÿÿÿ
+Gsquid:S1066è"/Merge this if statement with the enclosing one.(¡íÄˆ
+Gsquid:S1066‚"/Merge this if statement with the enclosing one.(Ñ¼²’
+Gsquid:S1066”"/Merge this if statement with the enclosing one.(¡íÄˆ
+Gsquid:S1066®"/Merge this if statement with the enclosing one.(Ñ¼²’
+p
+squid:S135ã"YReduce the total number of break and continue statements in this loop to use at most one.(°Îœ
+p
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(°Îœ
+Zsquid:S2259•"BA "NullPointerException" could be thrown; "base" is nullable here.(Ì­ü¯
+xsquid:UselessImportCheck5"TRemove this unnecessary import: same package classes are always implicitly imported.(õ—©¶
+3squid:S1700"Rename field "CATALOG"(æ™äşÿÿÿÿ
+[squid:S1155æ">Use isEmpty() to check whether the collection is empty or not.(èúÇµşÿÿÿÿ
+[squid:S1155º">Use isEmpty() to check whether the collection is empty or not.(„õåşÿÿÿÿ
+[squid:S1155º">Use isEmpty() to check whether the collection is empty or not.(„õåşÿÿÿÿ
+[squid:S1155§
+">Use isEmpty() to check whether the collection is empty or not.(¯¶´¼ıÿÿÿÿ
+[squid:S1155ì">Use isEmpty() to check whether the collection is empty or not.(¹í•õûÿÿÿÿ
+[squid:S1155¡">Use isEmpty() to check whether the collection is empty or not.(¹í•õûÿÿÿÿ
+[squid:S1155Í">Use isEmpty() to check whether the collection is empty or not.(¹í•õûÿÿÿÿ
+[squid:S1155ß">Use isEmpty() to check whether the collection is empty or not.(ó˜”úÿÿÿÿ
+wsquid:S1845Ë"`Rename field "base" to prevent any misunderstanding/clash with field "BASE" defined on line 267.(éš×f
+tsquid:S00116Ô"[Rename this field "default_override" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹²‡Ú
+}squid:S1149Ñ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¸¼Ğ±
+‚squid:S1149ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÁıŠÔÿÿÿÿÿ
+}squid:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ØÑ¬ÿ
+‚squid:S1149£"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íî’şşÿÿÿÿ
+‚squid:S1149¼"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¦—‘”ÿÿÿÿÿ
+ssquid:S1149Ê"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ï µæûÿÿÿÿ
+}squid:S1149Ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(öå®«
+‚squid:S1149ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ã”ãÜøÿÿÿÿ
+‚squid:S1149ß"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Û÷ê€ûÿÿÿÿ
+}squid:S1149”"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ïÉ–û
+}squid:S1149Ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ïÉ–û
+‚squid:S1149¦
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(±ú¥Ûøÿÿÿÿ
+‚squid:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áâşÿÿÿÿÿ
+‚squid:S1149’"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áâşÿÿÿÿÿ
+‚squid:S1149¾"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áâşÿÿÿÿÿ
+Esquid:S2755™"-Disable XML external entity (XXE) processing.(¼œÚú
+>squid:S2129Ğ"!Remove this "Integer" constructor(úÔ×îùÿÿÿÿ
+]squid:CallToDeprecatedMethodĞ"/Remove this use of "Integer"; it is deprecated.(úÔ×îùÿÿÿÿ
+[squid:CallToDeprecatedMethod—"3Remove this use of "newInstance"; it is deprecated.(áÏÀ4
+°%squid:RedundantThrowsDeclarationCheckİ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+esquid:HiddenFieldCheckß"=Rename "catalogs" which hides the field declared at line 419.(Û÷ê€ûÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck‡"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(øò¾øÿÿÿÿ
+U
+squid:S106À"9Replace this use of System.out or System.err by a logger.(ë¾¤Ïúÿÿÿÿ
+ª%squid:RedundantThrowsDeclarationCheckö"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(’ğË#
+isquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿‰“X
+Hsquid:S2201‚"+The return value of "replace" must be used.(©ª´ùúÿÿÿÿ
+jsquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(«ŠİŞ
+°%squid:RedundantThrowsDeclarationCheckÙ
+"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+Rsquid:S1854à
+"5Remove this useless assignment to local variable "c".(ç÷õ­ûÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÁÒåùÿÿÿÿ
+°%squid:RedundantThrowsDeclarationChecká"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck‰"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“İ“ùÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckã"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+jsquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¡˜•ƒ
+°%squid:RedundantThrowsDeclarationCheckÄ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck¶"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+jsquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(û¯¸‘
+°%squid:RedundantThrowsDeclarationCheck¡"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckÍ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+jsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ƒş±ô
+°%squid:RedundantThrowsDeclarationCheckÓ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckş"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+osquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(¹²ùæüÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckŒ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+jsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¯¡•Š
+Qsquid:S4719‡"9Replace charset name argument with StandardCharsets.UTF_8(ÎœÃ˜
+Bsquid:S1481ø"*Remove this unused "entry" local variable.(¿¸áå
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(¬‰µ¶
+hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(¬²ñùûÿÿÿÿ
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(¥°Ÿ°ùÿÿÿÿ

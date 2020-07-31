@@ -1,0 +1,12 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(™æ—Î
+u
+squid:S135ç"YReduce the total number of break and continue statements in this loop to use at most one.(¨ÿÙ‘ÿÿÿÿÿ
+Esquid:S1604è"(Make this anonymous inner class a lambda(Û•¤—ÿÿÿÿÿ
+jsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Éá„Æ
+Gsquid:S00108")Either remove or fill this block of code.(ú®Õüÿÿÿÿ
+P"squid:SwitchLastCaseIsDefaultCheckÆ""Add a default case to this switch.(¯²–c
+P"squid:SwitchLastCaseIsDefaultCheckØ""Add a default case to this switch.(¯²–c
+vsquid:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãâ¬‰úÿÿÿÿ
+>squid:S1168î"&Return an empty array instead of null.(ò‡“
+Csquid:S1168ñ"&Return an empty array instead of null.(•¿©³ùÿÿÿÿ

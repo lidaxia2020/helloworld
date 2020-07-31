@@ -1,0 +1,10 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘´¦¸
+csquid:S00112A"FDefine and throw a dedicated exception instead of using a generic one.(ÆÄÐšúÿÿÿÿ
+csquid:S00112J"FDefine and throw a dedicated exception instead of using a generic one.(ÆÄÐšúÿÿÿÿ
+csquid:S00112["FDefine and throw a dedicated exception instead of using a generic one.(ÆÄÐšúÿÿÿÿ
+Vsquid:S1161=":Add the "@Override" annotation above this method signature(ëÃÈ“üÿÿÿÿ
+esquid:S3551F"IMake this method "synchronized" to match the parent class implementation.(ŽÍÓâÿÿÿÿÿ
+Vsquid:S1161F":Add the "@Override" annotation above this method signature(ŽÍÓâÿÿÿÿÿ
+esquid:S3551O"IMake this method "synchronized" to match the parent class implementation.(—¾Øßûÿÿÿÿ
+Vsquid:S1161O":Add the "@Override" annotation above this method signature(—¾Øßûÿÿÿÿ

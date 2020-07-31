@@ -1,0 +1,4 @@
+
+Ksquid:S1191""5Use classes from the Java API instead of Sun classes.(²É“
+Ysquid:S2094+"BRemove this empty class, write its code or make it an "interface".(í¶ð˜
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

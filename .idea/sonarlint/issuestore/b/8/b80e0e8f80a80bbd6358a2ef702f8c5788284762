@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ãø‘şÿÿÿÿ
+isquid:S1192„"LDefine a constant instead of duplicating this literal "The keyword" 3 times.(êœÆşÿÿÿÿ
+squid:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„šô»ıÿÿÿÿ

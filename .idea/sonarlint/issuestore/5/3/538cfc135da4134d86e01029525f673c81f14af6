@@ -1,0 +1,6 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
+]squid:CallToDeprecatedMethod"4Remove this use of "OutputFormat"; it is deprecated.(©İêÖ
+esquid:CallToDeprecatedMethodŒ"7Remove this use of "DocumentHandler"; it is deprecated.(—â§¦úÿÿÿÿ
+csquid:CallToDeprecatedMethod£"5Remove this use of "DOMSerializer"; it is deprecated.(²£úÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

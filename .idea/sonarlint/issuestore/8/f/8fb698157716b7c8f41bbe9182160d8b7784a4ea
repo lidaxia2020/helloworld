@@ -1,0 +1,10 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ýŒÇ
+esquid:MaximumInheritanceDepth4"<This class has 6 parents which is greater than 5 authorized.(Šìã¯
+nsquid:S3776D"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ú£óùÿÿÿÿ
+Vsquid:S1161D":Add the "@Override" annotation above this method signature(Ú£óùÿÿÿÿ
+Wsquid:S1161‡":Add the "@Override" annotation above this method signature(Å¯³Ïýÿÿÿÿ
+Rsquid:S1161–":Add the "@Override" annotation above this method signature(ÿ…áž
+~squid:S3252—"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ô–ê¨
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Ô–ê¨

@@ -1,0 +1,60 @@
+
+[squid:S3034å">Prevent "int" promotion by adding "& 0xff" to this expression.(Â­® üÿÿÿÿ
+Vsquid:S3034æ">Prevent "int" promotion by adding "& 0xff" to this expression.(ªâŞ×
+[squid:S3034ı">Prevent "int" promotion by adding "& 0xff" to this expression.(Â­® üÿÿÿÿ
+Vsquid:S3034ş">Prevent "int" promotion by adding "& 0xff" to this expression.(ªâŞ×
+[squid:S3034•">Prevent "int" promotion by adding "& 0xff" to this expression.(Â­® üÿÿÿÿ
+Vsquid:S3034€">Prevent "int" promotion by adding "& 0xff" to this expression.(ğ„µ
+Vsquid:S3034•">Prevent "int" promotion by adding "& 0xff" to this expression.(ğ„µ
+[squid:S3034æ">Prevent "int" promotion by adding "& 0xff" to this expression.(‹’ç÷ÿÿÿÿÿ
+[squid:S3034ˆ">Prevent "int" promotion by adding "& 0xff" to this expression.(‹’ç÷ÿÿÿÿÿ
+[squid:S3034¾">Prevent "int" promotion by adding "& 0xff" to this expression.(‹’ç÷ÿÿÿÿÿ
+[squid:S3034Û">Prevent "int" promotion by adding "& 0xff" to this expression.(‹’ç÷ÿÿÿÿÿ
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‘´¦¸
+osquid:S1192á"RDefine a constant instead of duplicating this literal "decoding.general" 14 times.(é€ï“ùÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckæ".Extract the assignment out of this expression.(Ş‰æÈ
+d$squid:AssignmentInSubExpressionCheckç".Extract the assignment out of this expression.(­œš–øÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckò".Extract the assignment out of this expression.(Ş‰æÈ
+d$squid:AssignmentInSubExpressionCheckó".Extract the assignment out of this expression.(­œš–øÿÿÿÿ
+p
+squid:S135¡"YReduce the total number of break and continue statements in this loop to use at most one.(ô½Ç›
+Zsquid:S2259•"BA "NullPointerException" could be thrown; "baos" is nullable here.(Ë¼‚Ê
+qsquid:S4144Ä"YUpdate this method so that its implementation is not identical to "getBytes" on line 131.(öÔ™ñ
+wsquid:S1149³"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Jsquid:S1135­"2Complete the task associated to this TODO comment.(–“Ò—
+Gsquid:S2093‹"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+osquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Š©²Œüÿÿÿÿ
+]squid:S1854Š"@Remove this useless assignment to local variable "encodedIndex".(¤³Ïıÿÿÿÿ
+]squid:S1854—"@Remove this useless assignment to local variable "encodedIndex".(¤³Ïıÿÿÿÿ
+<squid:S1659Ğ"Declare "l" on a separate line.(şÇ» ıÿÿÿÿ
+=squid:S1659Ğ" Declare "b1" on a separate line.(şÇ» ıÿÿÿÿ
+=squid:S1659Ğ" Declare "b2" on a separate line.(şÇ» ıÿÿÿÿ
+=squid:S1659Ğ" Declare "b3" on a separate line.(şÇ» ıÿÿÿÿ
+Psquid:S1197Ì"8Move the array designator from the variable to the type.(’º³
+>squid:S1168¬"&Return an empty array instead of null.(¥¹ï
+jsquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ˆ¥ˆŒ
+Zsquid:S1854ç"=Remove this useless assignment to local variable "dataIndex".(­œš–øÿÿÿÿ
+Xsquid:S1854€"@Remove this useless assignment to local variable "encodedIndex".(ğ„µ
+=squid:S1659Ó" Declare "b2" on a separate line.(»ÈŞãøÿÿÿÿ
+=squid:S1659Ó" Declare "b3" on a separate line.(»ÈŞãøÿÿÿÿ
+=squid:S1659Ó" Declare "b4" on a separate line.(»ÈŞãøÿÿÿÿ
+=squid:S1659å" Declare "d4" on a separate line.(Æ”î›üÿÿÿÿ
+Usquid:S1197Ò"8Move the array designator from the variable to the type.(„ˆª›ûÿÿÿÿ
+jsquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(×ñ†‰
+Zsquid:S1854ó"=Remove this useless assignment to local variable "dataIndex".(­œš–øÿÿÿÿ
+=squid:S1659Ñ" Declare "b2" on a separate line.(»ÈŞãøÿÿÿÿ
+=squid:S1659Ñ" Declare "b3" on a separate line.(»ÈŞãøÿÿÿÿ
+=squid:S1659Ñ" Declare "b4" on a separate line.(»ÈŞãøÿÿÿÿ
+=squid:S1659ñ" Declare "d4" on a separate line.(Æ”î›üÿÿÿÿ
+jsquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(î³½
+Qsquid:S1854©"9Remove this useless assignment to local variable "index".(ãââ¤
+=squid:S1659›" Declare "b2" on a separate line.(»ÈŞãøÿÿÿÿ
+=squid:S1659›" Declare "b3" on a separate line.(»ÈŞãøÿÿÿÿ
+=squid:S1659›" Declare "b4" on a separate line.(»ÈŞãøÿÿÿÿ
+8squid:S1659Á" Declare "d2" on a separate line.(çÛ‹ 
+8squid:S1659Á" Declare "d3" on a separate line.(çÛ‹ 
+8squid:S1659Á" Declare "d4" on a separate line.(çÛ‹ 
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(‘áÜ–
+hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(‰˜÷Æÿÿÿÿÿ
+csquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(Ší®Š
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(Ší®Š

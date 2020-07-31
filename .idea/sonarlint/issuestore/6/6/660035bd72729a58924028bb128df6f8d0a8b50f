@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÂÙÁˆûÿÿÿÿ
+ksquid:S1192“"SUse already-defined constant 'FORMAT_FAILED' instead of duplicating its value here.(ý…á‹
+lsquid:S1192”"OUse already-defined constant 'ERROR0000' instead of duplicating its value here.(Ûôÿ¡øÿÿÿÿ
+fsquid:S1192’"NUse already-defined constant 'BAD_CODE' instead of duplicating its value here.(¬«ø¢
+esquid:S001010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­üóô
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

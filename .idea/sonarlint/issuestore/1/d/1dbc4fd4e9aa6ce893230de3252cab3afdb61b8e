@@ -1,0 +1,27 @@
+
+Ksquid:S1191("5Use classes from the Java API instead of Sun classes.(£âøs
+dsquid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S00112ë"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S00112ª"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S00112İ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+jsquid:S00117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¸æŞ
+;squid:S1148Ä"#Use a logger to log this exception.(Ç’Çê
+>squid:S3077ı"&Use an "AtomicReferenceArray" instead.(é®—´
+_squid:HiddenFieldCheckä"<Rename "manEntry" which hides the field declared at line 85.(¸—î
+nsquid:S2177÷"WRename this method; there is a "private" method in the parent class with the same name.(ëÁÒ>
+Wsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(˜›¹áıÿÿÿÿ
+Hsquid:S1150§"+Implement Iterator rather than Enumeration.(Ÿäµúÿÿÿÿ
+fsquid:S2272°"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ìó¬™
+Wsquid:S1161Ä":Add the "@Override" annotation above this method signature(Ş¯•ıÿÿÿÿ
+Rsquid:S1161Ô":Add the "@Override" annotation above this method signature(–óÔ”
+Rsquid:S1161Ü":Add the "@Override" annotation above this method signature(Û§Å©
+Rsquid:S1161ç":Add the "@Override" annotation above this method signature(ØÂ
+jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(„³¡†
+Wsquid:S1161ú":Add the "@Override" annotation above this method signature(Ğò„±ıÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheckÙ";Refactor the code to remove this label and the need for it.(áµ…
+_squid:HiddenFieldCheckò"<Rename "manEntry" which hides the field declared at line 85.(¸—î
+Rsquid:S1854•"5Remove this useless assignment to local variable "i".(ÀÑÈ¯ùÿÿÿÿ
+Nsquid:S2696„"6Make the enclosing method "static" or remove this set.(Â¿è¶
+Msquid:S2696–"6Make the enclosing method "static" or remove this set.(¯Â¼)
+>squid:S1168™"&Return an empty array instead of null.(¥¹ï
+psquid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦’"

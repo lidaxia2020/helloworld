@@ -1,0 +1,18 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+jsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Î‰ô
+osquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÈ¯ßùÿÿÿÿ
+jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¤™¦
+tsquid:S00116Y"WRename this field "m_saxHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªè±Èûÿÿÿÿ
+tsquid:S00116a"WRename this field "m_lexHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï³Šüıÿÿÿÿ
+~squid:S00116q"fRename this field "m_shouldGenerateNSAttribute" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¥øé
+jsquid:S00116{"RRename this field "m_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åî½¾
+}squid:S1149µ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»¤™¦
+Rsquid:S1161ƒ":Add the "@Override" annotation above this method signature(›ù¼ô
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(Òû¾ıÿÿÿÿ
+Wsquid:S1161¾":Add the "@Override" annotation above this method signature(‹‹³€ùÿÿÿÿ
+Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(€‹¿´úÿÿÿÿ
+Wsquid:S1161ã":Add the "@Override" annotation above this method signature( Äá³ùÿÿÿÿ
+Rsquid:S1161ğ":Add the "@Override" annotation above this method signature(¯µÌ
+Wsquid:S1161„":Add the "@Override" annotation above this method signature(–Ó¨Úüÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

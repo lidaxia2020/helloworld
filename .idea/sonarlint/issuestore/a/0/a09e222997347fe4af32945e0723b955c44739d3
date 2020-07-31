@@ -1,0 +1,26 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
+osquid:S1450O"SRemove the "_lex" field and declare it as a local variable in the relevant methods.(öÂôùÿÿÿÿ
+msquid:S1450P"WRemove the "_saxImpl" field and declare it as a local variable in the relevant methods.(ÎøÑa
+™squid:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûğ„Û
+™squid:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌëŸõ
+squid:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô®öÙÿÿÿÿÿ
+squid:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı²ıÿıÿÿÿÿ
+™squid:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰›”°
+gsquid:S00116N"ORename this field "_sax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¬Èè
+lsquid:S00116O"ORename this field "_lex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÂôùÿÿÿÿ
+jsquid:S00116P"SRename this field "_saxImpl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎøÑa
+Ÿ%squid:RedundantThrowsDeclarationCheck_"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckv"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ŠúÌ
+¢%squid:RedundantThrowsDeclarationCheckv"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ŠúÌ
+jsquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÃÃá€
+Vsquid:S1854¨"9Remove this useless assignment to local variable "event".(™ïÜ¾øÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheck«"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(ÌëŸõ
+ %squid:RedundantThrowsDeclarationCheck¶"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheckÍ"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
+Dsquid:S1068O"(Remove this unused "_lex" private field.(öÂôùÿÿÿÿ
+Bsquid:S1068P",Remove this unused "_saxImpl" private field.(ÎøÑa
+bsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(ıêÊ‘
+bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(£˜šÖ
+bsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(Ÿá¹û
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(Ú øªşÿÿÿÿ

@@ -1,0 +1,28 @@
+
+.squid:S21762"Rename this class.(Ùşïïùÿÿÿÿ
+Qsquid:S1133G"5Do not forget to remove this deprecated code someday.(…©Áşÿÿÿÿ
+Dsquid:S1185t"(Remove this method to simply inherit it.(Ç—¹çıÿÿÿÿ
+Vsquid:S1161t":Add the "@Override" annotation above this method signature(Ç—¹çıÿÿÿÿ
+Usquid:CallToDeprecatedMethod¥",Remove this use of "Date"; it is deprecated.(æ’ó
+Rsquid:S1161¼":Add the "@Override" annotation above this method signature(Á»›ê
+]squid:CallToDeprecatedMethod½"/Remove this use of "getYear"; it is deprecated.(ç‰Ğ‘øÿÿÿÿ
+^squid:CallToDeprecatedMethod¾"0Remove this use of "getMonth"; it is deprecated.(êˆÏ¡ûÿÿÿÿ
+Xsquid:CallToDeprecatedMethod¿"/Remove this use of "getDate"; it is deprecated.(–®·
+Psquid:S1197Á"8Move the array designator from the variable to the type.(ƒóÒÅ
+Msquid:S1133İ"5Do not forget to remove this deprecated code someday.(ùÅ˜‰
+Rsquid:S1161İ":Add the "@Override" annotation above this method signature(ùÅ˜‰
+Msquid:S1133î"5Do not forget to remove this deprecated code someday.(ìÒê†
+Rsquid:S1161î":Add the "@Override" annotation above this method signature(ìÒê†
+Rsquid:S1133ÿ"5Do not forget to remove this deprecated code someday.(Ğ™»ßÿÿÿÿÿ
+Wsquid:S1161ÿ":Add the "@Override" annotation above this method signature(Ğ™»ßÿÿÿÿÿ
+Msquid:S1133"5Do not forget to remove this deprecated code someday.(£˜“‚
+Rsquid:S1161":Add the "@Override" annotation above this method signature(£˜“‚
+Rsquid:S1133¡"5Do not forget to remove this deprecated code someday.(›ÇûÈÿÿÿÿÿ
+Wsquid:S1161¡":Add the "@Override" annotation above this method signature(›ÇûÈÿÿÿÿÿ
+Rsquid:S1133²"5Do not forget to remove this deprecated code someday.(È‰îÿøÿÿÿÿ
+Wsquid:S1161²":Add the "@Override" annotation above this method signature(È‰îÿøÿÿÿÿ
+Zsquid:CallToDeprecatedMethodÔ",Remove this use of "Date"; it is deprecated.(Ë¼éğùÿÿÿÿ
+]squid:CallToDeprecatedMethodê"/Remove this use of "getYear"; it is deprecated.(ŞßœÊşÿÿÿÿ
+^squid:CallToDeprecatedMethodê"0Remove this use of "getMonth"; it is deprecated.(ŞßœÊşÿÿÿÿ
+]squid:CallToDeprecatedMethodê"/Remove this use of "getDate"; it is deprecated.(ŞßœÊşÿÿÿÿ
+csquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(úîÀ†

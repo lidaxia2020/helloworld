@@ -1,0 +1,43 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(şİòúùÿÿÿÿ
+csquid:S1301‘"KReplace this "switch" statement by "if" statements to increase readability.(¯àúß
+Csquid:S16597",Declare "slotToArgTable" on a separate line.(šç‰â
+Csquid:S1659B"'Declare "MH_NF_INV" on a separate line.(şô—òüÿÿÿÿ
+Fsquid:S1659C"*Declare "MH_UNINIT_CS" on a separate line.(ã™ÜÇıÿÿÿÿ
+<squid:S1659D"&Declare "MH_LIMIT" on a separate line.(Æ¼’'
+Fsquid:S1659K"*Declare "LF_INVSTATIC" on a separate line.(ë²Óşÿÿÿÿ
+Bsquid:S1659L"+Declare "LF_INVSPECIAL" on a separate line.(Ì••¤
+Esquid:S1659M".Declare "LF_NEWINVSPECIAL" on a separate line.(Ã¶ô€
+Dsquid:S1659N"-Declare "LF_INVINTERFACE" on a separate line.(Ç¨°
+Ksquid:S1659O"/Declare "LF_INVSTATIC_INIT" on a separate line.(šœóãúÿÿÿÿ
+Asquid:S1659P"*Declare "LF_INTERPRET" on a separate line.(ˆµÿ–
+Csquid:S1659Q"'Declare "LF_REBIND" on a separate line.(²¿‹±üÿÿÿÿ
+@squid:S1659R")Declare "LF_DELEGATE" on a separate line.(•¸À
+Tsquid:S1659S"8Declare "LF_DELEGATE_BLOCK_INLINING" on a separate line.(Öª¼şÿÿÿÿ
+Asquid:S1659T"*Declare "LF_EX_LINKER" on a separate line.(’ò« 
+Gsquid:S1659U"+Declare "LF_EX_INVOKER" on a separate line.(õƒ£ğÿÿÿÿÿ
+Bsquid:S1659V"+Declare "LF_GEN_LINKER" on a separate line.(ğ†°‚
+Hsquid:S1659W",Declare "LF_GEN_INVOKER" on a separate line.(Ò¨Ğ´ıÿÿÿÿ
+Asquid:S1659X"*Declare "LF_CS_LINKER" on a separate line.(›é€
+Asquid:S1659Y"*Declare "LF_MH_LINKER" on a separate line.(Ñ…ò 
+@squid:S1659Z"$Declare "LF_GWC" on a separate line.(„¬‚ºøÿÿÿÿ
+;squid:S1659["$Declare "LF_GWT" on a separate line.(è¦Éû
+Bsquid:S1659\"&Declare "LF_LIMIT" on a separate line.(Öâ˜Ñüÿÿÿÿ
+:squid:S1659ã"#Declare "ERASE" on a separate line.(æêâY
+9squid:S1659ã""Declare "WRAP" on a separate line.(æêâY
+;squid:S1659ã"$Declare "UNWRAP" on a separate line.(æêâY
+9squid:S1659ã""Declare "INTS" on a separate line.(æêâY
+:squid:S1659ã"#Declare "LONGS" on a separate line.(æêâY
+?squid:S1659ã"(Declare "RAW_RETURN" on a separate line.(æêâY
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ã¼Å
+psquid:ModifiersOrderCheck”"EReorder the modifiers to comply with the Java Language Specification.(½ãÂ´úÿÿÿÿ
+jsquid:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Ô–³Ã
+Bsquid:S1659³"*Declare "slotToArgTab" on a separate line.(ìáÔÏ
+>squid:S1659¶"!Declare "lac" on a separate line.(ø²ß®şÿÿÿÿ
+>squid:S1659¶"!Declare "prc" on a separate line.(ø²ß®şÿÿÿÿ
+>squid:S1659¶"!Declare "lrc" on a separate line.(ø²ß®şÿÿÿÿ
+8squid:S1659“" Declare "lw" on a separate line.(õµØ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(‘«Ûìùÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck†""Add a default case to this switch.(¯àúß
+Q"squid:SwitchLastCaseIsDefaultCheck‘""Add a default case to this switch.(¯àúß
+Q"squid:SwitchLastCaseIsDefaultCheck™""Add a default case to this switch.(¯àúß

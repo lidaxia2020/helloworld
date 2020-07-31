@@ -1,0 +1,130 @@
+
+4squid:S1643å"Use a StringBuilder instead.(’ŸÉå
+9squid:S1643é"Use a StringBuilder instead.(ïëÂÏşÿÿÿÿ
+9squid:S1643í"Use a StringBuilder instead.(“íßûùÿÿÿÿ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(§¬øÏıÿÿÿÿ
+Lsquid:S1066×"/Merge this if statement with the enclosing one.(…²æùÿÿÿÿ
+Gsquid:S1066ï"/Merge this if statement with the enclosing one.(¸ï×
+Gsquid:S1066ˆ"/Merge this if statement with the enclosing one.(²ˆô¢
+Lsquid:S1066Ã"/Merge this if statement with the enclosing one.(”®ÎËüÿÿÿÿ
+Lsquid:S1066Ñ"/Merge this if statement with the enclosing one.(ÉĞ¼üùÿÿÿÿ
+Lsquid:S1066Ø"/Merge this if statement with the enclosing one.(‡Ÿ„¬ùÿÿÿÿ
+Lsquid:S1066Ã"/Merge this if statement with the enclosing one.(†¿ì±ÿÿÿÿÿ
+Gsquid:S1066Ë"/Merge this if statement with the enclosing one.(Ã–ô¢
+dsquid:S3973‡"GUse indentation to denote the code conditionally executed by this "if".(µ­Ó•ûÿÿÿÿ
+Ysquid:S00107“"AConstructor has 8 parameters, which is greater than 7 authorized.(Çİö5
+Zsquid:S00107ê"AConstructor has 8 parameters, which is greater than 7 authorized.(«ôØÁ
+Zsquid:S00107²"<Method has 8 parameters, which is greater than 7 authorized.(—³¥õûÿÿÿÿ
+Zsquid:S00107ˆ"<Method has 8 parameters, which is greater than 7 authorized.(—³¥õûÿÿÿÿ
+jsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şê¾æ
+osquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ˆ¥ÿÿÿÿÿ
+jsquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã÷µ²
+osquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÖ…ˆıÿÿÿÿ
+jsquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ƒñç
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úòÑ°
+osquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø ²ˆüÿÿÿÿ
+osquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íï‡êøÿÿÿÿ
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î«¤İùÿÿÿÿ
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î«¤İùÿÿÿÿ
+osquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šËºğúÿÿÿÿ
+osquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šËºğúÿÿÿÿ
+jsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹´˜
+jsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹´˜
+}squid:S1845ˆ"`Rename field "YEAR" to prevent any misunderstanding/clash with field "year" defined on line 310.(ñ³Ç’ùÿÿÿÿ
+squid:S1845"bRename field "MONTH" to prevent any misunderstanding/clash with field "month" defined on line 318.(Ä¤›ƒÿÿÿÿÿ
+{squid:S1845˜"^Rename field "DAY" to prevent any misunderstanding/clash with field "day" defined on line 326.(Ø¾Ğùÿÿÿÿ
+}squid:S1845 "`Rename field "HOUR" to prevent any misunderstanding/clash with field "hour" defined on line 342.(Œ±Æùÿÿÿÿ
+squid:S1845¨"dRename field "MINUTE" to prevent any misunderstanding/clash with field "minute" defined on line 350.(à‚Ûãıÿÿÿÿ
+{squid:S1845°"dRename field "SECOND" to prevent any misunderstanding/clash with field "second" defined on line 358.(ƒ¢ıf
+€squid:S1845À"hRename field "TIMEZONE" to prevent any misunderstanding/clash with field "timezone" defined on line 334.(ÌÜœ¡
+wsquid:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(–Â¿
+;squid:S2129ö"$Remove this "BigInteger" constructor(¡£ù\
+Usquid:S1197É"8Move the array designator from the variable to the type.(¬œÖòÿÿÿÿÿ
+Jsquid:S1135×"2Complete the task associated to this TODO comment.(Ë’œ¸
+Osquid:S1135Ü"2Complete the task associated to this TODO comment.(¡ÓğÑşÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+osquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(šÛÉ€úÿÿÿÿ
+>squid:S2129©"!Remove this "Integer" constructor(Ê‹Œ²ûÿÿÿÿ
+]squid:CallToDeprecatedMethod©"/Remove this use of "Integer"; it is deprecated.(Ê‹Œ²ûÿÿÿÿ
+>squid:S2129©"!Remove this "Integer" constructor(Ê‹Œ²ûÿÿÿÿ
+]squid:CallToDeprecatedMethod©"/Remove this use of "Integer"; it is deprecated.(Ê‹Œ²ûÿÿÿÿ
+9squid:S2129ª"!Remove this "Integer" constructor(ïŞğä
+Xsquid:CallToDeprecatedMethodª"/Remove this use of "Integer"; it is deprecated.(ïŞğä
+9squid:S2129ª"!Remove this "Integer" constructor(ïŞğä
+Xsquid:CallToDeprecatedMethodª"/Remove this use of "Integer"; it is deprecated.(ïŞğä
+9squid:S2129ª"!Remove this "Integer" constructor(ïŞğä
+Xsquid:CallToDeprecatedMethodª"/Remove this use of "Integer"; it is deprecated.(ïŞğä
+9squid:S2129«"!Remove this "Integer" constructor(âÓ­
+Xsquid:CallToDeprecatedMethod«"/Remove this use of "Integer"; it is deprecated.(âÓ­
+>squid:S2129€"!Remove this "Integer" constructor(®Íƒóÿÿÿÿÿ
+]squid:CallToDeprecatedMethod€"/Remove this use of "Integer"; it is deprecated.(®Íƒóÿÿÿÿÿ
+>squid:S2129€"!Remove this "Integer" constructor(®Íƒóÿÿÿÿÿ
+]squid:CallToDeprecatedMethod€"/Remove this use of "Integer"; it is deprecated.(®Íƒóÿÿÿÿÿ
+>squid:S2129€"!Remove this "Integer" constructor(®Íƒóÿÿÿÿÿ
+]squid:CallToDeprecatedMethod€"/Remove this use of "Integer"; it is deprecated.(®Íƒóÿÿÿÿÿ
+9squid:S2129"!Remove this "Integer" constructor(ïŞğä
+Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ïŞğä
+9squid:S2129"!Remove this "Integer" constructor(ïŞğä
+Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ïŞğä
+9squid:S2129"!Remove this "Integer" constructor(ïŞğä
+Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ïŞğä
+9squid:S2129‚"!Remove this "Integer" constructor(×ïÂÁ
+Xsquid:CallToDeprecatedMethod‚"/Remove this use of "Integer"; it is deprecated.(×ïÂÁ
+9squid:S2129‚"!Remove this "Integer" constructor(×ïÂÁ
+Xsquid:CallToDeprecatedMethod‚"/Remove this use of "Integer"; it is deprecated.(×ïÂÁ
+asquid:HiddenFieldCheck‚"9Rename "year" which hides the field declared at line 310.(Á†êûÿÿÿÿ
+Wsquid:S1161¿":Add the "@Override" annotation above this method signature(Ó®µĞıÿÿÿÿ
+Osquid:S1135Ã"2Complete the task associated to this TODO comment.(€ÍâŞüÿÿÿÿ
+Wsquid:S1161¡":Add the "@Override" annotation above this method signature(Ôì°Ÿùÿÿÿÿ
+9squid:S2129¨"!Remove this "Integer" constructor(Ñ‰´„
+Xsquid:CallToDeprecatedMethod¨"/Remove this use of "Integer"; it is deprecated.(Ñ‰´„
+Rsquid:S1161ò":Add the "@Override" annotation above this method signature(Ü…·
+Rsquid:S1161":Add the "@Override" annotation above this method signature(–Ï´ÿ
+osquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¦ù¥šıÿÿÿÿ
+Wsquid:S1854Ò":Remove this useless assignment to local variable "result".(¹İÊ€üÿÿÿÿ
+Rsquid:S1161Ó":Add the "@Override" annotation above this method signature(ÜÑã
+fsquid:S4201Õ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(à’¼şÿÿÿÿ
+Rsquid:S1161ä":Add the "@Override" annotation above this method signature(ğÜşŠ
+`squid:HiddenFieldCheckë"=Rename "timezone" which hides the field declared at line 334.(øù…™
+osquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(€ã”ùÿÿÿÿ
+ksquid:S1871Å"NThis branch's code block is the same as the block for the branch on line 2499.(Ó—¯¿ùÿÿÿÿ
+jsquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(â¿ç
+Psquid:S1197™"8Move the array designator from the variable to the type.(ŒÍŒÏ
+\squid:CallToDeprecatedMethod®".Remove this use of "divide"; it is deprecated.(·›Œıÿÿÿÿ
+asquid:CallToDeprecatedMethod®"3Remove this use of "ROUND_FLOOR"; it is deprecated.(·›Œıÿÿÿÿ
+Wsquid:CallToDeprecatedMethodß".Remove this use of "divide"; it is deprecated.(µŸŒù
+\squid:CallToDeprecatedMethodß"3Remove this use of "ROUND_FLOOR"; it is deprecated.(µŸŒù
+\squid:CallToDeprecatedMethod‚".Remove this use of "divide"; it is deprecated.(Ô²š¶ÿÿÿÿÿ
+asquid:CallToDeprecatedMethod‚"3Remove this use of "ROUND_FLOOR"; it is deprecated.(Ô²š¶ÿÿÿÿÿ
+\squid:CallToDeprecatedMethod•".Remove this use of "divide"; it is deprecated.(©İ³Óùÿÿÿÿ
+asquid:CallToDeprecatedMethod•"3Remove this use of "ROUND_FLOOR"; it is deprecated.(©İ³Óùÿÿÿÿ
+Wsquid:CallToDeprecatedMethodŞ".Remove this use of "divide"; it is deprecated.(Šˆ¦ü
+Ysquid:CallToDeprecatedMethodŞ"0Remove this use of "ROUND_UP"; it is deprecated.(Šˆ¦ü
+P"squid:SwitchLastCaseIsDefaultCheckí""Add a default case to this switch.(ìúÇV
+Usquid:S1197‘"8Move the array designator from the variable to the type.(ÏöÕşÿÿÿÿ
+asquid:HiddenFieldCheckå"9Rename "year" which hides the field declared at line 310.(ìÄÄ³ùÿÿÿÿ
+osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(¨æøÆúÿÿÿÿ
+asquid:HiddenFieldCheckö"9Rename "year" which hides the field declared at line 310.(ìÄÄ³ùÿÿÿÿ
+asquid:HiddenFieldCheckÿ"9Rename "hour" which hides the field declared at line 342.(ûä¾­ıÿÿÿÿ
+ksquid:S2975Ÿ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+`squid:S1182Ÿ"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+Ÿ%squid:RedundantThrowsDeclarationCheckó"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(’¦ÿÒ
+jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(’¦ÿÒ
+¤%squid:RedundantThrowsDeclarationCheck¶"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ü šŞıÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck½"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(³×§´ùÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckÄ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ÑÌú©şÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckË"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckİ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck€"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(ıÊ€Òøÿÿÿÿ
+:squid:S1659ª""Declare "flen" on a separate line.(ƒ†à‘
+]squid:S3027ß"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(­üv
+7squid:S3398"Move this method into "Parser".(â‚ß
+csquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(üØÕ¬
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Š¤”Öşÿÿÿÿ
+csquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(½²–´
+csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(½²–´
+csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ÈËü’
+csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(½²–´
+csquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(½²–´
+hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÜÜš›øÿÿÿÿ

@@ -1,0 +1,63 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+Tsquid:S2589Ç"7Remove this expression which always evaluates to "true"(¬Éş´ÿÿÿÿÿ
+`squid:S2259Õ"HA "NullPointerException" could be thrown; "attributes" is nullable here.(¼ûÚ·
+Wsquid:S2259"?A "NullPointerException" could be thrown; "c" is nullable here.(è©Í
+`squid:S00107±"BConstructor has 12 parameters, which is greater than 7 authorized.(¤ğüŠÿÿÿÿÿ
+`squid:S00107"BConstructor has 11 parameters, which is greater than 7 authorized.(¤ğüŠÿÿÿÿÿ
+osquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ğüŠÿÿÿÿÿ
+isquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³üøQ
+jsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÒ¥
+osquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÿ’ßûÿÿÿÿ
+osquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æˆƒûÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ğüŠÿÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³üøQ
+jsquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÒ¥
+osquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÿ’ßûÿÿÿÿ
+osquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æˆƒûÿÿÿÿ
+jsquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûı«œ
+jsquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°È°–
+osquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¦™üÿÿÿÿ
+osquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…›Ÿÿÿÿÿÿ
+osquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶õúÿÿÿÿÿ
+jsquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔıÔº
+jsquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãõÕ†
+osquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÑŠ‚úÿÿÿÿ
+osquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÿğúÿÿÿÿ
+jsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸è¾‚
+isquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‡ÕV
+jsquid:S00117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÛÿÌ
+@squid:S1148é"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+;squid:S1148ë"#Use a logger to log this exception.(§Œ‡Í
+Msquid:S2065˜"0Remove the "transient" modifier from this field.(î·¨¿şÿÿÿÿ
+@squid:S1659€"#Declare "minor" on a separate line.( îş“ùÿÿÿÿ
+Asquid:S2157x"%Add a "clone()" method to this class.(çğÿ©øÿÿÿÿ
+{squid:S1845±"cRename method "Debug" to prevent any misunderstanding/clash with field "debug" defined on line 141.(À¶¯ã
+lsquid:S00116y"TRename this field "file_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û°ãœ
+tsquid:S00116z"WRename this field "package_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Œ¸ôÿÿÿÿÿ
+ssquid:S00116{"[Rename this field "source_file_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ü¡Î
+ssquid:S00116|"[Rename this field "class_name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ššÛŸ
+}squid:S00116}"`Rename this field "superclass_name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šæûøşÿÿÿÿ
+msquid:S00116~"URename this field "class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ç©É
+wsquid:S00116"ZRename this field "superclass_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éùæÉÿÿÿÿÿ
+qsquid:S00116"XRename this field "constant_pool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™°‚
+xsquid:S00116ƒ"ZRename this field "interface_names" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÏ„şûÿÿÿÿ
+|squid:S1149Ê"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æş”ıÿÿÿÿ
+|squid:S1149ü"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+gsquid:S00100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¶¯ã
+O
+squid:S106³"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+9squid:S1659­"!Declare "sep" on a separate line.(˜ï«
+Ysquid:S2130¹"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(„¡œ
+Xsquid:CallToDeprecatedMethod¹"/Remove this use of "Boolean"; it is deprecated.(„¡œ
+Bsquid:S00108¾")Either remove or fill this block of code.(º÷ò
+jsquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Á»›ê
+Gsquid:S00108")Either remove or fill this block of code.(³›åùşÿÿÿÿ
+Csquid:S1905’"+Remove this unnecessary cast to "String[]".(—à”Ê
+U
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+asquid:HiddenFieldCheck©"?Rename "interfaces" which hides the field declared at line 130.(‘£¯+
+U
+squid:S106±"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+>squid:S1168²"&Return an empty array instead of null.(¥¹ï
+bsquid:HiddenFieldCheckÇ"?Rename "interfaces" which hides the field declared at line 130.(†—æ

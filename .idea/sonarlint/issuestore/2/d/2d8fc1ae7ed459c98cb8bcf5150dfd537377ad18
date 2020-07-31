@@ -1,0 +1,50 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckì".Extract the assignment out of this expression.(òßåÏøÿÿÿÿ
+dsquid:S3973©"GUse indentation to denote the code conditionally executed by this "if".(ÆÀïùÿÿÿÿ
+dsquid:S3973Ã"GUse indentation to denote the code conditionally executed by this "if".(¥º¾¶ùÿÿÿÿ
+fsquid:S3973Œ"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+fsquid:S3973¯"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+dsquid:S3973º"GUse indentation to denote the code conditionally executed by this "if".(¥º¾¶ùÿÿÿÿ
+_squid:S3973Ê"GUse indentation to denote the code conditionally executed by this "if".(Ü«ü¢
+u
+squid:S135ó"YReduce the total number of break and continue statements in this loop to use at most one.(øÍµ¸øÿÿÿÿ
+qsquid:S1488_"ZImmediately return this expression instead of assigning it to the temporary variable "nv".(àü¦ş
+rsquid:S1488«"ZImmediately throw this expression instead of assigning it to the temporary variable "rte".(ã¦§–
+Tsquid:S2589­"7Remove this expression which always evaluates to "true"(š¶¬šÿÿÿÿÿ
+dsquid:S00112Ø"FDefine and throw a dedicated exception instead of using a generic one.(òßûÿÿÿÿ
+@squid:S1148ª"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S00116="QRename this field "m_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¦¾†
+nsquid:S00116G"QRename this field "m_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íç¾²ÿÿÿÿÿ
+osquid:S00116U"RRename this field "m_cache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÄ³­ÿÿÿÿÿ
+osquid:S00116°"QRename this field "m_iter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô²Ñ»úÿÿÿÿ
+ksquid:S00116Ó"SRename this field "m_dtmMgr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É´Øb
+}squid:S1149Õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Æ“ëÚ
+Esquid:S1948U")Make "m_cache" transient or serializable.(ĞÄ³­ÿÿÿÿÿ
+Esquid:S1948°"(Make "m_iter" transient or serializable.(Ô²Ñ»úÿÿÿÿ
+Asquid:S1948Ó"*Make "m_dtmMgr" transient or serializable.(É´Øb
+fsquid:S00100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÄ®
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+jsquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ê´æ
+Msquid:S1854ã"5Remove this useless assignment to local variable "n".(¨œİã
+Fsquid:S1125€")Remove the literal "false" boolean value.(ÜŞô‰şÿÿÿÿ
+3squid:S3626æ"Remove this redundant jump.(ûÁİ…
+Rsquid:S1854á"5Remove this useless assignment to local variable "n".(÷ãùıÿÿÿÿ
+Rsquid:S1854î"5Remove this useless assignment to local variable "n".(©‚õİøÿÿÿÿ
+Rsquid:S1854ò"5Remove this useless assignment to local variable "n".(ğ£í–øÿÿÿÿ
+psquid:S2975•"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
+asquid:S4201Ê"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ü«ü¢
+@squid:S1185Õ"(Remove this method to simply inherit it.(Æ“ëÚ
+7squid:S1659ñ"Declare "i" on a separate line.(çˆËÒ
+Wsquid:S1161£":Add the "@Override" annotation above this method signature(áÂ“–ûÿÿÿÿ
+osquid:S00116"QRename this field "m_vec2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Æ†’üÿÿÿÿ
+vsquid:S00116¦"XRename this field "m_isComplete2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Š¥ûüÿÿÿÿ
+osquid:S00116¨"VRename this field "m_useCount2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÅ©
+ksquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(‹Ûğå
+3squid:S3626®"Remove this redundant jump.(ûÁİ…
+>squid:S1481ã"&Remove this unused "n" local variable.(¨œİã
+asquid:UnusedPrivateMethodã"6Remove this unused private "NodeSequence" constructor.(¸è¬Üùÿÿÿÿ
+asquid:UnusedPrivateMethod"6Remove this unused private "NodeSequence" constructor.(…²ëœøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(îúÏ…şÿÿÿÿ
+hsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ŒÉÃüÿÿÿÿ

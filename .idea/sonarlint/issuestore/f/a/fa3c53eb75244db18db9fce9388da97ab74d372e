@@ -1,0 +1,14 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+tsquid:S00116a"]Rename this field "m_currentElemDepth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¡ò
+psquid:S00116d"XRename this field "m_elementDesc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’è×½
+usquid:S00116l"]Rename this field "m_elementLocalName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¥ÑŒ
+psquid:S00116t"XRename this field "m_elementName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„–“Û
+nsquid:S00116|"WRename this field "m_elementURI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÆ¯
+tsquid:S00116…"[Rename this field "m_isCdataSection" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷¤
+psquid:S00116"RRename this field "m_isRaw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù³Öäøÿÿÿÿ
+osquid:S00116¡"QRename this field "m_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†™ÄÑùÿÿÿÿ
+jsquid:S00116¤"QRename this field "m_prev" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÃå¾
+wsquid:S00116­"YRename this field "m_startTagOpen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìù÷ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ğŠù³

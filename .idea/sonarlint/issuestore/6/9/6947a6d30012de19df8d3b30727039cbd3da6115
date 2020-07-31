@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ç­ìÞþÿÿÿÿ
+?squid:S27861")Remove this redundant "static" qualifier.(§æª
+@squid:S2786<")Remove this redundant "static" qualifier.(ôÅÌ
+Esquid:S1125I")Remove the literal "false" boolean value.(‹åŒˆøÿÿÿÿ
+Vsquid:UnusedPrivateMethodC"1Remove this unused private "Feature" constructor.(üÏ•£

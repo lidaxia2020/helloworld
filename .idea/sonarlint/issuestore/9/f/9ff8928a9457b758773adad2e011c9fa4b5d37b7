@@ -1,0 +1,5 @@
+
+U
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(’ÔÛ¾üÿÿÿÿ
+˜%squid:RedundantThrowsDeclarationCheckä"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¿®âà
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(©‰Ô®þÿÿÿÿ

@@ -1,0 +1,9 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ä³ùÿÿÿÿ
+{squid:S11496"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÚÌ·úÿÿÿÿ
+™%squid:RedundantThrowsDeclarationCheckn"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Qsquid:S1161m":Add the "@Override" annotation above this method signature(­õ›ë
+Qsquid:S1161{":Add the "@Override" annotation above this method signature(èïÊ’
+š%squid:RedundantThrowsDeclarationCheck“"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Rsquid:S1161‘":Add the "@Override" annotation above this method signature(Š©¬
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

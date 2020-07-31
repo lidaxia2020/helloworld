@@ -1,0 +1,8 @@
+
+Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒğw
+Ksquid:S11659"/Make this "uninitializedReference" field final.(òõÇÅúÿÿÿÿ
+Tsquid:S19489"8Make "uninitializedReference" transient or serializable.(òõÇÅúÿÿÿÿ
+Osquid:S1197W"8Move the array designator from the variable to the type.(ç˜¨­
+jsquid:CallToDeprecatedMethodl"=Remove this use of "XMLSignatureException"; it is deprecated.(„İà˜ùÿÿÿÿ
+Osquid:S1197"8Move the array designator from the variable to the type.(¹•Şœ
+ksquid:CallToDeprecatedMethod"=Remove this use of "XMLSignatureException"; it is deprecated.(ÛÁˆ ıÿÿÿÿ

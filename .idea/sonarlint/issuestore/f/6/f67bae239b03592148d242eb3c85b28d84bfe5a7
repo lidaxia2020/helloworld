@@ -1,0 +1,4 @@
+
+}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(úÏÑÊþÿÿÿÿ
+Ñ%squid:RedundantThrowsDeclarationCheck‰"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(ÉÙö™ÿÿÿÿÿ
+>squid:S1452‡"&Remove usage of generic wildcard type.(¹í¯«

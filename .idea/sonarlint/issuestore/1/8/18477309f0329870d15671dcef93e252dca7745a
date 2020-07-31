@@ -1,0 +1,30 @@
+
+Qsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
+zsquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "value".(º¹ÖËşÿÿÿÿ
+ssquid:S1488ä	"[Immediately return this expression instead of assigning it to the temporary variable "uri".(°ç¿¡
+"squid:ClassVariableVisibilityCheck”"PMake name a static final constant or non-public and provide accessors if needed.(Üù˜¯
+„"squid:ClassVariableVisibilityCheck—"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ
+€"squid:ClassVariableVisibilityCheckš"QMake value a static final constant or non-public and provide accessors if needed.(çªÆà
+ƒ"squid:ClassVariableVisibilityCheck"TMake xmlValue a static final constant or non-public and provide accessors if needed.(Ö—“Ú
+Œ"squid:ClassVariableVisibilityCheck "^Make nonNormalizedValue a static final constant or non-public and provide accessors if needed.(„¿“
+‰"squid:ClassVariableVisibilityCheck£"UMake specified a static final constant or non-public and provide accessors if needed.(ñÕå‡ÿÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck¦"TMake schemaId a static final constant or non-public and provide accessors if needed.(ûí›¸ıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck¯"PMake augs a static final constant or non-public and provide accessors if needed.(€ Ú
+„"squid:ClassVariableVisibilityCheck´"PMake next a static final constant or non-public and provide accessors if needed.(ßÎşüÿÿÿÿ
+Qsquid:S4973â"9Use the "equals" method if value comparison was intended.(ı¨Œù
+Qsquid:S4973•"9Use the "equals" method if value comparison was intended.(ó‰Ü
+Vsquid:S4973–"9Use the "equals" method if value comparison was intended.(Àâ…úÿÿÿÿ
+Qsquid:S4973ø"9Use the "equals" method if value comparison was intended.(ˆŒùÀ
+Vsquid:S4973ù"9Use the "equals" method if value comparison was intended.(ÓÑæ¾şÿÿÿÿ
+Qsquid:S4973›"9Use the "equals" method if value comparison was intended.(®òÍ
+Vsquid:S4973œ"9Use the "equals" method if value comparison was intended.(¯¤Ùïıÿÿÿÿ
+Qsquid:S4973Â"9Use the "equals" method if value comparison was intended.(İÄÂø
+Qsquid:S4973Ã"9Use the "equals" method if value comparison was intended.(ê…£û
+squid:S1186û
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹é‹Ûúÿÿÿÿ
+jsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ú¿¦‚
+jsquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(•²‘¨
+Fsquid:S1125á
+")Remove the literal "false" boolean value.(ß•úûüÿÿÿÿ
+Fsquid:S1125é
+")Remove the literal "false" boolean value.(ß•úûüÿÿÿÿ

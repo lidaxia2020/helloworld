@@ -1,0 +1,5 @@
+
+Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒğw
+isquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºñ¤ü
+jsquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿô…Š
+fsquid:CallToDeprecatedMethodŒ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜

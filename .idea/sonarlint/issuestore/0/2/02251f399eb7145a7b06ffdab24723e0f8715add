@@ -1,0 +1,80 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Äıç•ıÿÿÿÿ
+^$squid:AssignmentInSubExpressionCheck«".Extract the assignment out of this expression.(›¥Ìu
+^$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(›¥Ìu
+d$squid:AssignmentInSubExpressionCheckÏ".Extract the assignment out of this expression.(Ø¤Çºıÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckÙ".Extract the assignment out of this expression.(Ø¤Çºıÿÿÿÿ
+squid:S1319Ó"xThe type of the "_formatSymbols" object should be an interface such as "Map" rather than the implementation "Hashtable".(“©„
+‘squid:S1319Ú"tThe type of the "auxClasses" object should be an interface such as "Map" rather than the implementation "Hashtable".(©áñ°øÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheckQ"TMake _version a static final constant or non-public and provide accessors if needed.(ûé©Êıÿÿÿÿ
+"squid:ClassVariableVisibilityCheckR"SMake _method a static final constant or non-public and provide accessors if needed.(Ë½ÿ¤
+ˆ"squid:ClassVariableVisibilityCheckS"UMake _encoding a static final constant or non-public and provide accessors if needed.(Š¨Îûÿÿÿÿ
+„"squid:ClassVariableVisibilityCheckT"WMake _omitHeader a static final constant or non-public and provide accessors if needed.(“¥
+Š"squid:ClassVariableVisibilityCheckU"WMake _standalone a static final constant or non-public and provide accessors if needed.(øèåÙüÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheckW"YMake _isStandalone a static final constant or non-public and provide accessors if needed.(ÍŒ‰è
+"squid:ClassVariableVisibilityCheckX"ZMake _doctypePublic a static final constant or non-public and provide accessors if needed.(ãÅòöüÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheckY"ZMake _doctypeSystem a static final constant or non-public and provide accessors if needed.(ïÍãè
+†"squid:ClassVariableVisibilityCheckZ"SMake _indent a static final constant or non-public and provide accessors if needed.(Ìè¢¨üÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck["VMake _mediaType a static final constant or non-public and provide accessors if needed.(˜‚ ûÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck\"RMake _cdata a static final constant or non-public and provide accessors if needed.(’ïÎ­
+Œ"squid:ClassVariableVisibilityCheck]"YMake _indentamount a static final constant or non-public and provide accessors if needed.(ÌêôÓùÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheckÓ"ZMake _formatSymbols a static final constant or non-public and provide accessors if needed.(“©„
+Asquid:S1659µ"$Declare "pframe" on a separate line.(Ó’–Ëûÿÿÿÿ
+psquid:S00116Q"SRename this field "_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûé©Êıÿÿÿÿ
+jsquid:S00116R"RRename this field "_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë½ÿ¤
+qsquid:S00116S"TRename this field "_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¨Îûÿÿÿÿ
+msquid:S00116T"VRename this field "_omitHeader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¥
+ssquid:S00116U"VRename this field "_standalone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øèåÙüÿÿÿÿ
+psquid:S00116W"XRename this field "_isStandalone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŒ‰è
+vsquid:S00116X"YRename this field "_doctypePublic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÅòöüÿÿÿÿ
+qsquid:S00116Y"YRename this field "_doctypeSystem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÍãè
+osquid:S00116Z"RRename this field "_indent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìè¢¨üÿÿÿÿ
+rsquid:S00116["URename this field "_mediaType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‚ ûÿÿÿÿ
+isquid:S00116\"QRename this field "_cdata" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ïÎ­
+usquid:S00116]"XRename this field "_indentamount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌêôÓùÿÿÿÿ
+rsquid:S00116q"URename this field "_templates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡øó“şÿÿÿÿ
+msquid:S00116t"URename this field "_hasIdCall" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸“¶ˆ
+}squid:S00116"`Rename this field "_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ôô²øÿÿÿÿ
+‚squid:S00116‡"dRename this field "_accessExternalStylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¯®’üÿÿÿÿ
+osquid:S00116¯"VRename this field "_msgHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡£©
+qsquid:S00116Ó"YRename this field "_formatSymbols" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“©„
+tsquid:S00116‚"VRename this field "_keyIndexes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁòßûÿÿÿÿ
+rsquid:S00116ƒ"YRename this field "_emptyKeyIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¢­¥
+nsquid:S00116„"URename this field "_indexSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÌ°
+wsquid:S00116…"^Rename this field "_currentRootForKeys" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€üš•
+msquid:S00116„"TRename this field "_domCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÍÃŞ
+tsquid:S00116Ó"VRename this field "_auxClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êñüÿÿÿÿÿ
+vsquid:S00116­"]Rename this field "_domImplementation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÅŠß
+|squid:S1149\"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’ïÎ­
+Nsquid:S1135v"2Complete the task associated to this TODO comment.(öş•øÿÿÿÿ
+jsquid:ModifiersOrderCheckz"EReorder the modifiers to comply with the Java Language Specification.(©Ü’»
+osquid:ModifiersOrderCheck}"EReorder the modifiers to comply with the Java Language Specification.(Šç„üÿÿÿÿ
+P
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(²”Áã
+P
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ü¥ï„
+P
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Ê›¢ï
+U
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ÿÚ’Çıÿÿÿÿ
+P
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ğ°à´
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(üÔ¥‰şÿÿÿÿ
+U
+squid:S106—"9Replace this use of System.out or System.err by a logger.(İƒıéûÿÿÿÿ
+U
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+P
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ÊÕÏ»
+Ä%squid:RedundantThrowsDeclarationCheck¦"’Remove the declaration of thrown exception 'com.sun.org.apache.xalan.internal.xsltc.TransletException', as it cannot be thrown from method's body.(´§Â,
+9squid:S2129¿"!Remove this "Integer" constructor(ËˆÃ”
+Xsquid:CallToDeprecatedMethod¿"/Remove this use of "Integer"; it is deprecated.(ËˆÃ”
+U
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
+3squid:S3626¡"Remove this redundant jump.(ûÁİ…
+nsquid:S3038á"V"transform" is defined in the "Translet" interface and can be removed from this class.(¡™÷¾
+osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ª…Á¹ıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+asquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(¨¥‰Q
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ÖÇç¤

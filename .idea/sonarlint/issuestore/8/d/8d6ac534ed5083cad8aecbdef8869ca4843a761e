@@ -1,0 +1,12 @@
+
+Ksquid:S11912"5Use classes from the Java API instead of Sun classes.(çÿc
+Qsquid:S1118J":Add a private constructor to hide the implicit public one.(µ§øò
+@squid:S2786S")Remove this redundant "static" qualifier.(¡°Æ›
+Esquid:S2786m")Remove this redundant "static" qualifier.(“¿Ôëşÿÿÿÿ
+Rsquid:S1161í":Add the "@Override" annotation above this method signature(Á»›ê
+@squid:S2786ù")Remove this redundant "static" qualifier.(§æª
+vsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã²œôûÿÿÿÿ
+Fsquid:S2786÷")Remove this redundant "static" qualifier.(•Ï¬üÿÿÿÿ
+Rsquid:S1161¦":Add the "@Override" annotation above this method signature(Á»›ê
+Fsquid:S2786±")Remove this redundant "static" qualifier.(ºÉáüÿÿÿÿ
+Rsquid:S1161Ä":Add the "@Override" annotation above this method signature(Á»›ê

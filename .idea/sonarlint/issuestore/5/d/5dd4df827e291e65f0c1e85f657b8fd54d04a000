@@ -1,0 +1,123 @@
+
+`squid:S2184"CCast one of the operands of this subtraction operation to a "long".(­™ÜÃıÿÿÿÿ
+`squid:S2184‰"CCast one of the operands of this subtraction operation to a "long".(à²–ıÿÿÿÿ
+Xsquid:S2184–"@Cast one of the operands of this addition operation to a "long".(Ğè¹¦
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(§¬øÏıÿÿÿÿ
+gsquid:S1192‹"JDefine a constant instead of duplicating this literal "TooLarge" 12 times.(Óˆæâıÿÿÿÿ
+tsquid:S1192“
+"\Define a constant instead of duplicating this literal "javax.xml.datatype.Duration" 4 times.(Ñ“ ÷
+usquid:S1192Œ"]Define a constant instead of duplicating this literal "#compare(Duration duration)" 12 times.(òé€ƒ
+osquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ĞåÔşÿÿÿÿ
+Hsquid:S2160’"+Override the "equals" method in this class.(Ÿ¥¯£şÿÿÿÿ
+hsquid:S1206ˆ	"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+|squid:S1149°	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+wsquid:S1149é	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(´™÷¶
+Osquid:S1135"2Complete the task associated to this TODO comment.(…¨«şÿÿÿÿ
+Osquid:S1135 "2Complete the task associated to this TODO comment.(Ë„²¼ùÿÿÿÿ
+Osquid:S1135Æ"2Complete the task associated to this TODO comment.(…¨«şÿÿÿÿ
+Osquid:S1135É"2Complete the task associated to this TODO comment.(Ë„²¼ùÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckÌ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‰Şºô
+Osquid:S1135¡"2Complete the task associated to this TODO comment.(…¨«şÿÿÿÿ
+Osquid:S1135¤"2Complete the task associated to this TODO comment.(Ë„²¼ùÿÿÿÿ
+Osquid:S1135°"2Complete the task associated to this TODO comment.(…¨«şÿÿÿÿ
+Osquid:S1135³"2Complete the task associated to this TODO comment.(Ë„²¼ùÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckÍ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+Osquid:S1135¿"2Complete the task associated to this TODO comment.(…¨«şÿÿÿÿ
+Osquid:S1135Â"2Complete the task associated to this TODO comment.(Ë„²¼ùÿÿÿÿ
+Jsquid:S1135Æ"2Complete the task associated to this TODO comment.(²²à
+¤%squid:RedundantThrowsDeclarationCheckñ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+Osquid:S1135İ"2Complete the task associated to this TODO comment.(±Œéğüÿÿÿÿ
+Jsquid:S1135à"2Complete the task associated to this TODO comment.(™éÜ¿
+Jsquid:S1135ã"2Complete the task associated to this TODO comment.(ú‚‘Ú
+Osquid:S1135ä"2Complete the task associated to this TODO comment.(¶öö¸üÿÿÿÿ
+Isquid:S1135å"2Complete the task associated to this TODO comment.(óëà5
+Osquid:S1135æ"2Complete the task associated to this TODO comment.(Ëœ¯üüÿÿÿÿ
+Isquid:S1135ç"2Complete the task associated to this TODO comment.(³º‘(
+Osquid:S1135é"2Complete the task associated to this TODO comment.(‹«Òãûÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+Csquid:S1172š"&Remove these unused method parameters.(áçşşÿÿÿÿ
+Osquid:S1135‹"2Complete the task associated to this TODO comment.(…¨«şÿÿÿÿ
+Osquid:S1135"2Complete the task associated to this TODO comment.(Ë„²¼ùÿÿÿÿ
+Osquid:S1135‘"2Complete the task associated to this TODO comment.(Ï‘âÛıÿÿÿÿ
+Osquid:S1135’"2Complete the task associated to this TODO comment.(ÇÕóğıÿÿÿÿ
+Jsquid:S1135“"2Complete the task associated to this TODO comment.(ñÍÍë
+Osquid:S1135•"2Complete the task associated to this TODO comment.(¹—‡üÿÿÿÿ
+Isquid:S1135—"2Complete the task associated to this TODO comment.(§€ø|
+¤%squid:RedundantThrowsDeclarationCheck¼"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+Csquid:S1172¹"&Remove these unused method parameters.(áçşşÿÿÿÿ
+Osquid:S1135ª"2Complete the task associated to this TODO comment.(±Œéğüÿÿÿÿ
+Osquid:S1135°"2Complete the task associated to this TODO comment.(Ï‘âÛıÿÿÿÿ
+Osquid:S1135±"2Complete the task associated to this TODO comment.(ÇÕóğıÿÿÿÿ
+Jsquid:S1135²"2Complete the task associated to this TODO comment.(ñÍÍë
+Osquid:S1135´"2Complete the task associated to this TODO comment.(¹—‡üÿÿÿÿ
+Isquid:S1135¶"2Complete the task associated to this TODO comment.(§€ø|
+jsquid:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(öø¿˜
+csquid:S1854†"FRemove this useless assignment to local variable "minintAsBigInteger".(öíáúùÿÿÿÿ
+Gsquid:S2200‰"/Only the sign of the result should be examined.(ôÀÀì
+Gsquid:S2200’"/Only the sign of the result should be examined.(òßËÒ
+Gsquid:S2200œ"/Only the sign of the result should be examined.(œ‹ë¡
+Lsquid:S2200¦"/Only the sign of the result should be examined.(Áåêúÿÿÿÿ
+Gsquid:S2200°"/Only the sign of the result should be examined.(—‡’
+Gsquid:S2200º"/Only the sign of the result should be examined.(àÖ
+Lsquid:S2200Ç"/Only the sign of the result should be examined.(û®Ú¢şÿÿÿÿ
+Gsquid:S2200Ò"/Only the sign of the result should be examined.(ÿĞ¦
+Lsquid:S2200İ"/Only the sign of the result should be examined.(Â—ªùÿÿÿÿÿ
+Lsquid:S2200è"/Only the sign of the result should be examined.(ıÿœøÿÿÿÿ
+Gsquid:S2200ó"/Only the sign of the result should be examined.(Ãà®ë
+Lsquid:S2200‚"/Only the sign of the result should be examined.(íø¼—ıÿÿÿÿ
+Tsquid:S3252•"7Use static access with "java.util.Calendar" for "YEAR".(£Œô•ıÿÿÿÿ
+Psquid:S3252–"8Use static access with "java.util.Calendar" for "MONTH".(•“šä
+[squid:S3252—">Use static access with "java.util.Calendar" for "DAY_OF_YEAR".(î°Äşıÿÿÿÿ
+Vsquid:S3252˜">Use static access with "java.util.Calendar" for "HOUR_OF_DAY".(‡ÒÁÈ
+Vsquid:S3252™"9Use static access with "java.util.Calendar" for "MINUTE".(ˆ‡ú³úÿÿÿÿ
+Qsquid:S3252š"9Use static access with "java.util.Calendar" for "SECOND".(·›šê
+Tsquid:S3252¤"7Use static access with "java.util.Calendar" for "YEAR".(Øß–ıÿÿÿÿ
+Psquid:S3252¥"8Use static access with "java.util.Calendar" for "MONTH".(ÎÃ¶
+Vsquid:S3252¦">Use static access with "java.util.Calendar" for "DAY_OF_YEAR".(Áëèğ
+Usquid:S3252§">Use static access with "java.util.Calendar" for "HOUR_OF_DAY".(³¯¬&
+Qsquid:S3252¨"9Use static access with "java.util.Calendar" for "MINUTE".(í´¡Ü
+Vsquid:S3252©"9Use static access with "java.util.Calendar" for "SECOND".(İšÎªøÿÿÿÿ
+Ssquid:S1854Æ";Remove this useless assignment to local variable "resultB".(†Ø
+Xsquid:S1854Å";Remove this useless assignment to local variable "resultA".(ÏÃı™ıÿÿÿÿ
+ksquid:S1871ù"NThis branch's code block is the same as the block for the branch on line 1142.(Ï™‰¥ûÿÿÿÿ
+Rsquid:S1161¯	":Add the "@Override" annotation above this method signature(Á»›ê
+tsquid:S2177à	"WRename this method; there is a "private" method in the parent class with the same name.(¤§øÿÿÿÿ
+Rsquid:S1161«":Add the "@Override" annotation above this method signature(“‡’
+Rsquid:S1161¾":Add the "@Override" annotation above this method signature(×Õñ˜
+Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(ôÔçĞûÿÿÿÿ
+Rsquid:S1161å":Add the "@Override" annotation above this method signature(ùÅ˜‰
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(ìÒê†
+Wsquid:S1161":Add the "@Override" annotation above this method signature(Ğ™»ßÿÿÿÿÿ
+Rsquid:S1161Ö":Add the "@Override" annotation above this method signature(°ÑÕú
+Wsquid:S1161Š":Add the "@Override" annotation above this method signature(ìšİúÿÿÿÿ
+[squid:HiddenFieldCheckê"9Rename "days" which hides the field declared at line 243.(íÉ§d
+Wsquid:S1161":Add the "@Override" annotation above this method signature(Æíœ¯ùÿÿÿÿ
+^squid:CallToDeprecatedMethodâ"0Remove this use of "setScale"; it is deprecated.(ó˜¸‰ùÿÿÿÿ
+`squid:CallToDeprecatedMethodâ"2Remove this use of "ROUND_DOWN"; it is deprecated.(ó˜¸‰ùÿÿÿÿ
+Wsquid:CallToDeprecatedMethodÒ".Remove this use of "divide"; it is deprecated.(êò×
+Ysquid:CallToDeprecatedMethodÔ"0Remove this use of "ROUND_UP"; it is deprecated.(òê…»
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(èÀ‚Åøÿÿÿÿ
+Ysquid:CallToDeprecatedMethodÒ"0Remove this use of "setScale"; it is deprecated.(Ÿıƒì
+[squid:CallToDeprecatedMethodÒ"2Remove this use of "ROUND_DOWN"; it is deprecated.(Ÿıƒì
+Rsquid:S1161ú":Add the "@Override" annotation above this method signature(ŒìÑ‘
+Jsquid:S1135„"2Complete the task associated to this TODO comment.(Ë’œ¸
+Osquid:S1135‰"2Complete the task associated to this TODO comment.(Úó™“şÿÿÿÿ
+Tsquid:S1481†"7Remove this unused "minintAsBigInteger" local variable.(öíáúùÿÿÿÿ
+Esquid:S1068œ"-Remove this unused "FIELD_NUM" private field.(‚…ôï
+Jsquid:S1068³"-Remove this unused "FIELD_IDS" private field.(Ì²Ûÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(Ø¬.
+bsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(Ø¬.
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(À“âÖ
+csquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(À“âÖ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À“âÖ
+csquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(ò‰ú–
+hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(£¥Œøÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(÷åçÁûÿÿÿÿ
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(÷åçÁûÿÿÿÿ
+bsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(•ı€4
+hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+bsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(ªÒ•

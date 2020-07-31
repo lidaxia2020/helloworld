@@ -1,0 +1,41 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+csquid:S3973Y"GUse indentation to denote the code conditionally executed by this "if".(± ¨“ÿÿÿÿÿ
+dsquid:S3973×"GUse indentation to denote the code conditionally executed by this "if".(± ¨“ÿÿÿÿÿ
+jsquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äË ©
+squid:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õê¬†ıÿÿÿÿ
+squid:S1186¸"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’ª¼êşÿÿÿÿ
+squid:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë’œ…ıÿÿÿÿ
+™squid:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅöÕ¯
+™squid:S1186İ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èàÅ€
+squid:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÌÍ®ùÿÿÿÿ
+™squid:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„ô¡´
+squid:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿Ş²üøÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıôğÉüÿÿÿÿ
+squid:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍÂè¨şÿÿÿÿ
+squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“©­£øÿÿÿÿ
+squid:S1186ª"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§áõøÿÿÿÿ
+squid:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­‘øËûÿÿÿÿ
+™squid:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñôƒ‡
+squid:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÈÙï•øÿÿÿÿ
+˜squid:S1186ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø¤ë
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ——ˆùÿÿÿÿ
+squid:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™°ñ–ûÿÿÿÿ
+Osquid:S1197m"8Move the array designator from the variable to the type.(çê™Ÿ
+Vsquid:S1161t":Add the "@Override" annotation above this method signature(÷¹­Åùÿÿÿÿ
+Esquid:S1172¥"(Remove this unused method parameter "n".(Õê¬†ıÿÿÿÿ
+Wsquid:S1161®":Add the "@Override" annotation above this method signature(–Ó¨Úüÿÿÿÿ
+Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(Ë’œ…ıÿÿÿÿ
+Rsquid:S1161ï":Add the "@Override" annotation above this method signature(„ô¡´
+Wsquid:S1161À":Add the "@Override" annotation above this method signature(Ïä¥„ûÿÿÿÿ
+@squid:S1185Ì"(Remove this method to simply inherit it.(Ÿ½´
+Rsquid:S1161Ì":Add the "@Override" annotation above this method signature(Ÿ½´
+Rsquid:S1161ß":Add the "@Override" annotation above this method signature(ò–êë
+@squid:S1185˜"(Remove this method to simply inherit it.(ò–êë
+Rsquid:S1161˜":Add the "@Override" annotation above this method signature(ò–êë
+@squid:S1185 "(Remove this method to simply inherit it.(ò–êë
+Rsquid:S1161 ":Add the "@Override" annotation above this method signature(ò–êë
+Qsquid:S1161¾":Add the "@Override" annotation above this method signature(â®µL
+Wsquid:S1161à":Add the "@Override" annotation above this method signature(³ªûÿÿÿÿ
+Wsquid:S1161ø":Add the "@Override" annotation above this method signature(ı¢Õ»şÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,9 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(‘æì
+csquid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+csquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+csquid:S00112c"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+csquid:S00112m"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+rsquid:S30083"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óİİõıÿÿÿÿ
+jsquid:S00116="RRename this field "_writer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óè¯‡
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

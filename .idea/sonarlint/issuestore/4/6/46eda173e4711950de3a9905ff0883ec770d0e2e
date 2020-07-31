@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+Gsquid:S2160f"+Override the "equals" method in this class.(şùÂ‹ıÿÿÿÿ
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ
+;squid:S2129Ä"Remove this "Long" constructor(Ä³°úÿÿÿÿ
+Zsquid:CallToDeprecatedMethodÄ",Remove this use of "Long"; it is deprecated.(Ä³°úÿÿÿÿ

@@ -1,0 +1,20 @@
+
+Lsquid:S11911"5Use classes from the Java API instead of Sun classes.(¼¸Ñá
+fsquid:S3014ô"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‹©Öıÿÿÿÿ
+Esquid:S1604±"(Make this anonymous inner class a lambda(ÊĞôöüÿÿÿÿ
+?squid:S1604ª"(Make this anonymous inner class a lambda(ÆŞÖ
+Esquid:S1604¨"(Make this anonymous inner class a lambda(¯’Àˆşÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È‘Š ùÿÿÿÿ
+vsquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‹ÿ üÿÿÿÿ
+vsquid:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÚ«¹şÿÿÿÿ
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ğºâ
+Wsquid:S1161§":Add the "@Override" annotation above this method signature(Ï¾ŞËùÿÿÿÿ
+Rsquid:S1161É":Add the "@Override" annotation above this method signature(è¼ãó
+Qsquid:S1161Ì":Add the "@Override" annotation above this method signature(·ÓñR
+Rsquid:S1161Ï":Add the "@Override" annotation above this method signature(§©³Ñ
+Rsquid:S1161Ò":Add the "@Override" annotation above this method signature(²°ıù
+Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(Òó½™şÿÿÿÿ
+Wsquid:S1161Û":Add the "@Override" annotation above this method signature(“À‘úÿÿÿÿ
+Rsquid:S1161ß":Add the "@Override" annotation above this method signature(¡®¤Ñ
+xsquid:CallToDeprecatedMethodë"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+a"squid:ObjectFinalizeOverridenCheckë"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ

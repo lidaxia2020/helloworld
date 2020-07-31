@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ°¨£øÿÿÿÿ
+xsquid:UselessImportCheck-"TRemove this unnecessary import: same package classes are always implicitly imported.(««û
+isquid:UselessImportCheck&"ERemove this unused import 'com.sun.corba.se.spi.ior.TaggedComponent'.(…àË
+]squid:UselessImportCheck!"9Remove this unused import 'org.omg.IOP.TAG_INTERNET_IOP'.(ñ†º
+Tsquid:UselessImportCheck"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+jsquid:ModifiersOrderCheckn"EReorder the modifiers to comply with the Java Language Specification.(ã…ˆ®
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Œ ”Æ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(à«Î
+ksquid:ModifiersOrderCheck•"EReorder the modifiers to comply with the Java Language Specification.(”° 

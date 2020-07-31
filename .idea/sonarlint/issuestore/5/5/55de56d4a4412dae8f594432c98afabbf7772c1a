@@ -1,0 +1,17 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
+Rsquid:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+@squid:S1604¹"(Make this anonymous inner class a lambda(Ùš±¬
+`squid:UselessImportCheck&"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ
+Ysquid:UselessImportCheck'"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+|squid:UselessImportCheckC"XRemove this unused import 'com.sun.corba.se.spi.orbutil.proxy.InvocationHandlerFactory'.(±¤Ñš
+dsquid:UselessImportCheck!"@Remove this unused import 'java.lang.reflect.InvocationHandler'.(Ùé
+asquid:UselessImportCheck-">Remove this unused import 'org.omg.CORBA.portable.ObjectImpl'.(‰òÒm
+Zsquid:UselessImportCheck%"6Remove this unused import 'java.io.ObjectInputStream'.(Éæéœ
+xsquid:UselessImportCheck>"TRemove this unused import 'com.sun.corba.se.spi.presentation.rmi.IDLNameTranslator'.(àíÚ
+Psquid:UselessImportCheck)",Remove this unused import 'java.rmi.Remote'.(Ô¤ÈÓ
+lsquid:UselessImportCheckF"HRemove this unused import 'com.sun.corba.se.impl.corba.CORBAObjectImpl'.(îÊ¤Ô
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ïêØÄúÿÿÿÿ
+=squid:S1181Ì"%Catch Exception instead of Throwable.(âÂéî
+bsquid:CallToDeprecatedMethodµ"4Remove this use of "isAccessible"; it is deprecated.(úøÈÁüÿÿÿÿ
+]squid:S1193Í"@Replace the usage of the "instanceof" operator by a catch block.(ƒîÜåşÿÿÿÿ

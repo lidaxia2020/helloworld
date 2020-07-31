@@ -1,0 +1,23 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+Dsquid:S1172?"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+Qsquid:S1161D":Add the "@Override" annotation above this method signature(ïÆ•ø
+Ksquid:S1854`"5Remove this useless assignment to local variable "y".(çà…
+Qsquid:S1161Z":Add the "@Override" annotation above this method signature(ßÖ±Ë
+asquid:S3252]"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(£¸Çøÿÿÿÿ
+Qsquid:S1161p":Add the "@Override" annotation above this method signature(âÔîì
+Qsquid:S1161{":Add the "@Override" annotation above this method signature(–Äÿè
+osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ƒğ¿Áûÿÿÿÿ
+Wsquid:S1161†":Add the "@Override" annotation above this method signature(ƒğ¿Áûÿÿÿÿ
+[squid:S3252‰"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(´ÿµß
+Wsquid:S1161ã":Add the "@Override" annotation above this method signature(¨Ÿ’¯úÿÿÿÿ
+Rsquid:S1161ş":Add the "@Override" annotation above this method signature(×ÁØÓ
+Usquid:S1854”"8Remove this useless assignment to local variable "part".(„õâíûÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(şÜ½Á
+`squid:S3252“"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(”ø¶åüÿÿÿÿ
+Wsquid:S1161º":Add the "@Override" annotation above this method signature(éÆ´ûÿÿÿÿ
+`squid:S3252¾"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(”ø¶åüÿÿÿÿ
+[squid:S3252Ú"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(´ÿµß
+Usquid:S1854ô"8Remove this useless assignment to local variable "part".(„õâíûÿÿÿÿ
+Fsquid:S1481”")Remove this unused "part" local variable.(„õâíûÿÿÿÿ
+Fsquid:S1481ô")Remove this unused "part" local variable.(„õâíûÿÿÿÿ

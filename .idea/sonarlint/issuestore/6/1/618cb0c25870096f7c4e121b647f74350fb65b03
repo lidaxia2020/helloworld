@@ -1,0 +1,9 @@
+
+_squid:S1192‡"GDefine a constant instead of duplicating this literal "Text '" 3 times.(¸™¯›
+Rsquid:S1141ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+^squid:S2259š"AA "NullPointerException" could be thrown; "pos" is nullable here.(ÛÚØõşÿÿÿÿ
+Jsquid:S1135Ø"2Complete the task associated to this TODO comment.(Ñ¯Áï
+Hsquid:S1948ë"+Make "formatter" transient or serializable.(ÿÇ½ıÿÿÿÿ
+Hsquid:S1948í"+Make "parseType" transient or serializable.(ìóâıÿÿÿÿÿ
+@squid:S1125ù")Remove the literal "false" boolean value.(´‹¬1
+csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(Ó¦ù

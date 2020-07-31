@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(’Îž¢ÿÿÿÿÿ
+isquid:S001178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Áý›
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Îž¢ÿÿÿÿÿ
+esquid:S3008"NRename this field "_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÇÃÄ
+qsquid:S3008#"URename this field "__typeCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ô”Çýÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(£ÔÞŠüÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(£ÔÞŠüÿÿÿÿ
+isquid:ModifiersOrderCheck$"EReorder the modifiers to comply with the Java Language Specification.(ÇÚÅ
+Tsquid:S11977"8Move the array designator from the variable to the type.(£¢ž“ÿÿÿÿÿ

@@ -1,0 +1,9 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(Éë–
+Tsquid:S1197K"8Move the array designator from the variable to the type.(š¯ş‡øÿÿÿÿ
+Tsquid:S1197`"8Move the array designator from the variable to the type.(îèïüÿÿÿÿ
+Osquid:S1197u"8Move the array designator from the variable to the type.(Ú´²—
+>squid:S1168‡"&Return an empty array instead of null.(¥¹ï
+Usquid:S1197"8Move the array designator from the variable to the type.(çîØÏøÿÿÿÿ
+vsquid:S3012”"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(…éˆóşÿÿÿÿ
+Usquid:S1197¹"8Move the array designator from the variable to the type.(ÖÙûüøÿÿÿÿ

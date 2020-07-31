@@ -1,0 +1,11 @@
+
+Qsquid:S1191'"5Use classes from the Java API instead of Sun classes.(ÉÃ¾åüÿÿÿÿ
+@squid:S1604Í"(Make this anonymous inner class a lambda(¼Ğ¤
+^squid:UselessImportCheck""5Remove this unused import 'java.lang.reflect.Method'.(Í“¯äüÿÿÿÿ
+dsquid:UselessImportCheck&";Remove this unused import 'java.security.PrivilegedAction'.(£Şóšùÿÿÿÿ
+qsquid:UselessImportCheck#"HRemove this unused import 'java.lang.reflect.InvocationTargetException'.(è¾†„øÿÿÿÿ
+dsquid:UselessImportCheck%";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
+Fsquid:S3077º".Remove the "volatile" keyword from this field.(¾°¢
+Gsquid:S00108Ö")Either remove or fill this block of code.(şÁÈŸøÿÿÿÿ
+\squid:S1854ş"?Remove this useless assignment to local variable "interrupted".(Õˆ¯¯øÿÿÿÿ
+hsquid:HiddenFieldCheckü"@Rename "interrupted" which hides the field declared at line 186.(ÃİÉÛøÿÿÿÿ

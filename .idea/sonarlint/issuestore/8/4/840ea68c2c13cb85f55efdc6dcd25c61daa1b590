@@ -1,0 +1,4 @@
+
+Nsquid:S1153‹"1Directly append the argument of String.valueOf().(÷ÙÎ•ÿÿÿÿÿ
+wsquid:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(Á»›ê

@@ -1,0 +1,12 @@
+
+Qsquid:S1191*"5Use classes from the Java API instead of Sun classes.(âÏ¡§ûÿÿÿÿ
+hsquid:S1192·"KDefine a constant instead of duplicating this literal "ISO-8859-1" 4 times.(ôŠÊ‘ÿÿÿÿÿ
+Gsquid:S1066ß"/Merge this if statement with the enclosing one.(£áÃ½
+Gsquid:S1066æ"/Merge this if statement with the enclosing one.(£áÃ½
+_$squid:AssignmentInSubExpressionCheckß".Extract the assignment out of this expression.(£áÃ½
+_$squid:AssignmentInSubExpressionCheckæ".Extract the assignment out of this expression.(£áÃ½
+osquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(Ú¥£¸úÿÿÿÿ
+jsquid:ModifiersOrderCheck<"EReorder the modifiers to comply with the Java Language Specification.(Û±
+Bsquid:S00108¿")Either remove or fill this block of code.(ˆÿò
+Bsquid:S00108Ö")Either remove or fill this block of code.(ˆÿò
+csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(É¨ËÝ

@@ -1,0 +1,29 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+_squid:S1192Ù"GDefine a constant instead of duplicating this literal "<init>" 3 times.(Ø²÷Ô
+rsquid:UselessImportCheck7"IRemove this unused import 'com.sun.org.apache.bcel.internal.generic.D2I'.(ßçÈ¯ıÿÿÿÿ
+gsquid:S00116\"PRename this field "_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯’Ï~
+nsquid:S00116]"QRename this field "_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥…Ëıÿÿÿÿ
+nsquid:S00116^"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ìº˜üÿÿÿÿ
+hsquid:S00116`"PRename this field "_lang" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñîˆ³
+osquid:S00116a"RRename this field "_format" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÄÑÏúÿÿÿÿ
+osquid:S00116b"WRename this field "_letterValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ï°
+usquid:S00116c"]Rename this field "_groupingSeparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı°²Ï
+psquid:S00116d"XRename this field "_groupingSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñè¾œ
+isquid:S00116f"QRename this field "_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šé³¶
+usquid:S00116g"XRename this field "_formatNeeded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¡¼øùÿÿÿÿ
+rsquid:S00116i"URename this field "_className" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©µá®ûÿÿÿÿ
+osquid:S00116j"WRename this field "_closureVars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯³Ò°
+isquid:ModifiersOrderCheckP"EReorder the modifiers to comply with the Java Language Specification.(‹·å
+osquid:ModifiersOrderCheckV"EReorder the modifiers to comply with the Java Language Specification.(ÆŸÚÛüÿÿÿÿ
+jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÁØ’›
+Rsquid:S1161¡":Add the "@Override" annotation above this method signature(ÁØ’›
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+Asquid:S1125Ö")Remove the literal "false" boolean value.(à§îÏ
+jsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(†“‹Ø
+Rsquid:S1161 ":Add the "@Override" annotation above this method signature(†“‹Ø
+Osquid:S1135Õ"2Complete the task associated to this TODO comment.(¡îğªÿÿÿÿÿ
+Isquid:S1481¢",Remove this unused "current" local variable.(©µÏıÿÿÿÿ
+Gsquid:S1481£"*Remove this unused "field" local variable.(²Õ¤ëøÿÿÿÿ
+Gsquid:S1481¤"*Remove this unused "local" local variable.(¢×—´ûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

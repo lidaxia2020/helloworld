@@ -1,0 +1,9 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÓÈŠøÿÿÿÿÿ
+ˆsquid:S1192ä"kDefine a constant instead of duplicating this literal "All subclasses should override this method" 3 times.(Ï±”‘ıÿÿÿÿ
+Ksquid:S3077À".Remove the "volatile" keyword from this field.(†ö‹âşÿÿÿÿ
+jsquid:ModifiersOrderCheckM"EReorder the modifiers to comply with the Java Language Specification.(±¦ã¥
+—%squid:RedundantThrowsDeclarationCheckt"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(²ßôÊ
+—%squid:RedundantThrowsDeclarationCheck¢"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ñÌı
+%squid:RedundantThrowsDeclarationCheck­"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¤ìÉÖşÿÿÿÿ
+Esquid:S1125¯"(Remove the literal "true" boolean value.(ô”òåûÿÿÿÿ

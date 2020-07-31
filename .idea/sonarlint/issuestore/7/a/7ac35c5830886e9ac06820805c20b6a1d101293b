@@ -1,0 +1,17 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
+Vsquid:S1161K":Add the "@Override" annotation above this method signature(Åë¸âùÿÿÿÿ
+Vsquid:S1161^":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
+Hsquid:S1172‘"+Remove this unused method parameter "type".(§Æò€ùÿÿÿÿ
+Qsquid:S1161¤":Add the "@Override" annotation above this method signature(¼–Ä=
+Csquid:S1172¹"&Remove these unused method parameters.(˜©Ì¡üÿÿÿÿ
+Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
+Wsquid:S1161Ş":Add the "@Override" annotation above this method signature(Ÿ¶Åùÿÿÿÿ
+Dsquid:S1872ä"'Use an "instanceof" comparison instead.(·ê•ÿÿÿÿÿ
+Wsquid:S1161ù":Add the "@Override" annotation above this method signature(÷İšÂûÿÿÿÿ
+Wsquid:S1161„":Add the "@Override" annotation above this method signature(˜ßÑÇúÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(×ãíéûÿÿÿÿ
+Rsquid:S1161“":Add the "@Override" annotation above this method signature(Ó¤ÍŞ
+Wsquid:S1161—":Add the "@Override" annotation above this method signature(‚İ±¹ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ÜŸ¢<

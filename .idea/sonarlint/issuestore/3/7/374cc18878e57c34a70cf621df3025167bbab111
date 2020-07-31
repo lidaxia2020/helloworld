@@ -1,0 +1,33 @@
+
+Š squid:ForLoopCounterChangedCheckÉ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã”úŒıÿÿÿÿ
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‘´¦¸
+nsquid:S1192ã"QDefine a constant instead of duplicating this literal "Document is null" 4 times.(ŸÄã‰øÿÿÿÿ
+p
+squid:S135Ú"YReduce the total number of break and continue statements in this loop to use at most one.(¢œË´
+asquid:S2259°"I"NullPointerException" will be thrown when invoking method "getSetRec()".(ÉÅãÑ
+Dsquid:S1604D"(Make this anonymous inner class a lambda(Ïâ™àÿÿÿÿÿ
+dsquid:S00112ã"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+dsquid:S00112ù"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+dsquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+jsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ó€Äï
+c
+squid:S128º"LEnd this switch case with an unconditional break, return or throw statement.(ÇÅíõ
+bsquid:S2147ˆ"ECombine this catch with the one at line 259, which has the same body.(³¸ûÿÿÿÿ
+]squid:S2147Œ"ECombine this catch with the one at line 259, which has the same body.(€àÈ„
+Vsquid:S4719ı"9Replace charset name argument with StandardCharsets.UTF_8(ãƒ„Ñùÿÿÿÿ
+]squid:S2147±"ECombine this catch with the one at line 300, which has the same body.(¹ƒ›×
+]squid:S2147¶"ECombine this catch with the one at line 300, which has the same body.(€àÈ„
+qsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãüç‡
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òçÄÒùÿÿÿÿ
+osquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÙºÍóşÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckÈ""Add a default case to this switch.(ô…È·
+c
+squid:S128É"LEnd this switch case with an unconditional break, return or throw statement.(ÇÅíõ
+qsquid:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(’óâ
+vsquid:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒë–üÿÿÿÿ
+osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Úø’åùÿÿÿÿ
+jsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ĞìÜú
+csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ğ¨àØ
+csquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ğ¨àØ
+csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ğ¨àØ

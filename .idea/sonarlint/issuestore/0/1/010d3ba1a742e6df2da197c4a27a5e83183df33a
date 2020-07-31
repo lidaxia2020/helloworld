@@ -1,0 +1,8 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+u
+squid:S135©"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+lsquid:S001169"TRename this field "_variable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÔß
+psquid:S00116B"SRename this field "_closure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸•ò‘ıÿÿÿÿ
+@squid:S1125m")Remove the literal "false" boolean value.(¸÷Ì°
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

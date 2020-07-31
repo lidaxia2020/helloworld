@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(§¬øÏıÿÿÿÿ
+—squid:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿî¿
+Rsquid:S1161¾":Add the "@Override" annotation above this method signature(Ì‰á
+Rsquid:S1161˜":Add the "@Override" annotation above this method signature(Ì‰á
+Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(Ì‰á
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(åã›ƒ
+Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(ËÂ´ıÿÿÿÿ
+Rsquid:S1161ƒ":Add the "@Override" annotation above this method signature(»Œıé
+Rsquid:S1161¸":Add the "@Override" annotation above this method signature(»Œıé
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

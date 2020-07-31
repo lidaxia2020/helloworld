@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+ssquid:S00115‹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(öìõı
+%squid:RedundantThrowsDeclarationCheck;"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(İ†§‹
+£%squid:RedundantThrowsDeclarationCheck]"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(€‰‘²şÿÿÿÿ
+psquid:ModifiersOrderCheckì"EReorder the modifiers to comply with the Java Language Specification.(êÙëšşÿÿÿÿ
+ksquid:ModifiersOrderCheck‹"EReorder the modifiers to comply with the Java Language Specification.(öìõı

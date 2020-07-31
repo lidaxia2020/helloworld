@@ -1,0 +1,19 @@
+
+Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(“Ç‡ÿÿÿÿÿ
+Qsquid:S4973õ"9Use the "equals" method if value comparison was intended.(£ãĞ
+Qsquid:S4973»"9Use the "equals" method if value comparison was intended.(šİ›
+Vsquid:S4973Á"9Use the "equals" method if value comparison was intended.(‘æê™úÿÿÿÿ
+Usquid:S00107Ò"<Method has 9 parameters, which is greater than 7 authorized.(¹±×ç
+Ysquid:UselessImportCheck!"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+Zsquid:UselessImportCheck "1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+Msquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å
+[squid:UselessImportCheck#"2Remove this unused import 'sun.net.www.ParseUtil'.(Ô¯›øıÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º
+|squid:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«‘â˜ıÿÿÿÿ
+jsquid:ModifiersOrderCheckV"EReorder the modifiers to comply with the Java Language Specification.(µ¦í‹
+psquid:S3776š"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(—Šûÿüÿÿÿÿ
+Csquid:S1075¡"&Remove this hard-coded path-delimiter.(’éÏ÷üÿÿÿÿ
+@squid:S1659Æ"#Declare "port2" on a separate line.(ÖğÎ¶üÿÿÿÿ
+Ysquid:S1126Í"AReplace this if-then-else statement by a single return statement.(½Ìï
+bsquid:S2147ì"ECombine this catch with the one at line 490, which has the same body.(äßîêüÿÿÿÿ
+Msquid:S1133ò"5Do not forget to remove this deprecated code someday.(¹±×ç

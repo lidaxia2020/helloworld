@@ -1,0 +1,27 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
+„squid:S1192Ö"gDefine a constant instead of duplicating this literal "The parameter class could not be found" 4 times.(¿Ì¡Âıÿÿÿÿ
+squid:S1192”"€Define a constant instead of duplicating this literal "Exception thrown trying to invoke the MBean's empty constructor" 3 times.(—ù˜åúÿÿÿÿ
+ksquid:S1192ú"TDefine a constant instead of duplicating this literal "No such constructor" 4 times.(õÓ:
+rsquid:S1192Õ"UDefine a constant instead of duplicating this literal "findSignatureClasses" 4 times.(ÚĞú¼şÿÿÿÿ
+usquid:S1488Ï"^Immediately return this expression instead of assigning it to the temporary variable "loader".(ˆÆX
+?squid:S1604Ï"(Make this anonymous inner class a lambda(ˆÆX
+Usquid:S1197«"8Move the array designator from the variable to the type.(Áøİ½ùÿÿÿÿ
+Csquid:S1168¯"&Return an empty array instead of null.(ÕÌÉ÷ùÿÿÿÿ
+Psquid:S1197²"8Move the array designator from the variable to the type.(‘ëÃÍ
+]squid:S2147•"ECombine this catch with the one at line 274, which has the same body.(Å¡ß
+bsquid:S2147˜"ECombine this catch with the one at line 274, which has the same body.(¥¨›ıÿÿÿÿ
+Jsquid:S1172«"-Remove this unused method parameter "loader".(–¥–ÿÿÿÿÿ
+Psquid:S1197ª"8Move the array designator from the variable to the type.(ãÁÕ
+Usquid:S1197«"8Move the array designator from the variable to the type.(–¥–ÿÿÿÿÿ
+]squid:S2147Ú"ECombine this catch with the one at line 342, which has the same body.(™è“î
+Î%squid:RedundantThrowsDeclarationCheck»"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(Ûå¼ùÿÿÿÿ
+Usquid:S1197ã"8Move the array designator from the variable to the type.(ßğ«úÿÿÿÿ
+Usquid:S1197ä"8Move the array designator from the variable to the type.(†·ƒùıÿÿÿÿ
+Usquid:S1197•"8Move the array designator from the variable to the type.(ßğ«úÿÿÿÿ
+Usquid:S1197–"8Move the array designator from the variable to the type.(†·ƒùıÿÿÿÿ
+Usquid:S1197Ş"8Move the array designator from the variable to the type.(ß’ÇÉøÿÿÿÿ
+Csquid:S1168â"&Return an empty array instead of null.(ÕÌÉ÷ùÿÿÿÿ
+Psquid:S1197æ"8Move the array designator from the variable to the type.(‘ëÃÍ
+˜%squid:RedundantThrowsDeclarationCheck±"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(²ßôÊ
+asquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(¿Ğ‹(

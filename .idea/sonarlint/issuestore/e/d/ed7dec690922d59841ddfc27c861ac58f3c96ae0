@@ -1,0 +1,20 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ç”Å§
+ksquid:S1192?"ODefine a constant instead of duplicating this literal "Can I resolve " 4 times.(î»ß„şÿÿÿÿ
+lsquid:S1192M"UDefine a constant instead of duplicating this literal "XMLSecurityException" 5 times.(åıä
+]squid:S1192²"FDefine a constant instead of duplicating this literal "empty" 3 times.(´ğïQ
+}squid:S1488ú"`Immediately return this expression instead of assigning it to the temporary variable "resource".(°í¬ìüÿÿÿÿ
+Qsquid:S11616":Add the "@Override" annotation above this method signature(££Ûì
+Vsquid:S1161;":Add the "@Override" annotation above this method signature(ÌŸõëıÿÿÿÿ
+Psquid:S1161U":Add the "@Override" annotation above this method signature(õŞ–-
+Vsquid:S1161o":Add the "@Override" annotation above this method signature(Ú‘—Óùÿÿÿÿ
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(¿Áü¨şÿÿÿÿ
+Psquid:S1197Ø"8Move the array designator from the variable to the type.(´ç×Ë
+¹%squid:RedundantThrowsDeclarationCheck"‡Remove the declaration of thrown exception 'javax.xml.parsers.ParserConfigurationException', as it cannot be thrown from method's body.(Ì¬§B
+£%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ïìô«
+Psquid:S1197™"8Move the array designator from the variable to the type.(¸²æ’
+]squid:S2147³"ECombine this catch with the one at line 305, which has the same body.(Ãôş•
+]squid:S2147µ"ECombine this catch with the one at line 305, which has the same body.(‚°„–
+dsquid:CallToDeprecatedMethod²"<Remove this use of "KeyResolverException"; it is deprecated.(´ğïQ
+dsquid:CallToDeprecatedMethod´"<Remove this use of "KeyResolverException"; it is deprecated.(´ğïQ
+dsquid:CallToDeprecatedMethod¶"<Remove this use of "KeyResolverException"; it is deprecated.(´ğïQ

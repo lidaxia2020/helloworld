@@ -1,0 +1,22 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+\squid:S2583Ò"DChange this condition so that it does not always evaluate to "false"(¸´«Î
+jsquid:S00117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ìê”
+jsquid:S00117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ìê”
+nsquid:S00116="VRename this field "m_blocksize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ş¢Ï
+hsquid:S00116G"PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äØÂ
+ssquid:S00116Q"VRename this field "m_firstFree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½—ºµùÿÿÿÿ
+qsquid:S00116["TRename this field "m_mapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¶Æ£øÿÿÿÿ
+Osquid:S1197G"8Move the array designator from the variable to the type.(äØÂ
+psquid:S2975ƒ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
+Usquid:S1197·"8Move the array designator from the variable to the type.(…Şıÿÿÿÿ
+Usquid:S1197İ"8Move the array designator from the variable to the type.(…Şıÿÿÿÿ
+Usquid:S1197Î"8Move the array designator from the variable to the type.(…Şıÿÿÿÿ
+Usquid:S1197İ"8Move the array designator from the variable to the type.(…Şıÿÿÿÿ
+Usquid:S1197…"8Move the array designator from the variable to the type.(…Şıÿÿÿÿ
+lsquid:S00100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ôøÿÿÿÿ
+Usquid:S1197“"8Move the array designator from the variable to the type.(–ç„”ıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(ĞË€¯şÿÿÿÿ
+csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(›õùä
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(Õ¬òùÿÿÿÿ

@@ -1,0 +1,36 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
+Lsquid:S1066‘"/Merge this if statement with the enclosing one.(«†µ÷şÿÿÿÿ
+Lsquid:S1066¤"/Merge this if statement with the enclosing one.(«†µ÷şÿÿÿÿ
+Gsquid:S1066·"/Merge this if statement with the enclosing one.(ƒÜÎ
+Dsquid:S1199i"-Extract this nested code block into a method.(Åô²ô
+Dsquid:S1199m"-Extract this nested code block into a method.(”ğ¿Å
+Dsquid:S1199q"-Extract this nested code block into a method.(—®–Œ
+Jsquid:S1199"-Extract this nested code block into a method.(æéÍ®şÿÿÿÿ
+Jsquid:S1199…"-Extract this nested code block into a method.(«¦ÿäüÿÿÿÿ
+Jsquid:S1199Š"-Extract this nested code block into a method.(µ®Ô£üÿÿÿÿ
+Jsquid:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+’squid:S1319Ï"uThe type of the "hiddenNodes" object should be an interface such as "Map" rather than the implementation "Hashtable".(í¿¾œûÿÿÿÿ
+’squid:S1319"uThe type of the "hiddenNodes" object should be an interface such as "Map" rather than the implementation "Hashtable".(½™éìùÿÿÿÿ
+’squid:S1319Â"uThe type of the "hiddenNodes" object should be an interface such as "Map" rather than the implementation "Hashtable".(ÒçÈ·ùÿÿÿÿ
+squid:S1319Ü"uThe type of the "hiddenNodes" object should be an interface such as "Map" rather than the implementation "Hashtable".(“…àÏ
+Œsquid:S1319î"uThe type of the "hiddenNodes" object should be an interface such as "Map" rather than the implementation "Hashtable".(İ¹j
+’squid:S1319"uThe type of the "hiddenNodes" object should be an interface such as "Map" rather than the implementation "Hashtable".(ìÄ¹ÿÿÿÿÿ
+ssquid:S1149Ï"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(í¿¾œûÿÿÿÿ
+ssquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(½™éìùÿÿÿÿ
+ssquid:S1149Â"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÒçÈ·ùÿÿÿÿ
+nsquid:S1149Ü"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(“…àÏ
+msquid:S1149î"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(İ¹j
+ssquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ìÄ¹ÿÿÿÿÿ
+wsquid:S1149ı"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
+”%squid:RedundantThrowsDeclarationCheckW"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(­¾åª
+isquid:S3776W"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(­¾åª
+Usquid:S1197†"8Move the array designator from the variable to the type.(ÚëÃ±üÿÿÿÿ
+Psquid:S1197›"8Move the array designator from the variable to the type.(×Ìä
+Usquid:S1197°"8Move the array designator from the variable to the type.(íÍËüùÿÿÿÿ
+Usquid:S3878"8Remove this array creation and simply pass the elements.(»œê·øÿÿÿÿ
+Bsquid:S00108„")Either remove or fill this block of code.(‚Üò
+Psquid:S3878“"8Remove this array creation and simply pass the elements.(æò›Ä
+Bsquid:S00108–")Either remove or fill this block of code.(‚Üò
+^squid:S3878­"ADisambiguate this call by either casting as "Class" or "Class[]".(ºñ±½şÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,92 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ãø‘şÿÿÿÿ
+hsquid:S1192µ"KDefine a constant instead of duplicating this literal "ISO-8859-1" 7 times.(¸İÏÏøÿÿÿÿ
+nsquid:S1192â
+"QDefine a constant instead of duplicating this literal "imageIndex != 0!" 5 times.(üêµ¡üÿÿÿÿ
+nsquid:S2095Œ
+"QUse try-with-resources or close this "SequenceInputStream" in a "finally" clause.(ÕÖ·Ïúÿÿÿÿ
+hsquid:S2095
+"QUse try-with-resources or close this "InflaterInputStream" in a "finally" clause.(‰ïĞx
+nsquid:S2095Ÿ
+"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(“ãŞ‚ûÿÿÿÿ
+p
+squid:S135Ö"YReduce the total number of break and continue statements in this loop to use at most one.(«…¨×
+Rsquid:S1141Å"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+_squid:S2259„	"GA "NullPointerException" could be thrown; "shortData" is nullable here.(›ûæ“
+osquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤àøÿÿÿÿ
+jsquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÏÕ”
+osquid:S00117Í	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛšŞæÿÿÿÿÿ
+jsquid:S00117Î	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ƒ
+jsquid:S00117Ï	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É…Á×
+osquid:S00117Ğ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ù¯ìùÿÿÿÿ
+Gsquid:S1150@"+Implement Iterator rather than Enumeration.(Ü†¹şÿÿÿÿÿ
+Nsquid:S1854]"7Remove this useless assignment to local variable "crc".(©ù•™
+]squid:S1126`"AReplace this if-then-else statement by a single return statement.(À”Şˆùÿÿÿÿ
+rsquid:S00115~"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿŒï 
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§óŞ
+xsquid:S00115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éÔ€’ùÿÿÿÿ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á’”
+ssquid:S00115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îšµ®
+xsquid:S00115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›æâ´şÿÿÿÿ
+ssquid:S00115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íò…å
+xsquid:S00115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Åª‘úÿÿÿÿ
+xsquid:S00115†"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çó¿»ÿÿÿÿÿ
+xsquid:S00115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É¶¥„ûÿÿÿÿ
+xsquid:S00115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä¼¾úÿÿÿÿ
+xsquid:S00115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çœ§‚üÿÿÿÿ
+ssquid:S00115Š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íìŠŒ
+xsquid:S00115‹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“¡‚Âıÿÿÿÿ
+xsquid:S00115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆ€„Šûÿÿÿÿ
+Rsquid:S1161Í":Add the "@Override" annotation above this method signature(­°§é
+osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(´”©çùÿÿÿÿ
+lsquid:S00100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ†ıÿÿÿÿ
+lsquid:S00100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñß‰‘øÿÿÿÿ
+lsquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ú€âûÿÿÿÿ
+lsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ï½¿ıÿÿÿÿ
+§%squid:RedundantThrowsDeclarationCheckŸ"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(²Œå
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¿Ïšûÿÿÿÿ
+lsquid:S00100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÆ‚Ãÿÿÿÿÿ
+gsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‹ºª
+Vsquid:S4719İ"9Replace charset name argument with StandardCharsets.UTF_8(Áá¤Šüÿÿÿÿ
+Vsquid:S4719ß"9Replace charset name argument with StandardCharsets.UTF_8(ÍÀù€øÿÿÿÿ
+lsquid:S00100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘äöùÿÿÿÿ
+fsquid:S00100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â££l
+§%squid:RedundantThrowsDeclarationCheckƒ"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(Úà¾ï
+lsquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÅïúÿÿÿÿ
+lsquid:S00100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‘şİüÿÿÿÿ
+lsquid:S00100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í®÷‘ûÿÿÿÿ
+Vsquid:S4719´">Replace charset name argument with StandardCharsets.ISO_8859_1(æ™ÍÚ
+lsquid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê’Ÿ‹úÿÿÿÿ
+lsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸüóÍúÿÿÿÿ
+lsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‹ï¶ÿÿÿÿÿ
+8squid:S2129‰"!Remove this "Integer" constructor(ÚğÌ<
+Wsquid:CallToDeprecatedMethod‰"/Remove this use of "Integer"; it is deprecated.(ÚğÌ<
+[squid:S4719">Replace charset name argument with StandardCharsets.ISO_8859_1(…ş›‰øÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¶“®úÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheck»";Refactor the code to remove this label and the need for it.(ÂúœÎ
+Lsquid:EmptyStatementUsageCheckÃ"Remove this empty statement.(ôŸìúÿÿÿÿ
+Esquid:S1659Á"(Declare "priorPixel" on a separate line.(Î¿ú×úÿÿÿÿ
+Csquid:S1659Á"&Declare "priorRow" on a separate line.(Î¿ú×úÿÿÿÿ
+@squid:S1659å"(Declare "priorPixel" on a separate line.(Ë³¦ğ
+>squid:S1659å"&Declare "priorRow" on a separate line.(Ë³¦ğ
+Csquid:S1659å"+Declare "priorRowPixel" on a separate line.(Ë³¦ğ
+§%squid:RedundantThrowsDeclarationCheck¥"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(Úà¾ï
+jsquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(ïôää
+osquid:S2737å"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(Óâ¥ó
+Osquid:S1135ä"2Complete the task associated to this TODO comment.(»½éøÿÿÿÿ
+§%squid:RedundantThrowsDeclarationCheckÀ	"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(Úà¾ï
+Gsquid:S2093ˆ
+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+osquid:S3776ô
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(”¸íäøÿÿÿÿ
+qsquid:S2293ş
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÿ˜Ó
+csquid:HiddenFieldCheck‚"@Rename "bandOffsets" which hides the field declared at line 890.(Øú©õ
+Qsquid:S1161È":Add the "@Override" annotation above this method signature(êÆ”=
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
+Rsquid:S1161î":Add the "@Override" annotation above this method signature(¡ÀØ”
+@squid:S1481J")Remove this unused "type" local variable.(É÷½
+?squid:S1481]"(Remove this unused "crc" local variable.(©ù•™
+Fsquid:S1068©")Remove this unused "debug" private field.(ˆ€„Šûÿÿÿÿ
+hsquid:CommentedOutCodeLine—
+"<This block of commented-out lines of code should be removed.(ı„èÇøÿÿÿÿ

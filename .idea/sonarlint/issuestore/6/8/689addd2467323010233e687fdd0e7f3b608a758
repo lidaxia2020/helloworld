@@ -1,0 +1,10 @@
+
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÊÐ·Îûÿÿÿÿ
+hsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ»ñ%
+hsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ»ñ%
+nsquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+nsquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+nsquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+nsquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+Psquid:S1161D":Add the "@Override" annotation above this method signature(£íÌB
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

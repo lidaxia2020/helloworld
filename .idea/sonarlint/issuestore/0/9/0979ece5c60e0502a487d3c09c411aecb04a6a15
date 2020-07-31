@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
+bsquid:UselessImportCheck!">Remove this unused import 'javax.imageio.spi.ServiceRegistry'.(æž£Å
+csquid:UselessImportCheck ":Remove this unused import 'javax.imageio.spi.IIORegistry'.(¦¢ëÛùÿÿÿÿ
+Xsquid:S2387("<"writerSpiNames" is the name of a field in "ImageReaderSpi".(ò¿íÐÿÿÿÿÿ
+Wsquid:S1126N"AReplace this if-then-else statement by a single return statement.(óðÕ

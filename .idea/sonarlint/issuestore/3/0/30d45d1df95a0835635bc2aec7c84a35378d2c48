@@ -1,0 +1,20 @@
+
+esquid:S3824X"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÿı„
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
+qsquid:S3008L"URename this field "_encodings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÚÿÃÿÿÿÿÿ
+Qsquid:S11184":Add a private constructor to hide the implicit public one.(¿øø‚
+rsquid:S1149L"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(÷ÚÿÃÿÿÿÿÿ
+isquid:S3776U"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(îæ”î
+\squid:CallToDeprecatedMethodU"4Remove this use of "EncodingInfo"; it is deprecated.(îæ”î
+[squid:CallToDeprecatedMethodV"4Remove this use of "EncodingInfo"; it is deprecated.(¢åÄ>
+\squid:CallToDeprecatedMethodX"4Remove this use of "EncodingInfo"; it is deprecated.(ÿı„
+asquid:CallToDeprecatedMethodZ"4Remove this use of "EncodingInfo"; it is deprecated.(¡˜Ëüıÿÿÿÿ
+asquid:CallToDeprecatedMethodd"4Remove this use of "EncodingInfo"; it is deprecated.(êÙ±›ıÿÿÿÿ
+asquid:CallToDeprecatedMethode"4Remove this use of "EncodingInfo"; it is deprecated.(õ€Îöıÿÿÿÿ
+\squid:CallToDeprecatedMethodk"4Remove this use of "EncodingInfo"; it is deprecated.(ö‡Ìˆ
+\squid:CallToDeprecatedMethodp"4Remove this use of "EncodingInfo"; it is deprecated.(ïàªÎ
+asquid:CallToDeprecatedMethodx"4Remove this use of "EncodingInfo"; it is deprecated.(ĞÁ—Óıÿÿÿÿ
+asquid:CallToDeprecatedMethod"4Remove this use of "EncodingInfo"; it is deprecated.(åÇÉ®ûÿÿÿÿ
+bsquid:CallToDeprecatedMethod„"4Remove this use of "EncodingInfo"; it is deprecated.(ğ²úÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ïÎÜê

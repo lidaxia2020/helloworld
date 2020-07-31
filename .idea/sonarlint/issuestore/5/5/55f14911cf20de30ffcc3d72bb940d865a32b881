@@ -1,0 +1,24 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(«‹ú3
+Osquid:S1197N"8Move the array designator from the variable to the type.(­“«‚
+Tsquid:S1197Q"8Move the array designator from the variable to the type.(ÅÆè«úÿÿÿÿ
+Psquid:S1197Ş"8Move the array designator from the variable to the type.(íùÑå
+Psquid:S1197"8Move the array designator from the variable to the type.(‘ ¤á
+Psquid:S1197“"8Move the array designator from the variable to the type.(äµÿ 
+Usquid:S1197ş"8Move the array designator from the variable to the type.(÷åöéùÿÿÿÿ
+Psquid:S1197­"8Move the array designator from the variable to the type.(áÄÌä
+Usquid:S1197²"8Move the array designator from the variable to the type.(£±œ´ûÿÿÿÿ
+Msquid:S1133î"5Do not forget to remove this deprecated code someday.(®¦“
+Rsquid:S1133½"5Do not forget to remove this deprecated code someday.(Ü¡ó¶øÿÿÿÿ
+Msquid:S1133‡"5Do not forget to remove this deprecated code someday.(’ıœÀ
+U
+squid:S106«	"9Replace this use of System.out or System.err by a logger.(·½¼³øÿÿÿÿ
+U
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(§½ŸĞûÿÿÿÿ
+P
+squid:S106ƒ
+"9Replace this use of System.out or System.err by a logger.(Îã­Ã
+Rsquid:S1133š
+"5Do not forget to remove this deprecated code someday.(ø’¯©ıÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„Çèÿÿÿÿÿ

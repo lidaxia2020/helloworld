@@ -1,0 +1,9 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
+Dsquid:S1172@"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+Vsquid:S1161D":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+Ssquid:S3252H"<Use static access with "java.awt.Adjustable" for "VERTICAL".( ç±¡
+Qsquid:S1161M":Add the "@Override" annotation above this method signature(îÜÚ’
+Vsquid:S1161Q":Add the "@Override" annotation above this method signature(Õšå‰üÿÿÿÿ
+Vsquid:S1161U":Add the "@Override" annotation above this method signature(ÏûÑëþÿÿÿÿ
+Qsquid:S1161Z":Add the "@Override" annotation above this method signature(¢‘Ë›

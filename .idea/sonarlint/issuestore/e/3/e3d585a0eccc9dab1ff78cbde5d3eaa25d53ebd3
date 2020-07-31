@@ -1,0 +1,8 @@
+
+ssquid:S2177I"WRename this method; there is a "private" method in the parent class with the same name.(‘®‡Ìûÿÿÿÿ
+Wsquid:S1161»":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+jsquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÂãíÕ
+Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(ÂãíÕ
+Wsquid:S1161•":Add the "@Override" annotation above this method signature(ÀÅ¿İùÿÿÿÿ
+Wsquid:S1161´":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+osquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(®ÿñÁşÿÿÿÿ

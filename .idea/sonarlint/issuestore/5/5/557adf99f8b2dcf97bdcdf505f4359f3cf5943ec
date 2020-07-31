@@ -1,0 +1,19 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ç”Å§
+osquid:S1192­"WDefine a constant instead of duplicating this literal "Cannot recover the key" 5 times.(«‡»•
+bsquid:S1192ú"KDefine a constant instead of duplicating this literal "match !!! " 4 times.(ì¦ÀR
+hsquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëĞ„
+nsquid:S00117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+nsquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+osquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿´÷ûÿÿÿÿ
+Psquid:S1161H":Add the "@Override" annotation above this method signature(ëĞ„
+]squid:S1126I"AReplace this if-then-else statement by a single return statement.(‹Ëïµşÿÿÿÿ
+Vsquid:S1161^":Add the "@Override" annotation above this method signature(ïÿòñúÿÿÿÿ
+Qsquid:S1161p":Add the "@Override" annotation above this method signature(èÄíÅ
+Rsquid:S1161„":Add the "@Override" annotation above this method signature(éÑØ 
+Qsquid:S1161—":Add the "@Override" annotation above this method signature(¾ô°T
+jsquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(íèˆ
+jsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿••‹
+osquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®ÿãûÿÿÿÿ
+osquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(˜şÇÿüÿÿÿÿ
+Bsquid:S00108ñ")Either remove or fill this block of code.(ÛÛÿü

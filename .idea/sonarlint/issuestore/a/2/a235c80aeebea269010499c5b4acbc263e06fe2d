@@ -1,0 +1,25 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+Zsquid:S00107Í"AConstructor has 8 parameters, which is greater than 7 authorized.(ÂÁ¿Ï
+osquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÒ’¬úÿÿÿÿ
+osquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‰õ‚şÿÿÿÿ
+jsquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁ¿Ï
+osquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒàË›øÿÿÿÿ
+osquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒàË›øÿÿÿÿ
+jsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÓŒö
+jsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
+jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçìí
+jsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àª¢Ş
+isquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓË•4
+isquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ø0
+/squid:S1700w"Rename field "code"(¶»ƒ¯ÿÿÿÿÿ
+qsquid:S00116t"TRename this field "max_stack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³­™Ñÿÿÿÿÿ
+msquid:S00116u"URename this field "max_locals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øËÛê
+ssquid:S00116v"VRename this field "code_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“®©£ıÿÿÿÿ
+ysquid:S00116y"aRename this field "exception_table_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¢ñğ
+wsquid:S00116z"ZRename this field "exception_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×õ…ïøÿÿÿÿ
+xsquid:S00116{"[Rename this field "attributes_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îØ‰¶ûÿÿÿÿ
+wsquid:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(´™÷¶
+Wsquid:S1161÷":Add the "@Override" annotation above this method signature(¼çØıùÿÿÿÿ
+Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ
+hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(‚ª¥óúÿÿÿÿ

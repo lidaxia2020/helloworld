@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(£ÿõ•ûÿÿÿÿ
+Wsquid:UselessImportCheck!"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+Zsquid:UselessImportCheck"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ
+_squid:UselessImportCheck"";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“

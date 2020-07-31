@@ -1,0 +1,52 @@
+
+Lsquid:S1191""5Use classes from the Java API instead of Sun classes.(ñÜ¸†
+†squid:S4165å"iRemove this useless assignment; "resolutions" already holds the assigned value along all execution paths.(¬½æıÿÿÿÿ
+ƒsquid:S4165"fRemove this useless assignment; "resolved" already holds the assigned value along all execution paths.(ÙñÄİşÿÿÿÿ
+squid:S4165İ"iRemove this useless assignment; "resolutions" already holds the assigned value along all execution paths.(§õ­õ
+jsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù˜—†
+.squid:S1700f"Rename field "RESOLVER"(¸Şô¼
+Vsquid:S1155¨">Use isEmpty() to check whether the collection is empty or not.(’ñç
+Vsquid:S1155ç">Use isEmpty() to check whether the collection is empty or not.(•¡™ë
+[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(˜òù£úÿÿÿÿ
+[squid:S1155­">Use isEmpty() to check whether the collection is empty or not.(˜òù£úÿÿÿÿ
+}squid:S1149ó"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µ—õÚ
+}squid:S1149ó"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µ—õÚ
+}squid:S1149ó"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µ—õÚ
+}squid:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Õ·©‘
+‚squid:S1149‰"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ğÖİËÿÿÿÿÿ
+‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(™â¥”şÿÿÿÿ
+}squid:S1149’"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íâÑÁ
+‚squid:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŞîôÂşÿÿÿÿ
+‚squid:S1149Ö"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ªª™Àşÿÿÿÿ
+‚squid:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ƒÃ®şÿÿÿÿ
+}squid:S1149Ü"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÏúŠà
+‚squid:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºóÓìûÿÿÿÿ
+‚squid:S1149ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(î†Àşÿÿÿÿ
+}squid:S1149€"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õ¨õÿ
+‚squid:S1149Ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(öˆÃëüÿÿÿÿ
+}squid:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õ¨õÿ
+‚squid:S1149Ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆª”ãùÿÿÿÿ
+‚squid:S1149Ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ƒÃ®şÿÿÿÿ
+}squid:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(è¨ùç
+}squid:S1149¤"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¦ô¬¶
+Esquid:S2755€"-Disable XML external entity (XXE) processing.(¼œÚú
+°%squid:RedundantThrowsDeclarationCheckØ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck›"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationChecká"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck£"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+Isquid:S2692Ğ"10 is a valid index, but is ignored by this check.(ÎÖÚŸ
+^squid:S3027Ğ"FPut single-quotes around ';' to use the faster "indexOf(char)" method.(ÎÖÚŸ
+^squid:S3027Ñ"FPut single-quotes around ';' to use the faster "indexOf(char)" method.(Ì¿ê’
+°%squid:RedundantThrowsDeclarationCheckˆ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck¦"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck×"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+Csquid:S1168ê"+Return an empty collection instead of null.(¥¹ï
+Csquid:S1168"+Return an empty collection instead of null.(¥¹ï
+Csquid:S1168®"+Return an empty collection instead of null.(¥¹ï
+°%squid:RedundantThrowsDeclarationCheckØ"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+osquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ˆª”ãùÿÿÿÿ
+Csquid:S1168¬"+Return an empty collection instead of null.(¥¹ï
+Isquid:S1481¾",Remove this unused "iStream" local variable.(‹ñ´Âúÿÿÿÿ
+Fsquid:S1481Â")Remove this unused "line" local variable.(ÑÕšøÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

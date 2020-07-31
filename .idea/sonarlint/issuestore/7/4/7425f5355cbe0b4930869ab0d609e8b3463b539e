@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Â¹åÂ
+ˆ"squid:ClassVariableVisibilityCheck+"ZMake theBindingType a static final constant or non-public and provide accessors if needed.(Šï 
+‹"squid:ClassVariableVisibilityCheck0"XMake strObjectRef a static final constant or non-public and provide accessors if needed.(ãÎàÿÿÿÿÿ
+nsquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞêÌÈûÿÿÿÿ
+jsquid:ModifiersOrderCheck1"EReorder the modifiers to comply with the Java Language Specification.(„©çÚ

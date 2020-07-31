@@ -1,0 +1,28 @@
+
+Jsquid:S1199æ"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(üËİÇ
+_$squid:AssignmentInSubExpressionCheckÅ".Extract the assignment out of this expression.(üËİÇ
+d$squid:AssignmentInSubExpressionCheck×".Extract the assignment out of this expression.(‹µ”õşÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckà".Extract the assignment out of this expression.(‹µ”õşÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckæ".Extract the assignment out of this expression.(üËİÇ
+d$squid:AssignmentInSubExpressionCheckğ".Extract the assignment out of this expression.(ï²‘ºÿÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Äï“â
+d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(œ¼Œàşÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck€".Extract the assignment out of this expression.(üËİÇ
+_$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ÎÀ
+d$squid:AssignmentInSubExpressionCheck›".Extract the assignment out of this expression.(ÓáÈ²ÿÿÿÿÿ
+asquid:S3973»"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+€"squid:ClassVariableVisibilityCheck"QMake ttype a static final constant or non-public and provide accessors if needed.(¶ìë±
+„"squid:ClassVariableVisibilityChecká"PMake sval a static final constant or non-public and provide accessors if needed.(õ‹Ğûÿÿÿÿ
+„"squid:ClassVariableVisibilityCheckó"PMake nval a static final constant or non-public and provide accessors if needed.(½òİ¥úÿÿÿÿ
+isquid:S00116k"QRename this field "LINENO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëû¾¸
+Tsquid:S1197W"8Move the array designator from the variable to the type.(ÊäÀıÿÿÿÿ
+Tsquid:S1197q"8Move the array designator from the variable to the type.(Êÿ«øÿÿÿÿ
+\squid:S1134À"DTake the required action to fix the issue indicated by this comment.(²äÙ¢
+Msquid:S1133¬"5Do not forget to remove this deprecated code someday.(÷µŞÿ
+ksquid:S3776°"SRefactor this method to reduce its Cognitive Complexity from 159 to the 15 allowed.(ê€Şõ
+Usquid:S1197µ"8Move the array designator from the variable to the type.(®¤¥Õúÿÿÿÿ
+bsquid:HiddenFieldCheckÑ":Rename "ctype" which hides the field declared at line 113.(ıïÀÉıÿÿÿÿ
+\squid:S3358˜"DExtract this nested ternary operation into an independent statement.( Èïè
+V"squid:SwitchLastCaseIsDefaultCheck¾""Add a default case to this switch.(îÇËúÿÿÿÿ
+Usquid:S1197õ"8Move the array designator from the variable to the type.(¾ä‰áüÿÿÿÿ

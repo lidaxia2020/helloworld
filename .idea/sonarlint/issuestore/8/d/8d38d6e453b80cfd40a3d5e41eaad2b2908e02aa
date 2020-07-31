@@ -1,0 +1,24 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
+Gsquid:S1066³"/Merge this if statement with the enclosing one.(²ÁüÀ
+Gsquid:S1066»"/Merge this if statement with the enclosing one.(İ¶Â—
+Zsquid:S00107u"=Method has 12 parameters, which is greater than 7 authorized.(¬ÅÕıÿÿÿÿ
+Esquid:S3077^".Remove the "volatile" keyword from this field.(Ì¦£
+Gsquid:S1172u"+Remove this unused method parameter "name".(¬ÅÕıÿÿÿÿ
+squid:S3252µ"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(éÍ¸ªÿÿÿÿÿ
+‡squid:S3252¶"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_EMPTY".(ëï£÷
+Usquid:S1197Ğ"8Move the array designator from the variable to the type.(º¡­øÿÿÿÿ
+Usquid:S1197Ñ"8Move the array designator from the variable to the type.(–êô¦şÿÿÿÿ
+Ksquid:S1905‡"3Remove this unnecessary cast to "XSTypeDefinition".(Ã¯°„
+jsquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ğü×Í
+fsquid:S4201Í"IRemove this unnecessary null check; "instanceof" returns false for nulls.(òäíÃûÿÿÿÿ
+asquid:S4201Ñ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(«¤«–
+jsquid:S1871"MThis branch's code block is the same as the block for the branch on line 397.(¹Á÷×øÿÿÿÿ
+osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷ƒ½ÿÿÿÿÿ
+Psquid:UselessParenthesesCheckÀ"!Remove these useless parentheses.(ÓËŒüÿÿÿÿ
+jsquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(•èòš
+}squid:S2178”"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ñù–v
+}squid:S2178™"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ñù–v
+1squid:S2178¢"Correct this "|" to "||".(ÈßòÇ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(÷ãº…

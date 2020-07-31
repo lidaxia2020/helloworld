@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯’İ³
+Usquid:S1197–"8Move the array designator from the variable to the type.(»âĞ»ùÿÿÿÿ
+Rsquid:S1161§":Add the "@Override" annotation above this method signature(®úæ
+Psquid:S1197§"8Move the array designator from the variable to the type.(®úæ
+Rsquid:S1161Â":Add the "@Override" annotation above this method signature(§ìî·
+Psquid:S1197Â"8Move the array designator from the variable to the type.(§ìî·
+Rsquid:S1161ç":Add the "@Override" annotation above this method signature(„µô¨
+Rsquid:S1161":Add the "@Override" annotation above this method signature(æ÷ª‡
+Wsquid:S1161•":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+ssquid:CallToDeprecatedMethodï"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÏæÉå
+\"squid:ObjectFinalizeOverridenCheckï"-Do not override the Object.finalize() method.(ÏæÉå

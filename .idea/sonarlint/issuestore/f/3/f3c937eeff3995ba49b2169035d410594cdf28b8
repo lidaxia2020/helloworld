@@ -1,0 +1,11 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯¼Š«
+nsquid:S00117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÔŞ‘şÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'org.omg.CORBA.Object'.(£À£ö
+fsquid:S00100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‡…†
+fsquid:S00100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„±çË
+ksquid:S00100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú»ã™ùÿÿÿÿ
+ksquid:S00100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÔŞ‘şÿÿÿÿ
+ksquid:S00100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¬İ´ÿÿÿÿÿ
+gsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‚ãÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÍ·ÿüÿÿÿÿ

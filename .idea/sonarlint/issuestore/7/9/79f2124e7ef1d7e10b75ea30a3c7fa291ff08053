@@ -1,0 +1,24 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck¤".Extract the assignment out of this expression.(‰Í½ıÿÿÿÿ
+jsquid:MaximumInheritanceDepth9"<This class has 7 parents which is greater than 5 authorized.(Í–×µûÿÿÿÿ
+isquid:S00116="QRename this field "m_axis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”¦É
+rsquid:S00116@"URename this field "m_iterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»µ‘Éşÿÿÿÿ
+Hsquid:S1948@",Make "m_iterator" transient or serializable.(»µ‘Éşÿÿÿÿ
+¸%squid:RedundantThrowsDeclarationCheckg"†Remove the declaration of thrown exception 'javax.xml.transform.TransformerException', as it cannot be thrown from constructor's body.(æºøİ
+Vsquid:S1161|":Add the "@Override" annotation above this method signature(òÚèˆşÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(¶ÕŠ¹
+Rsquid:S1161¢":Add the "@Override" annotation above this method signature(ˆ­¶Ê
+psquid:S2975²"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
+Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(´„ğøúÿÿÿÿ
+Rsquid:S1161ß":Add the "@Override" annotation above this method signature(¿‚­
+Wsquid:S1161ó":Add the "@Override" annotation above this method signature(’” úşÿÿÿÿ
+Rsquid:S1161¼":Add the "@Override" annotation above this method signature(¥æóÿ
+Rsquid:S1161û":Add the "@Override" annotation above this method signature(åàœ‘
+Rsquid:S1161‰":Add the "@Override" annotation above this method signature(Øû¬¯
+Wsquid:S1161›":Add the "@Override" annotation above this method signature(™³€áøÿÿÿÿ
+Wsquid:S1161§":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
+Xsquid:S1126¬"AReplace this if-then-else statement by a single return statement.(¼í«
+Esquid:S1481Å".Remove this unused "predCount" local variable.(Ñ‰‰
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(÷İÀÉ

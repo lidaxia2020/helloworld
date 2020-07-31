@@ -1,0 +1,6 @@
+
+Бsquid:S1149R"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(тµЭ©щ€€€€
+]squid:CallToDeprecatedMethodR"0Remove this use of "Observer"; it is deprecated.(тµЭ©щ€€€€
+Xsquid:CallToDeprecatedMethodg"0Remove this use of "Observer"; it is deprecated.(тк∞Ў
+]squid:CallToDeprecatedMethodx"0Remove this use of "Observer"; it is deprecated.(мҐƒ„ы€€€€
+Ysquid:CallToDeprecatedMethodЌ"0Remove this use of "Observer"; it is deprecated.(ђнса

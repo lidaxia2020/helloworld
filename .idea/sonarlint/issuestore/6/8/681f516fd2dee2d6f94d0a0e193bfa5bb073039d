@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+nsquid:S00117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ìÈ»ûÿÿÿÿ
+nsquid:S00117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ìÈ»ûÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¥µ¼
+xsquid:UselessImportCheckZ"ORemove this unused import 'com.sun.org.apache.bcel.internal.classfile.Utility'.(ğ¿È›ûÿÿÿÿ
+Gsquid:S2160f"+Override the "equals" method in this class.(‚¹×åûÿÿÿÿ
+msquid:S00116i"PRename this field "c_tag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûù—çùÿÿÿÿ
+qsquid:S00116j"TRename this field "canon_tag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¿Îşÿÿÿÿ
+Wsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(Ğœáõüÿÿÿÿ
+Rsquid:S1161¼":Add the "@Override" annotation above this method signature(¹Û‚æ
+Rsquid:S1161Í":Add the "@Override" annotation above this method signature(­åì…

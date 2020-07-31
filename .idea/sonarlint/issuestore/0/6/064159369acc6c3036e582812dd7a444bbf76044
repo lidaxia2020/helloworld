@@ -1,0 +1,18 @@
+
+ksquid:S3824§"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(´“¥€üÿÿÿÿ
+ksquid:S3824á"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÿÊªÄûÿÿÿÿ
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(¢úİ’øÿÿÿÿ
+Usquid:S00107ö"<Method has 8 parameters, which is greater than 7 authorized.(¨‡ºâ
+osquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ìÿçûÿÿÿÿ
+jsquid:ModifiersOrderCheckP"EReorder the modifiers to comply with the Java Language Specification.(ü·â¢
+jsquid:ModifiersOrderCheckT"EReorder the modifiers to comply with the Java Language Specification.(ûÒªı
+usquid:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ‹ú şÿÿÿÿ
+vsquid:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊîÀ§øÿÿÿÿ
+jsquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Òëê±
+Qsquid:S2864—"4Iterate over the "entrySet" instead of the "keySet".(ÎŒÿÿÿÿÿ
+vsquid:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(—†—°ÿÿÿÿÿ
+Lsquid:S2864¦"4Iterate over the "entrySet" instead of the "keySet".(ãù•˜
+vsquid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã´âÑÿÿÿÿÿ
+vsquid:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(—†—°ÿÿÿÿÿ
+qsquid:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜İ›§

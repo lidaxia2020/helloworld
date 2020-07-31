@@ -1,0 +1,17 @@
+
+:squid:S2189¶""Correct this loop's end condition.(”Å²Å
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ýäÌÝûÿÿÿÿ
+Rsquid:S1141„"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Gsquid:UselessImportCheck2"Remove this duplicated import.(æ‡µ³üÿÿÿÿ
+hsquid:UselessImportCheck/"DRemove this unused import 'com.sun.org.omg.SendingContext.CodeBase'.(¹ØÙï
+Usquid:UselessImportCheck'"1Remove this unused import 'java.util.Properties'.(¬µŽ²
+nsquid:UselessImportCheck0"JRemove this unused import 'com.sun.org.omg.SendingContext.CodeBaseHelper'.(Ù­Ù®
+msquid:S1149@"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(È¦ÞŽ
+msquid:S1149­"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(³›áÅøÿÿÿÿ
+Tsquid:S1197p"8Move the array designator from the variable to the type.(ªöæÂøÿÿÿÿ
+Bsquid:S1181–"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Bsquid:S1181‡"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Usquid:S1197œ"8Move the array designator from the variable to the type.(ªíÈÓüÿÿÿÿ
+Bsquid:S1181º"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Usquid:S1197µ"8Move the array designator from the variable to the type.(³˜þûûÿÿÿÿ
+Qsquid:S2251¶"9"i" is incremented and will never reach "stop condition".(”Å²Å

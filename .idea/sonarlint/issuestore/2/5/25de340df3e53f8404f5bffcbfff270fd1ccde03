@@ -1,0 +1,13 @@
+
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.( ‹Û™
+}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(úÏÑÊþÿÿÿÿ
+>squid:S12147""Move constants to a class or enum.(ÑóñÓþÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheck\"˜Remove the declaration of thrown exception 'java.rmi.activation.UnknownGroupException' which is a subclass of 'java.rmi.activation.ActivationException'.(‘©·ô
+Ð%squid:RedundantThrowsDeclarationChecko"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(ÉÙö™ÿÿÿÿÿ
+Ð%squid:RedundantThrowsDeclarationCheckž"˜Remove the declaration of thrown exception 'java.rmi.activation.UnknownGroupException' which is a subclass of 'java.rmi.activation.ActivationException'.(îùÍñùÿÿÿÿ
+Ë%squid:RedundantThrowsDeclarationCheck³"˜Remove the declaration of thrown exception 'java.rmi.activation.UnknownGroupException' which is a subclass of 'java.rmi.activation.ActivationException'.(‘©·ô
+Ñ%squid:RedundantThrowsDeclarationCheckÚ"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(Œí‡ëùÿÿÿÿ
+Ë%squid:RedundantThrowsDeclarationCheckÛ"˜Remove the declaration of thrown exception 'java.rmi.activation.UnknownGroupException' which is a subclass of 'java.rmi.activation.ActivationException'.(ÜÁðÅ
+Ë%squid:RedundantThrowsDeclarationCheckó"˜Remove the declaration of thrown exception 'java.rmi.activation.UnknownGroupException' which is a subclass of 'java.rmi.activation.ActivationException'.(‘©·ô
+Ñ%squid:RedundantThrowsDeclarationCheck†"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(ÉÙö™ÿÿÿÿÿ
+Ë%squid:RedundantThrowsDeclarationCheck˜"˜Remove the declaration of thrown exception 'java.rmi.activation.UnknownGroupException' which is a subclass of 'java.rmi.activation.ActivationException'.(‘©·ô

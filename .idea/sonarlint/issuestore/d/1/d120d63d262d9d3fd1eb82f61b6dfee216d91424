@@ -1,0 +1,39 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ˆ¨
+Psquid:S4973Ø"9Use the "equals" method if value comparison was intended.(™óÂ6
+Psquid:S4973è"9Use the "equals" method if value comparison was intended.(™óÂ6
+tsquid:UselessImportCheck1"KRemove this unused import 'com.sun.org.apache.xerces.internal.util.Status'.(ĞÎ²Šıÿÿÿÿ
+;squid:S1148Ã"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148È"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Í"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Ò"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Ü"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148á"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148æ"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148ë"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148›"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148 "#Use a logger to log this exception.(Ç’Çê
+;squid:S1148¥"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148ª"#Use a logger to log this exception.(Ç’Çê
+Ê%squid:RedundantThrowsDeclarationChecká"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationChecké"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckü"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÓòœÍúÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheck˜"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(×îäû
+µ%squid:RedundantThrowsDeclarationCheck·"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ë®Ç£ÿÿÿÿÿ
+osquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ë®Ç£ÿÿÿÿÿ
+bsquid:S2147Æ"ECombine this catch with the one at line 577, which has the same body.(©¥–Üøÿÿÿÿ
+]squid:S2147Ë"ECombine this catch with the one at line 577, which has the same body.(İ­áŞ
+bsquid:S2147ß"ECombine this catch with the one at line 602, which has the same body.(©¥–Üøÿÿÿÿ
+]squid:S2147ä"ECombine this catch with the one at line 602, which has the same body.(İ­áŞ
+µ%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(øš¯ıÿÿÿÿ
+bsquid:S2147"ECombine this catch with the one at line 665, which has the same body.(©¥–Üøÿÿÿÿ
+]squid:S2147£"ECombine this catch with the one at line 665, which has the same body.(İ­áŞ
+¯%squid:RedundantThrowsDeclarationCheckÂ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Âä
+Qsquid:S1161Â":Add the "@Override" annotation above this method signature(Âä
+jsquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ö°¿
+Ê%squid:RedundantThrowsDeclarationCheck®"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+osquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(°²š¸ıÿÿÿÿ
+Wsquid:S1161­":Add the "@Override" annotation above this method signature(°²š¸ıÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheckƒ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+Rsquid:S1161‚":Add the "@Override" annotation above this method signature(¼³˜É
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

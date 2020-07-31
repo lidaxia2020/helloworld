@@ -1,0 +1,22 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(üÁÿ«
+dsquid:S001014"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ØÑI
+^squid:S00112>"FDefine and throw a dedicated exception instead of using a generic one.(Î¢›‘
+csquid:S00112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò’™ùÿÿÿÿ
+_squid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(Î¢›‘
+_squid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(Âö¼©
+_squid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(Î¢›‘
+_squid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(çÞÑé
+nsquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò’™ùÿÿÿÿ
+isquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ôŒ»
+jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´çì
+lsquid:S00116U"URename this field "real_stack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²½Æn
+qsquid:S00116`"TRename this field "real_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Þºáúÿÿÿÿ
+lsquid:S1149:"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ò’™ùÿÿÿÿ
+fsquid:S1149U"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²½Æn
+lsquid:S1149m"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(´‡±íþÿÿÿÿ
+ksquid:S00100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¬ò“úÿÿÿÿ
+9squid:S2129‡"!Remove this "Integer" constructor(Þ­ë…
+Xsquid:CallToDeprecatedMethod‡"/Remove this use of "Integer"; it is deprecated.(Þ­ë…
+>squid:S2129¸"!Remove this "Integer" constructor(Ø˜ðûýÿÿÿÿ
+]squid:CallToDeprecatedMethod¸"/Remove this use of "Integer"; it is deprecated.(Ø˜ðûýÿÿÿÿ

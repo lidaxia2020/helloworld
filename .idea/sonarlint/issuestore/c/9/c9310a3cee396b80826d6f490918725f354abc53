@@ -1,0 +1,112 @@
+
+Zsquid:S2184ñ"BCast one of the operands of this division operation to a "double".(°Êúõ
+Zsquid:S2184ù	"BCast one of the operands of this division operation to a "double".(ú‚Ô°
+Vsquid:S3034æ">Prevent "int" promotion by adding "& 0xff" to this expression.(™¢ï
+[squid:S3034÷">Prevent "int" promotion by adding "& 0xff" to this expression.(›‚èÂùÿÿÿÿ
+Vsquid:S3034‚	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+Vsquid:S3034–	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+Vsquid:S3034«	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+Vsquid:S3034¼	">Prevent "int" promotion by adding "& 0xff" to this expression.(™¢ï
+Vsquid:S3034Ñ	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+Vsquid:S3034Ö	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+Vsquid:S3034á	">Prevent "int" promotion by adding "& 0xff" to this expression.(ÙãÔ·
+Vsquid:S3034î	">Prevent "int" promotion by adding "& 0xff" to this expression.(™¢ï
+[squid:S3034ˆ
+">Prevent "int" promotion by adding "& 0xff" to this expression.(›‚èÂùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckè"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾›Š»üÿÿÿÿ
+… squid:ForLoopCounterChangedCheckê"XRefactor the code in order to not assign to this loop counter from within the loop body.(èùÅ‰
+Š squid:ForLoopCounterChangedCheck®"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾›Š»üÿÿÿÿ
+… squid:ForLoopCounterChangedCheck°"XRefactor the code in order to not assign to this loop counter from within the loop body.(èùÅ‰
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶å¤
+hsquid:S1301ÿ	"KReplace this "switch" statement by "if" statements to increase readability.(öŞõŒûÿÿÿÿ
+hsquid:S2259å"K"NullPointerException" will be thrown when invoking method "writePixels()".(°›ŒÈüÿÿÿÿ
+Esquid:S1604ß
+"(Make this anonymous inner class a lambda(ÙîÅëÿÿÿÿÿ
+_squid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(ˆÇ¬ó
+dsquid:S00112Ö
+"FDefine and throw a dedicated exception instead of using a generic one.(ğ†£ûÿÿÿÿ
+dsquid:S00112ñ
+"FDefine and throw a dedicated exception instead of using a generic one.(¢†ğÊøÿÿÿÿ
+osquid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü Œ‡ıÿÿÿÿ
+6squid:S1659Z"Declare "h" on a separate line.(¨óÛÇ
+wsquid:S00116V"ZRename this field "embedded_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®…ÄÓıÿÿÿÿ
+Vsquid:S1161l":Add the "@Override" annotation above this method signature(‹·® ûÿÿÿÿ
+Vsquid:S1161w":Add the "@Override" annotation above this method signature(ºšõ×ÿÿÿÿÿ
+Rsquid:S1161—":Add the "@Override" annotation above this method signature(íîÚå
+psquid:S3776›"SRefactor this method to reduce its Cognitive Complexity from 185 to the 15 allowed.(ìÁÇ»øÿÿÿÿ
+<squid:S1659Ë"Declare "g" on a separate line.(øÌ¹°ûÿÿÿÿ
+<squid:S1659Ë"Declare "b" on a separate line.(øÌ¹°ûÿÿÿÿ
+<squid:S1659Ë"Declare "a" on a separate line.(øÌ¹°ûÿÿÿÿ
+fsquid:S4201Ó"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¥ææüÿÿÿÿ
+Psquid:S1197°"8Move the array designator from the variable to the type.(ûµ¼é
+Usquid:S1197Ë"8Move the array designator from the variable to the type.(øÌ¹°ûÿÿÿÿ
+Usquid:S1197Ë"8Move the array designator from the variable to the type.(øÌ¹°ûÿÿÿÿ
+Usquid:S1197Ë"8Move the array designator from the variable to the type.(øÌ¹°ûÿÿÿÿ
+Usquid:S1197Ë"8Move the array designator from the variable to the type.(øÌ¹°ûÿÿÿÿ
+@squid:S1125ª"(Remove the literal "true" boolean value.(¾¿©
+@squid:S1125ª"(Remove the literal "true" boolean value.(¾¿©
+Csquid:S1905Ô"&Remove this unnecessary cast to "int".(ë¦“ùÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck ""Add a default case to this switch.(ÚÆ§î
+]squid:HiddenFieldCheckÂ"5Rename "h" which hides the field declared at line 90.(¬­æ“øÿÿÿÿ
+]squid:HiddenFieldCheckÏ"5Rename "h" which hides the field declared at line 90.(¬­æ“øÿÿÿÿ
+jsquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 80 to the 15 allowed.(Š²¯Ğ
+Msquid:S1854 "5Remove this useless assignment to local variable "k".(³Ö¤
+Msquid:S1854µ"5Remove this useless assignment to local variable "k".(³Ö¤
+Psquid:S1197†"8Move the array designator from the variable to the type.(ÑÉ²é
+Q"squid:SwitchLastCaseIsDefaultCheck‹""Add a default case to this switch.(ŒíÓ
+]squid:HiddenFieldCheck©"5Rename "h" which hides the field declared at line 90.(¬­æ“øÿÿÿÿ
+]squid:HiddenFieldCheck½"5Rename "h" which hides the field declared at line 90.(¬­æ“øÿÿÿÿ
+Ksquid:UselessParenthesesCheckç"!Remove these useless parentheses.(±­·å
+Usquid:S1197"8Move the array designator from the variable to the type.(‚Î¢ëşÿÿÿÿ
+Psquid:S1197‚"8Move the array designator from the variable to the type.(æ¸ìŞ
+Osquid:S1197ƒ"8Move the array designator from the variable to the type.(‹œÔN
+Ksquid:UselessParenthesesCheck­"!Remove these useless parentheses.(•àĞ²
+osquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(‘Éäºıÿÿÿÿ
+<squid:S1659Ø"$Declare "absVal" on a separate line.(ëà¹ã
+7squid:S1659Ø"Declare "j" on a separate line.(ëà¹ã
+Bsquid:S1659Ù"%Declare "nextVal" on a separate line.(æÜïúÿÿÿÿ
+osquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 96 to the 15 allowed.(áÁ±şşÿÿÿÿ
+Lsquid:S1854Ü	"5Remove this useless assignment to local variable "n".(ú¤Âx
+Asquid:S1659Ğ"$Declare "absVal" on a separate line.(òîˆøÿÿÿÿÿ
+<squid:S1659Ğ"Declare "j" on a separate line.(òîˆøÿÿÿÿÿ
+@squid:S1659Ğ"#Declare "pixel" on a separate line.(òîˆøÿÿÿÿÿ
+<squid:S1659Ğ"Declare "q" on a separate line.(òîˆøÿÿÿÿÿ
+=squid:S1659Ñ"%Declare "runVal2" on a separate line.(½ÿµÊ
+>squid:S1659Ñ"&Declare "nextVal1" on a separate line.(½ÿµÊ
+>squid:S1659Ñ"&Declare "nextVal2" on a separate line.(½ÿµÊ
+=squid:S2437ì" Remove this silly bit operation.(ÕÚÄÙùÿÿÿÿ
+=squid:S2185ñ"%Remove this silly call to "Math.ceil"(°Êúõ
+8squid:S2437‹	" Remove this silly bit operation.(Ó¾†
+=squid:S2437¡	" Remove this silly bit operation.(²·“»üÿÿÿÿ
+=squid:S2437Ú	" Remove this silly bit operation.(ó¿Ô”üÿÿÿÿ
+7squid:S2437Ü	" Remove this silly bit operation.(ú¤Âx
+8squid:S2437ó	" Remove this silly bit operation.(˜ù¥ñ
+=squid:S2185ù	"%Remove this silly call to "Math.ceil"(ú‚Ô°
+V"squid:SwitchLastCaseIsDefaultCheckÿ	""Add a default case to this switch.(öŞõŒûÿÿÿÿ
+8squid:S2437‚
+" Remove this silly bit operation.(’³ˆ
+@squid:S1125
+"(Remove the literal "true" boolean value.(ç´£€
+Rsquid:S1161Ç
+":Add the "@Override" annotation above this method signature(¡ÀØ”
+Wsquid:S1161Ú
+":Add the "@Override" annotation above this method signature(·ìÙÿÿÿÿÿ
+squid:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿš™Œüÿÿÿÿ
+squid:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ìÙÿÿÿÿÿ
+squid:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã’óšûÿÿÿÿ
+squid:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üÜà†üÿÿÿÿ
+squid:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿«”©ûÿÿÿÿ
+™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô­ê
+squid:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅŸöŸşÿÿÿÿ
+osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ù‡ë§ıÿÿÿÿ
+Osquid:S1172Æ"2Remove this unused method parameter "compression".(Ù‡ë§ıÿÿÿÿ
+Rsquid:S1854Ë":Remove this useless assignment to local variable "biType".(ç§òÏ
+Osquid:S3972œ"7Move this "if" to a new line or add the missing "else".(Úíåë
+>squid:S1481Ç"&Remove this unused "l" local variable.(¥Ú”õ
+=squid:S1481Ü	"&Remove this unused "n" local variable.(ú¤Âx
+Csquid:S1481Ë"+Remove this unused "biType" local variable.(ç§òÏ
+Bsquid:S1068W"+Remove this unused "version" private field.(ÇÒÛü
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Öõœ
+csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(ÉŸÖ¤
+hsquid:CommentedOutCodeLineç
+"<This block of commented-out lines of code should be removed.(Ôœ¸–ùÿÿÿÿ

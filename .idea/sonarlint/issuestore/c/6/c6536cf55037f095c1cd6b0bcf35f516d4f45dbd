@@ -1,0 +1,6 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
+dsquid:UselessImportCheck "@Remove this unused import 'com.sun.corba.se.pept.broker.Broker'.(„‘×î
+jsquid:S3776™"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ˆ¿òü
+ksquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(ˆ¿òü
+csquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(®íÿ

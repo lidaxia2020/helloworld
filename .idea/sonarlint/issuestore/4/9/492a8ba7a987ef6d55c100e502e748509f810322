@@ -1,0 +1,27 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(äªŒ­
+nsquid:S1192…"QDefine a constant instead of duplicating this literal "destroyListeners" 3 times.(ÈÄ–°ıÿÿÿÿ
+ksquid:S1192Ş"TDefine a constant instead of duplicating this literal "fetchNotifications" 21 times.(½Õ¯*
+msquid:S1192Ë"PDefine a constant instead of duplicating this literal "addNotification" 3 times.(Èñ‹Êûÿÿÿÿ
+hsquid:S1192±"PDefine a constant instead of duplicating this literal "createListeners" 5 times.(àäÜ
+^squid:S1192Ş"GDefine a constant instead of duplicating this literal "starts" 3 times.(½Õ¯*
+u
+squid:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+@squid:S1604–"(Make this anonymous inner class a lambda(Ì¶ªÇ
+@squid:S1604û"(Make this anonymous inner class a lambda(ä’µ¸
+dsquid:S00112ô"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+dsquid:S00112†"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+Vsquid:S1155ë">Use isEmpty() to check whether the collection is empty or not.(°ó©„
+Vsquid:S1155š">Use isEmpty() to check whether the collection is empty or not.(‹åƒÑ
+xsquid:S00115¶"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áÖíúÿÿÿÿ
+vsquid:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª–¶şÿÿÿÿ
+qsquid:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ğô
+vsquid:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ˆıÿÿÿÿ
+jsquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(¢‡Š
+vsquid:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(“êŠºşÿÿÿÿ
+vsquid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(“êŠºşÿÿÿÿ
+vsquid:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÒÏÍûÿÿÿÿ
+vsquid:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇŞÍùÿÿÿÿ
+<squid:S3398Ô"$Move this method into "ShareBuffer".(Çº¢
+\squid:S3398Á"?Move this method into the anonymous class declared at line 891.(ËëÓıÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(üí¶ªùÿÿÿÿ

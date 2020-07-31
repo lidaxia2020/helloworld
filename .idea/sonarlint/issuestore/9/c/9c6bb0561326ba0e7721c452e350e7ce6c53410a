@@ -1,0 +1,22 @@
+
+_$squid:AssignmentInSubExpressionCheck©".Extract the assignment out of this expression.(ùêéå
+_$squid:AssignmentInSubExpressionCheck“	".Extract the assignment out of this expression.(¸Ÿ¿º
+qsquid:S4144"ZUpdate this method so that its implementation is not identical to "offerLast" on line 351.(å{
+esquid:HiddenFieldCheckº"=Rename "elements" which hides the field declared at line 131.(¾«îÆùÿÿÿÿ
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+Qsquid:S1161Æ":Add the "@Override" annotation above this method signature(ºˆ¡
+7squid:S1659É"Declare "f" on a separate line.(ÿ¨ô”
+7squid:S1659É"Declare "i" on a separate line.(ÿ¨ô”
+Wsquid:S1161ò":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+psquid:S2975¨"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ÇÕÍµÿÿÿÿÿ
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+vsquid:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(×Ÿù­üÿÿÿÿ
+<squid:S1659	"Declare "h" on a separate line.(­ı¸Ìıÿÿÿÿ
+<squid:S1659	"Declare "n" on a separate line.(­ı¸Ìıÿÿÿÿ
+Rsquid:S1161˜	":Add the "@Override" annotation above this method signature(¶­û‚
+<squid:S1659œ	"Declare "f" on a separate line.(¦ƒÚ‡úÿÿÿÿ
+<squid:S1659œ	"Declare "i" on a separate line.(¦ƒÚ‡úÿÿÿÿ
+Rsquid:S1854«	"5Remove this useless assignment to local variable "f".(¦ƒÚ‡úÿÿÿÿ
+<squid:S1659«	"Declare "f" on a separate line.(¦ƒÚ‡úÿÿÿÿ
+<squid:S1659«	"Declare "i" on a separate line.(¦ƒÚ‡úÿÿÿÿ
+Csquid:S1481«	"&Remove this unused "f" local variable.(¦ƒÚ‡úÿÿÿÿ

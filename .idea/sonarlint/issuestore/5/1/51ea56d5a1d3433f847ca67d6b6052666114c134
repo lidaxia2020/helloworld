@@ -1,0 +1,6 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
+4squid:S1165/"Make this "_msg" field final.(Ô×·Á
+gsquid:S00116/"ORename this field "_msg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô×·Á
+Nsquid:S1161?":Add the "@Override" annotation above this method signature(‡+
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

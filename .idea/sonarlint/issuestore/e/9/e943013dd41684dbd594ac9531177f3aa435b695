@@ -1,0 +1,5 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘´¦¸
+ssquid:S4144T"WUpdate this method so that its implementation is not identical to "warning" on line 62.(³ßôŠúÿÿÿÿ
+wsquid:S001155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†“ÉÙùÿÿÿÿ
+wsquid:S001159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿ôàøÿÿÿÿ

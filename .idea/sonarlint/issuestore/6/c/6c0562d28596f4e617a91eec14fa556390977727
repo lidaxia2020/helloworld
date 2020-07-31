@@ -1,0 +1,20 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Àãé
+…squid:S1319‘"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(õáŒ
+Šsquid:S1319ª"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(ÖÌÑüúÿÿÿÿ
+Šsquid:S1319Æ"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(¿²£Æşÿÿÿÿ
+†squid:S1319Æ"iThe type of the "s" object should be an interface such as "Set" rather than the implementation "EnumSet".(¿²£Æşÿÿÿÿ
+„squid:S1319İ"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(½Ú‡~
+…squid:S1319ú"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(âÔ˜°
+squid:S1319ú"iThe type of the "s" object should be an interface such as "Set" rather than the implementation "EnumSet".(âÔ˜°
+…squid:S1319”"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(äÉğ‡
+…squid:S1319¯"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(€”©ù
+…squid:S1319Ì"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(Æ•ëÒ
+Šsquid:S1319ë"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(µ«ù‰üÿÿÿÿ
+…squid:S1319Œ"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(›İ˜Â
+Šsquid:S1319«"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(ƒˆäòıÿÿÿÿ
+Šsquid:S1319Å"mThe return type of this method should be an interface such as "Set" rather than the implementation "EnumSet".(Î´şáıÿÿÿÿ
+Gsquid:S2160j"+Override the "equals" method in this class.(£îôáÿÿÿÿÿ
+xsquid:S3008}"aRename this field "ZERO_LENGTH_ENUM_ARRAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ñï
+vsquid:S3012¯"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‰óßìÿÿÿÿÿ
+psquid:S2975à"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(»£·ÿüÿÿÿÿ

@@ -1,0 +1,21 @@
+
+Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒğw
+fsquid:S1192¥"IDefine a constant instead of duplicating this literal "&middot;" 3 times.(àã«ıÿÿÿÿ
+gsquid:S1192ü"JDefine a constant instead of duplicating this literal "&amp;#xD;" 5 times.(‹˜Ïøÿÿÿÿ
+asquid:S1192©"IDefine a constant instead of duplicating this literal "&para;\n" 3 times.(‚˜õ
+hsquid:S1301¼"KReplace this "switch" statement by "if" statements to increase readability.(îÇËúÿÿÿÿ
+Vsquid:S1155¯">Use isEmpty() to check whether the collection is empty or not.(€…Áõ
+isquid:S1450@"RRemove the "doc" field and declare it as a local variable in the relevant methods.(ü–¿Ì
+wsquid:S00115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ÆÂªşÿÿÿÿ
+wsquid:S00115m"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±Êœ¶úÿÿÿÿ
+wsquid:S00115o"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´¥Ÿ›ıÿÿÿÿ
+rsquid:S00115q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹–Ó€
+wsquid:S00115s"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œÃ®àşÿÿÿÿ
+wsquid:S00115u"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„£†©úÿÿÿÿ
+rsquid:S00115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÁû
+fsquid:CallToDeprecatedMethodÀ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+Gsquid:S2093¸"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+osquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Í¬”©ıÿÿÿÿ
+Osquid:S1197Ç"8Move the array designator from the variable to the type.(šÁ¥n
+Psquid:S1197Î"8Move the array designator from the variable to the type.(òÖøŞ
+Zsquid:HiddenFieldCheck¥"7Rename "doc" which hides the field declared at line 64.(‰õò˜

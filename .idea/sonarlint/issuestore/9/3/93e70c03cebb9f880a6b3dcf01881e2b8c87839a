@@ -1,0 +1,9 @@
+
+jsquid:S1192œ"RDefine a constant instead of duplicating this literal "Socket is closed" 11 times.(°áëŞ
+osquid:S1192"XDefine a constant instead of duplicating this literal "Not a multicast address" 4 times.(³Ì¯"
+Msquid:S1133š"5Do not forget to remove this deprecated code someday.(àÍ¼¼
+Rsquid:S1133Ó"5Do not forget to remove this deprecated code someday.(¯’äÂüÿÿÿÿ
+asquid:S4201î"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¤Úë¢
+asquid:S4201£"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¤Úë¢
+Lsquid:S1133®"5Do not forget to remove this deprecated code someday.(ãû™$
+^squid:S2445´"F"p" is a method parameter, and should not be used for synchronization.(Ì—îá

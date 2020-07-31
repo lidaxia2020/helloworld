@@ -1,0 +1,17 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Ú‹ˆ£ûÿÿÿÿ
+^$squid:AssignmentInSubExpressionCheck8".Extract the assignment out of this expression.(Å¥Ëè
+^$squid:AssignmentInSubExpressionCheck=".Extract the assignment out of this expression.(Ø¶Õ¥
+_$squid:AssignmentInSubExpressionCheckÏ".Extract the assignment out of this expression.(âÿó
+isquid:S00116/"QRename this field "_array" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¦„ï
+hsquid:S001160"PRename this field "_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á°ö€
+msquid:S001161"PRename this field "_free" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŞÚòùÿÿÿÿ
+rsquid:S00115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â¨ú·
+jsquid:S2975D"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+_squid:S1182D"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+<squid:S1659‹"Declare "j" on a separate line.(ı¤Óòıÿÿÿÿ
+<squid:S1659‹"Declare "k" on a separate line.(ı¤Óòıÿÿÿÿ
+<squid:S1659¾"Declare "j" on a separate line.(Ç©¬Ûşÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(À€‡•
+csquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(²Œß€

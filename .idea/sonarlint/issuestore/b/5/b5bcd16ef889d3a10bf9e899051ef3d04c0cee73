@@ -1,0 +1,6 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+Xsquid:S2259v"AA "NullPointerException" could be thrown; "obj" is nullable here.(óÄÇ
+nsquid:S001162"QRename this field "m_char" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ÿœ¦ıÿÿÿÿ
+;squid:S2097t"Add a type test to this method.(¾‡şÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

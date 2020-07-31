@@ -1,0 +1,5 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+qsquid:S00116<"TRename this field "m_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™€¢Âøÿÿÿÿ
+isquid:S3776m"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(›Ü“Ô
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

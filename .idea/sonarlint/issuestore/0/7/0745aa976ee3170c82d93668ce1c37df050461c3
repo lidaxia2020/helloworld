@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(è¬á¿üÿÿÿÿ
+}squid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(€ÙÔÿùÿÿÿÿ
+Zsquid:UselessImportCheck"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ

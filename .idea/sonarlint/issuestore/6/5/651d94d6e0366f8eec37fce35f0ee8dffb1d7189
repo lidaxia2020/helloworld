@@ -1,0 +1,8 @@
+
+hsquid:S1301î"KReplace this "switch" statement by "if" statements to increase readability.(¶Ô‡´ÿÿÿÿÿ
+Fsquid:S1125ø")Remove the literal "false" boolean value.(†ï’úÿÿÿÿ
+"squid:SwitchLastCaseIsDefaultCheckî"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶Ô‡´ÿÿÿÿÿ
+@squid:S1125Æ")Remove the literal "false" boolean value.(‚ÜÃo
+@squid:S1125Æ")Remove the literal "false" boolean value.(‚ÜÃo
+`squid:HiddenFieldCheckü"8Rename "day" which hides the field declared at line 205.(†‚Ò¿ıÿÿÿÿ
+Fsquid:S1125ï")Remove the literal "false" boolean value.(í—ÿûÿÿÿÿ

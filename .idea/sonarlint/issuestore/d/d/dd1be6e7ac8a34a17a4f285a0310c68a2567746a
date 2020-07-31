@@ -1,0 +1,25 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
+jsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñêâ¾
+osquid:S00117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¼½•øÿÿÿÿ
+usquid:UselessImportCheck("QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
+ssquid:UselessImportCheck""JRemove this unused import 'org.omg.DynamicAny.DynAnyPackage.InvalidValue'.(ëÞ÷¤øÿÿÿÿ
+rsquid:UselessImportCheck'"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
+Fsquid:S1125Œ")Remove the literal "false" boolean value.(»Üò·ÿÿÿÿÿ
+Fsquid:S1125 ")Remove the literal "false" boolean value.(»Üò·ÿÿÿÿÿ
+3squid:S3626ð"Remove this redundant jump.(ûÁÝ…
+jsquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ë±–È
+~squid:S1221®"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(®¼½•øÿÿÿÿ
+Fsquid:S1125º")Remove the literal "false" boolean value.(»Üò·ÿÿÿÿÿ
+Asquid:S1125Â")Remove the literal "false" boolean value.(Ê¡õò
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(ÑÉ­Ëúÿÿÿÿ
+bsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(•í„¥
+hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(—ýþöþÿÿÿÿ
+csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(ŸÖ›©
+csquid:CommentedOutCodeLineÞ"<This block of commented-out lines of code should be removed.(ƒºÙÈ
+csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(Úó¼ñ
+hsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(¡˜ŸÜüÿÿÿÿ
+hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(ÖÛàÓøÿÿÿÿ
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(’ó§óúÿÿÿÿ
+hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(´Ýšùÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(æÂ£Íúÿÿÿÿ

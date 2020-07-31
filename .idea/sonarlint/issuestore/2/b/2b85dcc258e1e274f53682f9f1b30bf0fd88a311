@@ -1,0 +1,19 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.( Šİ¹ıÿÿÿÿ
+}squid:S1192ê"eDefine a constant instead of duplicating this literal "c14n.Canonicalizer.RelativeNamespace" 3 times.(™êŞ€
+osquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+jsquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‚î±
+osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+jsquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‚î±
+psquid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(«‚ôÂ
+Vsquid:S1161w":Add the "@Override" annotation above this method signature(ÓõÃ›ùÿÿÿÿ
+osquid:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(×ØÚ¼úÿÿÿÿ
+]squid:HiddenFieldCheckÇ":Rename "result" which hides the field declared at line 93.(İäî–
+qsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô‡¼º
+Psquid:S1197è"8Move the array designator from the variable to the type.(Ë‡÷É
+jsquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(Ö˜¼
+]squid:HiddenFieldCheck":Rename "result" which hides the field declared at line 93.(İäî–
+qsquid:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(€üüá
+Psquid:S1197»"8Move the array designator from the variable to the type.(Ë‡÷É
+Psquid:S1197Æ"8Move the array designator from the variable to the type.(Ë‡÷É
+csquid:S1764ï"KCorrect one of the identical sub-expressions on both sides of operator "||"(„ÿµ

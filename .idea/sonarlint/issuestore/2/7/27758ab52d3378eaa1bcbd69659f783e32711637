@@ -1,0 +1,57 @@
+
+„squid:S1192î"gDefine a constant instead of duplicating this literal "element cannot be mapped to a null key" 3 times.(’¾û¡ıÿÿÿÿ
+“squid:S2681ö"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(å¨ÔÀ
+Isquid:S1612…",Replace this lambda with a method reference.(í¥Ø²şÿÿÿÿ
+Csquid:S1452ÿ"&Remove usage of generic wildcard type.(‰ÖÁÈùÿÿÿÿ
+=squid:S1452•"&Remove usage of generic wildcard type.(µ²²t
+>squid:S1452±"&Remove usage of generic wildcard type.(òØŸı
+Csquid:S1452Â"&Remove usage of generic wildcard type.(‘¼¥ıÿÿÿÿ
+vsquid:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(µá¬Œùÿÿÿÿ
+>squid:S1452Õ"&Remove usage of generic wildcard type.(ŒïÄ
+Csquid:S1452ê"&Remove usage of generic wildcard type.(İ€àìÿÿÿÿÿ
+Csquid:S1452¯"&Remove usage of generic wildcard type.(¦–ä»ûÿÿÿÿ
+gsquid:S00119Ğ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(­Ñáıøÿÿÿÿ
+Csquid:S1452÷"&Remove usage of generic wildcard type.(ŠìÈ úÿÿÿÿ
+>squid:S1452"&Remove usage of generic wildcard type.(œòÜ«
+>squid:S1452©"&Remove usage of generic wildcard type.(œòÜ«
+Csquid:S1452»"&Remove usage of generic wildcard type.(ªÆÉ¨ûÿÿÿÿ
+Csquid:S1602¿",Remove useless curly braces around statement(µÏ…
+Csquid:S1452Ñ"&Remove usage of generic wildcard type.(ŠìÈ úÿÿÿÿ
+Dsquid:S1602Õ",Remove useless curly braces around statement(ÆŸˆ
+Csquid:S1452ñ"&Remove usage of generic wildcard type.(Ä¯Óçøÿÿÿÿ
+Csquid:S1452Â"&Remove usage of generic wildcard type.(Ä¯Óçøÿÿÿÿ
+Csquid:S1452Ø"&Remove usage of generic wildcard type.(Ä¯Óçøÿÿÿÿ
+Csquid:S1452"&Remove usage of generic wildcard type.(Ä¯Óçøÿÿÿÿ
+>squid:S1452¯"&Remove usage of generic wildcard type.(˜ØÜÀ
+Isquid:S1602³",Remove useless curly braces around statement(Åùä°ıÿÿÿÿ
+>squid:S1452â"&Remove usage of generic wildcard type.(œòÜ«
+vsquid:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(„ºï¼ÿÿÿÿÿ
+Csquid:S1452©"&Remove usage of generic wildcard type.(¥˜±Šüÿÿÿÿ
+Dsquid:S1602®",Remove useless curly braces around statement(£ªõ«
+Csquid:S1452å"&Remove usage of generic wildcard type.(ôŞñ«üÿÿÿÿ
+>squid:S1452¥"&Remove usage of generic wildcard type.(ØÙÈø
+>squid:S1452è"&Remove usage of generic wildcard type.(çı‚ÿ
+ssquid:S4276û"VRefactor this code to use the more specialised Functional Interface 'UnaryOperator<A>'(ƒæªçşÿÿÿÿ
+>squid:S1452¶	"&Remove usage of generic wildcard type.(•¬§˜
+>squid:S1452í	"&Remove usage of generic wildcard type.(ø·Ÿ¹
+>squid:S1452«
+"&Remove usage of generic wildcard type.(¿°¾ª
+ssquid:S4276Ê
+"VRefactor this code to use the more specialised Functional Interface 'UnaryOperator<A>'(ƒæªçşÿÿÿÿ
+Csquid:S1452ê
+"&Remove usage of generic wildcard type.(ığ”Çûÿÿÿÿ
+Csquid:S1452‹"&Remove usage of generic wildcard type.(ƒƒşÿÿÿÿ
+Csquid:S1452ç"&Remove usage of generic wildcard type.(Ş–¥Ôøÿÿÿÿ
+Csquid:S1452±"&Remove usage of generic wildcard type.(Ş–¥Ôøÿÿÿÿ
+>squid:S1452ì"&Remove usage of generic wildcard type.(½àµ
+Csquid:S1452·"&Remove usage of generic wildcard type.(Ğ°²Ïüÿÿÿÿ
+Csquid:S1452ú"&Remove usage of generic wildcard type.(üäˆÑúÿÿÿÿ
+Csquid:S1452®"&Remove usage of generic wildcard type.(œàÒêşÿÿÿÿ
+Csquid:S1452É"&Remove usage of generic wildcard type.(åÿ†ùÿÿÿÿ
+qsquid:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛëÍ‚
+Csquid:S1452á"&Remove usage of generic wildcard type.(òõ³¦üÿÿÿÿ
+qsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ˆƒ
+Csquid:S1452ù"&Remove usage of generic wildcard type.(Ô¾›Àúÿÿÿÿ
+vsquid:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ–­Ÿùÿÿÿÿ
+Csquid:S2160…"+Override the "equals" method in this class.(‚ÿ»¼
+>squid:S3398¬"&Move this method into "CollectorImpl".(âØÆ´

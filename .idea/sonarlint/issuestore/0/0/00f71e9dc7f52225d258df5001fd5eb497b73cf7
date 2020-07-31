@@ -1,0 +1,38 @@
+
+Lsquid:S1191)"5Use classes from the Java API instead of Sun classes.(¼¸Ñá
+msquid:S1192è"UDefine a constant instead of duplicating this literal "invalid permission: " 3 times.(ïÊÔÃ
+isquid:S1192Ü"LDefine a constant instead of duplicating this literal "all_allowed" 3 times.(¬¹¡ıÿÿÿÿ
+isquid:S1192Û"LDefine a constant instead of duplicating this literal "permissions" 3 times.(½¡Àúÿÿÿÿÿ
+Gsquid:S1066Û"/Merge this if statement with the enclosing one.(Ñ¾¾š
+Vsquid:S4973¸"9Use the "equals" method if value comparison was intended.(ö·¼ûÿÿÿÿ
+Vsquid:S4973º"9Use the "equals" method if value comparison was intended.(û¾ĞÄüÿÿÿÿ
+Qsquid:S4973¼"9Use the "equals" method if value comparison was intended.(Ñõ¥è
+}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(¼è½Òşÿÿÿÿ
+}squid:UselessImportCheck!"TRemove this unnecessary import: same package classes are always implicitly imported.(™˜”€ùÿÿÿÿ
+xsquid:UselessImportCheck""TRemove this unnecessary import: same package classes are always implicitly imported.(»îÜ®
+}squid:UselessImportCheck#"TRemove this unnecessary import: same package classes are always implicitly imported.(Œ»ÏÊüÿÿÿÿ
+}squid:UselessImportCheck$"TRemove this unnecessary import: same package classes are always implicitly imported.(¢³ïÓşÿÿÿÿ
+Gsquid:UselessImportCheck("Remove this duplicated import.(ªº»Úıÿÿÿÿ
+Psquid:S2675ñ"3Remove the "synchronized" keyword from this method.(¤ğ¹òÿÿÿÿÿ
+jsquid:ModifiersOrderCheckx"EReorder the modifiers to comply with the Java Language Specification.(Ğğ¯Â
+ksquid:ModifiersOrderCheck€"EReorder the modifiers to comply with the Java Language Specification.(½£¼ 
+ksquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(ìƒïŠ
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ó¦ÎŠùÿÿÿÿ
+Wsquid:S1161î":Add the "@Override" annotation above this method signature(øÿÁ¹ÿÿÿÿÿ
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(ÜÑã
+Rsquid:S1161 ":Add the "@Override" annotation above this method signature(ğÜşŠ
+isquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(”ˆb
+Tsquid:S3972º"7Move this "if" to a new line or add the missing "else".(û¾ĞÄüÿÿÿÿ
+Qsquid:S1854›"9Remove this useless assignment to local variable "comma".(¿ÿª½
+Wsquid:S1161¯":Add the "@Override" annotation above this method signature(›±ÙÚúÿÿÿÿ
+Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(‘¹ÿÖşÿÿÿÿ
+tsquid:S00116¢"VRename this field "all_allowed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò—Öşÿÿÿÿ
+ssquid:S1149ğ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(²Ìˆ§şÿÿÿÿ
+nsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†Ş‘¸
+jsquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’¼Ä»
+<squid:S1659–"$Declare "offset" on a separate line.(å‡î
+gsquid:S3027š"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Ëœçşÿÿÿÿ
+Wsquid:S1068Ú":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ
+bsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ê‹ço
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ê‹ço
+hsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(¹ö¸õûÿÿÿÿ

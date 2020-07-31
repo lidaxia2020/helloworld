@@ -1,0 +1,16 @@
+
+Lsquid:S1191X"5Use classes from the Java API instead of Sun classes.(™ã£ü
+Gsquid:S1066ò"/Merge this if statement with the enclosing one.(È¬Ãµ
+Lsquid:S1066"/Merge this if statement with the enclosing one.(øéĞÚşÿÿÿÿ
+p
+squid:S135‰"YReduce the total number of break and continue statements in this loop to use at most one.(²Õ¹ß
+Qsquid:S4973â"9Use the "equals" method if value comparison was intended.(Âİú“
+Vsquid:S4973è"9Use the "equals" method if value comparison was intended.(ŒÆ¶Õúÿÿÿÿ
+Qsquid:S4973ò"9Use the "equals" method if value comparison was intended.(È¬Ãµ
+Qsquid:S4973"9Use the "equals" method if value comparison was intended.(ÔµôÙ
+Vsquid:S4973“"9Use the "equals" method if value comparison was intended.(ìã¨Úıÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(øéĞÚşÿÿÿÿ
+Tsquid:S1197|"8Move the array designator from the variable to the type.(óÄ‹“ùÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(àãñµøÿÿÿÿ
+osquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(¶¥ÓÍÿÿÿÿÿ
+bsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(›öÑh

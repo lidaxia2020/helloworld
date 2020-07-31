@@ -1,0 +1,8 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÑøŠÑ
+csquid:S1192­"FDefine a constant instead of duplicating this literal "empty" 5 times.(ó´¶“øÿÿÿÿ
+[squid:S2259Ë"CA "NullPointerException" could be thrown; "input" is nullable here.(êœŠ
+>squid:S1168"&Return an empty array instead of null.(¥¹ï
+osquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(„ä‰ïşÿÿÿÿ
+]squid:S2147Î"ECombine this catch with the one at line 204, which has the same body.(€àÈ„
+\squid:CallToDeprecatedMethodŞ".Remove this use of "Base64"; it is deprecated.(ÖèŒ£ûÿÿÿÿ

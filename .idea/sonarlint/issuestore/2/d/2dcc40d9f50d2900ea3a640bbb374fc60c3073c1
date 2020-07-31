@@ -1,0 +1,11 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
+_squid:S2259ƒ"GA "NullPointerException" could be thrown; "baseClass" is nullable here.(¨õÏš
+_squid:S00112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(‚ìûş
+isquid:ModifiersOrderCheckI"EReorder the modifiers to comply with the Java Language Specification.(¥ÌîZ
+jsquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¨ıÏ¬
+vsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çúüÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck‹"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(Ó¢ÅÚúÿÿÿÿ
+jsquid:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ñ¸àù
+Csquid:S1168³"+Return an empty collection instead of null.(¥¹ï
+vsquid:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òù®©ıÿÿÿÿ

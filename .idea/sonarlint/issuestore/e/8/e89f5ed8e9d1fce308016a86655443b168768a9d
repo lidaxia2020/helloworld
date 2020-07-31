@@ -1,0 +1,14 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(Ó¢¸ìûÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÏŠ
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌàÂ
+wsquid:S00115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬‹•Ôÿÿÿÿÿ
+rsquid:S00115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ßµ•
+wsquid:S00115@"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²¬ºıÿÿÿÿ
+wsquid:S00115C"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸§Ï™şÿÿÿÿ
+wsquid:S00115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îêÛÁşÿÿÿÿ
+wsquid:S00115U"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾İÿ¢üÿÿÿÿ
+]squid:S1075V"ARefactor your code to get this URI from a customizable parameter.(ãÑšÿÿÿÿÿ
+Psquid:S1197‹"8Move the array designator from the variable to the type.(¸õÆ
+Osquid:S1135¾"2Complete the task associated to this TODO comment.(¿ôÄªøÿÿÿÿ
+Jsquid:S1135Â"2Complete the task associated to this TODO comment.(÷€Œ“

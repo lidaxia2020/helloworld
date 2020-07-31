@@ -1,0 +1,9 @@
+
+… squid:ForLoopCounterChangedCheckª"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+… squid:ForLoopCounterChangedCheck»"XRefactor the code in order to not assign to this loop counter from within the loop body.(…Æİµ
+… squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
+~"squid:ClassVariableVisibilityCheckõ"OMake key a static final constant or non-public and provide accessors if needed.(×¯æì
+…"squid:ClassVariableVisibilityCheckö"QMake value a static final constant or non-public and provide accessors if needed.(’åéäøÿÿÿÿ
+~"squid:ClassVariableVisibilityCheckø"PMake next a static final constant or non-public and provide accessors if needed.(ƒÊø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,18 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ðÔñ¯ýÿÿÿÿ
+?squid:S1604J"(Make this anonymous inner class a lambda(±øÿ¼
+?squid:S1604W"(Make this anonymous inner class a lambda(±øÿ¼
+?squid:S1604d"(Make this anonymous inner class a lambda(±øÿ¼
+>squid:S1604t"(Make this anonymous inner class a lambda(ÎõåK
+Esquid:S1604™"(Make this anonymous inner class a lambda(”ó¾ýúÿÿÿÿ
+Esquid:S1604Ä"(Make this anonymous inner class a lambda(Ôâ¶•ûÿÿÿÿ
+Esquid:S1604Õ"(Make this anonymous inner class a lambda(ù³×Æûÿÿÿÿ
+@squid:S1604Ý"(Make this anonymous inner class a lambda(Æ¢ŠÜ
+Esquid:S1604å"(Make this anonymous inner class a lambda( ¨ž£ÿÿÿÿÿ
+usquid:UselessImportCheck&"QRemove this unnecessary import: java.lang classes are always implicitly imported.(‘“ê¢
+Fsquid:S00108O")Either remove or fill this block of code.(óÇÃËýÿÿÿÿ
+Fsquid:S00108\")Either remove or fill this block of code.(óÇÃËýÿÿÿÿ
+Fsquid:S00108i")Either remove or fill this block of code.(óÇÃËýÿÿÿÿ
+6squid:S2129ç"Remove this "Long" constructor(Ã”½¸
+Usquid:CallToDeprecatedMethodç",Remove this use of "Long"; it is deprecated.(Ã”½¸
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

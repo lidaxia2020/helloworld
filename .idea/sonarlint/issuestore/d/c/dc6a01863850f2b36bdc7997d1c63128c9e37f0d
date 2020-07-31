@@ -1,0 +1,19 @@
+
+Msquid:S1191Š"5Use classes from the Java API instead of Sun classes.(ÃŒÍ£
+jsquid:S2095É"MUse try-with-resources or close this "DirectoryStream" in a "finally" clause.(ÚÊ˜îúÿÿÿÿ
+@squid:S1604‡"(Make this anonymous inner class a lambda(‹’äÈ
+@squid:S1604ˆ"(Make this anonymous inner class a lambda(¼ø‡á
+@squid:S1604‘"(Make this anonymous inner class a lambda(Â²Ñˆ
+Isquid:S1612ú",Replace this lambda with a method reference.(ÿ¸˜•úÿÿÿÿ
+Isquid:S1612ì",Replace this lambda with a method reference.(ÿ¸˜•úÿÿÿÿ
+vsquid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØäÍÿÿÿÿÿ
+\squid:S3725"?Replace this with a call to the "toFile().isDirectory()" method(ƒ•ìøÿÿÿÿ
+osquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(©¬Àúÿÿÿÿ
+>squid:S1181•"!Catch Exception instead of Error.(ü¬©îÿÿÿÿÿ
+Bsquid:S1181›"%Catch Exception instead of Throwable.(ôÃïåýÿÿÿÿ
+Gsquid:S00108›")Either remove or fill this block of code.(ôÃïåýÿÿÿÿ
+>squid:S1181û"!Catch Exception instead of Error.(ü¬©îÿÿÿÿÿ
+>squid:S1181í"!Catch Exception instead of Error.(ü¬©îÿÿÿÿÿ
+>squid:S1181£"!Catch Exception instead of Error.(ü¬©îÿÿÿÿÿ
+Bsquid:S1181©"%Catch Exception instead of Throwable.(ôÃïåýÿÿÿÿ
+Gsquid:S00108©")Either remove or fill this block of code.(ôÃïåýÿÿÿÿ

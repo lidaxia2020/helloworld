@@ -1,0 +1,5 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(“ÀÝ¬
+lsquid:S1206y"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+Qsquid:S1161\":Add the "@Override" annotation above this method signature(Á»›ê
+Vsquid:S1161y":Add the "@Override" annotation above this method signature(Ý¢êÍýÿÿÿÿ

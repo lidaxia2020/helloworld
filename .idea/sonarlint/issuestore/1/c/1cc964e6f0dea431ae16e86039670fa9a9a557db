@@ -1,0 +1,10 @@
+
+isquid:S1192¯"LDefine a constant instead of duplicating this literal "permissions" 3 times.(½¡Àúÿÿÿÿÿ
+nsquid:S1149Ã"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ø®ÁÍ
+|squid:S1149Ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¶ßÈ<
+nsquid:S1149í"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ø®ÁÍ
+}squid:S1149ö"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÅåÿ
+psquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(Áã‘Â
+psquid:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶äò
+vsquid:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶˜èıÿÿÿÿ
+Wsquid:S1068®":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ

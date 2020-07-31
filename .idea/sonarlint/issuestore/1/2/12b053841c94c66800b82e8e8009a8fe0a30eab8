@@ -1,0 +1,14 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+nsquid:S00117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ë²áıÿÿÿÿ
+osquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„áøÿÿÿÿ
+osquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„áøÿÿÿÿ
+osquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„áøÿÿÿÿ
+osquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äø»Şúÿÿÿÿ
+jsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ıà
+vsquid:S1149¼"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹èËg
+Á%squid:RedundantThrowsDeclarationChecky"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(éõÕ—ıÿÿÿÿ
+wsquid:CallToDeprecatedMethodx"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(×Ë²áıÿÿÿÿ
+]squid:CallToDeprecatedMethod{"5Remove this use of "FieldOrMethod"; it is deprecated.(ÒÂ€
+Dsquid:S1659´"'Declare "signature" on a separate line.(ÎÁĞÁÿÿÿÿÿ
+Asquid:S1659´"$Declare "access" on a separate line.(ÎÁĞÁÿÿÿÿÿ

@@ -1,0 +1,14 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ﬁƒˇ·
+[squid:S2583["DChange this condition so that it does not always evaluate to "false"(‰ûß≥
+}squid:S1149≈"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ëî´œ
+}squid:S1149è"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ñßı†
+|squid:S1149ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õπÇ
+}squid:S1149≈"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ëî´œ
+}squid:S1149è"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ñßı†
+|squid:S1149ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õπÇ
+Asquid:S1125Û")Remove the literal "false" boolean value.(—®¯Ÿ
+?squid:S1125å"(Remove the literal "true" boolean value.(Ø»Ïw
+Gsquid:EmptyStatementUsageCheckï"Remove this empty statement.(ÁÀÉÿ
+Bsquid:S1068ì"*Remove this unused "parent" private field.(√ª–›
+gsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(·®Ó˚ˇˇˇˇˇ

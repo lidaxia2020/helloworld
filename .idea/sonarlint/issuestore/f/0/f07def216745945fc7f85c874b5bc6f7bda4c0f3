@@ -1,0 +1,35 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+tsquid:S1488õ"\Immediately return this expression instead of assigning it to the temporary variable "next".(ºì‰Ú
+ksquid:S00101õ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êğıÿÿÿÿ
+dsquid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(¸‘şÿÿÿÿÿ
+{squid:S1450–"^Remove the "m_mustHardReset" field and declare it as a local variable in the relevant methods.(ÀÉëÕøÿÿÿÿ
+osquid:S00116‘"QRename this field "m_expr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«•¾—úÿÿÿÿ
+msquid:S00116”"TRename this field "m_exprObj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŸé“
+xsquid:S00116–"ZRename this field "m_mustHardReset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÉëÕøÿÿÿÿ
+vsquid:S00116—"]Rename this field "m_canDetachNodeset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÔŠø
+}squid:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+Qsquid:S1161Y":Add the "@Override" annotation above this method signature(ù•
+a
+squid:S128c"LEnd this switch case with an unconditional break, return or throw statement.(¯ó¾"
+Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(¶ÕŠ¹
+Rsquid:S1161 ":Add the "@Override" annotation above this method signature(Ê–Ï™
+psquid:S2975¶"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
+Wsquid:S1161¶":Add the "@Override" annotation above this method signature(ŒÉ¯æşÿÿÿÿ
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature(ãö¶™ıÿÿÿÿ
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(ŞØ¸«üÿÿÿÿ
+Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(ÁòÙÃ
+ksquid:ModifiersOrderCheck”"EReorder the modifiers to comply with the Java Language Specification.(öŸé“
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature(ì¦³»ùÿÿÿÿ
+asquid:S4201Ï"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÍåÂÂ
+Rsquid:S1161á":Add the "@Override" annotation above this method signature(áı¼ü
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(™³€áøÿÿÿÿ
+Wsquid:S1161˜":Add the "@Override" annotation above this method signature(İì÷—ÿÿÿÿÿ
+Wsquid:S1161¥":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
+^squid:S1126«"AReplace this if-then-else statement by a single return statement.(¦¶È¤şÿÿÿÿ
+Psquid:S1068–"3Remove this unused "m_mustHardReset" private field.(ÀÉëÕøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+gsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(½†±ëùÿÿÿÿ
+gsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ğº¼úÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(‰…ŒØÿÿÿÿÿ

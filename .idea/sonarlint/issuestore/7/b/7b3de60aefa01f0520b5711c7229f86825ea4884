@@ -1,0 +1,29 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÊËº”ıÿÿÿÿ
+}squid:UselessImportCheck)"TRemove this unnecessary import: same package classes are always implicitly imported.(¡Ãûûúÿÿÿÿ
+}squid:UselessImportCheck*"TRemove this unnecessary import: same package classes are always implicitly imported.(‹Ã“”ûÿÿÿÿ
+csquid:UselessImportCheck!"?Remove this unused import 'org.omg.PortableInterceptor.ACTIVE'.(±ö¬Š
+nsquid:S001168"VRename this field "_iorWrapper" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤·‹á
+usquid:S001169"]Rename this field "_invocationWrapper" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŒÃ
+ysquid:S00116:"\Rename this field "_lifecycleWrapper" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŞï“şÿÿÿÿ
+}squid:S00116;"`Rename this field "_omgInvocationWrapper" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü·’­øÿÿÿÿ
+vsquid:S00116<"_Rename this field "_omgLifecycleWrapper" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¯ë 
+osquid:ModifiersOrderCheck2"EReorder the modifiers to comply with the Java Language Specification.(êªÏÂıÿÿÿÿ
+osquid:ModifiersOrderChecks"EReorder the modifiers to comply with the Java Language Specification.( ™ˆ€ÿÿÿÿÿ
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Š¥³Çøÿÿÿÿ
+psquid:ModifiersOrderCheck”"EReorder the modifiers to comply with the Java Language Specification.(ïŸ‹“üÿÿÿÿ
+ksquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(ÈßÚÑ
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(éŒ£üÿÿÿÿ
+ksquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(É—’Ü
+psquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(ÛËÚàÿÿÿÿÿ
+psquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(Õ¢Ôüÿÿÿÿ
+psquid:ModifiersOrderCheck©"EReorder the modifiers to comply with the Java Language Specification.(òì±¶øÿÿÿÿ
+psquid:ModifiersOrderCheck®"EReorder the modifiers to comply with the Java Language Specification.(éÿ«Ôÿÿÿÿÿ
+psquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(½‚“„ûÿÿÿÿ
+psquid:ModifiersOrderCheck¸"EReorder the modifiers to comply with the Java Language Specification.(¢—³Óùÿÿÿÿ
+jsquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(ƒòÁ=
+ksquid:ModifiersOrderCheck¼"EReorder the modifiers to comply with the Java Language Specification.(¾À¦ú
+ksquid:ModifiersOrderCheck¾"EReorder the modifiers to comply with the Java Language Specification.(—ªÏ
+psquid:ModifiersOrderCheckÀ"EReorder the modifiers to comply with the Java Language Specification.(Ş’İùÿÿÿÿ
+ksquid:ModifiersOrderCheckÂ"EReorder the modifiers to comply with the Java Language Specification.(”î°
+ksquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(Äç¶ˆ

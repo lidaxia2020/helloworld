@@ -1,0 +1,23 @@
+
+`squid:S2184è"CCast one of the operands of this subtraction operation to a "long".(ËïíÙıÿÿÿÿ
+p
+squid:S135ˆ"YReduce the total number of break and continue statements in this loop to use at most one.(åŒÿ¶
+|squid:S1149É"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ıÁ‚ëøÿÿÿÿ
+wsquid:S1149Ş"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹¬·
+Vsquid:S4719Ì"9Replace charset name argument with StandardCharsets.UTF_8( ×Õ¡şÿÿÿÿ
+Wsquid:CallToDeprecatedMethodÍ".Remove this use of "String"; it is deprecated.(ªœ·œ
+3squid:S3626è"Remove this redundant jump.(ûÁİ…
+osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(áşòîøÿÿÿÿ
+Asquid:S1659ÿ"$Declare "acount" on a separate line.(Á”Ûüÿÿÿÿ
+Psquid:S4719©"9Replace charset name argument with StandardCharsets.UTF_8(„¥Õ[
+[squid:HiddenFieldCheck¬"8Rename "attr" which hides the field declared at line 58.(ö‹È¯
+Vsquid:S4719Ã"9Replace charset name argument with StandardCharsets.UTF_8(·Ä²øÿÿÿÿ
+Gsquid:S00108Å")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+ksquid:S2975ı"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+`squid:S1182ı"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+Psquid:S1197ˆ"8Move the array designator from the variable to the type.(íÊÄ
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(Ä…©
+Rsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(ÂãíÕ
+Wsquid:S1161ä":Add the "@Override" annotation above this method signature(ÀÅ¿İùÿÿÿÿ
+Wsquid:S1161ó":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+Wsquid:S1161÷":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

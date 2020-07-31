@@ -1,0 +1,106 @@
+
+^squid:S2184ù"ACast one of the operands of this division operation to a "float".(òâ ıÿÿÿÿ
+… squid:ForLoopCounterChangedCheck±"XRefactor the code in order to not assign to this loop counter from within the loop body.(…ùéŒ
+… squid:ForLoopCounterChangedCheck²"XRefactor the code in order to not assign to this loop counter from within the loop body.(æÇúĞ
+Š squid:ForLoopCounterChangedCheck³"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ò™«Ûøÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¹"XRefactor the code in order to not assign to this loop counter from within the loop body.(Øöëóıÿÿÿÿ
+… squid:ForLoopCounterChangedCheckÌ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ğè­Å
+… squid:ForLoopCounterChangedCheckÍ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÓ­Ò
+Š squid:ForLoopCounterChangedCheckÎ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÄïÃÜúÿÿÿÿ
+… squid:ForLoopCounterChangedCheckĞ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÖÅùˆ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶å¤
+^squid:S1192Ç"FDefine a constant instead of duplicating this literal "value" 6 times.(Å¸¯ô
+dsquid:S1192Œ"MDefine a constant instead of duplicating this literal "BMPMetadata1" 3 times.(µŸçZ
+^squid:S1192›"FDefine a constant instead of duplicating this literal "Green" 3 times.(ŒÿŠÿ
+„"squid:ClassVariableVisibilityCheck0"VMake bmpVersion a static final constant or non-public and provide accessors if needed.(àó´å
+"squid:ClassVariableVisibilityCheck1"QMake width a static final constant or non-public and provide accessors if needed.(øÂ½
+€"squid:ClassVariableVisibilityCheck2"RMake height a static final constant or non-public and provide accessors if needed.(ñ½
+‹"squid:ClassVariableVisibilityCheck3"XMake bitsPerPixel a static final constant or non-public and provide accessors if needed.(€µºŞıÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck4"WMake compression a static final constant or non-public and provide accessors if needed.(„°µİ
+ˆ"squid:ClassVariableVisibilityCheck5"UMake imageSize a static final constant or non-public and provide accessors if needed.(ÒÀúÊıÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck8"[Make xPixelsPerMeter a static final constant or non-public and provide accessors if needed.(©Õğ§
+‰"squid:ClassVariableVisibilityCheck9"[Make yPixelsPerMeter a static final constant or non-public and provide accessors if needed.(ÿ³Ğ
+‰"squid:ClassVariableVisibilityCheck;"VMake colorsUsed a static final constant or non-public and provide accessors if needed.(‡¡åàşÿÿÿÿ
+"squid:ClassVariableVisibilityCheck<"[Make colorsImportant a static final constant or non-public and provide accessors if needed.(ù–„Íúÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck?"SMake redMask a static final constant or non-public and provide accessors if needed.(¸’ÕÑüÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck@"UMake greenMask a static final constant or non-public and provide accessors if needed.(©“ÖÃşÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheckA"TMake blueMask a static final constant or non-public and provide accessors if needed.(—»Î¡
+ˆ"squid:ClassVariableVisibilityCheckB"UMake alphaMask a static final constant or non-public and provide accessors if needed.(ªéù—ùÿÿÿÿ
+„"squid:ClassVariableVisibilityCheckD"VMake colorSpace a static final constant or non-public and provide accessors if needed.(òê‘
+~"squid:ClassVariableVisibilityCheckG"PMake redX a static final constant or non-public and provide accessors if needed.(˜«·
+ƒ"squid:ClassVariableVisibilityCheckH"PMake redY a static final constant or non-public and provide accessors if needed.(×ßŒûÿÿÿÿ
+~"squid:ClassVariableVisibilityCheckI"PMake redZ a static final constant or non-public and provide accessors if needed.(ü‹ğÓ
+€"squid:ClassVariableVisibilityCheckJ"RMake greenX a static final constant or non-public and provide accessors if needed.(øêô
+€"squid:ClassVariableVisibilityCheckK"RMake greenY a static final constant or non-public and provide accessors if needed.(»ÊîØ
+"squid:ClassVariableVisibilityCheckL"RMake greenZ a static final constant or non-public and provide accessors if needed.(Úİ–9
+"squid:ClassVariableVisibilityCheckM"QMake blueX a static final constant or non-public and provide accessors if needed.(¢šëí
+„"squid:ClassVariableVisibilityCheckN"QMake blueY a static final constant or non-public and provide accessors if needed.(¦ü‚öüÿÿÿÿ
+~"squid:ClassVariableVisibilityCheckO"QMake blueZ a static final constant or non-public and provide accessors if needed.(à»Š#
+‚"squid:ClassVariableVisibilityCheckR"TMake gammaRed a static final constant or non-public and provide accessors if needed.(äÊü£
+‰"squid:ClassVariableVisibilityCheckS"VMake gammaGreen a static final constant or non-public and provide accessors if needed.(»Õİ¥üÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheckT"UMake gammaBlue a static final constant or non-public and provide accessors if needed.(Ë«
+€"squid:ClassVariableVisibilityCheckV"RMake intent a static final constant or non-public and provide accessors if needed.(À±ôø
+"squid:ClassVariableVisibilityCheckY"SMake palette a static final constant or non-public and provide accessors if needed.(ä¯äå
+Š"squid:ClassVariableVisibilityCheckZ"WMake paletteSize a static final constant or non-public and provide accessors if needed.(™ÀÊ®øÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck["OMake red a static final constant or non-public and provide accessors if needed.(¼•áæ
+"squid:ClassVariableVisibilityCheck\"QMake green a static final constant or non-public and provide accessors if needed.(üŒóÈ
+ƒ"squid:ClassVariableVisibilityCheck]"PMake blue a static final constant or non-public and provide accessors if needed.(æ®°Ñÿÿÿÿÿ
+"squid:ClassVariableVisibilityChecka"TMake comments a static final constant or non-public and provide accessors if needed.(£“è
+fsquid:UselessImportCheck!"=Remove this unused import 'javax.imageio.ImageTypeSpecifier'.(ıÒ´½ÿÿÿÿÿ
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+nsquid:UselessImportCheck$"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
+_squid:S2387,"C"nativeMetadataFormatName" is the name of a field in "IIOMetadata".(š—úÿÿÿÿ
+wsquid:S00115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š—úÿÿÿÿ
+Zsquid:S4719{">Replace charset name argument with StandardCharsets.ISO_8859_1(¯–Æ—üÿÿÿÿ
+Usquid:S1854¦"8Remove this useless assignment to local variable "node".(—à£üÿÿÿÿ
+9squid:S2129†"!Remove this "Integer" constructor(ääĞ‚
+Xsquid:CallToDeprecatedMethod†"/Remove this use of "Integer"; it is deprecated.(ääĞ‚
+8squid:S2129‡"!Remove this "Integer" constructor(Ñ÷üq
+Wsquid:CallToDeprecatedMethod‡"/Remove this use of "Integer"; it is deprecated.(Ñ÷üq
+7squid:S2129ˆ"Remove this "Short" constructor(Ğî³ì
+Vsquid:CallToDeprecatedMethodˆ"-Remove this use of "Short"; it is deprecated.(Ğî³ì
+>squid:S2129‰"!Remove this "Integer" constructor(Ïšâçüÿÿÿÿ
+]squid:CallToDeprecatedMethod‰"/Remove this use of "Integer"; it is deprecated.(Ïšâçüÿÿÿÿ
+9squid:S2129Š"!Remove this "Integer" constructor(—¡¢Ï
+Xsquid:CallToDeprecatedMethodŠ"/Remove this use of "Integer"; it is deprecated.(—¡¢Ï
+>squid:S2129"!Remove this "Integer" constructor(Á”¦İúÿÿÿÿ
+]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(Á”¦İúÿÿÿÿ
+9squid:S2129"!Remove this "Integer" constructor(›ƒ¯º
+Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(›ƒ¯º
+9squid:S2129"!Remove this "Integer" constructor(é°Š™
+Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(é°Š™
+9squid:S2129‘"!Remove this "Integer" constructor(ˆÓé
+Xsquid:CallToDeprecatedMethod‘"/Remove this use of "Integer"; it is deprecated.(ˆÓé
+9squid:S2129š"!Remove this "Integer" constructor(Ş¨óà
+Xsquid:CallToDeprecatedMethodš"/Remove this use of "Integer"; it is deprecated.(Ş¨óà
+9squid:S2129›"!Remove this "Integer" constructor(ŒÿŠÿ
+Xsquid:CallToDeprecatedMethod›"/Remove this use of "Integer"; it is deprecated.(ŒÿŠÿ
+9squid:S2129œ"!Remove this "Integer" constructor(¶²àœ
+Xsquid:CallToDeprecatedMethodœ"/Remove this use of "Integer"; it is deprecated.(¶²àœ
+>squid:S2129"!Remove this "Integer" constructor(ÔËÄ‚øÿÿÿÿ
+]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ÔËÄ‚øÿÿÿÿ
+9squid:S2129Ÿ"!Remove this "Integer" constructor(…¨îå
+Xsquid:CallToDeprecatedMethodŸ"/Remove this use of "Integer"; it is deprecated.(…¨îå
+>squid:S2129¦"!Remove this "Integer" constructor(—à£üÿÿÿÿ
+]squid:CallToDeprecatedMethod¦"/Remove this use of "Integer"; it is deprecated.(—à£üÿÿÿÿ
+6squid:S2129´"Remove this "Byte" constructor(ãıùó
+Usquid:CallToDeprecatedMethod´",Remove this use of "Byte"; it is deprecated.(ãıùó
+;squid:S2129µ"Remove this "Byte" constructor(ôºß³ıÿÿÿÿ
+Zsquid:CallToDeprecatedMethodµ",Remove this use of "Byte"; it is deprecated.(ôºß³ıÿÿÿÿ
+;squid:S2129¶"Remove this "Byte" constructor(¼ÔÃÎûÿÿÿÿ
+Zsquid:CallToDeprecatedMethod¶",Remove this use of "Byte"; it is deprecated.(¼ÔÃÎûÿÿÿÿ
+;squid:S2129¹"Remove this "Byte" constructor(Øöëóıÿÿÿÿ
+Zsquid:CallToDeprecatedMethod¹",Remove this use of "Byte"; it is deprecated.(Øöëóıÿÿÿÿ
+Wsquid:S1161Á":Add the "@Override" annotation above this method signature(íˆ˜ïşÿÿÿÿ
+Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(ò§øø
+Rsquid:S1161ä":Add the "@Override" annotation above this method signature(ºà¾æ
+Wsquid:S1161ö":Add the "@Override" annotation above this method signature(ú§¾êÿÿÿÿÿ
+Rsquid:S1161‹":Add the "@Override" annotation above this method signature(íÏò€
+=squid:S2129¤" Remove this "Double" constructor(Ôİ õøÿÿÿÿ
+\squid:CallToDeprecatedMethod¤".Remove this use of "Double"; it is deprecated.(Ôİ õøÿÿÿÿ
+=squid:S2129¥" Remove this "Double" constructor(•ì†£ıÿÿÿÿ
+\squid:CallToDeprecatedMethod¥".Remove this use of "Double"; it is deprecated.(•ì†£ıÿÿÿÿ
+8squid:S2129¦" Remove this "Double" constructor(¬¸ìú
+Wsquid:CallToDeprecatedMethod¦".Remove this use of "Double"; it is deprecated.(¬¸ìú
+Xsquid:UnusedPrivateMethody".Remove this unused private "toISO8859" method.(®·İÓùÿÿÿÿ
+asquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(£“è

@@ -1,0 +1,39 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
+esquid:S00101Z"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñİ™—
+Ysquid:S2259™"AA "NullPointerException" could be thrown; "obj" is nullable here.(×ŒÛ½
+Dsquid:S1604o"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
+jsquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÑ¯É
+jsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ï´›
+@squid:S1148‡"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
+8squid:S1170V"!Make this final field static too.(©ç¾À
+ˆsquid:S1845Å"pRename method "write_Value" to prevent any misunderstanding/clash with method "write_value" defined on line 489.(‚ã‡ç
+squid:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§Æ‚ôøÿÿÿÿ
+wsquid:S1149˜"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÄÍ°”
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(€Ûˆùÿÿÿÿ
+3squid:S3626‹"Remove this redundant jump.(ûÁİ…
+gsquid:S00100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£›œ”
+fsquid:S4201†"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Å‹—Æúÿÿÿÿ
+jsquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(•¿ßï
+P
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(²íâ•
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(öì§øÿÿÿÿ
+U
+squid:S106×"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Bsquid:S1181†"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+U
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(¨Üƒ¤úÿÿÿÿ
+P
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(×•œ²
+P
+squid:S106„"9Replace this use of System.out or System.err by a logger.(ÀÜïÍ
+U
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ËæÙşÿÿÿÿ
+Jsquid:S1068P"3Remove this unused "encodingVersion" private field.(×¨”ì
+csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(±¼ÊÇ
+hsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(¢¡™±şÿÿÿÿ
+hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(ü¸Ã‡üÿÿÿÿ
+hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(ÏÇ‚•üÿÿÿÿ

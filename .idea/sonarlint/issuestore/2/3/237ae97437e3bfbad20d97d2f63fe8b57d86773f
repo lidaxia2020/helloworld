@@ -1,0 +1,19 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
+tsquid:S00116I"WRename this field "_transformer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‘¡Áÿÿÿÿÿ
+qsquid:S00116J"TRename this field "_translet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ú†Àÿÿÿÿÿ
+qsquid:S00116K"TRename this field "_systemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¤šØüÿÿÿÿ
+lsquid:S00116L"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğæã·ÿÿÿÿÿ
+psquid:S00116M"SRename this field "_handler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìŒÎºøÿÿÿÿ
+nsquid:S00116N"VRename this field "_lexHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§Å±
+nsquid:S00116O"VRename this field "_dtdHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ–É•
+tsquid:S00116P"WRename this field "_declHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åşÃŸşÿÿÿÿ
+osquid:S00116Q"RRename this field "_result" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£Ş†ÿÿÿÿÿ
+ksquid:S00116R"SRename this field "_locator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ìõõ
+gsquid:S00116T"PRename this field "_done" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã÷§
+ssquid:S00116]"VRename this field "_isIdentity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü£¨ñüÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck®"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¾¥ÁÁşÿÿÿÿ
+Asquid:S1125ï")Remove the literal "false" boolean value.(”Š¼Œ
+asquid:S4201û"IRemove this unnecessary null check; "instanceof" returns false for nulls.(à£Ô»
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(µíÈÂ

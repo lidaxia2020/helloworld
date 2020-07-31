@@ -1,0 +1,28 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+d$squid:AssignmentInSubExpressionCheckù".Extract the assignment out of this expression.( ¨„Ëùÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck–".Extract the assignment out of this expression.(ˆ¢Ç³
+_$squid:AssignmentInSubExpressionCheckª".Extract the assignment out of this expression.(½–Ù³
+_$squid:AssignmentInSubExpressionCheck±".Extract the assignment out of this expression.(½–Ù³
+u
+squid:S135‚"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+gsquid:S00116Q"ORename this field "_exp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Šçâ
+tsquid:S00116["WRename this field "_canOptimize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒêÀÿÿÿÿÿ
+usquid:S00116d"]Rename this field "_nthPositionFilter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¨Á§
+vsquid:S00116m"YRename this field "_nthDescendant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ç §üÿÿÿÿ
+nsquid:S00116u"QRename this field "_ptype" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÔÖëûÿÿÿÿ
+rsquid:S00116}"URename this field "_className" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©µá®ûÿÿÿÿ
+psquid:S00116…"WRename this field "_closureVars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯³Ò°
+wsquid:S00116"YRename this field "_parentClosure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°äàÅùÿÿÿÿ
+osquid:S00116•"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ìº˜üÿÿÿÿ
+nsquid:S00116"PRename this field "_step" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¹­Êøÿÿÿÿ
+Rsquid:S1161±":Add the "@Override" annotation above this method signature(­‘“
+Rsquid:S1161İ":Add the "@Override" annotation above this method signature(–ğ±Ø
+Wsquid:S1161è":Add the "@Override" annotation above this method signature(ªß­¦ùÿÿÿÿ
+osquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(šíïÿÿÿÿÿ
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+Asquid:S1125ˆ")Remove the literal "false" boolean value.(üÙ´‹
+Fsquid:S1125®")Remove the literal "false" boolean value.(Ì¢¹ÿÿÿÿÿ
+Msquid:S1172À"0Remove this unused method parameter "methodGen".(ÌÙùûÿÿÿÿ
+Rsquid:S1161Æ":Add the "@Override" annotation above this method signature(†“‹Ø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(÷ýá…ÿÿÿÿÿ
+™squid:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à˜¹¯
+rsquid:S1149i"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ê‹ÉÐüÿÿÿÿ
+Jsquid:S2755Ï"-Disable XML external entity (XXE) processing.(½·ëÆýÿÿÿÿ
+asquid:CallToDeprecatedMethod÷"3Remove this use of "newInstance"; it is deprecated.(¼·ÿ¹ùÿÿÿÿ
+ª%squid:RedundantThrowsDeclarationCheck£"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(’ðË#
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

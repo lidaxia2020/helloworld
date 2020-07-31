@@ -1,0 +1,58 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
+dsquid:S1192û"GDefine a constant instead of duplicating this literal "value" 12 times.(ŸÄôØùÿÿÿÿ
+hsquid:S1192‰"KDefine a constant instead of duplicating this literal "ISO-8859-1" 3 times.(¯–Æ—üÿÿÿÿ
+osquid:S1192¯"WDefine a constant instead of duplicating this literal "Metadata is read-only!" 4 times.(ØŸ»¾
+csquid:S1192"FDefine a constant instead of duplicating this literal "FALSE" 4 times.(ˆË´Üùÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck;"]Make imageLeftPosition a static final constant or non-public and provide accessors if needed.(À„¼`
+"squid:ClassVariableVisibilityCheck<"\Make imageTopPosition a static final constant or non-public and provide accessors if needed.(İŠ˜Ãıÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck="VMake imageWidth a static final constant or non-public and provide accessors if needed.(óİıúÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck>"WMake imageHeight a static final constant or non-public and provide accessors if needed.(Â«Ìéúÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck?"YMake interlaceFlag a static final constant or non-public and provide accessors if needed.(Æ¡ÍÙüÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck@"TMake sortFlag a static final constant or non-public and provide accessors if needed.(Şº´¿üÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckA"[Make localColorTable a static final constant or non-public and provide accessors if needed.(œÜ¼ê
+ˆ"squid:ClassVariableVisibilityCheckD"ZMake disposalMethod a static final constant or non-public and provide accessors if needed.(Íı¸Õ
+Œ"squid:ClassVariableVisibilityCheckE"YMake userInputFlag a static final constant or non-public and provide accessors if needed.(’Î­úÿÿÿÿ
+“"squid:ClassVariableVisibilityCheckF"`Make transparentColorFlag a static final constant or non-public and provide accessors if needed.(ô¹¬ìøÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheckG"UMake delayTime a static final constant or non-public and provide accessors if needed.(”Ü¦Ò
+”"squid:ClassVariableVisibilityCheckH"aMake transparentColorIndex a static final constant or non-public and provide accessors if needed.(—œáøûÿÿÿÿ
+”"squid:ClassVariableVisibilityCheckK"aMake hasPlainTextExtension a static final constant or non-public and provide accessors if needed.(—âç·ıÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckL"XMake textGridLeft a static final constant or non-public and provide accessors if needed.(Ú¦ƒ£
+…"squid:ClassVariableVisibilityCheckM"WMake textGridTop a static final constant or non-public and provide accessors if needed.(…¼Ó¸
+‡"squid:ClassVariableVisibilityCheckN"YMake textGridWidth a static final constant or non-public and provide accessors if needed.(İš 
+ˆ"squid:ClassVariableVisibilityCheckO"ZMake textGridHeight a static final constant or non-public and provide accessors if needed.(ü˜²È
+Œ"squid:ClassVariableVisibilityCheckP"^Make characterCellWidth a static final constant or non-public and provide accessors if needed.(óÒ€
+’"squid:ClassVariableVisibilityCheckQ"_Make characterCellHeight a static final constant or non-public and provide accessors if needed.(ÙÏ•ùÿÿÿÿ
+’"squid:ClassVariableVisibilityCheckR"_Make textForegroundColor a static final constant or non-public and provide accessors if needed.(ŸÖ¹üøÿÿÿÿ
+"squid:ClassVariableVisibilityCheckS"_Make textBackgroundColor a static final constant or non-public and provide accessors if needed.(àŞÅå
+ƒ"squid:ClassVariableVisibilityCheckT"PMake text a static final constant or non-public and provide accessors if needed.(ôËÇŠÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheckX"ZMake applicationIDs a static final constant or non-public and provide accessors if needed.(ùğÚ¯şÿÿÿÿ
+’"squid:ClassVariableVisibilityCheck["_Make authenticationCodes a static final constant or non-public and provide accessors if needed.(Ï…êıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck^"[Make applicationData a static final constant or non-public and provide accessors if needed.(ÖÛÑºÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheckb"TMake comments a static final constant or non-public and provide accessors if needed.(£“è
+dsquid:S00112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(²®íÁúÿÿÿÿ
+jsquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŒ™Û
+osquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÇÌ›úÿÿÿÿ
+osquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÅµÇüÿÿÿÿ
+osquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß³™úÿÿÿÿ
+jsquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÅĞè
+osquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¨çùÿÿÿÿ
+hsquid:UselessImportCheck#"?Remove this unused import 'javax.imageio.metadata.IIOMetadata'.(î¥åçøÿÿÿÿ
+fsquid:UselessImportCheck!"=Remove this unused import 'javax.imageio.ImageTypeSpecifier'.(ıÒ´½ÿÿÿÿÿ
+nsquid:UselessImportCheck%"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
+Zsquid:S2387-"C"nativeMetadataFormatName" is the name of a field in "IIOMetadata".(ı“É
+rsquid:S00115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ı“É
+[squid:S4719‰">Replace charset name argument with StandardCharsets.ISO_8859_1(¯–Æ—üÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Üš„f
+Wsquid:S1161…":Add the "@Override" annotation above this method signature(ƒ•Ğ”ıÿÿÿÿ
+Rsquid:S1161¯":Add the "@Override" annotation above this method signature(ªÙ“¹
+Wsquid:S1161Ä":Add the "@Override" annotation above this method signature(ŠôïÇùÿÿÿÿ
+Rsquid:S1161Õ":Add the "@Override" annotation above this method signature(¿ÌÆ­
+Wsquid:S1161ö":Add the "@Override" annotation above this method signature(ú´ëÄúÿÿÿÿ
+[squid:S4719†">Replace charset name argument with StandardCharsets.ISO_8859_1(ºèƒâşÿÿÿÿ
+Qsquid:S1161•":Add the "@Override" annotation above this method signature(ÿû·,
+Wsquid:S1161¬":Add the "@Override" annotation above this method signature(ù„Àºüÿÿÿÿ
+gsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(ùğÚ¯şÿÿÿÿ
+gsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(Ï…êıÿÿÿÿ
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(ÖÛÑºÿÿÿÿÿ
+asquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(£“è

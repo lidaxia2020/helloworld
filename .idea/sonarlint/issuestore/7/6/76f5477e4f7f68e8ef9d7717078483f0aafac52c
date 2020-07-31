@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(“ÀÝ¬
+Dsquid:S1604F"(Make this anonymous inner class a lambda(ö©‰±øÿÿÿÿ
+Qsquid:S1133@"5Do not forget to remove this deprecated code someday.(ó„ö™ýÿÿÿÿ
+jsquid:ModifiersOrderCheckT"EReorder the modifiers to comply with the Java Language Specification.(Þ¾é—
+§%squid:RedundantThrowsDeclarationCheckÜ"uRemove the declaration of thrown exception 'java.io.NotActiveException' which is a subclass of 'java.io.IOException'.(³ß¼Ó

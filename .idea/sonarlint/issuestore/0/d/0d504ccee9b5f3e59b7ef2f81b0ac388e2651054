@@ -1,0 +1,30 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öø¤µşÿÿÿÿ
+osquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•»äøûÿÿÿÿ
+osquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÊãÇøÿÿÿÿ
+osquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÊãÇøÿÿÿÿ
+osquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ñìÖùÿÿÿÿ
+osquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î€‡©üÿÿÿÿ
+isquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËĞûX
+jsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠâÀ
+Isquid:S1659x"3Declare "superclass_name_index" on a separate line.(«ªµD
+?squid:S1659y"#Declare "minor" on a separate line.( îş“ùÿÿÿÿ
+lsquid:S00116w"TRename this field "file_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û°ãœ
+rsquid:S00116x"[Rename this field "class_name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ªµD
+wsquid:S00116x"`Rename this field "superclass_name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ªµD
+tsquid:S00116z"WRename this field "access_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒœ•ˆûÿÿÿÿ
+psquid:S00116|"XRename this field "constant_pool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í“Òå
+osquid:S00116€"QRename this field "is_zip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¢½Õúÿÿÿÿ
+½%squid:RedundantThrowsDeclarationCheckÌ"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(”İàå
+½%squid:RedundantThrowsDeclarationCheck"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(äãµ
+Â%squid:RedundantThrowsDeclarationCheck£"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(ÏÍ¨õşÿÿÿÿ
+½%squid:RedundantThrowsDeclarationCheckÀ"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(›Ú™Å
+Â%squid:RedundantThrowsDeclarationCheckÎ"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(´Å¹øÿÿÿÿ
+Â%squid:RedundantThrowsDeclarationCheckå"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(ÃÆšõşÿÿÿÿ
+Â%squid:RedundantThrowsDeclarationCheckõ"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(™•ä¡ÿÿÿÿÿ
+Â%squid:RedundantThrowsDeclarationCheckˆ"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(—Óı¨øÿÿÿÿ
+½%squid:RedundantThrowsDeclarationCheckš"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(ÉÉî·
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(à„›Çşÿÿÿÿ
+hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(îÍÉÊûÿÿÿÿ
+hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(²ÈÆåşÿÿÿÿ

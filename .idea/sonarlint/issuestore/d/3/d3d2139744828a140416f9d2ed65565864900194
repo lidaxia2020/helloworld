@@ -1,0 +1,144 @@
+
+Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+jsquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÿÄ
+osquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êäÏÏşÿÿÿÿ
+xsquid:S3008m"\Rename this field "_documentURIIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôş¯áşÿÿÿÿ
+™squid:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä¿œ
+fsquid:S00116r"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ú¶
+qsquid:S00116w"TRename this field "_wsfilter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÿ¥´ÿÿÿÿÿ
+qsquid:S00116z"TRename this field "_initSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Œç®úÿÿÿÿ
+psquid:S00116}"XRename this field "_buildIdIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä §
+tsquid:S00116€"VRename this field "_attributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë…ûÿÿÿÿ
+tsquid:S00116ƒ"[Rename this field "_openElementName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µûÿª
+Qsquid:S1161™":Add the "@Override" annotation above this method signature(õ¶Ó-
+Wsquid:S1161¤":Add the "@Override" annotation above this method signature(óàÁ…üÿÿÿÿ
+Rsquid:S1161®":Add the "@Override" annotation above this method signature(ïô·”
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(´á‘€øÿÿÿÿ
+Wsquid:S1161Â":Add the "@Override" annotation above this method signature(ÿÉ¤Ôùÿÿÿÿ
+Wsquid:S1161Ì":Add the "@Override" annotation above this method signature(¹œ·Üşÿÿÿÿ
+Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(¢ÃìÇüÿÿÿÿ
+Rsquid:S1161à":Add the "@Override" annotation above this method signature(¾Ü
+Wsquid:S1161ê":Add the "@Override" annotation above this method signature(Ó‹ã¯ÿÿÿÿÿ
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(Ş»Ëüÿÿÿÿÿ
+Rsquid:S1161ÿ":Add the "@Override" annotation above this method signature(¸«Şğ
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(½Ûôøÿÿÿÿ
+Wsquid:S1161“":Add the "@Override" annotation above this method signature(¼ò‘ùÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(º•Ñ
+Rsquid:S1161¨":Add the "@Override" annotation above this method signature(Ç’¦ï
+Wsquid:S1161²":Add the "@Override" annotation above this method signature(ÖÓ®âşÿÿÿÿ
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(ÀÁ¥¥üÿÿÿÿ
+Wsquid:S1161Æ":Add the "@Override" annotation above this method signature(¬Š­†ùÿÿÿÿ
+Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(¶øÎûÿÿÿÿ
+Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(¢é‚
+Wsquid:S1161å":Add the "@Override" annotation above this method signature(¢Œ´¯øÿÿÿÿ
+Rsquid:S1161ğ":Add the "@Override" annotation above this method signature(»•¾¥
+Wsquid:S1161û":Add the "@Override" annotation above this method signature(¦»¢½üÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(ïè­
+Rsquid:S1161›":Add the "@Override" annotation above this method signature(Øê’¼
+Rsquid:S1161¥":Add the "@Override" annotation above this method signature(İÏä•
+Qsquid:S1161¯":Add the "@Override" annotation above this method signature(”åÍV
+Rsquid:S1161¹":Add the "@Override" annotation above this method signature(ÑŞÿ
+Qsquid:S1161Ã":Add the "@Override" annotation above this method signature(™ºş
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature(¾®Ô¯şÿÿÿÿ
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(‹øŸõøÿÿÿÿ
+Nsquid:S2696İ"6Make the enclosing method "static" or remove this set.(í¼İ
+Wsquid:S1161á":Add the "@Override" annotation above this method signature(Ø§üÿÿÿÿ
+Wsquid:S1161ë":Add the "@Override" annotation above this method signature(‡ÖÁÿüÿÿÿÿ
+Rsquid:S1161õ":Add the "@Override" annotation above this method signature(·ûú¬
+Wsquid:S1161ÿ":Add the "@Override" annotation above this method signature(ËçêÈúÿÿÿÿ
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(ëÁÊüÿÿÿÿ
+Qsquid:S1161œ":Add the "@Override" annotation above this method signature(†Òİ
+Wsquid:S1161¬":Add the "@Override" annotation above this method signature(Ì¥¾ãÿÿÿÿÿ
+Wsquid:S1161¶":Add the "@Override" annotation above this method signature(¦¯²®ıÿÿÿÿ
+Wsquid:S1161À":Add the "@Override" annotation above this method signature(ÄØŸÒşÿÿÿÿ
+Wsquid:S1161Å":Add the "@Override" annotation above this method signature(—ô„Ğıÿÿÿÿ
+Rsquid:S1161Ï":Add the "@Override" annotation above this method signature(õ†íš
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(ëÿ×Ôşÿÿÿÿ
+csquid:S3027ì"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(ßäãÀùÿÿÿÿ
+Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(Ä¿œ
+Wsquid:S1161Œ":Add the "@Override" annotation above this method signature(¹Ìı›üÿÿÿÿ
+Wsquid:S1161–":Add the "@Override" annotation above this method signature(›Ö¬¬ıÿÿÿÿ
+Wsquid:S1161 ":Add the "@Override" annotation above this method signature(¢ö’øÿÿÿÿÿ
+Qsquid:S1161¬":Add the "@Override" annotation above this method signature(èÅºl
+Rsquid:S1161¶":Add the "@Override" annotation above this method signature(ïÍéÉ
+Wsquid:S1161Á":Add the "@Override" annotation above this method signature(î¹î‡ùÿÿÿÿ
+Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(îÖÌÀ
+Rsquid:S1161Í":Add the "@Override" annotation above this method signature(‘­ò¿
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(àİ³ÿıÿÿÿÿ
+Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(²Şı·
+csquid:S3027Ü"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(ÛÂğüÿÿÿÿ
+Wsquid:S1161é":Add the "@Override" annotation above this method signature(«ãğ¢úÿÿÿÿ
+Rsquid:S1161ï":Add the "@Override" annotation above this method signature(ÆÎÄ‹
+Wsquid:S1161ú":Add the "@Override" annotation above this method signature(•±ŒÍıÿÿÿÿ
+Wsquid:S1161„":Add the "@Override" annotation above this method signature(Òû¾ıÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(€ªŸò
+Rsquid:S1161š":Add the "@Override" annotation above this method signature(ï±´
+Wsquid:S1161§":Add the "@Override" annotation above this method signature(°‘òŞşÿÿÿÿ
+Rsquid:S1161®":Add the "@Override" annotation above this method signature(‹‚Ãş
+Wsquid:S1161µ":Add the "@Override" annotation above this method signature(²Æó¼şÿÿÿÿ
+Wsquid:S1161¿":Add the "@Override" annotation above this method signature(Ù¨é†ûÿÿÿÿ
+Qsquid:S1161É":Add the "@Override" annotation above this method signature(Ìè
+Rsquid:S1161Ó":Add the "@Override" annotation above this method signature(íÌ‹Ú
+Rsquid:S1161İ":Add the "@Override" annotation above this method signature(‰¡˜ü
+Wsquid:S1161ç":Add the "@Override" annotation above this method signature(İïüÆÿÿÿÿÿ
+Rsquid:S1161ñ":Add the "@Override" annotation above this method signature(æ‡÷
+Wsquid:S1161û":Add the "@Override" annotation above this method signature(°÷¿‘üÿÿÿÿ
+Rsquid:S1161…":Add the "@Override" annotation above this method signature(¨©Ë
+Wsquid:S1161":Add the "@Override" annotation above this method signature(ïåŒüÿÿÿÿ
+Wsquid:S1161™":Add the "@Override" annotation above this method signature(îÜµ¶üÿÿÿÿ
+Wsquid:S1161¤":Add the "@Override" annotation above this method signature(íÑÑ‡ûÿÿÿÿ
+Wsquid:S1161®":Add the "@Override" annotation above this method signature(Éæ—Öúÿÿÿÿ
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(ŸõŸıÿÿÿÿ
+Wsquid:S1161Â":Add the "@Override" annotation above this method signature(…ÆÙÄûÿÿÿÿ
+Wsquid:S1161Ì":Add the "@Override" annotation above this method signature(¬òöüıÿÿÿÿ
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(¬Û‰ùÿÿÿÿ
+Rsquid:S1161á":Add the "@Override" annotation above this method signature(àÿÄ
+Wsquid:S1161ë":Add the "@Override" annotation above this method signature(êäÏÏşÿÿÿÿ
+Rsquid:S1161õ":Add the "@Override" annotation above this method signature(ìĞô
+Rsquid:S1161ÿ":Add the "@Override" annotation above this method signature(ÚõÚ£
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(éˆŒÏøÿÿÿÿ
+Rsquid:S1161“":Add the "@Override" annotation above this method signature(š”°›
+Rsquid:S1161":Add the "@Override" annotation above this method signature(ƒÌú—
+Wsquid:S1161§":Add the "@Override" annotation above this method signature(…ÆÙîùÿÿÿÿ
+Rsquid:S1161±":Add the "@Override" annotation above this method signature(Èõ»
+Qsquid:S1161»":Add the "@Override" annotation above this method signature(ËƒßC
+Wsquid:S1161Å":Add the "@Override" annotation above this method signature(ì€‚…üÿÿÿÿ
+Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(ş…œÑúÿÿÿÿ
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(ÃÓ÷¿üÿÿÿÿ
+Wsquid:S1161ã":Add the "@Override" annotation above this method signature(äâñóıÿÿÿÿ
+Rsquid:S1161í":Add the "@Override" annotation above this method signature(ã§Ş¿
+Rsquid:S1161÷":Add the "@Override" annotation above this method signature(«õ¾¾
+Wsquid:S1161	":Add the "@Override" annotation above this method signature( Ä©£úÿÿÿÿ
+Wsquid:S1161‹	":Add the "@Override" annotation above this method signature(Ğû“øÿÿÿÿ
+Wsquid:S1161•	":Add the "@Override" annotation above this method signature(¡¡˜Ïıÿÿÿÿ
+Rsquid:S1161Ÿ	":Add the "@Override" annotation above this method signature(Ñ”†·
+Rsquid:S1161©	":Add the "@Override" annotation above this method signature(©³û
+Rsquid:S1161³	":Add the "@Override" annotation above this method signature(—÷ˆ¾
+Rsquid:S1161½	":Add the "@Override" annotation above this method signature(ôÎ“
+Wsquid:S1161Ç	":Add the "@Override" annotation above this method signature(”ğ¥Êıÿÿÿÿ
+Wsquid:S1161Ñ	":Add the "@Override" annotation above this method signature(¼´¸µüÿÿÿÿ
+Rsquid:S1161İ	":Add the "@Override" annotation above this method signature(¿£²¨
+Wsquid:S1161è	":Add the "@Override" annotation above this method signature(£±ûÛûÿÿÿÿ
+Rsquid:S1161ò	":Add the "@Override" annotation above this method signature(Ç¬ß¹
+Wsquid:S1161ü	":Add the "@Override" annotation above this method signature(†­·ßúÿÿÿÿ
+Wsquid:S1161†
+":Add the "@Override" annotation above this method signature(•Š‚ƒıÿÿÿÿ
+Rsquid:S1161
+":Add the "@Override" annotation above this method signature(·†É
+Wsquid:S1161š
+":Add the "@Override" annotation above this method signature(ï«Ê±ùÿÿÿÿ
+Wsquid:S1161¤
+":Add the "@Override" annotation above this method signature(ôĞÿøÿÿÿÿ
+Wsquid:S1161®
+":Add the "@Override" annotation above this method signature(ú¯È±øÿÿÿÿ
+Wsquid:S1161¸
+":Add the "@Override" annotation above this method signature(÷ßïûÿÿÿÿ
+Wsquid:S1161Â
+":Add the "@Override" annotation above this method signature(™‡­—ùÿÿÿÿ
+Wsquid:S1161Ì
+":Add the "@Override" annotation above this method signature(İÈÖüÿÿÿÿ
+Rsquid:S1161Ö
+":Add the "@Override" annotation above this method signature(‚„°…
+Qsquid:S1161à
+":Add the "@Override" annotation above this method signature(Â„ªb
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

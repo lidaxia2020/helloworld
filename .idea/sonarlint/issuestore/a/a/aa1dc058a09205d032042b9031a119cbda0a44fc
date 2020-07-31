@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ĞµŒëşÿÿÿÿ
+zsquid:S1488|"^Immediately return this expression instead of assigning it to the temporary variable "result".(ï†¢ùÿÿÿÿ
+Vsquid:UselessImportCheck"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+Zsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ
+wsquid:UselessImportCheck&"SRemove this unused import 'com.sun.corba.se.spi.transport.SocketOrChannelAcceptor'.(ëšã‰
+rsquid:UselessImportCheck*"NRemove this unused import 'com.sun.corba.se.impl.orbutil.concurrent.SyncUtil'.(ÂŠ¨‹
+P"squid:SwitchLastCaseIsDefaultCheck\""Add a default case to this switch.(šèÙ

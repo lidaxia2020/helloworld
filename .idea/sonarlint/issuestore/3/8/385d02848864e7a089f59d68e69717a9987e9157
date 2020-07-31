@@ -1,0 +1,39 @@
+
+Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(˜ÛÂàýÿÿÿÿ
+Fsquid:S1066“"/Merge this if statement with the enclosing one.(©ñ—z
+Fsquid:S1066©"/Merge this if statement with the enclosing one.(©ñ—z
+Jsquid:S1199Û"-Extract this nested code block into a method.(µ®Ô£üÿÿÿÿ
+Esquid:S1199ä"-Extract this nested code block into a method.(Åô²ô
+Esquid:S1199ý"-Extract this nested code block into a method.(‘âÏ™
+žsquid:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üÝöÀûÿÿÿÿ
+žsquid:S1186Í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†Þºýüÿÿÿÿ
+™squid:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô¥‰œ
+dsquid:CallToDeprecatedMethodT"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(‰É¸·
+dsquid:CallToDeprecatedMethodb"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(Ü¹õØ
+\squid:CallToDeprecatedMethodb"4Remove this use of "OutputFormat"; it is deprecated.(Ü¹õØ
+Vsquid:CallToDeprecatedMethodb".Remove this use of "Method"; it is deprecated.(Ü¹õØ
+Qsquid:S1161f":Add the "@Override" annotation above this method signature(³§ÃÜ
+\squid:CallToDeprecatedMethodf"4Remove this use of "OutputFormat"; it is deprecated.(³§ÃÜ
+\squid:CallToDeprecatedMethodh"4Remove this use of "OutputFormat"; it is deprecated.(²®íþ
+Vsquid:CallToDeprecatedMethodh".Remove this use of "Method"; it is deprecated.(²®íþ
+Vsquid:S1854£"9Remove this useless assignment to local variable "state".(®Û’Àúÿÿÿÿ
+^squid:CallToDeprecatedMethod†"5Remove this use of "AttributeList"; it is deprecated.(ÿ‚Áž
+\squid:CallToDeprecatedMethodŠ"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Fsquid:S1172µ".Remove this unused method parameter "tagName".(¨ôÛÂ
+Vsquid:S1854½"9Remove this useless assignment to local variable "state".(ÄœðÉüÿÿÿÿ
+\squid:CallToDeprecatedMethod¸"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Wsquid:S1161È":Add the "@Override" annotation above this method signature(üÝöÀûÿÿÿÿ
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature(†Þºýüÿÿÿÿ
+Rsquid:S1161Ò":Add the "@Override" annotation above this method signature(Ô¥‰œ
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(éìåÁÿÿÿÿÿ
+\squid:CallToDeprecatedMethodÚ"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Msquid:S1172æ"0Remove this unused method parameter "unescaped".(œÐèðúÿÿÿÿ
+\squid:CallToDeprecatedMethodé"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Jsquid:S1172…"2Remove this unused method parameter "rootTagName".(²ß”Þ
+Vsquid:S1854»"9Remove this useless assignment to local variable "state".(®Û’Àúÿÿÿÿ
+\squid:CallToDeprecatedMethodž"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(ß‡ÎÅÿÿÿÿÿ
+Rsquid:S1161‘":Add the "@Override" annotation above this method signature(üçëº
+]squid:CallToDeprecatedMethod‘"4Remove this use of "ElementState"; it is deprecated.(üçëº
+\squid:CallToDeprecatedMethod“"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

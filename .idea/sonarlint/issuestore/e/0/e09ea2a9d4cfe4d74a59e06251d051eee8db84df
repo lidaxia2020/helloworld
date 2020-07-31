@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
+Vsquid:UselessImportCheck"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+{squid:S1149X"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(²â­*
+Nsquid:S1135M"2Complete the task associated to this TODO comment.(›şü—ûÿÿÿÿ
+Isquid:S1135P"2Complete the task associated to this TODO comment.(’Æˆ÷

@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+Vsquid:S1155¤">Use isEmpty() to check whether the collection is empty or not.(ÜÔ‚³
+squid:S1149o"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œ¨¿úÿÿÿÿ
+osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(š¸³Çÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

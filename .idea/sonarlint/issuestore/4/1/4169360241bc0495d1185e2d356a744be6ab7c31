@@ -1,0 +1,52 @@
+
+Vsquid:S3034ÿ">Prevent "int" promotion by adding "& 0xff" to this expression.(ÿ¿–ª
+Msquid:S1191¸"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+isquid:S1192³"QDefine a constant instead of duplicating this literal "scope_ifname_set" 3 times.(Æ²®É
+fsquid:S1192±"IDefine a constant instead of duplicating this literal "scope_id" 3 times.(­“£¯ûÿÿÿÿ
+esquid:S1192²"MDefine a constant instead of duplicating this literal "scope_id_set" 3 times.(ßş×ò
+dsquid:S1192´"GDefine a constant instead of duplicating this literal "ifname" 3 times.(²şù›üÿÿÿÿ
+bsquid:S1192°"JDefine a constant instead of duplicating this literal "ipaddress" 3 times.( à¤…
+Lsquid:S1066Ÿ"/Merge this if statement with the enclosing one.(øŠÎ¾ÿÿÿÿÿ
+Lsquid:S1066¤"/Merge this if statement with the enclosing one.(’‰ı½üÿÿÿÿ
+Lsquid:S1066Å"/Merge this if statement with the enclosing one.(øŠÎ¾ÿÿÿÿÿ
+Lsquid:S1066Ê"/Merge this if statement with the enclosing one.(’‰ı½üÿÿÿÿ
+u
+squid:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(Ò…ìæıÿÿÿÿ
+Rsquid:S1141é"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+_squid:S00112Á"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÛ–Îşÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÛ–Îşÿÿÿÿ
+jsquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ñ‹
+jsquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óè¾ğ
+jsquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ñéÍ
+jsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ™¸¶
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼û³º
+osquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şŸ•Õùÿÿÿÿ
+jsquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‡«
+osquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ğ¼”ÿÿÿÿÿ
+osquid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šøí–ıÿÿÿÿ
+xsquid:S00116‡"ZRename this field "cached_scope_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÓ»±ÿÿÿÿÿ
+psquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(½áø¢şÿÿÿÿ
+qsquid:S00116ª"SRename this field "scope_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÊÚÌşÿÿÿÿ
+osquid:S00116³"WRename this field "scope_id_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‡C
+usquid:S00116¼"WRename this field "scope_ifname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßé†Šüÿÿÿÿ
+tsquid:S00116Å"[Rename this field "scope_ifname_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓıÇÑ
+Psquid:S1197Ç"8Move the array designator from the variable to the type.(€€•Ï
+Psquid:S1197Í"8Move the array designator from the variable to the type.(óè¾ğ
+Psquid:S1197Ö"8Move the array designator from the variable to the type.(¬Ú ¤
+^squid:S1126"AReplace this if-then-else statement by a single return statement.(£ÓÒåøÿÿÿÿ
+Psquid:S1197ä"8Move the array designator from the variable to the type.(•ñéÍ
+Psquid:S1197ê"8Move the array designator from the variable to the type.(â›­í
+Gsquid:S00108î")Either remove or fill this block of code.(†ÿõıÿÿÿÿ
+Psquid:S1197ñ"8Move the array designator from the variable to the type.(äœü®
+Usquid:S1197ø"8Move the array designator from the variable to the type.(ñğ‚¤şÿÿÿÿ
+Usquid:S1197Ñ"8Move the array designator from the variable to the type.(Â®‡®ùÿÿÿÿ
+Psquid:S1197ß"8Move the array designator from the variable to the type.(é¸­Ú
+Ysquid:S1126û"AReplace this if-then-else statement by a single return statement.(ŒŸ‚×
+>squid:S1905×"&Remove this unnecessary cast to "int".(²‡«
+Gsquid:S00108ñ")Either remove or fill this block of code.(ˆØÎ£ûÿÿÿÿ
+@squid:S3042‘"#Remove this "synchronized" keyword.(Ä®ø€üÿÿÿÿ
+fsquid:S4201Æ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÚõÚ…ûÿÿÿÿ
+psquid:ModifiersOrderCheckà"EReorder the modifiers to comply with the Java Language Specification.(˜­ÇÊøÿÿÿÿ
+]squid:UnusedPrivateMethod•"7Remove this unused private "deriveNumericScope" method.(‘Íé‹
+csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(ÓıÇÑ

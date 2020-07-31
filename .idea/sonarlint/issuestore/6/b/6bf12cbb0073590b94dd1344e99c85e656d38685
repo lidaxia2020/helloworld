@@ -1,0 +1,70 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+Gsquid:S1066“	"/Merge this if statement with the enclosing one.(„ÿèå
+vsquid:S1488û"^Immediately return this expression instead of assigning it to the temporary variable "prefix".(ë†¨
+Vsquid:S4973Ê"9Use the "equals" method if value comparison was intended.(¿Ñü•üÿÿÿÿ
+_squid:S00112˜	"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+jsquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äË ©
+jsquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äË ©
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü€ëÆ
+jsquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊİÜÉ
+jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‚€Î
+|squid:S00116s"dRename this field "m_needToCallStartDocument" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸´†
+vsquid:S00116{"YRename this field "m_cdataTagOpen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¡Ôëùÿÿÿÿ
+usquid:S00116…"WRename this field "m_attributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ıîÔûÿÿÿÿ
+qsquid:S00116"XRename this field "m_inEntityRef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üĞ¸ß
+ssquid:S00116"ZRename this field "m_inExternalDTD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‰†¸
+xsquid:S00116˜"ZRename this field "m_doctypeSystem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èı©¤şÿÿÿÿ
+xsquid:S00116 "ZRename this field "m_doctypePublic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¹ú°ÿÿÿÿÿ
+}squid:S00116©"dRename this field "m_needToOutputDocTypeDecl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆû–Ë
+nsquid:S00116²"URename this field "m_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ş„İ
+‚squid:S00116º"dRename this field "m_shouldNotWriteXMLHeader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾÷Ş—øÿÿÿÿ
+psquid:S00116Â"WRename this field "m_standalone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü²…æ
+squid:S00116Ê"cRename this field "m_standaloneWasSpecified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û÷Ò ùÿÿÿÿ
+rsquid:S00116Ò"YRename this field "m_isStandalone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘ØÜ
+ssquid:S00116Ú"URename this field "m_doIndent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÉ¨åüÿÿÿÿ
+wsquid:S00116á"YRename this field "m_indentAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞôÖùÿÿÿÿ
+msquid:S00116é"TRename this field "m_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¥³Á
+osquid:S00116ñ"VRename this field "m_mediatype" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃŠ
+psquid:S00116ú"XRename this field "m_transformer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ş¯=
+zsquid:S00116„"aRename this field "m_cdataSectionElements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©ğ
+tsquid:S00116"VRename this field "m_prefixMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãØ·×ûÿÿÿÿ
+lsquid:S00116—"SRename this field "m_tracer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÃÇ
+ssquid:S00116™"ZRename this field "m_sourceLocator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÜšà
+qsquid:S00116¤"SRename this field "m_writer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¤ìñøÿÿÿÿ
+psquid:S00116¯"XRename this field "m_elemContext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£òĞO
+osquid:S00116º"VRename this field "m_charsBuff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÿÊ†
+nsquid:S00116Å"URename this field "m_attrBuff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ™ïÌ
+rsquid:S00116Ç"TRename this field "m_locator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÒĞæùÿÿÿÿ
+squid:S00116É"fRename this field "m_needToCallSetDocumentInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‘ëĞ
+}squid:S1149„"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰©ğ
+§%squid:RedundantThrowsDeclarationCheckP"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+§%squid:RedundantThrowsDeclarationCheckd"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+Isquid:S1135å"2Complete the task associated to this TODO comment.(ÒÈ´I
+Osquid:S1135ë"2Complete the task associated to this TODO comment.(«ŞÇ¯úÿÿÿÿ
+osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ù©ü„şÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheck²
+"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+Gsquid:S00108å
+")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheckõ
+"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheck‰"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheckœ"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheckª"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheck»"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheckĞ"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheckô"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheckˆ"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ø÷Öıÿÿÿÿ
+3squid:S3626«"Remove this redundant jump.(ûÁİ…
+Asquid:S00108Ş")Either remove or fill this block of code.(Ûï‹?
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(˜ÏW
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(¤®†İ
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(ãœóüÿÿÿÿ
+csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(˜Ó›è
+csquid:CommentedOutCodeLineÇ
+"<This block of commented-out lines of code should be removed.(Ú°à¬
+csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(Ú°à¬
+bsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(±Ÿ
+asquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(±ğj

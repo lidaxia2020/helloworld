@@ -1,0 +1,7 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(©—x
+=squid:S2165M"&Remove this nullification of "stream".(­òğõ
+wsquid:CallToDeprecatedMethodH"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ
+`"squid:ObjectFinalizeOverridenCheckH"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+Asquid:S00108K")Either remove or fill this block of code.(ï­£Ä
+]squid:CallToDeprecatedMethodN"0Remove this use of "finalize"; it is deprecated.(¯¶ú“üÿÿÿÿ

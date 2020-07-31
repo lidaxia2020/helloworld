@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(˜ÿ‰¸úÿÿÿÿ
+>squid:S12148""Move constants to a class or enum.(žå—¼ûÿÿÿÿ
+´%squid:RedundantThrowsDeclarationCheckR"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ä¡šÚûÿÿÿÿ
+´%squid:RedundantThrowsDeclarationChecki"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ùœ Éþÿÿÿÿ
+®%squid:RedundantThrowsDeclarationCheckx"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.( õ™%
+¯%squid:RedundantThrowsDeclarationCheck†"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(å‡×
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

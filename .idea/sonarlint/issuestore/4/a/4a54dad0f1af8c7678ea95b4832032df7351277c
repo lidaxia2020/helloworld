@@ -1,0 +1,20 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+xsquid:S00115Ş"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­ãÔÔüÿÿÿÿ
+xsquid:S00115ß"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›àˆ’şÿÿÿÿ
+xsquid:S00115à"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èìòÍşÿÿÿÿ
+xsquid:S00115á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Àß£Ëûÿÿÿÿ
+ssquid:S00115â"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’Ø£š
+xsquid:S00115ã"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚¬é±ÿÿÿÿÿ
+Osquid:S1197E"8Move the array designator from the variable to the type.(Ô´Ÿ 
+psquid:ModifiersOrderCheckŞ"EReorder the modifiers to comply with the Java Language Specification.(­ãÔÔüÿÿÿÿ
+psquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(›àˆ’şÿÿÿÿ
+psquid:ModifiersOrderCheckà"EReorder the modifiers to comply with the Java Language Specification.(èìòÍşÿÿÿÿ
+psquid:ModifiersOrderChecká"EReorder the modifiers to comply with the Java Language Specification.(Àß£Ëûÿÿÿÿ
+ksquid:ModifiersOrderCheckâ"EReorder the modifiers to comply with the Java Language Specification.(’Ø£š
+psquid:ModifiersOrderCheckã"EReorder the modifiers to comply with the Java Language Specification.(‚¬é±ÿÿÿÿÿ
+Usquid:S1197±"8Move the array designator from the variable to the type.(üñÂÿÿÿÿÿ
+Psquid:S1197À"8Move the array designator from the variable to the type.(²Ò¥¾
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(¥ì¹Œüÿÿÿÿ
+csquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(Ö’¡î
+hsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(¾»•şÿÿÿÿ

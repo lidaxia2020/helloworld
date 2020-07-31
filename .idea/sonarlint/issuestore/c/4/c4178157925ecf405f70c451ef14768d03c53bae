@@ -1,0 +1,12 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ç ‚µýÿÿÿÿ
+isquid:S00117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¤Ïô
+osquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÓÎÈþÿÿÿÿ
+=squid:S1170E"!Make this final field static too.(Þ“®õüÿÿÿÿ
+Qsquid:S1133E"5Do not forget to remove this deprecated code someday.(Þ“®õüÿÿÿÿ
+Lsquid:S1133W"5Do not forget to remove this deprecated code someday.(ù¤Ïô
+bsquid:CallToDeprecatedMethodl"5Remove this use of "engineResolve"; it is deprecated.(€Üé¡øÿÿÿÿ
+usquid:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(–öëäøÿÿÿÿ
+vsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(–öëäøÿÿÿÿ
+Rsquid:S1133½"5Do not forget to remove this deprecated code someday.( ÓÎÈþÿÿÿÿ
+asquid:CallToDeprecatedMethodÔ"8Remove this use of "engineCanResolve"; it is deprecated.(êê¦¿

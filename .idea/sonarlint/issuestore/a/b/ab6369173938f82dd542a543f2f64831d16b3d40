@@ -1,0 +1,62 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
+Esquid:S1604´"(Make this anonymous inner class a lambda(Ø¸°çøÿÿÿÿ
+ksquid:MaximumInheritanceDepth·"<This class has 6 parents which is greater than 5 authorized.(³²‡ºüÿÿÿÿ
+fsquid:MaximumInheritanceDepth¥"<This class has 6 parents which is greater than 5 authorized.(ï¦»½
+fsquid:MaximumInheritanceDepth¼"<This class has 6 parents which is greater than 5 authorized.(Ä¿´Ç
+fsquid:MaximumInheritanceDepthÊ"<This class has 6 parents which is greater than 5 authorized.(ğ¼ô
+fsquid:MaximumInheritanceDepthØ"<This class has 6 parents which is greater than 5 authorized.(ïÉôò
+ksquid:MaximumInheritanceDepthæ"<This class has 6 parents which is greater than 5 authorized.(Šêä§şÿÿÿÿ
+ksquid:MaximumInheritanceDepthˆ"<This class has 6 parents which is greater than 5 authorized.(Øï¼ûÿÿÿÿ
+ksquid:MaximumInheritanceDepth“"<This class has 6 parents which is greater than 5 authorized.(©ƒüÏúÿÿÿÿ
+esquid:MaximumInheritanceDepth‚"<This class has 6 parents which is greater than 5 authorized.(ÓÙşO
+squid:S3008G"eRename this field "WITH_ACCELERATOR_PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨—î“ùÿÿÿÿ
+psquid:S3008H"TRename this field "PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òš˜üşÿÿÿÿ
+osquid:S3008I"SRename this field "MIN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†”©şúÿÿÿÿ
+osquid:S3008K"XRename this field "PREF_ACC_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åãõ
+nsquid:S3008L"XRename this field "ZERO_ACC_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÊêF
+osquid:S3008N"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§©Ñ‡ıÿÿÿÿ
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+Wsquid:S1161•":Add the "@Override" annotation above this method signature(“Êûşÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(Êœˆÿ
+Rsquid:S1161£":Add the "@Override" annotation above this method signature(“Ñ™î
+Wsquid:S1161§":Add the "@Override" annotation above this method signature(ÖÑ¾ùÿÿÿÿ
+Wsquid:S1161«":Add the "@Override" annotation above this method signature(Êğùôÿÿÿÿÿ
+Wsquid:S1161¯":Add the "@Override" annotation above this method signature(ï‡÷ıÿÿÿÿ
+osquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(Ú¯ü¼üÿÿÿÿ
+Wsquid:S1161³":Add the "@Override" annotation above this method signature(Ú¯ü¼üÿÿÿÿ
+Esquid:S1185’"(Remove this method to simply inherit it.(À‘‹¬üÿÿÿÿ
+Wsquid:S1161’":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+Wsquid:S1161–":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(Ú¯ò©
+`squid:S3252Ÿ"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(Ü–Ÿúÿÿÿÿ
+Rsquid:S1161¢":Add the "@Override" annotation above this method signature(×õ‡ê
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Wsquid:S1161Ú":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Wsquid:S1161¦":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Ysquid:S3252°"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(÷»
+Wsquid:S1161½":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Wsquid:S1161ç":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Esquid:S1172ƒ"(Remove this unused method parameter "e".(ôš×Éûÿÿÿÿ
+Rsquid:S1161‹":Add the "@Override" annotation above this method signature(Ç¦¡ş
+Wsquid:S1161“":Add the "@Override" annotation above this method signature(ŸŸÁ¯şÿÿÿÿ
+osquid:S2177ª"WRename this method; there is a "private" method in the parent class with the same name.(ÕÅ´õ
+Rsquid:S1161®":Add the "@Override" annotation above this method signature(Ã÷´
+Wsquid:S1161³":Add the "@Override" annotation above this method signature(×ÃàÅüÿÿÿÿ
+psquid:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÅW
+Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(Ä Ïúüÿÿÿÿ
+vsquid:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ ±ûÿÿÿÿ
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+Wsquid:S1161û":Add the "@Override" annotation above this method signature(’Æ•Ûûÿÿÿÿ
+Rsquid:S1161ÿ":Add the "@Override" annotation above this method signature(ñÈ˜š
+Ysquid:S3252„"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ôÄ¸‡
+]squid:S3252…"@Use static access with "java.awt.Component" for "TOP_ALIGNMENT".(¯®‡»øÿÿÿÿ
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(íöİúÿÿÿÿ
+Wsquid:S1161”":Add the "@Override" annotation above this method signature(íöİúÿÿÿÿ
+Qsquid:S1161ƒ":Add the "@Override" annotation above this method signature(÷²«k
+asquid:S4201‰"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ö×…¶
+Asquid:S1948˜")Make "filters" transient or serializable.(¸¬ÇË
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(Áª¬Çúÿÿÿÿ
+hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(¶”ú¶øÿÿÿÿ

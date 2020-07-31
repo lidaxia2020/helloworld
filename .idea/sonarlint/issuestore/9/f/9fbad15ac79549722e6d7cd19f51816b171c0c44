@@ -1,0 +1,6 @@
+
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(Äýç•ýÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck0"PMake node a static final constant or non-public and provide accessors if needed.(õý³Œ
+~"squid:ClassVariableVisibilityCheck1"PMake type a static final constant or non-public and provide accessors if needed.(ûöå©
+*squid:S17000"Rename field "node"(õý³Œ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

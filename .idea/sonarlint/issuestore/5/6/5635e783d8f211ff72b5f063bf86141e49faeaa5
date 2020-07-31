@@ -1,0 +1,46 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
+|squid:S1149Š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—éŠ—ùÿÿÿÿ
+wsquid:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘·´è
+wsquid:S1149‘"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(î²É
+wsquid:S1149‘"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(î²É
+wsquid:S1149Ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(È¯„
+|squid:S1149Í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ØÈ¼Éúÿÿÿÿ
+wsquid:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ù´£¡
+|squid:S1149Û"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥ÂÎÿÿÿÿÿ
+wsquid:S1149ˆ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôÒ‡Ú
+|squid:S1149‰"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(±ÎÕıÿÿÿÿ
+|squid:S1149Š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—éŠ—ùÿÿÿÿ
+wsquid:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘·´è
+wsquid:S1149‘"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(î²É
+wsquid:S1149‘"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(î²É
+wsquid:S1149Ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(È¯„
+|squid:S1149Í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ØÈ¼Éúÿÿÿÿ
+wsquid:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ù´£¡
+|squid:S1149Û"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥ÂÎÿÿÿÿÿ
+wsquid:S1149ˆ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôÒ‡Ú
+|squid:S1149‰"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(±ÎÕıÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheckG"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Êôá¸
+ %squid:RedundantThrowsDeclarationCheckS"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(©İúãÿÿÿÿÿ
+nsquid:S3776S"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(©İúãÿÿÿÿÿ
+@squid:S1659Z"$Declare "intEnd" on a separate line.(¤ŠúÍùÿÿÿÿ
+Csquid:S1659Z"'Declare "fracStart" on a separate line.(¤ŠúÍùÿÿÿÿ
+Asquid:S1659Z"%Declare "fracEnd" on a separate line.(¤ŠúÍùÿÿÿÿ
+jsquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(º½’Í
+jsquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Æ­õ¹
+}squid:S2234Ö"`Parameters to compareDecimal have the same names but not the same order as the method arguments.(¾·õøÿÿÿÿ
+\squid:S3358"DExtract this nested ternary operation into an independent statement.(‹°Ê§
+^squid:S1126©"AReplace this if-then-else statement by a single return statement.(ë¾‹Ÿùÿÿÿÿ
+‡squid:S3252·"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(»”ØŒÿÿÿÿÿ
+Šsquid:S3252·"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(»”ØŒÿÿÿÿÿ
+‹squid:S3252·"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(»”ØŒÿÿÿÿÿ
+Œsquid:S3252·"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(»”ØŒÿÿÿÿÿ
+Œsquid:S3252·"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(»”ØŒÿÿÿÿÿ
+Œsquid:S3252·"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXEXCLUSIVE".(»”ØŒÿÿÿÿÿ
+Œsquid:S3252·"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINEXCLUSIVE".(»”ØŒÿÿÿÿÿ
+‹squid:S3252·"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_TOTALDIGITS".(»”ØŒÿÿÿÿÿ
+squid:S3252·"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_FRACTIONDIGITS".(»”ØŒÿÿÿÿÿ
+`squid:UnusedPrivateMethod†":Remove this unused private "compareFractionalPart" method.(¯¸Ô•
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(øèÃùÿÿÿÿ
+hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(ü»çàøÿÿÿÿ

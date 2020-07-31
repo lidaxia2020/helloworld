@@ -1,0 +1,54 @@
+
+Qsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckÀ".Extract the assignment out of this expression.(ù¬Ğäşÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck®".Extract the assignment out of this expression.(ªÏúÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÕ".Extract the assignment out of this expression.(Ûå¾Ö
+u
+squid:S135÷"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+u
+squid:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+u
+squid:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+u
+squid:S135û"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+u
+squid:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+u
+squid:S135Í"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+u
+squid:S135†
+"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+o
+squid:S135Ä
+"YReduce the total number of break and continue statements in this loop to use at most one.(õß³Q
+p
+squid:S135¿
+"YReduce the total number of break and continue statements in this loop to use at most one.(ıµßó
+o
+squid:S135é
+"YReduce the total number of break and continue statements in this loop to use at most one.(õß³Q
+p
+squid:S135ä
+"YReduce the total number of break and continue statements in this loop to use at most one.(ıµßó
+vsquid:S1488ù"^Immediately return this expression instead of assigning it to the temporary variable "symbol".(Ì•º
+vsquid:S1488–"^Immediately return this expression instead of assigning it to the temporary variable "symbol".(Æš—Ñ
+vsquid:S1488¢"^Immediately return this expression instead of assigning it to the temporary variable "symbol".(Ì•º
+vsquid:S1488¿"^Immediately return this expression instead of assigning it to the temporary variable "symbol".(Æš—Ñ
+Rsquid:S1161“":Add the "@Override" annotation above this method signature(Ï¡Ù
+jsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(óï »
+Rsquid:S1161î":Add the "@Override" annotation above this method signature(óï »
+osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(È÷ù´üÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(ïÔÎñûÿÿÿÿ
+osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 95 to the 15 allowed.(æ¤¶Öÿÿÿÿÿ
+jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(ó«ÙÔ
+Rsquid:S1161¡":Add the "@Override" annotation above this method signature(ó«ÙÔ
+jsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(ËÆ¶‡
+psquid:S3776Ø	"SRefactor this method to reduce its Cognitive Complexity from 129 to the 15 allowed.(ìÉâ ùÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheck¿
+";Refactor the code to remove this label and the need for it.(ıµßó
+h squid:LabelsShouldNotBeUsedCheckä
+";Refactor the code to remove this label and the need for it.(ıµßó
+osquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•ÔÚ¹øÿÿÿÿ
+osquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(¡ÁÃ¥ıÿÿÿÿ
+Wsquid:S1161ë":Add the "@Override" annotation above this method signature(¡ÁÃ¥ıÿÿÿÿ
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(ÿÁÙİıÿÿÿÿ

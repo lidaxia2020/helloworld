@@ -1,0 +1,18 @@
+
+4squid:S1643ï"Use a StringBuilder instead.(Ü®È•
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+usquid:S1488 "^Immediately return this expression instead of assigning it to the temporary variable "source".(²É‰7
+}squid:UselessImportCheck."TRemove this unnecessary import: same package classes are always implicitly imported.(‘¤Üöûÿÿÿÿ
+ksquid:S00116?"SRename this field "m_baseID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ï°æ
+osquid:S00116B"RRename this field "m_media" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òäÖÆûÿÿÿÿ
+jsquid:S00116E"RRename this field "m_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÍ–’
+lsquid:S00116H"TRename this field "m_charset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÃÕæ
+psquid:S00116K"XRename this field "m_stylesheets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¶°¯
+psquid:S00116V"XRename this field "m_uriResolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íñ‹€
+|squid:S1149K"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(À¶°¯
+ksquid:S3776¶"SRefactor this method to reduce its Cognitive Complexity from 126 to the 15 allowed.(ï±´
+Tsquid:S1854¬"=Remove this useless assignment to local variable "alternate".(¥À¼`
+Rsquid:S1161¶":Add the "@Override" annotation above this method signature(ï±´
+Rsquid:S1161î":Add the "@Override" annotation above this method signature(ò–êë
+Ksquid:S1481Á".Remove this unused "alternate" local variable.(Ü÷¯£ıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

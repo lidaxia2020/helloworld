@@ -1,0 +1,9 @@
+
+Bsquid:S1659ñ"%Declare "headers" on a separate line.(«å¬‘üÿÿÿÿ
+dsquid:HiddenFieldCheckñ"<Rename "methods" which hides the field declared at line 202.(«å¬‘üÿÿÿÿ
+osquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(øÿÁ¹ÿÿÿÿÿ
+^squid:S1126Ž"AReplace this if-then-else statement by a single return statement.(Èùò¬úÿÿÿÿ
+jsquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(·„ý
+_squid:HiddenFieldCheckÄ"<Rename "actions" which hides the field declared at line 207.(­—¤
+hsquid:S1206€"PThis class overrides "hashCode()" and should therefore also override "equals()".(ðÜþŠ
+msquid:S1201ü"UEither override Object.equals(Object), or rename the method to prevent any confusion.(Ž÷×

@@ -1,0 +1,9 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÉÏ“Éùÿÿÿÿ
+Ssquid:S2387("<"vendorName" is the name of a field in "IIOServiceProvider".(Êºº
+Usquid:S2387*"9"version" is the name of a field in "IIOServiceProvider".(ÆÍñ´üÿÿÿÿ
+[squid:S2387,"?"outputClass" is the name of a field in "ImageOutputStreamSpi".(–‘åÛıÿÿÿÿ
+rsquid:S00115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Êºº
+wsquid:S00115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÍñ´üÿÿÿÿ
+Qsquid:S11616":Add the "@Override" annotation above this method signature(ŸÕÜ
+Qsquid:S1161:":Add the "@Override" annotation above this method signature(È¢şâ

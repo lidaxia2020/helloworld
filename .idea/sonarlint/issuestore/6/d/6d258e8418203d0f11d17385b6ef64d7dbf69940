@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶×ô°ûÿÿÿÿ
+Gsquid:UselessImportCheck%"Remove this duplicated import.(òÏœßùÿÿÿÿ
+squid:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü©ø©úÿÿÿÿ
+˜squid:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( öƒÇ

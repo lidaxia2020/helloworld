@@ -1,0 +1,5 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ØÃµ
+}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(Í£Ñ–ûÿÿÿÿ
+wsquid:UselessImportCheck!"TRemove this unnecessary import: same package classes are always implicitly imported.(¦´/
+|squid:S1149'"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ø±×ê

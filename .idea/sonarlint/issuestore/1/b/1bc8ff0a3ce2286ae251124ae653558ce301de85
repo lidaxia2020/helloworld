@@ -1,0 +1,4 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(›Âýþ
+lsquid:S1192+"PDefine a constant instead of duplicating this literal "ImageDescriptor" 4 times.(ŽÖ™Êøÿÿÿÿ
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

@@ -1,0 +1,5 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(÷…¸ö
+bsquid:S1192"FDefine a constant instead of duplicating this literal "Liste" 3 times.(ÜÏòîøÿÿÿÿ
+dsquid:S1192	"HDefine a constant instead of duplicating this literal "Details" 3 times.(Ğø»ûüÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½ÃÆûÿÿÿÿ

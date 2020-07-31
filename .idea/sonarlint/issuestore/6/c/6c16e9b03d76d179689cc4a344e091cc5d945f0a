@@ -1,0 +1,25 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+{squid:UselessImportCheck+"WRemove this unused import 'com.sun.org.apache.bcel.internal.generic.InstructionHandle'.(®¹³¸
+Zsquid:S1155S">Use isEmpty() to check whether the collection is empty or not.(º‡ğşÿÿÿÿÿ
+gsquid:S00116A"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¢ûU
+hsquid:S00116B"PRename this field "_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶÷ÂÆ
+ksquid:S00116C"SRename this field "_pattern" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÎü
+lsquid:S00116D"TRename this field "_priority" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥àÙ¶
+lsquid:S00116E"TRename this field "_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æİ²Ç
+qsquid:S00116F"TRename this field "_disabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢–Â›øÿÿÿÿ
+qsquid:S00116G"TRename this field "_compiled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‘ô¨ûÿÿÿÿ
+nsquid:S00116H"VRename this field "_simplified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÁ˜Ü
+ysquid:S00116L"aRename this field "_isSimpleNamedTemplate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ùñÆ
+ssquid:S00116P"VRename this field "_parameters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÓˆÜøÿÿÿÿ
+tsquid:S00116Ë"VRename this field "_stylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š·˜†ùÿÿÿÿ
+squid:S1149P"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ßÓˆÜøÿÿÿÿ
+|squid:S1149f"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¸ğŠÀ
+|squid:S1149ª"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¾†à@
+Wsquid:S1161¢":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
+Qsquid:S1161Í":Add the "@Override" annotation above this method signature(†‚è;
+jsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÁØ’›
+Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(ÁØ’›
+Wsquid:S1161·":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+Rsquid:S1161¿":Add the "@Override" annotation above this method signature(†“‹Ø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

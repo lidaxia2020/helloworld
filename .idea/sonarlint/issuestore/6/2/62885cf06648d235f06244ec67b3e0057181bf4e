@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛýÿÿÿÿ
+Rsquid:S1854}"<Remove this useless assignment to local variable "particle".(§Õ¬b
+osquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(áÌõ™þÿÿÿÿ
+Ssquid:S1854´"<Remove this useless assignment to local variable "particle".(§Õ¬b
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

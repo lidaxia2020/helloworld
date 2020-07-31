@@ -1,0 +1,41 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+Gsquid:S1066¾"/Merge this if statement with the enclosing one.(Ùóª¬
+dsquid:S3973ê"GUse indentation to denote the code conditionally executed by this "if".(± ¨“ÿÿÿÿÿ
+dsquid:S3973"GUse indentation to denote the code conditionally executed by this "if".(± ¨“ÿÿÿÿÿ
+squid:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õê¬†ıÿÿÿÿ
+squid:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë’œ…ıÿÿÿÿ
+™squid:S1186Ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅöÕ¯
+™squid:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èàÅ€
+squid:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÌÍ®ùÿÿÿÿ
+squid:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿Ş²üøÿÿÿÿ
+squid:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍÂè¨şÿÿÿÿ
+™squid:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö¯È›
+squid:S1186İ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à‚î¯şÿÿÿÿ
+™squid:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³•–¤
+™squid:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñôƒ‡
+˜squid:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø¤ë
+squid:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ——ˆùÿÿÿÿ
+squid:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™°ñ–ûÿÿÿÿ
+osquid:S00116M"WRename this field "m_dtdHandled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¸££
+wsquid:S00116U"ZRename this field "m_escapeSetting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¯à…şÿÿÿÿ
+Esquid:S1172ˆ"(Remove this unused method parameter "n".(Õê¬†ıÿÿÿÿ
+3squid:S3626–"Remove this redundant jump.(ûÁİ…
+Wsquid:S1161½":Add the "@Override" annotation above this method signature(Ë’œ…ıÿÿÿÿ
+3squid:S3626‘"Remove this redundant jump.(ûÁİ…
+Rsquid:S1161Š":Add the "@Override" annotation above this method signature(ï±´
+@squid:S1185"(Remove this method to simply inherit it.(Ÿ½´
+Rsquid:S1161":Add the "@Override" annotation above this method signature(Ÿ½´
+Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(ò–êë
+3squid:S3626ï"Remove this redundant jump.(ûÁİ…
+3squid:S3626ü"Remove this redundant jump.(ûÁİ…
+Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(çí¼üÿÿÿÿ
+3squid:S3626ä"Remove this redundant jump.(ûÁİ…
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(´Ôùíûÿÿÿÿ
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(ÔÎ¶¤øÿÿÿÿ
+Rsquid:S1161®":Add the "@Override" annotation above this method signature(ò–êë
+Rsquid:S1161Ó":Add the "@Override" annotation above this method signature(ïÍéÉ
+Wsquid:S1161¨":Add the "@Override" annotation above this method signature(àñ·ûşÿÿÿÿ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(ı¢Õ»şÿÿÿÿ
+Wsquid:S1161¤":Add the "@Override" annotation above this method signature(–Ó¨Úüÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

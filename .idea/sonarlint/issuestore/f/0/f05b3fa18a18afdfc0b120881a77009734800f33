@@ -1,0 +1,18 @@
+
+Qsquid:S1191!"5Use classes from the Java API instead of Sun classes.(¾Õ‚£üÿÿÿÿ
+Lsquid:S1066ş"/Merge this if statement with the enclosing one.(¿ˆÇ³ÿÿÿÿÿ
+@squid:S1604­"(Make this anonymous inner class a lambda(…Î¡ô
+wsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(­¡‰ÿ
+wsquid:S1149ï"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(­¡‰ÿ
+|squid:S1149Ï"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(“ôÎıÿÿÿÿ
+|squid:S1149¥"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(“ôÎıÿÿÿÿ
+|squid:S1149Ä"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŠõÆ»úÿÿÿÿ
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬¿£Íşÿÿÿÿ
+wsquid:S1149²"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(êÅ…
+wsquid:S1149²"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(êÅ…
+wsquid:S1149³"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Û·‹†
+<squid:S1659"Declare "q" on a separate line.(¥½Ì²şÿÿÿÿ
+<squid:S1659î"Declare "q" on a separate line.(¥½Ì²şÿÿÿÿ
+jsquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ƒõ§û
+Ksquid:S1481¤".Remove this unused "caseFlags" local variable.(Ö‰É¾ûÿÿÿÿ
+csquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(›ŒÖ×

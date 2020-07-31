@@ -1,0 +1,49 @@
+
+… squid:ForLoopCounterChangedCheckõ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÿ…Ø
+… squid:ForLoopCounterChangedCheckö"XRefactor the code in order to not assign to this loop counter from within the loop body.(•ÚÒª
+Š squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ºÉ…Ÿşÿÿÿÿ
+… squid:ForLoopCounterChangedCheck›"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ç¸€ 
+Š squid:ForLoopCounterChangedCheck¶"XRefactor the code in order to not assign to this loop counter from within the loop body.(³Îßîøÿÿÿÿ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(©÷Éêúÿÿÿÿ
+Lsquid:S1066¸"/Merge this if statement with the enclosing one.(åİàÑøÿÿÿÿ
+Jsquid:S1199¶"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199å	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199·
+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199×
+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199®"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199À"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ä"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199†"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+_squid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(¦†ıì
+_squid:S00112ş"FDefine and throw a dedicated exception instead of using a generic one.(‘ú¼˜
+ssquid:S00115¯"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È´Ï
+xsquid:S00115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ã´Áˆûÿÿÿÿ
+xsquid:S00115´"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ß§Âüÿÿÿÿ
+ssquid:S00115µ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•ºõ‘
+ssquid:S00115¶"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É¶äÊ
+|squid:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+}squid:S1149æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+|squid:S1149ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¦ªÙÎşÿÿÿÿ
+}squid:S1149ß"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+c
+squid:S128Ñ"LEnd this switch case with an unconditional break, return or throw statement.(ş¬×à
+psquid:S3776¤"SRefactor this method to reduce its Cognitive Complexity from 252 to the 15 allowed.(Ú–Ÿûÿÿÿÿ
+<squid:S1659ª"$Declare "opcode" on a separate line.(¬™Øø
+<squid:S1659ª"$Declare "opdata" on a separate line.(¬™Øø
+V"squid:SwitchLastCaseIsDefaultCheck€
+""Add a default case to this switch.(ÕÜÒ®úÿÿÿÿ
+Fsquid:S1940„
+")Use the opposite operator ("!=") instead.(°©Ùÿÿÿÿÿ
+Asquid:S1940Œ
+")Use the opposite operator ("!=") instead.(äÏÅÙ
+Fsquid:S1940”
+")Use the opposite operator ("!=") instead.(ş”ÄŠÿÿÿÿÿ
+osquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÛĞê´ùÿÿÿÿ
+jsquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¾·Ç½
+^squid:S3027ÿ"FPut single-quotes around '$' to use the faster "indexOf(char)" method.(‡¶éŒ
+Fsquid:S1125‡")Remove the literal "false" boolean value.(ı¯Œ’ûÿÿÿÿ
+^squid:S1126ÿ"AReplace this if-then-else statement by a single return statement.(²æ”üÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,37 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(áóš
+Rsquid:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+^squid:S00107j"AConstructor has 8 parameters, which is greater than 7 authorized.(•ãˆÚøÿÿÿÿ
+osquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¡‰£şÿÿÿÿ
+osquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÑÔıÿÿÿÿ
+}squid:UselessImportCheckG"TRemove this unnecessary import: same package classes are always implicitly imported.(ªá›’ùÿÿÿÿ
+_squid:UselessImportCheck;";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+fsquid:UselessImportCheck5"BRemove this unused import 'org.omg.CORBA.TypeCodePackage.BadKind'.(ÍË‹‘
+[squid:UselessImportCheck:"7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
+hsquid:UselessImportCheck6"?Remove this unused import 'org.omg.CORBA.UnknownUserException'.(šÄöõúÿÿÿÿ
+[squid:UselessImportCheck8"2Remove this unused import 'org.omg.CORBA.UNKNOWN'.(œœõ–ùÿÿÿÿ
+_squid:UselessImportCheck<";Remove this unused import 'org.omg.CORBA.WrongTransaction'.(ƒƒŞã
+Zsquid:UselessImportCheck7"1Remove this unused import 'org.omg.CORBA.Bounds'.(˜†ÙËûÿÿÿÿ
+osquid:S00116O"RRename this field "_target" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â™§ıÿÿÿÿ
+osquid:S00116P"RRename this field "_opName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤·ôäÿÿÿÿÿ
+msquid:S00116Q"URename this field "_arguments" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÛö˜
+nsquid:S00116R"VRename this field "_exceptions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‰Îò
+jsquid:S00116S"RRename this field "_result" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‹©Ş
+gsquid:S00116T"ORename this field "_env" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–­©
+gsquid:S00116U"ORename this field "_ctx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆùÛ«
+psquid:S00116V"SRename this field "_ctxList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æº‰øÿÿÿÿ
+lsquid:S00116W"ORename this field "_orb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‹¿ºúÿÿÿÿ
+jsquid:S00116X"SRename this field "_wrapper" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìš¬
+lsquid:S00116["TRename this field "_isOneWay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şˆ™ô
+ssquid:S00116\"VRename this field "_paramCodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ˆŠ’üÿÿÿÿ
+ssquid:S00116]"VRename this field "_paramLongs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦êıÍøÿÿÿÿ
+osquid:S00116^"XRename this field "_paramObjects" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªãùW
+Fsquid:S1125–")Remove the literal "false" boolean value.(ÏÃ¹êøÿÿÿÿ
+csquid:S2142œ"FEither re-interrupt this method or rethrow the "InterruptedException".(ğ‹Ù¼ùÿÿÿÿ
+Gsquid:S00108œ")Either remove or fill this block of code.(ğ‹Ù¼ùÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck¼""Add a default case to this switch.(ÒößÑ
+Q"squid:SwitchLastCaseIsDefaultCheckí""Add a default case to this switch.(ÒößÑ
+Ksquid:S1068\"/Remove this unused "_paramCodes" private field.(·ˆŠ’üÿÿÿÿ
+Ksquid:S1068]"/Remove this unused "_paramLongs" private field.(¦êıÍøÿÿÿÿ
+Gsquid:S1068^"1Remove this unused "_paramObjects" private field.(ªãùW
+hsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(ëØšıÿÿÿÿ

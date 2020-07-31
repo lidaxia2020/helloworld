@@ -1,0 +1,58 @@
+
+… squid:ForLoopCounterChangedCheckƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß«±¿
+… squid:ForLoopCounterChangedCheckˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(©¬§À
+Š squid:ForLoopCounterChangedCheck»"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ…ô…ÿÿÿÿÿ
+… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß«±¿
+Š squid:ForLoopCounterChangedCheck‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÙæÄ¦üÿÿÿÿ
+Qsquid:S1191/"5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
+isquid:S1192Œ"QDefine a constant instead of duplicating this literal "The character '" 10 times.(î©Š
+wsquid:S1192Œ"_Define a constant instead of duplicating this literal "' is an invalid XML character" 10 times.(î©Š
+dsquid:S1192”"GDefine a constant instead of duplicating this literal "]]>&#x" 3 times.(ñ¼àşÿÿÿÿ
+csquid:S1192–"KDefine a constant instead of duplicating this literal ";<![CDATA[" 3 times.(‘¼¨ÿ
+u
+squid:S135ş"YReduce the total number of break and continue statements in this loop to use at most one.(ƒâÙ‡şÿÿÿÿ
+p
+squid:S135Ö"YReduce the total number of break and continue statements in this loop to use at most one.(îÑíİ
+wsquid:UselessImportCheck7"NRemove this unused import 'com.sun.org.apache.xerces.internal.impl.Constants'.(şìêòùÿÿÿÿ
+Nsquid:S2387€"6"fNSBinder" is the name of a field in "XMLSerializer".(÷Ğ…¯
+Ssquid:S2387ƒ";"fLocalNSBinder" is the name of a field in "XMLSerializer".(Â¿À…
+Qsquid:S2387†"9"fSymbolTable" is the name of a field in "XMLSerializer".(¶„™í
+Usquid:S2387›"8"fNamespaces" is the name of a field in "XMLSerializer".(§¼§øÿÿÿÿ
+]squid:CallToDeprecatedMethodo"5Remove this use of "XMLSerializer"; it is deprecated.(ûôÂó
+ksquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(Ò±œ§
+csquid:CallToDeprecatedMethodª"5Remove this use of "XMLSerializer"; it is deprecated.(ŸäåÖıÿÿÿÿ
+]squid:CallToDeprecatedMethod·"4Remove this use of "OutputFormat"; it is deprecated.(Íà¹¤
+^squid:CallToDeprecatedMethod¸"5Remove this use of "XMLSerializer"; it is deprecated.(±ŒÚ¶
+bsquid:CallToDeprecatedMethodÉ"4Remove this use of "OutputFormat"; it is deprecated.(³Öß¹øÿÿÿÿ
+^squid:CallToDeprecatedMethodÊ"5Remove this use of "XMLSerializer"; it is deprecated.(·Ô©º
+bsquid:CallToDeprecatedMethodÚ"4Remove this use of "OutputFormat"; it is deprecated.(åŠğÀıÿÿÿÿ
+csquid:CallToDeprecatedMethodÛ"5Remove this use of "XMLSerializer"; it is deprecated.(œğŞ¡ùÿÿÿÿ
+bsquid:CallToDeprecatedMethodÛ"4Remove this use of "OutputFormat"; it is deprecated.(œğŞ¡ùÿÿÿÿ
+\squid:CallToDeprecatedMethodÛ".Remove this use of "Method"; it is deprecated.(œğŞ¡ùÿÿÿÿ
+3squid:S3626"Remove this redundant jump.(ÉŠ©ƒ
+osquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(éìåÁÿÿÿÿÿ
+Wsquid:S1161ä":Add the "@Override" annotation above this method signature(éìåÁÿÿÿÿÿ
+\squid:CallToDeprecatedMethodç"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+?squid:S1905Œ"'Remove this unnecessary cast to "char".(î©Š
+jsquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿¸¡
+Rsquid:S1161¶":Add the "@Override" annotation above this method signature(¿¸¡
+3squid:S3626"Remove this redundant jump.(ÉŠ©ƒ
+osquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(âş„€úÿÿÿÿ
+Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(âş„€úÿÿÿÿ
+gsquid:CallToDeprecatedMethodà"9Remove this use of "DOMSerializerImpl"; it is deprecated.(©­ Êÿÿÿÿÿ
+bsquid:CallToDeprecatedMethodá"9Remove this use of "DOMSerializerImpl"; it is deprecated.(‡Ãº
+?squid:S1905Œ"'Remove this unnecessary cast to "char".(óû°
+Rsquid:S1161¢":Add the "@Override" annotation above this method signature(ÑíªÆ
+osquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ğ¬‚¿ûÿÿÿÿ
+Wsquid:S1161Õ":Add the "@Override" annotation above this method signature(ğ¬‚¿ûÿÿÿÿ
+?squid:S1905æ"'Remove this unnecessary cast to "char".(î©Š
+?squid:S1905ü"'Remove this unnecessary cast to "char".(î©Š
+osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÀƒÃùÿÿÿÿ
+Wsquid:S1161‹":Add the "@Override" annotation above this method signature(ÀƒÃùÿÿÿÿ
+ssquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ò°öû
+?squid:S1905œ"'Remove this unnecessary cast to "char".(î©Š
+?squid:S1905²"'Remove this unnecessary cast to "char".(î©Š
+Wsquid:S1161À":Add the "@Override" annotation above this method signature(Æ”Šãùÿÿÿÿ
+Bsquid:S1481"*Remove this unused "index" local variable.(Î‚í„
+Jsquid:S1068"2Remove this unused "fPreserveSpace" private field.(ˆ£ßÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

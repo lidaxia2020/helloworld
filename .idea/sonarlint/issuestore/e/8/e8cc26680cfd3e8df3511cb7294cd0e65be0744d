@@ -1,0 +1,5 @@
+
+Lsquid:S1191&"5Use classes from the Java API instead of Sun classes.(¼ÆÊ­
+>squid:S1165@"'Make this "revocationDate" field final.(œþÛŒ
+?squid:S1165O"#Make this "extensions" field final.(¿ž§²üÿÿÿÿ
+vsquid:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öàä°ýÿÿÿÿ

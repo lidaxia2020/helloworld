@@ -1,0 +1,30 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+hsquid:S1192¨"KDefine a constant instead of duplicating this literal "Warning:  " 3 times.(Ÿ›ıÿÿÿÿ
+Rsquid:S1141Ÿ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¥"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¬"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+vsquid:S3008K"ZRename this field "m_parserFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“šªãûÿÿÿÿ
+5squid:S5164S"Call "remove()" on "m_readers".(ñ£úW
+ksquid:S00116S"TRename this field "m_readers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ£úW
+jsquid:S00116["RRename this field "m_inUse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹£Ë÷
+~squid:S00116]"aRename this field "m_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼»ÁŒûÿÿÿÿ
+ysquid:S00116_"\Rename this field "_secureProcessing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š®•Šúÿÿÿÿ
+zsquid:S00116f"]Rename this field "_accessExternalDTD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿí¼¦øÿÿÿÿ
+{squid:S00116h"^Rename this field "_xmlSecurityManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦àñÕşÿÿÿÿ
+wsquid:S00115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Òú·ùÿÿÿÿ
+jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Ğ€§’
+bsquid:S2147Å"ECombine this catch with the one at line 196, which has the same body.(¯‰ú…úÿÿÿÿ
+Jsquid:S2755¤"-Disable XML external entity (XXE) processing.(‡¼Òüÿÿÿÿ
+fsquid:CallToDeprecatedMethod¤"8Remove this use of "XMLReaderFactory"; it is deprecated.(‡¼Òüÿÿÿÿ
+U
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(Ÿ›ıÿÿÿÿ
+tsquid:S2737¶"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(õûåÿÿÿÿÿ
+Bsquid:S00108Ä")Either remove or fill this block of code.(­ïÍ
+Gsquid:S00108Å")Either remove or fill this block of code.(¯‰ú…úÿÿÿÿ
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(Ÿ›ıÿÿÿÿ
+U
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(Ÿ›ıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

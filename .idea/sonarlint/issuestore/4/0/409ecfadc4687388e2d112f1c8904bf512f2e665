@@ -1,0 +1,26 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+dsquid:S3973ú"GUse indentation to denote the code conditionally executed by this "if".(¥çÞàþÿÿÿÿ
+ksquid:S00101³"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êžðýÿÿÿÿ
+nsquid:S00116>"QRename this field "m_expr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«•¾—úÿÿÿÿ
+lsquid:S00116A"TRename this field "m_exprObj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŸé“
+wsquid:S00116C"ZRename this field "m_mustHardReset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÉëÕøÿÿÿÿ
+usquid:S00116D"]Rename this field "m_canDetachNodeset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÔŠø
+}squid:S1149õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+jsquid:ModifiersOrderCheckA"EReorder the modifiers to comply with the Java Language Specification.(öŸé“
+Vsquid:S1161j":Add the "@Override" annotation above this method signature(òÚèˆþÿÿÿÿ
+¿%squid:RedundantThrowsDeclarationCheck}"ˆRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.utils.WrappedRuntimeException' which is a runtime exception.(™‹õƒûÿÿÿÿ
+Jsquid:S1135¢"2Complete the task associated to this TODO comment.(Ñˆˆ¨
+Rsquid:S1161Ý":Add the "@Override" annotation above this method signature(¶ÕŠ¹
+Wsquid:S1161š":Add the "@Override" annotation above this method signature(ì¦³»ùÿÿÿÿ
+asquid:S4201œ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÍåÂÂ
+Rsquid:S1161®":Add the "@Override" annotation above this method signature(áý¼ü
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(Ýì÷—ÿÿÿÿÿ
+Wsquid:S1161ã":Add the "@Override" annotation above this method signature(ôÝè¬ýÿÿÿÿ
+^squid:S1126é"AReplace this if-then-else statement by a single return statement.(Ùá­éüÿÿÿÿ
+Wsquid:S1161ø":Add the "@Override" annotation above this method signature(™³€áøÿÿÿÿ
+Osquid:S1068C"3Remove this unused "m_mustHardReset" private field.(ÀÉëÕøÿÿÿÿ
+Msquid:S1068D"6Remove this unused "m_canDetachNodeset" private field.(åÔŠø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+hsquid:CommentedOutCodeLineŽ"<This block of commented-out lines of code should be removed.(µ×¦¸øÿÿÿÿ
+csquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(ªÇ¯

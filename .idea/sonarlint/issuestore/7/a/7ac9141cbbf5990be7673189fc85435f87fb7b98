@@ -1,0 +1,17 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(è¬á¿üÿÿÿÿ
+^squid:S00112u"FDefine and throw a dedicated exception instead of using a generic one.(ãğ¥’
+_squid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(ãğ¥’
+Vsquid:S1118'":Add a private constructor to hide the implicit public one.(ù¦–ğÿÿÿÿÿ
+isquid:ModifiersOrderCheck2"EReorder the modifiers to comply with the Java Language Specification.(ìÁŒe
+Osquid:UselessParenthesesCheckA"!Remove these useless parentheses.(‘åß±üÿÿÿÿ
+jsquid:ModifiersOrderCheckS"EReorder the modifiers to comply with the Java Language Specification.(ÈŸ†Ú
+nsquid:S3776_"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(’ôğûøÿÿÿÿ
+osquid:ModifiersOrderCheck_"EReorder the modifiers to comply with the Java Language Specification.(’ôğûøÿÿÿÿ
+=squid:S1168`"&Return an empty array instead of null.(ƒËÛ
+bsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ÏøÓş
+gsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(Œó§ıÿÿÿÿ
+bsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(ÏøÓş
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(âË¢Öıÿÿÿÿ
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ÏøÓş
+hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Œó§ıÿÿÿÿ

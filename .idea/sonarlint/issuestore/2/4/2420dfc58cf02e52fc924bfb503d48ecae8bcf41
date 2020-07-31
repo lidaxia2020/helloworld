@@ -1,0 +1,342 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
+hsquid:S1192ï"PDefine a constant instead of duplicating this literal "ISO-10646-UCS-4" 6 times.(õİğ
+esquid:S1192«"MDefine a constant instead of duplicating this literal ")skipChar, '" 3 times.(Äœ°
+msquid:S1192 "UDefine a constant instead of duplicating this literal "skipString,length = " 3 times.(ó›Ü“
+gsquid:S1192Ó"JDefine a constant instead of duplicating this literal " -> false" 4 times.(¨—éŒıÿÿÿÿ
+jsquid:S1192‚"MDefine a constant instead of duplicating this literal ")scanQName, " 3 times.(åÔ‰ùÿÿÿÿ
+hsquid:S1192Â"KDefine a constant instead of duplicating this literal "]newline, " 6 times.(ô€óğıÿÿÿÿ
+asquid:S1192ğ"IDefine a constant instead of duplicating this literal "UTF-16BE" 4 times.(ß£©¼
+asquid:S1192„"IDefine a constant instead of duplicating this literal " -> true" 6 times.(¸ş´
+^squid:S1192Á"FDefine a constant instead of duplicating this literal " -> '" 5 times.(½ÊÔ
+^squid:S1192¿"FDefine a constant instead of duplicating this literal "UTF-8" 7 times.(ìÜš°
+csquid:S1192"KDefine a constant instead of duplicating this literal "[newline, " 3 times.(ÓÈÇì
+Lsquid:S1066“"/Merge this if statement with the enclosing one.(üÆÀåøÿÿÿÿ
+Lsquid:S1066’"/Merge this if statement with the enclosing one.(üÆÀåøÿÿÿÿ
+Jsquid:S1199™"-Extract this nested code block into a method.(Îè“ÿùÿÿÿÿ
+Esquid:S1199"-Extract this nested code block into a method.(À–ä˜
+Esquid:S1199¡"-Extract this nested code block into a method.(‘µ€
+Dsquid:S1199¥"-Extract this nested code block into a method.(Í½_
+Jsquid:S1199©"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck®".Extract the assignment out of this expression.(Ûå¾Ö
+_$squid:AssignmentInSubExpressionCheck©".Extract the assignment out of this expression.(Ûå¾Ö
+u
+squid:S135­"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+u
+squid:S135”"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+u
+squid:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+u
+squid:S135“"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+u
+squid:S135´	"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+u
+squid:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+o
+squid:S135Õ"YReduce the total number of break and continue statements in this loop to use at most one.(õß³Q
+p
+squid:S135Ğ"YReduce the total number of break and continue statements in this loop to use at most one.(ıµßó
+asquid:S2583’"DChange this condition so that it does not always evaluate to "false"(øıÎËıÿÿÿÿ
+Qsquid:S4973™"9Use the "equals" method if value comparison was intended.(îÌø—
+isquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÚÜc
+isquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÚÜc
+Nsquid:S1153Ö"1Directly append the argument of String.valueOf().(…©µüÿÿÿÿ
+Nsquid:S1153"1Directly append the argument of String.valueOf().(…©µüÿÿÿÿ
+Nsquid:S1153¾"1Directly append the argument of String.valueOf().(…©µüÿÿÿÿ
+squid:S1149P"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”Àùÿÿÿÿ
+esquid:S3551f"IMake this method "synchronized" to match the parent class implementation.(ÈÒÄøÿÿÿÿ
+Vsquid:S1161f":Add the "@Override" annotation above this method signature(ÈÒÄøÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheckè"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+P
+squid:S106±"9Replace this use of System.out or System.err by a logger.(¦¹€ü
+osquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(°¡¸éÿÿÿÿÿ
+U
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(×ÄÊ½ûÿÿÿÿ
+P
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ƒ€¯†
+U
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(Ÿû”÷ÿÿÿÿÿ
+O
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(‘‰d
+U
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(ƒ®‚Âúÿÿÿÿ
+P
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(½ÊÔ
+U
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(äÔş²üÿÿÿÿ
+U
+squid:S106Ş"9Replace this use of System.out or System.err by a logger.(±—ÖËùÿÿÿÿ
+U
+squid:S106à"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(âÒóüÿÿÿÿ
+U
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(äÔş²üÿÿÿÿ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(óï »
+P
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(íˆÎí
+U
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(úÔÍ
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(…©µüÿÿÿÿ
+osquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(È÷ù´üÿÿÿÿ
+U
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(—Ğ¦¾ùÿÿÿÿ
+U
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(Ãªøßÿÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(…©µüÿÿÿÿ
+U
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(Ãªøßÿÿÿÿÿ
+U
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(…©µüÿÿÿÿ
+osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(æ¤¶Öÿÿÿÿÿ
+U
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(ú—¢Şÿÿÿÿÿ
+U
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(åÔ‰ùÿÿÿÿ
+P
+squid:S106„"9Replace this use of System.out or System.err by a logger.(¸ş´
+U
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(åÔ‰ùÿÿÿÿ
+P
+squid:S106É"9Replace this use of System.out or System.err by a logger.(¸ş´
+U
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(åÔ‰ùÿÿÿÿ
+U
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(¨—éŒıÿÿÿÿ
+jsquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ó«ÙÔ
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(ÚÆøÂøÿÿÿÿ
+U
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓÈÇì
+U
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(ô€óğıÿÿÿÿ
+U
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106É"9Replace this use of System.out or System.err by a logger.(ô€óğıÿÿÿÿ
+U
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106é"9Replace this use of System.out or System.err by a logger.(úœ¨İûÿÿÿÿ
+U
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(äÔş²üÿÿÿÿ
+jsquid:S3776—	"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(ËÆ¶‡
+P
+squid:S106š	"9Replace this use of System.out or System.err by a logger.(÷úÌó
+U
+squid:S106œ	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106°	"9Replace this use of System.out or System.err by a logger.(ÓÈÇì
+U
+squid:S106²	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106ğ	"9Replace this use of System.out or System.err by a logger.(ô€óğıÿÿÿÿ
+U
+squid:S106ò	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106÷	"9Replace this use of System.out or System.err by a logger.(ô€óğıÿÿÿÿ
+U
+squid:S106ù	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106š
+"9Replace this use of System.out or System.err by a logger.(»›§ÿÿÿÿÿ
+U
+squid:S106œ
+"9Replace this use of System.out or System.err by a logger.(äÔş²üÿÿÿÿ
+psquid:S3776Ü
+"SRefactor this method to reduce its Cognitive Complexity from 100 to the 15 allowed.(ìÉâ ùÿÿÿÿ
+P
+squid:S106ä
+"9Replace this use of System.out or System.err by a logger.(úè×ä
+U
+squid:S106æ
+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ÓÈÇì
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(ô€óğıÿÿÿÿ
+U
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106É"9Replace this use of System.out or System.err by a logger.(ô€óğıÿÿÿÿ
+U
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheckĞ";Refactor the code to remove this label and the need for it.(ıµßó
+U
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(æ“›êúÿÿÿÿ
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(Ùˆˆÿÿÿÿÿ
+osquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•ÔÚ¹øÿÿÿÿ
+P
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ìÚíí
+U
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106«"9Replace this use of System.out or System.err by a logger.(Äœ°
+P
+squid:S106­"9Replace this use of System.out or System.err by a logger.(¸ş´
+P
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(Äœ°
+P
+squid:S106À"9Replace this use of System.out or System.err by a logger.(¸ş´
+P
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(Äœ°
+U
+squid:S106É"9Replace this use of System.out or System.err by a logger.(¨—éŒıÿÿÿÿ
+osquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(¡ÁÃ¥ıÿÿÿÿ
+O
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(€ÇÆ
+U
+squid:S106é"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106°"9Replace this use of System.out or System.err by a logger.(´´şİ
+P
+squid:S106²"9Replace this use of System.out or System.err by a logger.(¸ş´
+P
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(´´şİ
+U
+squid:S106»"9Replace this use of System.out or System.err by a logger.(¨—éŒıÿÿÿÿ
+U
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(³‡öüÿÿÿÿ
+P
+squid:S106à"9Replace this use of System.out or System.err by a logger.(§òÅ¼
+U
+squid:S106á"9Replace this use of System.out or System.err by a logger.(ûûÆËşÿÿÿÿ
+U
+squid:S106õ"9Replace this use of System.out or System.err by a logger.(³‡öüÿÿÿÿ
+P
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(§òÅ¼
+U
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(ûûÆËşÿÿÿÿ
+Ysquid:S1126ı"AReplace this if-then-else statement by a single return statement.(Á»«ˆ
+P
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ó›Ü“
+O
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(íÃ÷b
+Zsquid:S1854¹"=Remove this useless assignment to local variable "afterSkip".(­¥¶“şÿÿÿÿ
+P
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(¤ò–°
+P
+squid:S106½"9Replace this use of System.out or System.err by a logger.(¤ò–°
+Fsquid:S1940Á")Use the opposite operator ("!=") instead.(÷‚ãŸùÿÿÿÿ
+osquid:S3776é"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ˆ×òØüÿÿÿÿ
+P
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(›÷ˆï
+U
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(†”çûÿÿÿÿ
+P
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(¿÷ò
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ¾£Šşÿÿÿÿ
+U
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+jsquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(‰ÈŸÙ
+U
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(˜š“ùÿÿÿÿ
+P
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(½ÀœÁ
+P
+squid:S106’"9Replace this use of System.out or System.err by a logger.(½ÀœÁ
+P
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(¿”ºŒ
+U
+squid:S106š"9Replace this use of System.out or System.err by a logger.(»¼À½ùÿÿÿÿ
+U
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+osquid:S3776°"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(î’ĞÇÿÿÿÿÿ
+>squid:S2129»"!Remove this "Boolean" constructor(²Ñù÷ÿÿÿÿÿ
+]squid:CallToDeprecatedMethod»"/Remove this use of "Boolean"; it is deprecated.(²Ñù÷ÿÿÿÿÿ
+>squid:S2129¿"!Remove this "Boolean" constructor(éòşÿÿÿÿÿ
+]squid:CallToDeprecatedMethod¿"/Remove this use of "Boolean"; it is deprecated.(éòşÿÿÿÿÿ
+9squid:S2129Ø"!Remove this "Boolean" constructor(Š¼áº
+Xsquid:CallToDeprecatedMethodØ"/Remove this use of "Boolean"; it is deprecated.(Š¼áº
+9squid:S2129Ü"!Remove this "Boolean" constructor(”Ô‡ì
+Xsquid:CallToDeprecatedMethodÜ"/Remove this use of "Boolean"; it is deprecated.(”Ô‡ì
+>squid:S2129ì"!Remove this "Boolean" constructor(²Ñù÷ÿÿÿÿÿ
+]squid:CallToDeprecatedMethodì"/Remove this use of "Boolean"; it is deprecated.(²Ñù÷ÿÿÿÿÿ
+>squid:S2129ñ"!Remove this "Boolean" constructor(éòşÿÿÿÿÿ
+]squid:CallToDeprecatedMethodñ"/Remove this use of "Boolean"; it is deprecated.(éòşÿÿÿÿÿ
+isquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(óûo
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÛá¹
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëòøÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(”¶¼§
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÏ·¥üÿÿÿÿ
+U
+squid:S106’"9Replace this use of System.out or System.err by a logger.(«ÙøÜşÿÿÿÿ
+U
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ïÉ¾Òúÿÿÿÿ
+P
+squid:S106š"9Replace this use of System.out or System.err by a logger.(Üßœ¢
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒÃ{
+P
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(¢”‡Ô
+P
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(¤°ÜÆ
+U
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(–í˜úÿÿÿÿ
+U
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(ïÉ¾Òúÿÿÿÿ
+U
+squid:S106±"9Replace this use of System.out or System.err by a logger.(Ë½ƒüıÿÿÿÿ
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(Ş½áşÿÿÿÿ
+U
+squid:S106´"9Replace this use of System.out or System.err by a logger.(å÷õ”úÿÿÿÿ
+P
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(†Èüå
+U
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(ùÄùıÿÿÿÿ
+P
+squid:S106·"9Replace this use of System.out or System.err by a logger.(Â­“ü
+P
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(»·¾¨
+isquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(µä¯h
+P
+squid:S106ó"9Replace this use of System.out or System.err by a logger.(¢»Œı
+U
+squid:S106õ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106«"9Replace this use of System.out or System.err by a logger.(„Â‘ıÿÿÿÿ
+P
+squid:S106­"9Replace this use of System.out or System.err by a logger.(¸ş´
+U
+squid:S106´"9Replace this use of System.out or System.err by a logger.(„Â‘ıÿÿÿÿ
+U
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(¨—éŒıÿÿÿÿ
+Ksquid:S1481¹".Remove this unused "afterSkip" local variable.(­¥¶“şÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ÆæŠÿÿÿÿÿ
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ŸñáÑ
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(ÂŞ·ııÿÿÿÿ
+bsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(™‰©
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™‰©
+hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(şÎ¬Ûıÿÿÿÿ
+hsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(şÎ¬Ûıÿÿÿÿ
+csquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(Ò¡†
+csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(Ü‡“å
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(Ô»“‡
+csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(Ô»“‡
+csquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(Ô»“‡

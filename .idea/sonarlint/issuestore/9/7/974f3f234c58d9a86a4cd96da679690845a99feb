@@ -1,0 +1,12 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ‡æûÿÿÿÿ
+esquid:S30146"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ÃéäÉúÿÿÿÿ
+`squid:S3014D"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(™›å¥
+`squid:S3014E"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(³Èûî
+?squid:S1604Z"(Make this anonymous inner class a lambda(ç´Ë­
+}squid:UselessImportCheck+"TRemove this unnecessary import: same package classes are always implicitly imported.(İ†’øÿÿÿÿ
+Gsquid:UselessImportCheck/"Remove this duplicated import.(Ëó’œıÿÿÿÿ
+[squid:S1134İ"DTake the required action to fix the issue indicated by this comment.(Å‹š}
+[squid:S1134ê"DTake the required action to fix the issue indicated by this comment.(Å‹š}
+[squid:S1134÷"DTake the required action to fix the issue indicated by this comment.(Å‹š}
+[squid:S1134„"DTake the required action to fix the issue indicated by this comment.(Å‹š}

@@ -1,0 +1,19 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(äªŒ­
+ssquid:S1192™"[Define a constant instead of duplicating this literal "removeNotificationListener" 3 times.(Ì å³
+isquid:S1192‘"LDefine a constant instead of duplicating this literal "fetchNotifs" 4 times.(”ïŞşÿÿÿÿ
+tsquid:S1192S"XDefine a constant instead of duplicating this literal "addNotificationListener" 3 times.(Óğ¿¬øÿÿÿÿ
+Gsquid:S1066Æ"/Merge this if statement with the enclosing one.(ÀÏ·
+asquid:S2583³"DChange this condition so that it does not always evaluate to "false"(ê†ÔÀüÿÿÿÿ
+asquid:S2583®"DChange this condition so that it does not always evaluate to "false"(ê†ÔÀüÿÿÿÿ
+Vsquid:S4973º"9Use the "equals" method if value comparison was intended.(ĞÔÑåúÿÿÿÿ
+dsquid:S00112–"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áÖíúÿÿÿÿ
+vsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª´‰ıÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck‹"Remove this empty statement.(ôŸìúÿÿÿÿ
+^squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä³Á€
+˜%squid:RedundantThrowsDeclarationCheckÿ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(”ÜÃ¼
+˜%squid:RedundantThrowsDeclarationCheck…"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(”ÜÃ¼
+psquid:ModifiersOrderCheckø"EReorder the modifiers to comply with the Java Language Specification.(ªÈ·ùÿÿÿÿ
+qsquid:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¨š
+Psquid:S3398¦"3Move this method into "NotifForwarderBufferFilter".(Ş‚«ìşÿÿÿÿ

@@ -1,0 +1,37 @@
+
+… squid:ForLoopCounterChangedCheckâ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¹½¯
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+^squid:S1192Ñ"FDefine a constant instead of duplicating this literal "xmlns" 4 times.(”»æ
+Gsquid:S1066¦"/Merge this if statement with the enclosing one.(Æş³
+Gsquid:S1066—"/Merge this if statement with the enclosing one.(Æş³
+Lsquid:S1066ú"/Merge this if statement with the enclosing one.(ë‰õöøÿÿÿÿ
+Lsquid:S1066Û"/Merge this if statement with the enclosing one.(ë‰õöøÿÿÿÿ
+Lsquid:S1066±"/Merge this if statement with the enclosing one.(ë‰õöøÿÿÿÿ
+_squid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112É"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+msquid:S00116L"URename this field "_localName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÂÏº
+psquid:S00116V"XRename this field "_namespaceURI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÇÁ—
+jsquid:S00116`"RRename this field "_prefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß·¢Ê
+rsquid:S00116s"URename this field "m_hashCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŒ©àıÿÿÿÿ
+hsquid:S1149®"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(€úİ‹
+msquid:S1149Á"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(æÿ™…ùÿÿÿÿ
+osquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(æÿ™…ùÿÿÿÿ
+osquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•—Öçÿÿÿÿÿ
+Osquid:S1135Ò"2Complete the task associated to this TODO comment.(ì„ïıÿÿÿÿ
+asquid:S3358ù"DExtract this nested ternary operation into an independent statement.(Ú³²ãùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ìÔæÜşÿÿÿÿ
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(ø«òøÿÿÿÿ
+hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(ìÔæÜşÿÿÿÿ
+hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(ø«òøÿÿÿÿ
+hsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(…Ä£¥ùÿÿÿÿ
+hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ìÔæÜşÿÿÿÿ
+hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ø«òøÿÿÿÿ
+hsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(‹Ã¥üÿÿÿÿ
+hsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(ø«òøÿÿÿÿ
+hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(‹Ã¥üÿÿÿÿ
+hsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(ø«òøÿÿÿÿ
+hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(‹Ã¥üÿÿÿÿ
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ø«òøÿÿÿÿ

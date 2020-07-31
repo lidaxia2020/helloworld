@@ -1,0 +1,5 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(“ÀÝ¬
+|squid:S1192a"`Define a constant instead of duplicating this literal "sun.security.util.AuthResources" 3 times.(²ýø°ûÿÿÿÿ
+6squid:S2129k" Remove this "String" constructor(‡¨¹v
+^squid:S1126µ"AReplace this if-then-else statement by a single return statement.(Ô‡âÄþÿÿÿÿ

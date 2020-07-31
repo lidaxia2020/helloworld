@@ -1,0 +1,16 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(¿ÎÑœ
+@squid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+tsquid:S3008<"XRename this field "VERSION_MAJOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÌ¹ôÿÿÿÿÿ
+tsquid:S3008="XRename this field "VERSION_MINOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â’Áéøÿÿÿÿ
+osquid:S3008>"XRename this field "VERSION_DELTA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ç´§
+lsquid:S3008F"URename this field "_allowExit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÃ¨ö
+‚squid:S1149›"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ö»ýðüÿÿÿÿ
+O
+squid:S106J"9Replace this use of System.out or System.err by a logger.(›æûÒ
+isquid:S3776\"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(õÏ‡§ùÿÿÿÿ
+U
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(°£Ö‹üÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

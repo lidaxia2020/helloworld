@@ -1,0 +1,40 @@
+
+jsquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ö»
+jsquid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖşÌë
+jsquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁÃ­
+osquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÚÒ¶ùÿÿÿÿ
+_squid:UselessImportCheck"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
+|squid:S1149Ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(îÖöèúÿÿÿÿ
+Lsquid:S1133t"5Do not forget to remove this deprecated code someday.(ùçñ×
+Wsquid:S1161¤":Add the "@Override" annotation above this method signature(ãû§Áÿÿÿÿÿ
+Rsquid:S1161¹":Add the "@Override" annotation above this method signature(…ó¶
+jsquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÕİÔô
+^squid:S1854ï"ARemove this useless assignment to local variable "delimiterTime".(û÷±¶úÿÿÿÿ
+Ysquid:S1854î"ARemove this useless assignment to local variable "delimiterDate".(˜ã™’
+ƒsquid:S2178Ÿ"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(óàäËøÿÿÿÿ
+6squid:S2178Ÿ"Correct this "&" to "&&".(óàäËøÿÿÿÿ
+~squid:S2178¤"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Ê’ìÄ
+_squid:CallToDeprecatedMethod·"1Remove this use of "Timestamp"; it is deprecated.(›ŠøÕøÿÿÿÿ
+jsquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Á»›ê
+Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(Á»›ê
+]squid:CallToDeprecatedMethodÉ"/Remove this use of "getYear"; it is deprecated.(ç‰Ğ‘øÿÿÿÿ
+^squid:CallToDeprecatedMethodÊ"0Remove this use of "getMonth"; it is deprecated.(êˆÏ¡ûÿÿÿÿ
+Xsquid:CallToDeprecatedMethodË"/Remove this use of "getDate"; it is deprecated.(–®·
+Ysquid:CallToDeprecatedMethodÌ"0Remove this use of "getHours"; it is deprecated.(ø¬ÑÀ
+[squid:CallToDeprecatedMethodÍ"2Remove this use of "getMinutes"; it is deprecated.(—¨ÔÇ
+[squid:CallToDeprecatedMethodÎ"2Remove this use of "getSeconds"; it is deprecated.(©¦İ¹
+Ysquid:S1126Ó"AReplace this if-then-else statement by a single return statement.(ˆØÜú
+Wsquid:S1161÷":Add the "@Override" annotation above this method signature(óÛ„ôüÿÿÿÿ
+Tsquid:S4351°"<Refactor this method so that its argument is of type 'Date'.(í½ÁÎ
+asquid:S3358³"DExtract this nested ternary operation into an independent statement.(±“Ì†şÿÿÿÿ
+Qsquid:S1161Ğ":Add the "@Override" annotation above this method signature(úğôD
+Zsquid:CallToDeprecatedMethod‰"1Remove this use of "Timestamp"; it is deprecated.(åÑØ†
+]squid:CallToDeprecatedMethod¤"/Remove this use of "getYear"; it is deprecated.(ˆ‘üÆÿÿÿÿÿ
+Ysquid:CallToDeprecatedMethod¥"0Remove this use of "getMonth"; it is deprecated.(„ûô
+]squid:CallToDeprecatedMethod¦"/Remove this use of "getDate"; it is deprecated.(ıËœûÿÿÿÿ
+^squid:CallToDeprecatedMethod§"0Remove this use of "getHours"; it is deprecated.(Ù’Ê´ıÿÿÿÿ
+`squid:CallToDeprecatedMethod¨"2Remove this use of "getMinutes"; it is deprecated.(ˆ£¤¼úÿÿÿÿ
+`squid:CallToDeprecatedMethod©"2Remove this use of "getSeconds"; it is deprecated.(±ÏüÊøÿÿÿÿ
+Jsquid:S1481î"2Remove this unused "delimiterDate" local variable.(˜ã™’
+Osquid:S1481ï"2Remove this unused "delimiterTime" local variable.(û÷±¶úÿÿÿÿ
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.( úÍ“

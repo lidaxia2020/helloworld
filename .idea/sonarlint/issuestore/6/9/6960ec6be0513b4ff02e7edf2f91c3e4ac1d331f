@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶‘×þ
+8squid:S1165<"Make this "ras" field final.(„ƒ‚ðÿÿÿÿÿ
+7squid:S1165="Make this "bi" field final.(Ó•ö«øÿÿÿÿ
+Asquid:S1948<"%Make "ras" transient or serializable.(„ƒ‚ðÿÿÿÿÿ
+@squid:S1948="$Make "bi" transient or serializable.(Ó•ö«øÿÿÿÿ

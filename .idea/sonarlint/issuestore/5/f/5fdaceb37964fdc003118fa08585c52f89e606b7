@@ -1,0 +1,6 @@
+
+Gsquid:S1066›"/Merge this if statement with the enclosing one.(¥ß¥Æ
+Asquid:S1125›")Remove the literal "false" boolean value.(¥ß¥Æ
+ˆ"squid:SwitchLastCaseIsDefaultCheck¸"YComplete cases by adding the missing enum constants or add a default case to this switch.(°åÎð
+jsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Á»›ê
+csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(ýãœ

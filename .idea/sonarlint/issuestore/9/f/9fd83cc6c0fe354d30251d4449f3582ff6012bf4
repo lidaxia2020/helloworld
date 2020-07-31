@@ -1,0 +1,25 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¢üß–ùÿÿÿÿ
+isquid:S1192³"QDefine a constant instead of duplicating this literal "XPath expression" 3 times.(ı º
+usquid:S1488Ù"]Immediately return this expression instead of assigning it to the temporary variable "ximpl".(÷‚
+_squid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+}squid:S3252s"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252“"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252³"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252±"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252·"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252¿"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+^squid:S1126Ü"AReplace this if-then-else statement by a single return statement.(‘ƒ£…ıÿÿÿÿ
+=squid:S2129ï" Remove this "Double" constructor(¤§£õûÿÿÿÿ
+\squid:CallToDeprecatedMethodï".Remove this use of "Double"; it is deprecated.(¤§£õûÿÿÿÿ
+9squid:S2129ó"!Remove this "Boolean" constructor(ù×ë¹
+Xsquid:CallToDeprecatedMethodó"/Remove this use of "Boolean"; it is deprecated.(ù×ë¹
+~squid:S3252ÿ"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252Ğ"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252•"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252›"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252¡"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252ª"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+]squid:S2147¸"ECombine this catch with the one at line 566, which has the same body.(ï­£Ä
+=squid:S1068É"%Remove this unused "d" private field.(„Õ¦
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

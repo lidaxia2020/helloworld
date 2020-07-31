@@ -1,0 +1,4 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+Tsquid:UselessImportCheck"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'java.awt.Graphics'.(ÂŸÏ§ùÿÿÿÿ

@@ -1,0 +1,7 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(†ø÷ 
+hsquid:S1301Õ"KReplace this "switch" statement by "if" statements to increase readability.(­Ö¹§úÿÿÿÿ
+^squid:S2259 "AA "NullPointerException" could be thrown; "ioe" is nullable here.(êàƒøÿÿÿÿ
+?squid:S2786}")Remove this redundant "static" qualifier.(ÌÕ#
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(×ÛúÌùÿÿÿÿ
+Bsquid:S00108¿")Either remove or fill this block of code.(é¢¦é

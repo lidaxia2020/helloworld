@@ -1,0 +1,18 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
+Dsquid:S1604r"(Make this anonymous inner class a lambda(¶Ò‰ýúÿÿÿÿ
+Tsquid:UselessImportCheck!"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
+Ssquid:UselessImportCheck,"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û
+Tsquid:UselessImportCheck+"+Remove this unused import 'java.awt.Point'.(îÞ˜Úüÿÿÿÿ
+Ssquid:UselessImportCheck#"/Remove this unused import 'java.awt.Container'.(˜ƒ×‹
+Nsquid:UselessImportCheck'"+Remove this unused import 'java.awt.Frame'.(žÂ Q
+Ssquid:UselessImportCheck""/Remove this unused import 'java.awt.Component'.(Ÿð¯ö
+Wsquid:UselessImportCheck(".Remove this unused import 'java.awt.Graphics'.(ÂŸÏ§ùÿÿÿÿ
+Dsquid:S1172I"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
+Vsquid:S1161R":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+?squid:S1172q"(Remove this unused method parameter "m".(¬å‚½
+˜squid:S1186s"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û²éË
+Qsquid:S1161w":Add the "@Override" annotation above this method signature(Û¹å«
+asquid:CallToDeprecatedMethody"4Remove this use of "getModifiers"; it is deprecated.(¯ÂçÝùÿÿÿÿ
+bsquid:S3252y"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(¯ÂçÝùÿÿÿÿ
+asquid:CallToDeprecatedMethody"4Remove this use of "BUTTON3_MASK"; it is deprecated.(¯ÂçÝùÿÿÿÿ

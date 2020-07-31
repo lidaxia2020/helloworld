@@ -1,0 +1,89 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+Gsquid:S1066»"/Merge this if statement with the enclosing one.(Ã¼¾¶
+dsquid:S00112·"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
+jsquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äË ©
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¤™¦
+squid:S1450²"bRemove the "m_setVersion_called" field and declare it as a local variable in the relevant methods.(’Èˆôüÿÿÿÿ
+€squid:S1450º"hRemove the "m_setDoctypeSystem_called" field and declare it as a local variable in the relevant methods.(ğšôÀ
+…squid:S1450Â"hRemove the "m_setDoctypePublic_called" field and declare it as a local variable in the relevant methods.(“úÚäùÿÿÿÿ
+squid:S1450Ê"dRemove the "m_setMediaType_called" field and declare it as a local variable in the relevant methods.(¿­ÃÆøÿÿÿÿ
+dsquid:S2387ª"G"m_needToCallStartDocument" is the name of a field in "SerializerBase".(ıä‰ìûÿÿÿÿ
+lsquid:S00116X"TRename this field "m_handler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ã“
+‰squid:S00116h"lRename this field "m_wrapped_handler_not_initialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É÷¿×ÿÿÿÿÿ
+wsquid:S00116q"_Rename this field "m_firstElementPrefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š•í‡
+tsquid:S00116x"]Rename this field "m_firstElementName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÓŒl
+zsquid:S00116€"\Rename this field "m_firstElementURI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¬¼ÿÿÿÿÿ
+€squid:S00116ˆ"bRename this field "m_firstElementLocalName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¤İüÿÿÿÿ
+}squid:S00116"_Rename this field "m_firstTagNotEmitted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö£ÑÏşÿÿÿÿ
+wsquid:S00116™"YRename this field "m_namespaceURI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úò£øÿÿÿÿ
+usquid:S00116¡"\Rename this field "m_namespacePrefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ïˆµ
+‚squid:S00116ª"dRename this field "m_needToCallStartDocument" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıä‰ìûÿÿÿÿ
+|squid:S00116²"^Rename this field "m_setVersion_called" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Èˆôüÿÿÿÿ
+}squid:S00116º"dRename this field "m_setDoctypeSystem_called" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğšôÀ
+‚squid:S00116Â"dRename this field "m_setDoctypePublic_called" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“úÚäùÿÿÿÿ
+~squid:S00116Ê"`Rename this field "m_setMediaType_called" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­ÃÆøÿÿÿÿ
+‚squid:S1149™"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Úò£øÿÿÿÿ
+}squid:S1149¡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—Ïˆµ
+}squid:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»¤™¦
+wsquid:S1149Š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Wsquid:S1161ß":Add the "@Override" annotation above this method signature(Ë‰¡¹ıÿÿÿÿ
+Wsquid:S1161ñ":Add the "@Override" annotation above this method signature(´Ôùíûÿÿÿÿ
+Wsquid:S1161 ":Add the "@Override" annotation above this method signature(–Ó¨Úüÿÿÿÿ
+Rsquid:S1161ú":Add the "@Override" annotation above this method signature(„ô¡´
+Rsquid:S1161“":Add the "@Override" annotation above this method signature(„ô¡´
+Qsquid:S1161¬":Add the "@Override" annotation above this method signature(ÕàÂ
+Wsquid:S1161Š":Add the "@Override" annotation above this method signature(•±ŒÍıÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¾½§èûÿÿÿÿ
+Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(Êï¢İ
+Rsquid:S1161Ş":Add the "@Override" annotation above this method signature(Ä¿œ
+Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(Òû¾ıÿÿÿÿ
+Wsquid:S1161á":Add the "@Override" annotation above this method signature(À€•ûøÿÿÿÿ
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(›«¾ùÿÿÿÿ
+Wsquid:S1161ü":Add the "@Override" annotation above this method signature(åÈªŒùÿÿÿÿ
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(’ñÍ‚ıÿÿÿÿ
+Rsquid:S1161–":Add the "@Override" annotation above this method signature(¼É‡À
+Qsquid:S1161£":Add the "@Override" annotation above this method signature(ì‰Ì
+Rsquid:S1161°":Add the "@Override" annotation above this method signature(éãÁÅ
+Rsquid:S1161½":Add the "@Override" annotation above this method signature(€ÎØğ
+Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(ø¥²Íıÿÿÿÿ
+Rsquid:S1161Ô":Add the "@Override" annotation above this method signature(†”ØÕ
+Rsquid:S1161ä":Add the "@Override" annotation above this method signature(ù‡›
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(—ûŞ¯úÿÿÿÿ
+Rsquid:S1161‚":Add the "@Override" annotation above this method signature(ÌĞ¢¡
+Wsquid:S1161":Add the "@Override" annotation above this method signature(Ë’œ…ıÿÿÿÿ
+Wsquid:S1161š":Add the "@Override" annotation above this method signature(şªÂæıÿÿÿÿ
+Rsquid:S1161¤":Add the "@Override" annotation above this method signature(ŸÌ™´
+Wsquid:S1161²":Add the "@Override" annotation above this method signature(¥°æØıÿÿÿÿ
+Rsquid:S1161¿":Add the "@Override" annotation above this method signature(¢ÅÜ
+Qsquid:S1161	":Add the "@Override" annotation above this method signature( ‚ëh
+Rsquid:S1161Û	":Add the "@Override" annotation above this method signature(¢ãøÆ
+Wsquid:S1161î":Add the "@Override" annotation above this method signature(ªò…Õıÿÿÿÿ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(Âˆ Ùúÿÿÿÿ
+Rsquid:S1161‘":Add the "@Override" annotation above this method signature(³¿‡Ï
+Wsquid:S1161Â":Add the "@Override" annotation above this method signature(ŠÏ‡Ïøÿÿÿÿ
+Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(Úê†Íúÿÿÿÿ
+Wsquid:S1161Õ":Add the "@Override" annotation above this method signature(æéßùÿÿÿÿ
+Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(¯óà
+Wsquid:S1161ß":Add the "@Override" annotation above this method signature(¼º…òúÿÿÿÿ
+Rsquid:S1161é":Add the "@Override" annotation above this method signature(À¶Ç°
+Wsquid:S1161":Add the "@Override" annotation above this method signature(ßÖØøÿÿÿÿ
+Usquid:S1197’"8Move the array designator from the variable to the type.(÷½µ£ÿÿÿÿÿ
+Tsquid:S1068²"7Remove this unused "m_setVersion_called" private field.(’Èˆôüÿÿÿÿ
+Usquid:S1068º"=Remove this unused "m_setDoctypeSystem_called" private field.(ğšôÀ
+Zsquid:S1068Â"=Remove this unused "m_setDoctypePublic_called" private field.(“úÚäùÿÿÿÿ
+Vsquid:S1068Ê"9Remove this unused "m_setMediaType_called" private field.(¿­ÃÆøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(Ñ± Í
+hsquid:CommentedOutCodeLineµ
+"<This block of commented-out lines of code should be removed.(ÙÒï¸øÿÿÿÿ
+bsquid:CommentedOutCodeLineÅ
+"<This block of commented-out lines of code should be removed.(¸¦­2
+hsquid:CommentedOutCodeLineÈ
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+hsquid:CommentedOutCodeLineÌ
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+hsquid:CommentedOutCodeLineĞ
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+hsquid:CommentedOutCodeLineÔ
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ

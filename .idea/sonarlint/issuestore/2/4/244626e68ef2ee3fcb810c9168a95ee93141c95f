@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(הÝ׀שÿÿÿÿ
+<squid:S51648"%Call "remove()" on "isNextCallValid".(שüדם
+]squid:S40658"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(שüדם
+Vsquid:S11619":Add the "@Override" annotation above this method signature(ׂ¦תûÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Ksquid:S1191#"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+squid:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿çß¤ÿÿÿÿÿ
+lsquid:S00116)"ORename this field "_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬çİëùÿÿÿÿ
+hsquid:S00116+"PRename this field "_mark" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÁÚæ
+isquid:S00116-"QRename this field "_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ş÷’
+Osquid:S1197-"8Move the array designator from the variable to the type.(€ş÷’
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

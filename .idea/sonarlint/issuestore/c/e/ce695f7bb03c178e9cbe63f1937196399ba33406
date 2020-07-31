@@ -1,0 +1,110 @@
+
+_squid:S2184ü"BCast one of the operands of this division operation to a "double".(ŞÄ´ñûÿÿÿÿ
+Vsquid:S3034¸">Prevent "int" promotion by adding "& 0xff" to this expression.(Î¡œ 
+… squid:ForLoopCounterChangedCheck¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(Î¡œ 
+… squid:ForLoopCounterChangedCheck¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(Î¡œ 
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶å¤
+hsquid:S1192„"PDefine a constant instead of duplicating this literal "BMPImageReader1" 5 times.(­£Æ¿
+hsquid:S1192Ğ"PDefine a constant instead of duplicating this literal "BMPImageReader6" 6 times.(ªÄë
+esquid:S2259ò"H"NullPointerException" will be thrown when invoking method "read8Bit()".(…¿ïÑûÿÿÿÿ
+fsquid:S2259Á"I"NullPointerException" will be thrown when invoking method "read32Bit()".(ª„ÓÁûÿÿÿÿ
+asquid:S2259À"DA "NullPointerException" could be thrown; "raster" is nullable here.(ó¬¨ÿÿÿÿÿ
+fsquid:S2259Š"I"NullPointerException" will be thrown when invoking method "read32Bit()".(ª„ÓÁûÿÿÿÿ
+asquid:S2259¹"I"NullPointerException" will be thrown when invoking method "read16Bit()".(ı¯ÍÚ
+asquid:S2259º"DA "NullPointerException" could be thrown; "raster" is nullable here.(ÚÁÃ™ıÿÿÿÿ
+esquid:S2259Ò"H"NullPointerException" will be thrown when invoking method "read8Bit()".(…¿ïÑûÿÿÿÿ
+esquid:S2259«"H"NullPointerException" will be thrown when invoking method "read8Bit()".(…¿ïÑûÿÿÿÿ
+asquid:S2259½"DA "NullPointerException" could be thrown; "raster" is nullable here.(ÕÊ³Çûÿÿÿÿ
+asquid:S2259†"I"NullPointerException" will be thrown when invoking method "read16Bit()".(ı¯ÍÚ
+@squid:S1604÷"(Make this anonymous inner class a lambda(Œğ¡¯
+@squid:S1604œ"(Make this anonymous inner class a lambda(’Åì°
+@squid:S1604¹"(Make this anonymous inner class a lambda(’Åì°
+dsquid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(¥åÚóøÿÿÿÿ
+Gsquid:S5411Ã"*Use the primitive boolean expression here.(ÅóÛĞüÿÿÿÿ
+_squid:UselessImportCheckF"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
+hsquid:UselessImportCheck%"?Remove this unused import 'java.awt.image.ComponentColorModel'.(šëã‰ûÿÿÿÿ
+[squid:UselessImportCheck"2Remove this unused import 'java.awt.Transparency'.(«Ö¿õùÿÿÿÿ
+Csquid:S1659|"'Declare "greenMask" on a separate line.(£üÃşÿÿÿÿ
+Bsquid:S1659|"&Declare "blueMask" on a separate line.(£üÃşÿÿÿÿ
+Csquid:S1659|"'Declare "alphaMask" on a separate line.(£üÃşÿÿÿÿ
+Hsquid:S1659~"1Declare "originalSampleModel" on a separate line.(èèå¢
+Gsquid:S1659"0Declare "originalColorModel" on a separate line.( îæş
+<squid:S1659¥"$Declare "scaleY" on a separate line.(ÆÙŒ½
+?squid:S1659¨"'Declare "destBands" on a separate line.(²ªÎÈ
+rsquid:S1450{"[Remove the "bitsPerPixel" field and declare it as a local variable in the relevant methods.(â¥ä
+osquid:S1450¢"WRemove the "seleBand" field and declare it as a local variable in the relevant methods.(Âûë¶
+Osquid:S1197w"8Move the array designator from the variable to the type.(ªîŒÇ
+Rsquid:S1161µ":Add the "@Override" annotation above this method signature(­°§é
+Ÿ%squid:RedundantThrowsDeclarationCheckô"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(÷§­¾
+ksquid:S3776ô"SRefactor this method to reduce its Cognitive Complexity from 128 to the 15 allowed.(÷§­¾
+Rsquid:S1854":Remove this useless assignment to local variable "planes".(™İ¸Œ
+Fsquid:S1659û")Declare "profileSize" on a separate line.(¹Ÿñèÿÿÿÿÿ
+7squid:S1659Ò"Declare "g" on a separate line.(úŸ¸ñ
+7squid:S1659Ò"Declare "b" on a separate line.(úŸ¸ñ
+Psquid:S1197Ò"8Move the array designator from the variable to the type.(úŸ¸ñ
+Psquid:S1197Ò"8Move the array designator from the variable to the type.(úŸ¸ñ
+Psquid:S1197Ò"8Move the array designator from the variable to the type.(úŸ¸ñ
+Wsquid:S1161É":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
+Wsquid:S1161Ş":Add the "@Override" annotation above this method signature(Šßƒ†şÿÿÿÿ
+osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¨É×úÿÿÿÿ
+Usquid:S1197²"8Move the array designator from the variable to the type.(Ë¡™ğıÿÿÿÿ
+Usquid:S1197³"8Move the array designator from the variable to the type.(­´†şÿÿÿÿ
+Osquid:S1197´"8Move the array designator from the variable to the type.(¿öÎO
+Q"squid:SwitchLastCaseIsDefaultCheckÄ""Add a default case to this switch.(ğıË§
+h
+squid:S128—"LEnd this switch case with an unconditional break, return or throw statement.(×È€şÿÿÿÿ
+Rsquid:S1161Í":Add the "@Override" annotation above this method signature(Š«äÜ
+Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(Ñ¡œ
+Zsquid:HiddenFieldCheckÓ"7Rename "bi" which hides the field declared at line 151.(œÚ©™
+Rsquid:S1161Ş":Add the "@Override" annotation above this method signature(¡ÀØ”
+osquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(šˆ¥èûÿÿÿÿ
+osquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(èæÍıÿÿÿÿ
+jsquid:S3776‡	"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¯ûüÓ
+jsquid:S3776Ê	"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(îî×¡
+osquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(“ñ¡øÿÿÿÿ
+Usquid:S1197
+"8Move the array designator from the variable to the type.(“ñ¡øÿÿÿÿ
+osquid:S3776Ñ
+"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(üÌûúÿÿÿÿÿ
+Usquid:S1197Ñ
+"8Move the array designator from the variable to the type.(üÌûúÿÿÿÿÿ
+Usquid:S1197‰"8Move the array designator from the variable to the type.(ÌÔŠúÿÿÿÿ
+Usquid:S1197™"8Move the array designator from the variable to the type.(ğÏäğûÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck¤"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¬»ÔÆ
+jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(“ÜÎ¥
+Ksquid:S1172¢".Remove this unused method parameter "padding".(øÛ®ıÿÿÿÿ
+7squid:S1659§"Declare "l" on a separate line.(á‰éÆ
+Psquid:S1197¦"8Move the array designator from the variable to the type.(Ø¹¯³
+%squid:RedundantThrowsDeclarationCheckœ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¬»ÔÆ
+jsquid:S3776™"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(šØ®ÿ
+Ksquid:S1172š".Remove this unused method parameter "padding".(øÛ®ıÿÿÿÿ
+7squid:S1659"Declare "l" on a separate line.(á‰éÆ
+Bsquid:S2185ü"%Remove this silly call to "Math.ceil"(ŞÄ´ñûÿÿÿÿ
+Usquid:S1197ƒ"8Move the array designator from the variable to the type.(²ñÍÎıÿÿÿÿ
+Wsquid:S1161Â":Add the "@Override" annotation above this method signature(ÏıÄ¡ÿÿÿÿÿ
+squid:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëİÛåşÿÿÿÿ
+squid:S1186è"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Û¹óíÿÿÿÿÿ
+squid:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒõ‰ñûÿÿÿÿ
+™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñç
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÀ±¡úÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İèŞ”úÿÿÿÿ
+™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼¼÷Û
+™squid:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„¿ÿù
+™squid:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âÀ˜°
+™squid:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍêÛ•
+squid:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü³ä§üÿÿÿÿ
+™squid:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—Â«°
+osquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ì±‰µşÿÿÿÿ
+Csquid:S1481"+Remove this unused "planes" local variable.(™İ¸Œ
+Csquid:S1481"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+Csquid:S1481ğ"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+Csquid:S1481³	"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+Csquid:S1481ö	"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+Csquid:S1481»
+"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+Csquid:S1481ó
+"&Remove this unused "y" local variable.(©™¤ıÿÿÿÿ
+Ksquid:S1481š".Remove this unused "bytesRead" local variable.(ğÎæøÿÿÿÿ
+csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(óÏ¸
+hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(Ÿ“Ôõşÿÿÿÿ

@@ -1,0 +1,14 @@
+
+[squid:S2184¡"CCast one of the operands of this subtraction operation to a "long".(’ÉÕò
+[squid:S2184Ö	"CCast one of the operands of this subtraction operation to a "long".(Ëì§ú
+Xsquid:S2184å	"@Cast one of the operands of this addition operation to a "long".(Ú¦•ó
+Xsquid:S2184“
+"@Cast one of the operands of this addition operation to a "long".(ƒ’œÿ
+Xsquid:S2184ª
+"@Cast one of the operands of this addition operation to a "long".(ƒ’œÿ
+Wsquid:S2184¾"@Cast one of the operands of this addition operation to a "long".(ÓÛÊ
+Xsquid:S2184É"@Cast one of the operands of this addition operation to a "long".(¬ˆü”
+`squid:S2184Ì"CCast one of the operands of this subtraction operation to a "long".(ÍæÄŽýÿÿÿÿ
+Qsquid:S1191m"5Use classes from the Java API instead of Sun classes.(¥Û´‡øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckò"yRemove the declaration of thrown exception 'java.io.InvalidObjectException' which is a subclass of 'java.io.IOException'.(œ‡¥¹ùÿÿÿÿ
+Fsquid:S1125ì	")Remove the literal "false" boolean value.(îàìûýÿÿÿÿ

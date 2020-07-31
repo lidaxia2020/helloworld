@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡Σ²νωÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Σ²νωÿÿÿÿ
+usquid:UselessImportCheck "QRemove this unnecessary import: java.lang classes are always implicitly imported.(λέ“Ò
+vsquid:S1149&"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤ό·

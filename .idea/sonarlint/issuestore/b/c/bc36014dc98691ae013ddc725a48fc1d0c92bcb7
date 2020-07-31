@@ -1,0 +1,162 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+Esquid:S1199¸"-Extract this nested code block into a method.(—®–Œ
+Jsquid:S1199û"-Extract this nested code block into a method.(ÄŠ¯œÿÿÿÿÿ
+Jsquid:S1199‚"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+Jsquid:S1199§"-Extract this nested code block into a method.(ÄŠ¯œÿÿÿÿÿ
+Jsquid:S1199®"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+Qsquid:S4973¾"9Use the "equals" method if value comparison was intended.(ö‰ó»
+csquid:S00112^"FDefine and throw a dedicated exception instead of using a generic one.(¯É“Ïúÿÿÿÿ
+^squid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(¢¢ú„
+vsquid:S4144“"^Update this method so that its implementation is not identical to "hasChildNodes" on line 145.(å„ó‡
+{squid:S4144§"^Update this method so that its implementation is not identical to "hasChildNodes" on line 145.(–’óŸıÿÿÿÿ
+vsquid:S4144å"^Update this method so that its implementation is not identical to "hasChildNodes" on line 145.(ÑÅŠ‹
+vsquid:S4144›"^Update this method so that its implementation is not identical to "hasChildNodes" on line 145.(ò»¼‡
+tsquid:S4144ˆ"\Update this method so that its implementation is not identical to "getNodeType" on line 162.(¥æóÿ
+vsquid:S4144Ä"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(âºã
+{squid:S4144Õ"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(†êëÿÿÿÿÿ
+{squid:S4144æ"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(£œ£šøÿÿÿÿ
+{squid:S4144÷"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(©øñùÿÿÿÿ
+{squid:S4144¬"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(’û•ùÿÿÿÿ
+vsquid:S4144½"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(è‘Šı
+vsquid:S4144Î"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(ôÔ—ä
+{squid:S4144œ"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(ˆĞó¸ûÿÿÿÿ
+{squid:S4144Â"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(±×Ü…üÿÿÿÿ
+usquid:S4144–"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(ÁÕğ}
+vsquid:S4144¸"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(È „¤
+vsquid:S4144¡"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(ñ˜²ò
+usquid:S4144²"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(Ë…»o
+{squid:S4144Ó"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(ùé‘†ÿÿÿÿÿ
+vsquid:S4144ä"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(û­²ÿ
+usquid:S4144õ"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(ı¹ßY
+vsquid:S4144†"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(—Œç›
+vsquid:S4144¬"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(¡ªŸ¿
+{squid:S4144´"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(çÍèÀúÿÿÿÿ
+{squid:S4144Ñ"^Update this method so that its implementation is not identical to "getParentNode" on line 179.(ø¥²Íıÿÿÿÿ
+}squid:S4144Î"eUpdate this method so that its implementation is not identical to "getElementsByTagName" on line 359.(ùĞö 
+‚squid:S4144‚"eUpdate this method so that its implementation is not identical to "getElementsByTagName" on line 359.(Û‡³šùÿÿÿÿ
+‚squid:S4144“	"eUpdate this method so that its implementation is not identical to "getElementsByTagName" on line 359.(¾ãøıÿÿÿÿ
+‚squid:S4144¨	"eUpdate this method so that its implementation is not identical to "getElementsByTagName" on line 359.(â•Ôıÿÿÿÿ
+~squid:S4144½"aUpdate this method so that its implementation is not identical to "setAttributeNode" on line 401.(Şí¥çúÿÿÿÿ
+squid:S4144Ñ"gUpdate this method so that its implementation is not identical to "getElementsByTagNameNS" on line 551.(Öµı
+squid:S4144‹"gUpdate this method so that its implementation is not identical to "getElementsByTagNameNS" on line 551.(ÚŸ™ä
+}squid:S4144Ò"`Update this method so that its implementation is not identical to "createTextNode" on line 1087.(¨æ‹Úøÿÿÿÿ
+}squid:S4144ç"`Update this method so that its implementation is not identical to "createTextNode" on line 1087.(·´üéüÿÿÿÿ
+~squid:S4144ï	"aUpdate this method so that its implementation is not identical to "createElementNS" on line 1240.(Œ¢‹Üÿÿÿÿÿ
+squid:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷û€ÿÿÿÿÿ
+squid:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿†¹úÿÿÿÿ
+O
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ïÑ·©
+O
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ïÑ·©
+•%squid:RedundantThrowsDeclarationCheck€"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ùšçË
+•%squid:RedundantThrowsDeclarationCheckü"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(šØ°
+š%squid:RedundantThrowsDeclarationCheck‘"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(£²Îœÿÿÿÿÿ
+•%squid:RedundantThrowsDeclarationChecká"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ê°­•
+•%squid:RedundantThrowsDeclarationCheckò"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ëº™“
+š%squid:RedundantThrowsDeclarationCheck½"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Şí¥çúÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheckæ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
+•%squid:RedundantThrowsDeclarationCheckú"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
+š%squid:RedundantThrowsDeclarationCheckÂ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(±×Ü…üÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckÕ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(‰Æ«ôıÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheckù"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(‘¥ËÓ
+Dsquid:S1172ù",Remove this unused method parameter "value".(‘¥ËÓ
+š%squid:RedundantThrowsDeclarationCheckÎ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(íâ÷ÿùÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheckä"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(×­»ÿ
+•%squid:RedundantThrowsDeclarationCheckù"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(•öì‘
+š%squid:RedundantThrowsDeclarationCheckÅ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¯êèşÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck›"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ÓƒŒóşÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckç"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(·´üéüÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckş"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Õıışÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck“	"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¾ãøıÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheck©	"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
+•%squid:RedundantThrowsDeclarationCheckÂ	"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¾ìÌÕ
+•%squid:RedundantThrowsDeclarationCheckÙ	"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
+•%squid:RedundantThrowsDeclarationCheckğ	"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
+•%squid:RedundantThrowsDeclarationCheck—
+"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(”§š’
+š%squid:RedundantThrowsDeclarationCheckª
+"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(­ßÀøÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck½
+"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(öîƒ°øÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckÎ
+"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(È€éøÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheckß
+"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(²Ç‘–
+•%squid:RedundantThrowsDeclarationCheckò
+"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
+š%squid:RedundantThrowsDeclarationCheck„"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(šÕÒŸüÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckš"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(˜­š³ÿÿÿÿÿ
+Gsquid:S1172Î"/Remove this unused method parameter "encoding".(œÚĞè
+Nsquid:S1172ÿ"1Remove this unused method parameter "standalone".(Ÿëûåüÿÿÿÿ
+Fsquid:S1172ë".Remove this unused method parameter "version".(Êï¢İ
+jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ä¿Ş×
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ş‚ã©
+ksquid:S1871Á"NThis branch's code block is the same as the block for the branch on line 1854.(Ÿµ·Ôıÿÿÿÿ
+ksquid:S1871Ö"NThis branch's code block is the same as the block for the branch on line 1873.(İ‘Ş«úÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+”%squid:RedundantThrowsDeclarationCheckè"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(”İ…
+š%squid:RedundantThrowsDeclarationCheckø"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ì”Ÿšüÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck«"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck‘"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Ksquid:S1172".Remove this unused method parameter "content".(šüêùÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheckÇ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(áà½©
+•%squid:RedundantThrowsDeclarationCheckĞ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ìªº˜
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(¢¢ú„
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(Ùöô´úÿÿÿÿ
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(°¾òóûÿÿÿÿ
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(ãäşÛ
+hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(ÑÓÚ§ùÿÿÿÿ
+bsquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(¦ãÀ8
+hsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(ìëÊ‘úÿÿÿÿ
+bsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(Ø—
+csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(Ÿ…İŠ
+hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(´ü± øÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”Ÿ¡Í
+hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(ÉØ£Úùÿÿÿÿ
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(íäß•
+csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(Á¤Å½
+hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(³°„ãùÿÿÿÿ
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(—ÇÃõúÿÿÿÿ
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(èû 
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(È»¸¬üÿÿÿÿ
+hsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(°Â…ìúÿÿÿÿ
+hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(ÛşÈ»şÿÿÿÿ
+csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(ÓÊ”ù
+hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ÇÕ™øøÿÿÿÿ
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(‚µº
+bsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(ù¦D
+csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(Üå‰«
+hsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(Ç†ùÿÿÿÿ
+hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(Úî¶úÿÿÿÿ
+hsquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(Æ€Ãèøÿÿÿÿ
+csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ô²Ò‚
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(¼‹ø»
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×Ëø¿ùÿÿÿÿ
+csquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(»È´
+hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ëâÕõıÿÿÿÿ
+hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(¥„ªûûÿÿÿÿ
+hsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(íÏ´Âûÿÿÿÿ
+csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(Ú°à¬
+csquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(üóˆ¾
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(è‰ñìùÿÿÿÿ
+csquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(üóˆ¾
+csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.( ˆôµ
+hsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(í„“íşÿÿÿÿ
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Šë¥µ
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Šë¥µ
+csquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(¥ÑÒ
+hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(·¦À§ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(÷Ó‘‡úÿÿÿÿ
+csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(šêî
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(§íø
+hsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(š¤Éşøÿÿÿÿ
+hsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(¨§´½ûÿÿÿÿ
+hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(š¤Éşøÿÿÿÿ
+hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(÷¤¢°ÿÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—®–Œ
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(š¤Éşøÿÿÿÿ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Ñ½Ğ
+csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(Ñ½Ğ

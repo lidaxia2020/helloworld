@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ĞµŒëşÿÿÿÿ
+"squid:ClassVariableVisibilityCheck4"NMake id a static final constant or non-public and provide accessors if needed.(“‘¨şÿÿÿÿ
+Wsquid:UselessImportCheck&"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+Vsquid:UselessImportCheck""-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+Ssquid:UselessImportCheck!"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+{squid:S1149;"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+{squid:S1149;"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(ü‚”²şÿÿÿÿ
+Wsquid:S1161Š":Add the "@Override" annotation above this method signature(ü‚”²şÿÿÿÿ

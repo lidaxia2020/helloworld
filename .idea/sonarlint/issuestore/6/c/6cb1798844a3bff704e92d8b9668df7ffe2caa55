@@ -1,0 +1,41 @@
+
+4squid:S1643¯"Use a StringBuilder instead.(ïÖÏË
+Qsquid:S1191("5Use classes from the Java API instead of Sun classes.(«ª§Ûüÿÿÿÿ
+Gsquid:S1066©"/Merge this if statement with the enclosing one.(»·ã
+{squid:S1488¼"^Immediately return this expression instead of assigning it to the temporary variable "result".(èÆœÙüÿÿÿÿ
+@squid:S1604›"(Make this anonymous inner class a lambda(¡ºæ
+Esquid:S1604ô"(Make this anonymous inner class a lambda(¡“·ûÿÿÿÿ
+Fsquid:S3077Ò".Remove the "volatile" keyword from this field.(áóæ‰
+Fsquid:S3077Ö".Remove the "volatile" keyword from this field.(ºçÑ‰
+Ksquid:S3077Ø".Remove the "volatile" keyword from this field.(Òæœ‹üÿÿÿÿ
+Fsquid:S3077å".Remove the "volatile" keyword from this field.(¦Üû
+Fsquid:S3077ç".Remove the "volatile" keyword from this field.(ı¢æÿ
+ssquid:S00115®"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿ÿÒÓ
+Usquid:S1197­"8Move the array designator from the variable to the type.(‚½ÚÂÿÿÿÿÿ
+\squid:CallToDeprecatedMethod£".Remove this use of "global"; it is deprecated.(Œıè£úÿÿÿÿ
+Rsquid:S1133Â"5Do not forget to remove this deprecated code someday.(ÿ”‹êøÿÿÿÿ
+˜%squid:RedundantThrowsDeclarationCheck†"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(üÒØ—
+˜%squid:RedundantThrowsDeclarationCheckß"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(‰ªØ
+Psquid:S1197ÿ"8Move the array designator from the variable to the type.(¢êí
+Usquid:S1197•"8Move the array designator from the variable to the type.(ó´ñıùÿÿÿÿ
+Psquid:S1197Â	"8Move the array designator from the variable to the type.(¢êí
+Usquid:S1197Ü	"8Move the array designator from the variable to the type.(´©À™ÿÿÿÿÿ
+Msquid:S1133ó
+"5Do not forget to remove this deprecated code someday.(Í’ÎÏ
+Msquid:S1133"5Do not forget to remove this deprecated code someday.(Í’ÎÏ
+Psquid:S1197¦"8Move the array designator from the variable to the type.(¢êí
+Msquid:S1133Ë"5Do not forget to remove this deprecated code someday.(Í’ÎÏ
+Usquid:S1197Ì"8Move the array designator from the variable to the type.(Ù›®«üÿÿÿÿ
+Msquid:S1133©"5Do not forget to remove this deprecated code someday.(Í’ÎÏ
+Usquid:S1197§"8Move the array designator from the variable to the type.(Ùßùñúÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckÑ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ßÆĞ«øÿÿÿÿ
+^squid:S1126ù"AReplace this if-then-else statement by a single return statement.(›¤ßÜøÿÿÿÿ
+˜%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ÎÙ‘²
+˜%squid:RedundantThrowsDeclarationCheck´"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ÓßÃÛ
+jsquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(»â
+asquid:S3358ñ"DExtract this nested ternary operation into an independent statement.(§°úõøÿÿÿÿ
+csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(È°Îé
+hsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(›ÏŸºøÿÿÿÿ
+hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(“­Şáüÿÿÿÿ
+bsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(š˜Ô_
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(Ë³¬ß

@@ -1,0 +1,11 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
+Lsquid:S1066"/Merge this if statement with the enclosing one.(Ù’­Áşÿÿÿÿ
+dsquid:S00112‰"FDefine and throw a dedicated exception instead of using a generic one.(ó¶•·şÿÿÿÿ
+dsquid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ÌÚ³ùÿÿÿÿ
+dsquid:UselessImportCheck!";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
+usquid:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ëÑĞşÿÿÿÿ
+jsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.( §È—
+vsquid:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(™êüÿÿÿÿ
+vsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(™êüÿÿÿÿ
+ksquid:ModifiersOrderCheckö"EReorder the modifiers to comply with the Java Language Specification.(¾—¶õ

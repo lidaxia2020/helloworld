@@ -1,0 +1,41 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+Jsquid:S1199Õ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199é"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¢"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199³"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¿"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199È"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ª"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¸"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+u
+squid:S135½"YReduce the total number of break and continue statements in this loop to use at most one.(İÃÆÅùÿÿÿÿ
+u
+squid:S135ù"YReduce the total number of break and continue statements in this loop to use at most one.(İÃÆÅùÿÿÿÿ
+Tsquid:S2589’"7Remove this expression which always evaluates to "true"(¶«šßøÿÿÿÿ
+osquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ø‡¥şÿÿÿÿ
+osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ø‡¥şÿÿÿÿ
+xsquid:S00116M"[Rename this field "m_contentHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È°ˆ§øÿÿÿÿ
+osquid:S00116U"WRename this field "m_Serializer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì…õÚ
+lsquid:S00116["ORename this field "m_dh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âèîşÿÿÿÿ
+qsquid:S00116^"TRename this field "m_locator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è®ÙÈşÿÿÿÿ
+osquid:ModifiersOrderCheckM"EReorder the modifiers to comply with the Java Language Specification.(È°ˆ§øÿÿÿÿ
+jsquid:ModifiersOrderCheckU"EReorder the modifiers to comply with the Java Language Specification.(Ì…õÚ
+osquid:ModifiersOrderCheck["EReorder the modifiers to comply with the Java Language Specification.(âèîşÿÿÿÿ
+osquid:ModifiersOrderCheck^"EReorder the modifiers to comply with the Java Language Specification.(è®ÙÈşÿÿÿÿ
+osquid:S3776°"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÔÆª’øÿÿÿÿ
+jsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(©èüè
+jsquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ÌœÓ¤
+Osquid:S1135º"2Complete the task associated to this TODO comment.(ƒ«ŠÁûÿÿÿÿ
+Jsquid:S1135Â"2Complete the task associated to this TODO comment.(˜–šó
+jsquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¦¶øğ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(áâìé
+csquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(ñ–†œ
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(Ö¤òÆıÿÿÿÿ
+csquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(œºû©
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(³¥òäıÿÿÿÿ
+hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(¬ù¼ıÿÿÿÿ
+csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(§õëë
+csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(¡ŞÕ•

@@ -1,0 +1,51 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+jsquid:S1192ü"MDefine a constant instead of duplicating this literal "Instruction " 5 times.(Ó÷—ïùÿÿÿÿ
+xsquid:S1192ı"`Define a constant instead of duplicating this literal " is not contained in this list." 5 times.(À»Æ
+rsquid:S1192¹"UDefine a constant instead of duplicating this literal "Invalid range: From " 3 times.(è¹ Ôşÿÿÿÿ
+gsquid:S2095Ï	"JUse try-with-resources or close this "ByteSequence" in a "finally" clause.(¼Èºıÿÿÿÿ
+asquid:S3973œ"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+asquid:S3973ª"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹îÕ°úÿÿÿÿ
+jsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜñÚ
+jsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜñÚ
+jsquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€›ÛÉ
+jsquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€›ÛÉ
+osquid:S00117é
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÖôØÿÿÿÿÿ
+osquid:S00117é
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÖôØÿÿÿÿÿ
+osquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¹°Åûÿÿÿÿ
+jsquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß»ù“
+jsquid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş½÷¢
+jsquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß»ù“
+jsquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş½÷¢
+jsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß»ù“
+8squid:S1659|"!Declare "end" on a separate line.(úšÆ¸
+qsquid:S00116~"YRename this field "byte_positions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯›Öï
+wsquid:S1149¡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¦ÍšŸ
+|squid:S1149è	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+>squid:S1948|"'Make "start" transient or serializable.(úšÆ¸
+<squid:S1948|"%Make "end" transient or serializable.(úšÆ¸
+7squid:S1659Ç"Declare "r" on a separate line.(ÓØ×
+jsquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Úå¤š
+>squid:S1659Ù"!Declare "ret" on a separate line.(²ßø‚ûÿÿÿÿ
+9squid:S1659Í"!Declare "ret" on a separate line.(—İ¯ó
+osquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ø‘†¹ıÿÿÿÿ
+:squid:S1659Æ""Declare "next" on a separate line.(ÿğÑ›
+?squid:S1659‚""Declare "last" on a separate line.(¸ìçÀıÿÿÿÿ
+;squid:S1659÷"#Declare "to_ih" on a separate line.(ÜñÚ
+osquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ªµ’’úÿÿÿÿ
+Fsquid:S1659Æ".Declare "additional_bytes" on a separate line.(€›ÛÉ
+@squid:S1659Ç"#Declare "count" on a separate line.(ìÕÚ°úÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck	""Add a default case to this switch.(Şïƒ¿
+U
+squid:S106Â	"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+>squid:S1168Ã	"&Return an empty array instead of null.(¥¹ï
+ksquid:S2272ú	"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ŞÄ•ùÿÿÿÿ
+Wsquid:S1161€
+":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+osquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥¹°Åûÿÿÿÿ
+bsquid:HiddenFieldCheckà":Rename "start" which hides the field declared at line 124.(ç™×İşÿÿÿÿ
+`squid:HiddenFieldChecká"8Rename "end" which hides the field declared at line 124.(…ğ±«ÿÿÿÿÿ
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(‰Éœøúÿÿÿÿ

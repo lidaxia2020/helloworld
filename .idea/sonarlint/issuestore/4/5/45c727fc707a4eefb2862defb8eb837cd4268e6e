@@ -1,0 +1,5 @@
+
+_squid:S00112È"FDefine and throw a dedicated exception instead of using a generic one.(Ğ‰½‘
+Rsquid:UselessImportCheck_".Remove this unused import 'java.util.Objects'.(¼¸õ›
+Ysquid:UselessImportCheckX"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+Fsquid:S1125Î")Remove the literal "false" boolean value.(†º†ıÿÿÿÿ

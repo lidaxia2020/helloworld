@@ -1,0 +1,88 @@
+
+fsquid:S3824‚"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ïÚ±
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
+_squid:S1192Þ"GDefine a constant instead of duplicating this literal ".class" 3 times.(ÖòÏ£
+Gsquid:S1066”"/Merge this if statement with the enclosing one.(Ç·ËÓ
+d$squid:AssignmentInSubExpressionCheckØ".Extract the assignment out of this expression.(òýšëûÿÿÿÿ
+esquid:S2095‹	"MUse try-with-resources or close this "JarOutputStream" in a "finally" clause.(å§íø
+dsquid:UselessImportCheck8";Remove this unused import 'java.security.PrivilegedAction'.(£Þóšùÿÿÿÿ
+dsquid:UselessImportCheck7";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
+@squid:S1148ä"#Use a logger to log this exception.(­¸ƒ°ÿÿÿÿÿ
+@squid:S1148è"#Use a logger to log this exception.(œ„úíøÿÿÿÿ
+@squid:S1148á"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+jsquid:S00116T"RRename this field "_parser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ú¤Ý
+jsquid:S00116W"RRename this field "_reader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ«¸
+osquid:S00116Z"RRename this field "_loader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ä•ÿÿÿÿÿ
+msquid:S00116]"VRename this field "_stylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨£–
+nsquid:S00116a"VRename this field "_modeSerial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãí¡¿
+ysquid:S00116b"\Rename this field "_stylesheetSerial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÕ·¾ýÿÿÿÿ
+usquid:S00116c"]Rename this field "_stepPatternSerial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÎâü
+zsquid:S00116d"]Rename this field "_helperClassSerial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿå—¥ùÿÿÿÿ
+{squid:S00116e"^Rename this field "_attributeSetSerial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™žÉãýÿÿÿÿ
+{squid:S00116g"^Rename this field "_numberFieldIndexes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è©»Ïøÿÿÿÿ
+msquid:S00116j"URename this field "_nextGType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ˆ•Å
+nsquid:S00116k"VRename this field "_namesIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‘ï¤
+lsquid:S00116l"TRename this field "_elements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âß›¿
+nsquid:S00116m"VRename this field "_attributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’³ªù
+ssquid:S00116p"VRename this field "_nextNSType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìþ­ÿÿÿÿÿÿ
+wsquid:S00116q"ZRename this field "_namespaceIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÿæ‹úÿÿÿÿ
+ssquid:S00116r"VRename this field "_namespaces" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ž—®üÿÿÿÿ
+zsquid:S00116s"]Rename this field "_namespacePrefixes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ûãïýÿÿÿÿ
+qsquid:S00116w"ZRename this field "m_characterData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ø‚G
+jsquid:S00116ƒ"QRename this field "_debug" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çº¤é
+psquid:S00116„"WRename this field "_jarFileName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºòÆ 
+ssquid:S00116…"URename this field "_className" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü©‡·úÿÿÿÿ
+psquid:S00116†"WRename this field "_packageName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÁÖ›
+qsquid:S00116‡"SRename this field "_destDir" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÇóÈÿÿÿÿÿ
+tsquid:S00116ˆ"VRename this field "_outputType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÂ”âùÿÿÿÿ
+lsquid:S00116Š"SRename this field "_classes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—þ…Ï
+usquid:S00116‹"WRename this field "_bcelClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó’ìÁýÿÿÿÿ
+qsquid:S00116Œ"XRename this field "_callsNodeset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôê–Ç
+rsquid:S00116"YRename this field "_multiDocument" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ½€ý
+ssquid:S00116Ž"URename this field "_hasIdCall" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—åÖèýÿÿÿÿ
+zsquid:S00116™"\Rename this field "_templateInlining" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÉ¤ûÿÿÿÿ
+|squid:S00116¡"^Rename this field "_isSecureProcessing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¥þ³úÿÿÿÿ
+~squid:S00116£"`Rename this field "_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÝËÚúÿÿÿÿ
+‚squid:S00116«"dRename this field "_accessExternalStylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¯®’üÿÿÿÿ
+{squid:S00116²"]Rename this field "_accessExternalDTD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿí¼¦øÿÿÿÿ
+|squid:S00116´"^Rename this field "_xmlSecurityManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦àñÕþÿÿÿÿ
+xsquid:S00116¶"ZRename this field "_featureManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©îã÷þÿÿÿÿ
+~squid:S00116À"`Rename this field "_extensionClassLoader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽÅ×Ûøÿÿÿÿ
+„squid:S00116È"fRename this field "_externalExtensionFunctions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ’ÃÍùÿÿÿÿ
+|squid:S1149k"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•‘ï¤
+msquid:S1149l"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Âß›¿
+msquid:S1149m"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(’³ªù
+squid:S1149q"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜ÿæ‹úÿÿÿÿ
+rsquid:S1149r"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¸Ž—®üÿÿÿÿ
+rsquid:S1149s"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¤Ûãïýÿÿÿÿ
+{squid:S1149w"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥ø‚G
+}squid:S1149Š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—þ…Ï
+‚squid:S1149‹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ó’ìÁýÿÿÿÿ
+}squid:S1149ý"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»–°Ç
+‚squid:S1149ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æ„ûŽøÿÿÿÿ
+}squid:S1149ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—½‚ù
+}squid:S1149£"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÍÜ±É
+}squid:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§Ä£Ì
+|squid:S1149Ó	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤ŽØûÿÿÿÿ
+@squid:S1905ý"(Remove this unnecessary cast to "Class".(‚†”ž
+9squid:S2129–"!Remove this "Integer" constructor(ÏË€à
+Xsquid:CallToDeprecatedMethod–"/Remove this use of "Integer"; it is deprecated.(ÏË€à
+jsquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ª€€¡
+9squid:S1181ç"!Catch Exception instead of Error.(ÿå‘«
+>squid:S1168¼"&Return an empty array instead of null.(¥¹ï
+8squid:S2129¾"!Remove this "Integer" constructor(ÅÅ«'
+Wsquid:CallToDeprecatedMethod¾"/Remove this use of "Integer"; it is deprecated.(ÅÅ«'
+>squid:S2129Ø"!Remove this "Integer" constructor(òýšëûÿÿÿÿ
+]squid:CallToDeprecatedMethodØ"/Remove this use of "Integer"; it is deprecated.(òýšëûÿÿÿÿ
+8squid:S2129í"!Remove this "Integer" constructor(ÅÅ«'
+Wsquid:CallToDeprecatedMethodí"/Remove this use of "Integer"; it is deprecated.(ÅÅ«'
+8squid:S2129„"!Remove this "Integer" constructor(ë‹Œ{
+Wsquid:CallToDeprecatedMethod„"/Remove this use of "Integer"; it is deprecated.(ë‹Œ{
+P"squid:SwitchLastCaseIsDefaultCheckÅ""Add a default case to this switch.(‹™…t
+£%squid:RedundantThrowsDeclarationCheckë"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(·­ÛÚøÿÿÿÿ
+Ysquid:UnusedPrivateMethodë".Remove this unused private "entryName" method.(·­ÛÚøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(ä„þ¯ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(ºÛŸùÿÿÿÿ
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(Ã„˜‘ûÿÿÿÿ
+hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(­¸ƒ°ÿÿÿÿÿ

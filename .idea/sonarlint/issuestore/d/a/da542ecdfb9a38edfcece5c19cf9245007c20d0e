@@ -1,0 +1,18 @@
+
+Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÅƒQ
+Lsquid:S1066¿"/Merge this if statement with the enclosing one.(ñ¥½…ÿÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck«".Extract the assignment out of this expression.(é”Ğ›úÿÿÿÿ
+nsquid:S00117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«êêşÿÿÿÿ
+Hsquid:S2065ò"0Remove the "transient" modifier from this field.(Ğëü
+Msquid:S2065ó"0Remove the "transient" modifier from this field.(­ÆËÿÿÿÿÿ
+Hsquid:S2065»"0Remove the "transient" modifier from this field.(™ò¬‹
+Csquid:S3077ó"&Use an "AtomicReferenceArray" instead.(­ÆËÿÿÿÿÿ
+Vsquid:S1161H":Add the "@Override" annotation above this method signature(òÚ¼±şÿÿÿÿ
+jsquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(´£å
+tsquid:S3038å"\"getDeclaringClass" is defined in the "Member" interface and can be removed from this class.(ßÖÓõ
+jsquid:S3038í"R"getName" is defined in the "Member" interface and can be removed from this class.(¦ûÆñ
+tsquid:S3038ö"W"getModifiers" is defined in the "Member" interface and can be removed from this class.(®‚ğ üÿÿÿÿ
+…squid:S3038‹"h"getTypeParameters" is defined in the "GenericDeclaration" interface and can be removed from this class.(òº¤Ÿùÿÿÿÿ
+osquid:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×âÿ”üÿÿÿÿ
+Jsquid:S1135Ÿ"2Complete the task associated to this TODO comment.(ÀÌÆñ
+Jsquid:S1135¬"2Complete the task associated to this TODO comment.(şŞ§š

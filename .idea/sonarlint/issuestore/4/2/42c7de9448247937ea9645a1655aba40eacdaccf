@@ -1,0 +1,12 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌôÂ­
+jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ï´›
+}squid:UselessImportCheck,"TRemove this unnecessary import: same package classes are always implicitly imported.(å éşÿÿÿÿ
+}squid:UselessImportCheck-"TRemove this unnecessary import: same package classes are always implicitly imported.(°Š ÿÿÿÿÿ
+psquid:UselessImportCheck."GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+Zsquid:UselessImportCheck"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ
+ˆsquid:S1845»"pRename method "write_Value" to prevent any misunderstanding/clash with method "write_value" defined on line 249.(‚ã‡ç
+Psquid:S1197"8Move the array designator from the variable to the type.(Ÿá¥î
+Usquid:S1197“"8Move the array designator from the variable to the type.(ÄêŸˆúÿÿÿÿ

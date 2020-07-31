@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
+Asquid:UselessImportCheck"Remove this duplicated import.(»Äğ1
+¡%squid:RedundantThrowsDeclarationCheck/"kRemove the declaration of thrown exception 'java.util.NoSuchElementException' which is a runtime exception.(Œšôúÿÿÿÿ

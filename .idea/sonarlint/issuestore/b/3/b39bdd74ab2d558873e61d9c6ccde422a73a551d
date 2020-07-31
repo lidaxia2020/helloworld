@@ -1,0 +1,19 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+Wsquid:S2259"?A "NullPointerException" could be thrown; "c" is nullable here.(§Úâ¾
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ó­ı
+jsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‰¶Ô
+jsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‰¶Ô
+jsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‰¶Ô
+osquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äø»Şúÿÿÿÿ
+jsquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Õ“«
+isquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÊÜB
+isquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÑ´T
+osquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬…äºúÿÿÿÿ
+rsquid:S00116c"URename this field "name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô˜˜…úÿÿÿÿ
+wsquid:S00116d"ZRename this field "signature_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ ¡Ÿúÿÿÿÿ
+xsquid:S00116e"[Rename this field "attributes_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¾ÊÜùÿÿÿÿ
+usquid:S00116g"XRename this field "constant_pool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉªçÖşÿÿÿÿ
+Â%squid:RedundantThrowsDeclarationCheck‚"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(éõÕ—ıÿÿÿÿ
+lsquid:S00100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬…äºúÿÿÿÿ
+Gsquid:S00108›")Either remove or fill this block of code.(³›åùşÿÿÿÿ

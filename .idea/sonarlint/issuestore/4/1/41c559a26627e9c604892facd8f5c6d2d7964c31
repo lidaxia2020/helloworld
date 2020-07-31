@@ -1,0 +1,32 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
+csquid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(ÈÒ£“üÿÿÿÿ
+dsquid:S00112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(ßäüşÿÿÿÿÿ
+_squid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(£°…
+dsquid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(šê Êùÿÿÿÿ
+_squid:S00112Á"FDefine and throw a dedicated exception instead of using a generic one.(ÆıåÑ
+dsquid:S00112Î"FDefine and throw a dedicated exception instead of using a generic one.(è•öúÿÿÿÿ
+nsquid:S00117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ıæ‘ùÿÿÿÿ
+<squid:S21573"%Add a "clone()" method to this class.(ßÉö¥
+|squid:S1149I"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+Qsquid:S1161[":Add the "@Override" annotation above this method signature(Îé¯Õ
+Qsquid:S1161v":Add the "@Override" annotation above this method signature(¶ÕŠ¹
+‚squid:S3252x"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ÈÒ£“üÿÿÿÿ
+Wsquid:S1161„":Add the "@Override" annotation above this method signature(øâ²¨şÿÿÿÿ
+ƒsquid:S3252ˆ"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ßäüşÿÿÿÿÿ
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(ËĞÁ
+~squid:S3252—"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(£°…
+Wsquid:S1161£":Add the "@Override" annotation above this method signature(¡‰‚”şÿÿÿÿ
+ƒsquid:S3252¥"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(šê Êùÿÿÿÿ
+Rsquid:S1161±":Add the "@Override" annotation above this method signature(æ”Âó
+Rsquid:S1161¿":Add the "@Override" annotation above this method signature(—±ûñ
+~squid:S3252Á"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ÆıåÑ
+Wsquid:S1161Ì":Add the "@Override" annotation above this method signature(†“ßşÿÿÿÿ
+ƒsquid:S3252Î"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(è•öúÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ÈÒ£“üÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ßäüşÿÿÿÿÿ
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(£°…
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(šê Êùÿÿÿÿ
+csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(ÆıåÑ
+hsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(è•öúÿÿÿÿ

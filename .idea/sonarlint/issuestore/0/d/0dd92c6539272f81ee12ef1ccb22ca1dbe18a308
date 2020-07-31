@@ -1,0 +1,10 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+jsquid:MaximumInheritanceDepth6"<This class has 7 parents which is greater than 5 authorized.(ÈÉÑ›ûÿÿÿÿ
+|squid:S00116@"_Rename this field "defaults_initialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨Äÿÿÿÿÿ
+wsquid:S00115>"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤ÓªÃıÿÿÿÿ
+osquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(¤ÓªÃıÿÿÿÿ
+Dsquid:S1172E"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+Qsquid:S1161Q":Add the "@Override" annotation above this method signature(¯À©Œ
+Qsquid:S1161X":Add the "@Override" annotation above this method signature(À…âÈ
+Vsquid:S1161`":Add the "@Override" annotation above this method signature(Å×÷üÿÿÿÿ

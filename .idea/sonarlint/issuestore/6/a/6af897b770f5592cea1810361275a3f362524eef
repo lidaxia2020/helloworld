@@ -1,0 +1,5 @@
+
+Lsquid:S1191)"5Use classes from the Java API instead of Sun classes.(éª‚€
+csquid:S00112E"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
+vsquid:S4144“"^Update this method so that its implementation is not identical to "compareAndSet" on line 122.(‘ºð•
+rsquid:S00115?"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãñÁÒ

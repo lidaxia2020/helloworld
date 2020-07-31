@@ -1,0 +1,18 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ØÃžµ
+}squid:UselessImportCheck3"TRemove this unnecessary import: same package classes are always implicitly imported.(Í£Ñ–ûÿÿÿÿ
+xsquid:UselessImportCheck4"TRemove this unnecessary import: same package classes are always implicitly imported.( ¨‚ð
+wsquid:UselessImportCheck5"TRemove this unnecessary import: same package classes are always implicitly imported.(¦´/
+}squid:UselessImportCheck6"TRemove this unnecessary import: same package classes are always implicitly imported.(›”ý»þÿÿÿÿ
+Wsquid:UselessImportCheck%"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+^squid:UselessImportCheck$":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
+qsquid:UselessImportCheck"HRemove this unused import 'java.lang.reflect.InvocationTargetException'.(è¾†„øÿÿÿÿ
+Zsquid:UselessImportCheck"7Remove this unused import 'java.lang.reflect.Modifier'.(×£Ð6
+csquid:UselessImportCheck ":Remove this unused import 'java.lang.reflect.Constructor'.(¿ã–þúÿÿÿÿ
+Xsquid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Field'.(„‡Áú
+>squid:S2129ƒ"!Remove this "Integer" constructor(ÖËåîÿÿÿÿÿ
+]squid:CallToDeprecatedMethodƒ"/Remove this use of "Integer"; it is deprecated.(ÖËåîÿÿÿÿÿ
+>squid:S2129‚"!Remove this "Integer" constructor(¡€õºûÿÿÿÿ
+]squid:CallToDeprecatedMethod‚"/Remove this use of "Integer"; it is deprecated.(¡€õºûÿÿÿÿ
+9squid:S2129‹"!Remove this "Integer" constructor(•‘é‰
+Xsquid:CallToDeprecatedMethod‹"/Remove this use of "Integer"; it is deprecated.(•‘é‰

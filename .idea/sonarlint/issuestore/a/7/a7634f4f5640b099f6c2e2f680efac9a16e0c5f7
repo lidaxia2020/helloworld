@@ -1,0 +1,19 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊÐ·Îûÿÿÿÿ
+jsquid:S3008À"RRename this field "_bundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¥ÿë
+hsquid:S00116:"PRename this field "_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©´ˆü
+msquid:S00116;"PRename this field "_line" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¢ö±üÿÿÿÿ
+jsquid:S00116<"SRename this field "_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïü‘7
+gsquid:S00116="ORename this field "_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¦ÇÅ
+jsquid:S00116>"RRename this field "_params" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ…‹•
+rsquid:S00116?"ZRename this field "_isWarningError" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µºËõ
+nsquid:S00116A"QRename this field "_cause" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ã˜¸øÿÿÿÿ
+|squid:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜Ýâœÿÿÿÿÿ
+psquid:ModifiersOrderCheckÂ"EReorder the modifiers to comply with the Java Language Specification.(©›ßŸøÿÿÿÿ
+ksquid:ModifiersOrderCheckÃ"EReorder the modifiers to comply with the Java Language Specification.(žÝ“ö
+psquid:ModifiersOrderCheckÄ"EReorder the modifiers to comply with the Java Language Specification.(¨ûÜ–üÿÿÿÿ
+ksquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(ÔŒø»
+[squid:S3358®"DExtract this nested ternary operation into an independent statement.(Ò³’s
+Usquid:S1197´"8Move the array designator from the variable to the type.(›”ä÷øÿÿÿÿ
+Psquid:S1197»"8Move the array designator from the variable to the type.(žæ›¿
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

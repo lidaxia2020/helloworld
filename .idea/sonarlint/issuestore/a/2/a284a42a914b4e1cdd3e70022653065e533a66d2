@@ -1,0 +1,23 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¬ª™üÿÿÿÿÿ
+xsquid:S1192¾"[Define a constant instead of duplicating this literal "algorithms.NoSuchAlgorithm" 4 times.(¤Ïşÿÿÿÿ
+8squid:S1700K"!Rename field "signatureAlgorithm"(¦ Òº
+psquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÊÚ
+Usquid:S1197£"8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
+]squid:S2147¿"ECombine this catch with the one at line 188, which has the same body.(¨¦Š½
+bsquid:S2147Â"ECombine this catch with the one at line 188, which has the same body.(‰•’şÿÿÿÿ
+\squid:CallToDeprecatedMethod»"3Remove this use of "newInstance"; it is deprecated.(şÉš›
+Psquid:S1197½"8Move the array designator from the variable to the type.(İû¦»
+ksquid:CallToDeprecatedMethod¾"=Remove this use of "XMLSignatureException"; it is deprecated.(¤Ïşÿÿÿÿ
+Psquid:S1197À"8Move the array designator from the variable to the type.(İû¦»
+ksquid:CallToDeprecatedMethodÁ"=Remove this use of "XMLSignatureException"; it is deprecated.(¤Ïşÿÿÿÿ
+Psquid:S1197Ã"8Move the array designator from the variable to the type.(İû¦»
+ksquid:CallToDeprecatedMethodÄ"=Remove this use of "XMLSignatureException"; it is deprecated.(¤Ïşÿÿÿÿ
+Usquid:S1197"8Move the array designator from the variable to the type.(Ì×‘¡üÿÿÿÿ
+Usquid:S1197±"8Move the array designator from the variable to the type.(­ç•üÿÿÿÿ
+Psquid:S1197¼"8Move the array designator from the variable to the type.(İû¦»
+ksquid:CallToDeprecatedMethod½"=Remove this use of "XMLSignatureException"; it is deprecated.(¤Ïşÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckÑ"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(š‹Å£üÿÿÿÿ
+Ô%squid:RedundantThrowsDeclarationCheckÒ"¡Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException', as it cannot be thrown from method's body.(÷Œ¥¨
+Usquid:S1197Û"8Move the array designator from the variable to the type.(­ç•üÿÿÿÿ
+Rsquid:S1161¨":Add the "@Override" annotation above this method signature(¼’Ì˜

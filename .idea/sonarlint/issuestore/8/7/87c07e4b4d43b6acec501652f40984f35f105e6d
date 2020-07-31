@@ -1,0 +1,25 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
+osquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‹Ùçúÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+_squid:UselessImportCheck";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+[squid:UselessImportCheck!"7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
+_squid:UselessImportCheck*"6Remove this unused import 'org.omg.IOP.TaggedProfile'.(òôúÅÿÿÿÿÿ
+Zsquid:UselessImportCheck "6Remove this unused import 'org.omg.CORBA.LocalObject'.(øöè
+Usquid:S1197Ñ"8Move the array designator from the variable to the type.(üïä•úÿÿÿÿ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÏÛ»¡
+ksquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(¡Êæ¨
+rsquid:S00116¥"ZRename this field "service_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î²”V
+V"squid:SwitchLastCaseIsDefaultCheckä""Add a default case to this switch.(Ó¿¤ƒüÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck¨""Add a default case to this switch.(»ğ
+V"squid:SwitchLastCaseIsDefaultCheck°""Add a default case to this switch.(¾ò«úÿÿÿÿ
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(«şıÜùÿÿÿÿ
+hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(«şıÜùÿÿÿÿ
+hsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(Û°Ë–ûÿÿÿÿ
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(²Ó©üÿÿÿÿ
+csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(¬õÆ…
+bsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(Ö£Õ9
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•‰æÿÿÿÿÿ
+hsquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(œüÇÌøÿÿÿÿ
+hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(¾å³ºøÿÿÿÿ
+hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(¼üì øÿÿÿÿ

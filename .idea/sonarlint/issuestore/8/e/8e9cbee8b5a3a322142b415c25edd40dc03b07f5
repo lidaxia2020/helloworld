@@ -1,0 +1,12 @@
+
+Xsquid:S2184ş"@Cast one of the operands of this addition operation to a "long".(½ë¸Å
+`squid:S2184ÿ"CCast one of the operands of this subtraction operation to a "long".(„Šìøúÿÿÿÿ
+Lsquid:S1191m"5Use classes from the Java API instead of Sun classes.(£ã› 
+Gsquid:S1066ª"/Merge this if statement with the enclosing one.(¬—§¤
+Esquid:S1199ú"-Extract this nested code block into a method.(ÔĞˆÜ
+Esquid:S1199"-Extract this nested code block into a method.(Ô“ì†
+Vsquid:S3516»"9Refactor this method to not always return the same value.(¡ªäÈıÿÿÿÿ
+Fsquid:S1125‘")Remove the literal "false" boolean value.(ÿë‰Îşÿÿÿÿ
+Fsquid:S1125¼")Remove the literal "false" boolean value.(ÿë‰Îşÿÿÿÿ
+Asquid:S1125¤")Remove the literal "false" boolean value.(û‚é£
+Esquid:S1185÷"(Remove this method to simply inherit it.(¾®±ìùÿÿÿÿ

@@ -1,0 +1,6 @@
+
+psquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(ÖçıÓûÿÿÿÿ
+Asquid:S1948À"$Make "op" transient or serializable.(ù‘ı”ÿÿÿÿÿ
+bsquid:S00119¾"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(€Ñü
+bsquid:S00119¾"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(€Ñü
+Esquid:S2447â"-Null is returned but a "Boolean" is expected.(¥¹ï

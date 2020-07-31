@@ -1,0 +1,36 @@
+
+ksquid:S3824®"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ù÷½ƒÿÿÿÿÿ
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
+fsquid:S1192"IDefine a constant instead of duplicating this literal "disabled" 7 times.(Ÿ²û»ûÿÿÿÿ
+_squid:S1192é"GDefine a constant instead of duplicating this literal "OPTION" 3 times.(ÿšıç
+`squid:S1192"HDefine a constant instead of duplicating this literal "compact" 5 times.(Âßë
+_squid:S00112ñ"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+nsquid:S3008q"RRename this field "_byChar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°œòªøÿÿÿÿ
+isquid:S3008{"RRename this field "_byName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïê³×
+qsquid:S3008~"URename this field "_boolAttrs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÏÖıÿÿÿÿ
+qsquid:S3008‡"TRename this field "_elemDefs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¸â×úÿÿÿÿ
+Vsquid:S1118D":Add a private constructor to hide the implicit public one.(ı¨ÑÊşÿÿÿÿ
+rsquid:S00115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±ƒ´
+rsquid:S00115U"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì¡äá
+wsquid:S00115^"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´Àí²ûÿÿÿÿ
+wsquid:S00115g"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›‡Ø÷øÿÿÿÿ
+rsquid:S1149q"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°œòªøÿÿÿÿ
+msquid:S1149{"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ïê³×
+rsquid:S1149~"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ªÏÖıÿÿÿÿ
+ssquid:S1149‡"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(—¸â×úÿÿÿÿ
+Ksquid:S1172ƒ".Remove this unused method parameter "tagName".(ÑŠÚşûÿÿÿÿ
+fsquid:S4201¶"IRemove this unnecessary null check; "instanceof" returns false for nulls.(±çÓåùÿÿÿÿ
+9squid:S2129Ñ"!Remove this "Integer" constructor(œóÙƒ
+Xsquid:CallToDeprecatedMethodÑ"/Remove this use of "Integer"; it is deprecated.(œóÙƒ
+jsquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(©˜“ø
+Ysquid:S4719ö"<Replace charset name argument with StandardCharsets.US_ASCII(—úÑœûÿÿÿÿ
+Gsquid:S00108–")Either remove or fill this block of code.(Àäéüÿÿÿÿ
+Gsquid:S2093ì"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+>squid:S2129¯"!Remove this "Integer" constructor(ÒÿÛƒÿÿÿÿÿ
+]squid:CallToDeprecatedMethod¯"/Remove this use of "Integer"; it is deprecated.(ÒÿÛƒÿÿÿÿÿ
+>squid:S2129°"!Remove this "Integer" constructor(Í±—ıÿÿÿÿ
+]squid:CallToDeprecatedMethod°"/Remove this use of "Integer"; it is deprecated.(Í±—ıÿÿÿÿ
+9squid:S2129·"!Remove this "Integer" constructor(›ÁƒÖ
+Xsquid:CallToDeprecatedMethod·"/Remove this use of "Integer"; it is deprecated.(›ÁƒÖ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,41 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.( Šİ¹ıÿÿÿÿ
+_squid:S1192È"GDefine a constant instead of duplicating this literal "empty" 10 times.(˜éà¡
+dsquid:S00112È"FDefine and throw a dedicated exception instead of using a generic one.( †£ıÿÿÿÿ
+osquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
+jsquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¿ˆØ
+osquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡å¬çùÿÿÿÿ
+osquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’ëúÿÿÿÿ
+osquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ
+]squid:S2147É"ECombine this catch with the one at line 199, which has the same body.(‚°„–
+]squid:S2147Ë"ECombine this catch with the one at line 199, which has the same body.(Ãôş•
+]squid:S2147Í"ECombine this catch with the one at line 199, which has the same body.(¶ùø
+>squid:S1168Æ"&Return an empty array instead of null.(¥¹ï
+jsquid:CallToDeprecatedMethodÈ"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡
+jsquid:CallToDeprecatedMethodÊ"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡
+jsquid:CallToDeprecatedMethodÌ"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡
+jsquid:CallToDeprecatedMethodÎ"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡
+]squid:S2147"ECombine this catch with the one at line 267, which has the same body.(Ãôş•
+>squid:S1168‰"&Return an empty array instead of null.(¥¹ï
+jsquid:CallToDeprecatedMethodŒ"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡
+jsquid:CallToDeprecatedMethod"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡
+osquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÿØŞûøÿÿÿÿ
+csquid:HiddenFieldCheck¨";Rename "writer" which hides the field declared at line 113.(»Ó®Äÿÿÿÿÿ
+hsquid:HiddenFieldCheck©"@Rename "excludeNode" which hides the field declared at line 112.(Ÿ´Óùÿÿÿÿ
+gsquid:HiddenFieldCheckª"DRename "includeComments" which hides the field declared at line 102.(””É›
+qsquid:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÎşŠ
+]squid:S2147¦"ECombine this catch with the one at line 420, which has the same body.(Ãôş•
+>squid:S1168£"&Return an empty array instead of null.(¥¹ï
+jsquid:CallToDeprecatedMethod¥"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡
+jsquid:CallToDeprecatedMethod§"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡
+jsquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(‹£…
+csquid:HiddenFieldCheckÇ";Rename "writer" which hides the field declared at line 113.(Øïèˆûÿÿÿÿ
+qsquid:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÎşŠ
+^squid:S1126ğ"AReplace this if-then-else statement by a single return statement.(è«Õ»ùÿÿÿÿ
+qsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¼éÁ
+`squid:CallToDeprecatedMethod¤"7Remove this use of "writeCharToUtf8"; it is deprecated.(³Ïóä
+jsquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Éû–ï
+`squid:CallToDeprecatedMethodÊ"7Remove this use of "writeCharToUtf8"; it is deprecated.(³Ïóä
+`squid:CallToDeprecatedMethodÛ"7Remove this use of "writeCharToUtf8"; it is deprecated.(³Ïóä
+`squid:CallToDeprecatedMethod„"7Remove this use of "writeCharToUtf8"; it is deprecated.(³Ïóä
+`squid:CallToDeprecatedMethod¸"7Remove this use of "writeCharToUtf8"; it is deprecated.(³Ïóä

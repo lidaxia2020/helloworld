@@ -1,0 +1,24 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
+psquid:UselessImportCheck*"LRemove this unused import 'com.sun.org.apache.bcel.internal.generic.ASTORE'.(Ç± Ó
+vsquid:UselessImportCheck+"RRemove this unused import 'com.sun.org.apache.bcel.internal.generic.BranchHandle'.(ªäï¨
+msquid:UselessImportCheck-"JRemove this unused import 'com.sun.org.apache.bcel.internal.generic.GOTO'.(ï©îN
+{squid:UselessImportCheck2"WRemove this unused import 'com.sun.org.apache.bcel.internal.generic.InstructionHandle'.(®¹³¸
+rsquid:UselessImportCheck5"IRemove this unused import 'com.sun.org.apache.bcel.internal.generic.NEW'.(èú¨Óþÿÿÿÿ
+zsquid:UselessImportCheck4"VRemove this unused import 'com.sun.org.apache.bcel.internal.generic.LocalVariableGen'.(ñ‚õ«
+vsquid:UselessImportCheck0"SRemove this unused import 'com.sun.org.apache.bcel.internal.generic.INVOKESPECIAL'.(’¤Ò	
+nsquid:UselessImportCheck."JRemove this unused import 'com.sun.org.apache.bcel.internal.generic.IFGT'.(ÿ¼·ý
+osquid:UselessImportCheck)"KRemove this unused import 'com.sun.org.apache.bcel.internal.generic.ALOAD'.(èËÌØ
+ysquid:UselessImportCheck/"URemove this unused import 'com.sun.org.apache.bcel.internal.generic.INVOKEINTERFACE'.(…†”ª
+{squid:UselessImportCheck<"WRemove this unused import 'com.sun.org.apache.xalan.internal.xsltc.compiler.util.Util'.(ŽüÇƒ
+msquid:S00116L"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¯È™úÿÿÿÿ
+nsquid:S00116T"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Æçúÿÿÿÿ
+rsquid:S00116\"URename this field "_valueType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»€»êþÿÿÿÿ
+vsquid:S00116d"YRename this field "_resolvedQName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¡»þÿÿÿÿ
+squid:S1149x"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡×•¬ûÿÿÿÿ
+Asquid:S1125¢")Remove the literal "false" boolean value.(¸÷Ì°
+Wsquid:S1161µ":Add the "@Override" annotation above this method signature(šžíïÿÿÿÿÿ
+Asquid:S1125Â")Remove the literal "false" boolean value.(ÍÔÝÍ
+Rsquid:S1161ë":Add the "@Override" annotation above this method signature(£û×û
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í¿ÓÁùÿÿÿÿ

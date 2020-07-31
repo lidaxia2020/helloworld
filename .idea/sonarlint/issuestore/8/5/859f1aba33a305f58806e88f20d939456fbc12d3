@@ -1,0 +1,8 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¼¤êµ
+msquid:S00116<"URename this field "m_patterns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ›Ôè
+|squid:S1149D"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+Vsquid:S1161W":Add the "@Override" annotation above this method signature(ö™±¨ûÿÿÿÿ
+jsquid:S1871«"MThis branch's code block is the same as the block for the branch on line 169.(ã¸Ì¢þÿÿÿÿ
+ksquid:S00116¹"RRename this field "m_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§¾°
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

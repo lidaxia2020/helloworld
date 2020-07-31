@@ -1,0 +1,17 @@
+
+Lsquid:S1191<"5Use classes from the Java API instead of Sun classes.(§ª›‰
+jsquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â—ñÿ
+lsquid:UselessImportCheck:"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ
+hsquid:UselessImportCheck8"?Remove this unused import 'java.util.MissingResourceException'.(å—¡Şşÿÿÿÿ
+Tsquid:UselessImportCheck6"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Tsquid:UselessImportCheck4"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+hsquid:UselessImportCheck;"?Remove this unused import 'java.util.concurrent.ConcurrentMap'.(˜ˆ¶úÿÿÿÿ
+^squid:UselessImportCheck9"5Remove this unused import 'java.util.ResourceBundle'.(ıÆ£¯øÿÿÿÿ
+lsquid:S00116‡"NRename this field "NaN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªï»òûÿÿÿÿ
+xsquid:S00115ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ…Õ˜úÿÿÿÿ
+Gsquid:S00108Ù")Either remove or fill this block of code.(¥¨›ıÿÿÿÿ
+ksquid:S2975ñ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+Nsquid:S1905ó"7Remove this unnecessary cast to "DecimalFormatSymbols".(â½‡
+Gsquid:S00108Ş")Either remove or fill this block of code.(¥¨›ıÿÿÿÿ
+Gsquid:S00108š")Either remove or fill this block of code.(¥¨›ıÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(«—¿…øÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Qsquid:S1191S"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡âë
+xsquid:S00115’"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú¯«™şÿÿÿÿ
+osquid:ModifiersOrderChecky"EReorder the modifiers to comply with the Java Language Specification.(˜çğÈúÿÿÿÿ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‡âë
+Ê%squid:RedundantThrowsDeclarationCheck³"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+Lsquid:S1068Ÿ"/Remove this unused "fVersionNum" private field.(´Ë›ìÿÿÿÿÿ

@@ -1,0 +1,103 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+ssquid:S1192Ü"[Define a constant instead of duplicating this literal "Illegally nested brackets:" 3 times.(©Àõæ
+ssquid:S1192»"[Define a constant instead of duplicating this literal "Invalid method signature: " 9 times.(”ïÎ
+Lsquid:S1066º"/Merge this if statement with the enclosing one.(¹ ¬Ïûÿÿÿÿ
+Jsquid:S1199½"-Extract this nested code block into a method.(ÿîøíøÿÿÿÿ
+Esquid:S1199İ"-Extract this nested code block into a method.(¿ÑÇ˜
+Jsquid:S1199å"-Extract this nested code block into a method.(—¾Œ»üÿÿÿÿ
+Esquid:S1199ó"-Extract this nested code block into a method.(àƒÕ»
+gsquid:S2095×"JUse try-with-resources or close this "ByteSequence" in a "finally" clause.(–·ëûÿÿÿÿ
+asquid:S3973Ï"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+qsquid:S1488â"YImmediately return this expression instead of assigning it to the temporary variable "s".(¨­‘ï
+dsquid:S00112­"FDefine and throw a dedicated exception instead of using a generic one.(–·üıÿÿÿÿ
+_squid:S00112Ü"FDefine and throw a dedicated exception instead of using a generic one.(©Àõæ
+_squid:S00112â"FDefine and throw a dedicated exception instead of using a generic one.(©Àõæ
+_squid:S00112í"FDefine and throw a dedicated exception instead of using a generic one.(©Àõæ
+osquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òâƒñıÿÿÿÿ
+jsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÿ»Ä
+jsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¼Åê
+osquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓòÉÅıÿÿÿÿ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æˆƒûÿÿÿÿ
+osquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æˆƒûÿÿÿÿ
+jsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äº£±
+jsquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôåû¾
+osquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÙ£çÿÿÿÿÿ
+jsquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‚êÏ
+jsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®–Ç©
+osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Çˆ¾ÿÿÿÿÿ
+osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ûüÿùÿÿÿÿ
+jsquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ĞÀÏ
+jsquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èªĞ¤
+osquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı´ÿûÿÿÿÿ
+jsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áêºá
+osquid:S00117ï	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öâóëıÿÿÿÿ
+jsquid:S00117€
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´ê
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+usquid:S3008g"YRename this field "consumed_chars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š·ç½úÿÿÿÿ
+ksquid:S3008«"SRename this field "CHAR_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÑƒ‘
+psquid:S3008¬"SRename this field "MAP_CHAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¶‡Ìşÿÿÿÿ
+Qsquid:S1118f":Add a private constructor to hide the implicit public one.(˜°»ô
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+wsquid:S1149Ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(üñ
+|squid:S1149ˆ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Âï÷Íûÿÿÿÿ
+|squid:S1149ˆ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ª°ğÿÿÿÿÿ
+|squid:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ª°ğÿÿÿÿÿ
+|squid:S1149€"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|squid:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(§Ü€±ıÿÿÿÿ
+|squid:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(§Ü€±ıÿÿÿÿ
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|squid:S1149Ï	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|squid:S1149¯
+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|squid:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+U
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(©Äüşÿÿÿÿ
+jsquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(£İ†
+9squid:S1659„"!Declare "low" on a separate line.(ôåû¾
+:squid:S1659„""Declare "high" on a separate line.(ôåû¾
+<squid:S1659„"$Declare "npairs" on a separate line.(ôåû¾
+Asquid:S1659…"$Declare "vindex" on a separate line.(‰‚“¤üÿÿÿÿ
+Csquid:S1659…"&Declare "constant" on a separate line.(‰‚“¤üÿÿÿÿ
+Esquid:S1659†"(Declare "jump_table" on a separate line.(ÈÙ£çÿÿÿÿÿ
+<squid:S1659‡"$Declare "offset" on a separate line.(¥‚êÏ
+P
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(¥ÙÛÆ
+c
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(³¦—
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıĞò­
+]squid:S4635»"EReplace "indexOf" with the overload that accepts an offset parameter.(İÙ²×
+lsquid:S00100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÇü«ıÿÿÿÿ
+gsquid:S00100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ï·Å
+¼%squid:RedundantThrowsDeclarationCheck†"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
+ksquid:ModifiersOrderCheck…"EReorder the modifiers to comply with the Java Language Specification.(˜³´š
+¼%squid:RedundantThrowsDeclarationCheck¤"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
+¼%squid:RedundantThrowsDeclarationCheck³"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
+¼%squid:RedundantThrowsDeclarationCheckÓ"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
+¼%squid:RedundantThrowsDeclarationChecká"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
+¼%squid:RedundantThrowsDeclarationCheck¹"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
+osquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÄÛÄùÿÿÿÿ
+`squid:CallToDeprecatedMethodË"8Remove this use of "getLocalVariable"; it is deprecated.(„ªó
+Vsquid:S1854ƒ"9Remove this useless assignment to local variable "index".(â³©Ñüÿÿÿÿ
+?squid:S1659ÿ"'Declare "old_index" on a separate line.(èªĞ¤
+U
+squid:S106’"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+Csquid:S1659õ"&Declare "brackets" on a separate line.(§Ü€±ıÿÿÿÿ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(áÆÊ·
+;squid:S1659 "#Declare "delim" on a separate line.(áêºá
+m squid:LabelsShouldNotBeUsedCheck£";Refactor the code to remove this label and the need for it.(åÍœûÿÿÿÿ
+¼%squid:RedundantThrowsDeclarationCheckş"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
+¼%squid:RedundantThrowsDeclarationCheck™	"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
+7squid:S1659°"Declare "k" on a separate line.(ÙÏÉÄ
+Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(Ä…©
+Wsquid:S1161ë":Add the "@Override" annotation above this method signature(¦ŞÍÔùÿÿÿÿ
+Wsquid:S1161ş":Add the "@Override" annotation above this method signature(è¼Ù§üÿÿÿÿ
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(ä×Ïó
+Wsquid:S1161š":Add the "@Override" annotation above this method signature(¸Ü’¨ıÿÿÿÿ
+Esquid:S1481õ"(Remove this unused "buf" local variable.(§Ü€±ıÿÿÿÿ
+?squid:S1481÷"'Remove this unused "ch" local variable.(“¶˜ì
+>squid:S1481°"&Remove this unused "k" local variable.(ÙÏÉÄ
+Xsquid:UnusedPrivateMethodÕ"-Remove this unused private "is_digit" method.(œÇü«ıÿÿÿÿ
+Ssquid:UnusedPrivateMethodÙ"-Remove this unused private "is_space" method.(£Ï·Å

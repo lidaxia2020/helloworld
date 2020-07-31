@@ -1,0 +1,11 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(„·Ìú
+>squid:S1214'""Move constants to a class or enum.(­Ôê ûÿÿÿÿ
+wsquid:S00115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚²Âýúÿÿÿÿ
+wsquid:S00115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(º«ôèùÿÿÿÿ
+wsquid:S001150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É¼Îóúÿÿÿÿ
+qsquid:S001151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–ÒýC
+osquid:ModifiersOrderCheck+"EReorder the modifiers to comply with the Java Language Specification.(‚²Âýúÿÿÿÿ
+osquid:ModifiersOrderCheck,"EReorder the modifiers to comply with the Java Language Specification.(º«ôèùÿÿÿÿ
+osquid:ModifiersOrderCheck0"EReorder the modifiers to comply with the Java Language Specification.(É¼Îóúÿÿÿÿ
+isquid:ModifiersOrderCheck1"EReorder the modifiers to comply with the Java Language Specification.(–ÒýC

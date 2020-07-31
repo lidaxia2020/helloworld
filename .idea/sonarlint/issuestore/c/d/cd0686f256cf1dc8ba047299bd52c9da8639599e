@@ -1,0 +1,18 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
+wsquid:S00115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Àáó¸úÿÿÿÿ
+wsquid:S00115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•Ç—Äúÿÿÿÿ
+wsquid:S00115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±÷Ûåşÿÿÿÿ
+Qsquid:S1161j":Add the "@Override" annotation above this method signature(Š«ŒÚ
+Xsquid:S1854‡";Remove this useless assignment to local variable "bgColor".(¾ûÅåùÿÿÿÿ
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(¶øÂÁ
+Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+Wsquid:S1161Ú":Add the "@Override" annotation above this method signature(ú¿¬Ûûÿÿÿÿ
+Rsquid:S1854":Remove this useless assignment to local variable "center".(íŸÕö
+Wsquid:S1161°":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
+Rsquid:S1161¹":Add the "@Override" annotation above this method signature(ç¨Î§
+Isquid:S1481‡",Remove this unused "bgColor" local variable.(¾ûÅåùÿÿÿÿ
+Csquid:S1481"+Remove this unused "center" local variable.(íŸÕö
+Gsquid:S3398€"*Move this method into "MotifMouseHandler".(úÿ†Üüÿÿÿÿ
+Gsquid:S3398£"*Move this method into "MotifMouseHandler".(êòÓÿÿÿÿÿ
+Gsquid:S3398Ÿ"*Move this method into "MotifMouseHandler".(Œ¹ïçüÿÿÿÿ

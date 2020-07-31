@@ -1,0 +1,15 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(öÆÝÐ
+Ž"squid:ClassVariableVisibilityCheck"[Make applicationName a static final constant or non-public and provide accessors if needed.(€„®”ûÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake serverName a static final constant or non-public and provide accessors if needed.(‡Û÷îùÿÿÿÿ
+Ž"squid:ClassVariableVisibilityCheck"[Make serverClassPath a static final constant or non-public and provide accessors if needed.(ùÊäÑÿÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake serverArgs a static final constant or non-public and provide accessors if needed.(•×Éêøÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheck"XMake serverVmArgs a static final constant or non-public and provide accessors if needed.(ñœíâÿÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"WMake isInstalled a static final constant or non-public and provide accessors if needed.(¼âÖ›
+isquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ò´Ù
+isquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ò´Ù
+isquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ò´Ù
+isquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ò´Ù
+isquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ò´Ù
+isquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ò´Ù
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÆÝÐ

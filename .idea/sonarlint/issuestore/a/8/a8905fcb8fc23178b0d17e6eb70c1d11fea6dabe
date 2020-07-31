@@ -1,0 +1,5 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ύΗ
+nsquid:S3776A"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ϊ£σωÿÿÿÿ
+Vsquid:S1161A":Add the "@Override" annotation above this method signature(Ϊ£σωÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Ν›Έύÿÿÿÿ

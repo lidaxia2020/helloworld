@@ -1,0 +1,11 @@
+
+=squid:S1659c"!Declare "len" on a separate line.(ğ€İêùÿÿÿÿ
+Bsquid:S1659d"&Declare "strategy" on a separate line.(„ä¿’ÿÿÿÿÿ
+Bsquid:S1659f"&Declare "finished" on a separate line.(–·§÷ÿÿÿÿÿ
+xsquid:CallToDeprecatedMethodÚ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+a"squid:ObjectFinalizeOverridenCheckÚ"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+psquid:ModifiersOrderCheckå"EReorder the modifiers to comply with the Java Language Specification.(Ñïªûÿÿÿÿ
+psquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(ïİÄúÿÿÿÿ
+psquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(Š•±Éùÿÿÿÿ
+ksquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(ªÖÓŸ
+psquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(Šù µúÿÿÿÿ

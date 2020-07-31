@@ -1,0 +1,77 @@
+
+Qsquid:S1191."5Use classes from the Java API instead of Sun classes.(“Ç‡ÿÿÿÿÿ
+`squid:S1192ä"HDefine a constant instead of duplicating this literal "failure" 5 times.(˜¾ÁÊ
+msquid:S1192¸"UDefine a constant instead of duplicating this literal "invalid permission: " 3 times.(ÉğÉÙ
+isquid:S1192ƒ"LDefine a constant instead of duplicating this literal "permissions" 3 times.(¦•Ëøÿÿÿÿ
+Gsquid:S1066 "/Merge this if statement with the enclosing one.(Œî•Ë
+Lsquid:S1066á"/Merge this if statement with the enclosing one.(Ë°×Êøÿÿÿÿ
+Gsquid:S1066ƒ"/Merge this if statement with the enclosing one.(û›ì¢
+Lsquid:S1066	"/Merge this if statement with the enclosing one.(±Â•Éûÿÿÿÿ
+Qsquid:S4973ë"9Use the "equals" method if value comparison was intended.(²ŸÒ†
+Vsquid:S4973í"9Use the "equals" method if value comparison was intended.(³˜ìùùÿÿÿÿ
+Vsquid:S4973ï"9Use the "equals" method if value comparison was intended.(ü¢Â¼ÿÿÿÿÿ
+Vsquid:S4973ñ"9Use the "equals" method if value comparison was intended.(ïÇ†Öüÿÿÿÿ
+Psquid:S4973ó"9Use the "equals" method if value comparison was intended.(Ö Î,
+Esquid:S1604÷
+"(Make this anonymous inner class a lambda(³‚ş•ıÿÿÿÿ
+dsquid:S00112¾"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+}squid:UselessImportCheck#"TRemove this unnecessary import: same package classes are always implicitly imported.(ë³ƒÒÿÿÿÿÿ
+Bsquid:S1659—"%Declare "hdomain" on a separate line.(ôƒáÏıÿÿÿÿ
+Psquid:S2675æ
+"3Remove the "synchronized" keyword from this method.(¤ğ¹òÿÿÿÿÿ
+psquid:S00116¦"WRename this field "init_with_ip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‹ñÄ
+|squid:S1149Õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(œ–úíÿÿÿÿÿ
+ksquid:ModifiersOrderCheck×"EReorder the modifiers to comply with the Java Language Specification.(µè¨ú
+psquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(Ç•ô½üÿÿÿÿ
+ksquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(ºœš×
+ksquid:ModifiersOrderCheckï"EReorder the modifiers to comply with the Java Language Specification.(’Ùç
+psquid:ModifiersOrderCheck÷"EReorder the modifiers to comply with the Java Language Specification.(ó¦ÎŠùÿÿÿÿ
+ksquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(à›Ê˜
+ssquid:S00115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûˆì“
+ssquid:S00115¿"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³É¯
+Lsquid:EmptyStatementUsageCheckÀ"Remove this empty statement.(ôŸìúÿÿÿÿ
+Osquid:S1854 "7Remove this useless assignment to local variable "ind".(Œî•Ë
+<squid:S1659Í"Declare "h" on a separate line.(±–¾âıÿÿÿÿ
+3squid:S3626¹"Remove this redundant jump.(ûÁİ…
+osquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(¶Ó¥µÿÿÿÿÿ
+>squid:S1659‡"!Declare "end" on a separate line.(Û‚ÌÎøÿÿÿÿ
+Usquid:S1197¿"8Move the array designator from the variable to the type.(û¥ø°úÿÿÿÿ
+osquid:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(ğ£‘Ñûÿÿÿÿ
+jsquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ûˆº¢
+]squid:HiddenFieldCheckã":Rename "debug" which hides the field declared at line 313.(¨“à¬
+Dsquid:S1172³",Remove this unused method parameter "cname".(âÑÑÇ
+]squid:HiddenFieldCheckÃ":Rename "debug" which hides the field declared at line 313.(¨“à¬
+]squid:HiddenFieldCheckÈ":Rename "debug" which hides the field declared at line 313.(¨“à¬
+Isquid:S1172Ğ",Remove this unused method parameter "cname".(÷‘ñìøÿÿÿÿ
+]squid:HiddenFieldCheckã":Rename "debug" which hides the field declared at line 313.(¨“à¬
+]squid:HiddenFieldCheckè":Rename "debug" which hides the field declared at line 313.(¨“à¬
+^squid:S3027„"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(·ã¹ø
+<squid:S1659Î"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+jsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(ù‚‹Á
+<squid:S1659ş"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+Bsquid:S00108ß	")Either remove or fill this block of code.(ÇêˆÈ
+Qsquid:S1854
+"9Remove this useless assignment to local variable "comma".(¿ÿª½
+Wsquid:S1161É
+":Add the "@Override" annotation above this method signature(‘¹ÿÖşÿÿÿÿ
+Jsquid:S1172õ
+"-Remove this unused method parameter "defval".(¯ûøùÿÿÿÿ
+}squid:S1149–"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(«’‡‘
+‚squid:S1149°"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ğ­–»ÿÿÿÿÿ
+vsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ûÿêªúÿÿÿÿ
+vsquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÔïÈøÿÿÿÿ
+Csquid:S1481Î"&Remove this unused "i" local variable.(¦¢Éëùÿÿÿÿ
+Csquid:S1481Î"&Remove this unused "j" local variable.(¦¢Éëùÿÿÿÿ
+Rsquid:UnusedPrivateMethod",Remove this unused private "setDeny" method.(‰„œè
+Dsquid:S3398õ
+"'Move this method into "EphemeralRange".(¯ûøùÿÿÿÿ
+Nsquid:S1068„"1Remove this unused "PRIV_PORT_MAX" private field.(€‹üÿÿÿÿ
+Wsquid:S1068‚":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(“„Ê¾ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ÅÏŸ!
+csquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(Í­Û
+csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(Í­Û
+hsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+csquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(ºòßô
+hsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(ä©¦«øÿÿÿÿ
+hsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(‚˜Úıÿÿÿÿ

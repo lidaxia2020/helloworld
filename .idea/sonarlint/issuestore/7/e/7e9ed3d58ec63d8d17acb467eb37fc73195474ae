@@ -1,0 +1,28 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
+†squid:S32528"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(»”ØŒÿÿÿÿÿ
+‰squid:S32528"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(»”ØŒÿÿÿÿÿ
+Šsquid:S32528"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(»”ØŒÿÿÿÿÿ
+‹squid:S32528"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(»”ØŒÿÿÿÿÿ
+‹squid:S32528"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(»”ØŒÿÿÿÿÿ
+‹squid:S32528"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXEXCLUSIVE".(»”ØŒÿÿÿÿÿ
+‹squid:S32528"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINEXCLUSIVE".(»”ØŒÿÿÿÿÿ
+Šsquid:S32528"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_TOTALDIGITS".(»”ØŒÿÿÿÿÿ
+squid:S32528"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_FRACTIONDIGITS".(»”ØŒÿÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckd"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(«©ÓB
+›%squid:RedundantThrowsDeclarationCheckg"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ûü—Å
+ %squid:RedundantThrowsDeclarationCheckm"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(©İúãÿÿÿÿÿ
+nsquid:S3776m"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(©İúãÿÿÿÿÿ
+@squid:S1659t"$Declare "intEnd" on a separate line.(¤ŠúÍùÿÿÿÿ
+Csquid:S1659t"'Declare "fracStart" on a separate line.(¤ŠúÍùÿÿÿÿ
+Asquid:S1659t"%Declare "fracEnd" on a separate line.(¤ŠúÍùÿÿÿÿ
+¡%squid:RedundantThrowsDeclarationCheck¹"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ó‡êÿÿÿÿÿ
+Asquid:S1659¿"$Declare "intEnd" on a separate line.(üÂÎùÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck˜"Remove this empty statement.(µ™»Íıÿÿÿÿ
+\squid:S3358š"DExtract this nested ternary operation into an independent statement.(ª¥Ä
+œ%squid:RedundantThrowsDeclarationCheckÏ"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(’æÓ“
+œ%squid:RedundantThrowsDeclarationCheckİ"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(³Ò®İ
+¡%squid:RedundantThrowsDeclarationCheckë"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ø»¢™øÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheckù"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ì–¿‰
+¡%squid:RedundantThrowsDeclarationCheck‡"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(Ç­Ûúÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

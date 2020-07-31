@@ -1,0 +1,15 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö²‰ô
+jsquid:S00101:"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À¡Ë­úÿÿÿÿ
+nsquid:S00117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à»ı¢úÿÿÿÿ
+isquid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†°ÛÍ
+isquid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†°ÛÍ
+tsquid:UselessImportCheck)"KRemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputStream'.(ÁĞ˜Úÿÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+psquid:UselessImportCheck,"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
+osquid:S00116A"WRename this field "reply_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†®ÿÔ
+=squid:S1905A"&Remove this unnecessary cast to "int".(†®ÿÔ
+=squid:S1905D"&Remove this unnecessary cast to "int".(Šï¶©
+>squid:S2129”"!Remove this "Integer" constructor(ãÙÂÿÿÿÿÿ
+]squid:CallToDeprecatedMethod”"/Remove this use of "Integer"; it is deprecated.(ãÙÂÿÿÿÿÿ
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ıúÖ¢

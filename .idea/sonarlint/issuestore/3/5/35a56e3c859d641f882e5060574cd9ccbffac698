@@ -1,0 +1,22 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
+esquid:S1192Æ"HDefine a constant instead of duplicating this literal "name = " 3 times.(ıÄ¢·øÿÿÿÿ
+u
+squid:S135æ"YReduce the total number of break and continue statements in this loop to use at most one.(Îô¯àùÿÿÿÿ
+Qsquid:S4973Ò"9Use the "equals" method if value comparison was intended.(ååˆ
+Vsquid:S4973×"9Use the "equals" method if value comparison was intended.(†’ûĞùÿÿÿÿ
+osquid:S00117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿµÇøÿÿÿÿ
+psquid:ModifiersOrderCheck‹"EReorder the modifiers to comply with the Java Language Specification.(õ»Ëøÿÿÿÿ
+jsquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ğ©ÿ­
+gsquid:S2445•"J"moiTb" is a method parameter, and should not be used for synchronization.(‹ÇÏ´úÿÿÿÿ
+vsquid:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¦²çıÿÿÿÿ
+Xsquid:S3078§"AUse an "AtomicInteger" for this field; its operations are atomic.(êÁ¥i
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„‘áß
+vsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(é®Şâøÿÿÿÿ
+3squid:S3626ï"Remove this redundant jump.(ûÁİ…
+Xsquid:S3078÷"AUse an "AtomicInteger" for this field; its operations are atomic.(êÁ¥i
+osquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¾û†‡şÿÿÿÿ
+qsquid:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âˆ€
+Qsquid:S2864‹"4Iterate over the "entrySet" instead of the "keySet".(Ú¯øÿÿÿÿ
+^squid:S3078Í"AUse an "AtomicInteger" for this field; its operations are atomic.(´¨Áúÿÿÿÿ
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(»ñİ‰

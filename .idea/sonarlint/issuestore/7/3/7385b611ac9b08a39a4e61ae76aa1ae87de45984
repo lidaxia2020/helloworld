@@ -1,0 +1,18 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
+d$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(ÜŠºÉÿÿÿÿÿ
+u
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ñ®àíşÿÿÿÿ
+[squid:S2583Í"CChange this condition so that it does not always evaluate to "true"(ò˜õ›
+Vsquid:S4973á"9Use the "equals" method if value comparison was intended.(‹¬ô¦ùÿÿÿÿ
+Vsquid:S4973ã"9Use the "equals" method if value comparison was intended.(îÈâüÿÿÿÿ
+Vsquid:S4973é"9Use the "equals" method if value comparison was intended.(‹¬ô¦ùÿÿÿÿ
+Vsquid:S4973ë"9Use the "equals" method if value comparison was intended.(îÈâüÿÿÿÿ
+Vsquid:S4973Š"9Use the "equals" method if value comparison was intended.(”Ğ•äúÿÿÿÿ
+bsquid:S2259Á"EA "NullPointerException" could be thrown; "rawName" is nullable here.(éÌ³üÿÿÿÿ
+jsquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‹ÃÄŠ
+jsquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(†Ç
+Esquid:S2755¨"-Disable XML external entity (XXE) processing.(Ë¾æ‘
+osquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ºŸ³Šûÿÿÿÿ
+osquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(›­ìÁùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

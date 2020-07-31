@@ -1,0 +1,11 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
+?squid:S11726"(Remove this unused method parameter "c".(¼Å¹š
+Vsquid:S1161;":Add the "@Override" annotation above this method signature(Ó‰Ï”üÿÿÿÿ
+Vsquid:S1161A":Add the "@Override" annotation above this method signature(ä¯¨‚ıÿÿÿÿ
+Dsquid:S1172F"(Remove this unused method parameter "c".(ûà›øÿÿÿÿ
+Vsquid:S1161J":Add the "@Override" annotation above this method signature(öĞçÓøÿÿÿÿ
+˜squid:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŞÉô
+˜squid:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
+˜squid:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
+squid:S1186o"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»‰¥åşÿÿÿÿ

@@ -1,0 +1,34 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
+Lsquid:S1066¡"/Merge this if statement with the enclosing one.(¸öÀ¢øÿÿÿÿ
+"squid:ClassVariableVisibilityCheck@"QMake fType a static final constant or non-public and provide accessors if needed.(÷Âß†
+"squid:ClassVariableVisibilityCheckB"\Make fProcessContents a static final constant or non-public and provide accessors if needed.(àÆÂÇùÿÿÿÿ
+"squid:ClassVariableVisibilityCheckF"ZMake fNamespaceList a static final constant or non-public and provide accessors if needed.(‰™á¹ıÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheckI"XMake fAnnotations a static final constant or non-public and provide accessors if needed.(üìáÕşÿÿÿÿ
+Tsquid:S2589±"7Remove this expression which always evaluates to "true"(ÂŸ€¹üÿÿÿÿ
+Tsquid:S2589¬"7Remove this expression which always evaluates to "true"(Å æµüÿÿÿÿ
+Psquid:S4973s"9Use the "equals" method if value comparison was intended.(ô§ó
+Psquid:S4973"9Use the "equals" method if value comparison was intended.(ô§ó
+Vsquid:S4973¢"9Use the "equals" method if value comparison was intended.(ÿğñ‘şÿÿÿÿ
+Vsquid:S4973¨"9Use the "equals" method if value comparison was intended.(¯¡Éøÿÿÿÿ
+Qsquid:S4973„"9Use the "equals" method if value comparison was intended.(²……å
+Qsquid:S4973„"9Use the "equals" method if value comparison was intended.(²……å
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(¹ßÁÃúÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(¹ßÁÃúÿÿÿÿ
+Vsquid:S4973¡"9Use the "equals" method if value comparison was intended.(„å ‰ÿÿÿÿÿ
+Qsquid:S4973¶"9Use the "equals" method if value comparison was intended.(™ì÷‚
+Qsquid:S4973ô"9Use the "equals" method if value comparison was intended.(Œ±îŠ
+|squid:S1149„"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+isquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿£îÚ
+osquid:S3252Ê"WUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_LAX".(ú±¢Û
+rsquid:S3252Ë"ZUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_STRICT".(ïôÜÖ
+usquid:S3252Ì"XUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_SKIP".(òàõúÿÿÿÿ
+usquid:S3252Í"XUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_SKIP".(¹Ì—üÿÿÿÿ
+jsquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ç”¸»
+jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(……Ô
+jsquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Á»›ê
+V"squid:SwitchLastCaseIsDefaultCheck†""Add a default case to this switch.(ªâ™èúÿÿÿÿ
+usquid:S3252ó"XUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_SKIP".(¬ë´¶ùÿÿÿÿ
+tsquid:S3252ô"WUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_LAX".(Ö¶÷ìùÿÿÿÿ
+wsquid:S3252õ"ZUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_STRICT".(¹ØÊ«ùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

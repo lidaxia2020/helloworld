@@ -1,0 +1,14 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(şİòúùÿÿÿÿ
+Gsquid:S1066”"/Merge this if statement with the enclosing one.(Í£†£
+p
+squid:S135˜"YReduce the total number of break and continue statements in this loop to use at most one.(Œ§ç
+p
+squid:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(ª‘è¿
+Osquid:S1659£"2Declare "MAX_CACHE_ARRAY_SIZE" on a separate line.(›µÍÃøÿÿÿÿ
+Jsquid:S1659W".Declare "PACKED_BYTE_MASK" on a separate line.(ëøÙÇüÿÿÿÿ
+Ksquid:S1659X"4Declare "PACKED_BYTE_MAX_LENGTH" on a separate line.(÷„ºÒ
+osquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»Ä‚ãøÿÿÿÿ
+jsquid:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(Ò¸ç•
+Wsquid:S1854ø":Remove this useless assignment to local variable "insPos".(Ä‘äüÿÿÿÿ
+jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(·–›ç

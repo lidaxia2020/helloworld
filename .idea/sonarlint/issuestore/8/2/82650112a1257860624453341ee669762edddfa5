@@ -1,0 +1,20 @@
+
+Qsquid:S1191+"5Use classes from the Java API instead of Sun classes.(Û•‰­ùÿÿÿÿ
+p
+squid:S135¨"YReduce the total number of break and continue statements in this loop to use at most one.(€¬Ô
+^squid:S00112Z"FDefine and throw a dedicated exception instead of using a generic one.( À¡©
+csquid:UselessImportCheck+":Remove this unused import 'sun.nio.ch.ChannelInputStream'.(Û•‰­ùÿÿÿÿ
+Wsquid:S1161»":Add the "@Override" annotation above this method signature(ºÁîıÿÿÿÿ
+Zsquid:HiddenFieldCheckÄ"7Rename "bb" which hides the field declared at line 176.(İ¸¼
+Wsquid:S1161Î":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+osquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¦ó°Ÿøÿÿÿÿ
+Zsquid:HiddenFieldCheck‡"7Rename "bb" which hides the field declared at line 239.(İ¸¼
+jsquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Âìì€
+Zsquid:HiddenFieldCheckÕ"7Rename "bb" which hides the field declared at line 319.(İ¸¼
+psquid:S1450œ"SRemove the "open" field and declare it as a local variable in the relevant methods.(èßøÿÿÿÿ
+Usquid:S1197›"8Move the array designator from the variable to the type.(‚ÂÇŠûÿÿÿÿ
+Fsquid:S1940­")Use the opposite operator ("<=") instead.(‡Ê¦Ùşÿÿÿÿ
+psquid:S1450í"SRemove the "open" field and declare it as a local variable in the relevant methods.(èßøÿÿÿÿ
+Usquid:S1197ì"8Move the array designator from the variable to the type.(‚ÂÇŠûÿÿÿÿ
+Esquid:S1068œ"(Remove this unused "open" private field.(èßøÿÿÿÿ
+Esquid:S1068í"(Remove this unused "open" private field.(èßøÿÿÿÿ

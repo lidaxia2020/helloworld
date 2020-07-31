@@ -1,0 +1,28 @@
+
+Qsquid:S1191C"5Use classes from the Java API instead of Sun classes.(ÃêØ»ùÿÿÿÿ
+jsquid:S00117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ù—Õ
+dsquid:S00116}"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­€
+dsquid:S00116~"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÁŞ–
+fsquid:S00116€"MRename this field "KS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¯Ş¯
+esquid:S00116‚"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É€Î
+esquid:S00116è"LRename this field "L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Óà×
+<squid:S1659"Declare "j" on a separate line.(Æ™‚ùÿÿÿÿ
+<squid:S1659"Declare "k" on a separate line.(Æ™‚ùÿÿÿÿ
+vsquid:S3012®"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Î××Êşÿÿÿÿ
+Hsquid:S1172î"+Remove this unused method parameter "fake".(¾ƒìüÿÿÿÿ
+7squid:S1659ğ"Declare "j" on a separate line.(”¶âù
+7squid:S1659ğ"Declare "k" on a separate line.(”¶âù
+qsquid:S3012•"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(€ù”
+osquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¤ˆ£¯üÿÿÿÿ
+7squid:S1659Â"Declare "i" on a separate line.(Î¾àÜ
+7squid:S1659Â"Declare "j" on a separate line.(Î¾àÜ
+9squid:S1659Â"!Declare "pwi" on a separate line.(Î¾àÜ
+Usquid:S1197”"8Move the array designator from the variable to the type.(ÎÍµúÿÿÿÿ
+P
+squid:S106—"9Replace this use of System.out or System.err by a logger.(æ”´¿
+Psquid:S1197"8Move the array designator from the variable to the type.(Â—üÄ
+Vsquid:S4719">Replace charset name argument with StandardCharsets.ISO_8859_1(Ú¢šŠ
+Vsquid:S4719">Replace charset name argument with StandardCharsets.ISO_8859_1(Ú¢šŠ
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Óü²ƒúÿÿÿÿ
+csquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(¦ª™“

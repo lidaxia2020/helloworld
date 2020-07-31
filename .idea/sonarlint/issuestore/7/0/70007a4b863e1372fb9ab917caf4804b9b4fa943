@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘´¦¸
+Vsquid:S11617":Add the "@Override" annotation above this method signature(ëÃÈ“üÿÿÿÿ
+Vsquid:S1161C":Add the "@Override" annotation above this method signature(—¾Øßûÿÿÿÿ
+Tsquid:S1197["8Move the array designator from the variable to the type.(Õ¾îàúÿÿÿÿ
+Tsquid:S1197m"8Move the array designator from the variable to the type.(Ä  Ùÿÿÿÿÿ

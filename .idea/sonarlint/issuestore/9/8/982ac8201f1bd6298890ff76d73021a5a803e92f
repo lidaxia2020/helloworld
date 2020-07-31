@@ -1,0 +1,133 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(«¥·°ùÿÿÿÿ
+9squid:S1214b""Move constants to a class or enum.(üöÜ¼
+Osquid:S2386"7Move "ACCESS_NAMES" to a class and lower its visibility(á¬¹Ö
+Vsquid:S2386¤"9Move "CONSTANT_NAMES" to a class and lower its visibility(•øÌÿÿÿÿÿ
+csquid:S2386½"KMove "INTERFACES_IMPLEMENTED_BY_ARRAYS" to a class and lower its visibility(——¶è
+Msquid:S2386è"5Move "TYPE_NAMES" to a class and lower its visibility(ñŒ«±
+Xsquid:S2386ô";Move "CLASS_TYPE_NAMES" to a class and lower its visibility(ÇÂò£ùÿÿÿÿ
+Xsquid:S2386‚";Move "SHORT_TYPE_NAMES" to a class and lower its visibility(ïß¡¦ùÿÿÿÿ
+Vsquid:S2386"9Move "NO_OF_OPERANDS" to a class and lower its visibility(¯ÉÚÿÿÿÿÿ
+Xsquid:S2386·";Move "TYPE_OF_OPERANDS" to a class and lower its visibility(¢·îîúÿÿÿÿ
+Tsquid:S2386ò"7Move "OPCODE_NAMES" to a class and lower its visibility(”ìÚüÿÿÿÿ
+Usquid:S2386©"8Move "CONSUME_STACK" to a class and lower its visibility(«àÄÖøÿÿÿÿ
+Usquid:S2386«"8Move "PRODUCE_STACK" to a class and lower its visibility(¾å˜•ıÿÿÿÿ
+Wsquid:S2386»	":Move "ATTRIBUTE_NAMES" to a class and lower its visibility(ŞƒÄÂÿÿÿÿÿ
+Msquid:S2386Ğ	"5Move "ITEM_NAMES" to a class and lower its visibility(³ôŠæ
+ssquid:S00115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©ì­
+xsquid:S00115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øğ³»øÿÿÿÿ
+xsquid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òß“şÿÿÿÿ
+xsquid:S00115›"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ…®‹ûÿÿÿÿ
+ssquid:S00115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ë¡ÚÆ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùÄ‡¶
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­Ó«“
+rsquid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥ùšt
+xsquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±œœƒÿÿÿÿÿ
+ssquid:S00115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶æÇ®
+xsquid:S00115¢"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãšµ¯ıÿÿÿÿ
+ssquid:S00115Æ	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙúÖ›
+xsquid:S00115Ç	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íØÓ£ûÿÿÿÿ
+rsquid:S00115È	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ê‘õv
+ssquid:S00115É	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÅöÜ
+xsquid:S00115Ê	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ˆÃŒúÿÿÿÿ
+xsquid:S00115Ë	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŸÏÛşüÿÿÿÿ
+ssquid:S00115Ì	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬¯éĞ
+ssquid:S00115Í	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßÁ°—
+xsquid:S00115Î	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÌÑíúÿÿÿÿ
+osquid:ModifiersOrderCheckf"EReorder the modifiers to comply with the Java Language Specification.(ÃÚ±üÿÿÿÿ
+jsquid:ModifiersOrderCheckg"EReorder the modifiers to comply with the Java Language Specification.(ê‰À
+jsquid:ModifiersOrderCheckh"EReorder the modifiers to comply with the Java Language Specification.(©İ º
+osquid:ModifiersOrderChecki"EReorder the modifiers to comply with the Java Language Specification.(à ˜ãşÿÿÿÿ
+jsquid:ModifiersOrderCheckj"EReorder the modifiers to comply with the Java Language Specification.(•û„ü
+jsquid:ModifiersOrderCheckk"EReorder the modifiers to comply with the Java Language Specification.(Š—¥Œ
+jsquid:ModifiersOrderCheckl"EReorder the modifiers to comply with the Java Language Specification.(›÷ 
+osquid:ModifiersOrderCheckm"EReorder the modifiers to comply with the Java Language Specification.(íÈóÿşÿÿÿÿ
+jsquid:ModifiersOrderCheckr"EReorder the modifiers to comply with the Java Language Specification.(‘…Ù®
+osquid:ModifiersOrderCheckw"EReorder the modifiers to comply with the Java Language Specification.(É–‚´şÿÿÿÿ
+jsquid:ModifiersOrderCheck|"EReorder the modifiers to comply with the Java Language Specification.(ÅÉ°÷
+jsquid:ModifiersOrderCheck}"EReorder the modifiers to comply with the Java Language Specification.(•†Òš
+osquid:ModifiersOrderCheck~"EReorder the modifiers to comply with the Java Language Specification.(…±§šÿÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÒÛæŸûÿÿÿÿ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ãØ­š
+ksquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(Å°
+psquid:ModifiersOrderCheckƒ"EReorder the modifiers to comply with the Java Language Specification.(‹¡°øùÿÿÿÿ
+psquid:ModifiersOrderCheck„"EReorder the modifiers to comply with the Java Language Specification.(¬ßşÿÿÿÿ
+ksquid:ModifiersOrderCheck†"EReorder the modifiers to comply with the Java Language Specification.(³¾¤´
+ksquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(Å€œ¤
+psquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(¥©ĞŒùÿÿÿÿ
+psquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(©ÌÂ™şÿÿÿÿ
+psquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(ªæË´ıÿÿÿÿ
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¿×êÕùÿÿÿÿ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(á¬¹Ö
+ksquid:ModifiersOrderCheck˜"EReorder the modifiers to comply with the Java Language Specification.(©ì­
+psquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(øğ³»øÿÿÿÿ
+psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(òß“şÿÿÿÿ
+psquid:ModifiersOrderCheck›"EReorder the modifiers to comply with the Java Language Specification.(œ…®‹ûÿÿÿÿ
+ksquid:ModifiersOrderCheckœ"EReorder the modifiers to comply with the Java Language Specification.(Ë¡ÚÆ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ùÄ‡¶
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(­Ó«“
+jsquid:ModifiersOrderCheckŸ"EReorder the modifiers to comply with the Java Language Specification.(¥ùšt
+psquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(±œœƒÿÿÿÿÿ
+ksquid:ModifiersOrderCheck¡"EReorder the modifiers to comply with the Java Language Specification.(¶æÇ®
+psquid:ModifiersOrderCheck¢"EReorder the modifiers to comply with the Java Language Specification.(ãšµ¯ıÿÿÿÿ
+psquid:ModifiersOrderCheck¤"EReorder the modifiers to comply with the Java Language Specification.(•øÌÿÿÿÿÿ
+ksquid:ModifiersOrderCheck²"EReorder the modifiers to comply with the Java Language Specification.(Ÿï‡
+ksquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(Ğ”úÓ
+ksquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(——¶è
+csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+hsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(Ò„™ñùÿÿÿÿ
+hsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(Ò„™ñùÿÿÿÿ
+hsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(Ò„™ñùÿÿÿÿ
+csquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+hsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Ò„™ñùÿÿÿÿ
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(Ò„™ñùÿÿÿÿ
+csquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(Ò„™ñùÿÿÿÿ
+csquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(äªàµùÿÿÿÿ
+hsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+hsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(Ê¶ìÍ
+hsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(˜¦³»şÿÿÿÿ
+hsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(¶ğ¢üÿÿÿÿ
+csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(èÖ¤È

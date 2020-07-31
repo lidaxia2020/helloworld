@@ -1,0 +1,8 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+Asquid:S1181m"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+P
+squid:S106–"9Replace this use of System.out or System.err by a logger.(Ç­ï³
+Hsquid:S1068/",Remove this unused "selector" private field.(ú³à«øÿÿÿÿ
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(Òïžüÿÿÿÿ

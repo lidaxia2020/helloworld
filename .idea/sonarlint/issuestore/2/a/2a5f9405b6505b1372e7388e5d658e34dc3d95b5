@@ -1,0 +1,14 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡Σ²νωÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Σ²νωÿÿÿÿ
+squid:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Αµ§ωÿÿÿÿ
+Gsquid:S19488"+Make "ownerList" transient or serializable.(Αµ§ωÿÿÿÿ
+Usquid:CallToDeprecatedMethod5"-Remove this use of "Owner"; it is deprecated.(ΐόΓ
+psquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(α¨ΓΆ
+psquid:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(α¨ΓΆ
+fsquid:CallToDeprecatedMethodd"9Remove this use of "NotOwnerException"; it is deprecated.(οΈνδϋÿÿÿÿ
+asquid:CallToDeprecatedMethodf"9Remove this use of "NotOwnerException"; it is deprecated.(Ρ¥ª
+bsquid:CallToDeprecatedMethod…"9Remove this use of "NotOwnerException"; it is deprecated.( σ¥¦
+csquid:CallToDeprecatedMethod…":Remove this use of "LastOwnerException"; it is deprecated.( σ¥¦
+bsquid:CallToDeprecatedMethod"9Remove this use of "NotOwnerException"; it is deprecated.(Ρ¥ª
+hsquid:CallToDeprecatedMethod":Remove this use of "LastOwnerException"; it is deprecated.(κ Εωÿÿÿÿ

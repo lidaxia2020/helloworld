@@ -1,0 +1,63 @@
+
+Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(²É“
+zsquid:S4165Ñ"bRemove this useless assignment; "expr" already holds the assigned value along all execution paths.(åİê‚
+_squid:S00112ô
+"FDefine and throw a dedicated exception instead of using a generic one.(ıìú’
+psquid:S3008ñ	"YRename this field "s_nextMethodId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÒ”m
+€squid:S00116¤"bRename this field "m_currentPrefixResolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¿Ëüÿÿÿÿ
+rsquid:S00116Æ"YRename this field "m_errorHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öö‡è
+msquid:S00116É"TRename this field "m_locator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“»ó¢
+xsquid:S00116Ğ"ZRename this field "m_functionTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úøêüÿÿÿÿ
+Zsquid:S1479–"BReduce the number of non-empty switch cases from 32 to at most 30.(´ãú—
+msquid:S1201Ú"UEither override Object.equals(Object), or rename the method to prevent any confusion.(ĞÉÃä
+jsquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾Ôá€
+]squid:S1854õ"@Remove this useless assignment to local variable "addMagicSelf".(·òÅÀşÿÿÿÿ
+]squid:S1854ü"@Remove this useless assignment to local variable "addMagicSelf".(·òÅÀşÿÿÿÿ
+]squid:S1854•"@Remove this useless assignment to local variable "addMagicSelf".(·òÅÀşÿÿÿÿ
+U
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(ÌÆÑêúÿÿÿÿ
+U
+squid:S106û"9Replace this use of System.out or System.err by a logger.(˜àÆúüÿÿÿÿ
+U
+squid:S106…"9Replace this use of System.out or System.err by a logger.(—øÌşÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñò½ñ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÕçÄûÿÿÿÿ
+>squid:S1168î"&Return an empty array instead of null.(¥¹ï
+ƒsquid:S3252á	"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¦ëØ“øÿÿÿÿ
+ksquid:ModifiersOrderCheckù	"EReorder the modifiers to comply with the Java Language Specification.(³½“Î
+Lsquid:EmptyStatementUsageCheck¶
+"Remove this empty statement.(êËŞıÿÿÿÿ
+~squid:S3252Ï
+"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHWarning".(€€ß
+U
+squid:S106×
+"9Replace this use of System.out or System.err by a logger.(©¯ñùÿÿÿÿ
+ƒsquid:S3252ğ
+"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ŞÓ­‚ûÿÿÿÿ
+Rsquid:S1161‰":Add the "@Override" annotation above this method signature(áñËò
+ƒsquid:S3252Œ"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ï„·šúÿÿÿÿ
+Nsquid:S1481æ"1Remove this unused "addMagicSelf" local variable.(ÈÆ¦›øÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(Ûîµ
+hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(—‡««ÿÿÿÿÿ
+csquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(¤¥À¯
+hsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(÷Ğéœùÿÿÿÿ
+csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(±Ïêó
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú°à¬
+csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(‹ƒÙÖ
+csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ÿñ½‹
+hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ÿŸüıúÿÿÿÿ
+csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(±¯€¤
+csquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(±¯€¤
+csquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(è©Œü
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ã„ï»şÿÿÿÿ
+csquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(ãù¸Á
+hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(à§Šüÿÿÿÿ
+hsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(Úô½·üÿÿÿÿ
+hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(ÏşƒÀıÿÿÿÿ
+hsquid:CommentedOutCodeLineÕ	"<This block of commented-out lines of code should be removed.(ìïâ‹üÿÿÿÿ
+csquid:CommentedOutCodeLineã	"<This block of commented-out lines of code should be removed.(èµïü
+hsquid:CommentedOutCodeLineê	"<This block of commented-out lines of code should be removed.(ê®áÿÿÿÿÿ
+csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(íŒ÷¥

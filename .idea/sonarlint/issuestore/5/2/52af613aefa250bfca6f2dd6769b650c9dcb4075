@@ -1,0 +1,41 @@
+
+Osquid:S2629¸"7Use the built-in formatting to construct this argument.(ë­˜
+Osquid:S2629ë"7Use the built-in formatting to construct this argument.(¾¸½ƒ
+Osquid:S2629œ"7Use the built-in formatting to construct this argument.(ùÛªö
+Osquid:S2629Õ"7Use the built-in formatting to construct this argument.(ùÛªö
+ysquid:S2629•"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(÷Å×²ıÿÿÿÿ
+Osquid:S2629Ö"7Use the built-in formatting to construct this argument.(åà’
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯¼Š«
+esquid:S1192’"HDefine a constant instead of duplicating this literal " Name: " 3 times.(››Â’ûÿÿÿÿ
+asquid:S1192Â"IDefine a constant instead of duplicating this literal " Name = " 4 times.(ó¤î‡
+Jsquid:S1199Ë"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ô"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+_squid:S2259Õ"BA "NullPointerException" could be thrown; "name" is nullable here.(¢… şûÿÿÿÿ
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ö—åûÿÿÿÿ
+osquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø®•Ğüÿÿÿÿ
+xsquid:UselessImportCheck:"TRemove this unnecessary import: same package classes are always implicitly imported.(â©Ó×
+Wsquid:UselessImportCheck%"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+_squid:UselessImportCheck&";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+nsquid:UselessImportCheck3"ERemove this unused import 'org.omg.CosNaming._NamingContextImplBase'.(Õ¥¬èÿÿÿÿÿ
+hsquid:UselessImportCheck4"ERemove this unused import 'org.omg.CosNaming.NamingContextExtHelper'.(÷¢ºG
+Fsquid:S1659o"*Declare "updateLogger" on a separate line.(®•Êàùÿÿÿÿ
+Isquid:S1659o"-Declare "lifecycleLogger" on a separate line.(®•Êàùÿÿÿÿ
+xsquid:S00115å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹®Öşÿÿÿÿ
+|squid:S1149Ô"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(À¢øãúÿÿÿÿ
+Bsquid:S00108¯")Either remove or fill this block of code.(£Ä‡É
+Esquid:S1125Î"(Remove the literal "true" boolean value.(å©ü‚øÿÿÿÿ
+osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(§Øç¡ûÿÿÿÿ
+asquid:S2445›"I"impl" is a method parameter, and should not be used for synchronization.(ÁÏª¶
+asquid:S2445•"I"impl" is a method parameter, and should not be used for synchronization.(ÁÏª¶
+3squid:S3626ë"Remove this redundant jump.(ûÁİ…
+asquid:S2445â"I"impl" is a method parameter, and should not be used for synchronization.(ÁÏª¶
+asquid:S2445“"I"impl" is a method parameter, and should not be used for synchronization.(ÁÏª¶
+Psquid:S1854Ã"8Remove this useless assignment to local variable "impl".(æòİ³
+Psquid:S1854ä"8Remove this useless assignment to local variable "impl".(æòİ³
+Psquid:S1854™"8Remove this useless assignment to local variable "impl".(æòİ³
+Psquid:S1854Ã"8Remove this useless assignment to local variable "impl".(æòİ³
+psquid:ModifiersOrderCheckĞ"EReorder the modifiers to comply with the Java Language Specification.(ÁŒ’»şÿÿÿÿ
+Asquid:S1481Ã")Remove this unused "impl" local variable.(æòİ³
+Asquid:S1481ä")Remove this unused "impl" local variable.(æòİ³
+Asquid:S1481™")Remove this unused "impl" local variable.(æòİ³
+Asquid:S1481Ã")Remove this unused "impl" local variable.(æòİ³

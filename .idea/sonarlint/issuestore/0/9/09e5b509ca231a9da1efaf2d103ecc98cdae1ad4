@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ°¨£øÿÿÿÿ
+nsquid:UselessImportCheck2"ERemove this unused import 'com.sun.corba.se.impl.orbutil.ORBUtility'.(×˜´ùþÿÿÿÿ
+bsquid:UselessImportCheck-"9Remove this unused import 'com.sun.corba.se.spi.ior.IOR'.(èÂâžýÿÿÿÿ
+ksquid:UselessImportCheck("BRemove this unused import 'com.sun.corba.se.spi.oa.ObjectAdapter'.(‹Ã“”ûÿÿÿÿ
+bsquid:UselessImportCheck*">Remove this unused import 'com.sun.corba.se.spi.ior.ObjectId'.(”ŠóÚ
+psquid:UselessImportCheck+"GRemove this unused import 'com.sun.corba.se.spi.ior.ObjectKeyTemplate'.(·ÛûÀþÿÿÿÿ
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+isquid:UselessImportCheck,"ERemove this unused import 'com.sun.corba.se.spi.ior.ObjectAdapterId'.(ãØÖü
+rsquid:S00115h"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™Õäð
+jsquid:ModifiersOrderCheckE"EReorder the modifiers to comply with the Java Language Specification.(Öšé¸

@@ -1,0 +1,15 @@
+
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÊÐ·Îûÿÿÿÿ
+nsquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´÷ûÙúÿÿÿÿ
+nsquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´÷ûÙúÿÿÿÿ
+nsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+nsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+nsquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+nsquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+Gsquid:S21606"+Override the "equals" method in this class.(·ŽÿŒüÿÿÿÿ
+vsquid:S001168"YRename this field "_astoreHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹—¿ùÿÿÿÿ
+usquid:S001169"XRename this field "_aloadHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯È£…úÿÿÿÿ
+Qsquid:S1161J":Add the "@Override" annotation above this method signature(éø‰
+Vsquid:S1161N":Add the "@Override" annotation above this method signature(‡à°¹ûÿÿÿÿ
+Psquid:S1161R":Add the "@Override" annotation above this method signature(£íÌB
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

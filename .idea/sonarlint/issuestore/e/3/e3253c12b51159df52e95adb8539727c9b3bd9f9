@@ -1,0 +1,30 @@
+
+Qsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
+Lsquid:S1066º"/Merge this if statement with the enclosing one.(€Ü×üşÿÿÿÿ
+Lsquid:S1066“"/Merge this if statement with the enclosing one.(Ôºï›øÿÿÿÿ
+Qsquid:S4973û"9Use the "equals" method if value comparison was intended.(¶Šèé
+Qsquid:S4973û"9Use the "equals" method if value comparison was intended.(¶Šèé
+Qsquid:S4973"9Use the "equals" method if value comparison was intended.(ÃûÎ—
+Qsquid:S4973¥"9Use the "equals" method if value comparison was intended.(ÃûÎ—
+Qsquid:S4973¹"9Use the "equals" method if value comparison was intended.(áÎ•¾
+Vsquid:S4973º"9Use the "equals" method if value comparison was intended.(€Ü×üşÿÿÿÿ
+Qsquid:S4973â"9Use the "equals" method if value comparison was intended.(”òÀÑ
+Qsquid:S4973ÿ"9Use the "equals" method if value comparison was intended.(”òÀÑ
+Qsquid:S4973’"9Use the "equals" method if value comparison was intended.(áÎ•¾
+Qsquid:S4973±"9Use the "equals" method if value comparison was intended.(ÃûÎ—
+Vsquid:S4973Ê"9Use the "equals" method if value comparison was intended.(”Ğ•äúÿÿÿÿ
+/squid:S1700‰"Rename field "prefixes"(¿øÊ–
+}squid:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷Ë¸ß
+}squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ï´£Ä
+|squid:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|squid:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+|squid:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+Wsquid:S1161‚":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+Csquid:S1150ˆ"+Implement Iterator rather than Enumeration.(¦¶Ñ
+|squid:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+Bsquid:S1481"*Remove this unused "count" local variable.(æÕ¿¼
+Hsquid:S1481"+Remove this unused "prefix" local variable.(±áòŠøÿÿÿÿ
+Csquid:S1481"+Remove this unused "unique" local variable.(ºĞ…ƒ
+hsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(İ«³‡øÿÿÿÿ
+csquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(î‡¥×
+bsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(óª

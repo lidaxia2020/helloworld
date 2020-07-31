@@ -1,0 +1,8 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+Lsquid:S1133X"5Do not forget to remove this deprecated code someday.(‰à©¤
+Osquid:MissingDeprecatedCheckX"'Add the missing @Deprecated annotation.(‰à©¤
+jsquid:S00116Z"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
+Qsquid:S1161`":Add the "@Override" annotation above this method signature(À÷ÖÚ
+Qsquid:S1161x":Add the "@Override" annotation above this method signature(üÿÆ‰
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

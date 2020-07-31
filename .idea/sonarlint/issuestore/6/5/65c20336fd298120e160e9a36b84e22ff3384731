@@ -1,0 +1,20 @@
+
+Rsquid:S1191ğ"5Use classes from the Java API instead of Sun classes.(´ è¸ÿÿÿÿÿ
+esquid:S3014w"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(É°¶ÿÿÿÿÿ
+fsquid:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¸Å‰Âşÿÿÿÿ
+fsquid:S3014µ"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(€Íµ¨ÿÿÿÿÿ
+fsquid:S3014¼"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(çõµúÿÿÿÿ
+asquid:S3014¿"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ü…µ
+_squid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+_squid:S00112Æ"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+dsquid:S00112É"FDefine and throw a dedicated exception instead of using a generic one.(‡¶¼Êşÿÿÿÿ
+squid:S1845ñ"…Rename field "THREADLOCALS" to prevent any misunderstanding/clash with field "threadLocals" defined in superclass "java.lang.Thread".(”†á¢
+´squid:S1845ò"›Rename field "INHERITABLETHREADLOCALS" to prevent any misunderstanding/clash with field "inheritableThreadLocals" defined in superclass "java.lang.Thread".(í¢›‹
+˜squid:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºŠñ=
+squid:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(É¹¢…üÿÿÿÿ
+squid:S1186ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÓıùÿÿÿÿ
+Rsquid:S1161Æ":Add the "@Override" annotation above this method signature(“–ış
+Bsquid:S1181Ì"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+Bsquid:S1181Ñ"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+squid:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½³”­ûÿÿÿÿ
+gsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(¦ê§”ÿÿÿÿÿ

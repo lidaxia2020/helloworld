@@ -1,0 +1,27 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+ssquid:S1192û"[Define a constant instead of duplicating this literal "Invalid method signature: " 3 times.(”ïÎ
+¢squid:S1862Â"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(²†Óùùÿÿÿÿ
+isquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ïŒ~
+isquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ïŒ~
+*squid:S1700d"Rename field "type"(‡¶òŠ
+qsquid:S3008À"YRename this field "consumed_chars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş«£¯
+Asquid:S2390l"%Remove this reference to "BasicType".(öÙîôùÿÿÿÿ
+<squid:S2390m"%Remove this reference to "BasicType".(‡š×ë
+Asquid:S2390n"%Remove this reference to "BasicType".(³Œ›øùÿÿÿÿ
+Asquid:S2390o"%Remove this reference to "BasicType".(¨û–Èüÿÿÿÿ
+Asquid:S2390p"%Remove this reference to "BasicType".(øÄöĞùÿÿÿÿ
+Asquid:S2390q"%Remove this reference to "BasicType".(óÒ’ïúÿÿÿÿ
+Asquid:S2390r"%Remove this reference to "BasicType".(ùá™œÿÿÿÿÿ
+Asquid:S2390s"%Remove this reference to "BasicType".(à­ÿ¦şÿÿÿÿ
+<squid:S2390t"%Remove this reference to "BasicType".(«Ó¤
+Bsquid:S2390u"&Remove this reference to "ObjectType".(³½šöúÿÿÿÿ
+=squid:S2390v"&Remove this reference to "ObjectType".(Î¿øª
+Bsquid:S2390w"&Remove this reference to "ObjectType".(Ğªá›ÿÿÿÿÿ
+=squid:S2390x"&Remove this reference to "ObjectType".( ¥èî
+@squid:S2390z")Remove this reference to "ReferenceType".(²öÌº
+|squid:S1149´"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ª°ğÿÿÿÿÿ
+|squid:S1149Ñ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µïòıÿÿÿÿ
+Ksquid:UselessParenthesesCheck¥"!Remove these useless parentheses.(Ÿ±·Ü
+«%squid:RedundantThrowsDeclarationCheckÌ"tRemove the declaration of thrown exception 'java.lang.StringIndexOutOfBoundsException' which is a runtime exception.(‘˜Éàøÿÿÿÿ
+osquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ç§¸–ùÿÿÿÿ

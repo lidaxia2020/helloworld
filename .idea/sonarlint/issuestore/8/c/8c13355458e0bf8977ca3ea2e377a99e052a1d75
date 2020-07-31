@@ -1,0 +1,9 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+Qsquid:S1161U":Add the "@Override" annotation above this method signature(æìÑº
+wsquid:CallToDeprecatedMethodY"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ğ£²¾ÿÿÿÿÿ
+Vsquid:S1161Y":Add the "@Override" annotation above this method signature(ğ£²¾ÿÿÿÿÿ
+Ssquid:CallToDeprecatedMethodZ",Remove this use of "hide"; it is deprecated.(¿•Ú(
+rsquid:CallToDeprecatedMethodg"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Àİì
+Qsquid:S1161g":Add the "@Override" annotation above this method signature(Àİì
+Ysquid:CallToDeprecatedMethodh",Remove this use of "show"; it is deprecated.(¹åûÿÿÿÿ

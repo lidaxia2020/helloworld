@@ -1,0 +1,9 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+osquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É·¢ùÿÿÿÿ
+jsquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú’©
+osquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
+osquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
+Bsquid:S2160e"+Override the "equals" method in this class.(İšÛÒ
+tsquid:S00116k"WRename this field "fixed_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôç¸¢øÿÿÿÿ
+nsquid:S00116l"WRename this field "match_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÒÒ&

@@ -1,0 +1,41 @@
+
+… squid:ForLoopCounterChangedCheckƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¤¢Ú²
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äË ©
+Qsquid:S1161Z":Add the "@Override" annotation above this method signature(–•²‡
+3squid:S3626±"Remove this redundant jump.(ûÁİ…
+Rsquid:S1161¨":Add the "@Override" annotation above this method signature(ò–êë
+Wsquid:S1161Õ":Add the "@Override" annotation above this method signature(ïÃÍÌøÿÿÿÿ
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(š‹ÊØøÿÿÿÿ
+Usquid:S1197€"8Move the array designator from the variable to the type.(š‹ÊØøÿÿÿÿ
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(ÈÓÙòıÿÿÿÿ
+Usquid:S1197¸"8Move the array designator from the variable to the type.(ÈÓÙòıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheckİ"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(Ì¬Ú˜ûÿÿÿÿ
+Usquid:S1197Ù"8Move the array designator from the variable to the type.(ËûÆƒûÿÿÿÿ
+U
+squid:S106€"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
+Rsquid:S1161Ô":Add the "@Override" annotation above this method signature(÷¦û
+Psquid:S1197Ô"8Move the array designator from the variable to the type.(÷¦û
+Wsquid:S1161‡":Add the "@Override" annotation above this method signature(ò©…©úÿÿÿÿ
+Usquid:S1197‡"8Move the array designator from the variable to the type.(ò©…©úÿÿÿÿ
+Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(÷¹­Åùÿÿÿÿ
+Rsquid:S1161ä":Add the "@Override" annotation above this method signature(çê™Ÿ
+Psquid:S1197ä"8Move the array designator from the variable to the type.(çê™Ÿ
+Wsquid:S1161ø":Add the "@Override" annotation above this method signature(³¯€Ûÿÿÿÿÿ
+Rsquid:S1161ƒ":Add the "@Override" annotation above this method signature(„ô¡´
+Wsquid:S1161“":Add the "@Override" annotation above this method signature(ÈÙï•øÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(°è½ø
+3squid:S3626·"Remove this redundant jump.(ûÁİ…
+Rsquid:S1161©":Add the "@Override" annotation above this method signature(ò–êë
+Qsquid:S1161Á":Add the "@Override" annotation above this method signature(â®µL
+Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(³ªûÿÿÿÿ
+Wsquid:S1161ä":Add the "@Override" annotation above this method signature(Òİö¤ùÿÿÿÿ
+Qsquid:S1161ï":Add the "@Override" annotation above this method signature(ŒÈZ
+Wsquid:S1161ö":Add the "@Override" annotation above this method signature(ı¢Õ»şÿÿÿÿ
+Rsquid:S1161ş":Add the "@Override" annotation above this method signature(§¤ôà
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ìÅ­×
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(êÚÍş
+csquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(êÚÍş

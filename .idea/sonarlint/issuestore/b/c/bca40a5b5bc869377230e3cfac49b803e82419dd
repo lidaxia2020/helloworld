@@ -1,0 +1,21 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+Vsquid:UselessImportCheck'"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+hsquid:S00116P"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ù™ï
+nsquid:S00116X"QRename this field "_match" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ƒÔûıÿÿÿÿ
+lsquid:S00116`"ORename this field "_use" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ÿ•ßşÿÿÿÿ
+ksquid:S00116h"SRename this field "_useType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠ¢
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+Qsquid:S1161r":Add the "@Override" annotation above this method signature(ÁØ’›
+Wsquid:S1161":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+Asquid:S1125£")Remove the literal "false" boolean value.(ÄÆÍ¤
+Fsquid:S1125¤")Remove the literal "false" boolean value.(âˆ¬×ıÿÿÿÿ
+]squid:S1854¿"@Remove this useless assignment to local variable "getNodeIdent".(·¤ŸÓûÿÿÿÿ
+]squid:S1854”"@Remove this useless assignment to local variable "getNodeIdent".(·¤ŸÓûÿÿÿÿ
+Xsquid:S1854ˆ";Remove this useless assignment to local variable "current".(ÿëó¹şÿÿÿÿ
+Rsquid:S1161„":Add the "@Override" annotation above this method signature(†“‹Ø
+Nsquid:S1481¿"1Remove this unused "getNodeIdent" local variable.(·¤ŸÓûÿÿÿÿ
+Isquid:S1481ˆ",Remove this unused "current" local variable.(ÿëó¹şÿÿÿÿ
+Nsquid:S1481”"1Remove this unused "getNodeIdent" local variable.(·¤ŸÓûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(ÔóÃñ

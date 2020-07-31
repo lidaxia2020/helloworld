@@ -1,0 +1,11 @@
+
+Qsquid:S1191-"5Use classes from the Java API instead of Sun classes.( Ø‚Ïÿÿÿÿÿ
+wsquid:S1192©"_Define a constant instead of duplicating this literal "currency.properties entry for " 4 times.(”àµ…
+?squid:S1604ü"(Make this anonymous inner class a lambda(ÆÞÖ
+psquid:ModifiersOrderCheck•"EReorder the modifiers to comply with the Java Language Specification.(Ý¤ŠŽøÿÿÿÿ
+psquid:ModifiersOrderCheckž"EReorder the modifiers to comply with the Java Language Specification.(ªÂ¢Ìþÿÿÿÿ
+@squid:S4274é"(Replace this assert with a proper check.(ÒËÝ³
+\squid:S3398‹"?Move this method into the anonymous class declared at line 252.(¼ÊÜ¦úÿÿÿÿ
+\squid:S3398ù"?Move this method into the anonymous class declared at line 252.(­åÔìúÿÿÿÿ
+\squid:S3398‚"?Move this method into the anonymous class declared at line 252.(ñÜº¸þÿÿÿÿ
+\squid:S3398¥"?Move this method into the anonymous class declared at line 252.(Ä–ÞÄûÿÿÿÿ

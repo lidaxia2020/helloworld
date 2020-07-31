@@ -1,0 +1,23 @@
+
+Ksquid:S11912"5Use classes from the Java API instead of Sun classes.(çÿc
+fsquid:MaximumInheritanceDepthç"<This class has 6 parents which is greater than 5 authorized.(«‡¡ï
+Lsquid:S1172½"/Remove this unused method parameter "fallback".(Ş¯“Éüÿÿÿÿ
+jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ù¨¹²
+Osquid:S1135©"2Complete the task associated to this TODO comment.(áı€Ñùÿÿÿÿ
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(ƒ¹—”
+>squid:S1948Œ"&Make "skin" transient or serializable.(İ¹œÎ
+Wsquid:S1161’":Add the "@Override" annotation above this method signature(û¦ØÉøÿÿÿÿ
+Wsquid:S1161—":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+Wsquid:S1161·":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+Rsquid:S1161Ä":Add the "@Override" annotation above this method signature(ã®¸Â
+Wsquid:S1161á":Add the "@Override" annotation above this method signature(Æöó¾ùÿÿÿÿ
+squid:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠÎ”ßûÿÿÿÿ
+>squid:S1948è"&Make "skin" transient or serializable.(æÇùË
+xsquid:CallToDeprecatedMethodô"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‹Ä­ˆùÿÿÿÿ
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ
+Rsquid:S1161„":Add the "@Override" annotation above this method signature(³ıŸê
+Wsquid:S1161“":Add the "@Override" annotation above this method signature(ŠÎ”ßûÿÿÿÿ
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ¶ÒÄ
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çßƒß
+Gsquid:S1481Ê"/Remove this unused "accEnabled" local variable.(ÑçÍÍ

@@ -1,0 +1,4 @@
+
+ƒ"squid:ClassVariableVisibilityCheck>"UMake classname a static final constant or non-public and provide accessors if needed.(£ˆÁ¬
+9squid:S1165>""Make this "classname" field final.(£ˆÁ¬
+Nsquid:S1161a":Add the "@Override" annotation above this method signature(‡+

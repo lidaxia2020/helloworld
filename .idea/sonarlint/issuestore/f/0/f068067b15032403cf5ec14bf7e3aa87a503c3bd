@@ -1,0 +1,25 @@
+
+… squid:ForLoopCounterChangedCheckÂ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ë§Ø»
+Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(œÅ…õıÿÿÿÿ
+… squid:ForLoopCounterChangedCheck’"XRefactor the code in order to not assign to this loop counter from within the loop body.(†‰é‡
+Msquid:S1191¢"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+_$squid:AssignmentInSubExpressionCheckï".Extract the assignment out of this expression.(Ğ°üô
+u
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÁÆÂØûÿÿÿÿ
+_squid:S00112±"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+Ksquid:S3077…".Remove the "volatile" keyword from this field.(¦õŠÃÿÿÿÿÿ
+Ksquid:S3077‡".Remove the "volatile" keyword from this field.(ôŸşÊÿÿÿÿÿ
+squid:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„Ó‰Îüÿÿÿÿ
+xsquid:S00115£"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ãŸÅøÿÿÿÿ
+xsquid:S00115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ó†úåùÿÿÿÿ
+xsquid:S00115¥"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥ÃÕóüÿÿÿÿ
+Bsquid:S1181Ç"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+Bsquid:S1181õ"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+Fsquid:S3077¨".Remove the "volatile" keyword from this field.(«ùä´
+Ksquid:S3077©".Remove the "volatile" keyword from this field.(ÃÃšıÿÿÿÿ
+jsquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(øæ„
+jsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¢¸»ù
+m squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(ÙÑÏ§şÿÿÿÿ
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Î›øæøÿÿÿÿ
+csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(™¢Š•
+hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ÆŞîÙşÿÿÿÿ

@@ -1,0 +1,16 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Û¤‘ÿÿÿÿÿ
+msquid:S1149L"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ìÖñ
+\squid:S2147}"ECombine this catch with the one at line 123, which has the same body.(™¨Á¬
+]squid:S2147§"ECombine this catch with the one at line 164, which has the same body.(™¨Á¬
+Wsquid:S1161Á":Add the "@Override" annotation above this method signature(ÚÌ½çüÿÿÿÿ
+Wsquid:S1161Å":Add the "@Override" annotation above this method signature(À“ù‚ÿÿÿÿÿ
+Rsquid:S1161É":Add the "@Override" annotation above this method signature(®´æ³
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature( Ùœ‡ûÿÿÿÿ
+Rsquid:S1161Ò":Add the "@Override" annotation above this method signature(‚¨÷“
+Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(£Œ¼úÿÿÿÿ
+Asquid:S1125ç")Remove the literal "false" boolean value.(Ú‡ßš
+Ysquid:S2130ç"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(Ú‡ßš
+Wsquid:S1161ë":Add the "@Override" annotation above this method signature(Ê³÷äÿÿÿÿÿ
+Rsquid:S1161ï":Add the "@Override" annotation above this method signature(Ô‹£Ö
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

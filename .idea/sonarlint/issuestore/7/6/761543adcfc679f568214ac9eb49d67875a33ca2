@@ -1,0 +1,110 @@
+
+9squid:S1643´"Use a StringBuilder instead.(ë‰ÆĞşÿÿÿÿ
+9squid:S1643¹"Use a StringBuilder instead.(İ‚ü¶ıÿÿÿÿ
+9squid:S1643ù"Use a StringBuilder instead.(ë‰ÆĞşÿÿÿÿ
+9squid:S1643ş"Use a StringBuilder instead.(İ‚ü¶ıÿÿÿÿ
+4squid:S1643®"Use a StringBuilder instead.(»¦×‚
+Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(²É“
+Gsquid:S1066š"/Merge this if statement with the enclosing one.(Ù®
+Gsquid:S1066°"/Merge this if statement with the enclosing one.(ˆªœ’
+asquid:S2583™"DChange this condition so that it does not always evaluate to "false"(È Øÿÿÿÿÿ
+Tsquid:S2589¨"7Remove this expression which always evaluates to "true"(¨ıÕÇüÿÿÿÿ
+^squid:S2259‚"AA "NullPointerException" could be thrown; "val" is nullable here.(Ää–ğüÿÿÿÿ
+_squid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(ıìú’
+Lsquid:S2065N"0Remove the "transient" modifier from this field.(áòÇúÿÿÿÿ
+Gsquid:S2065X"0Remove the "transient" modifier from this field.(³Œó¢
+msquid:S00116F"PRename this field "m_ops" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë“Ï‹üÿÿÿÿ
+osquid:S00116N"RRename this field "m_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áòÇúÿÿÿÿ
+nsquid:S00116X"VRename this field "m_tokenChar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Œó¢
+ssquid:S00116`"VRename this field "m_queueMark" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä°¹øøÿÿÿÿ
+zsquid:S00116~"]Rename this field "m_namespaceContext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹õòÄøÿÿÿÿ
+ssquid:S00116"ZRename this field "m_errorListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»ì
+ssquid:S00116’"ZRename this field "m_sourceLocator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÈşÊ
+xsquid:S00116•"ZRename this field "m_functionTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úøêüÿÿÿÿ
+osquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(ªçĞ§üÿÿÿÿ
+osquid:ModifiersOrderCheckh"EReorder the modifiers to comply with the Java Language Specification.(Ñ›±¿üÿÿÿÿ
+jsquid:ModifiersOrderChecki"EReorder the modifiers to comply with the Java Language Specification.(‘œ•
+osquid:ModifiersOrderCheckj"EReorder the modifiers to comply with the Java Language Specification.(ßŒ¦²üÿÿÿÿ
+Asquid:S1125Õ")Remove the literal "false" boolean value.(ıığ
+@squid:S1125ñ")Remove the literal "false" boolean value.(”Î
+Fsquid:S1125›")Remove the literal "false" boolean value.(€æÆûÿÿÿÿ
+Fsquid:S1125Ä")Remove the literal "false" boolean value.(’¶è¬ıÿÿÿÿ
+ƒsquid:S3252"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHWarning".(€Èó†ûÿÿÿÿ
+U
+squid:S106›"9Replace this use of System.out or System.err by a logger.(Ø ¥üÿÿÿÿ
+}squid:S3252±"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¤šl
+ƒsquid:S3252Í"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¨Ğ¯‘úÿÿÿÿ
+ƒsquid:S3252†"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¨Ğ¯‘úÿÿÿÿ
+]squid:S2147Û"ECombine this catch with the one at line 855, which has the same body.(“ÇÊÁ
+gsquid:S00100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£¾»
+lsquid:S00100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“·ŸÖúÿÿÿÿ
+gsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¡Üİ
+lsquid:S00100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÜáÃüÿÿÿÿ
+gsquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¾íÏ
+gsquid:S00100ˆ	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨úæÅ
+gsquid:S00100É	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¸Ñ
+lsquid:S00100–
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óçİ›ûÿÿÿÿ
+gsquid:S00100¶
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üõÖ„
+lsquid:S00100Î
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä ˆñúÿÿÿÿ
+lsquid:S00100ì
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©«ì›ÿÿÿÿÿ
+lsquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ˆñúÿÿÿÿ
+Asquid:S1125˜")Remove the literal "false" boolean value.(„®™
+lsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„óŠÌÿÿÿÿÿ
+lsquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÀ¢ÿÿÿÿÿ
+fsquid:S00100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ùï?
+gsquid:S00100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ûä×
+gsquid:S00100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨©«
+gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü²ûë
+lsquid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šì« şÿÿÿÿ
+lsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øë›Óûÿÿÿÿ
+lsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³€Ãÿÿÿÿÿ
+lsquid:S00100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¯Íûÿÿÿÿ
+jsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¸úÿ
+gsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸úÿ
+lsquid:S00100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¾õúÿÿÿÿ
+lsquid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óæéŸùÿÿÿÿ
+gsquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìİ“¿
+gsquid:S00100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«è
+lsquid:S00100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Áçøÿÿÿÿ
+gsquid:S00100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ø
+Vsquid:S2130¢">Use "Double.parseDouble" for this string-to-double conversion.(Ê»üÓ
+fsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÃ¤3
+osquid:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(½ä¤øÿÿÿÿ
+lsquid:S00100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ä¤øÿÿÿÿ
+lsquid:S00100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½•Ñøÿÿÿÿ
+gsquid:S00100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­èİÊ
+lsquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì†´Ãÿÿÿÿÿ
+gsquid:S00100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âúãœ
+Usquid:UnusedPrivateMethod"/Remove this unused private "lookbehind" method.(Æå‰‚
+]squid:UnusedPrivateMethodº"7Remove this unused private "lookbehindHasToken" method.(ÛĞ®
+[squid:UnusedPrivateMethod’"5Remove this unused private "getTokenRelative" method.(Š®ú
+Ysquid:UnusedPrivateMethod«".Remove this unused private "prevToken" method.(¥‰âœşÿÿÿÿ
+Ysquid:UnusedPrivateMethodÈ"4Remove this unused private "consumeExpected" method.(‰Ï™
+Ysquid:UnusedPrivateMethod¬".Remove this unused private "assertion" method.(œ¥Òùùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(Ÿ°¸øùÿÿÿÿ
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(Ÿ°¸øùÿÿÿÿ
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(•§Á†
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(•§Á†
+hsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(ğ—¨üÿÿÿÿÿ
+hsquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(ğ—¨üÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÚ
+"<This block of commented-out lines of code should be removed.(Ô¥¼şÿÿÿÿ
+csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(ÃÓ©»
+csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(Ø†¨ş
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ø†¨ş
+hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(óç‚üÿÿÿÿ
+bsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(Åé·5
+hsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(òÔÄ»ûÿÿÿÿ
+hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(î¸¯Æúÿÿÿÿ
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(Ø†¨ş
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(Îäøõ
+hsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(•®ÖÈıÿÿÿÿ
+hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(æÿØÏıÿÿÿÿ
+hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(÷î¾üÿÿÿÿ
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ªî“î
+bsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(Ç¶Ôv

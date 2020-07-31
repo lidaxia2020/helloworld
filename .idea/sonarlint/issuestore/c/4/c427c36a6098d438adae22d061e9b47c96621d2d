@@ -1,0 +1,10 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
+Vsquid:S1161_":Add the "@Override" annotation above this method signature(Ã°³şÿÿÿÿ
+osquid:ModifiersOrderCheck_"EReorder the modifiers to comply with the Java Language Specification.(Ã°³şÿÿÿÿ
+Qsquid:S1161n":Add the "@Override" annotation above this method signature(†ÏªĞ
+jsquid:ModifiersOrderCheckn"EReorder the modifiers to comply with the Java Language Specification.(†ÏªĞ
+Vsquid:S1161|":Add the "@Override" annotation above this method signature(ÎèİØúÿÿÿÿ
+Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(¹É’èùÿÿÿÿ
+psquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(¹É’èùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

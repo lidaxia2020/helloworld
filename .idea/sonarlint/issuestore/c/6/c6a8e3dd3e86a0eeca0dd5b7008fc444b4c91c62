@@ -1,0 +1,13 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+msquid:S00116:"PRename this field "_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏûÌÿÿÿÿÿ
+osquid:S00116;"RRename this field "_ignore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕß²ÿÿÿÿÿ
+Vsquid:S1161C":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
+O
+squid:S106G"9Replace this use of System.out or System.err by a logger.(‘àí£
+Qsquid:S1161R":Add the "@Override" annotation above this method signature(ÁØ’›
+`squid:S4201_"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÅÌÖĞ
+Vsquid:S1161m":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+?squid:S1125o")Remove the literal "false" boolean value.(£ÿ©
+Qsquid:S1161":Add the "@Override" annotation above this method signature(†“‹Ø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

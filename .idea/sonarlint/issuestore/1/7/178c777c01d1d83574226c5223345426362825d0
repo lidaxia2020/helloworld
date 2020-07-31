@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çþÿÿÿÿ
+rsquid:UselessImportCheck!"IRemove this unused import 'com.sun.org.omg.SendingContext._CodeBaseStub'.(ÖÓæšþÿÿÿÿ
+>squid:S1659?""Declare "fvds" on a separate line.( Ì¬øüÿÿÿÿ
+?squid:S1659?"#Declare "bases" on a separate line.( Ì¬øüÿÿÿÿ
+Esquid:S3077@".Remove the "volatile" keyword from this field.(“¬¯œ
+rsquid:S1149?"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".( Ì¬øüÿÿÿÿ
+rsquid:S1149?"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".( Ì¬øüÿÿÿÿ
+rsquid:S1149?"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".( Ì¬øüÿÿÿÿ
+msquid:S1149D"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Õ»ÁÊ

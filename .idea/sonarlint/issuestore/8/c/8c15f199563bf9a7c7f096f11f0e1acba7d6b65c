@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
+Rsquid:S1141€"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+lsquid:S1450."VRemove the "wrapper" field and declare it as a local variable in the relevant methods.(‚Îƒ
+Ysquid:S1854H"BRemove this useless assignment to local variable "secondStubName".(ºÄêò
+^squid:S1854M"BRemove this useless assignment to local variable "secondStubName".(Û•úŠþÿÿÿÿ
+\squid:CallToDeprecatedMethod…"3Remove this use of "newInstance"; it is deprecated.(µÒ«Ö
+\squid:CallToDeprecatedMethodŠ"3Remove this use of "newInstance"; it is deprecated.(µÒ«Ö

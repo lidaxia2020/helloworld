@@ -1,0 +1,34 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
+Qsquid:S1161_":Add the "@Override" annotation above this method signature(œ÷‹È
+Vsquid:S1161s":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
+Csquid:S1172‘"&Remove these unused method parameters.(˜©Ì¡üÿÿÿÿ
+Csquid:S1172¡"+Remove this unused method parameter "type".(á¿ï
+Csquid:S1172³"&Remove these unused method parameters.(˜©Ì¡üÿÿÿÿ
+Qsquid:S1161È":Add the "@Override" annotation above this method signature(¼–Ä=
+Csquid:S1172Û"+Remove this unused method parameter "type".(ç¾÷˜
+Wsquid:S1161í":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
+Wsquid:S1161—":Add the "@Override" annotation above this method signature(÷İšÂûÿÿÿÿ
+Wsquid:S1161¡":Add the "@Override" annotation above this method signature(˜ßÑÇúÿÿÿÿ
+Rsquid:S1161¬":Add the "@Override" annotation above this method signature(ë¬Ö
+Rsquid:S1161°":Add the "@Override" annotation above this method signature(ŒŠ®Ş
+Wsquid:S1161´":Add the "@Override" annotation above this method signature(àÌÙ©üÿÿÿÿ
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(±àëæıÿÿÿÿ
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(ïáùöüÿÿÿÿ
+Qsquid:S1161À":Add the "@Override" annotation above this method signature(±
+Rsquid:S1161Ä":Add the "@Override" annotation above this method signature(Ó¤ÍŞ
+Wsquid:S1161È":Add the "@Override" annotation above this method signature(‚İ±¹ÿÿÿÿÿ
+Rsquid:S1161Ì":Add the "@Override" annotation above this method signature(ê×øÄ
+Qsquid:S1905Í"4Remove this unnecessary cast to "BranchInstruction".(Æì¹ÿÿÿÿÿ
+Qsquid:S1905Î"4Remove this unnecessary cast to "BranchInstruction".(¦”ê­üÿÿÿÿ
+Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(âàºÎ
+Qsquid:S1905Ò"4Remove this unnecessary cast to "BranchInstruction".(şÇûÿÿÿÿ
+Lsquid:S1905Ó"4Remove this unnecessary cast to "BranchInstruction".(ûƒÃÄ
+Qsquid:S1161Ö":Add the "@Override" annotation above this method signature(ÑÍö
+Lsquid:S1905×"4Remove this unnecessary cast to "BranchInstruction".(ğËˆ
+Lsquid:S1905Ø"4Remove this unnecessary cast to "BranchInstruction".(ÙÅá­
+Rsquid:S1161Û":Add the "@Override" annotation above this method signature(¿êÊ„
+Lsquid:S1905Ü"4Remove this unnecessary cast to "BranchInstruction".(©Öª
+Qsquid:S1905İ"4Remove this unnecessary cast to "BranchInstruction".(°¥Ã¿úÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¸à®

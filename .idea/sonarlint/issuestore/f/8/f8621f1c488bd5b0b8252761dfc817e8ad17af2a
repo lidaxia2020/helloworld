@@ -1,0 +1,14 @@
+
+­squid:S1192‚"Define a constant instead of duplicating this literal "\040\040\040\040\040\040\040\040\040\040\040\040\040\040\040\040\040\040\040" 106 times.(í¨Ç•ùÿÿÿÿ
+Esquid:S1199†"-Extract this nested code block into a method.(æ£ÑÒ
+tsquid:S1488P"]Immediately return this expression instead of assigning it to the temporary variable "props".(…èò¶
+ysquid:S1488V"]Immediately return this expression instead of assigning it to the temporary variable "props".(ğĞª¦şÿÿÿÿ
+Gsquid:EmptyStatementUsageCheckú"Remove this empty statement.(ï—ƒ•
+Osquid:S1197€"8Move the array designator from the variable to the type.(×ªÊ
+Usquid:S1197ğ"8Move the array designator from the variable to the type.(ø¡ºíúÿÿÿÿ
+Usquid:S1197ù"8Move the array designator from the variable to the type.(†íÿıÿÿÿÿ
+Usquid:S1197€"8Move the array designator from the variable to the type.(¢¡ñèıÿÿÿÿ
+<squid:S1659‰"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(Ôµ¶
+hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+csquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(Ç˜ÁÔ

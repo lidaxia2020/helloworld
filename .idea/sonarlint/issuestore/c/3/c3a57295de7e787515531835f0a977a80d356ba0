@@ -1,0 +1,42 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¼¤êµ
+Jsquid:S1199Ï"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ö"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199œ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199£"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Vsquid:S4973Å"9Use the "equals" method if value comparison was intended.(ˆã§¸ùÿÿÿÿ
+Qsquid:S4973Æ"9Use the "equals" method if value comparison was intended.(û–Œ½
+Psquid:S4973È"9Use the "equals" method if value comparison was intended.(ªîò*
+Psquid:S4973È"9Use the "equals" method if value comparison was intended.(ªîò*
+Vsquid:S4973Í"9Use the "equals" method if value comparison was intended.(ÂĞĞÑûÿÿÿÿ
+Qsquid:S4973÷"9Use the "equals" method if value comparison was intended.(ÛøÈ„
+Qsquid:S4973÷"9Use the "equals" method if value comparison was intended.(ÛøÈ„
+Vsquid:S4973‹"9Use the "equals" method if value comparison was intended.(šå¹İıÿÿÿÿ
+Qsquid:S4973"9Use the "equals" method if value comparison was intended.(¬Ó²§
+osquid:S00116X"WRename this field "m_whatToShow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À—à
+tsquid:S00116‹"VRename this field "m_namespace" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ó±¤ûÿÿÿÿ
+osquid:S00116±"QRename this field "m_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ÿª­ùÿÿÿÿ
+psquid:S00116ß"RRename this field "m_score" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñå©§úÿÿÿÿ
+ssquid:S00116"ZRename this field "m_isTotallyWild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßˆƒÊ
+‚squid:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ù»…¦ûÿÿÿÿ
+}squid:S1149É"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+dsquid:S1871Ë"MThis branch's code block is the same as the block for the branch on line 329.(¸®Ã'
+dsquid:S1871Õ"MThis branch's code block is the same as the block for the branch on line 339.(¸®Ã'
+^squid:S1126İ"AReplace this if-then-else statement by a single return statement.(‰ºÑëùÿÿÿÿ
+osquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(€ò–Ïúÿÿÿÿ
+U
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ
+P
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(¹€œ
+U
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(ğŞã»ıÿÿÿÿ
+U
+squid:S106á"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Wsquid:S1161¤":Add the "@Override" annotation above this method signature(™Õğøÿÿÿÿ
+Wsquid:S1161ò":Add the "@Override" annotation above this method signature(ÿœ²ïÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(¬ñ±şÿÿÿÿ
+csquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(Üç”¡
+hsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(»úô³ıÿÿÿÿ
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(Üç”¡
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(»úô³ıÿÿÿÿ

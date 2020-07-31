@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛýÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck¬".Extract the assignment out of this expression.(ÜŠºÉÿÿÿÿÿ
+Vsquid:S4973ª"9Use the "equals" method if value comparison was intended.(·¸óºüÿÿÿÿ
+´%squid:RedundantThrowsDeclarationChecku"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(€¹éÆýÿÿÿÿ
+f squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(–¶ë-
+Q"squid:SwitchLastCaseIsDefaultCheck‚""Add a default case to this switch.(Ýµß¶
+¯%squid:RedundantThrowsDeclarationCheckÃ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¬ÑÁZ
+isquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¬ÑÁZ
+g squid:LabelsShouldNotBeUsedCheckÍ";Refactor the code to remove this label and the need for it.(–¶ë-
+Q"squid:SwitchLastCaseIsDefaultCheckÔ""Add a default case to this switch.(Ýµß¶

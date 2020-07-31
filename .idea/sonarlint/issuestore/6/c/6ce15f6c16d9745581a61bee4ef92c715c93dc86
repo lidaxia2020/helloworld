@@ -1,0 +1,10 @@
+
+:squid:S1214""Move constants to a class or enum.(¤Ν©
+Gsquid:S00108Θ")Either remove or fill this block of code.(™μ…όÿÿÿÿ
+>squid:S1452"&Remove usage of generic wildcard type.(Δθέ
+bsquid:S00119Μ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(γ€§
+bsquid:S00119Μ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(γ€§
+Gsquid:S00108ό")Either remove or fill this block of code.(™μ…όÿÿÿÿ
+Gsquid:S00108’")Either remove or fill this block of code.(™μ…όÿÿÿÿ
+Gsquid:S00108ΰ")Either remove or fill this block of code.(™μ…όÿÿÿÿ
+Gsquid:S00108®")Either remove or fill this block of code.(™μ…όÿÿÿÿ

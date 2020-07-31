@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
+}squid:UselessImportCheck2"TRemove this unnecessary import: same package classes are always implicitly imported.(¡ðžÒþÿÿÿÿ
+rsquid:UselessImportCheck3"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
+wsquid:UselessImportCheck0"NRemove this unused import 'com.sun.corba.se.spi.presentation.rmi.StubAdapter'.(¸¼ûµþÿÿÿÿ
+rsquid:UselessImportCheck4"NRemove this unused import 'com.sun.corba.se.impl.logging.UtilSystemException'.(åÝÌŸ
+|squid:UselessImportCheck."XRemove this unused import 'com.sun.corba.se.spi.orbutil.proxy.InvocationHandlerFactory'.(±¤Ñš
+^squid:UselessImportCheck+":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
+Tsquid:UselessImportCheck$"0Remove this unused import 'javax.rmi.CORBA.Tie'.(üñÿ¸
+csquid:UselessImportCheck8"?Remove this unused import 'com.sun.corba.se.impl.util.Utility'.(…Ú³–

@@ -1,0 +1,130 @@
+
+… squid:ForLoopCounterChangedCheckØ"XRefactor the code in order to not assign to this loop counter from within the loop body.(«¶îÅ
+… squid:ForLoopCounterChangedCheckÙ"XRefactor the code in order to not assign to this loop counter from within the loop body.(›İ³Ó
+… squid:ForLoopCounterChangedCheckÙ"XRefactor the code in order to not assign to this loop counter from within the loop body.(›İ³Ó
+Š squid:ForLoopCounterChangedCheckÜ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ·–¾øÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÜ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ·–¾øÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckü"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ÚèÅıÿÿÿÿ
+… squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+… squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+… squid:ForLoopCounterChangedCheck€"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+… squid:ForLoopCounterChangedCheck€"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+„ squid:ForLoopCounterChangedCheckÑ"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
+„ squid:ForLoopCounterChangedCheckæ"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
+… squid:ForLoopCounterChangedCheck’"XRefactor the code in order to not assign to this loop counter from within the loop body.(êÍÍü
+… squid:ForLoopCounterChangedCheck¦"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïí±Ï
+„ squid:ForLoopCounterChangedCheck§"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
+… squid:ForLoopCounterChangedCheck·"XRefactor the code in order to not assign to this loop counter from within the loop body.(»â„¨
+… squid:ForLoopCounterChangedCheckË"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïí±Ï
+„ squid:ForLoopCounterChangedCheckÌ"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
+… squid:ForLoopCounterChangedCheckù"XRefactor the code in order to not assign to this loop counter from within the loop body.(«¶îÅ
+… squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(›İ³Ó
+… squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(›İ³Ó
+Š squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ·–¾øÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ·–¾øÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck•"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ÚèÅıÿÿÿÿ
+… squid:ForLoopCounterChangedCheck–"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+… squid:ForLoopCounterChangedCheck–"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+… squid:ForLoopCounterChangedCheck™"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+… squid:ForLoopCounterChangedCheck™"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+Š squid:ForLoopCounterChangedCheck™"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ÚèÅıÿÿÿÿ
+… squid:ForLoopCounterChangedCheckš"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+… squid:ForLoopCounterChangedCheckš"XRefactor the code in order to not assign to this loop counter from within the loop body.(Æ´¸ö
+… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(£€Ö±
+„ squid:ForLoopCounterChangedCheck©"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îò¨;
+Msquid:S1191¶"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+Lsquid:S1066Ù
+"/Merge this if statement with the enclosing one.(¥¦×¤ıÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÙ".Extract the assignment out of this expression.(›İ³Ó
+_$squid:AssignmentInSubExpressionCheckı".Extract the assignment out of this expression.(Æ´¸ö
+_$squid:AssignmentInSubExpressionCheckâ".Extract the assignment out of this expression.(Ğè³»
+d$squid:AssignmentInSubExpressionCheckƒ".Extract the assignment out of this expression.(â“ò½øÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckú".Extract the assignment out of this expression.(›İ³Ó
+_$squid:AssignmentInSubExpressionCheck–".Extract the assignment out of this expression.(Æ´¸ö
+_$squid:AssignmentInSubExpressionCheckš".Extract the assignment out of this expression.(Æ´¸ö
+u
+squid:S135À"YReduce the total number of break and continue statements in this loop to use at most one.(‰ããîüÿÿÿÿ
+p
+squid:S135Õ"YReduce the total number of break and continue statements in this loop to use at most one.(²¹¥
+p
+squid:S135à"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+p
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+p
+squid:S135œ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+p
+squid:S135»"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+u
+squid:S135æ"YReduce the total number of break and continue statements in this loop to use at most one.(æ‰—Åüÿÿÿÿ
+_squid:S00112Æ"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+_squid:S00112ã"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+Jsquid:S1659"-Declare "NEXT_TERMINATOR" on a separate line.(”êæøÿÿÿÿ
+Fsquid:S3077ë".Remove the "volatile" keyword from this field.(æ«Öë
+Ksquid:S3077ÿ".Remove the "volatile" keyword from this field.(¹çóÏşÿÿÿÿ
+ssquid:S00115Ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš
+rsquid:S00115Õ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø¢
+Ksquid:S3077".Remove the "volatile" keyword from this field.(ÍñàÏşÿÿÿÿ
+Fsquid:S3077".Remove the "volatile" keyword from this field.(‚Ñæâ
+Fsquid:S3077".Remove the "volatile" keyword from this field.(³îÙ
+ssquid:S00115·"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³¾¶„
+xsquid:S00115¸"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú¸³Èúÿÿÿÿ
+xsquid:S00115¹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
+jsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(£™‘¾
+qsquid:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ûßî
+h squid:LabelsShouldNotBeUsedCheckÕ";Refactor the code to remove this label and the need for it.(©£À…
+jsquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(§­Ø™
+qsquid:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ûßî
+m squid:LabelsShouldNotBeUsedCheckù";Refactor the code to remove this label and the need for it.(ÃÓÛæúÿÿÿÿ
+jsquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(®ğ¡
+@squid:S1659»"(Declare "activeSucc" on a separate line.(‚ßË
+<squid:S1659¼"$Declare "isLast" on a separate line.(®¥Ê¶
+Osquid:S1135é"2Complete the task associated to this TODO comment.(Øƒ’ûÿÿÿÿ
+6squid:S2178ì"Correct this "|" to "||".(¦ƒÓáúÿÿÿÿ
+6squid:S2178õ"Correct this "|" to "||".(ÙÖùûşÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÓÄŸ­ıÿÿÿÿ
+osquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ö“¿ƒùÿÿÿÿ
+osquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(öÀË²üÿÿÿÿ
+7squid:S1659İ"Declare "p" on a separate line.(¡¡Ãˆ
+7squid:S1659İ"Declare "q" on a separate line.(¡¡Ãˆ
+h squid:LabelsShouldNotBeUsedCheckŞ";Refactor the code to remove this label and the need for it.(©£À…
+isquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(±˜Ô:
+<squid:S1659ş"Declare "p" on a separate line.(Ù–¥ºøÿÿÿÿ
+<squid:S1659ş"Declare "q" on a separate line.(Ù–¥ºøÿÿÿÿ
+m squid:LabelsShouldNotBeUsedCheckÿ";Refactor the code to remove this label and the need for it.(ÃÓÛæúÿÿÿÿ
+jsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¨‡€½
+m squid:LabelsShouldNotBeUsedCheck”";Refactor the code to remove this label and the need for it.(¹ÑÎ¹ÿÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheck›";Refactor the code to remove this label and the need for it.(—İÍÍ
+jsquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ò¹ìª
+m squid:LabelsShouldNotBeUsedCheck³";Refactor the code to remove this label and the need for it.(¹ÑÎ¹ÿÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheckº";Refactor the code to remove this label and the need for it.(—İÍÍ
+Jsquid:S1135Ú"2Complete the task associated to this TODO comment.(“¬Ş­
+h squid:LabelsShouldNotBeUsedCheckö";Refactor the code to remove this label and the need for it.(©£À…
+m squid:LabelsShouldNotBeUsedCheck’";Refactor the code to remove this label and the need for it.(ÃÓÛæúÿÿÿÿ
+vsquid:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Ÿ€ûÿÿÿÿ
+qsquid:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èî‰¦
+<squid:S1659ò"Declare "t" on a separate line.(†Ò±ùÿÿÿÿ
+qsquid:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(±µˆ‚
+qsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¨à
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íì‡
+jsquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(˜Íşô
+:squid:S1659†""Declare "last" on a separate line.(¬ÿõÖ
+qsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(±µˆ‚
+m squid:LabelsShouldNotBeUsedCheck–";Refactor the code to remove this label and the need for it.(ÃÓÛæúÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(÷¾˜
+\squid:S3358¥"DExtract this nested ternary operation into an independent statement.(»³¡
+Qsquid:S1161À":Add the "@Override" annotation above this method signature(ºˆ¡
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+vsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÔ³“üÿÿÿÿ
+<squid:S1659¹"Declare "t" on a separate line.(†Ò±ùÿÿÿÿ
+qsquid:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(üı…
+qsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Öë
+vsquid:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(°Ì—Óùÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›ï¹ùÿÿÿÿ
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(´¶«øÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ø ¹
+hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(—Ëéğşÿÿÿÿ
+bsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(åï—p
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(ÓÂÈ˜
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ

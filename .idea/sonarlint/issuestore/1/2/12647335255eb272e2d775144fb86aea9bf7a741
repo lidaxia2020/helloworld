@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+„"squid:ClassVariableVisibilityCheckC"VMake enterprise a static final constant or non-public and provide accessors if needed.(íáœ
+ƒ"squid:ClassVariableVisibilityCheckM"UMake agentAddr a static final constant or non-public and provide accessors if needed.(ˆ¶ñ
+Š"squid:ClassVariableVisibilityCheck\"WMake genericTrap a static final constant or non-public and provide accessors if needed.(³ÔËÿÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckf"XMake specificTrap a static final constant or non-public and provide accessors if needed.(±—Ş›
+‚"squid:ClassVariableVisibilityCheckp"UMake timeStamp a static final constant or non-public and provide accessors if needed.(äİ’3

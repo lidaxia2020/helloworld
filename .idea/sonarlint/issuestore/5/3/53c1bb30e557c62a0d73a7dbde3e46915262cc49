@@ -1,0 +1,31 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(§‰­üøÿÿÿÿ
+u
+squid:S135à"YReduce the total number of break and continue statements in this loop to use at most one.(€È¶ƒşÿÿÿÿ
+wsquid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(ÕĞÄ,
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+Qsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+Lsquid:S1143«"4Remove this throw statement from this finally block.(°ÕÚ 
+Usquid:S1163«"=Refactor this code to not throw exceptions in finally blocks.(°ÕÚ 
+squid:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ú èùÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheckV"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ø¨İ˜úÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckW"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(¶èŠb
+£%squid:RedundantThrowsDeclarationCheckc"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ø¨İ˜úÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckd"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(¶èŠb
+%squid:RedundantThrowsDeclarationCheckp"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ñÂ¼á
+›%squid:RedundantThrowsDeclarationCheckp"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ñÂ¼á
+%squid:RedundantThrowsDeclarationCheck|"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ñÂ¼á
+›%squid:RedundantThrowsDeclarationCheck|"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ñÂ¼á
+Ÿ%squid:RedundantThrowsDeclarationCheck‚"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ñÂ¼á
+œ%squid:RedundantThrowsDeclarationCheck‚"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ñÂ¼á
+¡%squid:RedundantThrowsDeclarationCheck‡"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(òü©Óûÿÿÿÿ
+¡%squid:RedundantThrowsDeclarationCheck“"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(®›ª¦ÿÿÿÿÿ
+jsquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ƒ•–•
+jsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(İŞĞ±
+=squid:S1181‹"%Catch Exception instead of Throwable.(âÂéî
+]squid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(ƒîÜåşÿÿÿÿ
+=squid:S1181¥"%Catch Exception instead of Throwable.(âÂéî
+]squid:S1193ª"@Replace the usage of the "instanceof" operator by a catch block.(ƒîÜåşÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheck¶"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ùê¹Æ
+œ%squid:RedundantThrowsDeclarationCheck½"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(‘“¸Û
+œ%squid:RedundantThrowsDeclarationCheckÄ"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(£³öè

@@ -1,0 +1,20 @@
+
+ksquid:S3824«"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(¢±êàúÿÿÿÿ
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+_$squid:AssignmentInSubExpressionCheck±".Extract the assignment out of this expression.( ƒÚÓ
+_$squid:AssignmentInSubExpressionCheck´".Extract the assignment out of this expression.(£©“’
+d$squid:AssignmentInSubExpressionCheck­".Extract the assignment out of this expression.(ÌÓËìşÿÿÿÿ
+usquid:S00116€"WRename this field "m_namespaces" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡´’Êüÿÿÿÿ
+tsquid:S00116’"VRename this field "m_nodeStack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÏùÏúÿÿÿÿ
+msquid:S1149’"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(úÏùÏúÿÿÿÿ
+msquid:S1149°"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ãÑâîşÿÿÿÿ
+msquid:S1149È"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¨º½Ìøÿÿÿÿ
+msquid:S1149Î"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¨º½Ìøÿÿÿÿ
+msquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ãÑâîşÿÿÿÿ
+msquid:S1149©"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ãÑâîşÿÿÿÿ
+ksquid:S2975ı"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+`squid:S1182ı"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë
+qsquid:S00116"SRename this field "m_prefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èó¾«üÿÿÿÿ
+nsquid:S00116"PRename this field "m_uri" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹„–úÿÿÿÿ
+usquid:S00116’"]Rename this field "m_declarationDepth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÇí"
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

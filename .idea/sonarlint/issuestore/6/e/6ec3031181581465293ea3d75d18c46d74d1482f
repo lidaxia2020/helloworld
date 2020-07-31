@@ -1,0 +1,120 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(í™¼şÿÿÿÿ
+gsquid:S1192Œ"JDefine a constant instead of duplicating this literal ", qname: " 3 times.(É˜½üşÿÿÿÿ
+_squid:S1192ô"GDefine a constant instead of duplicating this literal "xmlns:" 4 times.(××»—
+^squid:S1192ò"FDefine a constant instead of duplicating this literal "xmlns" 4 times.(éá‘û
+fsquid:S1192‹"NDefine a constant instead of duplicating this literal ", localname: " 3 times.(ĞöÔ
+Tsquid:S2589ã"7Remove this expression which always evaluates to "true"(»¢ª¸ÿÿÿÿÿ
+Vsquid:S4973‘"9Use the "equals" method if value comparison was intended.(Ì®…Üÿÿÿÿÿ
+_squid:S00112¡	"FDefine and throw a dedicated exception instead of using a generic one.(Ç·¼ú
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‰ÈÚ
+Msquid:S2065"0Remove the "transient" modifier from this field.(é™€øÿÿÿÿ
+Msquid:S2065‰"0Remove the "transient" modifier from this field.(ıìŸøÿÿÿÿ
+Hsquid:S2065‘"0Remove the "transient" modifier from this field.(‰Í®¯
+Gsquid:S2065š"0Remove the "transient" modifier from this field.(±ìˆ
+Hsquid:S2065"0Remove the "transient" modifier from this field.(ííòØ
+Gsquid:S2065¦"0Remove the "transient" modifier from this field.(Şì[
+Msquid:S2065©"0Remove the "transient" modifier from this field.(²éÖÚüÿÿÿÿ
+Msquid:S2065¬"0Remove the "transient" modifier from this field.(³¬ğ™ûÿÿÿÿ
+Msquid:S2065¯"0Remove the "transient" modifier from this field.(§”Ä¿ÿÿÿÿÿ
+˜squid:S4144¨"{Update this method so that its implementation is not identical to "getDocumentTypeDeclarationSystemIdentifier" on line 854.(Ğû“øÿÿÿÿ
+™squid:S1186ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹‚Ãş
+ysquid:S00116["aRename this field "m_incrementalSAXSource" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Û…
+osquid:S00116t"RRename this field "m_chars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íõİ¤ùÿÿÿÿ
+nsquid:S00116y"QRename this field "m_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶Æïúÿÿÿÿ
+rsquid:S00116"TRename this field "m_parents" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é™€øÿÿÿÿ
+ssquid:S00116‰"URename this field "m_previous" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıìŸøÿÿÿÿ
+tsquid:S00116‘"[Rename this field "m_prefixMappings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Í®¯
+ssquid:S00116š"[Rename this field "m_contextIndexes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ìˆ
+nsquid:S00116"URename this field "m_textType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ííòØ
+vsquid:S00116¦"^Rename this field "m_coalescedTextType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şì[
+rsquid:S00116©"TRename this field "m_locator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²éÖÚüÿÿÿÿ
+ssquid:S00116¬"URename this field "m_systemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¬ğ™ûÿÿÿÿ
+tsquid:S00116¯"VRename this field "m_insideDTD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§”Ä¿ÿÿÿÿÿ
+lsquid:S00116²"SRename this field "m_walker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¤Áí
+vsquid:S00116µ"]Rename this field "m_valuesOrPrefixes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºœÅü
+xsquid:S00116½"_Rename this field "m_endDocumentOccured" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÖÈë
+vsquid:S00116À"XRename this field "m_dataOrQName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÜª‹ûÿÿÿÿ
+rsquid:S00116É"YRename this field "m_idAttributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¸Ü
+msquid:S00116á"URename this field "m_entities" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Â¥@
+vsquid:S00116ú"]Rename this field "m_textPendingStart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔĞ˜ƒ
+„squid:S00116‡"fRename this field "m_useSourceLocationProperty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıîüÿÿÿÿ
+ysquid:S00116Œ"[Rename this field "m_sourceSystemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¹®Ñşÿÿÿÿ
+usquid:S00116"WRename this field "m_sourceLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ºÈÿÿÿÿÿ
+wsquid:S00116”"YRename this field "m_sourceColumn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¥•§ıÿÿÿÿ
+{squid:S00116è"]Rename this field "m_pastFirstElement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë£½Îùÿÿÿÿ
+}squid:S1149‘"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰Í®¯
+nsquid:S1149É"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‰¸Ü
+|squid:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(€Â¥@
+}squid:S1149×"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Â¨¥ó
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(é™€øÿÿÿÿ
+psquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(ıìŸøÿÿÿÿ
+ksquid:ModifiersOrderCheck‘"EReorder the modifiers to comply with the Java Language Specification.(‰Í®¯
+jsquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(±ìˆ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ííòØ
+jsquid:ModifiersOrderCheck¦"EReorder the modifiers to comply with the Java Language Specification.(Şì[
+psquid:ModifiersOrderCheck©"EReorder the modifiers to comply with the Java Language Specification.(²éÖÚüÿÿÿÿ
+psquid:ModifiersOrderCheck¬"EReorder the modifiers to comply with the Java Language Specification.(³¬ğ™ûÿÿÿÿ
+psquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(§”Ä¿ÿÿÿÿÿ
+lsquid:S00100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§™ğ’ùÿÿÿÿ
+?squid:S1872ƒ"'Use an "instanceof" comparison instead.(È«Ö‡
+?squid:S1872 "'Use an "instanceof" comparison instead.(È«Ö‡
+osquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(íÂœÿÿÿÿÿ
+Wsquid:S1161—":Add the "@Override" annotation above this method signature(Éßò¨ÿÿÿÿÿ
+Jsquid:S1135Ù"2Complete the task associated to this TODO comment.(ø£¨
+Wsquid:S1161ı":Add the "@Override" annotation above this method signature(êÕØØıÿÿÿÿ
+U
+squid:S106 	"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
+Jsquid:S1135ó	"2Complete the task associated to this TODO comment.(Ğ­²
+Jsquid:S1135û	"2Complete the task associated to this TODO comment.(öØúü
+Osquid:S1135†
+"2Complete the task associated to this TODO comment.(ˆ·ïıÿÿÿÿ
+Jsquid:S1135‰
+"2Complete the task associated to this TODO comment.(ã²ì¦
+Jsquid:S1135«"2Complete the task associated to this TODO comment.(ø£¨
+osquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ŸõŸıÿÿÿÿ
+osquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ùîÎ“úÿÿÿÿ
+>squid:S2129ó"!Remove this "Integer" constructor(¡ÿ°şúÿÿÿÿ
+]squid:CallToDeprecatedMethodó"/Remove this use of "Integer"; it is deprecated.(¡ÿ°şúÿÿÿÿ
+U
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(“‰æ„ûÿÿÿÿ
+U
+squid:S106å"9Replace this use of System.out or System.err by a logger.(‡ÄØÃúÿÿÿÿ
+P
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ŒÎè
+U
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ÀÛßÿÿÿÿÿ
+jsquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ò–êë
+P
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ĞöÔ
+1squid:S2178"Correct this "&" to "&&".(›èÂ™
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(«¸ÛÙùÿÿÿÿ
+P
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ˆ¦¤”
+P
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(äøşë
+Psquid:S1197ê"8Move the array designator from the variable to the type.(ùğô
+Usquid:S1197“"8Move the array designator from the variable to the type.(ò©…©úÿÿÿÿ
+P
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(‡ùË¯
+U
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+Osquid:S1197Ğ"8Move the array designator from the variable to the type.(ÎÇ’(
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(íÃ“­
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(šËÕ™
+hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(£ÇÕƒşÿÿÿÿ
+hsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(—ŸºÄÿÿÿÿÿ
+hsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(ÂÓıäúÿÿÿÿ
+hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(Šæ€Ùÿÿÿÿÿ
+csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(Ôêû
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(Ú°à¬
+csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(»ı
+hsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.( ÿüÿÿÿÿ
+csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(Ôêû
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ñ­¡Šûÿÿÿÿ
+hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ş›Ç§şÿÿÿÿ
+hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ßÃØşÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊÍÈ¸
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ƒş—¸

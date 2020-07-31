@@ -1,0 +1,35 @@
+
+[squid:S3034‡">Prevent "int" promotion by adding "& 0xff" to this expression.(ÅÍëúÿÿÿÿ
+[squid:S3034¹">Prevent "int" promotion by adding "& 0xff" to this expression.(ÅÍëúÿÿÿÿ
+Vsquid:S3034³">Prevent "int" promotion by adding "& 0xff" to this expression.(‹·Í¡
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+vsquid:S1192á"^Define a constant instead of duplicating this literal "Decoded length exceeds buffer" 5 times.(À‰¯
+xsquid:S00115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­ãÔÔüÿÿÿÿ
+xsquid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›àˆ’şÿÿÿÿ
+xsquid:S00115›"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èìòÍşÿÿÿÿ
+xsquid:S00115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Àß£Ëûÿÿÿÿ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’Ø£š
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚¬é±ÿÿÿÿÿ
+vsquid:S1149‚"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(°š’3
+Osquid:S1197L"8Move the array designator from the variable to the type.(¦²Ã“
+Osquid:S1854Ü"7Remove this useless assignment to local variable "tag".(–±ò–
+psquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(­ãÔÔüÿÿÿÿ
+psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(›àˆ’şÿÿÿÿ
+psquid:ModifiersOrderCheck›"EReorder the modifiers to comply with the Java Language Specification.(èìòÍşÿÿÿÿ
+psquid:ModifiersOrderCheckœ"EReorder the modifiers to comply with the Java Language Specification.(Àß£Ëûÿÿÿÿ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(’Ø£š
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‚¬é±ÿÿÿÿÿ
+]squid:S2147“"ECombine this catch with the one at line 655, which has the same body.(…¨ıÊ
+]squid:S2147Å"ECombine this catch with the one at line 705, which has the same body.(…¨ıÊ
+]squid:S2147ñ"ECombine this catch with the one at line 749, which has the same body.(…¨ıÊ
+Psquid:S1197à"8Move the array designator from the variable to the type.(ÌÈ“
+osquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(éÄ¸˜ûÿÿÿÿ
+Usquid:S1197Ñ"8Move the array designator from the variable to the type.(±ÒÒşøÿÿÿÿ
+Psquid:S1197ß"8Move the array designator from the variable to the type.(õ €·
+@squid:S1481Ü"(Remove this unused "tag" local variable.(–±ò–
+csquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(±‡¤¹
+csquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(Ü¶–Ã
+csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(§«Ï‹
+csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(Ü¶–Ã
+csquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(Ü¶–Ã
+csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(‡Ê¯‹

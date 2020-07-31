@@ -1,0 +1,42 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
+vsquid:S1488†"^Immediately return this expression instead of assigning it to the temporary variable "policy".(ö†Õ÷
+‡"squid:ClassVariableVisibilityCheckÑ"XMake disableCount a static final constant or non-public and provide accessors if needed.(ÎúüÉ
+nsquid:UselessImportCheckR"ERemove this unused import 'com.sun.corba.se.impl.orbutil.ORBUtility'.(×˜´ùþÿÿÿÿ
+_squid:UselessImportCheck'";Remove this unused import 'org.omg.CORBA.OBJECT_NOT_EXIST'.(îÈ›±
+qsquid:UselessImportCheck@"HRemove this unused import 'com.sun.corba.se.pept.encoding.OutputObject'.(Ü‹÷íýÿÿÿÿ
+msquid:UselessImportCheckS"DRemove this unused import 'com.sun.corba.se.impl.orbutil.StackImpl'.(®Êœ¬øÿÿÿÿ
+`squid:UselessImportCheck#"7Remove this unused import 'org.omg.CORBA.COMM_FAILURE'.(©Ÿ·ýÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+\squid:UselessImportCheck""8Remove this unused import 'org.omg.CORBA.BAD_INV_ORDER'.(äÓìæ
+esquid:UselessImportCheck("ARemove this unused import 'org.omg.CORBA.ORBPackage.InvalidName'.(ô€“†
+Tsquid:S5164©"7Call "remove()" on "threadLocalClientRequestInfoStack".(µô‹‘úÿÿÿÿ
+Osquid:S5164±"7Call "remove()" on "threadLocalServerRequestInfoStack".(ú•é²
+msquid:S1149Ì"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ø¿šýÿÿÿÿ
+T
+squid:S106f"9Replace this use of System.out or System.err by a logger.(®…Šãüÿÿÿÿ
+O
+squid:S106m"9Replace this use of System.out or System.err by a logger.(³¯úÁ
+O
+squid:S106r"9Replace this use of System.out or System.err by a logger.(×•œ²
+Osquid:S1197ž"8Move the array designator from the variable to the type.(©Š†Q
+jsquid:ModifiersOrderCheckž"EReorder the modifiers to comply with the Java Language Specification.(©Š†Q
+csquid:S4065ª"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(ÕÙãžûÿÿÿÿ
+Rsquid:S1161«":Add the "@Override" annotation above this method signature(Ÿ¬èë
+csquid:S4065²"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(ÕÙãžûÿÿÿÿ
+Rsquid:S1161³":Add the "@Override" annotation above this method signature(Ÿ¬èë
+Hsquid:S2160Ì"+Override the "equals" method in this class.(ø¿šýÿÿÿÿ
+msquid:S1149Ì"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ø¿šýÿÿÿÿ
+Osquid:S3972‚"7Move this "if" to a new line or add the missing "else".(Ó™ÛŸ
+jsquid:S3776Ý"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ê¿•
+9squid:S2129Ê"!Remove this "Integer" constructor(µÀ—
+Xsquid:CallToDeprecatedMethodÊ"/Remove this use of "Integer"; it is deprecated.(µÀ—
+>squid:S2129€"!Remove this "Integer" constructor(ƒà¿ûúÿÿÿÿ
+]squid:CallToDeprecatedMethod€"/Remove this use of "Integer"; it is deprecated.(ƒà¿ûúÿÿÿÿ
+>squid:S2129“"!Remove this "Integer" constructor(Û›­‰ùÿÿÿÿ
+]squid:CallToDeprecatedMethod“"/Remove this use of "Integer"; it is deprecated.(Û›­‰ùÿÿÿÿ
+>squid:S2129™"!Remove this "Integer" constructor(’Ô¹±þÿÿÿÿ
+]squid:CallToDeprecatedMethod™"/Remove this use of "Integer"; it is deprecated.(’Ô¹±þÿÿÿÿ
+csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(ü‹œš
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(óÍƒøÿÿÿÿ
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(í£Æ•

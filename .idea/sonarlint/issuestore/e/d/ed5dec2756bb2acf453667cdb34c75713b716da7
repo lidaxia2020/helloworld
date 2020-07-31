@@ -1,0 +1,35 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ëñ“€üÿÿÿÿ
+Nsquid:S1444x"2Make this "public static ORBInitDebug" field final(ë†ùÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheckx"XMake ORBInitDebug a static final constant or non-public and provide accessors if needed.(ë†ùÿÿÿÿ
+‘"squid:ClassVariableVisibilityCheck~"^Make transportDebugFlag a static final constant or non-public and provide accessors if needed.(à¨‡–ûÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck"`Make subcontractDebugFlag a static final constant or non-public and provide accessors if needed.(ÀÖ½Ñûÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck€"XMake poaDebugFlag a static final constant or non-public and provide accessors if needed.(Ò·Ù¶şÿÿÿÿ
+—"squid:ClassVariableVisibilityCheck"cMake poaConcurrencyDebugFlag a static final constant or non-public and provide accessors if needed.(Ğ¿ÅÖúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck‚"[Make poaFSMDebugFlag a static final constant or non-public and provide accessors if needed.(İ³’×øÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheckƒ"YMake orbdDebugFlag a static final constant or non-public and provide accessors if needed.(Õ­é5
+Š"squid:ClassVariableVisibilityCheck„"[Make namingDebugFlag a static final constant or non-public and provide accessors if needed.(¥š¶
+—"squid:ClassVariableVisibilityCheck…"cMake serviceContextDebugFlag a static final constant or non-public and provide accessors if needed.(ÇúùÇüÿÿÿÿ
+š"squid:ClassVariableVisibilityCheck†"kMake transientObjectManagerDebugFlag a static final constant or non-public and provide accessors if needed.(Š¡İ¢
+"squid:ClassVariableVisibilityCheck‡"`Make giopVersionDebugFlag a static final constant or non-public and provide accessors if needed.(ü‹¹™
+‘"squid:ClassVariableVisibilityCheckˆ"]Make shutdownDebugFlag a static final constant or non-public and provide accessors if needed.(¤é¦Âøÿÿÿÿ
+"squid:ClassVariableVisibilityCheck‰"YMake giopDebugFlag a static final constant or non-public and provide accessors if needed.(Ñ‡°•úÿÿÿÿ
+™"squid:ClassVariableVisibilityCheckŠ"eMake invocationTimingDebugFlag a static final constant or non-public and provide accessors if needed.(ì„—¿úÿÿÿÿ
+@squid:S1604¾"(Make this anonymous inner class a lambda(°ûº
+@squid:S1604È"(Make this anonymous inner class a lambda(°ûº
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ Ùªıÿÿÿÿ
+jsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒæ”
+}squid:UselessImportCheckB"TRemove this unnecessary import: same package classes are always implicitly imported.(›–ôúøÿÿÿÿ
+xsquid:UselessImportCheckC"TRemove this unnecessary import: same package classes are always implicitly imported.(¼œÙ»
+}squid:UselessImportCheckD"TRemove this unnecessary import: same package classes are always implicitly imported.(·›â‰ùÿÿÿÿ
+ysquid:UselessImportCheck7"URemove this unused import 'com.sun.corba.se.spi.monitoring.MonitoringManagerFactory'.(¼ÙÃà
+rsquid:UselessImportCheck@"IRemove this unused import 'com.sun.corba.se.spi.orbutil.closure.Closure'.(å¥é…øÿÿÿÿ
+†squid:UselessImportCheck3"bRemove this unused import 'com.sun.corba.se.spi.legacy.connection.LegacyServerSocketEndPointInfo'.(úÙê¿
+xsquid:UselessImportCheck."ORemove this unused import 'com.sun.corba.se.spi.protocol.CorbaMessageMediator'.(üƒóíûÿÿÿÿ
+[squid:S1155ù">Use isEmpty() to check whether the collection is empty or not.(ãúÂãúÿÿÿÿ
+ssquid:S3008x"WRename this field "ORBInitDebug" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë†ùÿÿÿÿ
+Wsquid:S1118®":Add a private constructor to hide the implicit public one.(¬º†ãøÿÿÿÿ
+\squid:CallToDeprecatedMethodÔ"3Remove this use of "newInstance"; it is deprecated.(ö…§ğ
+Bsquid:S1181Ú"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+8squid:S2129Û"!Remove this "Integer" constructor(ÄÒ‡c
+Wsquid:CallToDeprecatedMethodÛ"/Remove this use of "Integer"; it is deprecated.(ÄÒ‡c

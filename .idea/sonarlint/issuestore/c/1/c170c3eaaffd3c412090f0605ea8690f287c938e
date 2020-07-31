@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
+‚squid:UselessImportCheck "^Remove this unused import 'com.sun.corba.se.spi.protocol.LocalClientRequestDispatcherFactory'.(£€ìö
+rsquid:UselessImportCheck*"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
+vsquid:UselessImportCheck,"MRemove this unused import 'com.sun.corba.se.impl.logging.POASystemException'.(ùßÈÿÿÿÿÿ
+{squid:UselessImportCheck!"WRemove this unused import 'com.sun.corba.se.spi.protocol.LocalClientRequestDispatcher'.(ğµ£Ã

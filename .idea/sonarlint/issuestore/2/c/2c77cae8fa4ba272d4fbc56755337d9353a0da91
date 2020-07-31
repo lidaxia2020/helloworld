@@ -1,0 +1,79 @@
+
+… squid:ForLoopCounterChangedCheckª"XRefactor the code in order to not assign to this loop counter from within the loop body.(µôëØ
+… squid:ForLoopCounterChangedCheckª"XRefactor the code in order to not assign to this loop counter from within the loop body.(µôëØ
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Äıç•ıÿÿÿÿ
+asquid:S1192ô"IDefine a constant instead of duplicating this literal "node-set" 3 times.(èéÉ‰
+gsquid:S1192«"JDefine a constant instead of duplicating this literal "compare()" 4 times.(«×À úÿÿÿÿ
+Rsquid:S1141‰"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Psquid:S4973ë"9Use the "equals" method if value comparison was intended.(Ú¬ˆ1
+dsquid:S00112©"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+dsquid:S00112†"FDefine and throw a dedicated exception instead of using a generic one.(Ã§§²øÿÿÿÿ
+_squid:S00112Œ"FDefine and throw a dedicated exception instead of using a generic one.(éÊ‰
+^squid:UselessImportCheck@"5Remove this unused import 'org.w3c.dom.DOMException'.(İ°Ó¸ıÿÿÿÿ
+Dsquid:S1659’",Declare "xpathFormatter" on a separate line.(ÉÍËù
+qsquid:S3008à"YRename this field "_fieldPosition" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( á¡ì
+wsquid:S3008—"ZRename this field "_characterArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌÂşÿÿÿÿ
+ksquid:S3008ö"SRename this field "m_bundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Î
+Esquid:S5164\".Call "remove()" on "threadLocalStringBuilder".(¥èâë
+Dsquid:S5164i"-Call "remove()" on "threadLocalStringBuffer".(°ÈñÇ
+Qsquid:S1118Q":Add a private constructor to hide the implicit public one.(ÁÓŞÁ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ê¢ëã
+ssquid:S00115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á¥ı×
+jsquid:ModifiersOrderCheckS"EReorder the modifiers to comply with the Java Language Specification.(©Ü’»
+bsquid:S4065]"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(›«éšúÿÿÿÿ
+bsquid:S4065j"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(¤½Óîüÿÿÿÿ
+Msquid:S1133ƒ"5Do not forget to remove this deprecated code someday.(å¤Øä
+Psquid:MissingDeprecatedCheckƒ"'Add the missing @Deprecated annotation.(å¤Øä
+Hsquid:S1172Ã"+Remove this unused method parameter "node".(áêÚ¸ùÿÿÿÿ
+asquid:S3358”"DExtract this nested ternary operation into an independent statement.(Ü—ĞÂûÿÿÿÿ
+asquid:S3358•"DExtract this nested ternary operation into an independent statement.(éÔÕŠıÿÿÿÿ
+gsquid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âåü²
+gsquid:S00100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õâ‰õ
+gsquid:S00100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½£¸
+lsquid:S00100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öæè‰ıÿÿÿÿ
+<squid:S1659È"Declare "n" on a separate line.(ÔñËéÿÿÿÿÿ
+lsquid:S00100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÎÒÿÿÿÿÿ
+lsquid:S00100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó—ÔØüÿÿÿÿ
+lsquid:S00100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÃêÂüÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Î…h
+lsquid:S00100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õİòıÿÿÿÿ
+gsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÊã
+fsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó±{
+gsquid:S00100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ²
+osquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(öŠÎ§şÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckÙ""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+jsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ê¤á 
+isquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(üöˆi
+9squid:S2129Ü"!Remove this "Boolean" constructor(ş½öó
+Xsquid:CallToDeprecatedMethodÜ"/Remove this use of "Boolean"; it is deprecated.(ş½öó
+9squid:S2129à"!Remove this "Boolean" constructor(şïúÚ
+Xsquid:CallToDeprecatedMethodà"/Remove this use of "Boolean"; it is deprecated.(şïúÚ
+[squid:S2130ù">Use "Double.parseDouble" for this string-to-double conversion.(ø‰˜ûÿÿÿÿ
+Lsquid:S1172µ
+"/Remove this unused method parameter "translet".(ãµ½‹ıÿÿÿÿ
+P
+squid:S106Ë
+"9Replace this use of System.out or System.err by a logger.(‚áœˆ
+osquid:S3776Ø
+"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(“«º™ÿÿÿÿÿ
+Dsquid:S1659°"'Declare "childIter" on a separate line.(˜ü¢ùÿÿÿÿ
+Csquid:S1659°"&Declare "attrIter" on a separate line.(˜ü¢ùÿÿÿÿ
+Fsquid:S1125ÿ
+")Remove the literal "false" boolean value.(ø«Ú¿øÿÿÿÿ
+Csquid:S1172›"+Remove this unused method parameter "node".(ùØ‡„
+]squid:S3027Á"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(îİˆu
+bsquid:S3027Â"JPut single-quotes around ':' to use the faster "lastIndexOf(char)" method.(¡•£Ë
+jsquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(´Ú•
+jsquid:ModifiersOrderCheckø"EReorder the modifiers to comply with the Java Language Specification.(Ç¥³a
+O
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(‚š‰1
+tsquid:UnusedPrivateMethod³
+"IRemove this unused private "nodeList2IteratorUsingHandleFromNode" method.(ÿ×ŸÕûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(ıÄãşÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦êÿâ
+csquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(ùıö
+hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(áóÊ½øÿÿÿÿ
+hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(áóÊ½øÿÿÿÿ
+bsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(èÓ­%
+hsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(ùûÖùÿÿÿÿ

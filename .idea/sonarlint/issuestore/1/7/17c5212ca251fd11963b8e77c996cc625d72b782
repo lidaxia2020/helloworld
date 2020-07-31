@@ -1,0 +1,252 @@
+
+Š squid:ForLoopCounterChangedCheck—"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck§"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¶"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck·"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÀ"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckË"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÌ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ï™Áıÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÕ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÖ"XRefactor the code in order to not assign to this loop counter from within the loop body.(³Ñèúÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckà"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedChecká"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckî"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÕŠ¾úÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢½¡¿ùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck€"XRefactor the code in order to not assign to this loop counter from within the loop body.(™Ë‡üÿÿÿÿ
+Ksquid:S11912"5Use classes from the Java API instead of Sun classes.(çÿc
+gsquid:S1192‰"PDefine a constant instead of duplicating this literal "moveSelectionTo" 3 times.(ä‰®,
+nsquid:S1192“"QDefine a constant instead of duplicating this literal "shift BACK_SPACE" 4 times.(ıŞ¼Øüÿÿÿÿ
+esquid:S1192„"MDefine a constant instead of duplicating this literal "shift INSERT" 7 times.(¡ÑˆÀ
+ysquid:S1192Õ"aDefine a constant instead of duplicating this literal "selectPreviousRowExtendSelection" 8 times.(ì Ğö
+dsquid:S1192’"LDefine a constant instead of duplicating this literal "togglePopup" 5 times.(êñš¡
+hsquid:S1192"KDefine a constant instead of duplicating this literal "shift HOME" 7 times.(•ïÃáùÿÿÿÿ
+`squid:S1192›"HDefine a constant instead of duplicating this literal "#000080" 3 times.(”ë´ê
+nsquid:S1192ï"QDefine a constant instead of duplicating this literal "ctrl shift RIGHT" 3 times.(èêæÿøÿÿÿÿ
+fsquid:S1192‹"NDefine a constant instead of duplicating this literal "control RIGHT" 3 times.(úÚ˜
+fsquid:S1192…"IDefine a constant instead of duplicating this literal "shift UP" 4 times.(Æ™§¯şÿÿÿÿ
+ksquid:S1192Œ"SDefine a constant instead of duplicating this literal "control shift LEFT" 3 times.(éÏÁ©
+_squid:S1192"HDefine a constant instead of duplicating this literal "#C0C0C0" 7 times.(ˆÀò7
+rsquid:S1192€"ZDefine a constant instead of duplicating this literal "scrollDownExtendSelection" 5 times.(ËåÏä
+fsquid:S1192¯"IDefine a constant instead of duplicating this literal "ctrl TAB" 3 times.(¦Å¾¨ıÿÿÿÿ
+gsquid:S1192ƒ"JDefine a constant instead of duplicating this literal "selectAll" 6 times.(˜·Åàúÿÿÿÿ
+{squid:S1192Â"^Define a constant instead of duplicating this literal "selectPreviousExtendSelection" 4 times.(íÒÿ¾ùÿÿÿÿ
+gsquid:S1192î"ODefine a constant instead of duplicating this literal "shift KP_RIGHT" 3 times.(­ô¶æ
+‡squid:S1192Ô"oDefine a constant instead of duplicating this literal "com.sun.java.swing.plaf.windows.WindowsBorders" 5 times.(‚ĞŞú
+lsquid:S1192…"ODefine a constant instead of duplicating this literal "clearSelection" 3 times.(›¤’úÿÿÿÿ
+esquid:S1192¢"MDefine a constant instead of duplicating this literal "windowBorder" 3 times.(Š‘…£
+|squid:S1192å"dDefine a constant instead of duplicating this literal "selectPreviousColumnExtendSelection" 8 times.(“øá¸
+ksquid:S1192"TDefine a constant instead of duplicating this literal "control shift RIGHT" 3 times.(ƒœÁV
+esquid:S1192ê"MDefine a constant instead of duplicating this literal "ctrl KP_LEFT" 4 times.(†ƒåé
+hsquid:S1192†"KDefine a constant instead of duplicating this literal "shift DOWN" 4 times.(–½ıøÿÿÿÿ
+gsquid:S1192€"JDefine a constant instead of duplicating this literal "PAGE_DOWN" 8 times.(âôøÀüÿÿÿÿ
+ksquid:S1192à"SDefine a constant instead of duplicating this literal "ctrl shift KP_DOWN" 3 times.(³Š…È
+csquid:S1192Ë"FDefine a constant instead of duplicating this literal "paste" 9 times.(ŸÀĞ¤ùÿÿÿÿ
+osquid:S1192®
+"RDefine a constant instead of duplicating this literal "negativeIncrement" 4 times.(Õã¬şÿÿÿÿÿ
+asquid:S1192‡"IDefine a constant instead of duplicating this literal "unselect" 7 times.(ºí‡¢
+`squid:S1192œ"HDefine a constant instead of duplicating this literal "#FFFFFF" 5 times.(·Èä’
+esquid:S1192Ù"HDefine a constant instead of duplicating this literal "ctrl UP" 4 times.(ÈİÄûÿÿÿÿ
+lsquid:S1192‚"ODefine a constant instead of duplicating this literal "ctrl PAGE_DOWN" 6 times.(Î£‚Íøÿÿÿÿ
+msquid:S1192—"PDefine a constant instead of duplicating this literal "ctrl BACK_SPACE" 3 times.(¿¨ÕÕùÿÿÿÿ
+esquid:S1192Ô
+"MDefine a constant instead of duplicating this literal "navigateDown" 4 times.(ÅÌÒ—
+}squid:S1192Ö"`Define a constant instead of duplicating this literal "javax.swing.plaf.FontUIResource" 4 times.(É«ü°ûÿÿÿÿ
+msquid:S1192Ñ"UDefine a constant instead of duplicating this literal "Button.showMnemonics" 3 times.(â¯
+^squid:S1192Ô"FDefine a constant instead of duplicating this literal "SPACE" 7 times.(…ùÇÜ
+dsquid:S1192ƒ"GDefine a constant instead of duplicating this literal "ctrl A" 4 times.(˜·Åàúÿÿÿÿ
+csquid:S1192ñ"KDefine a constant instead of duplicating this literal "ctrl RIGHT" 4 times.(É¢«ë
+nsquid:S1192Û	"VDefine a constant instead of duplicating this literal "positiveUnitIncrement" 8 times.( ‹Ä¬
+esquid:S1192ÿ"HDefine a constant instead of duplicating this literal "PAGE_UP" 8 times.(ÿ­‹ıùÿÿÿÿ
+csquid:S1192·"KDefine a constant instead of duplicating this literal "ctrl SPACE" 4 times.(Ê¼üÜ
+fsquid:S1192Ş"NDefine a constant instead of duplicating this literal "shift KP_DOWN" 3 times.(Ç¬É¡
+msquid:S1192ß"PDefine a constant instead of duplicating this literal "ctrl shift DOWN" 3 times.(¸È ²üÿÿÿÿ
+dsquid:S1192•"GDefine a constant instead of duplicating this literal "DELETE" 4 times.(À‘™†øÿÿÿÿ
+`squid:S1192¢"HDefine a constant instead of duplicating this literal "#000000" 7 times.(Š‘…£
+hsquid:S1192‡"PDefine a constant instead of duplicating this literal "toggleAndAnchor" 3 times.(ÃöÂ¨
+gsquid:S1192š"JDefine a constant instead of duplicating this literal "KP_RIGHT" 14 times.(ı…’şÿÿÿÿ
+jsquid:S1192¯
+"RDefine a constant instead of duplicating this literal "positiveIncrement" 4 times.(Ûïù¤
+zsquid:S1192ø"]Define a constant instead of duplicating this literal "selectLastRowExtendSelection" 3 times.(¸…ãÌùÿÿÿÿ
+{squid:S1192ô"^Define a constant instead of duplicating this literal "selectFirstRowExtendSelection" 3 times.(¿îØüÿÿÿÿ
+_squid:S1192Ê"GDefine a constant instead of duplicating this literal "ctrl C" 4 times.(è“Á–
+_squid:S1192˜"GDefine a constant instead of duplicating this literal "RIGHT" 14 times.(ÆÚÂæ
+hsquid:S1192ç"PDefine a constant instead of duplicating this literal "ctrl shift LEFT" 3 times.(Ê‰òÖ
+fsquid:S1192Î
+"NDefine a constant instead of duplicating this literal "navigateRight" 4 times.(Ö®Ğã
+hsquid:S1192®"PDefine a constant instead of duplicating this literal "selectNextFrame" 3 times.(Äú”
+xsquid:S1192í"`Define a constant instead of duplicating this literal "selectNextColumnExtendSelection" 8 times.(„ÅŸ
+isquid:S1192ˆ"LDefine a constant instead of duplicating this literal "shift SPACE" 3 times.(îßÑúÿÿÿÿ
+hsquid:S1192Ò
+"KDefine a constant instead of duplicating this literal "navigateUp" 4 times.(‰©ı¶ùÿÿÿÿ
+osquid:S1192"WDefine a constant instead of duplicating this literal "getInternalFrameBorder" 3 times.(¸ş½«
+gsquid:S1192†"JDefine a constant instead of duplicating this literal "control A" 3 times.(îŸ¼Øşÿÿÿÿ
+hsquid:S1192Ú"KDefine a constant instead of duplicating this literal "ctrl KP_UP" 4 times.(ˆõÁ²ûÿÿÿÿ
+gsquid:S1192ƒ"ODefine a constant instead of duplicating this literal "control INSERT" 7 times.(ÏËÁĞ
+gsquid:S1192	"JDefine a constant instead of duplicating this literal "increment" 4 times.(ÙİŸÙÿÿÿÿÿ
+dsquid:S1192‰"LDefine a constant instead of duplicating this literal "shift RIGHT" 6 times.(ÙÏ³¡
+gsquid:S1192ù"ODefine a constant instead of duplicating this literal "ctrl shift END" 3 times.(òŞßÂ
+csquid:S1192ˆ"KDefine a constant instead of duplicating this literal "shift LEFT" 6 times.(—åË­
+bsquid:S1192‘"JDefine a constant instead of duplicating this literal "shift END" 7 times.(²™¼
+nsquid:S1192Ø"QDefine a constant instead of duplicating this literal "ctrl shift KP_UP" 3 times.(œ¥Â¾üÿÿÿÿ
+rsquid:S1192Ê"ZDefine a constant instead of duplicating this literal "selectNextExtendSelection" 4 times.(Åşóœ
+`squid:S1192Ô"HDefine a constant instead of duplicating this literal "pressed" 4 times.(…ùÇÜ
+psquid:S1192è"SDefine a constant instead of duplicating this literal "ctrl shift KP_LEFT" 3 times.(§Û¡çûÿÿÿÿ
+esquid:S1192â"MDefine a constant instead of duplicating this literal "ctrl KP_DOWN" 4 times.(—†ô˜
+fsquid:S1192ú"IDefine a constant instead of duplicating this literal "ctrl END" 4 times.(Ğ©ŠÄùÿÿÿÿ
+nsquid:S1192ë"QDefine a constant instead of duplicating this literal "selectNextColumn" 4 times.(éØş©ÿÿÿÿÿ
+nsquid:S1192ô"VDefine a constant instead of duplicating this literal "win.sound.menuCommand" 3 times.(æ”›Â
+asquid:S1192Õ"IDefine a constant instead of duplicating this literal "released" 4 times.(µ¸õ±
+asquid:S1192ı"JDefine a constant instead of duplicating this literal "control C" 3 times.(ÒÉ“,
+hsquid:S1192„"KDefine a constant instead of duplicating this literal "ctrl SLASH" 3 times.(öàûÿÿÿÿ
+|squid:S1192é"_Define a constant instead of duplicating this literal "selectPreviousColumnChangeLead" 4 times.(ß§¬¹ÿÿÿÿÿ
+dsquid:S1192–"LDefine a constant instead of duplicating this literal "ctrl DELETE" 3 times.(ÃÂÍÕ
+ksquid:S1192Û"NDefine a constant instead of duplicating this literal "selectNextRow" 4 times.(ı“œ‚ùÿÿÿÿ
+ssquid:S1192ñ"[Define a constant instead of duplicating this literal "selectNextColumnChangeLead" 4 times.(É¢«ë
+fsquid:S1192›"NDefine a constant instead of duplicating this literal "activeCaption" 3 times.(”ë´ê
+ysquid:S1192Ù"\Define a constant instead of duplicating this literal "selectPreviousRowChangeLead" 4 times.(ÈİÄûÿÿÿÿ
+^squid:S1192"FDefine a constant instead of duplicating this literal "PASTE" 7 times.(¬‡± 
+osquid:S1192å	"WDefine a constant instead of duplicating this literal "negativeBlockIncrement" 3 times.(•Êò
+ksquid:S1192"NDefine a constant instead of duplicating this literal "shift PAGE_UP" 4 times.(ã¢Îùûÿÿÿÿ
+asquid:S1192"IDefine a constant instead of duplicating this literal "KP_DOWN" 13 times.(Å¡Í¹
+fsquid:S1192ˆ"IDefine a constant instead of duplicating this literal "extendTo" 3 times.(îßÑúÿÿÿÿ
+gsquid:S1192Õ"ODefine a constant instead of duplicating this literal "released SPACE" 4 times.(µ¸õ±
+bsquid:S1192Ÿ	"JDefine a constant instead of duplicating this literal "decrement" 4 times.(øŒïÒ
+dsquid:S1192Ë"GDefine a constant instead of duplicating this literal "ctrl V" 4 times.(ŸÀĞ¤ùÿÿÿÿ
+gsquid:S1192é"JDefine a constant instead of duplicating this literal "ctrl LEFT" 4 times.(ß§¬¹ÿÿÿÿÿ
+jsquid:S1192…"MDefine a constant instead of duplicating this literal "shift DELETE" 7 times.(›úö™şÿÿÿÿ
+bsquid:S1192á"JDefine a constant instead of duplicating this literal "ctrl DOWN" 4 times.(ÙìçÍ
+isquid:S1192ü	"LDefine a constant instead of duplicating this literal "scrollRight" 3 times.(ß¿…²ùÿÿÿÿ
+osquid:S1192ß	"WDefine a constant instead of duplicating this literal "positiveBlockIncrement" 3 times.(ö–ÃÁ
+msquid:S1192õ"PDefine a constant instead of duplicating this literal "ctrl shift HOME" 3 times.(•Ø¥Íıÿÿÿÿ
+fsquid:S1192æ"NDefine a constant instead of duplicating this literal "shift KP_LEFT" 3 times.(‰å é
+dsquid:S1192”"GDefine a constant instead of duplicating this literal "ctrl H" 4 times.(Î£½»ÿÿÿÿÿ
+psquid:S1192ü"XDefine a constant instead of duplicating this literal "scrollUpExtendSelection" 5 times.(¬ãµÍ
+gsquid:S1192ö"JDefine a constant instead of duplicating this literal "ctrl HOME" 4 times.(Ñà’Ğøÿÿÿÿ
+esquid:S1192Š"MDefine a constant instead of duplicating this literal "control LEFT" 3 times.(şøÌ
+msquid:S1192ã"UDefine a constant instead of duplicating this literal "selectPreviousColumn" 4 times.(œıÖê
+bsquid:S1192ş"JDefine a constant instead of duplicating this literal "control V" 3 times.(ï››í
+asquid:S1192›"IDefine a constant instead of duplicating this literal "KP_LEFT" 14 times.(ÒÑÂÂ
+jsquid:S1192ƒ"SDefine a constant instead of duplicating this literal "ctrl shift PAGE_UP" 4 times.(Øş¢j
+hsquid:S1192"PDefine a constant instead of duplicating this literal "inactiveCaption" 3 times.(æÓÛú
+msquid:S1192‚"PDefine a constant instead of duplicating this literal "shift PAGE_DOWN" 4 times.(¼°¤Ãÿÿÿÿÿ
+hsquid:S1192‰"QDefine a constant instead of duplicating this literal "ctrl shift SPACE" 3 times.(ä‰®,
+usquid:S1192İ"]Define a constant instead of duplicating this literal "selectNextRowExtendSelection" 8 times.(Òú¦
+‰squid:S1192˜"lDefine a constant instead of duplicating this literal "sun.swing.plaf.windows.ClassicSortArrowIcon" 4 times.(„ÿ¼°şÿÿÿÿ
+_squid:S1192ˆ"GDefine a constant instead of duplicating this literal "ESCAPE" 8 times.(¤Ôü
+ksquid:S1192×"NDefine a constant instead of duplicating this literal "ctrl shift UP" 3 times.(Çå´Ëıÿÿÿÿ
+jsquid:S1192Ó"RDefine a constant instead of duplicating this literal "selectPreviousRow" 4 times.(Ã¾“™
+gsquid:S1192ÿ"JDefine a constant instead of duplicating this literal "control X" 3 times.(ã®”èùÿÿÿÿ
+isquid:S1192Ö"LDefine a constant instead of duplicating this literal "shift KP_UP" 3 times.(Ã¬óúÿÿÿÿ
+`squid:S1192"HDefine a constant instead of duplicating this literal "#808080" 3 times.(æÓÛú
+dsquid:S1192"GDefine a constant instead of duplicating this literal "KP_UP" 13 times.(Â ÚÒùÿÿÿÿ
+psquid:S1192á"XDefine a constant instead of duplicating this literal "selectNextRowChangeLead" 4 times.(ÙìçÍ
+zsquid:S1192Ê"bDefine a constant instead of duplicating this literal "javax.swing.plaf.BorderUIResource" 4 times.(†üÊÚ
+msquid:S1192„"UDefine a constant instead of duplicating this literal "ctrl shift PAGE_DOWN" 4 times.(îØÃü
+fsquid:S1192ò"NDefine a constant instead of duplicating this literal "ctrl KP_RIGHT" 4 times.(Òğä¡
+msquid:S1192…"PDefine a constant instead of duplicating this literal "ctrl BACK_SLASH" 4 times.(›¤’úÿÿÿÿ
+gsquid:S1192†"ODefine a constant instead of duplicating this literal "addToSelection" 3 times.(¡ø¤ä
+{squid:S1192"dDefine a constant instead of duplicating this literal "javax.swing.plaf.basic.BasicBorders" 6 times.(Ø¤”(
+csquid:S1192’"KDefine a constant instead of duplicating this literal "BACK_SPACE" 5 times.(»œÇ¥
+dsquid:S1192Ì"GDefine a constant instead of duplicating this literal "ctrl X" 4 times.(Óè™›üÿÿÿÿ
+csquid:S1192û	"KDefine a constant instead of duplicating this literal "scrollLeft" 3 times.(æíı
+Šsquid:S1192‘"sDefine a constant instead of duplicating this literal "com.sun.java.swing.plaf.windows.WindowsIconFactory" 6 times.(Ì¼•d
+esquid:S1192ş"MDefine a constant instead of duplicating this literal "ctrl PAGE_UP" 6 times.( Èá¹
+jsquid:S1192Ğ
+"MDefine a constant instead of duplicating this literal "navigateLeft" 4 times.(Øûƒ¼üÿÿÿÿ
+csquid:S1192œ"FDefine a constant instead of duplicating this literal "ENTER" 7 times.(åÁìüıÿÿÿÿ
+ksquid:S1192‡"SDefine a constant instead of duplicating this literal "control BACK_SLASH" 6 times.(ºí‡¢
+qsquid:S1192ğ"TDefine a constant instead of duplicating this literal "ctrl shift KP_RIGHT" 3 times.(êıÅİùÿÿÿÿ
+nsquid:S1192á	"VDefine a constant instead of duplicating this literal "negativeUnitIncrement" 8 times.(÷•ı¶
+|squid:S1488©"dImmediately return this expression instead of assigning it to the temporary variable "lazyDefaults".(®—”’
+vsquid:S1488ã"^Immediately return this expression instead of assigning it to the temporary variable "rgbval".(š×ğ¢
+Osquid:S2589È"7Remove this expression which always evaluates to "true"(ä”³ã
+Osquid:S2589µ"7Remove this expression which always evaluates to "true"(ä”³ã
+\squid:S2259"?A "NullPointerException" could be thrown; "c" is nullable here.(ÿÎ½©üÿÿÿÿ
+Esquid:S1604ô"(Make this anonymous inner class a lambda(†©¥àşÿÿÿÿ
+osquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êäåöüÿÿÿÿ
+jsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á½”
+isquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ºŠ
+jsquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œèğ÷
+osquid:S00117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øß‘óùÿÿÿÿ
+jsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Í¿
+osquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¼¬¤ùÿÿÿÿ
+osquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éäØûúÿÿÿÿ
+jsquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÓÀû
+osquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾İÎ”úÿÿÿÿ
+osquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å·Åöùÿÿÿÿ
+osquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ä¸şÿÿÿÿÿ
+jsquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷¤‡
+osquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‹äÿşÿÿÿÿ
+jsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Éá‡
+osquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÁë¤øÿÿÿÿ
+jsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‚áü
+osquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¨„°üÿÿÿÿ
+jsquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò„ù¾
+isquid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óµæ'
+jsquid:S00117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Äı
+osquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ˆçıÿÿÿÿ
+osquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°®Ÿúÿÿÿÿ
+osquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìõ‰Éÿÿÿÿÿ
+osquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áâ­üÿÿÿÿ
+jsquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ„¢—
+osquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÛ¨ëøÿÿÿÿ
+jsquid:S00117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìİùÂ
+jsquid:S00117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ĞÂå
+jsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¯±
+3squid:S1700Ì"Rename field "xpValue"(¬…ûµşÿÿÿÿ
+<squid:S1659…"%Declare "dllName" on a separate line.(µ¦«{
+>squid:S1659…"'Declare "colorName" on a separate line.(µ¦«{
+=squid:S1659…"&Declare "sizeName" on a separate line.(µ¦«{
+qsquid:S1450…"ZRemove the "themeActive" field and declare it as a local variable in the relevant methods.(µ¦«{
+msquid:S1450…"VRemove the "dllName" field and declare it as a local variable in the relevant methods.(µ¦«{
+osquid:S1450…"XRemove the "colorName" field and declare it as a local variable in the relevant methods.(µ¦«{
+nsquid:S1450…"WRemove the "sizeName" field and declare it as a local variable in the relevant methods.(µ¦«{
+vsquid:S1450†"YRemove the "aaSettings" field and declare it as a local variable in the relevant methods.(ÙÓº˜ÿÿÿÿÿ
+Wsquid:S1161®":Add the "@Override" annotation above this method signature(·òşÿÿÿÿ
+Ssquid:S2696µ"6Make the enclosing method "static" or remove this set.(­ëôÿÿÿÿÿ
+Nsquid:S2696·"6Make the enclosing method "static" or remove this set.(š®°«
+Ysquid:S2130Â"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ƒ”­“
+Rsquid:S1161İ":Add the "@Override" annotation above this method signature(Ò‘°‰
+Wsquid:S1161—":Add the "@Override" annotation above this method signature(œº¶ëûÿÿÿÿ
+tsquid:S2177Ä"WRename this method; there is a "private" method in the parent class with the same name.(õ¸æŒúÿÿÿÿ
+Rsquid:S1161Ê":Add the "@Override" annotation above this method signature(İ¢èÙ
+Nsquid:S2696ó"6Make the enclosing method "static" or remove this set.(°ÇÏ
+;squid:S2129´	"#Remove this "Character" constructor(ÁàŞƒ
+Zsquid:CallToDeprecatedMethod´	"1Remove this use of "Character"; it is deprecated.(ÁàŞƒ
+:squid:S2129µ	"#Remove this "Character" constructor(Öû´
+Ysquid:CallToDeprecatedMethodµ	"1Remove this use of "Character"; it is deprecated.(Öû´
+Usquid:S1197‘"8Move the array designator from the variable to the type.(Íƒ·ıÿÿÿÿ
+Rsquid:S1161ç":Add the "@Override" annotation above this method signature(’ã´î
+@squid:S1125‰"(Remove the literal "true" boolean value.(â‘—€
+@squid:S1125"(Remove the literal "true" boolean value.(â‘—€
+?squid:S1185Õ"(Remove this method to simply inherit it.(ğœ¡
+
+Qsquid:S1161Õ":Add the "@Override" annotation above this method signature(ğœ¡
+
+Wsquid:S1161ß":Add the "@Override" annotation above this method signature(ŠÄ†îıÿÿÿÿ
+]squid:HiddenFieldCheckà":Rename "style" which hides the field declared at line 136.(ÚøØá
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(ÎŸ†‡øÿÿÿÿ
+Lsquid:S1948´"/Make "audioRunnable" transient or serializable.(÷È×Çùÿÿÿÿ
+osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(”¨Ù‘ûÿÿÿÿ
+Bsquid:S1659Ì"%Declare "xpValue" on a separate line.(¬…ûµşÿÿÿÿ
+psquid:ModifiersOrderCheckÏ"EReorder the modifiers to comply with the Java Language Specification.(ı°Ò™ûÿÿÿÿ
+Wsquid:S1161…":Add the "@Override" annotation above this method signature(Ñº¿Âÿÿÿÿÿ
+Wsquid:S1161–":Add the "@Override" annotation above this method signature(Ñº¿Âÿÿÿÿÿ
+Wsquid:S1161¯":Add the "@Override" annotation above this method signature(Ñº¿Âÿÿÿÿÿ
+Wsquid:S1161´":Add the "@Override" annotation above this method signature(Åƒ™úÿÿÿÿ
+Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(˜˜Æä
+dsquid:CallToDeprecatedMethod¯"6Remove this use of "getFontMetrics"; it is deprecated.(”·‘•ıÿÿÿÿ
+Wsquid:S1161À":Add the "@Override" annotation above this method signature(œãİ†üÿÿÿÿ
+Hsquid:S1068~"1Remove this unused "updatePending" private field.(Îª‡ş
+Fsquid:S1068…"/Remove this unused "themeActive" private field.(µ¦«{
+Bsquid:S1068…"+Remove this unused "dllName" private field.(µ¦«{
+Dsquid:S1068…"-Remove this unused "colorName" private field.(µ¦«{
+Csquid:S1068…",Remove this unused "sizeName" private field.(µ¦«{
+Ksquid:S1068†".Remove this unused "aaSettings" private field.(ÙÓº˜ÿÿÿÿÿ
+Psquid:S1068ö"3Remove this unused "desktopProperty" private field.(Ôá÷îşÿÿÿÿ
+hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(ÆõƒÊùÿÿÿÿ
+hsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ÆõƒÊùÿÿÿÿ

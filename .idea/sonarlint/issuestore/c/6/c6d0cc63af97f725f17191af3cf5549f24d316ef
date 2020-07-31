@@ -1,0 +1,18 @@
+
+Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(÷ıá…ÿÿÿÿÿ
+Rsquid:S1141¯"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+}squid:UselessImportCheck/"TRemove this unnecessary import: same package classes are always implicitly imported.(ÀÜ×†øÿÿÿÿ
+squid:S1186d"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°Ö•”ùÿÿÿÿ
+gsquid:S1149V"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÿü­†
+‚squid:S1149˜"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Àå‹§ıÿÿÿÿ
+‚squid:S1149²"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‘ÓŠ‚üÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheck}"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(à¦¼œÿÿÿÿÿ
+]squid:S1854¡"@Remove this useless assignment to local variable "unknownEntry".(“µ¶ûÿÿÿÿÿ
+?squid:S2165å"'Remove this nullification of "catfile".(úê¦
+xsquid:CallToDeprecatedMethodİ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+a"squid:ObjectFinalizeOverridenCheckİ"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+osquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(©Â«ïıÿÿÿÿ
+Asquid:S1659û"$Declare "nextch" on a separate line.(µ¥£şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

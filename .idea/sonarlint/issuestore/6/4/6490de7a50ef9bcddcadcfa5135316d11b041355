@@ -1,0 +1,8 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ˆŒ™ş
+Asquid:S1125³")Remove the literal "false" boolean value.(Ğëö
+¤%squid:RedundantThrowsDeclarationCheckó"rRemove the declaration of thrown exception 'java.security.InvalidParameterException' which is a runtime exception.(å±­Ó
+Rsquid:S1133ò"5Do not forget to remove this deprecated code someday.(„‚¤ıÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckÄ"rRemove the declaration of thrown exception 'java.security.InvalidParameterException' which is a runtime exception.(å±­Ó
+Rsquid:S1133Ã"5Do not forget to remove this deprecated code someday.(È¬ëÕıÿÿÿÿ
+ksquid:S2975Ğ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë

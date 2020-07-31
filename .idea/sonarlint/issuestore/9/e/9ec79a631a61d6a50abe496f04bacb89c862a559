@@ -1,0 +1,61 @@
+
+9squid:S1643Ë"Use a StringBuilder instead.(Å†âÜùÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ßÕ¬àüÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(¬øªûÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÁ"XRefactor the code in order to not assign to this loop counter from within the loop body.(û¢¸£şÿÿÿÿ
+Qsquid:S1191("5Use classes from the Java API instead of Sun classes.(‚—€™øÿÿÿÿ
+lsquid:S1192®"ODefine a constant instead of duplicating this literal "unknown type: " 4 times.(˜Õí¥øÿÿÿÿ
+‚squid:S1192¢"eDefine a constant instead of duplicating this literal "Ljava/lang/invoke/LambdaForm$Hidden;" 3 times.(İâó£úÿÿÿÿ
+dsquid:S1192"LDefine a constant instead of duplicating this literal "invokeBasic" 5 times.(ô°äÊ
+fsquid:S1192—	"IUse already-defined constant 'CLS' instead of duplicating its value here.(”¡»Ğüÿÿÿÿ
+`squid:S1192û
+"IUse already-defined constant 'OBJ' instead of duplicating its value here.(åÈü
+hsquid:S1301´"KReplace this "switch" statement by "if" statements to increase readability.(¼•´óıÿÿÿÿ
+ksquid:S2095µ"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ğ‰Çåúÿÿÿÿ
+u
+squid:S135²"YReduce the total number of break and continue statements in this loop to use at most one.(Ä°ğıüÿÿÿÿ
+^squid:S2259Å	"AA "NullPointerException" could be thrown; "arg" is nullable here.(ÒÖßşÿÿÿÿ
+@squid:S1604­"(Make this anonymous inner class a lambda(’­Ûü
+jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û”ùÛ
+jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÉÈ
+osquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅ“Äøÿÿÿÿ
+jsquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ˆ×
+jsquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹â
+jsquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÉÈ
+jsquid:S00117˜	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¥¶Á
+€squid:S3008 "hRename this field "STATICALLY_INVOCABLE_PACKAGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒöÅğ
+ˆsquid:S1845î"kRename method "cpPatches" to prevent any misunderstanding/clash with field "cpPatches" defined on line 222.(úÏÿÿÿÿÿÿ
+wsquid:S00115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£÷õ‚úÿÿÿÿ
+bsquid:S3027b"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(ˆşÚ—ÿÿÿÿÿ
+psquid:ModifiersOrderCheck“"EReorder the modifiers to comply with the Java Language Specification.(ö¨Íêÿÿÿÿÿ
+psquid:ModifiersOrderCheck•"EReorder the modifiers to comply with the Java Language Specification.(ÿ¿°ùÿÿÿÿ
+P
+squid:S106 "9Replace this use of System.out or System.err by a logger.(èÛ’ä
+P
+squid:S106³"9Replace this use of System.out or System.err by a logger.(Ùçø·
+Isquid:S1135é"2Complete the task associated to this TODO comment.(ïã¤	
+"squid:SwitchLastCaseIsDefaultCheck´"YComplete cases by adding the missing enum constants or add a default case to this switch.(¼•´óıÿÿÿÿ
+Isquid:S1135•"2Complete the task associated to this TODO comment.(–úÁ}
+ksquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(ƒöÅğ
+osquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ë´‡·øÿÿÿÿ
+\squid:S1134±"DTake the required action to fix the issue indicated by this comment.(ıíô’
+[squid:S1134¶"DTake the required action to fix the issue indicated by this comment.(ß×Šs
+Ysquid:S1126À"AReplace this if-then-else statement by a single return statement.(Ì“İŸ
+[squid:S1134Ì"DTake the required action to fix the issue indicated by this comment.(ß×Šs
+Bsquid:S1181–"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckµ""Add a default case to this switch.(äŒ€
+osquid:S3776ÿ	"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÉõØ‰ıÿÿÿÿ
+Rsquid:S1854Ã":Remove this useless assignment to local variable "sptype".(£šÓ”
+Csquid:S1481Ã"+Remove this unused "sptype" local variable.(£šÓ”
+Ysquid:UnusedPrivateMethodë"3Remove this unused private "freeFrameLocal" method.(éıùÜ
+Fsquid:S1068B"*Remove this unused "LL_SIG" private field.(‹ÜÁ¹şÿÿÿÿ
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(¥ÿÑ„ûÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òãçı
+csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(¹ğå¼
+csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(¹ğå¼
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ÒîŠÓ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ø„£«ıÿÿÿÿ
+csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(üƒ›¡
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(ÊºÙŞüÿÿÿÿ
+hsquid:CommentedOutCodeLine–
+"<This block of commented-out lines of code should be removed.(›Íóùÿÿÿÿ

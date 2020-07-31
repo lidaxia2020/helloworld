@@ -1,0 +1,5 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ƒ·¸ëúÿÿÿÿ
+wsquid:S001154"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ÏÃıÿÿÿÿ
+Psquid:S1161H":Add the "@Override" annotation above this method signature(¸É
+Osquid:S1197L"8Move the array designator from the variable to the type.(¨€ÿâ

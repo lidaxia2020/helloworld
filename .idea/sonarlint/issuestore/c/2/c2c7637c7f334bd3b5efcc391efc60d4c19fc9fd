@@ -1,0 +1,24 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+`squid:S1192¾"HDefine a constant instead of duplicating this literal "error: " 3 times.(üØ—­
+Qsquid:S4973›"9Use the "equals" method if value comparison was intended.(íº©Ä
+Xsquid:S2259¦"@A "NullPointerException" could be thrown; "br" is nullable here.(µÖ€’
+dsquid:S00112ò"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+ssquid:S4144Î"VUpdate this method so that its implementation is not identical to "error" on line 300.(»¢÷œúÿÿÿÿ
+gsquid:S00116L"ORename this field "m_pw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å×ìô
+wsquid:S1149×"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(´¼Á‘
+T
+squid:S106f"9Replace this use of System.out or System.err by a logger.(¬…ê¤üÿÿÿÿ
+osquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(˜Šïÿÿÿÿÿ
+U
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(ãÑ¨“ÿÿÿÿÿ
+Osquid:S1135ü"2Complete the task associated to this TODO comment.(®‰ïŞùÿÿÿÿ
+\squid:S3358"DExtract this nested ternary operation into an independent statement.(Ø¤ö²
+csquid:S1764›"KCorrect one of the identical sub-expressions on both sides of operator "!="(íº©Ä
+U
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(ãÑ¨“ÿÿÿÿÿ
+Jsquid:S1135Ç"2Complete the task associated to this TODO comment.(Ú‡­œ
+Jsquid:S1135Ğ"2Complete the task associated to this TODO comment.(ğ’
+Gsquid:S2093“"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(ó¬Ò‡

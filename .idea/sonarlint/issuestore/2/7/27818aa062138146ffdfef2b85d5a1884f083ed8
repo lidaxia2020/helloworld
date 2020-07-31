@@ -1,0 +1,4 @@
+
+osquid:S3776Ž"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(„®†çúÿÿÿÿ
+^squid:S2142Ÿ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2276ž"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ

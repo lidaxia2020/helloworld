@@ -1,0 +1,69 @@
+
+Qsquid:S1191/"5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
+^squid:S1192›"FDefine a constant instead of duplicating this literal "STYLE" 3 times.(‰ÌÄÿ
+dsquid:S1192š"GDefine a constant instead of duplicating this literal "SCRIPT" 3 times.(‚€×—øÿÿÿÿ
+hsquid:S1192­"KDefine a constant instead of duplicating this literal "ISO-8859-1" 5 times.(ï™àıÿÿÿÿ
+^squid:S1192Ò"FDefine a constant instead of duplicating this literal "=\"\"" 3 times.(ºË²ä
+asquid:S3973Ô"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+Ÿsquid:S2681Ö"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(å¡ó
+Lsquid:S1133|"5Do not forget to remove this deprecated code someday.(“«ª¿
+Osquid:MissingDeprecatedCheck|"'Add the missing @Deprecated annotation.(“«ª¿
+osquid:S00116‡"QRename this field "_xhtml" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Û¨îúÿÿÿÿ
+xsquid:S00115Š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ò»ûÙúÿÿÿÿ
+wsquid:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôœÀ
+dsquid:CallToDeprecatedMethod}"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(‰É¸·
+\squid:CallToDeprecatedMethodœ"4Remove this use of "OutputFormat"; it is deprecated.(Ì‰„j
+esquid:CallToDeprecatedMethod"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(±ŒÚ¶
+bsquid:CallToDeprecatedMethod­"4Remove this use of "OutputFormat"; it is deprecated.(ï™àıÿÿÿÿ
+\squid:CallToDeprecatedMethod­".Remove this use of "Method"; it is deprecated.(ï™àıÿÿÿÿ
+bsquid:CallToDeprecatedMethod¹"4Remove this use of "OutputFormat"; it is deprecated.(ä•¾øÿÿÿÿ
+bsquid:CallToDeprecatedMethod»"4Remove this use of "OutputFormat"; it is deprecated.(ÁÍ°–ÿÿÿÿÿ
+\squid:CallToDeprecatedMethod»".Remove this use of "Method"; it is deprecated.(ÁÍ°–ÿÿÿÿÿ
+]squid:CallToDeprecatedMethodÌ"4Remove this use of "OutputFormat"; it is deprecated.(½şŠÙ
+bsquid:CallToDeprecatedMethodÎ"4Remove this use of "OutputFormat"; it is deprecated.(ÁÍ°–ÿÿÿÿÿ
+\squid:CallToDeprecatedMethodÎ".Remove this use of "Method"; it is deprecated.(ÁÍ°–ÿÿÿÿÿ
+bsquid:CallToDeprecatedMethodß"4Remove this use of "OutputFormat"; it is deprecated.(¦ÀÊ€úÿÿÿÿ
+bsquid:CallToDeprecatedMethodá"4Remove this use of "OutputFormat"; it is deprecated.(ÁÍ°–ÿÿÿÿÿ
+\squid:CallToDeprecatedMethodá".Remove this use of "Method"; it is deprecated.(ÁÍ°–ÿÿÿÿÿ
+Rsquid:S1161æ":Add the "@Override" annotation above this method signature(³§ÃÜ
+]squid:CallToDeprecatedMethodæ"4Remove this use of "OutputFormat"; it is deprecated.(³§ÃÜ
+bsquid:CallToDeprecatedMethodè"4Remove this use of "OutputFormat"; it is deprecated.(Ä‡²‹úÿÿÿÿ
+\squid:CallToDeprecatedMethodè".Remove this use of "Method"; it is deprecated.(Ä‡²‹úÿÿÿÿ
+osquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(™ÊÀŞÿÿÿÿÿ
+\squid:CallToDeprecatedMethodû"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Xsquid:CallToDeprecatedMethodá"/Remove this use of "HTMLdtd"; it is deprecated.(äöÊŸ
+Xsquid:CallToDeprecatedMethodæ"/Remove this use of "HTMLdtd"; it is deprecated.(ô®ûÛ
+]squid:CallToDeprecatedMethodñ"/Remove this use of "HTMLdtd"; it is deprecated.(ëÏù€ùÿÿÿÿ
+Asquid:S1905û")Remove this unnecessary cast to "String".(Øø™É
+osquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ºö—øÿÿÿÿ
+Csquid:S1172¶"&Remove these unused method parameters.(ºö—øÿÿÿÿ
+\squid:CallToDeprecatedMethodº"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Xsquid:CallToDeprecatedMethodá"/Remove this use of "HTMLdtd"; it is deprecated.(¶à¥£
+Wsquid:S1161ÿ":Add the "@Override" annotation above this method signature(éìåÁÿÿÿÿÿ
+\squid:CallToDeprecatedMethod‚"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÿ‚Á
+^squid:CallToDeprecatedMethod"5Remove this use of "AttributeList"; it is deprecated.(ÿ‚Á
+\squid:CallToDeprecatedMethod”"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Xsquid:CallToDeprecatedMethodİ"/Remove this use of "HTMLdtd"; it is deprecated.(®—˜²
+Xsquid:CallToDeprecatedMethodâ"/Remove this use of "HTMLdtd"; it is deprecated.(ê›øë
+]squid:CallToDeprecatedMethodí"/Remove this use of "HTMLdtd"; it is deprecated.(‘ÌÄÙÿÿÿÿÿ
+jsquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(²ß”Ş
+Jsquid:S1172«"2Remove this unused method parameter "rootTagName".(²ß”Ş
+]squid:CallToDeprecatedMethod¹"/Remove this use of "HTMLdtd"; it is deprecated.(ÈĞ»ÿÿÿÿÿ
+Xsquid:CallToDeprecatedMethodº"/Remove this use of "HTMLdtd"; it is deprecated.(™¢¢÷
+Xsquid:CallToDeprecatedMethod¼"/Remove this use of "HTMLdtd"; it is deprecated.(û‡É
+]squid:CallToDeprecatedMethod½"/Remove this use of "HTMLdtd"; it is deprecated.( ÉÂıÿÿÿÿ
+osquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(ğ²ˆçÿÿÿÿÿ
+\squid:CallToDeprecatedMethodü"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Xsquid:CallToDeprecatedMethodÅ"/Remove this use of "HTMLdtd"; it is deprecated.(®—˜²
+Xsquid:CallToDeprecatedMethodÊ"/Remove this use of "HTMLdtd"; it is deprecated.(ê›øë
+]squid:CallToDeprecatedMethodÖ"/Remove this use of "HTMLdtd"; it is deprecated.(‘ÌÄÙÿÿÿÿÿ
+Xsquid:CallToDeprecatedMethodÛ"/Remove this use of "HTMLdtd"; it is deprecated.(“óÂ¤
+Vsquid:S1854‘"9Remove this useless assignment to local variable "state".(ûƒ´¯ıÿÿÿÿ
+Rsquid:S1161‹":Add the "@Override" annotation above this method signature(İÂò¡
+\squid:CallToDeprecatedMethod"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
+Xsquid:CallToDeprecatedMethod˜"/Remove this use of "HTMLdtd"; it is deprecated.(•¸­Û
+_squid:S3027¢"GPut single-quotes around '\"' to use the faster "indexOf(char)" method.(²Ø‡Â
+Csquid:S1481®"+Remove this unused "buffer" local variable.(ôœÀ
+Asquid:S1481"*Remove this unused "state" local variable.(ÁÌôM
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

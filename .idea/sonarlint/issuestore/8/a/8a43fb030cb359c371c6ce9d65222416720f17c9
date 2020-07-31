@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
+}squid:UselessImportCheck#"TRemove this unnecessary import: same package classes are always implicitly imported.(å éşÿÿÿÿ
+}squid:UselessImportCheck$"TRemove this unnecessary import: same package classes are always implicitly imported.(°Š ÿÿÿÿÿ
+}squid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(ÁĞ˜Úÿÿÿÿÿ
+}squid:UselessImportCheck&"TRemove this unnecessary import: same package classes are always implicitly imported.(ş™ºßùÿÿÿÿ
+wsquid:UselessImportCheck'"TRemove this unnecessary import: same package classes are always implicitly imported.(üÜ¶
+wsquid:S00115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í¯ôÖÿÿÿÿÿ
+osquid:ModifiersOrderCheckF"EReorder the modifiers to comply with the Java Language Specification.(Í¯ôÖÿÿÿÿÿ
+gsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(½ìáÊşÿÿÿÿ

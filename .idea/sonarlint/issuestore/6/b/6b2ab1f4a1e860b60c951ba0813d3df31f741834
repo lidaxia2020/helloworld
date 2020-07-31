@@ -1,0 +1,41 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÃêØ»ùÿÿÿÿ
+_squid:S1192"HDefine a constant instead of duplicating this literal "Error: " 3 times.(‰ì¢6
+squid:S1192Á"dDefine a constant instead of duplicating this literal "The login module is not initialized" 3 times.(Çç¶ÿÿÿÿÿ
+msquid:S1192Ê"UDefine a constant instead of duplicating this literal "Error using keystore" 3 times.(¸ü×É
+ssquid:S1192"[Define a constant instead of duplicating this literal " information from the user" 3 times.(±ƒË
+‹squid:S1192"nDefine a constant instead of duplicating this literal " is not available to retrieve authentication " 3 times.(ø–Æ‘şÿÿÿÿ
+hsquid:S1192•"PDefine a constant instead of duplicating this literal "Login cancelled" 3 times.(¨š÷¶
+tsquid:S1192 "\Define a constant instead of duplicating this literal "Error initializing keystore" 3 times.(¡Ó´
+[squid:S2583®"CChange this condition so that it does not always evaluate to "true"(ÀÜ¢ï
+Esquid:S1604—"(Make this anonymous inner class a lambda(•„òíıÿÿÿÿ
+Lsquid:S1143Õ"4Remove this throw statement from this finally block.(€¬­ô
+Lsquid:S1143ñ"4Remove this throw statement from this finally block.(€¬­ô
+Lsquid:S1143°"4Remove this throw statement from this finally block.(€¬­ô
+Usquid:S1163Õ"=Refactor this code to not throw exceptions in finally blocks.(€¬­ô
+Usquid:S1163ñ"=Refactor this code to not throw exceptions in finally blocks.(€¬­ô
+Usquid:S1163°"=Refactor this code to not throw exceptions in finally blocks.(€¬­ô
+rsquid:S1450¹"ZRemove the "sharedState" field and declare it as a local variable in the relevant methods.(¥Å‹Ì
+xsquid:S1450È"[Remove the "fromKeyStore" field and declare it as a local variable in the relevant methods.(å˜€Äøÿÿÿÿ
+squid:S1845Í"bRename field "token" to prevent any misunderstanding/clash with field "TOKEN" defined on line 167.(Å‚íéûÿÿÿÿ
+osquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ß™“øÿÿÿÿ
+Hsquid:S4524À"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(š¯¡¾øÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck¡""Add a default case to this switch.(š¯¡¾øÿÿÿÿ
+jsquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(«ğó
+osquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÍĞÇ›ûÿÿÿÿ
+]squid:S2147£"ECombine this catch with the one at line 670, which has the same body.(ï­£Ä
+vsquid:S3012Â"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¦ÏÈŒùÿÿÿÿ
+\squid:S2147é"ECombine this catch with the one at line 741, which has the same body.(ÿÒ„p
+asquid:S4201Ü"IRemove this unnecessary null check; "instanceof" returns false for nulls.(—åŸñ
+Hsquid:S4524¨"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+fsquid:S1871÷"IThis case's code block is the same as the block for the case on line 884.(”ß§åşÿÿÿÿ
+Hsquid:S4524ğ"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+Hsquid:S4524™"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
+osquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Œ‡Ëùÿÿÿÿ
+U
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(âÉÀÜüÿÿÿÿ
+U
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(ğÿŸƒüÿÿÿÿ
+Gsquid:S1068¹"/Remove this unused "sharedState" private field.(¥Å‹Ì
+csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(©º»À

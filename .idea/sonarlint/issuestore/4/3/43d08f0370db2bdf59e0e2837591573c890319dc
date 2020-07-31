@@ -1,0 +1,17 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ä Ÿﬂ˛ˇˇˇˇ
+Ksquid:S1066^"/Merge this if statement with the enclosing one.(ÈÕΩò¸ˇˇˇˇ
+Ñ"squid:ClassVariableVisibilityCheck?"QMake fName a static final constant or non-public and provide accessors if needed.(ÓƒÙñ˚ˇˇˇˇ
+è"squid:ClassVariableVisibilityCheckA"\Make fTargetNamespace a static final constant or non-public and provide accessors if needed.(Ñ≥ãà˙ˇˇˇˇ
+Ü"squid:ClassVariableVisibilityCheckH"XMake fAttributeWC a static final constant or non-public and provide accessors if needed.(ã˛º®
+ä"squid:ClassVariableVisibilityCheckJ"WMake fIDAttrName a static final constant or non-public and provide accessors if needed.(Í÷òë˚ˇˇˇˇ
+Ü"squid:ClassVariableVisibilityCheckM"XMake fAnnotations a static final constant or non-public and provide accessors if needed.(√¿≤Ë
+Usquid:S4973{"9Use the "equals" method if value comparison was intended.(‚÷å‰˝ˇˇˇˇ
+Usquid:S4973|"9Use the "equals" method if value comparison was intended.(ö‰˘≠˛ˇˇˇˇ
+Vsquid:S4973Ö"9Use the "equals" method if value comparison was intended.(‚÷å‰˝ˇˇˇˇ
+Qsquid:S4973Ü"9Use the "equals" method if value comparison was intended.(ã¢î‘
+jsquid:S3776√"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(ïÌà÷
+>squid:S1168Œ"&Return an empty array instead of null.(•πÔç
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ
+bsquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(¶ö„Ä
+hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Ïìñç¯ˇˇˇˇ

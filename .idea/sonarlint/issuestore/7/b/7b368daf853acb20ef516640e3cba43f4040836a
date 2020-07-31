@@ -1,0 +1,9 @@
+
+\squid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Íž
+asquid:UselessImportCheck!">Remove this unused import 'java.util.function.ToLongFunction'.(å¼úx
+asquid:UselessImportCheck "=Remove this unused import 'java.util.function.ToIntFunction'.(§÷Ù
+gsquid:UselessImportCheck">Remove this unused import 'java.util.function.BinaryOperator'.(Žžº÷ùÿÿÿÿ
+csquid:UselessImportCheck"@Remove this unused import 'java.util.function.ToDoubleFunction'.(÷½½
+=squid:S1948N"&Make "real" transient or serializable.(åŒÿØ
+jsquid:ModifiersOrderCheckJ"EReorder the modifiers to comply with the Java Language Specification.(®Ãà¹
+[squid:S3358Y"DExtract this nested ternary operation into an independent statement.(ÇÓˆ™

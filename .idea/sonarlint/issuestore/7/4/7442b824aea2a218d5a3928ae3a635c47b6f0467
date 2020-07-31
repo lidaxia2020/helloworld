@@ -1,0 +1,16 @@
+
+Qsquid:S11914"5Use classes from the Java API instead of Sun classes.(°¿”Œúÿÿÿÿ
+esquid:S1192É"NDefine a constant instead of duplicating this literal "user.timezone" 3 times.(ÚÂªO
+?squid:S1604ë"(Make this anonymous inner class a lambda(ÆŞÖ
+osquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¶Üöÿÿÿÿÿ
+osquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çâæ×ùÿÿÿÿ
+isquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÑ×z
+Ksquid:S3077Ñ".Remove the "volatile" keyword from this field.(¨÷Äüÿÿÿÿ
+Ksquid:S3077×".Remove the "volatile" keyword from this field.(‰èã‚ùÿÿÿÿ
+fsquid:S00116Ğ"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ŞÒï
+psquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(‰Ğ–¥üÿÿÿÿ
+ksquid:ModifiersOrderCheckÌ"EReorder the modifiers to comply with the Java Language Specification.(¾Ú‰“
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Êö–”üÿÿÿÿ
+psquid:S2975®"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
+osquid:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ö°¨Šÿÿÿÿÿ
+_squid:UnusedPrivateMethod"4Remove this unused private "getDisplayNames" method.(¥‹¸Ìøÿÿÿÿ

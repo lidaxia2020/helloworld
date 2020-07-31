@@ -1,0 +1,16 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+Usquid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ
+csquid:UselessImportCheck":Remove this unused import 'java.util.EmptyStackException'.(ì¯¨¯ÿÿÿÿÿ
+<squid:S2157V"%Add a "clone()" method to this class.(ñ®æ¦
+?squid:S5164ª""Call "remove()" on "localContext".(ÎàÈÉúÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck­"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(§¤èÆùÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckÉ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckØ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck™"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheckÆ"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(ˆåüûÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheckÆ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ˆåüûÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck–"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+vsquid:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅŸĞşÿÿÿÿ
+csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(¯²¹´
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(›¾Ò

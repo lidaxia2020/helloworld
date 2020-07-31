@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
+}squid:UselessImportCheck#"TRemove this unnecessary import: same package classes are always implicitly imported.(ş™ºßùÿÿÿÿ
+xsquid:UselessImportCheck$"TRemove this unnecessary import: same package classes are always implicitly imported.(óë³“
+}squid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(Àä­®øÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.nio.ByteBuffer'.(¿¢×±úÿÿÿÿ
+psquid:UselessImportCheck"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘İœûÿÿÿÿ
+Qsquid:S1172i"5Remove this unused method parameter "isLastFragment".(¤ó¾ıÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck"Remove this empty statement.(‘İœûÿÿÿÿ
+gsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(ø“Ğÿùÿÿÿÿ

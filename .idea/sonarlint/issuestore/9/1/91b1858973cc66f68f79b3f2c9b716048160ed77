@@ -1,0 +1,17 @@
+
+Lsquid:S1191	"5Use classes from the Java API instead of Sun classes.(ÞÄÿá
+isquid:S2095§"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(˜³Õ½úÿÿÿÿ
+u
+squid:S135Ð"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+Lsquid:S20651"0Remove the "transient" modifier from this field.(ïÐñ˜ÿÿÿÿÿ
+osquid:S00116-"RRename this field "_socket" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Õ¥Ûýÿÿÿÿ
+rsquid:S00116."URename this field "_dgramHdlr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÖÜòûÿÿÿÿ
+nsquid:S00116/"VRename this field "_sockThread" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÈì
+jsquid:S001160"RRename this field "_buffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý 
+nsquid:S001163"VRename this field "_socketPort" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¹Ê…
+Gsquid:S00108¬")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+^squid:S2142¾"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+jsquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(“–ýþ
+>squid:S1181’"!Catch Exception instead of Error.(Â¯¸êûÿÿÿÿ
+xsquid:CallToDeprecatedMethod§"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ß³ùþùÿÿÿÿ
+a"squid:ObjectFinalizeOverridenCheck§"-Do not override the Object.finalize() method.(ß³ùþùÿÿÿÿ

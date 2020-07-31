@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¿‚Œäùÿÿÿÿ
+fsquid:S1764V"JCorrect one of the identical sub-expressions on both sides of operator "/"(«àëÿûÿÿÿÿ
+hsquid:S1764"KCorrect one of the identical sub-expressions on both sides of operator "!="(›Õ¿Øüÿÿÿÿ
+asquid:S3358ë	"DExtract this nested ternary operation into an independent statement.(”äî¥şÿÿÿÿ

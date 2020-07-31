@@ -1,0 +1,10 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÐµŒëþÿÿÿÿ
+vsquid:S1488Œ"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ã•²ê
+osquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ªÙÙûÿÿÿÿ
+{squid:S1149y"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+jsquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(šø£Š
+gsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é»²
+>squid:S2129‹"!Remove this "Integer" constructor(Û›­‰ùÿÿÿÿ
+]squid:CallToDeprecatedMethod‹"/Remove this use of "Integer"; it is deprecated.(Û›­‰ùÿÿÿÿ
+Qsquid:S1068;"5Remove this unused "POLICY_TABLE_SIZE" private field.(µãáÝúÿÿÿÿ

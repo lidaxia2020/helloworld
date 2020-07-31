@@ -1,0 +1,83 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÑøŠÑ
+gsquid:S1192š"JDefine a constant instead of duplicating this literal "Algorithm" 4 times.(Ò›úœÿÿÿÿÿ
+nsquid:S1192Í"VDefine a constant instead of duplicating this literal "Encrypting element..." 3 times.(óÜ§Ù
+~squid:S1192¯"fDefine a constant instead of duplicating this literal "Context document unexpectedly null..." 7 times.(ûÔ‹À
+‹squid:S1192Ó"nDefine a constant instead of duplicating this literal "XMLCipher unexpectedly not in ENCRYPT_MODE..." 4 times.(‡Ë¯êÿÿÿÿÿ
+usquid:S1192"]Define a constant instead of duplicating this literal "Provider unexpectedly null.." 3 times.(ó¬œ’
+_squid:S1192Ö"GDefine a constant instead of duplicating this literal "empty" 35 times.(‚…º¦
+‘squid:S1192×"tDefine a constant instead of duplicating this literal "XMLCipher instance without transformation specified" 4 times.(í˜ï®ûÿÿÿÿ
+‹squid:S1192’"nDefine a constant instead of duplicating this literal "XMLCipher unexpectedly not in DECRYPT_MODE..." 3 times.(¡ı²Öÿÿÿÿÿ
+zsquid:S1192Ğ"]Define a constant instead of duplicating this literal "Element unexpectedly null..." 5 times.(½àÎøøÿÿÿÿ
+csquid:S1301”"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+csquid:S1301Ó"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+csquid:S1301í"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+bsquid:S2259İ"EA "NullPointerException" could be thrown; "element" is nullable here.(Ôóœşÿÿÿÿ
+jsquid:S2259‰"M"NullPointerException" will be thrown when invoking method "removeContent()".(‹çÙ«úÿÿÿÿ
+esquid:S2259ø"N"NullPointerException" will be thrown when invoking method "encryptElement()".(Æù‘
+\squid:S2259»"DA "NullPointerException" could be thrown; "source" is nullable here.(ä—×§
+rsquid:S2259´	"U"NullPointerException" will be thrown when invoking method "decryptElementContent()".(èš“ ıÿÿÿÿ
+esquid:S2259½	"N"NullPointerException" will be thrown when invoking method "encryptElement()".(Æù‘
+fsquid:S2259¶	"N"NullPointerException" will be thrown when invoking method "decryptElement()".(¤’‚ù
+asquid:S2259¾"DA "NullPointerException" could be thrown; "source" is nullable here.(äÉ şÿÿÿÿ
+fsquid:S2259õ"N"NullPointerException" will be thrown when invoking method "decryptElement()".(¤’‚ù
+dsquid:S00112¯
+"FDefine and throw a dedicated exception instead of using a generic one.(ö‘´®úÿÿÿÿ
+dsquid:S00112Ô
+"FDefine and throw a dedicated exception instead of using a generic one.(ö‘´®úÿÿÿÿ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(øöÓÎ
+_squid:S00112’"FDefine and throw a dedicated exception instead of using a generic one.(şÕÃ
+dsquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+ssquid:S00115†"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô™í
+xsquid:S00115–"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…­éˆûÿÿÿÿ
+ssquid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°Şƒ‚
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸î÷Å
+xsquid:S00115¢"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íšÈàÿÿÿÿÿ
+vsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(õœ™ûúÿÿÿÿ
+jsquid:S3776Ä
+"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(·‰´Ò
+Usquid:S1197â
+"8Move the array designator from the variable to the type.(Ôì‚ğøÿÿÿÿ
+Qsquid:S4719é
+"9Replace charset name argument with StandardCharsets.UTF_8(ºÒ¦
+\squid:CallToDeprecatedMethod²".Remove this use of "Base64"; it is deprecated.(ÙºŠŠùÿÿÿÿ
+Osquid:S1135—"2Complete the task associated to this TODO comment.(ÍÑØøÿÿÿÿ
+\squid:CallToDeprecatedMethodª".Remove this use of "Base64"; it is deprecated.(¬ÓÌàÿÿÿÿÿ
+osquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÃåĞÂùÿÿÿÿ
+osquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ñÃ‘áıÿÿÿÿ
+osquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ø¯çŸüÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck”""Add a default case to this switch.(ÜŸ•
+Q"squid:SwitchLastCaseIsDefaultCheckÓ""Add a default case to this switch.(ÜŸ•
+^squid:S2147Ã"FCombine this catch with the one at line 2623, which has the same body.(á•­È
+Osquid:S1135ş"2Complete the task associated to this TODO comment.(ğî‹¤úÿÿÿÿ
+Osquid:S1135ˆ"2Complete the task associated to this TODO comment.(€£‰·ûÿÿÿÿ
+Osquid:S1135¾"2Complete the task associated to this TODO comment.(€£‰·ûÿÿÿÿ
+Qsquid:S2130ƒ"9Use "Integer.parseInt" for this string-to-int conversion.(Âğó
+\squid:CallToDeprecatedMethod".Remove this use of "Base64"; it is deprecated.(µ÷¾‘øÿÿÿÿ
+Vsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(µ÷¾‘øÿÿÿÿ
+Jsquid:S1135¦"2Complete the task associated to this TODO comment.(ú÷İÄ
+Jsquid:S1135Ğ"2Complete the task associated to this TODO comment.(–Û‘ƒ
+Osquid:S1135Ó"2Complete the task associated to this TODO comment.(¿ÌŸªúÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheckí""Add a default case to this switch.(ÜŸ•
+vsquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ˆ¬şÿÿÿÿ
+xsquid:S00115ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆÓ´Áûÿÿÿÿ
+ssquid:S00115ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îø¡«
+qsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ôİ
+\squid:CallToDeprecatedMethodÙ".Remove this use of "Base64"; it is deprecated.(ÕöØ€ÿÿÿÿÿ
+psquid:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ•¿Y
+psquid:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ùğ
+qsquid:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(©ÒõÙ
+Jsquid:S1135Œ"2Complete the task associated to this TODO comment.(Î§ƒş
+Jsquid:S1135"2Complete the task associated to this TODO comment.(˜«…²
+%squid:RedundantThrowsDeclarationCheck½"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ÍÎ‚†üÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheck½"İRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ÍÎ‚†üÿÿÿÿ
+“%squid:RedundantThrowsDeclarationCheck¾"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.TransformationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(×ÊâÖüÿÿÿÿ
+Rsquid:S1161×":Add the "@Override" annotation above this method signature(¼’Ì˜
+qsquid:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÜâÜ
+vsquid:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄâÊÿÿÿÿÿ
+Osquid:S1135é"2Complete the task associated to this TODO comment.(Ûèõùÿÿÿÿ
+csquid:CommentedOutCodeLineÇ
+"<This block of commented-out lines of code should be removed.( ˆ¦­
+hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ğ„Âïıÿÿÿÿ
+hsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(•ı¤øÿÿÿÿ
+csquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(®ÈòÀ

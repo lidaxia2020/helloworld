@@ -1,0 +1,13 @@
+
+¨squid:S1192"Define a constant instead of duplicating this literal "\u100F\u4800\u100F\u4800\u100F\u4800\u100F\u4800\u100F\u4800\u100F\u4800\u100F" 3 times.(¬£Î†
+¨squid:S1192"Define a constant instead of duplicating this literal "\u4800\u100F\u4800\u100F\u4800\u100F\u4800\u100F\u4800\u100F\u4800\u100F\u4800" 3 times.(½áá
+§squid:S1192¶"Define a constant instead of duplicating this literal "\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000" 11 times.(Â‚¹ú
+Esquid:S1199È"-Extract this nested code block into a method.(æ£ÑÒ
+hsquid:S1301ğ"KReplace this "switch" statement by "if" statements to increase readability.(Œ¹ÿÿÿÿÿ
+ysquid:S1488Q"]Immediately return this expression instead of assigning it to the temporary variable "props".(ü’Õ·øÿÿÿÿ
+tsquid:S1488W"]Immediately return this expression instead of assigning it to the temporary variable "props".(‚ıÒ
+Gsquid:EmptyStatementUsageCheck…"Remove this empty statement.(ì°ìŞ
+Psquid:S1197‹"8Move the array designator from the variable to the type.(êÏåÕ
+Usquid:S1197µ"8Move the array designator from the variable to the type.(¢¡ñèıÿÿÿÿ
+<squid:S1659Ë"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+bsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(Ôµ¶

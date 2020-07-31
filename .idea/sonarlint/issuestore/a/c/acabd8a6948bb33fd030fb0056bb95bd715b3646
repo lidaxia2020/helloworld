@@ -1,0 +1,16 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ú¹ç²
+Lsquid:S1066¡"/Merge this if statement with the enclosing one.(€Ü×üşÿÿÿÿ
+Psquid:S4973f"9Use the "equals" method if value comparison was intended.(”òÀÑ
+Psquid:S4973—"9Use the "equals" method if value comparison was intended.(‘Òô_
+Qsquid:S4973š"9Use the "equals" method if value comparison was intended.(¬­’
+Qsquid:S4973 "9Use the "equals" method if value comparison was intended.(áÎ•¾
+Vsquid:S4973¡"9Use the "equals" method if value comparison was intended.(€Ü×üşÿÿÿÿ
+Qsquid:S4973¬"9Use the "equals" method if value comparison was intended.(¸—û
+Qsquid:S4973¯"9Use the "equals" method if value comparison was intended.(Ù™…Á
+Qsquid:S4973µ"9Use the "equals" method if value comparison was intended.(ÃûÎ—
+Psquid:S1161X":Add the "@Override" annotation above this method signature(»Ş…_
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(úàÊåøÿÿÿÿ
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(ƒ¸¬Õúÿÿÿÿ
+Rsquid:S1161Å":Add the "@Override" annotation above this method signature(¡ÀØ”
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

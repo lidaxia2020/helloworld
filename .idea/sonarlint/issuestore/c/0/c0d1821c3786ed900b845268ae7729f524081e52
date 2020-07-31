@@ -1,0 +1,39 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
+csquid:S1301á"KReplace this "switch" statement by "if" statements to increase readability.(»ğ
+csquid:S1301ã"KReplace this "switch" statement by "if" statements to increase readability.(ŞÈàŒ
+Tsquid:S2589ö"7Remove this expression which always evaluates to "true"(õ¢ô»ÿÿÿÿÿ
+jsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şçßÍ
+Wsquid:UselessImportCheck1"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+`squid:UselessImportCheck*"7Remove this unused import 'org.omg.CORBA.NO_RESOURCES'.(ƒ²Æ‡ûÿÿÿÿ
+hsquid:UselessImportCheck4"?Remove this unused import 'org.omg.CORBA.portable.InputStream'.(ÂÆ±–úÿÿÿÿ
+_squid:UselessImportCheck"";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+[squid:UselessImportCheck)"7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
+tsquid:UselessImportCheckS"KRemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputStream'.(ÁĞ˜Úÿÿÿÿÿ
+jsquid:UselessImportCheckK"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.GIOPVersion'.(Å¯›ë
+rsquid:UselessImportCheckT"NRemove this unused import 'com.sun.corba.se.impl.encoding.CDRInputStream_1_0'.(¸Šüï
+asquid:UselessImportCheck9"=Remove this unused import 'org.omg.IOP.ServiceContextHelper'.(Ñìƒà
+]squid:UselessImportCheck>"9Remove this unused import 'org.omg.IOP.TAG_INTERNET_IOP'.(ñ†º
+asquid:UselessImportCheck-"8Remove this unused import 'org.omg.CORBA.ParameterMode'.(ĞËıÿÿÿÿ
+esquid:UselessImportCheck;"<Remove this unused import 'org.omg.IOP.TaggedProfileHelper'.(¸‚¹Âúÿÿÿÿ
+Zsquid:UselessImportCheck'"6Remove this unused import 'org.omg.CORBA.LocalObject'.(øöè
+squid:UselessImportCheck6"VRemove this unused import 'com.sun.corba.se.spi.servicecontext.UnknownServiceContext'.(›”ı»şÿÿÿÿ
+asquid:UselessImportCheck=">Remove this unused import 'org.omg.IOP.TaggedComponentHelper'.(î™5
+Usquid:S1197ç"8Move the array designator from the variable to the type.(üïä•úÿÿÿÿ
+9squid:S2129ï"!Remove this "Integer" constructor(š˜èÃ
+Xsquid:CallToDeprecatedMethodï"/Remove this use of "Integer"; it is deprecated.(š˜èÃ
+Csquid:S1905€"+Remove this unnecessary cast to "String[]".(ä±¬‡
+V"squid:SwitchLastCaseIsDefaultCheck„""Add a default case to this switch.(Ó¿¤ƒüÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultChecká""Add a default case to this switch.(»ğ
+Q"squid:SwitchLastCaseIsDefaultCheckã""Add a default case to this switch.(ŞÈàŒ
+V"squid:SwitchLastCaseIsDefaultCheckí""Add a default case to this switch.(¾ò«úÿÿÿÿ
+gsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(«şıÜùÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«şıÜùÿÿÿÿ
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ü”à–
+hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(²Ó©üÿÿÿÿ
+csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(®Ó¦
+csquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(åõÂ
+csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(ä‰Ğ‹
+hsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(œüÇÌøÿÿÿÿ
+hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(¾å³ºøÿÿÿÿ
+hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(¼üì øÿÿÿÿ

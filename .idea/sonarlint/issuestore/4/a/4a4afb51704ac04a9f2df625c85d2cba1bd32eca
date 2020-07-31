@@ -1,0 +1,6 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ıŒÇ
+Nsquid:S1854F"7Remove this useless assignment to local variable "doc".(¼€œ²
+Vsquid:S1161@":Add the "@Override" annotation above this method signature(Ú£óùÿÿÿÿ
+?squid:S1481F"(Remove this unused "doc" local variable.(¼€œ²
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

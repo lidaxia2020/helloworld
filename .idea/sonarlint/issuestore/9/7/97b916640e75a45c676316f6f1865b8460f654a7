@@ -1,0 +1,48 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
+Vsquid:S4973²"9Use the "equals" method if value comparison was intended.(·ã”âøÿÿÿÿ
+Vsquid:S4973¹"9Use the "equals" method if value comparison was intended.(·ã”âøÿÿÿÿ
+Dsquid:S1604l"(Make this anonymous inner class a lambda(ŠÐãêùÿÿÿÿ
+jsquid:UselessImportCheck!"ARemove this unused import 'javax.swing.event.InternalFrameEvent'.(ƒÒƒùÿÿÿÿ
+gsquid:UselessImportCheck&">Remove this unused import 'java.beans.VetoableChangeListener'.(’Úåšûÿÿÿÿ
+Xsquid:UselessImportCheck#"4Remove this unused import 'java.util.EventListener'.(óü¬É
+ksquid:MaximumInheritanceDepthï"<This class has 6 parents which is greater than 5 authorized.(¢¬°´þÿÿÿÿ
+ksquid:MaximumInheritanceDepth›"<This class has 7 parents which is greater than 5 authorized.(ñ°ò¢üÿÿÿÿ
+fsquid:MaximumInheritanceDepth§"<This class has 7 parents which is greater than 5 authorized.(èöü—
+ksquid:MaximumInheritanceDepthµ"<This class has 7 parents which is greater than 5 authorized.(Ä†ÒÉùÿÿÿÿ
+fsquid:MaximumInheritanceDepthÄ"<This class has 7 parents which is greater than 5 authorized.(ôº¡ˆ
+™squid:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ýŸê
+žsquid:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òþüÿÿÿÿ
+™squid:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦–†
+™squid:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®åØ”
+isquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(¸™—m
+Qsquid:S1161E":Add the "@Override" annotation above this method signature(ïÆ•ø
+Dsquid:S1185J"(Remove this method to simply inherit it.(ä¯¨‚ýÿÿÿÿ
+Vsquid:S1161J":Add the "@Override" annotation above this method signature(ä¯¨‚ýÿÿÿÿ
+Qsquid:S1161O":Add the "@Override" annotation above this method signature(€ëßí
+Vsquid:S1161S":Add the "@Override" annotation above this method signature(ÇåÒ»úÿÿÿÿ
+Vsquid:S1161[":Add the "@Override" annotation above this method signature(ë®ˆñþÿÿÿÿ
+Vsquid:S1161s":Add the "@Override" annotation above this method signature(¦ÆòËøÿÿÿÿ
+@squid:S00108v")Either remove or fill this block of code.(ÌÀêM
+Wsquid:S1161Œ":Add the "@Override" annotation above this method signature(˜å³œøÿÿÿÿ
+Wsquid:S1161•":Add the "@Override" annotation above this method signature(ž›ßèþÿÿÿÿ
+Rsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(³ýŸê
+Msquid:S1854­"5Remove this useless assignment to local variable "f".(ïà–ä
+Wsquid:S1161å":Add the "@Override" annotation above this method signature(æÇ‘ûøÿÿÿÿ
+xsquid:CallToDeprecatedMethod÷"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‹Ä­ˆùÿÿÿÿ
+Wsquid:S1161÷":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ
+Rsquid:S1161û":Add the "@Override" annotation above this method signature(Ûï„´
+Wsquid:S1161ÿ":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(Ú„ÎÕþÿÿÿÿ
+Rsquid:S1161‡":Add the "@Override" annotation above this method signature(³ýŸê
+Rsquid:S1161œ":Add the "@Override" annotation above this method signature(³ýŸê
+Rsquid:S1161¨":Add the "@Override" annotation above this method signature(³ýŸê
+žsquid:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤®ž°þÿÿÿÿ
+ssquid:CallToDeprecatedMethod¶"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ú¹—’
+Rsquid:S1161¶":Add the "@Override" annotation above this method signature(ú¹—’
+Wsquid:S1161·":Add the "@Override" annotation above this method signature(¤®ž°þÿÿÿÿ
+Rsquid:S1161¹":Add the "@Override" annotation above this method signature(³ýŸê
+bsquid:CallToDeprecatedMethodì"4Remove this use of "getModifiers"; it is deprecated.(ÊÛýÿÿÿÿ
+Rsquid:S1161ò":Add the "@Override" annotation above this method signature(³ýŸê
+>squid:S1481­"&Remove this unused "f" local variable.(ïà–ä
+Asquid:S1481®"*Remove this unused "value" local variable.(ùžû

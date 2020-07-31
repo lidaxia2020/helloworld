@@ -1,0 +1,12 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(É¼
+9squid:S11659""Make this "fPublicId" field final.(Ì‹õ±
+@squid:S1165<")Make this "fLiteralSystemId" field final.(ıå–à
+Fsquid:S1165?"*Make this "fExpandedSystemId" field final.(½ÄØâøÿÿÿÿ
+Bsquid:S1165B"&Make this "fBaseSystemId" field final.(ĞåÂ”üÿÿÿÿ
+@squid:S1165E"$Make this "fLineNumber" field final.(Ä»ŠŒúÿÿÿÿ
+Bsquid:S1165H"&Make this "fColumnNumber" field final.(òá“ıÿÿÿÿ
+Esquid:S1165K")Make this "fCharacterOffset" field final.(º¾Ù‰úÿÿÿÿ
+wsquid:S1149œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
+Rsquid:S1161š":Add the "@Override" annotation above this method signature(Á»›ê
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

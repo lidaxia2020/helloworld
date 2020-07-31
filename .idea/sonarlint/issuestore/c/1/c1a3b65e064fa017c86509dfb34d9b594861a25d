@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢üß–ùÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck?"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Âµ¡_
+Vsquid:S1161>":Add the "@Override" annotation above this method signature(‹×Œ»þÿÿÿÿ
+}squid:S3252C"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Úž¾™
+}squid:S3252N"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Úž¾™
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

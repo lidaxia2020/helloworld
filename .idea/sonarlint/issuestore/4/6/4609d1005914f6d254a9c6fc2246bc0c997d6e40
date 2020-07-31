@@ -1,0 +1,15 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+tsquid:S1488u"]Immediately return this expression instead of assigning it to the temporary variable "clone".(…îÇ°
+jsquid:S00116;"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
+isquid:S00116<"QRename this field "_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßß–
+wsquid:S00116="ZRename this field "_numCachedNodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¶‘éùÿÿÿÿ
+isquid:S00116>"QRename this field "_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÛìÛ
+psquid:S00116?"SRename this field "_isEnded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒèØÇşÿÿÿÿ
+Vsquid:S1161E":Add the "@Override" annotation above this method signature(¿çß¤ÿÿÿÿÿ
+Vsquid:S1161Y":Add the "@Override" annotation above this method signature(¶ÂÀèùÿÿÿÿ
+Vsquid:S1161]":Add the "@Override" annotation above this method signature(’óØÌøÿÿÿÿ
+Qsquid:S1161t":Add the "@Override" annotation above this method signature(À÷ÖÚ
+Qsquid:S1161y":Add the "@Override" annotation above this method signature(üÿÆ‰
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(‘â©‰

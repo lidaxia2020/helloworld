@@ -1,0 +1,20 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
+asquid:S2583Ç"DChange this condition so that it does not always evaluate to "false"(Óáîúüÿÿÿÿ
+asquid:S2583„"DChange this condition so that it does not always evaluate to "false"(¿ãş“ÿÿÿÿÿ
+asquid:S2583"DChange this condition so that it does not always evaluate to "false"(†­‰ ıÿÿÿÿ
+Tsquid:S2589¯"7Remove this expression which always evaluates to "true"(¡¶úµùÿÿÿÿ
+squid:S32524"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(øƒ…
+„squid:S32524"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(øƒ…
+…squid:S32524"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(øƒ…
+†squid:S32524"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(øƒ…
+†squid:S32524"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(øƒ…
+†squid:S32524"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXEXCLUSIVE".(øƒ…
+†squid:S32524"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINEXCLUSIVE".(øƒ…
+Vsquid:S1161A":Add the "@Override" annotation above this method signature(„ÿÔşÿÿÿÿ
+Vsquid:S1161G":Add the "@Override" annotation above this method signature(à´Æûÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheckf"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ä‚±–
+^squid:S1126„"AReplace this if-then-else statement by a single return statement.(¿ãş“ÿÿÿÿÿ
+^squid:S1126"AReplace this if-then-else statement by a single return statement.(†­‰ ıÿÿÿÿ
+jsquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(µ™¬ù
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

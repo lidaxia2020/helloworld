@@ -1,0 +1,12 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¼¤êµ
+Lsquid:S1066¶"/Merge this if statement with the enclosing one.(¿ÍŞ—ÿÿÿÿÿ
+Qsquid:S1161U":Add the "@Override" annotation above this method signature(Îé¯Õ
+zsquid:S3252\"^Use static access with "com.sun.org.apache.xpath.internal.patterns.NodeTest" for "SCORE_NONE".(½ºøÿÿÿÿ
+Qsquid:S2209\"5Change this instance-reference to a static reference.(½ºøÿÿÿÿ
+nsquid:S3776q"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(«Ê»‰şÿÿÿÿ
+Ksquid:S1172r"/Remove this unused method parameter "prevStep".(–¶•Ûıÿÿÿÿ
+Gsquid:S1481|"0Remove this unused "predContext" local variable.(à¬ß
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ö‹À¦
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ƒê…ûÿÿÿÿ

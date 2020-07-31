@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deepJvm/deepJvm.iml" filepath="$PROJECT_DIR$/deepJvm/deepJvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/effectivejava/effectivejava.iml" filepath="$PROJECT_DIR$/effectivejava/effectivejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaThink/javaThink.iml" filepath="$PROJECT_DIR$/javaThink/javaThink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newskill/newskill.iml" filepath="$PROJECT_DIR$/newskill/newskill.iml" />
+    </modules>
+  </component>
+</project>

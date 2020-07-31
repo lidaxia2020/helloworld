@@ -1,0 +1,8 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
+rsquid:S14504"VRemove the "sPrefix" field and declare it as a local variable in the relevant methods.(ˆÉìÖþÿÿÿÿ
+msquid:S14505"VRemove the "rPrefix" field and declare it as a local variable in the relevant methods.(Ø¨ˆÛ
+Qsquid:S1161<":Add the "@Override" annotation above this method signature(ÁØ’›
+Vsquid:S1161B":Add the "@Override" annotation above this method signature(šžíïÿÿÿÿÿ
+Qsquid:S1161F":Add the "@Override" annotation above this method signature(†“‹Ø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

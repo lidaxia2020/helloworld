@@ -1,0 +1,28 @@
+
+Lsquid:S1191+"5Use classes from the Java API instead of Sun classes.(éª‚€
+dsquid:S00112ä"FDefine and throw a dedicated exception instead of using a generic one.(†ªĞ¼ıÿÿÿÿ
+dsquid:S00112æ"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+_squid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+dsquid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(†ªĞ¼ıÿÿÿÿ
+dsquid:S00112â"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+osquid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò¨Ö
+osquid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(–´´\
+?squid:S1659ï""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659ƒ""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659˜""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659¬""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659À""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659Õ""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659í""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659…""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659£""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+?squid:S1659Á""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
+vsquid:S4144‚"^Update this method so that its implementation is not identical to "compareAndSet" on line 509.(Ÿ‹Ú
+Wsquid:S1161–":Add the "@Override" annotation above this method signature(ú†Ôüÿÿÿÿ
+Rsquid:S1161›":Add the "@Override" annotation above this method signature(²¤à
+Wsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(ø‹õıÿÿÿÿ
+Wsquid:S1161£":Add the "@Override" annotation above this method signature(Ô›Ì–úÿÿÿÿ
+Rsquid:S1161¨":Add the "@Override" annotation above this method signature(ÌÚĞ
+Wsquid:S1161¬":Add the "@Override" annotation above this method signature(Ö½óÑÿÿÿÿÿ
+Rsquid:S1161°":Add the "@Override" annotation above this method signature(£ Ê£

@@ -1,0 +1,14 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+hsquid:S001169"PRename this field "_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğä
+lsquid:S00116:"TRename this field "_escaping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯ÊŒ
+osquid:S00116;"RRename this field "_ignore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕß²ÿÿÿÿÿ
+osquid:S00116<"WRename this field "_textElement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¶Ñ
+Vsquid:S1161p":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
+isquid:S3776w"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÁØ’›
+Qsquid:S1161w":Add the "@Override" annotation above this method signature(ÁØ’›
+Qsquid:S1161²":Add the "@Override" annotation above this method signature(ÏÁy
+Rsquid:S1161»":Add the "@Override" annotation above this method signature(†“‹Ø
+Wsquid:S1854“":Remove this useless assignment to local variable "length".(Ñë£×úÿÿÿÿ
+Hsquid:S1481“"+Remove this unused "length" local variable.(Ñë£×úÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

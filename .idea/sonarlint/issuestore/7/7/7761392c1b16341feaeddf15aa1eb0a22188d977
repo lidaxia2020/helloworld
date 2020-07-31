@@ -1,0 +1,8 @@
+
+Qsquid:S1191f"5Use classes from the Java API instead of Sun classes.(«¾ƒøÿÿÿÿ
+?squid:S1604]"(Make this anonymous inner class a lambda(¢é·‘
+Csquid:S1172F"-Remove this unused method parameter "ignore".(ÖÁc
+asquid:S2147t"ECombine this catch with the one at line 114, which has the same body.(„ï×Ÿıÿÿÿÿ
+asquid:S2147v"ECombine this catch with the one at line 114, which has the same body.(“£ÖÀşÿÿÿÿ
+asquid:S2147x"ECombine this catch with the one at line 114, which has the same body.(Ìè—×ûÿÿÿÿ
+`squid:CallToDeprecatedMethodq"3Remove this use of "newInstance"; it is deprecated.(ü¼¹ùÿÿÿÿ

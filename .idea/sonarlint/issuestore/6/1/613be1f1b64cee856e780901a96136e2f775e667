@@ -1,0 +1,21 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
+msquid:S2259û"PA "NullPointerException" could be thrown; "expectedMemberName" is nullable here.(™ÈØ þÿÿÿÿ
+msquid:S2259±"PA "NullPointerException" could be thrown; "expectedMemberName" is nullable here.(™ÈØ þÿÿÿÿ
+msquid:S2259ˆ"PA "NullPointerException" could be thrown; "expectedMemberType" is nullable here.(î¶ïùúÿÿÿÿ
+msquid:S2259½"PA "NullPointerException" could be thrown; "expectedMemberType" is nullable here.(î¶ïùúÿÿÿÿ
+usquid:UselessImportCheck*"QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
+rsquid:UselessImportCheck)"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
+jsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ô›þ¸
+bsquid:S2147¯"ECombine this catch with the one at line 174, which has the same body.(‚ôù«úÿÿÿÿ
+bsquid:S2147»"ECombine this catch with the one at line 186, which has the same body.(‚ôù«úÿÿÿÿ
+osquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(úŒ³²ùÿÿÿÿ
+bsquid:S2147ù"ECombine this catch with the one at line 248, which has the same body.(‚ôù«úÿÿÿÿ
+bsquid:S2147†"ECombine this catch with the one at line 261, which has the same body.(‚ôù«úÿÿÿÿ
+bsquid:S2147à"ECombine this catch with the one at line 351, which has the same body.(‚ôù«úÿÿÿÿ
+bsquid:S2147Š"ECombine this catch with the one at line 393, which has the same body.(‚ôù«úÿÿÿÿ
+Zsquid:UnusedPrivateMethod²"4Remove this unused private "allocComponents" method.(œ‹°ˆ
+bsquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(œÜƒ£
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(„¾Õæÿÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„¾Õæÿÿÿÿÿ
+hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(Å•ºúøÿÿÿÿ

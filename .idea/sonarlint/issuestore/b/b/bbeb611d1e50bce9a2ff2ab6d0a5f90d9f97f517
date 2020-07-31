@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÿĞÒûÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
+osquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãæ›£ùÿÿÿÿ
+jsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ø0
+ysquid:S3008u"]Rename this field "unknown_attributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( —…½ûÿÿÿÿ
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(¼çØıùÿÿÿÿ
+Wsquid:S1161é":Add the "@Override" annotation above this method signature(¢øöãùÿÿÿÿ
+Wsquid:S1161ù":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ

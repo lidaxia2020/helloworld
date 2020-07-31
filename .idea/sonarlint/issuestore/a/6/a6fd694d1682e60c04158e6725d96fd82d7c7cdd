@@ -1,0 +1,15 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ°¨£øÿÿÿÿ
+Esquid:S1604"(Make this anonymous inner class a lambda(ŠÖŞùÿÿÿÿ
+Esquid:S1604¦"(Make this anonymous inner class a lambda(¢ªİµüÿÿÿÿ
+}squid:UselessImportCheck-"TRemove this unnecessary import: same package classes are always implicitly imported.(´£×ïùÿÿÿÿ
+}squid:UselessImportCheck."TRemove this unnecessary import: same package classes are always implicitly imported.(æ…ûûüÿÿÿÿ
+}squid:UselessImportCheck/"TRemove this unnecessary import: same package classes are always implicitly imported.(²÷îìùÿÿÿÿ
+xsquid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(ûí³
+xsquid:UselessImportCheck1"TRemove this unnecessary import: same package classes are always implicitly imported.(¦¬âÖ
+Gsquid:S1068d"+Remove this unused "wrapper" private field.(×øÜ¶şÿÿÿÿ
+bsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(—©¢
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(±·°Èıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅŠ¦şÿÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ÓëæÂúÿÿÿÿ

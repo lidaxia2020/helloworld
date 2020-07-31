@@ -1,0 +1,9 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
+=squid:S1452G"&Remove usage of generic wildcard type.(İ™Ûê
+=squid:S1452K"&Remove usage of generic wildcard type.(ÄÓ’†
+Jsquid:S1172ƒ"-Remove this unused method parameter "lookup".(ƒ£‡‚üÿÿÿÿ
+Jsquid:S1172ˆ"-Remove this unused method parameter "lookup".(¨Û½ıÿÿÿÿ
+Esquid:S1172"-Remove this unused method parameter "lookup".(ˆìš×
+Esquid:S1172¡"-Remove this unused method parameter "lookup".(™—ï¢
+Esquid:S1172¨"-Remove this unused method parameter "lookup".(Ô—ı

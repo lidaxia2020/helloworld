@@ -1,0 +1,18 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
+™squid:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûğ„Û
+™squid:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌëŸõ
+squid:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô®öÙÿÿÿÿÿ
+squid:S1186ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı²ıÿıÿÿÿÿ
+™squid:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰›”°
+lsquid:S00116J"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á…ƒŠøÿÿÿÿ
+psquid:S00116R"SRename this field "_handler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹³­²ıÿÿÿÿ
+jsquid:ModifiersOrderCheckA"EReorder the modifiers to comply with the Java Language Specification.(©Ü’»
+isquid:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(çÏŠ
+Q"squid:SwitchLastCaseIsDefaultCheckˆ""Add a default case to this switch.(ô…È·
+›%squid:RedundantThrowsDeclarationCheckÒ"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(ÌëŸõ
+ %squid:RedundantThrowsDeclarationCheckİ"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheckô"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckÜ""Add a default case to this switch.(«ü”ùÿÿÿÿ
+^squid:UnusedPrivateMethodÚ"8Remove this unused private "getNodeTypeFromCode" method.(¹è‹â
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,21 @@
+
+Š squid:ForLoopCounterChangedCheckŠ"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰ôÓûøÿÿÿÿ
+Qsquid:S11913"5Use classes from the Java API instead of Sun classes.(¿‚Œäùÿÿÿÿ
+p
+squid:S135ß"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+„"squid:ClassVariableVisibilityCheck‡"UMake decimalAt a static final constant or non-public and provide accessors if needed.(šëŞÒ
+…"squid:ClassVariableVisibilityCheckˆ"QMake count a static final constant or non-public and provide accessors if needed.(§™…×ıÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck‰"RMake digits a static final constant or non-public and provide accessors if needed.(Áº´Üşÿÿÿÿ
+|squid:S1149Ô"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(÷à™¸ıÿÿÿÿ
+|squid:S1149ñ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(÷à™¸ıÿÿÿÿ
+wsquid:S1149“"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬ıˆû
+wsquid:S1149›"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŠÔ¨Ñ
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(™à×Ãûÿÿÿÿ
+\squid:HiddenFieldCheckÀ"9Rename "data" which hides the field declared at line 139.(ø´æ»
+9squid:S1659±"!Declare "max" on a separate line.(§«„
+jsquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÏÓàê
+jsquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(˜Å­ğ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(ıñ°f
+ksquid:S2975×"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+lsquid:S00100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÖŠ¼ùÿÿÿÿ
+bsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(­åÚ

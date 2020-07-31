@@ -1,0 +1,5 @@
+
+Lsquid:S1191/"5Use classes from the Java API instead of Sun classes.(Åü€ğ
+bsquid:UselessImportCheck0"?Remove this unused import 'sun.text.normalizer.NormalizerImpl'.(¼Æî!
+Lsquid:EmptyStatementUsageCheck–"Remove this empty statement.(éŞ§ıÿÿÿÿ
+Fsquid:S2786ª")Remove this redundant "static" qualifier.(ú¾øÓüÿÿÿÿ

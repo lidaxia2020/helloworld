@@ -1,0 +1,9 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(úÊÛí
+‰"squid:ClassVariableVisibilityCheck:"[Make normalizedValue a static final constant or non-public and provide accessors if needed.(Ê¸ûÒ
+Š"squid:ClassVariableVisibilityCheckC"WMake actualValue a static final constant or non-public and provide accessors if needed.(¢¨»žüÿÿÿÿ
+Ž"squid:ClassVariableVisibilityCheckN"[Make actualValueType a static final constant or non-public and provide accessors if needed.(Š–Ï£üÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckW"VMake memberType a static final constant or non-public and provide accessors if needed.(€”ðôüÿÿÿÿ
+…"squid:ClassVariableVisibilityCheckc"WMake memberTypes a static final constant or non-public and provide accessors if needed.(ÔÔèœ
+‡"squid:ClassVariableVisibilityCheckn"ZMake itemValueTypes a static final constant or non-public and provide accessors if needed.(óþÞX
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

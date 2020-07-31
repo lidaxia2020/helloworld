@@ -1,0 +1,23 @@
+
+Š squid:ForLoopCounterChangedCheckÁ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯…ƒŒıÿÿÿÿ
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ğá
+fsquid:S3973ú"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+fsquid:S3973Ÿ"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+osquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¶øºûÿÿÿÿ
+osquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÖ¨¦ıÿÿÿÿ
+osquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÏĞÅıÿÿÿÿ
+osquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âûŸ÷ûÿÿÿÿ
+osquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îî³£ùÿÿÿÿ
+nsquid:S3008B"XRename this field "m_initialSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‚‰v
+xsquid:S3008_"aRename this field "m_defaultExtendedTypes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó«æÆ
+nsquid:S3008h"WRename this field "m_loadFactor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›æ—Ü
+xsquid:S3008q"\Rename this field "m_initialCapacity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ş·Ãúÿÿÿÿ
+wsquid:S00116?"ZRename this field "m_extendedTypes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÖİûÿÿÿÿ
+rsquid:S00116G"URename this field "m_nextType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ïäÆûÿÿÿÿ
+msquid:S00116z"URename this field "m_capacity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú½ÛÅ
+tsquid:S00116„"VRename this field "m_threshold" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŒã„üÿÿÿÿ
+psquid:S00116"RRename this field "m_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ä¥ûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(üŒğÏúÿÿÿÿ
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(üŒğÏúÿÿÿÿ
+hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(üŒğÏúÿÿÿÿ

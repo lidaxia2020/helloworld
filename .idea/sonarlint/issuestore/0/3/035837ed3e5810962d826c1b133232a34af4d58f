@@ -1,0 +1,43 @@
+
+Š squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
+o
+squid:S135ü"YReduce the total number of break and continue statements in this loop to use at most one.(²°,
+usquid:S1488
+"]Immediately return this expression instead of assigning it to the temporary variable "empty".(æŠ§ó
+Qsquid:S4973§"9Use the "equals" method if value comparison was intended.(ìÃÉ
+xsquid:UselessImportCheck3"TRemove this unnecessary import: same package classes are always implicitly imported.(¤°Ó˜
+Vsquid:S1155×	">Use isEmpty() to check whether the collection is empty or not.(Àâô
+vsquid:S1149Õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".( ‡¯"
+vsquid:S1149Õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".( ‡¯"
+|squid:S1149Ï	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+wsquid:S1149ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(§®Š§
+wsquid:S1149ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(§®Š§
+wsquid:S1149å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(âÛ‰·
+jsquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(—ÀïŞ
+jsquid:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Ûíõ¨
+qsquid:S3012ê"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(…¢Ò•
+Wsquid:S1161Î	":Add the "@Override" annotation above this method signature(¨Úåüÿÿÿÿ
+osquid:S3776Œ
+"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Áó·Åıÿÿÿÿ
+>squid:S1168¦
+"&Return an empty array instead of null.(¨·«È
+>squid:S1168º
+"&Return an empty array instead of null.(¨·«È
+>squid:S1168È
+"&Return an empty array instead of null.(¨·«È
+>squid:S1168Ó
+"&Return an empty array instead of null.(¨·«È
+ksquid:S2975£"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+Rsquid:S1161£":Add the "@Override" annotation above this method signature(²ÈŞ
+/squid:S2176ß"Rename this class.(çÅ“­øÿÿÿÿ
+Rsquid:S1161ü":Add the "@Override" annotation above this method signature(Ö›È“
+psquid:ModifiersOrderCheck“"EReorder the modifiers to comply with the Java Language Specification.(òÖæ›şÿÿÿÿ
+jsquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(§®Š§
+jsquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(›–§
+Gsquid:S1172©"/Remove this unused method parameter "position".(›–§
+Jsquid:S1068“"2Remove this unused "MODIFIER_SHORT" private field.(šè‘
+Psquid:S1068”"3Remove this unused "MODIFIER_MEDIUM" private field.(íªŸ¥ùÿÿÿÿ
+Nsquid:S1068•"1Remove this unused "MODIFIER_LONG" private field.(ˆé°Ìùÿÿÿÿ
+Isquid:S1068–"1Remove this unused "MODIFIER_FULL" private field.(ä©—–
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(°’â§ùÿÿÿÿ
+hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ÀÛï‹ıÿÿÿÿ

@@ -1,0 +1,19 @@
+
+vsquid:S1149G"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒÓúÿ
+Xsquid:S1854_"<Remove this useless assignment to local variable "inCursor".(­à†§ýÿÿÿÿ
+Tsquid:S1197r"8Move the array designator from the variable to the type.(È’ûÉýÿÿÿÿ
+Psquid:S1197…"8Move the array designator from the variable to the type.(Î ®
+Usquid:S1854Õ"=Remove this useless assignment to local variable "outCursor".(Õ¾Éï
+Ysquid:S1854Ô"<Remove this useless assignment to local variable "inCursor".(òž‹°úÿÿÿÿ
+?squid:S1659Â"'Declare "outCursor" on a separate line.(ßÈ‚Œ
+Usquid:S1197ú"8Move the array designator from the variable to the type.(¤àéŠþÿÿÿÿ
+Usquid:S1197Š"8Move the array designator from the variable to the type.(¦à¥”øÿÿÿÿ
+Usquid:S1197•"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+U
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(¶¼ãïýÿÿÿÿ
+P
+squid:S106§"9Replace this use of System.out or System.err by a logger.(’Á²
+asquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(þ¬Ñ
+
+gsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(‚µØ†ûÿÿÿÿ
+hsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(¤ìÛºüÿÿÿÿ

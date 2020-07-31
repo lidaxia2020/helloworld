@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ú˜í°
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(¼”‹àşÿÿÿÿ
+}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(´·÷°ıÿÿÿÿ
+bsquid:UselessImportCheck!"9Remove this unused import 'com.sun.corba.se.spi.orb.ORB'.(¯Ñ‰“ùÿÿÿÿ
+osquid:ModifiersOrderCheck7"EReorder the modifiers to comply with the Java Language Specification.(—¡õùÿÿÿÿ

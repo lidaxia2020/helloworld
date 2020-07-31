@@ -1,0 +1,130 @@
+
+Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê»™Öıÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck "XRefactor the code in order to not assign to this loop counter from within the loop body.(è†§•úÿÿÿÿ
+… squid:ForLoopCounterChangedCheckÖ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş‹ğø
+… squid:ForLoopCounterChangedCheckÖ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş‹ğø
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
+qsquid:S1192Ú
+"YDefine a constant instead of duplicating this literal "rcase-RecurseUnordered.2" 3 times.(¤”ç‡
+tsquid:S1192Ó"\Define a constant instead of duplicating this literal "in particleValidRestriction" 5 times.(Âûàÿ
+hsquid:S1192í"KDefine a constant instead of duplicating this literal "unbounded" 16 times.(Ë’ÃÕüÿÿÿÿ
+psquid:S1192é"XDefine a constant instead of duplicating this literal "cos-particle-restrict.2" 4 times.(§±€»
+gsquid:S1192Ò"ODefine a constant instead of duplicating this literal "Internal-Error" 5 times.(³Ááã
+ksquid:S1192§"SDefine a constant instead of duplicating this literal "src-redefine.6.2.2" 3 times.(¨ä‹ç
+msquid:S1192¨"PDefine a constant instead of duplicating this literal "rcase-Recurse.2" 5 times.(šäçïùÿÿÿÿ
+Gsquid:S1066Û"/Merge this if statement with the enclosing one.(Ğ³Ô
+Jsquid:S1199£"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¨"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199°"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¹"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Å"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ñ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ù"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ş"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199è"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199î"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ö"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199û"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199‹"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199”"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199š"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¢"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199§"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¶"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199¿"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Å"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Î"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ó"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199â"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199é"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ğ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199€"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Osquid:S4973j"9Use the "equals" method if value comparison was intended.(ÄûøC
+Qsquid:S4973Ö"9Use the "equals" method if value comparison was intended.(ù™Í…
+Vsquid:S4973×"9Use the "equals" method if value comparison was intended.(¾‘ø‹ıÿÿÿÿ
+Qsquid:S4973Ğ"9Use the "equals" method if value comparison was intended.(‰ÆÎÜ
+Qsquid:S4973Ñ"9Use the "equals" method if value comparison was intended.(¸Ó„ó
+Qsquid:S4973Ù"9Use the "equals" method if value comparison was intended.(÷ìë
+Qsquid:S4973Ú"9Use the "equals" method if value comparison was intended.(ò¸öÚ
+Qsquid:S4973ã"9Use the "equals" method if value comparison was intended.(‰³º¦
+Vsquid:S4973ä"9Use the "equals" method if value comparison was intended.(€‹Çüÿÿÿÿ
+gsquid:S2259·"O"NullPointerException" will be thrown when invoking method "checkRecurseLax()".(‹Æç¸
+ksquid:S2259ô"N"NullPointerException" will be thrown when invoking method "checkMapAndSum()".(°ŸÍ¶ÿÿÿÿÿ
+lsquid:S2259¿"O"NullPointerException" will be thrown when invoking method "checkRecurseLax()".(¸‰Å¡üÿÿÿÿ
+dsquid:S2259Œ"L"NullPointerException" will be thrown when invoking method "checkRecurse()".(‘ÏĞŠ
+dsquid:S2259ê"L"NullPointerException" will be thrown when invoking method "checkRecurse()".(‘ÏĞŠ
+isquid:S2259Ë"L"NullPointerException" will be thrown when invoking method "checkRecurse()".(âØÏÕûÿÿÿÿ
+msquid:S2259ã"U"NullPointerException" will be thrown when invoking method "checkRecurseUnordered()".(ÚùşŸ
+Zsquid:S00107í	"<Method has 8 parameters, which is greater than 7 authorized.(êù¢Ôùÿÿÿÿ
+Usquid:S00107
+"<Method has 8 parameters, which is greater than 7 authorized.(Ãª–†
+Usquid:S00107½
+"<Method has 8 parameters, which is greater than 7 authorized.(™Ç˜Œ
+Usquid:S00107ñ
+"<Method has 8 parameters, which is greater than 7 authorized.(‰Ì²®
+Usquid:S00107›"<Method has 8 parameters, which is greater than 7 authorized.(ÃÑ
+?squid:S1604]"(Make this anonymous inner class a lambda(°†ì…
+osquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¾¼¯ÿÿÿÿÿ
+Qsquid:S1118B":Add a private constructor to hide the implicit public one.(âö¥¿
+}squid:S1149’"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ú£Õ›
+‚squid:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(£ı¯àÿÿÿÿÿ
+‚squid:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„ ³¢ùÿÿÿÿ
+}squid:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(òÚÏÀ
+‚squid:S1149¨"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤“İ÷ùÿÿÿÿ
+‚squid:S1149²"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ËêÙÒúÿÿÿÿ
+‚squid:S1149í	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(êù¢Ôùÿÿÿÿ
+}squid:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ãª–†
+}squid:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Çí‚¥
+}squid:S1149½
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(™Ç˜Œ
+}squid:S1149¿
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Çí‚¥
+}squid:S1149ñ
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰Ì²®
+}squid:S1149ó
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Çí‚¥
+}squid:S1149›"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÃÑ
+}squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Çí‚¥
+squid:S3252ï"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_LIST".(»âÙÇ
+‚squid:S3252ğ"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_UNION".(šë•·
+squid:S3252ö"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_UNION".(ıÏZ
+gsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØĞä¥
+squid:S3252Ñ"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(½¢ìÃıÿÿÿÿ
+Œsquid:S3252Õ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(çöôõøÿÿÿÿ
+jsquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(‹òÜ
+Asquid:S1659É")Declare "fullChecked" on a separate line.(Åâò÷
+jsquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(÷ˆœ¨
+Q"squid:SwitchLastCaseIsDefaultCheck¡""Add a default case to this switch.(öÎ
+Csquid:S1168¦"+Return an empty collection instead of null.(¥¹ï
+osquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÎÂå²şÿÿÿÿ
+squid:S3252ÿ"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(‡¢™öùÿÿÿÿ
+Î%squid:RedundantThrowsDeclarationCheck«	"–Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaException', as it cannot be thrown from method's body.(™Íšøúÿÿÿÿ
+>squid:S1172©	"&Remove these unused method parameters.(¨ÖÁ
+Jsquid:S1135¬	"2Complete the task associated to this TODO comment.(…ïœ†
+Ysquid:S1126²	"AReplace this if-then-else statement by a single return statement.(Í³Àñ
+jsquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ãª–†
+h squid:LabelsShouldNotBeUsedCheck¡
+";Refactor the code to remove this label and the need for it.(í­é
+jsquid:S3776½
+"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(™Ç˜Œ
+Psquid:S1197Ğ
+"8Move the array designator from the variable to the type.(ü¿ï‰
+h squid:LabelsShouldNotBeUsedCheckÒ
+";Refactor the code to remove this label and the need for it.(í­é
+Gsquid:S00108à
+")Either remove or fill this block of code.(êÉª–øÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheck„";Refactor the code to remove this label and the need for it.(í­é
+Gsquid:S00108‘")Either remove or fill this block of code.(êÉª–øÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheck»";Refactor the code to remove this label and the need for it.(í­é
+Gsquid:S00108Ä")Either remove or fill this block of code.(êÉª–øÿÿÿÿ
+^squid:S1126ƒ"AReplace this if-then-else statement by a single return statement.(ùáõöøÿÿÿÿ
+zsquid:S3252„"bUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "NSCONSTRAINT_LIST".(ÁÍ’ƒ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(™âŞÉûÿÿÿÿ
+csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(Öüã
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(øÒ·Óúÿÿÿÿ
+csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(à æÂ

@@ -1,0 +1,27 @@
+
+… squid:ForLoopCounterChangedCheckË"XRefactor the code in order to not assign to this loop counter from within the loop body.(€Ãş
+… squid:ForLoopCounterChangedCheckÌ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¤
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
+Lsquid:S1066õ"/Merge this if statement with the enclosing one.(Æ‡Ş´ûÿÿÿÿ
+Vsquid:S4973ô"9Use the "equals" method if value comparison was intended.(ó×„¥üÿÿÿÿ
+Dsquid:S1604C"(Make this anonymous inner class a lambda(–ÄÎäúÿÿÿÿ
+jsquid:MaximumInheritanceDepthi"<This class has 6 parents which is greater than 5 authorized.(—ƒ©“ıÿÿÿÿ
+Gsquid:S19486"+Make "arrowIcon" transient or serializable.(ôØ¢èøÿÿÿÿ
+Dsquid:S11729"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+Vsquid:S1161=":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+Vsquid:S1161N":Add the "@Override" annotation above this method signature(Íæó‰ùÿÿÿÿ
+Vsquid:S1161_":Add the "@Override" annotation above this method signature(ÒÒ’Ëùÿÿÿÿ
+Vsquid:S1161u":Add the "@Override" annotation above this method signature(³’¡ıÿÿÿÿ
+Vsquid:S1161y":Add the "@Override" annotation above this method signature(Ü÷ä¤ÿÿÿÿÿ
+.squid:S2176}"Rename this class.(°»·ğşÿÿÿÿ
+Rsquid:S1161„":Add the "@Override" annotation above this method signature(ÒÖÂ¡
+Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(ìßİË
+Wsquid:S1161‘":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
+Wsquid:S1161½":Add the "@Override" annotation above this method signature(™×¿‚üÿÿÿÿ
+Rsquid:S1161ë":Add the "@Override" annotation above this method signature(ô¹¶‹
+Rsquid:S1161„":Add the "@Override" annotation above this method signature(à³‰Ú
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(Ûƒ«¥ùÿÿÿÿ
+*squid:S2176™"Rename this class.(…úÍ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(âµô«şÿÿÿÿ
+Rsquid:S1161æ":Add the "@Override" annotation above this method signature(€ëßí
+Rsquid:S1161ñ":Add the "@Override" annotation above this method signature(ÌÕ„ë

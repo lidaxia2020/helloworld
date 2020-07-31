@@ -1,0 +1,74 @@
+
+Qsquid:S1191."5Use classes from the Java API instead of Sun classes.(íØÎàşÿÿÿÿ
+csquid:S1192©"KDefine a constant instead of duplicating this literal "Signature." 4 times.(½Ûö˜
+_squid:S1192÷"GDefine a constant instead of duplicating this literal "Cipher" 6 times.(¤é©
+rsquid:S1192Ú"ZDefine a constant instead of duplicating this literal "signature or verification" 3 times.(Âà­Ë
+hsquid:S1192÷"PUse already-defined constant 'RSA_CIPHER' instead of duplicating its value here.(¤é©
+isquid:S1192Ş"QDefine a constant instead of duplicating this literal "doFinal() failed" 3 times.(ÕŠ’Ñ
+gsquid:S1192¥"JDefine a constant instead of duplicating this literal "Signature" 6 times.(Ì®Åîıÿÿÿÿ
+ysquid:S1192·"\Define a constant instead of duplicating this literal "object not initialized for " 7 times.(ø˜Ëøÿÿÿÿ
+ksquid:S1192ö"SUse already-defined constant 'RSA_SIGNATURE' instead of duplicating its value here.(÷¡äê
+p
+squid:S135‰
+"YReduce the total number of break and continue statements in this loop to use at most one.(ê››’
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÛÈîüÿÿÿÿ
+:squid:S1148Ş	"#Use a logger to log this exception.(¿¯ô
+ssquid:S00115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÂâã
+jsquid:ModifiersOrderCheckÀ"EReorder the modifiers to comply with the Java Language Specification.(Ü§Çs
+ksquid:ModifiersOrderCheckÉ"EReorder the modifiers to comply with the Java Language Specification.(ö™Öè
+psquid:ModifiersOrderCheckÒ"EReorder the modifiers to comply with the Java Language Specification.(ğ°’Ëüÿÿÿÿ
+ksquid:ModifiersOrderCheckî"EReorder the modifiers to comply with the Java Language Specification.(Ä¦–è
+ksquid:ModifiersOrderCheckñ"EReorder the modifiers to comply with the Java Language Specification.(¤«Êâ
+psquid:ModifiersOrderCheckô"EReorder the modifiers to comply with the Java Language Specification.(şãüÿÿÿÿ
+Psquid:S3878õ"8Remove this array creation and simply pass the elements.(Ñ‹†
+Asquid:S1125ª")Remove the literal "false" boolean value.(Íó­¬
+ksquid:ModifiersOrderCheckÏ"EReorder the modifiers to comply with the Java Language Specification.(©ÿ¸¶
+vsquid:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò¡¯›ûÿÿÿÿ
+Fsquid:S1125ï")Remove the literal "false" boolean value.(£Šˆ¢øÿÿÿÿ
+Asquid:S1125ğ")Remove the literal "false" boolean value.(Ë®Ò
+Asquid:S1125×")Remove the literal "false" boolean value.(™ÓË„
+Q"squid:SwitchLastCaseIsDefaultCheckÉ""Add a default case to this switch.(ş™ÅŞ
+£%squid:RedundantThrowsDeclarationCheck÷"rRemove the declaration of thrown exception 'java.security.InvalidParameterException' which is a runtime exception.(¿ÒÙ
+Msquid:S1133ö"5Do not forget to remove this deprecated code someday.(Œúì…
+£%squid:RedundantThrowsDeclarationCheckÅ"rRemove the declaration of thrown exception 'java.security.InvalidParameterException' which is a runtime exception.(¿ÒÙ
+Rsquid:S1133Ä"5Do not forget to remove this deprecated code someday.(¦«ò½üÿÿÿÿ
+ksquid:S2975Õ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+Rsquid:S1161Õ":Add the "@Override" annotation above this method signature(¯áÑë
+ksquid:S2975Ÿ	"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+Rsquid:S1161Ÿ	":Add the "@Override" annotation above this method signature(¯áÑë
+Isquid:S1905§	",Remove this unnecessary cast to "Signature".(úÏÿÿüÿÿÿÿ
+Csquid:S1905¨	",Remove this unnecessary cast to "Signature".(¼¿ŞL
+`squid:S1182Ÿ	"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë
+@squid:S1125»	")Remove the literal "false" boolean value.(Ü—Y
+jsquid:S3776Í	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ùôµ€
+Rsquid:S1161Í	":Add the "@Override" annotation above this method signature(ùôµ€
+Fsquid:S1125ê	")Remove the literal "false" boolean value.(¶ÓÛ‡ûÿÿÿÿ
+osquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(®ÏÇ•øÿÿÿÿ
+Asquid:S1125’
+")Remove the literal "false" boolean value.(Ü™Û‘
+Fsquid:S1125–
+")Remove the literal "false" boolean value.(¶ÓÛ‡ûÿÿÿÿ
+ksquid:ModifiersOrderCheck¸
+"EReorder the modifiers to comply with the Java Language Specification.(â¯¬¤
+ksquid:ModifiersOrderCheck¹
+"EReorder the modifiers to comply with the Java Language Specification.(½©ì˜
+ksquid:ModifiersOrderCheckº
+"EReorder the modifiers to comply with the Java Language Specification.(¨ªÖ
+Wsquid:S1161ß
+":Add the "@Override" annotation above this method signature(¸¯™úÿÿÿÿ
+Wsquid:S1161ó
+":Add the "@Override" annotation above this method signature(şÈü©ùÿÿÿÿ
+Rsquid:S1161ı
+":Add the "@Override" annotation above this method signature(ßÀ§
+Rsquid:S1161‰":Add the "@Override" annotation above this method signature(¢âŸ…
+£%squid:RedundantThrowsDeclarationCheck"rRemove the declaration of thrown exception 'java.security.InvalidParameterException' which is a runtime exception.(¿ÒÙ
+csquid:CallToDeprecatedMethod’":Remove this use of "engineSetParameter"; it is deprecated.(òü¨ê
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(´Ë–ü
+£%squid:RedundantThrowsDeclarationCheckœ"rRemove the declaration of thrown exception 'java.security.InvalidParameterException' which is a runtime exception.(¿ÒÙ
+hsquid:CallToDeprecatedMethod":Remove this use of "engineGetParameter"; it is deprecated.(ÅóÉàøÿÿÿÿ
+Wsquid:S1161¡":Add the "@Override" annotation above this method signature(ª‹êÉÿÿÿÿÿ
+Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(âæÀøÿÿÿÿ
+^squid:S2147ß"FCombine this catch with the one at line 1501, which has the same body.(çŞ¡Ğ
+£%squid:RedundantThrowsDeclarationCheckõ"rRemove the declaration of thrown exception 'java.security.InvalidParameterException' which is a runtime exception.(¿ÒÙ
+£%squid:RedundantThrowsDeclarationCheckú"rRemove the declaration of thrown exception 'java.security.InvalidParameterException' which is a runtime exception.(¿ÒÙ

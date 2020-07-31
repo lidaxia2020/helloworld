@@ -1,0 +1,42 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+asquid:S1192’"IDefine a constant instead of duplicating this literal "msgId : " 4 times.(ÀëÏå
+ksquid:S1192š"SDefine a constant instead of duplicating this literal "contextEngineId : " 3 times.(¼ö—œ
+isquid:S1192–"LDefine a constant instead of duplicating this literal "msgFlags : " 4 times.(®›ãôøÿÿÿÿ
+qsquid:S1192˜"TDefine a constant instead of duplicating this literal "msgSecurityModel : " 4 times.(øˆÜÿÿÿÿÿ
+lsquid:S1192"ODefine a constant instead of duplicating this literal "contextName : " 3 times.(ÑĞ¼ üÿÿÿÿ
+csquid:S1192"KDefine a constant instead of duplicating this literal "version : " 3 times.(†æô
+ksquid:S1192”"NDefine a constant instead of duplicating this literal "msgMaxSize : " 4 times.(îîú‘şÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck€"QMake msgId a static final constant or non-public and provide accessors if needed.(œ«‹úÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheckˆ"VMake msgMaxSize a static final constant or non-public and provide accessors if needed.(»œ›æúÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"TMake msgFlags a static final constant or non-public and provide accessors if needed.(Ï´Í¼
+‹"squid:ClassVariableVisibilityCheck¥"\Make msgSecurityModel a static final constant or non-public and provide accessors if needed.(Ø³¶
+•"squid:ClassVariableVisibilityCheck¬"aMake msgSecurityParameters a static final constant or non-public and provide accessors if needed.(Ë§´Òüÿÿÿÿ
+"squid:ClassVariableVisibilityCheck³"[Make contextEngineId a static final constant or non-public and provide accessors if needed.(ÂÈğƒùÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckº"WMake contextName a static final constant or non-public and provide accessors if needed.(±ÿØÍ
+Œ"squid:ClassVariableVisibilityCheck¾"XMake encryptedPdu a static final constant or non-public and provide accessors if needed.(Åú¡¹şÿÿÿÿ
+xsquid:UselessImportCheck*"TRemove this unnecessary import: same package classes are always implicitly imported.(Ç”­ˆ
+xsquid:UselessImportCheck+"TRemove this unnecessary import: same package classes are always implicitly imported.(‘©î‚
+xsquid:UselessImportCheck,"TRemove this unnecessary import: same package classes are always implicitly imported.(‰¨„Õ
+wsquid:UselessImportCheck-"TRemove this unnecessary import: same package classes are always implicitly imported.(ŠÀëG
+}squid:UselessImportCheck."TRemove this unnecessary import: same package classes are always implicitly imported.(¯¤Úòÿÿÿÿÿ
+}squid:UselessImportCheck/"TRemove this unnecessary import: same package classes are always implicitly imported.(šÈ‡—şÿÿÿÿ
+wsquid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(â×è:
+xsquid:UselessImportCheck1"TRemove this unnecessary import: same package classes are always implicitly imported.(Ê³Ğå
+}squid:UselessImportCheck2"TRemove this unnecessary import: same package classes are always implicitly imported.(‘³ˆçûÿÿÿÿ
+xsquid:UselessImportCheck3"TRemove this unnecessary import: same package classes are always implicitly imported.(£´Ù
+xsquid:UselessImportCheck4"TRemove this unnecessary import: same package classes are always implicitly imported.(¤¦îğ
+}squid:UselessImportCheck5"TRemove this unnecessary import: same package classes are always implicitly imported.(Ø°Šıÿÿÿÿ
+xsquid:UselessImportCheck6"TRemove this unnecessary import: same package classes are always implicitly imported.(éÓŒ
+}squid:UselessImportCheck7"TRemove this unnecessary import: same package classes are always implicitly imported.(¨²Ì˜øÿÿÿÿ
+zsquid:UselessImportCheck%"QRemove this unused import 'com.sun.jmx.snmp.internal.SnmpMsgProcessingSubSystem'.(ÁÒõåûÿÿÿÿ
+Zsquid:UselessImportCheck "1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+qsquid:UselessImportCheck("HRemove this unused import 'com.sun.jmx.snmp.internal.SnmpSecurityCache'.(€ÙÔÿùÿÿÿÿ
+qsquid:UselessImportCheck&"HRemove this unused import 'com.sun.jmx.snmp.internal.SnmpSecurityModel'.(Îğ¡Íùÿÿÿÿ
+psquid:UselessImportCheck'"GRemove this unused import 'com.sun.jmx.snmp.internal.SnmpDecryptedPdu'.(Ì©¦Ùşÿÿÿÿ
+squid:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹±Í‰şÿÿÿÿ
+wsquid:S1149´"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+bsquid:HiddenFieldCheckµ":Rename "msgId" which hides the field declared at line 128.(Œ©íªşÿÿÿÿ
+Gsquid:S00108Â")Either remove or fill this block of code.(È¾¤¯øÿÿÿÿ
+Ksquid:S1481Ø"3Remove this unused "encodingLength" local variable.(êÄÛÑ

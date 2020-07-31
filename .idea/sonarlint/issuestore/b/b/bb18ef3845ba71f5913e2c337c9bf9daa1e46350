@@ -1,0 +1,37 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ‡æûÿÿÿÿ
+esquid:S3014m"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ÃéäÉúÿÿÿÿ
+fsquid:S3014ï"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(×ÙÈÍşÿÿÿÿ
+p
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(òƒ‰Ì
+Rsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+@squid:S1604ï"(Make this anonymous inner class a lambda(°ûº
+xsquid:UselessImportCheck/"TRemove this unnecessary import: same package classes are always implicitly imported.(˜Ì¾©
+Gsquid:UselessImportCheck8"Remove this duplicated import.(Ëó’œıÿÿÿÿ
+|squid:S1149í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(øˆìµùÿÿÿÿ
+^squid:S2142¯"FEither re-interrupt this method or rethrow the "InterruptedException".(¬Êã®
+;squid:S2129Õ"Remove this "Long" constructor(­ââ¿ÿÿÿÿÿ
+Zsquid:CallToDeprecatedMethodÕ",Remove this use of "Long"; it is deprecated.(­ââ¿ÿÿÿÿÿ
+;squid:S2129İ"Remove this "Long" constructor(ô‹åûÿÿÿÿ
+Zsquid:CallToDeprecatedMethodİ",Remove this use of "Long"; it is deprecated.(ô‹åûÿÿÿÿ
+6squid:S2129å"Remove this "Long" constructor(Ì£¨Ø
+Usquid:CallToDeprecatedMethodå",Remove this use of "Long"; it is deprecated.(Ì£¨Ø
+;squid:S2129í"Remove this "Long" constructor(•••úûÿÿÿÿ
+Zsquid:CallToDeprecatedMethodí",Remove this use of "Long"; it is deprecated.(•••úûÿÿÿÿ
+;squid:S2129õ"Remove this "Long" constructor(¾éÉˆÿÿÿÿÿ
+Zsquid:CallToDeprecatedMethodõ",Remove this use of "Long"; it is deprecated.(¾éÉˆÿÿÿÿÿ
+gsquid:S2445œ"O"aWorkQueue" is a method parameter, and should not be used for synchronization.(¬÷İ
+asquid:HiddenFieldCheckç"9Rename "name" which hides the field declared at line 103.(Í§›ûÿÿÿÿ
+Bsquid:S1181ö"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+squid:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ĞÄÂùÿÿÿÿ
+Dsquid:S2388”",Prefix this call to "getName" with "super.".(µä“µ
+|squid:S1149í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(øˆìµùÿÿÿÿ
+Bsquid:S1181ƒ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Rsquid:S1161‹":Add the "@Override" annotation above this method signature(“–ış
+Bsquid:S1181§"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+^squid:S2142“"FEither re-interrupt this method or rethrow the "InterruptedException".(¬Êã®
+Bsquid:S1181˜"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+=squid:S3398Æ"%Move this method into "WorkerThread".(­¿ºˆ
+Lsquid:S1068["5Remove this unused "boundedThreadPool" private field.(ÉçÔ‰
+Dsquid:S1068é",Remove this unused "threadId" private field.(¶è¹´
+Jsquid:S1068ë"2Remove this unused "threadPoolName" private field.(§´ª‹

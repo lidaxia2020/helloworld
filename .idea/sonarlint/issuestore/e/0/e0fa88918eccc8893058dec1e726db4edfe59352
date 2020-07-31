@@ -1,0 +1,6 @@
+
+Vsquid:UselessImportCheck"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+_squid:UselessImportCheck "6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+Gsquid:S2160o"+Override the "equals" method in this class.(¹ÊÈ ÿÿÿÿÿ
+Csquid:S1068"+Remove this unused "actions" private field.(ÒÙò’

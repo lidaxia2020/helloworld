@@ -1,0 +1,27 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ùèíšüÿÿÿÿ
+7squid:S1165>" Make this "locator" field final.(¶½¸¾
+Gsquid:S1165`"+Make this "containedException" field final.(‹ÆŒˆûÿÿÿÿ
+vsquid:S1149¢"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÚÎ—
+vsquid:S1149Î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÚÎ—
+@squid:S1948>")Make "locator" transient or serializable.(¶½¸¾
+esquid:S3551x"IMake this method "synchronized" to match the parent class implementation.(á»±àÿÿÿÿÿ
+Vsquid:S1161x":Add the "@Override" annotation above this method signature(á»±àÿÿÿÿÿ
+Wsquid:S1161 ":Add the "@Override" annotation above this method signature(’ñİñıÿÿÿÿ
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(â«üåşÿÿÿÿ
+P
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(Æı–
+Qsquid:S1161ş":Add the "@Override" annotation above this method signature(àşÙ
+jsquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ê½¡ì
+Rsquid:S1161‹":Add the "@Override" annotation above this method signature(ê½¡ì
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á«®éÿÿÿÿÿ
+=squid:S1181™"%Catch Exception instead of Throwable.(¢æ¼õ
+Bsquid:S00108™")Either remove or fill this block of code.(¢æ¼õ
+Bsquid:S1181¸"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+bsquid:S2147Î"ECombine this catch with the one at line 460, which has the same body.(Â–şºıÿÿÿÿ
+bsquid:S2147Ğ"ECombine this catch with the one at line 460, which has the same body.(Î‹©Èüÿÿÿÿ
+Fsquid:S1905¾")Remove this unnecessary cast to "Object".(ªÁĞÂùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ÚûãÕ
+csquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(¥·Ø¤

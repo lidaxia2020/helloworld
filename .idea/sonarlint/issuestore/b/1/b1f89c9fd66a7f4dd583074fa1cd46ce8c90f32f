@@ -1,0 +1,9 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛýÿÿÿÿ
+Fsquid:S1066g"/Merge this if statement with the enclosing one.(šœŸ·
+…squid:S4165h"iRemove this useless assignment; "uniqueOrKey" already holds the assigned value along all execution paths.(¬Ø„­þÿÿÿÿ
+hsquid:S3776<"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(·ž’^
+vsquid:S3252N"_Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_UNIQUE".(š¿Î’
+xsquid:S3252P"\Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEY".(é¼ï©ùÿÿÿÿ
+Jsquid:S1905h".Remove this unnecessary cast to "UniqueOrKey".(¬Ø„­þÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

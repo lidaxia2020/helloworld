@@ -1,0 +1,11 @@
+
+Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
+1squid:S5164>"Call "remove()" on "_dom".(§Îà»
+lsquid:S00116<"TRename this field "_systemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÑ×£
+jsquid:S00116="RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“õ¢ö
+gsquid:S00116>"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Îà»
+isquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(—ÚU
+fsquid:S4201™"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÕÏ¢‚øÿÿÿÿ
+Asquid:S1125")Remove the literal "false" boolean value.(õò
+gsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

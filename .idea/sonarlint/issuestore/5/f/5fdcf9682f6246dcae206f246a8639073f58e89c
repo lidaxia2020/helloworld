@@ -1,0 +1,15 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
+isquid:UselessImportCheck."ERemove this unused import 'javax.management.NotificationBroadcaster'.(á´ö´
+Vsquid:UselessImportCheck$"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+Osquid:UselessImportCheck""+Remove this unused import 'java.util.Date'.(¸…¼ü
+Vsquid:UselessImportCheck#"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+[squid:UselessImportCheck2"7Remove this unused import 'com.sun.jmx.snmp.SnmpValue'.(±úì¦
+]squid:UselessImportCheck3"9Remove this unused import 'com.sun.jmx.snmp.SnmpVarBind'.(¦ôÛ°
+Esquid:S1948y")Make "entries" transient or serializable.(˜…âıÿÿÿÿ
+Bsquid:S00108Í")Either remove or fill this block of code.(”ı¾
+Psquid:S1197§"8Move the array designator from the variable to the type.(Ã¤ å
+psquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦’"
+>squid:S1168É"&Return an empty array instead of null.(‹õÂ”
+gsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(çï¹øÿÿÿÿÿ
+csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(Æ¬¢

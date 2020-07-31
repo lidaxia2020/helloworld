@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
+wsquid:UselessImportCheck("TRemove this unnecessary import: same package classes are always implicitly imported.(Ø¬Ô
+‚squid:UselessImportCheck#"^Remove this unused import 'com.sun.corba.se.spi.protocol.LocalClientRequestDispatcherFactory'.(£€ìö
+{squid:UselessImportCheck$"WRemove this unused import 'com.sun.corba.se.spi.protocol.LocalClientRequestDispatcher'.(ğµ£Ã
+dsquid:UselessImportCheck*"@Remove this unused import 'com.sun.corba.se.pept.broker.Broker'.(„‘×î
+`squid:S4201H"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ù­âÚ
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(‹Éúøúÿÿÿÿ

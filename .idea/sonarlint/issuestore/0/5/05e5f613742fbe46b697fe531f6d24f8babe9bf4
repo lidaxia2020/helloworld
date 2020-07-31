@@ -1,0 +1,6 @@
+
+osquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(Øææ‰úÿÿÿÿ
+jsquid:ModifiersOrderCheckC"EReorder the modifiers to comply with the Java Language Specification.(š…ÿı
+Rsquid:S1161´":Add the "@Override" annotation above this method signature(‡î€ƒ
+Qsquid:S1161Å":Add the "@Override" annotation above this method signature(›¬¯`
+%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ä†óÀ

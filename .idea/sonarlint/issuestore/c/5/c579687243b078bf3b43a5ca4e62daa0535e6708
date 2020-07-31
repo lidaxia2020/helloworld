@@ -1,0 +1,4 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(Š­ ¾ûÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.FileDescriptor'.(Þ…º†
+esquid:S3551+"IMake this method "synchronized" to match the parent class implementation.(óƒþÈúÿÿÿÿ

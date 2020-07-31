@@ -1,0 +1,17 @@
+
+Msquid:S2065"0Remove the "transient" modifier from this field.(·Œ”ûÿÿÿÿ
+isquid:S3038"L"get" is defined in the "List" interface and can be removed from this class.(ÜãÉÃüÿÿÿÿ
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÜãÉÃüÿÿÿÿ
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+Hsquid:S2160š"+Override the "equals" method in this class.(ãâ‰‚ÿÿÿÿÿ
+Wsquid:S1161­":Add the "@Override" annotation above this method signature(İìÆíøÿÿÿÿ
+Wsquid:S1161¾":Add the "@Override" annotation above this method signature(İÏç´øÿÿÿÿ
+Rsquid:S1161Æ":Add the "@Override" annotation above this method signature(‡ğÎ
+Rsquid:S1161Ï":Add the "@Override" annotation above this method signature(œ÷¾ÿ
+Qsquid:S1161Ú":Add the "@Override" annotation above this method signature(µ´ˆ2
+Qsquid:S1161ç":Add the "@Override" annotation above this method signature(¹æá5
+Wsquid:S1161ë":Add the "@Override" annotation above this method signature(ı½øÿÿÿÿ
+Rsquid:S1161¢":Add the "@Override" annotation above this method signature(¾ 
+osquid:S2177«"WRename this method; there is a "private" method in the parent class with the same name.(šÈ¢­
+osquid:S2177°"WRename this method; there is a "private" method in the parent class with the same name.(ÿ§Ú¶
+Rsquid:S1161¿":Add the "@Override" annotation above this method signature(¾ 

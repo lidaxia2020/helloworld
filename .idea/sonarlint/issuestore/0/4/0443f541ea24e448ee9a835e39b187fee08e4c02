@@ -1,0 +1,53 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çþÿÿÿÿ
+ssquid:S1488S"\Immediately return this expression instead of assigning it to the temporary variable "tcis".(üÛ¾
+vsquid:S1488ê"^Immediately return this expression instead of assigning it to the temporary variable "topPos".(©Ó¬
+osquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÑ‡ýÿÿÿÿ
+}squid:UselessImportCheck,"TRemove this unnecessary import: same package classes are always implicitly imported.(°Š ÿÿÿÿÿ
+}squid:UselessImportCheck-"TRemove this unnecessary import: same package classes are always implicitly imported.(¡Ÿ©µÿÿÿÿÿ
+}squid:UselessImportCheck/"TRemove this unnecessary import: same package classes are always implicitly imported.(å éþÿÿÿÿ
+xsquid:UselessImportCheck1"TRemove this unnecessary import: same package classes are always implicitly imported.(³þ¾˜
+}squid:UselessImportCheck2"TRemove this unnecessary import: same package classes are always implicitly imported.(ÁÐ˜Úÿÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'org.omg.CORBA.StructMember'.(ÒðÊˆ
+Usquid:UselessImportCheck="1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+fsquid:UselessImportCheck&"BRemove this unused import 'org.omg.CORBA.TypeCodePackage.BadKind'.(ÍË‹‘
+Usquid:UselessImportCheck>"1Remove this unused import 'java.math.BigInteger'.(»Çâ€
+jsquid:UselessImportCheck."FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.GIOPVersion'.(Å¯›ë
+Tsquid:UselessImportCheck7"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+_squid:UselessImportCheck "6Remove this unused import 'org.omg.CORBA.ValueMember'.(¸ŠÙÈúÿÿÿÿ
+Wsquid:UselessImportCheck"".Remove this unused import 'org.omg.CORBA.Any'.(ÑÔÐåþÿÿÿÿ
+]squid:UselessImportCheck<":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È
+Xsquid:UselessImportCheck#"4Remove this unused import 'org.omg.CORBA.Principal'.(Ð¢Áš
+Tsquid:UselessImportCheck9"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Tsquid:UselessImportCheck;"0Remove this unused import 'java.io.PrintStream'.(×êŽ’
+Ysquid:UselessImportCheck:"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+_squid:UselessImportCheck"6Remove this unused import 'org.omg.CORBA.UnionMember'.(©ìóüÿÿÿÿ
+Usquid:UselessImportCheck!"1Remove this unused import 'org.omg.CORBA.TCKind'.(ÞâƒÅ
+[squid:UselessImportCheck8"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+`squid:S4201{"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ýë›²
+9squid:S2129”"!Remove this "Integer" constructor(¤Ï—›
+Xsquid:CallToDeprecatedMethod”"/Remove this use of "Integer"; it is deprecated.(¤Ï—›
+Fsquid:S1125Ý")Remove the literal "false" boolean value.(‡–Ô†ùÿÿÿÿ
+P
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ˆÖàñ
+U
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ö´þÿÿÿÿ
+U
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ŸÄ™½úÿÿÿÿ
+bsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(å¨Ã¿
+hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ŸÄ™½úÿÿÿÿ
+csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(®½Ã½
+hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(ŸÄ™½úÿÿÿÿ
+hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(¼Ÿ—‹ÿÿÿÿÿ
+csquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ëî‡Ç
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(­áí§
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(ú›ì´
+hsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(ŸÄ™½úÿÿÿÿ
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(ŸÄ™½úÿÿÿÿ
+hsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ŸÄ™½úÿÿÿÿ
+csquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(Öž¥ª
+csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(ëÆ µ
+hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(´œéæüÿÿÿÿ
+bsquid:CommentedOutCodeLineð"<This block of commented-out lines of code should be removed.(ž•”B
+hsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(ÿêÃ‚øÿÿÿÿ

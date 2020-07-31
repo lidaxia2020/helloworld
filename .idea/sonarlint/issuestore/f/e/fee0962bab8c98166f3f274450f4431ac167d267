@@ -1,0 +1,40 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶×ô°ûÿÿÿÿ
+esquid:S1192@"NDefine a constant instead of duplicating this literal "\toldState = " 3 times.(»Šµ„
+‡"squid:ClassVariableVisibilityCheck’"SMake counter a static final constant or non-public and provide accessors if needed.(Ô¦Óªþÿÿÿÿ
+csquid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(¹å¼âúÿÿÿÿ
+]squid:S00112E"FDefine and throw a dedicated exception instead of using a generic one.(µÇ­V
+]squid:S00112`"FDefine and throw a dedicated exception instead of using a generic one.(µÇ­V
+csquid:S00112t"FDefine and throw a dedicated exception instead of using a generic one.(¹å¼âúÿÿÿÿ
+wsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Ææ£
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ß£Ùå
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(†ŒŠŽÿÿÿÿÿ
+xsquid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(åÐÃ¢
+xsquid:UselessImportCheck!"TRemove this unnecessary import: same package classes are always implicitly imported.(ÑÞƒ‰
+xsquid:UselessImportCheck""TRemove this unnecessary import: same package classes are always implicitly imported.(àßÚ
+}squid:UselessImportCheck#"TRemove this unnecessary import: same package classes are always implicitly imported.(µÝ¤ûÿÿÿÿ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(›„üÐ
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ñÌ»ô
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(»Šµ„
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(·Œ­Ïýÿÿÿÿ
+O
+squid:S106["9Replace this use of System.out or System.err by a logger.(”ÅÊ¹
+O
+squid:S106\"9Replace this use of System.out or System.err by a logger.(»Šµ„
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(·Œ­Ïýÿÿÿÿ
+T
+squid:S106^"9Replace this use of System.out or System.err by a logger.(™¯Å”þÿÿÿÿ
+O
+squid:S106p"9Replace this use of System.out or System.err by a logger.(›„üÐ
+O
+squid:S106q"9Replace this use of System.out or System.err by a logger.(ñÌ»ô
+O
+squid:S106r"9Replace this use of System.out or System.err by a logger.(»Šµ„
+Psquid:S1854È"8Remove this useless assignment to local variable "in21".(Ç¯«Â
+Asquid:S1481È")Remove this unused "in21" local variable.(Ç¯«Â
+Hsquid:S1068 "0Remove this unused "counterGuard" private field.(õíÞÃ

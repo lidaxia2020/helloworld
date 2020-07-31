@@ -1,0 +1,27 @@
+
+Š squid:ForLoopCounterChangedCheck«"XRefactor the code in order to not assign to this loop counter from within the loop body.(œåœ¯üÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck«"XRefactor the code in order to not assign to this loop counter from within the loop body.(œåœ¯üÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(Àƒûÿÿÿÿ
+… squid:ForLoopCounterChangedCheck¯"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŒÙÍ÷
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+_$squid:AssignmentInSubExpressionCheckã".Extract the assignment out of this expression.(…íÍÄ
+d$squid:AssignmentInSubExpressionCheckÿ".Extract the assignment out of this expression.(µÈÚüÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck’".Extract the assignment out of this expression.(˜Ï±­ûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÉ".Extract the assignment out of this expression.(îˆºÓ
+d$squid:AssignmentInSubExpressionCheckÖ".Extract the assignment out of this expression.(˜Ï±­ûÿÿÿÿ
+qsquid:UselessImportCheck'"HRemove this unused import 'com.sun.org.apache.xalan.internal.xsltc.DOM'.(³Œ³ûÿÿÿÿ
+msquid:S00116¼"TRename this field "_heapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éØ¬Æ
+nsquid:S00116½"PRename this field "_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÓ™—úÿÿÿÿ
+isquid:S00116¾"PRename this field "_heap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÃôå
+nsquid:S00116¿"PRename this field "_free" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŞÚòùÿÿÿÿ
+qsquid:S00116Ã"XRename this field "_returnedLast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ó½À
+|squid:S00116Æ"^Rename this field "_cachedReturnedLast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùª¯«úÿÿÿÿ
+xsquid:S00116É"ZRename this field "_cachedHeapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°—Îúÿÿÿÿ
+xsquid:S00115º"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éçŸÉøÿÿÿÿ
+Esquid:S1659T")Declare "_markedNode" on a separate line.(‰Çüúÿÿÿÿ
+msquid:S00116T"PRename this field "_node" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Çüúÿÿÿÿ
+ssquid:S00116T"VRename this field "_markedNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Çüúÿÿÿÿ
+ssquid:S00116U"VRename this field "_isStartSet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßî­¦úÿÿÿÿ
+Rsquid:S1161Ì":Add the "@Override" annotation above this method signature(À÷ÖÚ
+Rsquid:S1161Ï":Add the "@Override" annotation above this method signature(üÿÆ‰
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

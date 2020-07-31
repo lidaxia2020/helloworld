@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÂÙÁˆûÿÿÿÿ
+ksquid:S1192“"SUse already-defined constant 'FORMAT_FAILED' instead of duplicating its value here.(Öá’÷
+lsquid:S1192”"OUse already-defined constant 'ERROR0000' instead of duplicating its value here.(Ûôÿ¡øÿÿÿÿ
+ksquid:S1192’"NUse already-defined constant 'BAD_CODE' instead of duplicating its value here.(ø×é¯üÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

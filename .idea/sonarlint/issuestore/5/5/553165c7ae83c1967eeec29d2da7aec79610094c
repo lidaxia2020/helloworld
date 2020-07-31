@@ -1,0 +1,8 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
+Qsquid:S1161E":Add the "@Override" annotation above this method signature(ÌÈç
+Vsquid:S1161T":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
+Bsquid:S1172j"+Remove this unused method parameter "type".(á¿ï
+Qsquid:S1161u":Add the "@Override" annotation above this method signature(Éä®†
+Csquid:S1872w"'Use an "instanceof" comparison instead.(½®áêşÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

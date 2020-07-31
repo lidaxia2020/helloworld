@@ -1,0 +1,9 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
+Lsquid:S1066Ù"/Merge this if statement with the enclosing one.(Ç‰±ÿüÿÿÿÿ
+Gsquid:S1066¹"/Merge this if statement with the enclosing one.(”È¨
+bsquid:S2259Ô"EA "NullPointerException" could be thrown; "nameAtt" is nullable here.(²‡ùıÿÿÿÿ
+isquid:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ÿÒÚç
+osquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(ä‹Àùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(× ıÀ

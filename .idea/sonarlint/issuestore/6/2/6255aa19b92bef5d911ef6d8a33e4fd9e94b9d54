@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(’Î¢ÿÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"XMake endpointType a static final constant or non-public and provide accessors if needed.(å½•ü
+ƒ"squid:ClassVariableVisibilityCheck"PMake port a static final constant or non-public and provide accessors if needed.(´ Ó´üÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûóİúÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûóİúÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Î¢ÿÿÿÿÿ
+Bsquid:S1905"&Remove this unnecessary cast to "int".(´ Ó´üÿÿÿÿ

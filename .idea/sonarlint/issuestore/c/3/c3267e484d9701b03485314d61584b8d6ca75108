@@ -1,0 +1,65 @@
+
+Msquid:S1191"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
+asquid:S1192Ó"IDefine a constant instead of duplicating this literal ", Size: " 3 times.(ç…Šç
+`squid:S1192Ò"HDefine a constant instead of duplicating this literal "Index: " 5 times.(·“ûê
+d$squid:AssignmentInSubExpressionCheck©".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckã".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck‹".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck³".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+_squid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+Bsquid:S3077|"&Use an "AtomicReferenceArray" instead.(²‘Ğÿıÿÿÿÿ
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åæİÌúÿÿÿÿ
+ksquid:S2975ˆ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+Psquid:S1197æ"8Move the array designator from the variable to the type.(ÿèŠ’
+\squid:HiddenFieldCheck’"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheck²"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheckÌ"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheckñ"9Rename "lock" which hides the field declared at line 121.(º·úã
+Fsquid:S1125")Remove the literal "false" boolean value.(±†¥Óúÿÿÿÿ
+\squid:HiddenFieldCheck©"9Rename "lock" which hides the field declared at line 121.(º·úã
+m squid:LabelsShouldNotBeUsedCheck®";Refactor the code to remove this label and the need for it.(ïÏïóûÿÿÿÿ
+\squid:HiddenFieldCheckÜ"9Rename "lock" which hides the field declared at line 121.(º·úã
+Fsquid:S1125€")Remove the literal "false" boolean value.(¥õ¡Ğüÿÿÿÿ
+\squid:HiddenFieldCheckŒ"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheckÑ"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheck€"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheck¬"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheckÌ"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheckè"9Rename "lock" which hides the field declared at line 121.(º·úã
+\squid:HiddenFieldCheck"9Rename "lock" which hides the field declared at line 121.(º·úã
+Rsquid:S1161­":Add the "@Override" annotation above this method signature(ïåê
+Rsquid:S1161·":Add the "@Override" annotation above this method signature(µ³‹¬
+\squid:HiddenFieldCheck¹"9Rename "lock" which hides the field declared at line 121.(º·úã
+Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(à½éòúÿÿÿÿ
+\squid:HiddenFieldCheckÓ"9Rename "lock" which hides the field declared at line 121.(º·úã
+Rsquid:S1161ã":Add the "@Override" annotation above this method signature(é±Şâ
+\squid:HiddenFieldCheckä"9Rename "lock" which hides the field declared at line 121.(º·úã
+Xsquid:S1126à	"AReplace this if-then-else statement by a single return statement.(â™ÔR
+qsquid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üùºû
+qsquid:S2293Ÿ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üùºû
+qsquid:S2293¸
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Íô÷
+Wsquid:S1161Ò
+":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+\squid:HiddenFieldCheckÊ"9Rename "lock" which hides the field declared at line 121.(º·úã
+qsquid:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(É °¾
+Hsquid:S2160ê"+Override the "equals" method in this class.(¾ıË™ûÿÿÿÿ
+Dsquid:S2388Ú",Prefix this call to "indexOf" with "super.".(¹¸Æ
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(İìÆíøÿÿÿÿ
+Wsquid:S1161®":Add the "@Override" annotation above this method signature(İÏç´øÿÿÿÿ
+Wsquid:S1161½":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+Rsquid:S1161Ê":Add the "@Override" annotation above this method signature(‡ğÎ
+Qsquid:S1161á":Add the "@Override" annotation above this method signature(¹æá5
+qsquid:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø› ä
+Wsquid:S1161ì":Add the "@Override" annotation above this method signature(Î‹Ê÷ıÿÿÿÿ
+psquid:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹£ä	
+Rsquid:S1161ú":Add the "@Override" annotation above this method signature(¾ 
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¾½=
+Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(ïåê
+Wsquid:S1161—":Add the "@Override" annotation above this method signature(à½éòúÿÿÿÿ
+Rsquid:S1161¯":Add the "@Override" annotation above this method signature(é±Şâ
+Rsquid:S1161”":Add the "@Override" annotation above this method signature(µ³‹¬
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ

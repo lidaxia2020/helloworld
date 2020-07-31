@@ -1,0 +1,316 @@
+
+]squid:S2184"@Cast one of the operands of this integer division to a "double".(Õ¼€´ÿÿÿÿÿ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ãø‘şÿÿÿÿ
+dsquid:S1192®"GDefine a constant instead of duplicating this literal "value" 36 times.(ôœ½£şÿÿÿÿ
+jsquid:S1192è"RDefine a constant instead of duplicating this literal "compressionMethod" 8 times.(ÙŸÊ®
+asquid:S1192Ø"IDefine a constant instead of duplicating this literal "keyword" 10 times.(Ë¯¿Ä
+dsquid:S1192Ú"GDefine a constant instead of duplicating this literal "minute" 4 times.(‘Ëÿÿÿÿÿ
+gsquid:S1192‚"JDefine a constant instead of duplicating this literal "TextEntry" 4 times.(„åëìûÿÿÿÿ
+^squid:S1192‚"FDefine a constant instead of duplicating this literal "alpha" 9 times.(ïŒ¶İ
+dsquid:S1192C"HDefine a constant instead of duplicating this literal "deflate" 4 times.(İÑì€ıÿÿÿÿ
+qsquid:S1192Õ"TDefine a constant instead of duplicating this literal "Required attribute " 4 times.(Âö¯–ûÿÿÿÿ
+_squid:S11924"HDefine a constant instead of duplicating this literal "Palette" 3 times.(Å—µø
+dsquid:S1192Û"GDefine a constant instead of duplicating this literal "second" 4 times.(Å¶®£ÿÿÿÿÿ
+ksquid:S1192Õ"NDefine a constant instead of duplicating this literal " not present!" 4 times.(Âö¯–ûÿÿÿÿ
+^squid:S1192×"FDefine a constant instead of duplicating this literal "month" 4 times.(³ ÿã
+isquid:S1192†"LDefine a constant instead of duplicating this literal "compression" 5 times.(–ÄŞšüÿÿÿÿ
+dsquid:S1192ø"GDefine a constant instead of duplicating this literal "index" 12 times.(–¶»âıÿÿÿÿ
+dsquid:S1192û"GDefine a constant instead of duplicating this literal "green" 18 times.(‰Á¬Îúÿÿÿÿ
+Lsquid:S1066Ó"/Merge this if statement with the enclosing one.(ğÖ‰åúÿÿÿÿ
+”squid:S1319°"wThe type of the "iTXt_keyword" object should be an interface such as "List" rather than the implementation "ArrayList".(Öè¸ïúÿÿÿÿ
+—squid:S1319±"The type of the "iTXt_compressionFlag" object should be an interface such as "List" rather than the implementation "ArrayList".(¸ûš
+šsquid:S1319²"The type of the "iTXt_compressionMethod" object should be an interface such as "List" rather than the implementation "ArrayList".(œ­¾Æ
+˜squid:S1319³"{The type of the "iTXt_languageTag" object should be an interface such as "List" rather than the implementation "ArrayList".(¢÷éøÿÿÿÿ
+Ÿsquid:S1319´"The type of the "iTXt_translatedKeyword" object should be an interface such as "List" rather than the implementation "ArrayList".(èÄ°Éÿÿÿÿÿ
+‹squid:S1319µ"tThe type of the "iTXt_text" object should be an interface such as "List" rather than the implementation "ArrayList".(© ªz
+”squid:S1319Õ"wThe type of the "tEXt_keyword" object should be an interface such as "List" rather than the implementation "ArrayList".(Ñù•çÿÿÿÿÿ
+‘squid:S1319Ö"tThe type of the "tEXt_text" object should be an interface such as "List" rather than the implementation "ArrayList".(ŸÅñöÿÿÿÿÿ
+squid:S1319í"wThe type of the "zTXt_keyword" object should be an interface such as "List" rather than the implementation "ArrayList".(­ßŞï
+šsquid:S1319î"The type of the "zTXt_compressionMethod" object should be an interface such as "List" rather than the implementation "ArrayList".(†Š¶
+‘squid:S1319ï"tThe type of the "zTXt_text" object should be an interface such as "List" rather than the implementation "ArrayList".(Óßñûÿÿÿÿ
+“squid:S1319ò"{The type of the "unknownChunkType" object should be an interface such as "List" rather than the implementation "ArrayList".(îõØ®
+“squid:S1319ó"{The type of the "unknownChunkData" object should be an interface such as "List" rather than the implementation "ArrayList".(ôèÜ
+‹"squid:ClassVariableVisibilityChecku"XMake IHDR_present a static final constant or non-public and provide accessors if needed.(Ä”¹Ïûÿÿÿÿ
+„"squid:ClassVariableVisibilityCheckv"VMake IHDR_width a static final constant or non-public and provide accessors if needed.(§î„
+Š"squid:ClassVariableVisibilityCheckw"WMake IHDR_height a static final constant or non-public and provide accessors if needed.(üÌÁÍûÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheckx"YMake IHDR_bitDepth a static final constant or non-public and provide accessors if needed.(õ³Ÿòüÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityChecky"ZMake IHDR_colorType a static final constant or non-public and provide accessors if needed.(÷ù§ã
+"squid:ClassVariableVisibilityCheckz"bMake IHDR_compressionMethod a static final constant or non-public and provide accessors if needed.(áŞ÷»
+"squid:ClassVariableVisibilityCheck{"]Make IHDR_filterMethod a static final constant or non-public and provide accessors if needed.(Í¦à°ÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck|"`Make IHDR_interlaceMethod a static final constant or non-public and provide accessors if needed.(µîË°
+†"squid:ClassVariableVisibilityCheck"XMake PLTE_present a static final constant or non-public and provide accessors if needed.(å±°Õ
+ƒ"squid:ClassVariableVisibilityCheck€"TMake PLTE_red a static final constant or non-public and provide accessors if needed.(Áò…ı
+Š"squid:ClassVariableVisibilityCheck"VMake PLTE_green a static final constant or non-public and provide accessors if needed.(£¡µµøÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck‚"UMake PLTE_blue a static final constant or non-public and provide accessors if needed.(˜Å¯øÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck‰"VMake PLTE_order a static final constant or non-public and provide accessors if needed.(÷î´
+Œ"squid:ClassVariableVisibilityCheck"XMake bKGD_present a static final constant or non-public and provide accessors if needed.(¯ã«€úÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"ZMake bKGD_colorType a static final constant or non-public and provide accessors if needed.(ÇÆ²S
+…"squid:ClassVariableVisibilityCheck"VMake bKGD_index a static final constant or non-public and provide accessors if needed.(Ãì§ğ
+„"squid:ClassVariableVisibilityCheck‘"UMake bKGD_gray a static final constant or non-public and provide accessors if needed.(ñá•Ø
+ˆ"squid:ClassVariableVisibilityCheck’"TMake bKGD_red a static final constant or non-public and provide accessors if needed.(€Ëó¶ùÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck“"VMake bKGD_green a static final constant or non-public and provide accessors if needed.(ƒê—Ìüÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck”"UMake bKGD_blue a static final constant or non-public and provide accessors if needed.(†ãìÀøÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck—"XMake cHRM_present a static final constant or non-public and provide accessors if needed.(“ÿã±ÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck˜"\Make cHRM_whitePointX a static final constant or non-public and provide accessors if needed.(´†ö•øÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheck™"\Make cHRM_whitePointY a static final constant or non-public and provide accessors if needed.(ÏöÛ
+ƒ"squid:ClassVariableVisibilityCheckš"UMake cHRM_redX a static final constant or non-public and provide accessors if needed.(¬ã¬T
+‰"squid:ClassVariableVisibilityCheck›"UMake cHRM_redY a static final constant or non-public and provide accessors if needed.(—©Ï»ÿÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckœ"WMake cHRM_greenX a static final constant or non-public and provide accessors if needed.(Ü¯ğ
+‹"squid:ClassVariableVisibilityCheck"WMake cHRM_greenY a static final constant or non-public and provide accessors if needed.(‰ğ©Õøÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"VMake cHRM_blueX a static final constant or non-public and provide accessors if needed.(üşÓøÿÿÿÿ
+…"squid:ClassVariableVisibilityCheckŸ"VMake cHRM_blueY a static final constant or non-public and provide accessors if needed.(¥İƒ…
+‡"squid:ClassVariableVisibilityCheck¢"XMake gAMA_present a static final constant or non-public and provide accessors if needed.(¤ããï
+…"squid:ClassVariableVisibilityCheck£"VMake gAMA_gamma a static final constant or non-public and provide accessors if needed.(ÙŒ¼Ü
+Œ"squid:ClassVariableVisibilityCheck¦"XMake hIST_present a static final constant or non-public and provide accessors if needed.(‹–€Åÿÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck§"ZMake hIST_histogram a static final constant or non-public and provide accessors if needed.(ğ«¤õ
+†"squid:ClassVariableVisibilityCheckª"XMake iCCP_present a static final constant or non-public and provide accessors if needed.(Ë ÄD
+"squid:ClassVariableVisibilityCheck«"\Make iCCP_profileName a static final constant or non-public and provide accessors if needed.(çÖäÙøÿÿÿÿ
+‘"squid:ClassVariableVisibilityCheck¬"bMake iCCP_compressionMethod a static final constant or non-public and provide accessors if needed.(ŞÂø
+‘"squid:ClassVariableVisibilityCheck­"bMake iCCP_compressedProfile a static final constant or non-public and provide accessors if needed.(ºãªÉ
+Œ"squid:ClassVariableVisibilityCheck°"XMake iTXt_keyword a static final constant or non-public and provide accessors if needed.(Öè¸ïúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck±"`Make iTXt_compressionFlag a static final constant or non-public and provide accessors if needed.(¸ûš
+‘"squid:ClassVariableVisibilityCheck²"bMake iTXt_compressionMethod a static final constant or non-public and provide accessors if needed.(œ­¾Æ
+"squid:ClassVariableVisibilityCheck³"\Make iTXt_languageTag a static final constant or non-public and provide accessors if needed.(¢÷éøÿÿÿÿ
+–"squid:ClassVariableVisibilityCheck´"bMake iTXt_translatedKeyword a static final constant or non-public and provide accessors if needed.(èÄ°Éÿÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheckµ"UMake iTXt_text a static final constant or non-public and provide accessors if needed.(© ªz
+Œ"squid:ClassVariableVisibilityCheck¸"XMake pHYs_present a static final constant or non-public and provide accessors if needed.(Ì•ªşÿÿÿÿ
+—"squid:ClassVariableVisibilityCheck¹"cMake pHYs_pixelsPerUnitXAxis a static final constant or non-public and provide accessors if needed.(Øœà·üÿÿÿÿ
+’"squid:ClassVariableVisibilityCheckº"cMake pHYs_pixelsPerUnitYAxis a static final constant or non-public and provide accessors if needed.(ŠÖğ¿
+"squid:ClassVariableVisibilityCheck»"^Make pHYs_unitSpecifier a static final constant or non-public and provide accessors if needed.(†Û¹¾
+‡"squid:ClassVariableVisibilityCheck¾"XMake sBIT_present a static final constant or non-public and provide accessors if needed.(ì˜ŒŸ
+"squid:ClassVariableVisibilityCheck¿"ZMake sBIT_colorType a static final constant or non-public and provide accessors if needed.(üĞŞ“üÿÿÿÿ
+"squid:ClassVariableVisibilityCheckÀ"YMake sBIT_grayBits a static final constant or non-public and provide accessors if needed.(Óğüúùÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckÁ"XMake sBIT_redBits a static final constant or non-public and provide accessors if needed.( ØÍ
+"squid:ClassVariableVisibilityCheckÂ"ZMake sBIT_greenBits a static final constant or non-public and provide accessors if needed.(ÕÖ Îøÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheckÃ"YMake sBIT_blueBits a static final constant or non-public and provide accessors if needed.(§²Óß
+"squid:ClassVariableVisibilityCheckÄ"ZMake sBIT_alphaBits a static final constant or non-public and provide accessors if needed.(ÏàÒ­úÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckÇ"XMake sPLT_present a static final constant or non-public and provide accessors if needed.(­Øî^
+"squid:ClassVariableVisibilityCheckÈ"\Make sPLT_paletteName a static final constant or non-public and provide accessors if needed.(Úàåşÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheckÉ"\Make sPLT_sampleDepth a static final constant or non-public and provide accessors if needed.(Î÷æª
+ˆ"squid:ClassVariableVisibilityCheckÊ"TMake sPLT_red a static final constant or non-public and provide accessors if needed.(ßÅ°‹ùÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheckË"VMake sPLT_green a static final constant or non-public and provide accessors if needed.(¾¿ÇÃûÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckÌ"UMake sPLT_blue a static final constant or non-public and provide accessors if needed.(ß›Óıüÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheckÍ"VMake sPLT_alpha a static final constant or non-public and provide accessors if needed.(ğƒñØûÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckÎ"ZMake sPLT_frequency a static final constant or non-public and provide accessors if needed.(Æ‰­­
+‡"squid:ClassVariableVisibilityCheckÑ"XMake sRGB_present a static final constant or non-public and provide accessors if needed.(…Ò¡û
+”"squid:ClassVariableVisibilityCheckÒ"`Make sRGB_renderingIntent a static final constant or non-public and provide accessors if needed.(²ã®ßúÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheckÕ"XMake tEXt_keyword a static final constant or non-public and provide accessors if needed.(Ñù•çÿÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckÖ"UMake tEXt_text a static final constant or non-public and provide accessors if needed.(ŸÅñöÿÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheckÙ"XMake tIME_present a static final constant or non-public and provide accessors if needed.(öÁãº
+„"squid:ClassVariableVisibilityCheckÚ"UMake tIME_year a static final constant or non-public and provide accessors if needed.(åŠ­ü
+…"squid:ClassVariableVisibilityCheckÛ"VMake tIME_month a static final constant or non-public and provide accessors if needed.(°Š»É
+ƒ"squid:ClassVariableVisibilityCheckÜ"TMake tIME_day a static final constant or non-public and provide accessors if needed.(ÏËÒ‘
+„"squid:ClassVariableVisibilityCheckİ"UMake tIME_hour a static final constant or non-public and provide accessors if needed.(šÅî¶
+‹"squid:ClassVariableVisibilityCheckŞ"WMake tIME_minute a static final constant or non-public and provide accessors if needed.(ÿÜÍöøÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckß"WMake tIME_second a static final constant or non-public and provide accessors if needed.(ÏõÙÏ
+‡"squid:ClassVariableVisibilityCheckä"XMake tRNS_present a static final constant or non-public and provide accessors if needed.(öîŞŸ
+"squid:ClassVariableVisibilityCheckå"ZMake tRNS_colorType a static final constant or non-public and provide accessors if needed.(æˆû´øÿÿÿÿ
+…"squid:ClassVariableVisibilityCheckæ"VMake tRNS_alpha a static final constant or non-public and provide accessors if needed.(‘¨»—
+„"squid:ClassVariableVisibilityCheckç"UMake tRNS_gray a static final constant or non-public and provide accessors if needed.(·¡ÉÛ
+ƒ"squid:ClassVariableVisibilityCheckè"TMake tRNS_red a static final constant or non-public and provide accessors if needed.(½°á§
+Š"squid:ClassVariableVisibilityChecké"VMake tRNS_green a static final constant or non-public and provide accessors if needed.(Ï¡Ğ£şÿÿÿÿ
+„"squid:ClassVariableVisibilityCheckê"UMake tRNS_blue a static final constant or non-public and provide accessors if needed.(´Êˆ
+‡"squid:ClassVariableVisibilityCheckí"XMake zTXt_keyword a static final constant or non-public and provide accessors if needed.(­ßŞï
+‘"squid:ClassVariableVisibilityCheckî"bMake zTXt_compressionMethod a static final constant or non-public and provide accessors if needed.(†Š¶
+‰"squid:ClassVariableVisibilityCheckï"UMake zTXt_text a static final constant or non-public and provide accessors if needed.(Óßñûÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheckò"\Make unknownChunkType a static final constant or non-public and provide accessors if needed.(îõØ®
+‹"squid:ClassVariableVisibilityCheckó"\Make unknownChunkData a static final constant or non-public and provide accessors if needed.(ôèÜ
+_squid:S00112£"FDefine and throw a dedicated exception instead of using a generic one.(†³ˆø
+dsquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(À»û£ûÿÿÿÿ
+Gsquid:S5411Ú"*Use the primitive boolean expression here.(×Àòùüÿÿÿÿ
+Gsquid:S5411‘"*Use the primitive boolean expression here.(„ÖÄ¶ùÿÿÿÿ
+osquid:S00117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øáúúüÿÿÿÿ
+osquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÍÛ€úÿÿÿÿ
+osquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Å‡áÿÿÿÿÿ
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ê€¤ùÿÿÿÿ
+jsquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Œê³
+jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š†²©
+isquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á÷¿P
+jsquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®è‰ş
+osquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê˜¦Ğıÿÿÿÿ
+osquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³üÿÿÿÿ
+jsquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ú·û
+isquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ«ÛW
+osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç«Õ´ùÿÿÿÿ
+jsquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‡Ü©
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†óëŠ
+osquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‘êßıÿÿÿÿ
+jsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šƒæ¤
+jsquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›óá
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¼çÌşÿÿÿÿ
+osquid:S00117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡²—Öşÿÿÿÿ
+osquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Òç’ûÿÿÿÿ
+jsquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŒ™Û
+osquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÇÌ›úÿÿÿÿ
+osquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÅµÇüÿÿÿÿ
+osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß³™úÿÿÿÿ
+osquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğ€Ñıÿÿÿÿ
+jsquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÅĞè
+osquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¨çùÿÿÿÿ
+osquid:S00117‰
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºâø£øÿÿÿÿ
+jsquid:S00117°
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ å
+jsquid:S00117´
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æßš
+osquid:S00117Ú
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ª‹²ÿÿÿÿÿ
+osquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ô‘“úÿÿÿÿ
+osquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óã¨øÿÿÿÿ
+osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‚øÿÿÿÿ
+osquid:S00117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸›§øÿÿÿÿ
+jsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÑ¥«
+jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß«úÔ
+osquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­·ııÿÿÿÿ
+jsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¼ÃÔ
+osquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŞ¡Šÿÿÿÿÿ
+jsquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âúÙÈ
+Usquid:S1155Ô">Use isEmpty() to check whether the collection is empty or not.(¬èè
+Vsquid:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(ı»ª…
+[squid:S1155ş">Use isEmpty() to check whether the collection is empty or not.(Ãñ°½ÿÿÿÿÿ
+[squid:S1155‘">Use isEmpty() to check whether the collection is empty or not.(ğÛœãúÿÿÿÿ
+|squid:S4144½	"dUpdate this method so that its implementation is not identical to "getStringAttribute" on line 1101.(šøòÅ
+Zsquid:S2387-"C"nativeMetadataFormatName" is the name of a field in "IIOMetadata".(¯ú·ê
+dsquid:S2387/"H"nativeMetadataFormatClassName" is the name of a field in "IIOMetadata".(·ÊíÚüÿÿÿÿ
+tsquid:S00116u"WRename this field "IHDR_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä”¹Ïûÿÿÿÿ
+msquid:S00116v"URename this field "IHDR_width" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§î„
+ssquid:S00116w"VRename this field "IHDR_height" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÌÁÍûÿÿÿÿ
+usquid:S00116x"XRename this field "IHDR_bitDepth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ³Ÿòüÿÿÿÿ
+qsquid:S00116y"YRename this field "IHDR_colorType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ù§ã
+ysquid:S00116z"aRename this field "IHDR_compressionMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŞ÷»
+ysquid:S00116{"\Rename this field "IHDR_filterMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¦à°ÿÿÿÿÿ
+wsquid:S00116|"_Rename this field "IHDR_interlaceMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µîË°
+osquid:S00116"WRename this field "PLTE_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å±°Õ
+lsquid:S00116€"SRename this field "PLTE_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áò…ı
+ssquid:S00116"URename this field "PLTE_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¡µµøÿÿÿÿ
+rsquid:S00116‚"TRename this field "PLTE_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Å¯øÿÿÿÿ
+nsquid:S00116‰"URename this field "PLTE_order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷î´
+usquid:S00116"WRename this field "bKGD_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ã«€úÿÿÿÿ
+qsquid:S00116"YRename this field "bKGD_colorType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÆ²S
+nsquid:S00116"URename this field "bKGD_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãì§ğ
+msquid:S00116‘"TRename this field "bKGD_gray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñá•Ø
+qsquid:S00116’"SRename this field "bKGD_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ëó¶ùÿÿÿÿ
+ssquid:S00116“"URename this field "bKGD_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒê—Ìüÿÿÿÿ
+rsquid:S00116”"TRename this field "bKGD_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ãìÀøÿÿÿÿ
+usquid:S00116—"WRename this field "cHRM_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÿã±ÿÿÿÿÿ
+ysquid:S00116˜"[Rename this field "cHRM_whitePointX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´†ö•øÿÿÿÿ
+tsquid:S00116™"[Rename this field "cHRM_whitePointY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏöÛ
+lsquid:S00116š"TRename this field "cHRM_redX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ã¬T
+rsquid:S00116›"TRename this field "cHRM_redY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—©Ï»ÿÿÿÿÿ
+osquid:S00116œ"VRename this field "cHRM_greenX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¯ğ
+tsquid:S00116"VRename this field "cHRM_greenY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ğ©Õøÿÿÿÿ
+ssquid:S00116"URename this field "cHRM_blueX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşÓøÿÿÿÿ
+nsquid:S00116Ÿ"URename this field "cHRM_blueY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥İƒ…
+psquid:S00116¢"WRename this field "gAMA_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ããï
+nsquid:S00116£"URename this field "gAMA_gamma" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒ¼Ü
+usquid:S00116¦"WRename this field "hIST_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹–€Åÿÿÿÿÿ
+rsquid:S00116§"YRename this field "hIST_histogram" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ«¤õ
+osquid:S00116ª"WRename this field "iCCP_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë ÄD
+ysquid:S00116«"[Rename this field "iCCP_profileName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÖäÙøÿÿÿÿ
+zsquid:S00116¬"aRename this field "iCCP_compressionMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÂø
+zsquid:S00116­"aRename this field "iCCP_compressedProfile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºãªÉ
+usquid:S00116°"WRename this field "iTXt_keyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öè¸ïúÿÿÿÿ
+xsquid:S00116±"_Rename this field "iTXt_compressionFlag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ûš
+zsquid:S00116²"aRename this field "iTXt_compressionMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ­¾Æ
+ysquid:S00116³"[Rename this field "iTXt_languageTag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢÷éøÿÿÿÿ
+squid:S00116´"aRename this field "iTXt_translatedKeyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÄ°Éÿÿÿÿÿ
+lsquid:S00116µ"TRename this field "iTXt_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(© ªz
+usquid:S00116¸"WRename this field "pHYs_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì•ªşÿÿÿÿ
+€squid:S00116¹"bRename this field "pHYs_pixelsPerUnitXAxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øœà·üÿÿÿÿ
+{squid:S00116º"bRename this field "pHYs_pixelsPerUnitYAxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÖğ¿
+vsquid:S00116»"]Rename this field "pHYs_unitSpecifier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Û¹¾
+psquid:S00116¾"WRename this field "sBIT_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜ŒŸ
+wsquid:S00116¿"YRename this field "sBIT_colorType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üĞŞ“üÿÿÿÿ
+vsquid:S00116À"XRename this field "sBIT_grayBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óğüúùÿÿÿÿ
+osquid:S00116Á"WRename this field "sBIT_redBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ØÍ
+wsquid:S00116Â"YRename this field "sBIT_greenBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÖ Îøÿÿÿÿ
+qsquid:S00116Ã"XRename this field "sBIT_blueBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§²Óß
+wsquid:S00116Ä"YRename this field "sBIT_alphaBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏàÒ­úÿÿÿÿ
+osquid:S00116Ç"WRename this field "sPLT_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Øî^
+ysquid:S00116È"[Rename this field "sPLT_paletteName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úàåşÿÿÿÿ
+tsquid:S00116É"[Rename this field "sPLT_sampleDepth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î÷æª
+qsquid:S00116Ê"SRename this field "sPLT_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÅ°‹ùÿÿÿÿ
+ssquid:S00116Ë"URename this field "sPLT_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¿ÇÃûÿÿÿÿ
+rsquid:S00116Ì"TRename this field "sPLT_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß›Óıüÿÿÿÿ
+ssquid:S00116Í"URename this field "sPLT_alpha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğƒñØûÿÿÿÿ
+rsquid:S00116Î"YRename this field "sPLT_frequency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‰­­
+psquid:S00116Ñ"WRename this field "sRGB_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ò¡û
+}squid:S00116Ò"_Rename this field "sRGB_renderingIntent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ã®ßúÿÿÿÿ
+usquid:S00116Õ"WRename this field "tEXt_keyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñù•çÿÿÿÿÿ
+rsquid:S00116Ö"TRename this field "tEXt_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÅñöÿÿÿÿÿ
+psquid:S00116Ù"WRename this field "tIME_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÁãº
+msquid:S00116Ú"TRename this field "tIME_year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åŠ­ü
+nsquid:S00116Û"URename this field "tIME_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Š»É
+lsquid:S00116Ü"SRename this field "tIME_day" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏËÒ‘
+msquid:S00116İ"TRename this field "tIME_hour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÅî¶
+tsquid:S00116Ş"VRename this field "tIME_minute" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÜÍöøÿÿÿÿ
+osquid:S00116ß"VRename this field "tIME_second" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏõÙÏ
+psquid:S00116ä"WRename this field "tRNS_present" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öîŞŸ
+wsquid:S00116å"YRename this field "tRNS_colorType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æˆû´øÿÿÿÿ
+nsquid:S00116æ"URename this field "tRNS_alpha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¨»—
+msquid:S00116ç"TRename this field "tRNS_gray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¡ÉÛ
+lsquid:S00116è"SRename this field "tRNS_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½°á§
+ssquid:S00116é"URename this field "tRNS_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¡Ğ£şÿÿÿÿ
+msquid:S00116ê"TRename this field "tRNS_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Êˆ
+psquid:S00116í"WRename this field "zTXt_keyword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßŞï
+zsquid:S00116î"aRename this field "zTXt_compressionMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Š¶
+rsquid:S00116ï"TRename this field "zTXt_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óßñûÿÿÿÿ
+rsquid:S00115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯ú·ê
+wsquid:S00115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÊíÚüÿÿÿÿ
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ÿ™å‹ÿÿÿÿÿ
+vsquid:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öè¸ïúÿÿÿÿ
+qsquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ûš
+qsquid:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ­¾Æ
+vsquid:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢÷éøÿÿÿÿ
+vsquid:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÄ°Éÿÿÿÿÿ
+psquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(© ªz
+vsquid:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñù•çÿÿÿÿÿ
+vsquid:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÅñöÿÿÿÿÿ
+qsquid:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ßŞï
+qsquid:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Š¶
+vsquid:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óßñûÿÿÿÿ
+qsquid:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(îõØ®
+qsquid:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôèÜ
+Osquid:S1135ı"2Complete the task associated to this TODO comment.(à½¶ìşÿÿÿÿ
+jsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(ÈÈ£§
+Csquid:S1168µ"+Return an empty collection instead of null.(¥¹ï
+qsquid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨÷Ãü
+ksquid:S2975À"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+1squid:S2225Å"Return a non null object.(¥¹ï
+isquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Üš„f
+Gsquid:S1905„"*Remove this unnecessary cast to "Integer".(å°³²ıÿÿÿÿ
+osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ƒ•Ğ”ıÿÿÿÿ
+Wsquid:S1161¯":Add the "@Override" annotation above this method signature(ƒ•Ğ”ıÿÿÿÿ
+7squid:S1659ä"Declare "g" on a separate line.(¬…ñı
+7squid:S1659ä"Declare "b" on a separate line.(¬…ñı
+Rsquid:S1161÷":Add the "@Override" annotation above this method signature(ªÙ“¹
+Wsquid:S1161˜":Add the "@Override" annotation above this method signature(ŠôïÇùÿÿÿÿ
+Rsquid:S1161Æ":Add the "@Override" annotation above this method signature(¿ÌÆ­
+Wsquid:S1161ã":Add the "@Override" annotation above this method signature(”Â÷òüÿÿÿÿ
+Wsquid:S1161÷":Add the "@Override" annotation above this method signature(ú´ëÄúÿÿÿÿ
+Qsquid:S1161¦":Add the "@Override" annotation above this method signature(ÿû·,
+psquid:S3776ã	"SRefactor this method to reduce its Cognitive Complexity from 190 to the 15 allowed.(ï”ËÀşÿÿÿÿ
+>squid:S2129û"!Remove this "Integer" constructor(˜ÊÈÿÿÿÿÿ
+]squid:CallToDeprecatedMethodû"/Remove this use of "Integer"; it is deprecated.(˜ÊÈÿÿÿÿÿ
+ksquid:S3776Û"SRefactor this method to reduce its Cognitive Complexity from 162 to the 15 allowed.(¦…‘Ê
+vsquid:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÀ›­şÿÿÿÿ
+vsquid:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(“¶»õüÿÿÿÿ
+qsquid:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(â»˜»
+vsquid:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùî‹øÿÿÿÿ
+vsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ø»øÿÿÿÿ
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÏŒÇ
+vsquid:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜çÁ§ùÿÿÿÿ
+vsquid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ö¬ìıÿÿÿÿ
+vsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆˆÃ¬ûÿÿÿÿ
+qsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬²‰®
+vsquid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä½Öıÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÜªÿÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ö´„ûÿÿÿÿ
+csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(·‡„õ
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(Ê­Ò’úÿÿÿÿ
+hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(ˆ°É™øÿÿÿÿ
+hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ì‘ä£üÿÿÿÿ
+hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(æßº¤ûÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(€¥‹§üÿÿÿÿ
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ó¿Ò§ıÿÿÿÿ
+csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(Î½ë

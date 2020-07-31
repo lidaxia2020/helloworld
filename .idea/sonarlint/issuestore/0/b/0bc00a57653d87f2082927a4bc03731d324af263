@@ -1,0 +1,88 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
+dsquid:S1192ì"GDefine a constant instead of duplicating this literal "value" 15 times.(ÆÚ¦¤ùÿÿÿÿ
+^squid:S1192ó"FDefine a constant instead of duplicating this literal "YCbCr" 5 times.(ØøÀ“
+isquid:S1192¢"QDefine a constant instead of duplicating this literal "null formatName!" 3 times.(êñäµ
+jsquid:S1192È"MDefine a constant instead of duplicating this literal "Transparency" 3 times.(­¦‘øÿÿÿÿ
+wsquid:S1192±"ZDefine a constant instead of duplicating this literal "Unsupported format name: " 3 times.(¦Åûİûÿÿÿÿ
+Gsquid:S1066Î"/Merge this if statement with the enclosing one.(¨ªÒœ
+Gsquid:S1066Ù"/Merge this if statement with the enclosing one.(¤‰™œ
+Gsquid:S1066ù"/Merge this if statement with the enclosing one.(îé•Ò
+Lsquid:S1066Ü"/Merge this if statement with the enclosing one.(©¦ñ¹ıÿÿÿÿ
+Gsquid:S1066Á"/Merge this if statement with the enclosing one.(ÙòŒå
+Lsquid:S1066õ"/Merge this if statement with the enclosing one.(Š§€ÿÿÿÿÿ
+Lsquid:S1066Â"/Merge this if statement with the enclosing one.(ß×±Öüÿÿÿÿ
+Lsquid:S1066˜"/Merge this if statement with the enclosing one.(´¼¿¾ÿÿÿÿÿ
+Usquid:S2589â"8Remove this expression which always evaluates to "false"(ÅµÉ‘ÿÿÿÿÿ
+Qsquid:S4973ü"9Use the "equals" method if value comparison was intended.(Ì®–
+Qsquid:S4973ï"9Use the "equals" method if value comparison was intended.(Ì®–
+\squid:S2259ƒ"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(‰úÙë
+\squid:S2259…"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(âêş‹
+Usquid:S00107…"<Method has 8 parameters, which is greater than 7 authorized.(úº±
+isquid:S00117“	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤…ß&
+osquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“€ãòùÿÿÿÿ
+Vsquid:UselessImportCheck1"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+fsquid:UselessImportCheck'"BRemove this unused import 'javax.imageio.plugins.jpeg.JPEGQTable'.(³·¬º
+nsquid:UselessImportCheck$"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
+wsquid:S00115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+jsquid:S3776°"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(Úşˆ¢
+P
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(†¦í§
+O
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(¿ªĞ
+Fsquid:S1125ü")Remove the literal "false" boolean value.(íæÑÍùÿÿÿÿ
+P
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(Ûºì—
+Jsquid:S1172’"-Remove this unused method parameter "writer".(¶Ğ¯ğøÿÿÿÿ
+fsquid:S4201—"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¹ñ”¨ÿÿÿÿÿ
+osquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 92 to the 15 allowed.(ÈÈÍñûÿÿÿÿ
+esquid:HiddenFieldCheck†"=Rename "hasAlpha" which hides the field declared at line 102.(Ó†±åúÿÿÿÿ
+esquid:HiddenFieldCheck¹"=Rename "hasAlpha" which hides the field declared at line 102.(Ó†±åúÿÿÿÿ
+Gsquid:S00108û")Either remove or fill this block of code.(ÀŒÈıÿÿÿÿ
+@squid:S1125ô"(Remove the literal "true" boolean value.(¿÷€ñ
+jsquid:S2975ı"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+Gsquid:S00108")Either remove or fill this block of code.(ÏÖ¹¦úÿÿÿÿ
+?squid:S1905ƒ"'Remove this unnecessary cast to "List".(‰úÙë
+Csquid:S1168‘"+Return an empty collection instead of null.(¥¹ï
+osquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(íˆ˜ïşÿÿÿÿ
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(íˆ˜ïşÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckü""Add a default case to this switch.(ş•’Âùÿÿÿÿ
+Rsquid:S1161ã":Add the "@Override" annotation above this method signature(ò§øø
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(ú§¾êÿÿÿÿÿ
+Rsquid:S1161±":Add the "@Override" annotation above this method signature(„˜é
+Wsquid:S1161Å":Add the "@Override" annotation above this method signature(ØœÃşÿÿÿÿ
+Esquid:S1125Ç"(Remove the literal "true" boolean value.(®ğÖ¾ûÿÿÿÿ
+jsquid:S3776Õ	"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(€üæ±
+Asquid:S1905î	")Remove this unnecessary cast to "Qtable".(óé™±
+jsquid:S3776¦
+"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(óÎßì
+Fsquid:S1905Å
+")Remove this unnecessary cast to "Htable".(˜ïé®üÿÿÿÿ
+Osquid:S3972‚"7Move this "if" to a new line or add the missing "else".(õá¾¼
+ksquid:S3776ğ"SRefactor this method to reduce its Cognitive Complexity from 163 to the 15 allowed.(æ’æÊ
+º%squid:RedundantThrowsDeclarationCheckÎ"‡Remove the declaration of thrown exception 'javax.imageio.metadata.IIOInvalidTreeException', as it cannot be thrown from method's body.(’ô—Ò
+Hsquid:S1172Í"+Remove this unused method parameter "node".(İúåùÿÿÿÿ
+º%squid:RedundantThrowsDeclarationCheckÕ"‡Remove the declaration of thrown exception 'javax.imageio.metadata.IIOInvalidTreeException', as it cannot be thrown from method's body.(’ô—Ò
+Bsquid:S1172Ô"+Remove this unused method parameter "node".(³¬ÿ*
+º%squid:RedundantThrowsDeclarationCheckÚ"‡Remove the declaration of thrown exception 'javax.imageio.metadata.IIOInvalidTreeException', as it cannot be thrown from method's body.(’ô—Ò
+jsquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(µ£é‘
+>squid:S1905Å"&Remove this unnecessary cast to "int".(·šıš
+Csquid:S1905Ì"&Remove this unnecessary cast to "int".(Ş£Ê†ÿÿÿÿÿ
+º%squid:RedundantThrowsDeclarationCheckÔ"‡Remove the declaration of thrown exception 'javax.imageio.metadata.IIOInvalidTreeException', as it cannot be thrown from method's body.(’ô—Ò
+Hsquid:S1172Ó"+Remove this unused method parameter "node".(‚Ô·¿ıÿÿÿÿ
+º%squid:RedundantThrowsDeclarationCheckÙ"‡Remove the declaration of thrown exception 'javax.imageio.metadata.IIOInvalidTreeException', as it cannot be thrown from method's body.(’ô—Ò
+º%squid:RedundantThrowsDeclarationCheckò"‡Remove the declaration of thrown exception 'javax.imageio.metadata.IIOInvalidTreeException', as it cannot be thrown from method's body.(’ô—Ò
+osquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(¨´“üÿÿÿÿ
+vsquid:S3012¡"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(´’¯õøÿÿÿÿ
+psquid:S3012°"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(âûÏp
+vsquid:S3012»"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(´’¯õøÿÿÿÿ
+psquid:S3012Ã"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(âûÏp
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature(ù„Àºüÿÿÿÿ
+jsquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(„’¹¾
+9squid:S2129ø"!Remove this "Integer" constructor(¨êÒé
+Xsquid:CallToDeprecatedMethodø"/Remove this use of "Integer"; it is deprecated.(¨êÒé
+jsquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(úº±
+Fsquid:S1125–")Remove the literal "false" boolean value.(í‘Æ¡ıÿÿÿÿ
+Fsquid:S1125¦")Remove the literal "false" boolean value.(•ã´Ñÿÿÿÿÿ
+Asquid:S1125®")Remove the literal "false" boolean value.(Ù©û„
+Gsquid:S1481÷"*Remove this unused "dummy" local variable.(–êá–ıÿÿÿÿ

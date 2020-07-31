@@ -1,0 +1,31 @@
+
+Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(°½““ùÿÿÿÿ
+ksquid:S1192ñ"SDefine a constant instead of duplicating this literal "DOMSubtreeModified" 3 times.( …ß™
+ssquid:S00116`"VRename this field "m_resultObj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÌ§ûÿÿÿÿ
+jsquid:S00116h"RRename this field "m_xpath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äİÇ
+tsquid:S00116q"WRename this field "m_resultType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Á‹°ûÿÿÿÿ
+{squid:S00116s"cRename this field "m_isInvalidIteratorState" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©·ª
+psquid:S00116|"XRename this field "m_contextNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü‹ÍÙ
+nsquid:S00116„"URename this field "m_iterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÅÏÉ
+jsquid:S00116Œ"QRename this field "m_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éæ©…
+osquid:ModifiersOrderCheck`"EReorder the modifiers to comply with the Java Language Specification.(øÌ§ûÿÿÿÿ
+jsquid:ModifiersOrderCheckh"EReorder the modifiers to comply with the Java Language Specification.(äİÇ
+osquid:ModifiersOrderCheckq"EReorder the modifiers to comply with the Java Language Specification.(—Á‹°ûÿÿÿÿ
+jsquid:ModifiersOrderCheck|"EReorder the modifiers to comply with the Java Language Specification.(Ü‹ÍÙ
+Gsquid:EmptyStatementUsageCheck„"Remove this empty statement.(åÅÏÉ
+9squid:S2129œ"!Remove this "Integer" constructor(úŸ‰’
+Xsquid:CallToDeprecatedMethodœ"/Remove this use of "Integer"; it is deprecated.(úŸ‰’
+Jsquid:S1135È"2Complete the task associated to this TODO comment.(®ü¥ş
+%squid:RedundantThrowsDeclarationCheckï"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(˜Ò™î
+¢%squid:RedundantThrowsDeclarationCheckŠ"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(ºÏë°ıÿÿÿÿ
+¢%squid:RedundantThrowsDeclarationCheck"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(É¨ÿÚıÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckº"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(¶ˆ÷ı
+%squid:RedundantThrowsDeclarationCheckï"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(ØÔ‚¢
+œ%squid:RedundantThrowsDeclarationCheckŒ"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(ë¯ Y
+”%squid:RedundantThrowsDeclarationCheckŒ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ë¯ Y
+%squid:RedundantThrowsDeclarationCheck»"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(§ìüû
+^squid:S1126Ä"AReplace this if-then-else statement by a single return statement.(¡¸ºøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êŠ™„
+csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(ˆ‘Öî
+hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ

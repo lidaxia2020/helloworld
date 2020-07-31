@@ -1,0 +1,11 @@
+
+squid:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç¹•æÿÿÿÿÿ
+™squid:S1186ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éí–µ
+Tsquid:S11979"8Move the array designator from the variable to the type.(¯õ“›úÿÿÿÿ
+Vsquid:S1161e":Add the "@Override" annotation above this method signature(ÖÚìÆùÿÿÿÿ
+Osquid:S1197z"8Move the array designator from the variable to the type.(Ú‹àó
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(ôßá†
+Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(ìÀÊÄøÿÿÿÿ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(™ÁºÓıÿÿÿÿ
+Qsquid:S1161¢":Add the "@Override" annotation above this method signature(©¤Í
+[squid:S1195»">Move the array designators "[]" to the end of the return type.(ì‘çõùÿÿÿÿ

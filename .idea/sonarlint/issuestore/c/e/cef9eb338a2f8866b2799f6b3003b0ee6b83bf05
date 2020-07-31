@@ -1,0 +1,39 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
+squid:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï‘ Äøÿÿÿÿ
+˜squid:S1186è"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëÑT
+squid:S1186ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Âƒ„ÿÿÿÿÿ
+˜squid:S1186î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õÖË
+™squid:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥áÃÊ
+squid:S1186¯"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Û¶Àãúÿÿÿÿ
+™squid:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùÈ¢â
+™squid:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„Ü–×
+™squid:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿª²˜
+squid:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·Öäûÿÿÿÿ
+squid:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾ğéìıÿÿÿÿ
+squid:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñçÂ°ûÿÿÿÿ
+osquid:ModifiersOrderCheckX"EReorder the modifiers to comply with the Java Language Specification.(¬¸ûšøÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck "~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ñ§€µ
+µ%squid:RedundantThrowsDeclarationCheckÄ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ˆšèŞúÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÉ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ãâèúÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÎ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¼¬İ•øÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÔ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckæ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
+°%squid:RedundantThrowsDeclarationChecké"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ü©Í–
+µ%squid:RedundantThrowsDeclarationCheckì"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(´™Çïøÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheckî"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(õÖË
+°%squid:RedundantThrowsDeclarationCheckñ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ü©Í–
+µ%squid:RedundantThrowsDeclarationCheckô"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
+jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÊÂÎ
+µ%squid:RedundantThrowsDeclarationCheckª"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck±"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ü©Í–
+°%squid:RedundantThrowsDeclarationCheck´"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
+°%squid:RedundantThrowsDeclarationCheck·"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
+µ%squid:RedundantThrowsDeclarationCheckº"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÁ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÆ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckß"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ÿª²˜
+µ%squid:RedundantThrowsDeclarationChecká"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(·Öäûÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckã"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ª¢ïÃ
+°%squid:RedundantThrowsDeclarationCheckı"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(à¿·ä
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

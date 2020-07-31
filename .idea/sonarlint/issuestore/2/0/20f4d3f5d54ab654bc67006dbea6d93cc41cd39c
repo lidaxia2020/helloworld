@@ -1,0 +1,9 @@
+
+Qsquid:S1191Q"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
+rsquid:S00115m"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éÃ
+wsquid:S00115o"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ‰±âøÿÿÿÿ
+Lsquid:S1133m"5Do not forget to remove this deprecated code someday.(éÃ
+Osquid:MissingDeprecatedCheckm"'Add the missing @Deprecated annotation.(éÃ
+Psquid:S1197‡"8Move the array designator from the variable to the type.(ÈšÉ÷
+U
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.( £é÷ûÿÿÿÿ

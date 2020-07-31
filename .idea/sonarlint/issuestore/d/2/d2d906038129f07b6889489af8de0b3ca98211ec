@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
+csquid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+csquid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:UselessImportCheck"@Remove this unused import 'java.lang.reflect.InvocationHandler'.(Ùé
+zsquid:UselessImportCheck"VRemove this unused import 'com.sun.corba.se.spi.presentation.rmi.PresentationManager'.(‘ÀØÒ
+[squid:S21472"DCombine this catch with the one at line 48, which has the same body.(Å¡ß
+[squid:CallToDeprecatedMethod/"3Remove this use of "newInstance"; it is deprecated.(Ÿ„¾‘

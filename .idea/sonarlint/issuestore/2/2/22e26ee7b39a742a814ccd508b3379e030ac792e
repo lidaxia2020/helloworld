@@ -1,0 +1,7 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ˆ¨
+³%squid:RedundantThrowsDeclarationCheck|"}Remove the declaration of thrown exception 'org.xml.sax.SAXNotSupportedException', as it cannot be thrown from method's body.(İèªÌûÿÿÿÿ
+´%squid:RedundantThrowsDeclarationCheck|"~Remove the declaration of thrown exception 'org.xml.sax.SAXNotRecognizedException', as it cannot be thrown from method's body.(İèªÌûÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheck¢"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(íĞ½®ûÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheck»"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Âä
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

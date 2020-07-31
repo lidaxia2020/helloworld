@@ -1,0 +1,19 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‘´¦¸
+_squid:S1192¤"GDefine a constant instead of duplicating this literal "xmlns:" 4 times.(ÚË«á
+csquid:S1192¡"FDefine a constant instead of duplicating this literal "xmlns" 3 times.(°óâªøÿÿÿÿ
+csquid:S00112\"FDefine and throw a dedicated exception instead of using a generic one.(ŸÄã‰øÿÿÿÿ
+isquid:S00117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•³
+osquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şïÆÃøÿÿÿÿ
+psquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Ë ÿ
+Psquid:S1197¸"8Move the array designator from the variable to the type.(Ú³§º
+Wsquid:CallToDeprecatedMethodÌ".Remove this use of "Base64"; it is deprecated.(ñû°¼
+Wsquid:CallToDeprecatedMethodŞ".Remove this use of "Base64"; it is deprecated.(˜ªŠë
+\squid:CallToDeprecatedMethod†".Remove this use of "Base64"; it is deprecated.(­‘Éüüÿÿÿÿ
+Vsquid:CallToDeprecatedMethod‡".Remove this use of "Base64"; it is deprecated.(öÒè|
+\squid:CallToDeprecatedMethod¬".Remove this use of "Base64"; it is deprecated.(û­ƒ²üÿÿÿÿ
+Rsquid:S1133À"5Do not forget to remove this deprecated code someday.(êÖÕ·şÿÿÿÿ
+\squid:CallToDeprecatedMethodè".Remove this use of "Base64"; it is deprecated.(ù®ş†ÿÿÿÿÿ
+Usquid:S1197º"8Move the array designator from the variable to the type.(¿¦™¤üÿÿÿÿ
+Usquid:S1197×"8Move the array designator from the variable to the type.(ª¡·Ôùÿÿÿÿ
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(‰Ğü¨ÿÿÿÿÿ

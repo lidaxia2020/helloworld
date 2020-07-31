@@ -1,0 +1,11 @@
+
+… squid:ForLoopCounterChangedCheckÖ"XRefactor the code in order to not assign to this loop counter from within the loop body.(èí•Ñ
+… squid:ForLoopCounterChangedCheckã"XRefactor the code in order to not assign to this loop counter from within the loop body.(ùÏİè
+… squid:ForLoopCounterChangedCheckä"XRefactor the code in order to not assign to this loop counter from within the loop body.(½Ş½
+… squid:ForLoopCounterChangedCheckş"XRefactor the code in order to not assign to this loop counter from within the loop body.(˜ßÑ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(©÷Éêúÿÿÿÿ
+msquid:S11496"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(››œñ
+8squid:S2129]"!Remove this "Integer" constructor(ïÚÀ
+Wsquid:CallToDeprecatedMethod]"/Remove this use of "Integer"; it is deprecated.(ïÚÀ
+osquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ì–ŞÇûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,103 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‹µ›äûÿÿÿÿ
+nsquid:S1192Š"QDefine a constant instead of duplicating this literal "parser.factor.1" 11 times.(ŒÈˆƒıÿÿÿÿ
+ksquid:S1192Ê"NDefine a constant instead of duplicating this literal "parser.next.1" 3 times.(¹£üàşÿÿÿÿ
+gsquid:S1192"ODefine a constant instead of duplicating this literal "parser.parse.2" 3 times.(ïÊÿŒ
+fsquid:S1192"NDefine a constant instead of duplicating this literal "parser.next.2" 3 times.(´µ¹¬
+osquid:S1192‰	"RDefine a constant instead of duplicating this literal "parser.descape.1" 14 times.(Ì¸æıÿÿÿÿ
+Jsquid:S1199Á"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckå".Extract the assignment out of this expression.(ÆÁÙö
+u
+squid:S135ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(ÉÅ¢Öûÿÿÿÿ
+u
+squid:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(ôŒ·©ÿÿÿÿÿ
+u
+squid:S135±"YReduce the total number of break and continue statements in this loop to use at most one.(äõèüÿÿÿÿ
+^squid:S00112z"FDefine and throw a dedicated exception instead of using a generic one.(ªîÑÇ
+dsquid:S00112Ï"FDefine and throw a dedicated exception instead of using a generic one.(ğíš”úÿÿÿÿ
+dsquid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(ÎÙ½éúÿÿÿÿ
+›squid:S1845«"‚Rename method "processBacksolidus_z" to prevent any misunderstanding/clash with method "processBacksolidus_Z" defined on line 423.(æÙ‚½
+šsquid:S1845³"‚Rename method "processBacksolidus_B" to prevent any misunderstanding/clash with method "processBacksolidus_b" defined on line 431.(‘Õœs
+›squid:S1845ê"‚Rename method "processBacksolidus_C" to prevent any misunderstanding/clash with method "processBacksolidus_c" defined on line 610.(Ÿæ«Ì
+›squid:S1845ò"‚Rename method "processBacksolidus_I" to prevent any misunderstanding/clash with method "processBacksolidus_i" defined on line 621.(ê‚»
+|squid:S1149f"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(åŒ ‡
+osquid:ModifiersOrderCheck_"EReorder the modifiers to comply with the Java Language Specification.(Í÷÷éıÿÿÿÿ
+jsquid:ModifiersOrderCheck`"EReorder the modifiers to comply with the Java Language Specification.(İÂ
+jsquid:ModifiersOrderChecka"EReorder the modifiers to comply with the Java Language Specification.(ñå­ó
+Å%squid:RedundantThrowsDeclarationCheck‡"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(„‚¥­ıÿÿÿÿ
+jsquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(ì³‰
+h
+squid:S128Ø"LEnd this switch case with an unconditional break, return or throw statement.(É÷ş¾şÿÿÿÿ
+À%squid:RedundantThrowsDeclarationCheckĞ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(‡»ÀŸ
+Å%squid:RedundantThrowsDeclarationCheckå"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(İ³¼Ñşÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheckÿ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¥¯Êûÿÿÿÿ
+À%squid:RedundantThrowsDeclarationCheckƒ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¾ôõô
+À%squid:RedundantThrowsDeclarationCheck‡"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ùŸ¬·
+Å%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(šÚ«¥úÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheck•"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(™Ş ûÿÿÿÿ
+¿%squid:RedundantThrowsDeclarationCheckœ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(†Ê¬-
+¿%squid:RedundantThrowsDeclarationCheck£"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¥˜A
+fsquid:S00100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥˜A
+À%squid:RedundantThrowsDeclarationCheck§"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ÄÏ‘Í
+gsquid:S00100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÏ‘Í
+À%squid:RedundantThrowsDeclarationCheck«"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(æÙ‚½
+gsquid:S00100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÙ‚½
+Å%squid:RedundantThrowsDeclarationCheck¯"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¸¸û‹øÿÿÿÿ
+lsquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¸û‹øÿÿÿÿ
+¿%squid:RedundantThrowsDeclarationCheck³"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(‘Õœs
+fsquid:S00100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Õœs
+À%squid:RedundantThrowsDeclarationCheck·"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(½¸ºê
+gsquid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¸ºê
+Å%squid:RedundantThrowsDeclarationCheck»"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(™÷Ü©ûÿÿÿÿ
+lsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™÷Ü©ûÿÿÿÿ
+À%squid:RedundantThrowsDeclarationCheck¿"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(œû³ò
+Å%squid:RedundantThrowsDeclarationCheckÇ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(Ä¹±Šùÿÿÿÿ
+À%squid:RedundantThrowsDeclarationCheckĞ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ë¦êˆ
+À%squid:RedundantThrowsDeclarationChecká"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(³ğ…
+À%squid:RedundantThrowsDeclarationCheckê"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(Ã—Ã
+À%squid:RedundantThrowsDeclarationCheckñ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(«õûá
+jsquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(«õûá
+À%squid:RedundantThrowsDeclarationCheck´"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(…®ªğ
+jsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(…®ªğ
+?squid:S1659·""Declare "mask" on a separate line.(°ÛôÛşÿÿÿÿ
+=squid:S1659·" Declare "ch" on a separate line.(°ÛôÛşÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheckÛ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(šÏú¸ıÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheckâ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ÚéÂûÿÿÿÿ
+lsquid:S00100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚéÂûÿÿÿÿ
+À%squid:RedundantThrowsDeclarationCheckê"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(Ÿæ«Ì
+gsquid:S00100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿæ«Ì
+À%squid:RedundantThrowsDeclarationCheckí"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(º´‘¯
+gsquid:S00100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º´‘¯
+À%squid:RedundantThrowsDeclarationCheckò"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ê‚»
+gsquid:S00100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚»
+Å%squid:RedundantThrowsDeclarationCheckõ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(—Ù„’ùÿÿÿÿ
+lsquid:S00100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ù„’ùÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheckù"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ª—Çüÿÿÿÿ
+lsquid:S00100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª—Çüÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheckı"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(£Ôúùÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheck­"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¯ÉÃÚüÿÿÿÿ
+osquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(¯ÉÃÚüÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck°""Add a default case to this switch.(Œ¹ÿÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck½""Add a default case to this switch.(©Ğ‹²
+V"squid:SwitchLastCaseIsDefaultCheckÊ""Add a default case to this switch.(Œ¹ÿÿÿÿÿ
+9squid:S1659Ò"!Declare "max" on a separate line.(ìÒÙ»
+Å%squid:RedundantThrowsDeclarationCheck™"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(Ä‘¡­üÿÿÿÿ
+osquid:S3776™"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ä‘¡­üÿÿÿÿ
+À%squid:RedundantThrowsDeclarationCheckø"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ñ¯´”
+gsquid:S00100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¯´”
+Csquid:S1172Œ"&Remove these unused method parameters.(ÿÅ€¤ıÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheckœ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¡™‰åıÿÿÿÿ
+psquid:S3776œ"SRefactor this method to reduce its Cognitive Complexity from 106 to the 15 allowed.(¡™‰åıÿÿÿÿ
+Å%squid:RedundantThrowsDeclarationCheck¾"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ƒÕ”èùÿÿÿÿ
+¿%squid:RedundantThrowsDeclarationCheckı"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(£Ëúh
+isquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(£Ëúh
+psquid:ModifiersOrderCheckß	"EReorder the modifiers to comply with the Java Language Specification.(èæ›Úùÿÿÿÿ
+psquid:ModifiersOrderChecké	"EReorder the modifiers to comply with the Java Language Specification.(‰¬ÀÍşÿÿÿÿ
+ksquid:ModifiersOrderCheckõ	"EReorder the modifiers to comply with the Java Language Specification.(ÎÅÎÇ
+=squid:S1659÷	" Declare "r2" on a separate line.(õÕäÂıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(¾’Õßùÿÿÿÿ
+hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(êÏ„ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(å“Œ¬şÿÿÿÿ
+hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(éˆ“ıÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(§˜·Ñùÿÿÿÿ

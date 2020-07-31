@@ -1,0 +1,10 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÍÊÛ³
+Qsquid:S1141o"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+esquid:S001019"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù½áì
+dsquid:S2259‚"GA "NullPointerException" could be thrown; "arguments" is nullable here.(É×„Íúÿÿÿÿ
+asquid:UselessImportCheck$"=Remove this unused import 'java.util.PropertyResourceBundle'.(ä÷¶¾
+wsquid:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½ˆŸ‰
+£%squid:RedundantThrowsDeclarationCheck^"mRemove the declaration of thrown exception 'java.util.MissingResourceException' which is a runtime exception.(¥˜‹—úÿÿÿÿ
+nsquid:S3776]"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(íÏ©¤úÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

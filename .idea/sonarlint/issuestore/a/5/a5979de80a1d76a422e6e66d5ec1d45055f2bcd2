@@ -1,0 +1,10 @@
+
+Lsquid:S1066€"/Merge this if statement with the enclosing one.(àğ•‹ıÿÿÿÿ
+p
+squid:S135û"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+}squid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(¶“šëøÿÿÿÿ
+Vsquid:UselessImportCheck&"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+asquid:UselessImportCheck$"8Remove this unused import 'java.lang.ref.WeakReference'.(å¢Œıÿÿÿÿÿ
+Usquid:S1197Ó"8Move the array designator from the variable to the type.(á·´ÿÿÿÿÿ
+jsquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ãœ‘Ñ
+bsquid:S2147é"ECombine this catch with the one at line 743, which has the same body.(Å×âşÿÿÿÿ

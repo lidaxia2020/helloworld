@@ -1,0 +1,16 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+Gsquid:S1066±"/Merge this if statement with the enclosing one.(û¥ñÚ
+Osquid:S2589¬"7Remove this expression which always evaluates to "true"(¹ñ˜
+Tsquid:S2589é"7Remove this expression which always evaluates to "true"(™¢¾éúÿÿÿÿ
+Osquid:S2589ç"7Remove this expression which always evaluates to "true"(¹ñ˜
+3squid:S3626É"Remove this redundant jump.(…Àçù
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸» úÿÿÿÿ
+g squid:LabelsShouldNotBeUsedCheck«";Refactor the code to remove this label and the need for it.(³±n
+3squid:S3626ÿ"Remove this redundant jump.(…Àçù
+g squid:LabelsShouldNotBeUsedCheckæ";Refactor the code to remove this label and the need for it.(³±n
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Å“ê„úÿÿÿÿ
+hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ù½¡»ûÿÿÿÿ
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(£ÔÌœûÿÿÿÿ
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(±òéù

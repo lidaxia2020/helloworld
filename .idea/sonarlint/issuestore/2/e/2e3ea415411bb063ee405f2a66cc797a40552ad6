@@ -1,0 +1,17 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+jsquid:MaximumInheritanceDepth8"<This class has 7 parents which is greater than 5 authorized.(”ôƒáÿÿÿÿÿ
+isquid:S00116<"QRename this field "m_axis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”¦É
+Vsquid:S1161w":Add the "@Override" annotation above this method signature(òÚèˆþÿÿÿÿ
+Rsquid:S1161°":Add the "@Override" annotation above this method signature(ˆ­¶Ê
+Wsquid:S1161Â":Add the "@Override" annotation above this method signature(™³€áøÿÿÿÿ
+Wsquid:S1161Ì":Add the "@Override" annotation above this method signature(ôÝè¬ýÿÿÿÿ
+^squid:S1126Ñ"AReplace this if-then-else statement by a single return statement.(îíøöùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„âùüÿÿÿÿ
+csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(”ñÑª
+bsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(§®µZ
+csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(â¶±
+csquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(Ú°à¬
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(Ú°à¬

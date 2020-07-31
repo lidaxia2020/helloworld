@@ -1,0 +1,4 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.( ¸¤
+Vsquid:S1118&":Add a private constructor to hide the implicit public one.(òÏÙ’ûÿÿÿÿ
+psquid:S1210:"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ

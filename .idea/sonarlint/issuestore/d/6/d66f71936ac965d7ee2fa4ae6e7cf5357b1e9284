@@ -1,0 +1,13 @@
+
+fsquid:S3824”"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(…‘Í¡
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
+gsquid:S1192š"JDefine a constant instead of duplicating this literal " class = " 3 times.(Ñ¢ƒªıÿÿÿÿ
+p
+squid:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸
+nsquid:S1149¢"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Øª‡™
+msquid:S1149«"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(üª©1
+usquid:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(â‰ªîıÿÿÿÿ
+qsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øª‡™
+psquid:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(üª©1
+Usquid:S1197á"8Move the array designator from the variable to the type.(¾Çëøÿÿÿÿ
+vsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙŠÖıøÿÿÿÿ

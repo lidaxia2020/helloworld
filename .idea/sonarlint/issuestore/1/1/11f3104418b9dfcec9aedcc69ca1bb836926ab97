@@ -1,0 +1,3 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÞÄÿá
+¡%squid:RedundantThrowsDeclarationCheckï"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ó´ Ùùÿÿÿÿ

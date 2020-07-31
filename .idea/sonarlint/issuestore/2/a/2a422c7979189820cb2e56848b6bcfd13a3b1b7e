@@ -1,0 +1,19 @@
+
+Gsquid:S1066—"/Merge this if statement with the enclosing one.(Èª
+jsquid:ModifiersOrderCheckw"EReorder the modifiers to comply with the Java Language Specification.(ÂòÎ¼
+Psquid:S1197“"8Move the array designator from the variable to the type.(ö¾Ìü
+Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(Ó®È»úÿÿÿÿ
+Wsquid:S1161à":Add the "@Override" annotation above this method signature(ìÓËñøÿÿÿÿ
+Qsquid:S1161ï":Add the "@Override" annotation above this method signature(é¸ÔE
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(ö˜ß”ıÿÿÿÿ
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(Ñôÿˆ
+Rsquid:S1161®":Add the "@Override" annotation above this method signature(Ğ÷Æ¹
+Rsquid:S1161Â":Add the "@Override" annotation above this method signature(í­®á
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(‰€Í—ıÿÿÿÿ
+Rsquid:S1161ç":Add the "@Override" annotation above this method signature(ÕÓ¼¸
+Wsquid:S1161û":Add the "@Override" annotation above this method signature(ÕÂâ ıÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(éó›0
+Rsquid:S1161£":Add the "@Override" annotation above this method signature(Í£¸¡
+Rsquid:S1161°":Add the "@Override" annotation above this method signature(ğÜşŠ
+Rsquid:S1161Ê":Add the "@Override" annotation above this method signature(ÜÑã
+asquid:S4201Ë"IRemove this unnecessary null check; "instanceof" returns false for nulls.(êÄÙ±

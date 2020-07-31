@@ -1,0 +1,22 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¬Ô«žûÿÿÿÿ
+[squid:S2583Ó"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+[squid:S2583Ž"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+`squid:S2583Ä"CChange this condition so that it does not always evaluate to "true"(¶¾±µþÿÿÿÿ
+[squid:S2583…"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+[squid:S2583É"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+[squid:S2583ê"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
+`squid:S2583Õ"CChange this condition so that it does not always evaluate to "true"(¶¾±µþÿÿÿÿ
+Ksquid:UselessImportCheck""(Remove this unused import 'sun.misc.VM'.(«‹ú3
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.FileDescriptor'.(Þ…º†
+Bsquid:S2160&"+Override the "equals" method in this class.(æ€«¸
+rsquid:S001155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÉÈäÜ
+rsquid:S001158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½ñ·ù
+Psquid:UselessParenthesesCheckú"!Remove these useless parentheses.(ÕëŠÛúÿÿÿÿ
+Psquid:UselessParenthesesCheckþ"!Remove these useless parentheses.(èÙ´–ùÿÿÿÿ
+Wsquid:S1161‡":Add the "@Override" annotation above this method signature(«èÎ¯úÿÿÿÿ
+Ksquid:UselessParenthesesCheckª"!Remove these useless parentheses.(‰˜•Õ
+Jsquid:UselessParenthesesCheck³"!Remove these useless parentheses.(«­›X
+Wsquid:S1161º":Add the "@Override" annotation above this method signature(ó©ûùúÿÿÿÿ
+Rsquid:S1161ã":Add the "@Override" annotation above this method signature(ÚæÒÕ
+gsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(Ò½—óþÿÿÿÿ

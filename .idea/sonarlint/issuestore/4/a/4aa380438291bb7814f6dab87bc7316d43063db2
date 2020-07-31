@@ -1,0 +1,30 @@
+
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÊÐ·Îûÿÿÿÿ
+nsquid:S00117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£áûŽüÿÿÿÿ
+nsquid:S00117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£áûŽüÿÿÿÿ
+nsquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+nsquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+nsquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+nsquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+Gsquid:S21609"+Override the "equals" method in this class.(àŠºíùÿÿÿÿ
+ksquid:S3008;"TRename this field "DOM_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üò‡ï
+tsquid:S3008<"XRename this field "CURRENT_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§§œëþÿÿÿÿ
+msquid:S3008="VRename this field "LEVEL_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç£¤›
+usquid:S3008>"YRename this field "TRANSLET_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·×¿°ûÿÿÿÿ
+qsquid:S3008?"URename this field "LAST_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¼ù™ýÿÿÿÿ
+qsquid:S00116@"YRename this field "ITERATOR_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÒÆÉ
+usquid:S00116B"XRename this field "_iloadCurrent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚ªðýÿÿÿÿ
+vsquid:S00116C"YRename this field "_istoreCurrent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®É§Ÿþÿÿÿÿ
+ksquid:S00116D"TRename this field "_aloadDom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å˜Ów
+rsquid:S00116E"URename this field "_iloadLast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ý™Æúÿÿÿÿ
+vsquid:S00116F"YRename this field "_aloadIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ãÁýûÿÿÿÿ
+wsquid:S00116G"ZRename this field "_astoreIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÎËàùÿÿÿÿ
+Psquid:S1161d":Add the "@Override" annotation above this method signature(”¬ëR
+Qsquid:S1161h":Add the "@Override" annotation above this method signature(¢åƒ‚
+Vsquid:S1161l":Add the "@Override" annotation above this method signature(ã¢Õ¿ûÿÿÿÿ
+Vsquid:S1161x":Add the "@Override" annotation above this method signature(›ÆÍðûÿÿÿÿ
+Qsquid:S1161|":Add the "@Override" annotation above this method signature(Ç×™Ù
+Qsquid:S1161":Add the "@Override" annotation above this method signature(£íÌB
+Fsquid:S1068="/Remove this unused "LEVEL_INDEX" private field.(Ç£¤›
+Nsquid:S1068>"2Remove this unused "TRANSLET_INDEX" private field.(·×¿°ûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

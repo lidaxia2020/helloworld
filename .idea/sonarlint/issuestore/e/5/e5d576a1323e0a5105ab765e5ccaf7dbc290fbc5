@@ -1,0 +1,18 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
+isquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½àö™
+isquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½àö™
+isquid:S00117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÒ¥
+isquid:S00117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÃŠ
+Bsquid:S2160H"+Override the "equals" method in this class.(Í¬®“
+osquid:S3008J"XRename this field "INVALID_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›šÌÂ
+msquid:S00116L"VRename this field "_stylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨£–
+jsquid:S00116M"RRename this field "_parser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü³ø¢
+vsquid:S00116O"YRename this field "_aloadTranslet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‡¯ üÿÿÿÿ
+lsquid:S00116P"TRename this field "_domClass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©…ÆÄ
+osquid:S00116Q"WRename this field "_domClassSig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀïÉ„
+zsquid:S00116R"]Rename this field "_applyTemplatesSig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÆÍ¥üÿÿÿÿ
+ƒsquid:S00116S"fRename this field "_applyTemplatesSigForImport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦İáşÿÿÿÿ
+osquid:ModifiersOrderCheckI"EReorder the modifiers to comply with the Java Language Specification.(»Û¿Úıÿÿÿÿ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(‡¥ıúÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

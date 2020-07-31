@@ -1,0 +1,27 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+asquid:S3973È"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(›ï¬Éúÿÿÿÿ
+nsquid:S00117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şı‹§üÿÿÿÿ
+osquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş½òÓÿÿÿÿÿ
+jsquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹üê÷
+vsquid:S1149Ş"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹èËg
+6squid:S2129¯"Remove this "Long" constructor(Œêİ
+Usquid:CallToDeprecatedMethod¯",Remove this use of "Long"; it is deprecated.(Œêİ
+>squid:S2129¶"!Remove this "Integer" constructor(ÎØ”üÿÿÿÿ
+]squid:CallToDeprecatedMethod¶"/Remove this use of "Integer"; it is deprecated.(ÎØ”üÿÿÿÿ
+>squid:S2129½"!Remove this "Integer" constructor(»æ„—úÿÿÿÿ
+]squid:CallToDeprecatedMethod½"/Remove this use of "Integer"; it is deprecated.(»æ„—úÿÿÿÿ
+>squid:S2129Ä"!Remove this "Integer" constructor(ÅÎ©àûÿÿÿÿ
+]squid:CallToDeprecatedMethodÄ"/Remove this use of "Integer"; it is deprecated.(ÅÎ©àûÿÿÿÿ
+>squid:S2129Ë"!Remove this "Integer" constructor(—µáüÿÿÿÿÿ
+]squid:CallToDeprecatedMethodË"/Remove this use of "Integer"; it is deprecated.(—µáüÿÿÿÿÿ
+9squid:S2129Ò"!Remove this "Integer" constructor(ÓİÁš
+Xsquid:CallToDeprecatedMethodÒ"/Remove this use of "Integer"; it is deprecated.(ÓİÁš
+7squid:S2129Ù"Remove this "Float" constructor(ÖŸØ³
+Vsquid:CallToDeprecatedMethodÙ"-Remove this use of "Float"; it is deprecated.(ÖŸØ³
+8squid:S2129à" Remove this "Double" constructor(Öä¤
+Wsquid:CallToDeprecatedMethodà".Remove this use of "Double"; it is deprecated.(Öä¤
+Dsquid:S1659×"'Declare "signature" on a separate line.(ÎÁĞÁÿÿÿÿÿ
+Asquid:S1659×"$Declare "access" on a separate line.(ÎÁĞÁÿÿÿÿÿ
+]squid:HiddenFieldCheckß":Rename "value" which hides the field declared at line 105.(çøí‡

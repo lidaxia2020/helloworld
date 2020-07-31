@@ -1,0 +1,14 @@
+
+_$squid:AssignmentInSubExpressionCheck„".Extract the assignment out of this expression.(œ£î…
+u
+squid:S135ø"YReduce the total number of break and continue statements in this loop to use at most one.(õÊƒïùÿÿÿÿ
+zsquid:S1488þ"]Immediately return this expression instead of assigning it to the temporary variable "cache".(æÛÙõÿÿÿÿÿ
+Fsquid:S3077‚".Remove the "volatile" keyword from this field.(Çë´„
+_squid:S2094Í"BRemove this empty class, write its code or make it an "interface".(Ñô¢ôùÿÿÿÿ
+Dsquid:S1659ö",Declare "cacheLoadLimit" on a separate line.(½ƒ§î
+>squid:S1452Œ"&Remove usage of generic wildcard type.(È™Öþ
+>squid:S1452û"&Remove usage of generic wildcard type.(Í½Ú®
+jsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ïÓÄý
+osquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Æå­Åøÿÿÿÿ
+Dsquid:S1659ö",Declare "replacementPos" on a separate line.(–Ïêª
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(Ÿ¹º…

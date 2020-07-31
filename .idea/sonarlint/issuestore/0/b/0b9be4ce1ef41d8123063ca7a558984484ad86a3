@@ -1,0 +1,16 @@
+
+… squid:ForLoopCounterChangedCheck¡"XRefactor the code in order to not assign to this loop counter from within the loop body.(ûþâ 
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(›Âýþ
+nsquid:S1450H"WRemove the "wbmpType" field and declare it as a local variable in the relevant methods.(œø‘
+Qsquid:S1161W":Add the "@Override" annotation above this method signature(­°§é
+Vsquid:S1161v":Add the "@Override" annotation above this method signature(Šßƒ†þÿÿÿÿ
+Wsquid:S1161®":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
+osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨É×úÿÿÿÿ
+Xsquid:S1854Ú";Remove this useless assignment to local variable "yOffset".(÷¶ãÊüÿÿÿÿ
+Xsquid:S1854Ù";Remove this useless assignment to local variable "xOffset".(¼þ¬˜úÿÿÿÿ
+Rsquid:S1161²":Add the "@Override" annotation above this method signature(Š«äÜ
+Rsquid:S1161¶":Add the "@Override" annotation above this method signature(Ñ¡œ
+Rsquid:S1161¼":Add the "@Override" annotation above this method signature(¡ÀØ”
+>squid:S1481”"&Remove this unused "y" local variable.(ñÙ€Ø
+Isquid:S1481Ù",Remove this unused "xOffset" local variable.(¼þ¬˜úÿÿÿÿ
+Isquid:S1481Ú",Remove this unused "yOffset" local variable.(÷¶ãÊüÿÿÿÿ

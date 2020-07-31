@@ -1,0 +1,17 @@
+
+bsquid:S1192Ä"JDefine a constant instead of duplicating this literal "permClass" 3 times.(ç¸Ë
+isquid:S1192Â"LDefine a constant instead of duplicating this literal "permissions" 3 times.(½¡Àúÿÿÿÿÿ
+isquid:S1192Ã"LDefine a constant instead of duplicating this literal "all_allowed" 3 times.(¬¹¡ıÿÿÿÿ
+Gsquid:S1066Ğ"/Merge this if statement with the enclosing one.(È©ß†
+Wsquid:S1161¬":Add the "@Override" annotation above this method signature(‘¹ÿÖşÿÿÿÿ
+tsquid:S00116†"VRename this field "all_allowed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò—Öşÿÿÿÿ
+ssquid:S1149Ø"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(²Ìˆ§şÿÿÿÿ
+ssquid:S1149ù"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(²Ìˆ§şÿÿÿÿ
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù¦©
+<squid:S1659ƒ"$Declare "offset" on a separate line.(å‡î
+bsquid:S3027‡"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(¸¯‘Ù
+qsquid:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(—­îß
+Wsquid:S1068Á":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ
+csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(ä—Û
+csquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(ä—Û
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(¹ö¸õûÿÿÿÿ

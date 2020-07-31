@@ -1,0 +1,14 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+Jsquid:S1199¤"-Extract this nested code block into a method.(îçŠìûÿÿÿÿ
+Esquid:S1199ª"-Extract this nested code block into a method.(±Úóô
+Esquid:S1199°"-Extract this nested code block into a method.(¤ƒÙŒ
+Esquid:S1199¶"-Extract this nested code block into a method.(—®–Œ
+Jsquid:S1199¿"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+Vsquid:S1161v":Add the "@Override" annotation above this method signature(ƒ’û¶úÿÿÿÿ
+Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(Àø¸èÿÿÿÿÿ
+c
+squid:S128¶"LEnd this switch case with an unconditional break, return or throw statement.(—®–Œ
+P
+squid:S106À"9Replace this use of System.out or System.err by a logger.(ß¦®°
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

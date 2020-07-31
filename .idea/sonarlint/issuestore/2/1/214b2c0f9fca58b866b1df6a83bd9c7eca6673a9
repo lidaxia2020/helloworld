@@ -1,0 +1,51 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(«ª§Ûüÿÿÿÿ
+Lsquid:S1066Ü"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066ƒ"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066ª"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066Ó"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066ü"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066¥"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066Î"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066÷"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066 "/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066‹"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066µ"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066ß"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066‰"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066³"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066İ"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066‡	"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066±	"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S1066Û	"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+Lsquid:S2065P"0Remove the "transient" modifier from this field.(‡³Å¾úÿÿÿÿ
+Lsquid:S2065R"0Remove the "transient" modifier from this field.(‹¯¼©üÿÿÿÿ
+Hsquid:S2065»
+"0Remove the "transient" modifier from this field.(™ò¬‹
+fsquid:S4201²"IRemove this unnecessary null check; "instanceof" returns false for nulls.(è³İÿÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckÙ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck€"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck§"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheckĞ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheckù"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck¢"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheckË"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheckô"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheckˆ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck²"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheckÜ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck†"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck°"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheckÚ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck„	"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheck®	"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+%squid:RedundantThrowsDeclarationCheckØ	"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¸—Y
+«%squid:RedundantThrowsDeclarationCheckå	"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(ïø¦á
+Bsquid:S1172ä	"*Remove this unused method parameter "obj".(…óì
+Rsquid:S1161œ
+":Add the "@Override" annotation above this method signature(Ì÷Ê¼
+Wsquid:S1161·
+":Add the "@Override" annotation above this method signature(°²®‘ûÿÿÿÿ
+[squid:HiddenFieldCheck¿
+"8Rename "root" which hides the field declared at line 94.(ÚËš‰

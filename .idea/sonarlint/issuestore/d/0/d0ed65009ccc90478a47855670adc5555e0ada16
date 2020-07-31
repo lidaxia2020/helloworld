@@ -1,0 +1,10 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
+csquid:S1192i"GDefine a constant instead of duplicating this literal "<init>" 3 times.(þËØ¶øÿÿÿÿ
+rsquid:S00116;"URename this field "_terminate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢€¡éûÿÿÿÿ
+Qsquid:S1161=":Add the "@Override" annotation above this method signature(ÁØ’›
+Vsquid:S1161E":Add the "@Override" annotation above this method signature(šžíïÿÿÿÿÿ
+Qsquid:S1161J":Add the "@Override" annotation above this method signature(†“‹Ø
+Hsquid:S1905V"1Remove this unnecessary cast to "SyntaxTreeNode".(¶Î€ 
+@squid:S1125ª"(Remove the literal "true" boolean value.( øí”
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

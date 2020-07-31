@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
+Vsquid:UselessImportCheck""-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+ssquid:UselessImportCheck("JRemove this unused import 'javax.management.MalformedObjectNameException'.(•çÏ¢øÿÿÿÿ

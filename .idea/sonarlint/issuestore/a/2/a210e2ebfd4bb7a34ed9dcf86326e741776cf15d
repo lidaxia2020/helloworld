@@ -1,0 +1,53 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
+csquid:S1301½"KReplace this "switch" statement by "if" statements to increase readability.(ô«‡­
+`squid:S3358:"DExtract this nested ternary operation into an independent statement.(³ö¥üÿÿÿÿ
+isquid:S2975f"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+Psquid:S1161f":Add the "@Override" annotation above this method signature(­æğ
+Nsquid:S1905i"2Remove this unnecessary cast to "ComponentSpec[]".(Ş÷‚íùÿÿÿÿ
+Qsquid:S1161r":Add the "@Override" annotation above this method signature(ÀÅÎ›
+Osquid:S1172„"2Remove this unused method parameter "fromScratch".(£‚âÁùÿÿÿÿ
+Qsquid:S1854‹"9Remove this useless assignment to local variable "value".(Ï¥ª
+Rsquid:S1161¤":Add the "@Override" annotation above this method signature(ÊÉ„ã
+Rsquid:S1161¨":Add the "@Override" annotation above this method signature(è§©¯
+P
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(ÈÆ¸º
+U
+squid:S106«"9Replace this use of System.out or System.err by a logger.(¸Èë¼ıÿÿÿÿ
+P
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(£ì„Ë
+U
+squid:S106­"9Replace this use of System.out or System.err by a logger.(±îÚ¼ıÿÿÿÿ
+U
+squid:S106®"9Replace this use of System.out or System.err by a logger.(âàªŒúÿÿÿÿ
+P
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(Âï¾Ö
+P
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ÇôÖÉ
+O
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ä…@
+osquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(µ„şÄøÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck½""Add a default case to this switch.(ô«‡­
+ssquid:S00116ç"ZRename this field "HsamplingFactor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æîœ‹
+ssquid:S00116è"ZRename this field "VsamplingFactor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÃÛ
+rsquid:S00116é"YRename this field "QtableSelector" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÊÚÌ
+jsquid:S2975…"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+Gsquid:S00108ˆ")Either remove or fill this block of code.(ÏÖ¹¦úÿÿÿÿ
+1squid:S2225‰"Return a non null object.(¥¹ï
+P
+squid:S106š"9Replace this use of System.out or System.err by a logger.(°¢ÈÅ
+U
+squid:S106›"9Replace this use of System.out or System.err by a logger.(ÄéÛøÿÿÿÿ
+U
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(Š´òÓıÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(õÔ‚½
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(’û«ıùÿÿÿÿ
+U
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(±¥ç“şÿÿÿÿ
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(©ûÔ’øÿÿÿÿ
+P
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(áå¹£
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ê¾ùä

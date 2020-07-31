@@ -1,0 +1,7 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ÙÝ‚Ë
+csquid:HiddenFieldCheck "@Rename "xpathSupport" which hides the field declared at line 92.(¾çï­
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+asquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(Ë#
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(’×Ûê
+asquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(Ë#

@@ -1,0 +1,70 @@
+
+_$squid:AssignmentInSubExpressionCheck«".Extract the assignment out of this expression.(µ¸
+d$squid:AssignmentInSubExpressionCheckã".Extract the assignment out of this expression.(šÖûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck’	".Extract the assignment out of this expression.(üæüÓ
+d$squid:AssignmentInSubExpressionCheck£
+".Extract the assignment out of this expression.(ŸÅØöüÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck£
+".Extract the assignment out of this expression.(ŸÅØöüÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckó
+".Extract the assignment out of this expression.(……Ã¾
+_$squid:AssignmentInSubExpressionCheckó
+".Extract the assignment out of this expression.(……Ã¾
+_$squid:AssignmentInSubExpressionCheckÀ".Extract the assignment out of this expression.(ÑÆú
+_$squid:AssignmentInSubExpressionCheckÀ".Extract the assignment out of this expression.(ÑÆú
+gsquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ThreadLocalRandom'.(¨ÏÙî
+Hsquid:S2065“"0Remove the "transient" modifier from this field.(Êä²¦
+Csquid:S2160µ"+Override the "equals" method in this class.(ì§™
+/squid:S2176õ"Rename this class.(·ÉÅİùÿÿÿÿ
+Jsquid:S2387ø"-"next" is the name of a field in "Reference".(½ËÉûÿÿÿÿ
+@squid:S2388‹"(Prefix this call to "get" with "super.".(´›
+Wsquid:S1161ñ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+fsquid:S2272€"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Èç•Ê
+fsquid:S2272†"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³
+fsquid:S2272Œ"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó
+Rsquid:S1161È":Add the "@Override" annotation above this method signature(«À¡’
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
+Wsquid:S1161ó":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+Wsquid:S1161÷":Add the "@Override" annotation above this method signature(ù¢İ­ÿÿÿÿÿ
+Rsquid:S1161½	":Add the "@Override" annotation above this method signature(¶•ãü
+Gsquid:EmptyStatementUsageCheckŞ	"Remove this empty statement.(Ìî¨Æ
+=squid:S1659¡
+" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
+>squid:S1659¡
+"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
+vsquid:S2293£
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÅØöüÿÿÿÿ
+jsquid:S3776§
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(÷ƒµ—
+Rsquid:S1161§
+":Add the "@Override" annotation above this method signature(÷ƒµ—
+8squid:S1659¨
+" Declare "hi" on a separate line.(¯ŸÎ
+8squid:S1659¨
+" Declare "mc" on a separate line.(¯ŸÎ
+osquid:S3776É
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¦¿çÿÿÿÿÿ
+=squid:S1659ñ
+" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
+>squid:S1659ñ
+"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
+qsquid:S2293ó
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(……Ã¾
+jsquid:S3776÷
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ğ¸¯¡
+Rsquid:S1161÷
+":Add the "@Override" annotation above this method signature(ğ¸¯¡
+8squid:S1659ø
+" Declare "hi" on a separate line.(¯ŸÎ
+8squid:S1659ø
+" Declare "mc" on a separate line.(¯ŸÎ
+jsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(êöÅ“
+=squid:S1659¾" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
+>squid:S1659¾"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
+qsquid:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÆú
+osquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ˆ¶÷ºşÿÿÿÿ
+Wsquid:S1161Å":Add the "@Override" annotation above this method signature(ˆ¶÷ºşÿÿÿÿ
+8squid:S1659Æ" Declare "hi" on a separate line.(¯ŸÎ
+8squid:S1659Æ" Declare "mc" on a separate line.(¯ŸÎ
+isquid:S3776é"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ùş¡
+hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ÃÒØØùÿÿÿÿ

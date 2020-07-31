@@ -1,0 +1,17 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+_squid:S00112ê"FDefine and throw a dedicated exception instead of using a generic one.(ºÄš¿
+dsquid:S00112¼"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+dsquid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+Usquid:UselessImportCheck<"2Remove this unused import 'org.xml.sax.XMLReader'.(½Ñ´.
+Xsquid:UselessImportCheck;"4Remove this unused import 'org.xml.sax.InputSource'.(”íÍ¤
+wsquid:UselessImportCheck7"SRemove this unused import 'com.sun.org.apache.xml.internal.dtm.ref.DTMDefaultBase'.(€Ýü±
+Vsquid:S1118C":Add a private constructor to hide the implicit public one.(ëéÔ„ÿÿÿÿÿ
+osquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¢Ö©úÿÿÿÿ
+osquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(òº–ãýÿÿÿÿ
+Usquid:S1854Ý"8Remove this useless assignment to local variable "mask".(½Êº¶øÿÿÿÿ
+osquid:S2737Ž"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+Usquid:S1854™"8Remove this useless assignment to local variable "node".(Êêüÿÿÿÿ
+Qsquid:S1068E"5Remove this unused "NAMESPACE_FEATURE" private field.(³¹Ûõÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+gsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(Žˆ®´ûÿÿÿÿ

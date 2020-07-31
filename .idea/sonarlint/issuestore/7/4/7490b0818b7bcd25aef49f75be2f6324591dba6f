@@ -1,0 +1,20 @@
+
+Qsquid:S1191'"5Use classes from the Java API instead of Sun classes.(íØÎàşÿÿÿÿ
+ksquid:S1192Ó"NDefine a constant instead of duplicating this literal "MessageDigest" 3 times.(ñ´›øÿÿÿÿ
+csquid:S1301†"KReplace this "switch" statement by "if" statements to increase readability.(ş™ÅŞ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+bsquid:UselessImportCheck#"9Remove this unused import 'java.io.ByteArrayInputStream'.(Ëôæ±ûÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÂâã
+Q"squid:SwitchLastCaseIsDefaultCheck†""Add a default case to this switch.(ş™ÅŞ
+ksquid:S2975ó"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+Rsquid:S1161ó":Add the "@Override" annotation above this method signature(¯áÑë
+ksquid:S2975©"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+Rsquid:S1161©":Add the "@Override" annotation above this method signature(¯áÑë
+Hsquid:S1905²"0Remove this unnecessary cast to "MessageDigest".(Æ×±
+Hsquid:S1905³"0Remove this unnecessary cast to "MessageDigest".(ŠÊ²Õ
+Hsquid:S1905´"0Remove this unnecessary cast to "MessageDigest".(®”ú°
+`squid:S1182©"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë
+Rsquid:S1161»":Add the "@Override" annotation above this method signature(®ÉÈ•
+Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(¡ ˆŒ
+Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(—çôÃûÿÿÿÿ

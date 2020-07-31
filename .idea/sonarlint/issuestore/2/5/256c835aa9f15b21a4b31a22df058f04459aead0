@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
+ysquid:S1488q"]Immediately return this expression instead of assigning it to the temporary variable "table".(Ù‚§ÿÿÿÿÿ
+_squid:UselessImportCheck"";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+Asquid:S5164C"*Call "remove()" on "threadLocalSlotTable".(ªßÙå
+bsquid:S4065D"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(Çğà€ùÿÿÿÿ
+Qsquid:S1161E":Add the "@Override" annotation above this method signature(Ÿ¬èë
+gsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(·ªŠ‹ûÿÿÿÿ

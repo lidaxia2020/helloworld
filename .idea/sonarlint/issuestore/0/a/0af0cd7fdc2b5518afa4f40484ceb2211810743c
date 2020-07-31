@@ -1,0 +1,8 @@
+
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿ¡Íìûÿÿÿÿ
+lsquid:S3008:"PRename this field "MAJOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÊÆ®üÿÿÿÿ
+lsquid:S3008;"PRename this field "MINOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ßÙ×ûÿÿÿÿ
+lsquid:S3008<"PRename this field "DELTA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÜ¤üÿÿÿÿ
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÉŒ¶Šÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

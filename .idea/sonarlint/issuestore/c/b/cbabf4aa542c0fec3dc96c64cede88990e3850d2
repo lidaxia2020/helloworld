@@ -1,0 +1,14 @@
+
+Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Œ© ¸ûÿÿÿÿ
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(à„É€
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(‰¨„Õ
+}squid:S1149—"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ğ÷‘Ù
+‚squid:S1149˜"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ĞË÷Ãşÿÿÿÿ
+}squid:S1149š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºúÑ
+‚squid:S1149®"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Âî÷Ôûÿÿÿÿ
+usquid:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¢Ü²ûÿÿÿÿ
+usquid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¢Ü²ûÿÿÿÿ
+>squid:S1452—"&Remove usage of generic wildcard type.(Ğ÷‘Ù
+vsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞË÷Ãşÿÿÿÿ
+hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(æÒÃöøÿÿÿÿ

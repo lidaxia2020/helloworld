@@ -1,0 +1,24 @@
+
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(éæ„¨8³éåİš.
+gsquid:S1226^"DIntroduce a new variable instead of reusing the parameter "integer".(ÄÖ§äùÿÿÿÿ8Õí¶Ø¡.
+Jsquid:S1612?",Replace this lambda with a method reference.(‚„áû8Õí¶Ø¡.
+Usquid:S1854?"7Remove this useless assignment to local variable "map".(‚„áû8Õí¶Ø¡.
+\squid:S18549">Remove this useless assignment to local variable "jsonObject".(™Ö…œ8Õí¶Ø¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓÊÇ†8Õí¶Ø¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ”³‚8Õí¶Ø¡.
+?squid:S2129;"!Remove this "Integer" constructor( Ñˆ8Õí¶Ø¡.
+^squid:CallToDeprecatedMethod;"/Remove this use of "Integer"; it is deprecated.( Ñˆ8Õí¶Ø¡.
+qsquid:S1602?"SRemove useless curly braces around statement and then remove useless return keyword(‚„áû8Õí¶Ø¡.
+Jsquid:S1602I",Remove useless curly braces around statement(Çù°æ8Õí¶Ø¡.
+^squid:S1854^";Remove this useless assignment to local variable "integer".(ÄÖ§äùÿÿÿÿ8Õí¶Ø¡.
+Msquid:S14819"/Remove this unused "jsonObject" local variable.(™Ö…œ8Õí¶Ø¡.
+Fsquid:S1481?"(Remove this unused "map" local variable.(‚„áû8Õí¶Ø¡.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë¼‚¤8Õí¶Ø¡.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ãïûœ8Õí¶Ø¡.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»Ø¬•8Õí¶Ø¡.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õ®ì8Õí¶Ø¡.
+nsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ä¿‡üùÿÿÿÿ8Õí¶Ø¡.
+nsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(±« şûÿÿÿÿ8Õí¶Ø¡.

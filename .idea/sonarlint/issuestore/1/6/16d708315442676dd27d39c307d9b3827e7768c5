@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬è‹«ûÿÿÿÿ
+csquid:S00112;"FDefine and throw a dedicated exception instead of using a generic one.(üà®¬üÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

@@ -1,0 +1,19 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
+squid:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ó’‡†úÿÿÿÿ
+‚squid:S1149×"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÕÌèÿÿÿÿÿ
+jsquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÏÃŒ
+jsquid:S1871¸"MThis branch's code block is the same as the block for the branch on line 424.(Èª«Úûÿÿÿÿ
+‚squid:S1149×"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÕÌèÿÿÿÿÿ
+@squid:S1481¼")Remove this unused "node" local variable.(í¨Ü3
+@squid:S1481ì")Remove this unused "node" local variable.(í¨Ü3
+hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(Ÿ©ÁÏúÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šÎêƒ
+hsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(©Ñ®¬ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(©Ñ®¬ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(©Ñ®¬ÿÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©Ñ®¬ÿÿÿÿÿ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(¹¸º½
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹¸º½
+hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(œÔ¬óÿÿÿÿÿ
+csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(‚˜±Â

@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê Ş’
+msquid:S1192“"PUse already-defined constant 'UNREGISTER' instead of duplicating its value here.(³½¼åøÿÿÿÿ
+Esquid:S1604ü"(Make this anonymous inner class a lambda(«±Äœşÿÿÿÿ
+Ksquid:EmptyStatementUsageCheckq"Remove this empty statement.(Âûäÿÿÿÿÿ
+ssquid:S00116‚"URename this field "NO_STRINGS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò±ƒºÿÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheckç"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(¹£ş
+Esquid:S1905ç"-Remove this unnecessary cast to "Properties".(Ò­³–
+osquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ì¿ç£ÿÿÿÿÿ
+qsquid:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ñ“
+ksquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(Ü˜Ø¥
+qsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûí‘·

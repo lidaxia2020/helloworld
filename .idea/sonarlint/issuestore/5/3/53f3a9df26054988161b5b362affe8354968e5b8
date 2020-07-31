@@ -1,0 +1,4 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘´¦¸
+usquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Þôô¡üÿÿÿÿ
+Ksquid:S2864<"4Iterate over the "entrySet" instead of the "keySet".(£ÆŒÿ

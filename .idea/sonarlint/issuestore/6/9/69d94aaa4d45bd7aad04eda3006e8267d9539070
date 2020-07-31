@@ -1,0 +1,8 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(µ°¨£øÿÿÿÿ
+Zsquid:UselessImportCheck)"1Remove this unused import 'java.io.StringWriter'.(ô“Õıùÿÿÿÿ
+nsquid:UselessImportCheck5"JRemove this unused import 'com.sun.corba.se.impl.orbutil.HexOutputStream'.(ÌÉ¢Í
+wsquid:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ç˜†
+|squid:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckƒ"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(’¼½Ôùÿÿÿÿ
+@squid:S4425ü"(Use String.format( "%02X", ...) instead.(•õÕ

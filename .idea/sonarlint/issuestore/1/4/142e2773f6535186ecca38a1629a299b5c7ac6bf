@@ -1,0 +1,50 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+dsquid:S00112Ë"FDefine and throw a dedicated exception instead of using a generic one.(¸‘şÿÿÿÿÿ
+tsquid:S00116‹"VRename this field "m_predCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íı”Òûÿÿÿÿ
+tsquid:S00116Ä"VRename this field "m_foundLast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øËøÿÿÿÿ
+isquid:S00116Ê"PRename this field "m_lpi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µëû
+ysquid:S00116Ò"[Rename this field "m_predicateIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÜÓ­øÿÿÿÿ
+psquid:S00116Ü"WRename this field "m_predicates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ô‚Ì
+xsquid:S00116å"_Rename this field "m_proximityPositions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÕãÖ
+}squid:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+osquid:S2975t"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
+qsquid:S3012³"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‰á—ö
+zsquid:S3038™"]"getLastPos" is defined in the "SubContextList" interface and can be removed from this class.(†‹¦ıÿÿÿÿ
+Osquid:S1135Â"2Complete the task associated to this TODO comment.(ïóúÿÿÿÿ
+´%squid:RedundantThrowsDeclarationCheckÔ"Remove the declaration of thrown exception 'javax.xml.transform.TransformerException', as it cannot be thrown from method's body.(¥æØï
+osquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿•ğúÿÿÿÿ
+P
+squid:S106²"9Replace this use of System.out or System.err by a logger.(ÚÂâ
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(×áÅøÿÿÿÿ
+U
+squid:S106´"9Replace this use of System.out or System.err by a logger.(¡Îãøÿÿÿÿ
+P
+squid:S106·"9Replace this use of System.out or System.err by a logger.(½ à´
+U
+squid:S106À"9Replace this use of System.out or System.err by a logger.(Ì‚Úßùÿÿÿÿ
+P
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(°îó¾
+P
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(®¹ÇÃ
+U
+squid:S106È"9Replace this use of System.out or System.err by a logger.(Ì‚Úßùÿÿÿÿ
+P
+squid:S106É"9Replace this use of System.out or System.err by a logger.(™’ÒÃ
+P
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(®¹ÇÃ
+Jsquid:S1135Ê"2Complete the task associated to this TODO comment.(÷çºš
+Wsquid:S1161ÿ":Add the "@Override" annotation above this method signature(ö™±¨ûÿÿÿÿ
+Wsquid:S1161«":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
+psquid:ModifiersOrderCheckÄ"EReorder the modifiers to comply with the Java Language Specification.(£øËøÿÿÿÿ
+ksquid:ModifiersOrderCheckå"EReorder the modifiers to comply with the Java Language Specification.(÷ÕãÖ
+ksquid:S00116ì"RRename this field "m_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§¾°
+Jsquid:S1481Ÿ"2Remove this unused "savedResolver" local variable.(‘¿ªä
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(¾ıİ
+bsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(«©šJ
+bsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(úæ 3
+csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(•×ßˆ
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(¸¹ø‘
+csquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(µ‰ù•

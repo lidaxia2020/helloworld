@@ -1,0 +1,11 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+Osquid:S2589ı"7Remove this expression which always evaluates to "true"(ËÄÒ‚
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(¨Óêó
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢„Š•üÿÿÿÿ
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(˜«Ñ¸
+hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(¢„Š•üÿÿÿÿ
+csquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(³„€
+hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(¢„Š•üÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢„Š•üÿÿÿÿ

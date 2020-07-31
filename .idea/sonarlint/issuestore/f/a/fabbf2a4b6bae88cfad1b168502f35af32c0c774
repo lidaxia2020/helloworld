@@ -1,0 +1,4 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
+Dsquid:S1172@"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
+Vsquid:S1161O":Add the "@Override" annotation above this method signature(°¤ºçûÿÿÿÿ

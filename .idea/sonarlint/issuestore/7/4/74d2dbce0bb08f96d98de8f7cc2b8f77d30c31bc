@@ -1,0 +1,7 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
+psquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åş˜â
+psquid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(àõäÖ
+usquid:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò«äœÿÿÿÿÿ
+@squid:S2388Œ"(Prefix this call to "get" with "super.".(™ì—Ú
+qsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ş¡Ú

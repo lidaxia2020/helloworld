@@ -1,0 +1,5 @@
+
+?squid:S1604]"(Make this anonymous inner class a lambda(²ŽÊÃ
+osquid:UselessImportCheck"KRemove this unused import 'java.lang.invoke.MethodHandleNatives.Constants'.(ò’Ù´
+Dsquid:S1172."-Remove this unused method parameter "lookup".(¡æ€¬
+«%squid:RedundantThrowsDeclarationCheckˆ"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(‹¼¨È

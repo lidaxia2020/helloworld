@@ -1,0 +1,9 @@
+
+Fsquid:S1066€"/Merge this if statement with the enclosing one.(˜ù›"
+p
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+}squid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(¶“šëøÿÿÿÿ
+Usquid:S1197Ó"8Move the array designator from the variable to the type.(á·´ÿÿÿÿÿ
+vsquid:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(şğäÖøÿÿÿÿ
+osquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Œ´ü†øÿÿÿÿ
+bsquid:S2147ï"ECombine this catch with the one at line 749, which has the same body.(Å×âşÿÿÿÿ

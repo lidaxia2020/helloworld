@@ -1,0 +1,4 @@
+
+Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(ÉÃ¾åüÿÿÿÿ
+@squid:S1604“"(Make this anonymous inner class a lambda(¼Ğ¤
+psquid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(É›Ç

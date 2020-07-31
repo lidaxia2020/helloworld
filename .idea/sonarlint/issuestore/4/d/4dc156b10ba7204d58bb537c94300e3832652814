@@ -1,0 +1,17 @@
+
+Xsquid:S2184‡"@Cast one of the operands of this addition operation to a "long".(Ù¨æé
+qsquid:S1192‹"TDefine a constant instead of duplicating this literal "Unsupported field: " 3 times.(¦Î¡Éıÿÿÿÿ
+Fsquid:S1125„")Remove the literal "false" boolean value.(Æèšçøÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck¤""Add a default case to this switch.(¹Ë”Óùÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckÇ""Add a default case to this switch.(¹Ë”Óùÿÿÿÿ
+"squid:SwitchLastCaseIsDefaultCheck‚"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÍÂŠºøÿÿÿÿ
+Fsquid:S1125…")Remove the literal "false" boolean value.(ı´¢úùÿÿÿÿ
+"squid:SwitchLastCaseIsDefaultCheckø"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶Ô‡´ÿÿÿÿÿ
+Csquid:S1905¿"&Remove this unnecessary cast to "int".(Îùôšûÿÿÿÿ
+"squid:SwitchLastCaseIsDefaultCheckñ
+"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÍÂŠºøÿÿÿÿ
+"squid:SwitchLastCaseIsDefaultCheck„"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÍÂŠºøÿÿÿÿ
+Csquid:S1905å"&Remove this unnecessary cast to "int".(Œäïùÿÿÿÿ
+ˆ"squid:SwitchLastCaseIsDefaultCheck”"YComplete cases by adding the missing enum constants or add a default case to this switch.(°åÎğ
+Asquid:S1125¯")Remove the literal "false" boolean value.(áıä
+Asquid:S1125É")Remove the literal "false" boolean value.(ÌİÕ•

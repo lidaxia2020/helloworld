@@ -1,0 +1,19 @@
+
+Csquid:S1659Æ"+Declare "REF_getStatic" on a separate line.(Ö±ƒû
+Gsquid:S1659Ç"*Declare "REF_putField" on a separate line.(Šü™Şøÿÿÿÿ
+Hsquid:S1659È"+Declare "REF_putStatic" on a separate line.(ù»Ù³úÿÿÿÿ
+Gsquid:S1659É"/Declare "REF_invokeVirtual" on a separate line.(âÊ«»
+Ksquid:S1659Ê".Declare "REF_invokeStatic" on a separate line.(öĞìºûÿÿÿÿ
+Gsquid:S1659Ë"/Declare "REF_invokeSpecial" on a separate line.(‘İîÈ
+Jsquid:S1659Ì"2Declare "REF_newInvokeSpecial" on a separate line.(Ë¶Ú¸
+Nsquid:S1659Í"1Declare "REF_invokeInterface" on a separate line.(Ûğ“ùÿÿÿÿ
+:squid:S1214¶""Move constants to a class or enum.(çŞÔ 
+xsquid:S00115Å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë…ıÿÿÿÿ
+ssquid:S00115Æ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö±ƒû
+xsquid:S00115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Šü™Şøÿÿÿÿ
+xsquid:S00115È"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ù»Ù³úÿÿÿÿ
+ssquid:S00115É"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âÊ«»
+xsquid:S00115Ê"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(öĞìºûÿÿÿÿ
+ssquid:S00115Ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘İîÈ
+ssquid:S00115Ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ë¶Ú¸
+xsquid:S00115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûğ“ùÿÿÿÿ

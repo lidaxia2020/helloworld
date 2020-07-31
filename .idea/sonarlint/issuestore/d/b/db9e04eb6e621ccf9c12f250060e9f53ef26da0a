@@ -1,0 +1,16 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+dsquid:MaximumInheritanceDepth6"<This class has 6 parents which is greater than 5 authorized.(¼å¡G
+ssquid:S00116:"VRename this field "m_traverser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ç‰ùÿÿÿÿ
+osquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(€Ç‰ùÿÿÿÿ
+Wsquid:S1161”":Add the "@Override" annotation above this method signature(´„ðøúÿÿÿÿ
+Wsquid:S1161©":Add the "@Override" annotation above this method signature(òÚèˆþÿÿÿÿ
+Wsquid:S1161Ì":Add the "@Override" annotation above this method signature(™³€áøÿÿÿÿ
+Rsquid:S1161Û":Add the "@Override" annotation above this method signature(¶ÕŠ¹
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(÷„Õìýÿÿÿÿ
+bsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(Ú°à¬
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(ì‡Æûÿÿÿÿ
+bsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(§®µZ
+csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(Ú°à¬
+csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(Ú°à¬

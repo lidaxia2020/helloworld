@@ -1,0 +1,31 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
+Jsquid:S1199ï"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Asquid:S2157B"%Add a "clone()" method to this class.(Ìè×šüÿÿÿÿ
+rsquid:S4144³"UUpdate this method so that its implementation is not identical to "iter" on line 528.(ÌÊ€Ïýÿÿÿÿ
+rsquid:S4144Ç"UUpdate this method so that its implementation is not identical to "iter" on line 528.(Úþäÿÿÿÿÿ
+™squid:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§”Íê
+žsquid:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãØñÄÿÿÿÿÿ
+™squid:S1186´"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Øû¬¯
+hsquid:S00116N"PRename this field "m_obj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ï
+}squid:S1149û"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+>squid:S1948N"'Make "m_obj" transient or serializable.(¢ï
+psquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(ÑþÑþÿÿÿÿ
+ksquid:ModifiersOrderCheckí"EReorder the modifiers to comply with the Java Language Specification.(™ôÁ
+=squid:S2129€" Remove this "Double" constructor(÷ÎâÇýÿÿÿÿ
+\squid:CallToDeprecatedMethod€".Remove this use of "Double"; it is deprecated.(÷ÎâÇýÿÿÿÿ
+>squid:S2129†"!Remove this "Boolean" constructor(¶·ðšúÿÿÿÿ
+]squid:CallToDeprecatedMethod†"/Remove this use of "Boolean"; it is deprecated.(¶·ðšúÿÿÿÿ
+msquid:S1201˜"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¯¢…Ò
+ƒsquid:S3252è"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¨Ð¯‘úÿÿÿÿ
+Ysquid:S1126§"AReplace this if-then-else statement by a single return statement.(—ÛšÛ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(ò”­˜úÿÿÿÿ
+hsquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(ò”­˜úÿÿÿÿ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Åò¥õ
+csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(Åò¥õ
+csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(Åò¥õ
+hsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(À‡Â—ÿÿÿÿÿ
+csquid:CommentedOutCodeLineŽ"<This block of commented-out lines of code should be removed.(ˆ•ÀÝ
+hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(Žƒþ‘øÿÿÿÿ
+hsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(ÎÙûìýÿÿÿÿ

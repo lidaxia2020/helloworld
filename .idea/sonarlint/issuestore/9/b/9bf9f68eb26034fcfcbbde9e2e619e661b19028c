@@ -1,0 +1,41 @@
+
+Dsquid:S1604H"(Make this anonymous inner class a lambda(„æÖüúÿÿÿÿ
+Dsquid:S1125]"(Remove the literal "true" boolean value.(ş‰ı¼şÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(Æ¥¶¨
+Rsquid:S1161…":Add the "@Override" annotation above this method signature(Å…
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(·Ïñ¸úÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(ñóïü
+Rsquid:S1161‘":Add the "@Override" annotation above this method signature(‚Û¢¶
+Wsquid:S1161•":Add the "@Override" annotation above this method signature(ÇÙú¯üÿÿÿÿ
+Qsquid:S1161™":Add the "@Override" annotation above this method signature(ëÉü
+Wsquid:S1161":Add the "@Override" annotation above this method signature(›—µ¸ıÿÿÿÿ
+Rsquid:S1161¡":Add the "@Override" annotation above this method signature(Á»›ê
+Rsquid:S1161§":Add the "@Override" annotation above this method signature(áä·„
+¯%squid:RedundantThrowsDeclarationCheck¯"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ˆ¨Šûÿÿÿÿ
+Wsquid:S1161®":Add the "@Override" annotation above this method signature(ğı¾øÿÿÿÿ
+Rsquid:S1161´":Add the "@Override" annotation above this method signature(™¨ªÒ
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(¸¢×ıÿÿÿÿ
+Rsquid:S1161¼":Add the "@Override" annotation above this method signature(öı
+Wsquid:S1161À":Add the "@Override" annotation above this method signature(´İ—ûÿÿÿÿ
+Rsquid:S1161Ä":Add the "@Override" annotation above this method signature(ğ»Ï¹
+Rsquid:S1161È":Add the "@Override" annotation above this method signature(±‚³Ö
+Rsquid:S1161Î":Add the "@Override" annotation above this method signature(‹æ’
+Rsquid:S1161Ü":Add the "@Override" annotation above this method signature(º·ê´
+Rsquid:S1161à":Add the "@Override" annotation above this method signature(½Ô
+Wsquid:S1161ä":Add the "@Override" annotation above this method signature(øÖò‰şÿÿÿÿ
+Rsquid:S1161è":Add the "@Override" annotation above this method signature(ØÆœÕ
+fsquid:S2886ğ"ISynchronize this method to match the synchronization on "getInputStream".(ÉŠìœùÿÿÿÿ
+Wsquid:S1161ì":Add the "@Override" annotation above this method signature(‹Ü’Éûÿÿÿÿ
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(ÉŠìœùÿÿÿÿ
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(¶Ş•Âøÿÿÿÿ
+Wsquid:S1161ø":Add the "@Override" annotation above this method signature(Å¼ßØüÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(÷æÔø
+Wsquid:S1161Š":Add the "@Override" annotation above this method signature(«€§äÿÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(­…ÆO
+Wsquid:S1161’":Add the "@Override" annotation above this method signature(şïú»ıÿÿÿÿ
+Rsquid:S1161–":Add the "@Override" annotation above this method signature(  ş
+Rsquid:S1161š":Add the "@Override" annotation above this method signature(ÑÑ«Ÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(ŞŒí
+Wsquid:S1161¦":Add the "@Override" annotation above this method signature(ï·³Äûÿÿÿÿ
+Wsquid:S1161®":Add the "@Override" annotation above this method signature(¸ Şñùÿÿÿÿ
+Wsquid:S1161²":Add the "@Override" annotation above this method signature(à·Êªøÿÿÿÿ

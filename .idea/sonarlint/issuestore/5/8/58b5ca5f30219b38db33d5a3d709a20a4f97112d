@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(íÙìûÿÿÿÿ
+Lsquid:S1610<"5Convert the abstract class "Trees" into an interface.(Á§´§
+Csquid:S1872X"'Use an "instanceof" comparison instead.(ÆÃ¢ÿÿÿÿÿ
+Asquid:S1181d"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+Tsquid:S3878b"8Remove this array creation and simply pass the elements.(‘ŸˆÛøÿÿÿÿ
+Osquid:S3878c"8Remove this array creation and simply pass the elements.(ÜŒË

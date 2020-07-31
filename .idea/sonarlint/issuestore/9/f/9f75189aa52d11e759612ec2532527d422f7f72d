@@ -1,0 +1,5 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê Þ’
+œ%squid:RedundantThrowsDeclarationCheckQ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ê—ïÌøÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheckl"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ê—ïÌøÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck…"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ê—ïÌøÿÿÿÿ

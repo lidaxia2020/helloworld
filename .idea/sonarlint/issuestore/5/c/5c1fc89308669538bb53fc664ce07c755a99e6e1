@@ -1,0 +1,60 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
+Lsquid:S1066Ú"/Merge this if statement with the enclosing one.(Óä€—şÿÿÿÿ
+…squid:S4165‚"mRemove this useless assignment; "mappedErrorCode" already holds the assigned value along all execution paths.(»Ã†
+„squid:S4165}"mRemove this useless assignment; "mappedErrorCode" already holds the assigned value along all execution paths.(»Ã†
+‚squid:S1149í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Î«ùÕøÿÿÿÿ
+}squid:S1149ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùÜ¼ù
+}squid:S1149í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óµ
+}squid:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ä‚’²
+‚squid:S1149ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷³ÏÂùÿÿÿÿ
+‚squid:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºÉÎ¯ùÿÿÿÿ
+‚squid:S1149Ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡ÈÌùÿÿÿÿ
+ssquid:S1149Â"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(îôü„üÿÿÿÿ
+dsquid:S1871j"MThis branch's code block is the same as the block for the branch on line 102.(×øŸŞ
+Hsquid:S1150Æ"+Implement Iterator rather than Enumeration.(ÆÊÇşÿÿÿÿ
+¢%squid:RedundantThrowsDeclarationCheckØ"kRemove the declaration of thrown exception 'java.util.NoSuchElementException' which is a runtime exception.(³¤¢™øÿÿÿÿ
+‚squid:S1149í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Î«ùÕøÿÿÿÿ
+}squid:S1149ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùÜ¼ù
+ksquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(ùÜ¼ù
+ksquid:ModifiersOrderCheckú"EReorder the modifiers to comply with the Java Language Specification.(èˆã‹
+psquid:ModifiersOrderCheckû"EReorder the modifiers to comply with the Java Language Specification.(æ¼»õüÿÿÿÿ
+ksquid:ModifiersOrderCheckü"EReorder the modifiers to comply with the Java Language Specification.(—¡‹°
+psquid:ModifiersOrderCheckı"EReorder the modifiers to comply with the Java Language Specification.(õ›ª”úÿÿÿÿ
+ksquid:ModifiersOrderCheckş"EReorder the modifiers to comply with the Java Language Specification.(¹ÀÈÅ
+psquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(Èİìøıÿÿÿÿ
+ssquid:S00115ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÃŒÏğ
+}squid:S1149í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óµ
+}squid:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ä‚’²
+‚squid:S1149ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷³ÏÂùÿÿÿÿ
+‚squid:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºÉÎ¯ùÿÿÿÿ
+‚squid:S1149Ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡ÈÌùÿÿÿÿ
+ksquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(ÃŒÏğ
+Csquid:S1168Í"+Return an empty collection instead of null.(ï¢
+Bsquid:S1168Ï"+Return an empty collection instead of null.(şüØM
+vsquid:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ´Ä¦úÿÿÿÿ
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(øİíµ
+csquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(µ…Š´
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(¿ÒëË
+hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(³ù×Œûÿÿÿÿ
+hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(‰ä÷„ıÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ãÙè½
+csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(³“èÉ
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(”àÈ©øÿÿÿÿ
+hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(½ãòíşÿÿÿÿ
+bsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(Ü’®C
+bsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(ûÔ·~
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(×óç
+bsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ûÔ·~
+csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(×óç
+hsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(³Íš¤øÿÿÿÿ
+hsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(Ó·öñşÿÿÿÿ
+bsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(òğ¾:
+hsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(šÂÒÔşÿÿÿÿ
+csquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(Š˜Ô×
+csquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(Üßç
+csquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(ÒÅ•î
+hsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(‰ÆÍ‡øÿÿÿÿ
+csquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(«ºáä
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(«ºáä

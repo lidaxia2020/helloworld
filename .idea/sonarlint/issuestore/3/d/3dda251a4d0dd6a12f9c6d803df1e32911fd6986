@@ -1,0 +1,12 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+isquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìø•
+isquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äòûà
+isquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
+isquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¢÷…
+isquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ø0
+ˆsquid:S00116>"kRename this field "local_variable_type_table_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¢Ó™ûÿÿÿÿ
+squid:S00116?"dRename this field "local_variable_type_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ·–Øøÿÿÿÿ
+Nsquid:S1135;"2Complete the task associated to this TODO comment.(°¨—ûÿÿÿÿ
+bsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¬Ÿ°·
+bsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(Â¸Ï·

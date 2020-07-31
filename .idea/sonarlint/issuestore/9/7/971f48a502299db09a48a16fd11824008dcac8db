@@ -1,0 +1,13 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+‡"squid:ClassVariableVisibilityCheckC"TMake iterator a static final constant or non-public and provide accessors if needed.(Ó•ÿ…ıÿÿÿÿ
+squid:UselessImportCheck*"XRemove this unused import 'com.sun.org.apache.xml.internal.dtm.ref.DTMAxisIteratorBase'.(æ³²ÿÿÿÿÿ
+‚squid:UselessImportCheck("YRemove this unused import 'com.sun.org.apache.xalan.internal.xsltc.runtime.BasisLibrary'.(ø£¾ÿÿÿÿÿÿ
+lsquid:S00116>"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¢ŸÈüÿÿÿÿ
+osquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(ö¢ŸÈüÿÿÿÿ
+Qsquid:S1161O":Add the "@Override" annotation above this method signature(É»ç
+Qsquid:S1161U":Add the "@Override" annotation above this method signature(ª³í
+Qsquid:S1161Z":Add the "@Override" annotation above this method signature(‡ÀÃœ
+Ysquid:S1854`"=Remove this useless assignment to local variable "comparand".(„™¨Ìıÿÿÿÿ
+Jsquid:S1481`".Remove this unused "comparand" local variable.(„™¨Ìıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

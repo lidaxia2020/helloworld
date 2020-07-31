@@ -1,0 +1,18 @@
+
+Lsquid:S1191!"5Use classes from the Java API instead of Sun classes.(¼¸Ñá
+ksquid:S1192±"SDefine a constant instead of duplicating this literal "unknown protocol: " 3 times.(¶º¥
+Rsquid:S1141Ü"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S4973È"9Use the "equals" method if value comparison was intended.(ñ›òà
+Zsquid:S00107„"<Method has 8 parameters, which is greater than 7 authorized.(³½ßÑùÿÿÿÿ
+dsquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(øÎ¡Õıÿÿÿÿ
+Psquid:S2675®"3Remove the "synchronized" keyword from this method.(¤ğ¹òÿÿÿÿÿ
+xsquid:S00115É"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ø³Ò–ùÿÿÿÿ
+nsquid:S1149¨"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ù¨×„
+osquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ò™âªøÿÿÿÿ
+;squid:S1659¯"#Declare "limit" on a separate line.(­·İ½
+7squid:S1659¯"Declare "c" on a separate line.(­·İ½
+jsquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ÁÇ­®
+asquid:CallToDeprecatedMethodæ"3Remove this use of "newInstance"; it is deprecated.(Ÿ¦àãşÿÿÿÿ
+osquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¤ğ¹òÿÿÿÿÿ
+;squid:S1659Ú"#Declare "query" on a separate line.(ˆ½³É
+9squid:S1659Ú"!Declare "ref" on a separate line.(ˆ½³É

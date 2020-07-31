@@ -1,0 +1,28 @@
+
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
+nsquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ÷²üÿÿÿÿ
+nsquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ÷²üÿÿÿÿ
+nsquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+nsquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
+nsquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+nsquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
+Gsquid:S21607"+Override the "equals" method in this class.(áŒÏÂøÿÿÿÿ
+ysquid:S30088"]Rename this field "CONTEXT_NODE_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºü™‹ıÿÿÿÿ
+ysquid:S30089"]Rename this field "CURRENT_NODE_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»²Ù¼ıÿÿÿÿ
+usquid:S3008:"YRename this field "ITERATOR_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÿÎÿÿÿÿÿ
+lsquid:S00116<"TRename this field "_aloadDom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šß‹¤
+usquid:S00116="XRename this field "_iloadCurrent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚ªğıÿÿÿÿ
+psquid:S00116>"XRename this field "_iloadContext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹´š
+vsquid:S00116?"YRename this field "_istoreCurrent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®É§Ÿşÿÿÿÿ
+qsquid:S00116@"YRename this field "_istoreContext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÚÀ–
+wsquid:S00116A"ZRename this field "_astoreIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÎËàùÿÿÿÿ
+vsquid:S00116B"YRename this field "_aloadIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ãÁıûÿÿÿÿ
+Vsquid:S1161_":Add the "@Override" annotation above this method signature(ã¢Õ¿ûÿÿÿÿ
+Psquid:S1161c":Add the "@Override" annotation above this method signature(”¬ëR
+Vsquid:S1161h":Add the "@Override" annotation above this method signature(²°Ô¨øÿÿÿÿ
+Vsquid:S1161l":Add the "@Override" annotation above this method signature(³¸êÆüÿÿÿÿ
+Qsquid:S1161p":Add the "@Override" annotation above this method signature(¢åƒ‚
+Vsquid:S1161t":Add the "@Override" annotation above this method signature(›ÆÍğûÿÿÿÿ
+Qsquid:S1161x":Add the "@Override" annotation above this method signature(Ç×™Ù
+Psquid:S1161|":Add the "@Override" annotation above this method signature(£íÌB
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

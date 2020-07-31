@@ -1,0 +1,78 @@
+
+Š squid:ForLoopCounterChangedCheckè"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß³Ÿ°ıÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckè"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß³Ÿ°ıÿÿÿÿ
+Š squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß³Ÿ°ıÿÿÿÿ
+Š squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß³Ÿ°ıÿÿÿÿ
+… squid:ForLoopCounterChangedCheckë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã»”‚
+… squid:ForLoopCounterChangedCheckë"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã»”‚
+… squid:ForLoopCounterChangedCheckì"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã»”‚
+… squid:ForLoopCounterChangedCheckì"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã»”‚
+Š squid:ForLoopCounterChangedCheckï"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß³Ÿ°ıÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckï"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß³Ÿ°ıÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß³Ÿ°ıÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß³Ÿ°ıÿÿÿÿ
+… squid:ForLoopCounterChangedCheckò"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã»”‚
+… squid:ForLoopCounterChangedCheckò"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã»”‚
+… squid:ForLoopCounterChangedCheckó"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã»”‚
+… squid:ForLoopCounterChangedCheckó"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã»”‚
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‹µ›äûÿÿÿÿ
+dsquid:S1192©"GDefine a constant instead of duplicating this literal "] -> [" 3 times.(ßø†ùÿÿÿÿ
+}squid:S1192¥"eDefine a constant instead of duplicating this literal "Token#compactRanges(): Compaction: [" 3 times.(ß’ØÖ
+p
+squid:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(Á´Šƒ
+`squid:S2583˜"CChange this condition so that it does not always evaluate to "true"(ùóŞøÿÿÿÿ
+\squid:S2583‡"DChange this condition so that it does not always evaluate to "false"(ğ÷öâ
+Tsquid:S2589ö"7Remove this expression which always evaluates to "true"(™Îüÿÿÿÿ
+Osquid:S2589ï"7Remove this expression which always evaluates to "true"(åİÖÖ
+\squid:S2259ú"DA "NullPointerException" could be thrown; "ranges" is nullable here.(Á´Šƒ
+_squid:S00112Æ"FDefine and throw a dedicated exception instead of using a generic one.(¶óÙ
+dsquid:S00112Ã"FDefine and throw a dedicated exception instead of using a generic one.(öº°ùÿÿÿÿ
+_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(•ê³Œ
+osquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïİµüÿÿÿÿ
+wsquid:S1149Á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+wsquid:S1149Ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+Qsquid:S1161=":Add the "@Override" annotation above this method signature(·æ…÷
+<squid:S1659@" Declare "r2" on a separate line.(õÕäÂıÿÿÿÿ
+Vsquid:S1161o":Add the "@Override" annotation above this method signature(óØııÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(³›‰Çıÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(³›‰Çıÿÿÿÿ
+jsquid:S1871¹"MThis branch's code block is the same as the block for the branch on line 163.(õ›ñ–ûÿÿÿÿ
+P
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(ß’ØÖ
+P
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ß’ØÖ
+P
+squid:S106»"9Replace this use of System.out or System.err by a logger.(ß’ØÖ
+Qsquid:S1161Ø":Add the "@Override" annotation above this method signature(áÈ.
+esquid:S1871î"MThis branch's code block is the same as the block for the branch on line 231.(¹Ğç‘
+esquid:S1871ñ"MThis branch's code block is the same as the block for the branch on line 234.(å¥‡
+jsquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ç¦…õ
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(Ç¦…õ
+8squid:S1659Š"!Declare "src" on a separate line.(¦ôÓo
+8squid:S1659Š"!Declare "sub" on a separate line.(¦ôÓo
+jsquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸à§
+Rsquid:S1161Ø":Add the "@Override" annotation above this method signature(¸à§
+9squid:S1659ã""Declare "src1" on a separate line.(½»‘
+9squid:S1659ã""Declare "src2" on a separate line.(½»‘
+hsquid:S1764ö"KCorrect one of the identical sub-expressions on both sides of operator "<="(™Îüÿÿÿÿ
+jsquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•úÂÓ
+U
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(ìÚıÔøÿÿÿÿ
+P
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(ùô×
+U
+squid:S106û"9Replace this use of System.out or System.err by a logger.(˜Œı˜ûÿÿÿÿ
+U
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(®ƒåîÿÿÿÿÿ
+osquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œ¤ë¤ıÿÿÿÿ
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(œ¤ë¤ıÿÿÿÿ
+_squid:HiddenFieldCheckš"7Rename "map" which hides the field declared at line 52.(İ°Ç»úÿÿÿÿ
+gsquid:HiddenFieldCheck›"?Rename "nonMapIndex" which hides the field declared at line 53.(Òúæ…ÿÿÿÿÿ
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ô¦Š
+Rsquid:S1161µ":Add the "@Override" annotation above this method signature(ô¦Š
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(±´‹ƒ
+gsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ƒç¶âûÿÿÿÿ
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ØÀüê
+csquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(§•Í÷
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(üòµĞûÿÿÿÿ

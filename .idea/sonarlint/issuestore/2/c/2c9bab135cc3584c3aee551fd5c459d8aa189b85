@@ -1,0 +1,13 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+_$squid:AssignmentInSubExpressionCheckª".Extract the assignment out of this expression.(ğÖÍ
+Zsquid:S1155w">Use isEmpty() to check whether the collection is empty or not.(™›ùÛøÿÿÿÿ
+|squid:S1149S"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÎÉ‡
+}squid:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·ªíæ
+Vsquid:S1161E":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
+isquid:S3776R"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(†“‹Ø
+Nsquid:S1854Y"8Remove this useless assignment to local variable "line".(ô‡Ñi
+Vsquid:S1854Š"9Remove this useless assignment to local variable "truec".(ÈËöÈùÿÿÿÿ
+Qsquid:S1161R":Add the "@Override" annotation above this method signature(†“‹Ø
+?squid:S1481Y")Remove this unused "line" local variable.(ô‡Ñi
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

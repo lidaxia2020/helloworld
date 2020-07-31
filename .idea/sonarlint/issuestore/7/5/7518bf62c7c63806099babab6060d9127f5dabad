@@ -1,0 +1,20 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+d$squid:AssignmentInSubExpressionCheck¨".Extract the assignment out of this expression.(âİò‹üÿÿÿÿ
+^$squid:AssignmentInSubExpressionCheckã".Extract the assignment out of this expression.(Åè¤z
+[squid:S1155¹">Use isEmpty() to check whether the collection is empty or not.(ê—°³şÿÿÿÿ
+[squid:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(ê—°³şÿÿÿÿ
+nsquid:S00116P"VRename this field "_kernelType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¥Á
+lsquid:S00116Y"TRename this field "_patterns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÉÑ
+hsquid:S00116a"PRename this field "_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤œ”õ
+ksquid:S00116i"SRename this field "_default" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜„
+xsquid:S00116q"[Rename this field "_instructionList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅµÇêúÿÿÿÿ
+isquid:S00116y"QRename this field "_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ôÒî
+|squid:S1149Y"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®ÉÑ
+‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ğ¤Ìùÿÿÿÿ
+}squid:S1149…"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(´‹ˆ‚
+wsquid:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆÊı¢
+}squid:S1149Ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(½¬Öí
+Ksquid:S1905‡"4Remove this unnecessary cast to "InstructionHandle".(ÕÈ€w
+jsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(± °Ö
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

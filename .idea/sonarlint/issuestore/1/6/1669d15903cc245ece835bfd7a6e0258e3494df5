@@ -1,0 +1,24 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
+asquid:S2259"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(ªöÛÿÿÿÿÿ
+jsquid:S2975‡"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+Gsquid:S00108‹")Either remove or fill this block of code.(ÏÖ¹¦úÿÿÿÿ
+P
+squid:S106å"9Replace this use of System.out or System.err by a logger.(ù¤¯Ê
+U
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(ú¶…Îÿÿÿÿÿ
+U
+squid:S106í"9Replace this use of System.out or System.err by a logger.(€†¤ıÿÿÿÿ
+U
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(ÀîßÈúÿÿÿÿ
+O
+squid:S106ò"9Replace this use of System.out or System.err by a logger.(Şá
+U
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(ÀîßÈúÿÿÿÿ
+P
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(ÁßÒ£
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(ÀîßÈúÿÿÿÿ
+U
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+bsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(»ğ©¨

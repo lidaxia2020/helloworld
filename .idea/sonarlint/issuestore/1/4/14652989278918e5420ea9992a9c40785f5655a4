@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
+jsquid:S00101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü¯¢öşÿÿÿÿ
+}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(å éşÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+]squid:UselessImportCheck"4Remove this unused import 'org.omg.CORBA.BAD_PARAM'.(Š¡ë±ûÿÿÿÿ
+?squid:S1125º"(Remove the literal "true" boolean value.(òùá
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(½¿‡Şÿÿÿÿÿ

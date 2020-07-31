@@ -1,0 +1,9 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‹’È€úÿÿÿÿ
+qsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÆ‹²
+asquid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(“·´Ãøÿÿÿÿ
+Usquid:S1197 "8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
+ssquid:CallToDeprecatedMethod¡"ERemove this use of "InvalidCanonicalizerException"; it is deprecated.(’Ğ¾†üÿÿÿÿ
+Usquid:S1197Í"8Move the array designator from the variable to the type.(­ç•üÿÿÿÿ
+«%squid:RedundantThrowsDeclarationCheckä"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(£»ŞÄ
+Usquid:S1197ê"8Move the array designator from the variable to the type.(­ç•üÿÿÿÿ

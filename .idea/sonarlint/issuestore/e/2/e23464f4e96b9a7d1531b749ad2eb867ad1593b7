@@ -1,0 +1,12 @@
+
+Osquid:S1197a"8Move the array designator from the variable to the type.(ß¨ÄÄ
+Psquid:S1197ª"8Move the array designator from the variable to the type.(–„©
+€squid:S2273Ø"cMove this call to "notifyAll()" into a synchronized block to be sure the monitor on "this" is held.(µ˜©èùÿÿÿÿ
+csquid:S2142Û"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+vsquid:S2273Ú"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(“èÆÅ
+csquid:S2142˜"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(­à…ÿÿÿÿÿ
+Wsquid:S1161Æ":Add the "@Override" annotation above this method signature(­à…ÿÿÿÿÿ
+Usquid:S1197Æ"8Move the array designator from the variable to the type.(­à…ÿÿÿÿÿ
+Wsquid:S1161…":Add the "@Override" annotation above this method signature(°‡Ÿ©ÿÿÿÿÿ
+Wsquid:S1161™":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

@@ -1,0 +1,28 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+n
+squid:S135i"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+u
+squid:S135ï"YReduce the total number of break and continue statements in this loop to use at most one.(«ıøÿÿÿÿ
+Qsquid:S4973ä"9Use the "equals" method if value comparison was intended.(Şäñê
+Psquid:S4973å"9Use the "equals" method if value comparison was intended.(±é£	
+tsquid:S00116—"VRename this field "m_traverser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ç‰ùÿÿÿÿ
+jsquid:S00116š"QRename this field "m_axis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şıİ¥
+ysquid:S00116"[Rename this field "m_extendedTypeID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨áõ¢üÿÿÿÿ
+isquid:S3776M"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¼§Œ
+Wsquid:S1161´":Add the "@Override" annotation above this method signature(´„ğøúÿÿÿÿ
+3squid:S3626„"Remove this redundant jump.(ÉŠ©ƒ
+jsquid:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ê´æ
+Wsquid:S1161¬":Add the "@Override" annotation above this method signature(òÚèˆşÿÿÿÿ
+Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(Ï€”ƒùÿÿÿÿ
+Rsquid:S1161ı":Add the "@Override" annotation above this method signature(¶ÕŠ¹
+Wsquid:S1161":Add the "@Override" annotation above this method signature(™³€áøÿÿÿÿ
+psquid:ModifiersOrderCheck—"EReorder the modifiers to comply with the Java Language Specification.(€Ç‰ùÿÿÿÿ
+Wsquid:S1161¦":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
+^squid:S1126«"AReplace this if-then-else statement by a single return statement.(À °¸ûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(ºìËş
+bsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(ºìËş
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(Ùã„‚úÿÿÿÿ
+csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(ĞÅ¢ü
+hsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(Ùã„‚úÿÿÿÿ

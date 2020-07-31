@@ -1,0 +1,54 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
+fsquid:S3973Ú"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+msquid:S00116:"PRename this field "m_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®îÆ¼üÿÿÿÿ
+Qsquid:S1161g":Add the "@Override" annotation above this method signature(æ”Âó
+Vsquid:S1161v":Add the "@Override" annotation above this method signature(ÂëÀıùÿÿÿÿ
+Wsquid:S1161„":Add the "@Override" annotation above this method signature(øâ²¨şÿÿÿÿ
+Rsquid:S1161”":Add the "@Override" annotation above this method signature(É©—¨
+Rsquid:S1161¤":Add the "@Override" annotation above this method signature(«›‹
+Asquid:S1125¦")Remove the literal "false" boolean value.(ï„³º
+osquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¡‰‚”şÿÿÿÿ
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature(¡‰‚”şÿÿÿÿ
+ksquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(Î’²¥
+Rsquid:S1161¹":Add the "@Override" annotation above this method signature(ï¸šÎ
+8squid:S2129¼" Remove this "Double" constructor(××€­
+Wsquid:CallToDeprecatedMethod¼".Remove this use of "Double"; it is deprecated.(××€­
+msquid:S1201Í"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¯¢…Ò
+Rsquid:S1161Í":Add the "@Override" annotation above this method signature(¯¢…Ò
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(–æä½ûÿÿÿÿ
+Qsquid:S1161ù":Add the "@Override" annotation above this method signature(¤¼ú<
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(¡ü·şÿÿÿÿ
+csquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(¨‚¬œûÿÿÿÿ
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ïç¼Ç
+csquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(¤¹ø–
+csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(Ùè¶
+csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(„ŸÚÕ
+bsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(Â“Ò
+csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(è¢•
+csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(±¯€¤
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Ÿñ…±
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ë·ˆÊúÿÿÿÿ
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(±¯€¤
+csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(§İ
+csquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(´¬å¯
+hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Ú³æ‹şÿÿÿÿ
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ú™±¦
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.( ğ¥
+hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ŞÇ’Âúÿÿÿÿ
+hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(Ç‹ùüÿÿÿÿ
+csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(Ï‚ò°
+hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(é„…Æüÿÿÿÿ
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ğšışÿÿÿÿ
+csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(â…÷é
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(ÏŠù­úÿÿÿÿ
+csquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(È“
+csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(×³Ù…
+csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(¿™ı§
+hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(¥—ëşÿÿÿÿ
+csquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(€Ó¤Ê
+hsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(¿Şèúÿÿÿÿ
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ü¥Îä

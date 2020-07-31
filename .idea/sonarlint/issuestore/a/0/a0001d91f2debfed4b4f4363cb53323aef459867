@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+hsquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷›&
+osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
+osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
+jsquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òôˆ‘
+psquid:S00116i"SRename this field "src_line" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¨í§øÿÿÿÿ
+;squid:S1948h"$Make "ih" transient or serializable.(ñşÎ
+ksquid:S2975¥"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+U
+squid:S106©"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+1squid:S2225ª"Return a non null object.(¥¹ï

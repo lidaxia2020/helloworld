@@ -1,0 +1,14 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ıäÌİûÿÿÿÿ
+wsquid:S1488Ö"ZImmediately return this expression instead of assigning it to the temporary variable "tc".(Íöå£üÿÿÿÿ
+Usquid:UselessImportCheck4"1Remove this unused import 'javax.rmi.CORBA.Util'.(ïïãù
+Qsquid:S1118>":Add a private constructor to hide the implicit public one.(Í×ò
+msquid:S1149ş"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒ×ëÊüÿÿÿÿ
+Osquid:S1197C"8Move the array designator from the variable to the type.(­›¿©
+Usquid:S1197¾"8Move the array designator from the variable to the type.(ÆŠÕöùÿÿÿÿ
+Psquid:S1197ï"8Move the array designator from the variable to the type.(‚±ü¨
+Usquid:S1197¶"8Move the array designator from the variable to the type.(ÀıøÜıÿÿÿÿ
+msquid:S1149ş"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒ×ëÊüÿÿÿÿ
+msquid:S1201ù"UEither override Object.equals(Object), or rename the method to prevent any confusion.(Áê¥Õ
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(«Şòğüÿÿÿÿ
+hsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(§ü‡Œÿÿÿÿÿ

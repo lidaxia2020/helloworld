@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
+wsquid:S00115K"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+Tsquid:S1854€"<Remove this useless assignment to local variable "response".(áúœ™
+Tsquid:S1854…"<Remove this useless assignment to local variable "response".(áúœ™
+Tsquid:S1854Š"<Remove this useless assignment to local variable "response".(áúœ™
+Esquid:S1068K")Remove this unused "debug" private field.(¡Ø„Ìùÿÿÿÿ

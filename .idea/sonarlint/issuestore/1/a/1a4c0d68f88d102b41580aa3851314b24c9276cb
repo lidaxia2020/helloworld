@@ -1,0 +1,6 @@
+
+Qsquid:S1191O"5Use classes from the Java API instead of Sun classes.(¦²°ûÿÿÿÿ
+Rsquid:S1141Œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1143¢"4Remove this throw statement from this finally block.(¾Óş­ÿÿÿÿÿ
+Zsquid:S1163¢"=Refactor this code to not throw exceptions in finally blocks.(¾Óş­ÿÿÿÿÿ
+osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¤²Ñüÿÿÿÿ

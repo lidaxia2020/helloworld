@@ -1,0 +1,8 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(© ±ºûÿÿÿÿ
+isquid:S00116:"RRename this field "m_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¬Õc
+|squid:S1149J"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+Vsquid:S1161Y":Add the "@Override" annotation above this method signature(ö™±¨ûÿÿÿÿ
+]squid:S1126\"AReplace this if-then-else statement by a single return statement.(²»’øÿÿÿÿÿ
+^squid:S1126Í"AReplace this if-then-else statement by a single return statement.(Ø‘ óøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

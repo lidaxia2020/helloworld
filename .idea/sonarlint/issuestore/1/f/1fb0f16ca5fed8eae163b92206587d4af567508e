@@ -1,0 +1,8 @@
+
+isquid:S3776x"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¼µøÈ
+Usquid:S1197¼"8Move the array designator from the variable to the type.(şÍò¢şÿÿÿÿ
+^squid:S3027À"FPut single-quotes around '{' to use the faster "indexOf(char)" method.(»¨Ğ
+Usquid:S1197Ó"8Move the array designator from the variable to the type.(˜§şªşÿÿÿÿ
+Wsquid:S1161ö":Add the "@Override" annotation above this method signature(´„áçúÿÿÿÿ
+Rsquid:S1161 ":Add the "@Override" annotation above this method signature(Îî©Ú
+Gsquid:S10688"+Remove this unused "manager" private field.(Œ²¢¦ûÿÿÿÿ

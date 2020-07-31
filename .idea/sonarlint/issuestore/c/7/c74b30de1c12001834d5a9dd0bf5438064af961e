@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(´Üëàúÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"TMake hostname a static final constant or non-public and provide accessors if needed.(çÛÞî
+„"squid:ClassVariableVisibilityCheck"QMake ports a static final constant or non-public and provide accessors if needed.(Î‡Ëªþÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶˜ö¬
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶˜ö¬
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Üëàúÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(Î‡Ëªþÿÿÿÿ

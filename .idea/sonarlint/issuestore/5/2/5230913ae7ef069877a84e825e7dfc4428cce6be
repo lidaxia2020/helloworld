@@ -1,0 +1,15 @@
+
+[squid:S2184"CCast one of the operands of this subtraction operation to a "long".(´Ê–Ã
+squid:S1186ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÔ«÷şÿÿÿÿ
+Osquid:S1197A"8Move the array designator from the variable to the type.(ÖªÏæ
+Usquid:S1197„"8Move the array designator from the variable to the type.(İ°Ú‹ıÿÿÿÿ
+Osquid:S1197"8Move the array designator from the variable to the type.(‹µÉ|
+Rsquid:S1161ä":Add the "@Override" annotation above this method signature(¹¾¨ª
+Psquid:S1197ä"8Move the array designator from the variable to the type.(¹¾¨ª
+Wsquid:S1161Œ":Add the "@Override" annotation above this method signature(ÿÄåİùÿÿÿÿ
+Wsquid:S1161¦":Add the "@Override" annotation above this method signature(¾Óâìûÿÿÿÿ
+Rsquid:S1161¶":Add the "@Override" annotation above this method signature(ª©ˆ›
+asquid:S3551Ñ"IMake this method "synchronized" to match the parent class implementation.(à±´ô
+Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(à±´ô
+Wsquid:S1161Û":Add the "@Override" annotation above this method signature(ÔÉ×‰ÿÿÿÿÿ
+Wsquid:S1161ç":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

@@ -1,0 +1,22 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(şİòúùÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckŒ".Extract the assignment out of this expression.(ÜåÇûÿÿÿÿ
+^squid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(ÙœªT
+Bsquid:S1659í"*Declare "ptypesOffset" on a separate line.(äÏÔ¦
+ssquid:S00115í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äÏÔ¦
+ssquid:S00115í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äÏÔ¦
+^squid:S1126È"AReplace this if-then-else statement by a single return statement.(Ã·º¸úÿÿÿÿ
+jsquid:S3776Ÿ	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(î†°ª
+^squid:S1126À	"AReplace this if-then-else statement by a single return statement.(±üúÇùÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck×
+"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ÿáœïûÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheck×
+"lRemove the declaration of thrown exception 'java.lang.TypeNotPresentException' which is a runtime exception.(Ÿáœïûÿÿÿÿ
+lsquid:S00100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŠ§ãúÿÿÿÿ
+squid:S1845Û"jRename field "hashcode" to prevent any misunderstanding/clash with method "hashCode" defined on line 1650.(ø»·
+Esquid:S2388ë"(Prefix this call to "get" with "super.".(Íƒ—Ğúÿÿÿÿ
+Wsquid:S1068–":Remove this unused "serialPersistentFields" private field.(°´‡ûÿÿÿÿ
+gsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(§Ûãßùÿÿÿÿ
+csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(Ü¬äö
+hsquid:CommentedOutCodeLineë	"<This block of commented-out lines of code should be removed.(äèúùÿÿÿÿ
+hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Î¡™Úûÿÿÿÿ

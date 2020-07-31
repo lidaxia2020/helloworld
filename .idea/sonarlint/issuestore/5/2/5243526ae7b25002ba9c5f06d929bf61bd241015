@@ -1,0 +1,8 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+Gsquid:S21609"+Override the "equals" method in this class.(Ş™Íûÿÿÿÿ
+msquid:S00116A"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªºÕšúÿÿÿÿ
+Qsquid:S1161I":Add the "@Override" annotation above this method signature(Á»›ê
+isquid:S3776M"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(†“‹Ø
+Qsquid:S1161M":Add the "@Override" annotation above this method signature(†“‹Ø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,0 +1,5 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(∞ò„¡
+Åsquid:S32522"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(ù•Ç‹
+Ösquid:S32522"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(ù•Ç‹
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

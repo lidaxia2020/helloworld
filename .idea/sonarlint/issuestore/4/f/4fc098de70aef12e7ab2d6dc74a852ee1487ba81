@@ -1,0 +1,21 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+ksquid:S00101Ø"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êğıÿÿÿÿ
+jsquid:MaximumInheritanceDepth,"<This class has 6 parents which is greater than 5 authorized.( ÍåÅÿÿÿÿÿ
+nsquid:S001163"QRename this field "m_expr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«•¾—úÿÿÿÿ
+lsquid:S001166"TRename this field "m_exprObj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŸé“
+wsquid:S001168"ZRename this field "m_mustHardReset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÉëÕøÿÿÿÿ
+usquid:S001169"]Rename this field "m_canDetachNodeset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÔŠø
+}squid:S1149š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+jsquid:ModifiersOrderCheck6"EReorder the modifiers to comply with the Java Language Specification.(öŸé“
+Vsquid:S1161_":Add the "@Override" annotation above this method signature(òÚèˆşÿÿÿÿ
+Rsquid:S1161…":Add the "@Override" annotation above this method signature(¶ÕŠ¹
+Wsquid:S1161¿":Add the "@Override" annotation above this method signature(ì¦³»ùÿÿÿÿ
+asquid:S4201Á"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÍåÂÂ
+Rsquid:S1161Ó":Add the "@Override" annotation above this method signature(áı¼ü
+Wsquid:S1161ü":Add the "@Override" annotation above this method signature(İì÷—ÿÿÿÿÿ
+Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
+^squid:S1126"AReplace this if-then-else statement by a single return statement.(Ùá­éüÿÿÿÿ
+Osquid:S10688"3Remove this unused "m_mustHardReset" private field.(ÀÉëÕøÿÿÿÿ
+Msquid:S10689"6Remove this unused "m_canDetachNodeset" private field.(åÔŠø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

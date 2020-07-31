@@ -1,0 +1,14 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áé”Ü
+nsquid:S00117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÆ¤ıÿÿÿÿ
+nsquid:S00117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¼ŒÄûÿÿÿÿ
+isquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èìôÄ
+isquid:S00117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÜ€Û
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(øöŠŸ
+xsquid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(“ƒ÷õ
+}squid:UselessImportCheck!"TRemove this unnecessary import: same package classes are always implicitly imported.(Şòöéúÿÿÿÿ
+}squid:UselessImportCheck""TRemove this unnecessary import: same package classes are always implicitly imported.(ïöå§ûÿÿÿÿ
+Wsquid:S16100"@Convert the abstract class "TransportDefault" into an interface.(åšûî
+squid:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È¡Ïõÿÿÿÿÿ
+Dsquid:S1172K"-Remove this unused method parameter "broker".(š„ÜÆ
+Ksquid:EmptyStatementUsageCheck]"Remove this empty statement.(ôŸìúÿÿÿÿ

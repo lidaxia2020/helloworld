@@ -1,0 +1,8 @@
+
+Lsquid:S1191U"5Use classes from the Java API instead of Sun classes.(Ç¬‘
+•squid:S1319«"xThe type of the "possibleRoots" object should be an interface such as "List" rather than the implementation "ArrayList".(™†²¾úÿÿÿÿ
+)squid:S2176n"Rename this class.(ÂÇÉ
+‚squid:S1149°"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥ˆ®šşÿÿÿÿ
+isquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(©†úG
+jsquid:S1871Î"MThis branch's code block is the same as the block for the branch on line 203.(Ó¶Õàşÿÿÿÿ
+Rsquid:S1161‡":Add the "@Override" annotation above this method signature(ğÜşŠ

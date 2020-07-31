@@ -1,0 +1,21 @@
+
+ysquid:S1192‰"\Define a constant instead of duplicating this literal "Skip must be non-negative: " 4 times.(½ÃÖ™ýÿÿÿÿ
+fsquid:S00119\"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‡¢êÁÿÿÿÿÿ
+osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ïß†Ðùÿÿÿÿ
+gsquid:S00119™"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(òîÉ¯ùÿÿÿÿ
+gsquid:S00119´"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(û¿­›ùÿÿÿÿ
+jsquid:S3776þ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(êèðó
+gsquid:S00119‘"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(×À”ïùÿÿÿÿ
+asquid:S00119¥"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(§ÍÕ2
+osquid:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÔÒ‡éûÿÿÿÿ
+bsquid:S00119‚"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(üòôŽ
+gsquid:S00119–"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ëø¼¡úÿÿÿÿ
+osquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ýÌÕÒúÿÿÿÿ
+gsquid:S00119ó"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‰‡â¨ûÿÿÿÿ
+bsquid:S00119‡"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ù•Ã¾
+?squid:S1659×"(Declare "targetSize" on a separate line.(ŠÊÑ&
+Msquid:S2387×"6"targetSize" is the name of a field in "AbstractTask".(ŠÊÑ&
+Asquid:S1948Õ"$Make "op" transient or serializable.(¸üÑÃûÿÿÿÿ
+Bsquid:S1948Ö"+Make "generator" transient or serializable.(–Ýƒ|
+gsquid:S00119Ó"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ìËÇîÿÿÿÿÿ
+gsquid:S00119Ó"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ìËÇîÿÿÿÿÿ

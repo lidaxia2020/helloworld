@@ -1,0 +1,30 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(¼¸Ñá
+msquid:S1192ñ"UDefine a constant instead of duplicating this literal "invalid permission: " 3 times.(ïÊÔÃ
+isquid:S1192Î"LDefine a constant instead of duplicating this literal "permissions" 3 times.(¦•Ëøÿÿÿÿ
+Vsquid:S4973œ"9Use the "equals" method if value comparison was intended.(—÷ßöûÿÿÿÿ
+Qsquid:S4973"9Use the "equals" method if value comparison was intended.(…á§ó
+Vsquid:S4973 "9Use the "equals" method if value comparison was intended.(ü¨Ş†şÿÿÿÿ
+Vsquid:S4973¢"9Use the "equals" method if value comparison was intended.(ˆ³ê¯ıÿÿÿÿ
+Vsquid:S4973¤"9Use the "equals" method if value comparison was intended.(Œµ¶Şøÿÿÿÿ
+@squid:S1604"(Make this anonymous inner class a lambda(ûÁã¸
+ksquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(ÎÆ¢Ô
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(½£¼ 
+psquid:ModifiersOrderCheck–"EReorder the modifiers to comply with the Java Language Specification.(Ú‘éÔşÿÿÿÿ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(°‰Şò
+psquid:ModifiersOrderCheck¤"EReorder the modifiers to comply with the Java Language Specification.(³““«üÿÿÿÿ
+psquid:ModifiersOrderCheck¬"EReorder the modifiers to comply with the Java Language Specification.(„¯Òğùÿÿÿÿ
+psquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(ó¦ÎŠùÿÿÿÿ
+osquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(­Ê‹Éıÿÿÿÿ
+isquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 85 to the 15 allowed.(”ˆb
+jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(íÈšä
+Qsquid:S1854Â"9Remove this useless assignment to local variable "comma".(¿ÿª½
+Wsquid:S1161‘":Add the "@Override" annotation above this method signature(‘¹ÿÖşÿÿÿÿ
+}squid:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–Éê÷
+‚squid:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ª“Ğıúÿÿÿÿ
+Wsquid:S1068Í":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ
+hsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(Şáãıÿÿÿÿ
+hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(ÿÓ¨ñúÿÿÿÿ
+csquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(Šê€
+hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(‚˜Úıÿÿÿÿ

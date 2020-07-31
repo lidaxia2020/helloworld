@@ -1,0 +1,15 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ÍÌ¬>
+}squid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(ÉÆÒ‚şÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+psquid:UselessImportCheck+"GRemove this unused import 'com.sun.corba.se.pept.transport.Connection'.(®Õ½“ıÿÿÿÿ
+‚squid:UselessImportCheck7"YRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.MessageHandler'.(âˆáûÿÿÿÿ
+psquid:UselessImportCheck("GRemove this unused import 'com.sun.corba.se.pept.encoding.InputObject'.(çššÑşÿÿÿÿ
+dsquid:UselessImportCheck&"@Remove this unused import 'com.sun.corba.se.pept.broker.Broker'.(„‘×î
+msquid:UselessImportCheck$"DRemove this unused import 'org.omg.CORBA_2_3.portable.OutputStream'.(©éµ¿üÿÿÿÿ
+†squid:UselessImportCheck;"]Remove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.RequestMessage_1_0'.(“Úâ¸øÿÿÿÿ
+„squid:UselessImportCheck9"[Remove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.ReplyMessage_1_0'.(­·¦êúÿÿÿÿ
+squid:UselessImportCheck6"VRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.MessageBase'.(Â ôşÿÿÿÿ
+qsquid:UselessImportCheck)"HRemove this unused import 'com.sun.corba.se.pept.encoding.OutputObject'.(Ü‹÷íıÿÿÿÿ
+hsquid:UselessImportCheck""DRemove this unused import 'org.omg.CORBA.portable.UnknownException'.(–ªËÑ
+osquid:UselessImportCheck*"KRemove this unused import 'com.sun.corba.se.pept.protocol.ProtocolHandler'.(·ÂÒì

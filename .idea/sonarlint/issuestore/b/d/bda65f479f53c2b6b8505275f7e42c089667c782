@@ -1,0 +1,8 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+˜squid:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö×Ì
+˜squid:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Øä«‹
+hsquid:S001162"PRename this field "m_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö™Ì§
+Usquid:S1197¾"8Move the array designator from the variable to the type.(îÄ€ôùÿÿÿÿ
+[squid:S2130˜">Use "Double.parseDouble" for this string-to-double conversion.(¿’Øñøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

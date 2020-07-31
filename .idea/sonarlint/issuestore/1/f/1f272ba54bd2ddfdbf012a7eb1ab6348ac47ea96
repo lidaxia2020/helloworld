@@ -1,0 +1,8 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+u
+squid:S135Ò"YReduce the total number of break and continue statements in this loop to use at most one.(«ıøÿÿÿÿ
+Zsquid:S2259ó"BA "NullPointerException" could be thrown; "vars" is nullable here.(ÒïÔÉ
+3squid:S3626Û"Remove this redundant jump.(ÉŠ©ƒ
+Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(´„ğøúÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

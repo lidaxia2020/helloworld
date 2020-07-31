@@ -1,0 +1,73 @@
+
+Rsquid:S1191¸"5Use classes from the Java API instead of Sun classes.(¸±ôöüÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck¶".Extract the assignment out of this expression.(ò«ú¹úÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck·".Extract the assignment out of this expression.(‡¶ù¢ıÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÚ".Extract the assignment out of this expression.(·Ñ…
+d$squid:AssignmentInSubExpressionCheckû".Extract the assignment out of this expression.(„é³Äÿÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÀ".Extract the assignment out of this expression.(Ô­øÍ
+_$squid:AssignmentInSubExpressionCheckÿ".Extract the assignment out of this expression.(ˆù£Ç
+d$squid:AssignmentInSubExpressionCheckæ".Extract the assignment out of this expression.(†Î‘‚ûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckŸ".Extract the assignment out of this expression.(¢«ÿ°
+_$squid:AssignmentInSubExpressionCheckÙ".Extract the assignment out of this expression.(Í§õÏ
+_squid:S00112‹
+"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+Dsquid:S5164â"'Call "remove()" on "nextLocalGaussian".(å·©İûÿÿÿÿ
+ssquid:S00115Á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Ãã“
+ssquid:S00115Â"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀÄèî
+xsquid:S00115Ã"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÜ‘ôüÿÿÿÿ
+vsquid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê„Øâøÿÿÿÿ
+fsquid:S3551®"IMake this method "synchronized" to match the parent class implementation.(ãñ®°ıÿÿÿÿ
+Wsquid:S1161®":Add the "@Override" annotation above this method signature(ãñ®°ıÿÿÿÿ
+<squid:S1659µ"Declare "r" on a separate line.(º÷™Îûÿÿÿÿ
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(ÛÀ¬†ÿÿÿÿÿ
+vsquid:S2177Ò"^Rename this method or correct the type of the argument(s) to override the parent class method.(ßÒö
+<squid:S1659Õ"Declare "m" on a separate line.(ğşÉ§ûÿÿÿÿ
+usquid:S2177ó"^Rename this method or correct the type of the argument(s) to override the parent class method.(¯ÍÃw
+<squid:S1659ö"Declare "m" on a separate line.(õî°äÿÿÿÿÿ
+{squid:S2177“"^Rename this method or correct the type of the argument(s) to override the parent class method.(Á¶ñÛøÿÿÿÿ
+Wsquid:S1161¦":Add the "@Override" annotation above this method signature(¹ª§Œÿÿÿÿÿ
+Wsquid:S1161·":Add the "@Override" annotation above this method signature(¢óÿšşÿÿÿÿ
+Wsquid:S1161å":Add the "@Override" annotation above this method signature(úøÎíùÿÿÿÿ
+Rsquid:S1161¦":Add the "@Override" annotation above this method signature(™ğÅ¯
+Fsquid:S1940¸")Use the opposite operator ("<=") instead.(õ×„ñøÿÿÿÿ
+Fsquid:S1940Ï")Use the opposite operator (">=") instead.(§–èöıÿÿÿÿ
+Rsquid:S1161İ":Add the "@Override" annotation above this method signature(œ¹åú
+Wsquid:S1161ì":Add the "@Override" annotation above this method signature(Èûäùÿÿÿÿ
+fsquid:S3551ğ"IMake this method "synchronized" to match the parent class implementation.(´åÀÓÿÿÿÿÿ
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(´åÀÓÿÿÿÿÿ
+=squid:S1659÷" Declare "v2" on a separate line.(ŞıèÅùÿÿÿÿ
+<squid:S1659÷"Declare "s" on a separate line.(ŞıèÅùÿÿÿÿ
+Csquid:S5164ô"&Use "remove()" instead of "set(null)".(œ«®ÿÿÿÿÿ
+8squid:S2129ş" Remove this "Double" constructor(Û¸’Ê
+Wsquid:CallToDeprecatedMethodş".Remove this use of "Double"; it is deprecated.(Û¸’Ê
+Wsquid:S1161“":Add the "@Override" annotation above this method signature(Ÿ”ªÙúÿÿÿÿ
+Wsquid:S1161¬":Add the "@Override" annotation above this method signature(¾şÊøÿÿÿÿ
+Rsquid:S1161Æ":Add the "@Override" annotation above this method signature(òÎùì
+Wsquid:S1161è":Add the "@Override" annotation above this method signature(™øµ°ùÿÿÿÿ
+Qsquid:S1161ÿ":Add the "@Override" annotation above this method signature(†‚¶a
+Wsquid:S1161˜":Add the "@Override" annotation above this method signature(º‹òÄÿÿÿÿÿ
+Rsquid:S1161²":Add the "@Override" annotation above this method signature(âî 
+Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(®†—Àøÿÿÿÿ
+Rsquid:S1161ì":Add the "@Override" annotation above this method signature(Êßì»
+Wsquid:S1161†":Add the "@Override" annotation above this method signature(ìšÚ³ıÿÿÿÿ
+Rsquid:S1161¡":Add the "@Override" annotation above this method signature(¹œÚà
+Fsquid:S1940¥")Use the opposite operator (">=") instead.(–á«ôùÿÿÿÿ
+Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(ªĞè
+Fsquid:S1940Ä")Use the opposite operator (">=") instead.(–á«ôùÿÿÿÿ
+7squid:S1659ä"Declare "m" on a separate line.(õÙùÇ
+6squid:S1659ô"Declare "f" on a separate line.(Ç™àe
+Rsquid:S1161ı":Add the "@Override" annotation above this method signature(ñ‰ì¶
+6squid:S1659ÿ"Declare "f" on a separate line.(Ç™àe
+7squid:S1659‚"Declare "b" on a separate line.(‰«êà
+7squid:S1659"Declare "m" on a separate line.(õÙùÇ
+6squid:S1659­"Declare "f" on a separate line.(Ç™àe
+Wsquid:S1161¶":Add the "@Override" annotation above this method signature(ÖËàúÿÿÿÿ
+6squid:S1659¸"Declare "f" on a separate line.(Ç™àe
+7squid:S1659»"Declare "b" on a separate line.(¹¶
+7squid:S1659×"Declare "m" on a separate line.(õÙùÇ
+6squid:S1659ç"Declare "f" on a separate line.(Ç™àe
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(ß¿½ûÿÿÿÿ
+6squid:S1659ò"Declare "f" on a separate line.(Ç™àe
+<squid:S1659õ"Declare "b" on a separate line.(ÏÚËÛıÿÿÿÿ
+bsquid:S2062÷	"EMake this class "private" or elevate the visibility of "readResolve".(ŒÇ«Óüÿÿÿÿ
+Wsquid:S1068Ù	":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ

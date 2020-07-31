@@ -1,0 +1,18 @@
+
+… squid:ForLoopCounterChangedCheck¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(ü‹™
+… squid:ForLoopCounterChangedCheckè"XRefactor the code in order to not assign to this loop counter from within the loop body.(”½õ
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+_$squid:AssignmentInSubExpressionCheckÅ".Extract the assignment out of this expression.(¬½æİ
+qsquid:S00116I"TRename this field "_docOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ÷Ëûÿÿÿÿ
+jsquid:S00116Q"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
+osquid:S00116Y"RRename this field "_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î˜Ùµşÿÿÿÿ
+isquid:S00116a"QRename this field "_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßß–
+psquid:S00116i"XRename this field "_currentIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´°ş 
+tsquid:S00116q"WRename this field "_currentNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â»ïÎûÿÿÿÿ
+lsquid:S00116x"TRename this field "_translet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Éœ‰
+Wsquid:S1161“":Add the "@Override" annotation above this method signature(¿çß¤ÿÿÿÿÿ
+Wsquid:S1161˜":Add the "@Override" annotation above this method signature(ÍïŸúúÿÿÿÿ
+Rsquid:S1161œ":Add the "@Override" annotation above this method signature(À÷ÖÚ
+Rsquid:S1161¬":Add the "@Override" annotation above this method signature(üÿÆ‰
+Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(›ëı™
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

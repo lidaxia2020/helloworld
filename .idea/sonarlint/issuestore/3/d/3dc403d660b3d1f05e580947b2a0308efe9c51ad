@@ -1,0 +1,8 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+Gsquid:S2160d"+Override the "equals" method in this class.(ßØ°ºøÿÿÿÿ
+Vsquid:S1161}":Add the "@Override" annotation above this method signature(Ğœáõüÿÿÿÿ
+Rsquid:S1161‰":Add the "@Override" annotation above this method signature(¹Û‚æ
+Rsquid:S1161‘":Add the "@Override" annotation above this method signature(š†šø
+8squid:S2129—"!Remove this "Integer" constructor(”Úë2
+Wsquid:CallToDeprecatedMethod—"/Remove this use of "Integer"; it is deprecated.(”Úë2

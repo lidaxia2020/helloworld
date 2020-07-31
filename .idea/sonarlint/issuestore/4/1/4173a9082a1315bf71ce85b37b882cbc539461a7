@@ -1,0 +1,5 @@
+
+Ñ%squid:RedundantThrowsDeclarationCheck"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(£ß”öúÿÿÿÿ
+]squid:S2147™"ECombine this catch with the one at line 151, which has the same body.(ıàÑÎ
+]squid:S2147Û"ECombine this catch with the one at line 343, which has the same body.(Å¡ß
+asquid:CallToDeprecatedMethodĞ"3Remove this use of "newInstance"; it is deprecated.(¿üË–ûÿÿÿÿ

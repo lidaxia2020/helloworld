@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ°¨£ψÿÿÿÿ
+xsquid:UselessImportCheck,"TRemove this unnecessary import: same package classes are always implicitly imported.(Ψλ‰Ύ
+jsquid:UselessImportCheck&"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.GIOPVersion'.(Ε―›λ
+osquid:UselessImportCheck$"FRemove this unused import 'com.sun.corba.se.spi.ior.ObjectKeyFactory'.(®®±θωÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªΊ»Ϊύÿÿÿÿ
+=squid:S21297"!Remove this "Integer" constructor(έ°Α«όÿÿÿÿ
+\squid:CallToDeprecatedMethod7"/Remove this use of "Integer"; it is deprecated.(έ°Α«όÿÿÿÿ

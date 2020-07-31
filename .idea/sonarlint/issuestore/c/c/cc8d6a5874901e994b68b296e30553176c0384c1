@@ -1,0 +1,43 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+nsquid:S1192Œ"VDefine a constant instead of duplicating this literal "HIERARCHY_REQUEST_ERR" 3 times.(á½¶†
+fsquid:S2259ä"IA "NullPointerException" could be thrown; "oldInternal" is nullable here.(•¯çîøÿÿÿÿ
+asquid:S2259ë"IA "NullPointerException" could be thrown; "oldInternal" is nullable here.(²Ï™İ
+fsquid:S2259Ø"IA "NullPointerException" could be thrown; "oldInternal" is nullable here.(¶ÀŸûÿÿÿÿ
+Wsquid:S1161©":Add the "@Override" annotation above this method signature(ÿñùÿÿÿÿ
+Wsquid:S1161Î":Add the "@Override" annotation above this method signature(Õø¿Ãıÿÿÿÿ
+Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(Ò±õØ
+Rsquid:S1161ä":Add the "@Override" annotation above this method signature(ÔÿöÈ
+Wsquid:S1161û":Add the "@Override" annotation above this method signature(Éµµÿÿÿÿÿ
+Rsquid:S1161—":Add the "@Override" annotation above this method signature(¾éåÕ
+Wsquid:S1161¡":Add the "@Override" annotation above this method signature(ğ˜¶şÿÿÿÿ
+Wsquid:S1161«":Add the "@Override" annotation above this method signature(è¥¬ùÿÿÿÿ
+š%squid:RedundantThrowsDeclarationChecká"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Wsquid:S1161à":Add the "@Override" annotation above this method signature(ªŒ™Ïûÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckï"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+osquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ÔáÍ³ûÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck¬"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Rsquid:S1161«":Add the "@Override" annotation above this method signature(Ÿíˆ
+š%squid:RedundantThrowsDeclarationCheckº"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+jsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(´Åò›
+jsquid:HiddenFieldCheck¼"BRename "ownerDocument" which hides the field declared at line 109.(åö¥¹şÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck¥"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Wsquid:S1161¤":Add the "@Override" annotation above this method signature(ÚÍ©ƒşÿÿÿÿ
+”%squid:RedundantThrowsDeclarationCheckÂ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(”İ…
+Qsquid:S1161Â":Add the "@Override" annotation above this method signature(”İ…
+•%squid:RedundantThrowsDeclarationCheckÖ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Æí‡Ë
+Rsquid:S1161Ö":Add the "@Override" annotation above this method signature(Æí‡Ë
+Fsquid:S1125å")Remove the literal "false" boolean value.(üÛ­—úÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckñ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(¸ß»éıÿÿÿÿ
+Rsquid:S1161¶":Add the "@Override" annotation above this method signature(èïÊ’
+osquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(•Œ–úÿÿÿÿ
+Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(¯Îùüûÿÿÿÿ
+Wsquid:S1161Ä":Add the "@Override" annotation above this method signature(¯š‹äşÿÿÿÿ
+Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(Ä¿Ş×
+Ysquid:S1126ê"AReplace this if-then-else statement by a single return statement.(öœÖ
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(íïßÿúÿÿÿÿ
+?squid:S1948–	"'Make "fData" transient or serializable.(ÑËÇÁ
+Bsquid:S1948—	"*Make "fHandler" transient or serializable.(ëè´ê
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(¥­Õœúÿÿÿÿ

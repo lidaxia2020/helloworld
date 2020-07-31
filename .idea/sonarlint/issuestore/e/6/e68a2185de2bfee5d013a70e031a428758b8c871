@@ -1,0 +1,5 @@
+
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(èÛò§
+Vsquid:UselessImportCheck"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+_squid:UselessImportCheck "6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ

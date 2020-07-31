@@ -1,0 +1,6 @@
+
+Qsquid:S1191!"5Use classes from the Java API instead of Sun classes.(§šÒÆıÿÿÿÿ
+Ksquid:S1066P"/Merge this if statement with the enclosing one.(¼´‡…øÿÿÿÿ
+`squid:S2259I"DA "NullPointerException" could be thrown; "method" is nullable here.(åİÁÿÿÿÿÿ
+4squid:S1700%"Rename field "methodRef"(•Ø—…ıÿÿÿÿ
+psquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÙ‘¬

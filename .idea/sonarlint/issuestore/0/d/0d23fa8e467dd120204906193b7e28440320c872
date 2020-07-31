@@ -1,0 +1,36 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+o
+squid:S135¾"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+ysquid:S1488y"]Immediately return this expression instead of assigning it to the temporary variable "clone".(º­™øÿÿÿÿ
+xsquid:S1488ÿ"[Immediately return this expression instead of assigning it to the temporary variable "bit".(„ƒœ·üÿÿÿÿ
+_squid:S00112š"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+nsquid:S00116°"PRename this field "m_dtm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”§•™şÿÿÿÿ
+jsquid:S00116³"QRename this field "m_root" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ…¿ù
+qsquid:S00116»"XRename this field "m_currentNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¬¨Ñ
+msquid:S00116¾"TRename this field "m_isFresh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ËÊ†
+psquid:S00116Ä"WRename this field "m_nextWalker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬˜—‚
+usquid:S00116Ê"WRename this field "m_prevWalker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÒÈ‰øÿÿÿÿ
+jsquid:S00116Í"QRename this field "m_axis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”¦É
+tsquid:S00116Ğ"VRename this field "m_traverser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Åç·ÿÿÿÿÿ
+}squid:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÑÓŞí
+‚squid:S1149Ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤Û†ÿÿÿÿÿ
+Dsquid:S1948°"'Make "m_dtm" transient or serializable.(”§•™şÿÿÿÿ
+Jsquid:S1948Ğ"-Make "m_traverser" transient or serializable.(¢Åç·ÿÿÿÿÿ
+osquid:S2975u"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
+Vsquid:S1161u":Add the "@Override" annotation above this method signature(ŒÉ¯æşÿÿÿÿ
+ƒsquid:S3252›"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(œî…Ûùÿÿÿÿ
+3squid:S3626â"Remove this redundant jump.(ÉŠ©ƒ
+Isquid:S1135š"2Complete the task associated to this TODO comment.(ÒÑñ1
+Qsquid:S1161û":Add the "@Override" annotation above this method signature(¤¼ú<
+Wsquid:S1161¡":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
+Xsquid:S1126§"AReplace this if-then-else statement by a single return statement.(‘Æ
+^squid:UnusedPrivateMethod„"3Remove this unused private "returnNextNode" method.(ÜüÎ¥ûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+gsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ºà¥Ùøÿÿÿÿ
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(îê®øÿÿÿÿ
+asquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(ï›şg
+hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(œî…Ûùÿÿÿÿ
+csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(ÛîîÒ
+csquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(çªõñ
+csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(¼æ¦

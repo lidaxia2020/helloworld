@@ -1,0 +1,9 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
+msquid:S1192Œ"UDefine a constant instead of duplicating this literal "ApplicationExtension" 4 times.(ÒÓú×
+csquid:S11920"GDefine a constant instead of duplicating this literal "65535" 11 times.(¬ÒÀûÿÿÿÿ
+lsquid:S1192+"PDefine a constant instead of duplicating this literal "ImageDescriptor" 6 times.(ŽÖ™Êøÿÿÿÿ
+lsquid:S1192H"PDefine a constant instead of duplicating this literal "ColorTableEntry" 5 times.(ÿÐªüÿÿÿÿ
+jsquid:S1192j"SDefine a constant instead of duplicating this literal "PlainTextExtension" 9 times.( ÷ñ›
+osquid:S1192X"XDefine a constant instead of duplicating this literal "GraphicControlExtension" 6 times.(ˆßËÙ
+lsquid:S1192>"PDefine a constant instead of duplicating this literal "LocalColorTable" 4 times.(¨à•ýüÿÿÿÿ

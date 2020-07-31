@@ -1,0 +1,10 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ðá
+isquid:S00116L"RRename this field "m_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‹†{
+lsquid:S3252Ï"TUse static access with "org.w3c.dom.DOMException" for "NO_MODIFICATION_ALLOWED_ERR".(¶ÂÿÝ
+lsquid:S3252ç"TUse static access with "org.w3c.dom.DOMException" for "NO_MODIFICATION_ALLOWED_ERR".(¶ÂÿÝ
+š%squid:RedundantThrowsDeclarationCheck©"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¡è»÷ûÿÿÿÿ
+lsquid:S3252«"TUse static access with "org.w3c.dom.DOMException" for "NO_MODIFICATION_ALLOWED_ERR".(¶ÂÿÝ
+•%squid:RedundantThrowsDeclarationCheckÈ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
+lsquid:S3252Ê"TUse static access with "org.w3c.dom.DOMException" for "NO_MODIFICATION_ALLOWED_ERR".(¶ÂÿÝ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

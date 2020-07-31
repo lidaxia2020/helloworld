@@ -1,0 +1,8 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(°¿”Œúÿÿÿÿ
+Esquid:S1604Ò"(Make this anonymous inner class a lambda(ˆìÊ¡ûÿÿÿÿ
+ksquid:UselessImportCheck%"BRemove this unused import 'sun.security.action.GetPropertyAction'.(°¿”Œúÿÿÿÿ
+asquid:S2147v"ECombine this catch with the one at line 116, which has the same body.(„ï×Ÿýÿÿÿÿ
+asquid:S2147x"ECombine this catch with the one at line 116, which has the same body.(“£ÖÀþÿÿÿÿ
+asquid:S2147z"ECombine this catch with the one at line 116, which has the same body.(Ìè—×ûÿÿÿÿ
+`squid:CallToDeprecatedMethodr"3Remove this use of "newInstance"; it is deprecated.(í¯î©ûÿÿÿÿ

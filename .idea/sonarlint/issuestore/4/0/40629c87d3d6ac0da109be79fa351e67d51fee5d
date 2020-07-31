@@ -1,0 +1,15 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
+Vsquid:UselessImportCheck!"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+}squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©ÿÑŠ
+‚squid:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”º‚¾ùÿÿÿÿ
+‚squid:S1149‰"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌéÃçúÿÿÿÿ
+}squid:S1149Î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©ÿÑŠ
+‚squid:S1149Ó"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”º‚¾ùÿÿÿÿ
+‚squid:S1149Õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌéÃçúÿÿÿÿ
+Fsquid:S1905N"0Remove this unnecessary cast to "SchemaGrammar".(£¡«
+isquid:S3776q"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŠÅÎí
+>squid:S1659ˆ"!Declare "sg2" on a separate line.(çÈ’Ïûÿÿÿÿ
+jsquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.( ıä¡
+>squid:S1659Ô"!Declare "sg2" on a separate line.(çÈ’Ïûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

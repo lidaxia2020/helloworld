@@ -1,0 +1,7 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‘´¦¸
+wsquid:S00115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»éˆúÿÿÿÿ
+Vsquid:S1161A":Add the "@Override" annotation above this method signature(Øª¦øÿÿÿÿ
+Qsquid:S1161F":Add the "@Override" annotation above this method signature(óÉæ‚
+Qsquid:S1161f":Add the "@Override" annotation above this method signature(æ¯åµ
+Vsquid:S1161l":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

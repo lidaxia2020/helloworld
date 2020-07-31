@@ -1,0 +1,5 @@
+
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(¸ë‰üÿÿÿÿ
+xsquid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(•ëÄõ
+Vsquid:UselessImportCheck"2Remove this unused import 'java.util.EventObject'.(‘Å¹â
+Bsquid:S1948¬"*Make "children" transient or serializable.(–ÁÑ¤

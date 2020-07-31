@@ -1,0 +1,37 @@
+
+4squid:S1643Ğ"Use a StringBuilder instead.(ÎÊïÖ
+9squid:S1643Õ"Use a StringBuilder instead.(ªèŞõüÿÿÿÿ
+4squid:S1643Ú"Use a StringBuilder instead.(æçÊ¨
+9squid:S1643ß"Use a StringBuilder instead.(ô‚äùúÿÿÿÿ
+p
+squid:S135´"YReduce the total number of break and continue statements in this loop to use at most one.(˜•ÖÛ
+p
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+p
+squid:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(çÉŸí
+@squid:S1604¨"(Make this anonymous inner class a lambda(ËÖñ
+Psquid:S1197Ù"8Move the array designator from the variable to the type.(˜ê°˜
+Usquid:S1197õ"8Move the array designator from the variable to the type.(¹´Ñùÿÿÿÿ
+Usquid:S1197û"8Move the array designator from the variable to the type.(İÃÖşÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckÉ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ó³Ùúÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckè"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(Ó©Œÿÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck’"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(™Ÿó†ùÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckÀ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.( ù˜¼ùÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckğ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.( ù˜¼ùÿÿÿÿ
+3squid:S3626È"Remove this redundant jump.(ÉŠ©ƒ
+jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(¤Šê›
+Wsquid:S3725¿":Replace this with a call to the "toFile().isFile()" method(¹Ë˜æûÿÿÿÿ
+jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ê®ç—
+asquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(şó«è
+R
+squid:S899";Do something with the "boolean" value returned by "delete".(şó«è
+T
+squid:S899ƒ"=Do something with the "boolean" value returned by "renameTo".(Ş®Üï
+˜%squid:RedundantThrowsDeclarationCheck½"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¿®âà
+fsquid:S4042Ì"IUse "java.nio.Files#delete" here for better messages on error conditions.(Ÿ§©™şÿÿÿÿ
+W
+squid:S899Ì";Do something with the "boolean" value returned by "delete".(Ÿ§©™şÿÿÿÿ
+fsquid:S3551Ô"IMake this method "synchronized" to match the parent class implementation.(¸ÿ«Çúÿÿÿÿ
+hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(©‰Ô®şÿÿÿÿ
+csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(Ë…Â
+bsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(–ŒÕ)

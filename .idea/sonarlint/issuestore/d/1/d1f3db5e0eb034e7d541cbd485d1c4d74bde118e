@@ -1,0 +1,18 @@
+
+_squid:S1192‘"GDefine a constant instead of duplicating this literal "offset" 4 times.(¿™‘•
+ksquid:S1192ÿ"NDefine a constant instead of duplicating this literal "localDateTime" 4 times.(İë¹úÿÿÿÿ
+hsquid:S1301Ú"KReplace this "switch" statement by "if" statements to increase readability.(¶Ô‡´ÿÿÿÿÿ
+hsquid:S1301Œ	"KReplace this "switch" statement by "if" statements to increase readability.(¶Ô‡´ÿÿÿÿÿ
+hsquid:S1301›"KReplace this "switch" statement by "if" statements to increase readability.(ÍÂŠºøÿÿÿÿ
+Usquid:S00107Ö"<Method has 8 parameters, which is greater than 7 authorized.(Öˆ£ñ
+Vsquid:S1155‰">Use isEmpty() to check whether the collection is empty or not.(û«¿É
+Jsquid:S1135î"2Complete the task associated to this TODO comment.(€ñ§›
+Fsquid:S1125")Remove the literal "false" boolean value.(ı¶ËÖşÿÿÿÿ
+Asquid:S1125¾")Remove the literal "false" boolean value.(Ÿòéî
+Asquid:S1125å")Remove the literal "false" boolean value.(£ü‹¾
+"squid:SwitchLastCaseIsDefaultCheckÚ"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶Ô‡´ÿÿÿÿÿ
+"squid:SwitchLastCaseIsDefaultCheckŒ	"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶Ô‡´ÿÿÿÿÿ
+Fsquid:S1125Ç	")Remove the literal "false" boolean value.(¡İÂœüÿÿÿÿ
+Fsquid:S1125í	")Remove the literal "false" boolean value.(Ú—óùÿÿÿÿ
+"squid:SwitchLastCaseIsDefaultCheck›"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÍÂŠºøÿÿÿÿ
+csquid:HiddenFieldCheckŸ";Rename "offset" which hides the field declared at line 246.(…–óòûÿÿÿÿ

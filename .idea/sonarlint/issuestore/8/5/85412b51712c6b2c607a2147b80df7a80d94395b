@@ -1,0 +1,6 @@
+
+Ssquid:S1596~"<Replace "Collections.EMPTY_SET" by "Collections.emptySet()".(‰±Ú“
+Zsquid:UselessImportCheck"1Remove this unused import 'java.io.Serializable'.(Ë„Ó¬ˇˇˇˇˇ
+wsquid:S1149Ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÌÖ“â
+>squid:S1452è"&Remove usage of generic wildcard type.(∫ÇÄ±
+ksquid:S2975ù"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(é≤»ﬁ

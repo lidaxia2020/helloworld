@@ -1,0 +1,51 @@
+
+Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ä”§0
+jsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ˇƒè
+osquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‰œœ˛ˇˇˇˇ
+ysquid:S3008ó"\Rename this field "_documentURIIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘˛Ø·˛ˇˇˇˇ
+zsquid:S4144˘"bUpdate this method so that its implementation is not identical to "getExpandedTypeID" on line 434.(ÉÃ˙ó
+ûsquid:S1186∆"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(éÿßê¸ˇˇˇˇ
+ûsquid:S1186 "ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á÷¡ˇ¸ˇˇˇˇ
+ôsquid:S1186ù"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êƒøú
+ûsquid:S1186¯"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(∞ëÚﬁ˛ˇˇˇˇ
+ôsquid:S1186¸"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÇ√˛
+ûsquid:S1186ö"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏÄÇÖ¸ˇˇˇˇ
+ôsquid:S1186ﬂ"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È§ƒÅ
+ôsquid:S1186Á"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø£≤®
+ûsquid:S1186î"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ê˜ﬂÔ˚ˇˇˇˇ
+ûsquid:S1186ò"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôá≠ó˘ˇˇˇˇ
+ôsquid:S1186°"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇÑ∞Ö
+òsquid:S1186•"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬Ñ™b
+ôsquid:S1186©"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£Ã–œ
+isquid:S00116û"PRename this field "_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã‰ê
+ssquid:S00116£"URename this field "_textArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∑óàÓ˘ˇˇˇˇ
+osquid:S00116¶"VRename this field "_dtmManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïøë“
+nsquid:S00116©"PRename this field "_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıüøÀ˛ˇˇˇˇ
+tsquid:S00116¨"VRename this field "_documentID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ˇÌÒ˘ˇˇˇˇ
+tsquid:S00116Ø"VRename this field "_dontEscape" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›àñú˝ˇˇˇˇ
+msquid:S00116≤"TRename this field "_escaping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ø å
+|squid:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(®‚‡ê¯ˇˇˇˇ
+rsquid:S00116o"URename this field "_direction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÉÛå¯ˇˇˇˇ
+hsquid:S00116q"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¢®ﬂ
+tsquid:S00116r"WRename this field "_currentNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥⁄ãı¸ˇˇˇˇ
+jsquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ö˙ºÛ
+isquid:S00116Œ"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¢®ﬂ
+usquid:S00116œ"WRename this field "_currentNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥⁄ãı¸ˇˇˇˇ
+ksquid:ModifiersOrderCheckˇ"EReorder the modifiers to comply with the Java Language Specification.(˚ó∞®
+ûsquid:S1186Ñ"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÁµ∏¸ˇˇˇˇ
+ôsquid:S1186Ö"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨…úë
+ôsquid:S1186â"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óñÛ°
+Rsquid:S1161Å":Add the "@Override" annotation above this method signature(˚ô◊Æ
+Qsquid:S1161Ü":Add the "@Override" annotation above this method signature(ÿ´Â6
+Rsquid:S1161á":Add the "@Override" annotation above this method signature(∏„ÀÓ
+Rsquid:S1161à":Add the "@Override" annotation above this method signature(˝›ÛÍ
+Rsquid:S1161â":Add the "@Override" annotation above this method signature(óñÛ°
+jsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÔêË≠
+Ssquid:S2696√"6Make the enclosing method "static" or remove this set.(òïø‹˛ˇˇˇˇ
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(êƒøú
+Wsquid:S1161¢":Add the "@Override" annotation above this method signature(πÃ˝õ¸ˇˇˇˇ
+Wsquid:S1161∞":Add the "@Override" annotation above this method signature(õ÷¨¨˝ˇˇˇˇ
+Wsquid:S1161À":Add the "@Override" annotation above this method signature(¢ˆí¯ˇˇˇˇˇ
+Qsquid:S1161„":Add the "@Override" annotation above this method signature(Ë≈∫l
+>squid:S1168”"&Return an empty array instead of null.(•πÔç
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

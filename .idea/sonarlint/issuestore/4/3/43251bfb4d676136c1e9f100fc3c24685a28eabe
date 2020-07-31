@@ -1,0 +1,26 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ğá
+\squid:S2583ü"DChange this condition so that it does not always evaluate to "false"(²î’ö
+osquid:S00117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Õîàûÿÿÿÿ
+jsquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İãÎê
+osquid:S00116¨"VRename this field "m_activeIDs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¦¡ô
+psquid:S00116Ü"RRename this field "m_yield" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÕÅÔûÿÿÿÿ
+ssquid:S00116ê"ZRename this field "m_nextCoroutine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä³â¾
+ssquid:S00115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñíğ
+psquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(éü—ıûÿÿÿÿ
+ksquid:ModifiersOrderCheckà"EReorder the modifiers to comply with the Java Language Specification.(ÊìÊ
+gsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô€íë
+fsquid:S00100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¥f
+csquid:S2142Å"FEither re-interrupt this method or rethrow the "InterruptedException".(©ßÄùÿÿÿÿ
+lsquid:S00100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Õîàûÿÿÿÿ
+Msquid:S2446í"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+csquid:S2142õ"FEither re-interrupt this method or rethrow the "InterruptedException".(©ßÄùÿÿÿÿ
+gsquid:S00100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¾·¸
+Msquid:S2446 "0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+gsquid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İãÎê
+Msquid:S2446¾"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(®ıÃóÿÿÿÿÿ
+csquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(ÅÅñ¦
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(óÙ —şÿÿÿÿ
+hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(®ıÃóÿÿÿÿÿ

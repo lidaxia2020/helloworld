@@ -1,0 +1,7 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Â¹åÂ
+"squid:ClassVariableVisibilityCheck2"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck3"PMake kind a static final constant or non-public and provide accessors if needed.(šÍõ¼øÿÿÿÿ
+nsquid:S3776E"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ıÒÀ·ùÿÿÿÿ
+@squid:S1125Q")Remove the literal "false" boolean value.(§å
+@squid:S1125g")Remove the literal "false" boolean value.(§º€

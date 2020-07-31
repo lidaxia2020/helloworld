@@ -1,0 +1,12 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬è‹«ûÿÿÿÿ
+Gsquid:S1066Š"/Merge this if statement with the enclosing one.(‡ù»á
+Œsquid:S3252^"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(êÿğòùÿÿÿÿ
+†squid:S3252_"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_EMPTY".(ó‚Á
+jsquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ôãœ
+jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¦ê·ã
+Osquid:S1135‡"2Complete the task associated to this TODO comment.(åêÑ«ÿÿÿÿÿ
+jsquid:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÿÖÖÉ
+Nsquid:S1905Ã"1Remove this unnecessary cast to "XSParticleDecl".(÷ç¥Ìúÿÿÿÿ
+Isquid:S10688"-Remove this unused "fDeclPool" private field.(¨Âª‡øÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

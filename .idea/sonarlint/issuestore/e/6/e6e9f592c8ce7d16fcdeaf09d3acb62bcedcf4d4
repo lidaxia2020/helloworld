@@ -1,0 +1,107 @@
+
+Š squid:ForLoopCounterChangedCheck³"XRefactor the code in order to not assign to this loop counter from within the loop body.(ãôøƒşÿÿÿÿ
+… squid:ForLoopCounterChangedCheck¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(Èâ–
+… squid:ForLoopCounterChangedCheckğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷©Û§
+Lsquid:S1191@"5Use classes from the Java API instead of Sun classes.(™æªÓ
+`squid:S1192ó"HDefine a constant instead of duplicating this literal "gregory" 5 times.(›Íœü
+fsquid:S1192¤"IDefine a constant instead of duplicating this literal "japanese" 3 times.(Ûäƒ–şÿÿÿÿ
+asquid:S1192"IDefine a constant instead of duplicating this literal "buddhist" 4 times.(Ã©•…
+p
+squid:S135‡""YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(ÅÌ×ˆùÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(öòÚûÿÿÿÿ
+Vsquid:S4973†"9Use the "equals" method if value comparison was intended.(›±Õ£üÿÿÿÿ
+Vsquid:S4973†"9Use the "equals" method if value comparison was intended.(›±Õ£üÿÿÿÿ
+Psquid:S4973ˆ"9Use the "equals" method if value comparison was intended.(ƒ³ñL
+Psquid:S4973ˆ"9Use the "equals" method if value comparison was intended.(ƒ³ñL
+Vsquid:S4973‰"9Use the "equals" method if value comparison was intended.(çô«øÿÿÿÿ
+dsquid:S00112È#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+osquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊƒÈŠşÿÿÿÿ
+osquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊƒÈŠşÿÿÿÿ
+xsquid:S00115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï™¶üıÿÿÿÿ
+psquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(ôá¦‰şÿÿÿÿ
+ksquid:ModifiersOrderCheck¢"EReorder the modifiers to comply with the Java Language Specification.(¿Óá
+psquid:ModifiersOrderCheck¾"EReorder the modifiers to comply with the Java Language Specification.(şò¥¬ùÿÿÿÿ
+psquid:ModifiersOrderCheckÒ"EReorder the modifiers to comply with the Java Language Specification.(‹ºæ‡úÿÿÿÿ
+psquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(êò³üÿÿÿÿ
+psquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(Å®Ô„úÿÿÿÿ
+psquid:ModifiersOrderCheck€"EReorder the modifiers to comply with the Java Language Specification.(äá³İÿÿÿÿÿ
+ksquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(üÀ“›
+ksquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(å“ÉÇ
+ksquid:ModifiersOrderCheckÊ"EReorder the modifiers to comply with the Java Language Specification.(¨É©
+psquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(–Ñ˜şÿÿÿÿ
+psquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(İ“¾«úÿÿÿÿ
+psquid:ModifiersOrderCheckø"EReorder the modifiers to comply with the Java Language Specification.(Ò„ÿ üÿÿÿÿ
+ksquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(ƒğáº
+ksquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(õÙ¡‰
+jsquid:ModifiersOrderCheck—"EReorder the modifiers to comply with the Java Language Specification.(ÀêÊs
+ksquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(‚î‘
+ksquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(¹™—¿
+jsquid:ModifiersOrderCheckÀ"EReorder the modifiers to comply with the Java Language Specification.(–‰Ç	
+psquid:ModifiersOrderCheckÉ"EReorder the modifiers to comply with the Java Language Specification.(Ö©îŠùÿÿÿÿ
+ksquid:ModifiersOrderCheckÒ"EReorder the modifiers to comply with the Java Language Specification.(—Š¢İ
+jsquid:ModifiersOrderCheckÛ"EReorder the modifiers to comply with the Java Language Specification.(‹§Ñe
+psquid:ModifiersOrderCheckä"EReorder the modifiers to comply with the Java Language Specification.(ï¬“Îÿÿÿÿÿ
+ksquid:ModifiersOrderCheckí"EReorder the modifiers to comply with the Java Language Specification.(Í¦ôÆ
+psquid:ModifiersOrderCheckö"EReorder the modifiers to comply with the Java Language Specification.(„şÍÅüÿÿÿÿ
+ksquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(îş±Ä
+psquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(ş­ú¤ıÿÿÿÿ
+psquid:ModifiersOrderCheck‘"EReorder the modifiers to comply with the Java Language Specification.(“Õ…ûÿÿÿÿ
+psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(¬ôÉ‰úÿÿÿÿ
+ksquid:ModifiersOrderCheck£"EReorder the modifiers to comply with the Java Language Specification.(€èõ¬
+ksquid:ModifiersOrderCheck¬"EReorder the modifiers to comply with the Java Language Specification.(–şŠ
+ksquid:ModifiersOrderCheckµ"EReorder the modifiers to comply with the Java Language Specification.(é®‹†
+ksquid:ModifiersOrderCheck¾"EReorder the modifiers to comply with the Java Language Specification.(Ç½ì™
+psquid:ModifiersOrderCheckÇ"EReorder the modifiers to comply with the Java Language Specification.(Ñª˜¿ûÿÿÿÿ
+ksquid:ModifiersOrderCheckĞ"EReorder the modifiers to comply with the Java Language Specification.(š¥Ûü
+psquid:ModifiersOrderCheckÙ"EReorder the modifiers to comply with the Java Language Specification.(†š©©ûÿÿÿÿ
+psquid:ModifiersOrderCheckâ"EReorder the modifiers to comply with the Java Language Specification.(‚‘¡œüÿÿÿÿ
+ksquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(‰¦—¨
+ksquid:ModifiersOrderCheckõ"EReorder the modifiers to comply with the Java Language Specification.(ª¨â­
+psquid:ModifiersOrderCheckş"EReorder the modifiers to comply with the Java Language Specification.(£¯ä½üÿÿÿÿ
+ksquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(•â¹¶
+Usquid:S1197À	"8Move the array designator from the variable to the type.(’İ¼Îúÿÿÿÿ
+Psquid:S1197Ğ	"8Move the array designator from the variable to the type.(İ·ÉÏ
+Psquid:S1197Ú	"8Move the array designator from the variable to the type.(º‰‘
+ksquid:ModifiersOrderCheckÚ	"EReorder the modifiers to comply with the Java Language Specification.(º‰‘
+ksquid:ModifiersOrderCheck¬
+"EReorder the modifiers to comply with the Java Language Specification.(¥€‹¹
+ksquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(®‡×«
+psquid:ModifiersOrderCheck´"EReorder the modifiers to comply with the Java Language Specification.(ˆ± °ûÿÿÿÿ
+psquid:ModifiersOrderCheckµ"EReorder the modifiers to comply with the Java Language Specification.(¢ñŸúÿÿÿÿ
+psquid:ModifiersOrderCheck¶"EReorder the modifiers to comply with the Java Language Specification.(¤†Ğ¡ûÿÿÿÿ
+ksquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(û±­á
+psquid:ModifiersOrderCheck¸"EReorder the modifiers to comply with the Java Language Specification.(æéğÈüÿÿÿÿ
+ksquid:ModifiersOrderCheck¹"EReorder the modifiers to comply with the Java Language Specification.(ÖÅ¥
+psquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(ÜôÆìùÿÿÿÿ
+psquid:ModifiersOrderCheck»"EReorder the modifiers to comply with the Java Language Specification.(÷«ÜÛûÿÿÿÿ
+psquid:ModifiersOrderCheck¼"EReorder the modifiers to comply with the Java Language Specification.(ªÄê¿øÿÿÿÿ
+ksquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(éòõö
+ksquid:ModifiersOrderCheck¾"EReorder the modifiers to comply with the Java Language Specification.(Ú‚ìş
+psquid:ModifiersOrderCheck¿"EReorder the modifiers to comply with the Java Language Specification.(å¹—äüÿÿÿÿ
+psquid:ModifiersOrderCheckÀ"EReorder the modifiers to comply with the Java Language Specification.(ı¾êüûÿÿÿÿ
+psquid:ModifiersOrderCheckÁ"EReorder the modifiers to comply with the Java Language Specification.(ç˜Ù¯ùÿÿÿÿ
+psquid:ModifiersOrderCheckÂ"EReorder the modifiers to comply with the Java Language Specification.(Ïˆ‘™şÿÿÿÿ
+psquid:ModifiersOrderCheckÃ"EReorder the modifiers to comply with the Java Language Specification.(Ú¬¢°ÿÿÿÿÿ
+psquid:ModifiersOrderCheckÄ"EReorder the modifiers to comply with the Java Language Specification.(òüõüÿÿÿÿ
+Qsquid:S1659¤"4Declare "minimalDaysInFirstWeek" on a separate line.(ˆš®÷ÿÿÿÿÿ
+squid:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àê°üÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ø ½Ôüÿÿÿÿ
+osquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(„š·Óıÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckò""Add a default case to this switch.(¹ÁÕàøÿÿÿÿ
+>squid:S1168ñ"&Return an empty array instead of null.(¥¹ï
+V"squid:SwitchLastCaseIsDefaultCheckõ""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
+jsquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(Û¯ËÛ
+7squid:S2097ş"Add a type test to this method.(ÜÑã
+ksquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(ßÊ‹
+ksquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(ºÃÒš
+psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(Óã¨üÿÿÿÿ
+ksquid:ModifiersOrderCheck°"EReorder the modifiers to comply with the Java Language Specification.(åùñù
+ksquid:ModifiersOrderCheckÇ"EReorder the modifiers to comply with the Java Language Specification.(Ï›’ã
+ksquid:ModifiersOrderCheckã"EReorder the modifiers to comply with the Java Language Specification.(ÿŠ†±
+psquid:S2975ì "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
+Xsquid:S4351î!"@Refactor this method so that its argument is of type 'Calendar'.(ßÉõÆ
+\squid:S3358ğ!"DExtract this nested ternary operation into an independent statement.(Ó ˜¹
+isquid:S3776ƒ""RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ùëÂ
+Gsquid:S00108å"")Either remove or fill this block of code.(¿ ı³ùÿÿÿÿ
+osquid:S3776•#"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ËâÜùøÿÿÿÿ

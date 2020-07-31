@@ -1,0 +1,75 @@
+
+ksquid:S3824£"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(“¥ßşÿÿÿÿ
+fsquid:S3824ã	"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(—ÿ£¯
+ksquid:S3824Õ
+"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(‚µı­ûÿÿÿÿ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(úş¢¢
+Lsquid:S1066î"/Merge this if statement with the enclosing one.(àÑì³ûÿÿÿÿ
+u
+squid:S135Ä"YReduce the total number of break and continue statements in this loop to use at most one.(íÜšŒúÿÿÿÿ
+u
+squid:S135Í"YReduce the total number of break and continue statements in this loop to use at most one.(íÜšŒúÿÿÿÿ
+p
+squid:S135Ù"YReduce the total number of break and continue statements in this loop to use at most one.(Ü×Ô¨
+Tsquid:S2589¯"7Remove this expression which always evaluates to "true"(Ó ôıÿÿÿÿ
+Qsquid:S4973Å
+"9Use the "equals" method if value comparison was intended.(”ÍÉÚ
+Vsquid:S1155œ">Use isEmpty() to check whether the collection is empty or not.(¼—›€
+wsquid:S1149å
+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(²ğÕ¤
+jsquid:ModifiersOrderCheck{"EReorder the modifiers to comply with the Java Language Specification.(½©·–
+ksquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(ÌîãÍ
+ksquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(ÖÄ­î
+Psquid:S1197‘"8Move the array designator from the variable to the type.(È¦Çè
+ksquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(˜ñÒ
+Psquid:S1197å"8Move the array designator from the variable to the type.(Ô¶¦
+Usquid:S1197‚"8Move the array designator from the variable to the type.(´³Ú‡ÿÿÿÿÿ
+Usquid:S1197ƒ"8Move the array designator from the variable to the type.(¾©®œşÿÿÿÿ
+Psquid:S1197„"8Move the array designator from the variable to the type.(ÖÀ¸ö
+isquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(ÙüL
+Psquid:S1197Á"8Move the array designator from the variable to the type.(Ÿú
+Psquid:S1197Š"8Move the array designator from the variable to the type.(âÈÒ”
+osquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(úî¸üÿÿÿÿ
+ksquid:S3776Ü"SRefactor this method to reduce its Cognitive Complexity from 180 to the 15 allowed.(×¤ğ¾
+Tsquid:S1854é"7Remove this useless assignment to local variable "ipd".(®Áá”şÿÿÿÿ
+Nsquid:S1854è"6Remove this useless assignment to local variable "pd".(§áõ¥
+Osquid:S1854»"7Remove this useless assignment to local variable "ipd".(Î´¾Ÿ
+9squid:S1659ã"!Declare "gpd" on a separate line.(Ğ—®İ
+9squid:S1659ã"!Declare "spd" on a separate line.(Ğ—®İ
+:squid:S1659ä""Declare "igpd" on a separate line.(Š·ã€
+:squid:S1659ä""Declare "ispd" on a separate line.(Š·ã€
+osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(´¿ßÿÿÿÿÿ
+psquid:S3776”"SRefactor this method to reduce its Cognitive Complexity from 176 to the 15 allowed.(¢®ÜÉüÿÿÿÿ
+Osquid:S1197¦"8Move the array designator from the variable to the type.(şäş1
+Psquid:S1197±"8Move the array designator from the variable to the type.(èºÆ‰
+Psquid:S1197Ä"8Move the array designator from the variable to the type.(Ÿú
+Psquid:S1197®	"8Move the array designator from the variable to the type.(ö½ÿ¨
+dsquid:HiddenFieldCheck¹	"<Rename "methods" which hides the field declared at line 157.(õÙ–úÿÿÿÿ
+osquid:S3776ò	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(‡Àşÿÿÿÿ
+Usquid:S1197€
+"8Move the array designator from the variable to the type.(ıà£òüÿÿÿÿ
+Usquid:S1197‡
+"8Move the array designator from the variable to the type.(î·Íéúÿÿÿÿ
+Psquid:S1197š
+"8Move the array designator from the variable to the type.(Ÿú
+Psquid:S1197¨
+"8Move the array designator from the variable to the type.(ÕÈÑĞ
+Osquid:S1197•"8Move the array designator from the variable to the type.(ß˜¬E
+jsquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(–»ñ
+3squid:S3626é"Remove this redundant jump.(ÉŠ©ƒ
+osquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(®µæùÿÿÿÿ
+Psquid:S1197Ñ"8Move the array designator from the variable to the type.(¬¨ı—
+Psquid:S1197Ø"8Move the array designator from the variable to the type.(ù½öƒ
+Psquid:S1197û"8Move the array designator from the variable to the type.(Úú€û
+Psquid:S1197¥"8Move the array designator from the variable to the type.(ÓÄğ
+Usquid:S1197Ö"8Move the array designator from the variable to the type.(¿•ïãøÿÿÿÿ
+\squid:CallToDeprecatedMethodí"3Remove this use of "newInstance"; it is deprecated.(ê»¯ö
+Wsquid:S1161Á":Add the "@Override" annotation above this method signature(†®†øÿÿÿÿ
+Rsquid:S1161Å":Add the "@Override" annotation above this method signature(…õñŠ
+Wsquid:S1161É":Add the "@Override" annotation above this method signature(¹¿Ùûÿÿÿÿ
+Wsquid:S1161Í":Add the "@Override" annotation above this method signature(€Ììƒüÿÿÿÿ
+Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(¢îˆÕúÿÿÿÿ
+Rsquid:S1161Õ":Add the "@Override" annotation above this method signature(¬µª¹
+Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(Ó“·ì
+csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ÅÔúà
+hsquid:CommentedOutCodeLineÈ	"<This block of commented-out lines of code should be removed.(ş”ÀÊıÿÿÿÿ

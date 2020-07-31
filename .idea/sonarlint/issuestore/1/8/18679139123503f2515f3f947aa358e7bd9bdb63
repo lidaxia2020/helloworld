@@ -1,0 +1,109 @@
+
+‰ squid:ForLoopCounterChangedCheckT"XRefactor the code in order to not assign to this loop counter from within the loop body.(ş»¬şÿÿÿÿ
+>squid:S2189m""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(„·Ìú
+lsquid:S1192İ"TDefine a constant instead of duplicating this literal "servertool.helddown" 3 times.(‡ÅÓ™
+isquid:S1192©"QDefine a constant instead of duplicating this literal "-applicationName" 8 times.(Ï’Å÷
+usquid:S1192“"XDefine a constant instead of duplicating this literal "servertool.nosuchserver" 7 times.(ç…¾Âıÿÿÿÿ
+esquid:S1192t"NUse already-defined constant 'toolName' instead of duplicating its value here.(éÚ­
+bsquid:S1192ù"JDefine a constant instead of duplicating this literal "-serverid" 7 times.(ÿÎˆ´
+Gsquid:S1066Ä"/Merge this if statement with the enclosing one.(©ú“¿
+Gsquid:S1066"/Merge this if statement with the enclosing one.(©ú“¿
+Rsquid:S1141…"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141Ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141‚"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+jsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¹¢Š
+_squid:UselessImportCheck&";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+Ysquid:UselessImportCheck%"5Remove this unused import 'org.omg.CORBA.INITIALIZE'.(ÅË‘‡
+:squid:S1148v"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148–"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148İ"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148•"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148á"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148¯"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Õ"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148›"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148ï"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148À"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148ò"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Í"#Use a logger to log this exception.(Ç’Çê
+rsquid:S001158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä¯ß÷
+wsquid:S001159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤Òúëúÿÿÿÿ
+wsquid:S00115:"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”Ó£§üÿÿÿÿ
+rsquid:S00115ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢²éI
+‚squid:S1149ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(×Ëç‚üÿÿÿÿ
+jsquid:ModifiersOrderCheck8"EReorder the modifiers to comply with the Java Language Specification.(ä¯ß÷
+osquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(¤Òúëúÿÿÿÿ
+osquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(”Ó£§üÿÿÿÿ
+Xsquid:S1854A"<Remove this useless assignment to local variable "serverid".(øÕ±Óùÿÿÿÿ
+N
+squid:S106j"9Replace this use of System.out or System.err by a logger.(Ê’‘L
+O
+squid:S106t"9Replace this use of System.out or System.err by a logger.(éÚ­
+T
+squid:S106u"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(İğÉúÿÿÿÿ
+Usquid:S1197†"8Move the array designator from the variable to the type.(½ò›‚üÿÿÿÿ
+P
+squid:S106”"9Replace this use of System.out or System.err by a logger.(éÚ­
+U
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+>squid:S1168™"&Return an empty array instead of null.(¥¹ï
+P
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(şíÓ»
+U
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(ç€›õüÿÿÿÿ
+P
+squid:S106§"9Replace this use of System.out or System.err by a logger.(óµŞÓ
+U
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿ
+U
+squid:S106©"9Replace this use of System.out or System.err by a logger.(Â—Ì°ÿÿÿÿÿ
+U
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+isquid:S3776°"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Íéğ
+U
+squid:S106½"9Replace this use of System.out or System.err by a logger.(Â—Ì°ÿÿÿÿÿ
+U
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ÏÎòøÿÿÿÿ
+U
+squid:S106×"9Replace this use of System.out or System.err by a logger.(Â—Ì°ÿÿÿÿÿ
+U
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Bsquid:S00108İ")Either remove or fill this block of code.(±•å•
+jsquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(¢²éI
+osquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ş¸«ÿÿÿÿÿ
+]squid:S2147Õ"ECombine this catch with the one at line 340, which has the same body.(µ×¬÷
+Gsquid:S00108Ô")Either remove or fill this block of code.(¶¯‹üÿÿÿÿ
+Bsquid:S00108Õ")Either remove or fill this block of code.(µ×¬÷
+ssquid:S00115ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û²Ù´
+ksquid:ModifiersOrderCheckñ"EReorder the modifiers to comply with the Java Language Specification.(û²Ù´
+Bsquid:S00108‰")Either remove or fill this block of code.(—ãÂ§
+ssquid:S00115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û²Ù´
+ksquid:ModifiersOrderCheck©"EReorder the modifiers to comply with the Java Language Specification.(û²Ù´
+osquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ş¸«ÿÿÿÿÿ
+Bsquid:S00108Û")Either remove or fill this block of code.(ÄíÜ¦
+ssquid:S00115õ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û²Ù´
+ksquid:ModifiersOrderCheckõ"EReorder the modifiers to comply with the Java Language Specification.(û²Ù´
+osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ş¸«ÿÿÿÿÿ
+Fsquid:S1905Æ")Remove this unnecessary cast to "String".(õÏ‰—üÿÿÿÿ
+ssquid:S00115ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û²Ù´
+ksquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(û²Ù´
+Bsquid:S00108–")Either remove or fill this block of code.(Ş…½Ï
+Bsquid:S00108ì")Either remove or fill this block of code.(Ş…½Ï
+ssquid:S00115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û²Ù´
+ksquid:ModifiersOrderCheck¤"EReorder the modifiers to comply with the Java Language Specification.(û²Ù´
+Isquid:S5261¯"1Add explicit curly braces to avoid dangling else.(°ŞÌ
+ssquid:S00115Ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û²Ù´
+ksquid:ModifiersOrderCheckÔ"EReorder the modifiers to comply with the Java Language Specification.(û²Ù´
+Isquid:S5261ß"1Add explicit curly braces to avoid dangling else.(°ŞÌ
+ssquid:S00115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û²Ù´
+ksquid:ModifiersOrderCheck­"EReorder the modifiers to comply with the Java Language Specification.(û²Ù´
+Isquid:S1481A"-Remove this unused "serverid" local variable.(øÕ±Óùÿÿÿÿ
+@squid:S1068ç")Remove this unused "debug" private field.(¢²éI

@@ -1,0 +1,13 @@
+
+Qsquid:S1191!"5Use classes from the Java API instead of Sun classes.(¢üß–ùÿÿÿÿ
+nsquid:UselessImportCheck#"ERemove this unused import 'javax.xml.transform.TransformerException'.(¨Û¥üÿÿÿÿ
+tsquid:UselessImportCheck)"KRemove this unused import 'com.sun.org.apache.xpath.internal.XPathContext'.(ûÛ‰Şşÿÿÿÿ
+|squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ã–³Ô
+}squid:S1149¾"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æ†ÖÀ
+}squid:S3252Y"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+Xsquid:S1126b"AReplace this if-then-else statement by a single return statement.(³… ô
+Msquid:S1172€"0Remove this unused method parameter "methodKey".(‹ÖßÆıÿÿÿÿ
+~squid:S3252„"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252Ë"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

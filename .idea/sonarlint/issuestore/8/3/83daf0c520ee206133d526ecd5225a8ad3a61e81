@@ -1,0 +1,17 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
+gsquid:S1206V"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+msquid:S00116@"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ãµşÿÿÿÿ
+Vsquid:S1161m":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
+Hsquid:S1172Ö"+Remove this unused method parameter "type".(§Æò€ùÿÿÿÿ
+Csquid:S1172æ"+Remove this unused method parameter "type".(À«Ù
+Csquid:S1172ü"&Remove these unused method parameters.(˜©Ì¡üÿÿÿÿ
+Qsquid:S1161Œ":Add the "@Override" annotation above this method signature(¼–Ä=
+Csquid:S1172"+Remove this unused method parameter "type".(ç¾÷˜
+Wsquid:S1161±":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(÷İšÂûÿÿÿÿ
+Wsquid:S1161ä":Add the "@Override" annotation above this method signature(˜ßÑÇúÿÿÿÿ
+Wsquid:S1161ó":Add the "@Override" annotation above this method signature(×ãíéûÿÿÿÿ
+Rsquid:S1161÷":Add the "@Override" annotation above this method signature(Ó¤ÍŞ
+Wsquid:S1161û":Add the "@Override" annotation above this method signature(‚İ±¹ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

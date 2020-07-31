@@ -1,0 +1,7 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(à÷æ¼ÿÿÿÿÿ
+Nsquid:S1659"1Declare "issuerX500Principal" on a separate line.(Ùéýÿÿÿÿ
+Hsquid:S2160ˆ"+Override the "equals" method in this class.(Åáã§üÿÿÿÿ
+>squid:S1452á"&Remove usage of generic wildcard type.(Î•Ú¬
+Csquid:S1452Ž"&Remove usage of generic wildcard type.(ãÓ¸ˆúÿÿÿÿ
+Wsquid:S1161·":Add the "@Override" annotation above this method signature(µ·À—ûÿÿÿÿ

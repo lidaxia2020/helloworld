@@ -1,0 +1,30 @@
+
+Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒğw
+^squid:S1192"FDefine a constant instead of duplicating this literal "empty" 7 times.(ö˜
+Rsquid:S1141±"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¾"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141°"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+osquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•ºÙøÿÿÿÿ
+jsquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆœ¦‹
+‹%squid:RedundantThrowsDeclarationCheckú"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ĞÿÎŸ
+‹%squid:RedundantThrowsDeclarationCheck"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ĞÿÎŸ
+jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(’»Õ–
+Usquid:S1197•"8Move the array designator from the variable to the type.(›ë„‹üÿÿÿÿ
+Usquid:S1197¤"8Move the array designator from the variable to the type.(“â—Šıÿÿÿÿ
+Wsquid:CallToDeprecatedMethod".Remove this use of "Base64"; it is deprecated.(“„ª÷
+fsquid:CallToDeprecatedMethod"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+Vsquid:CallToDeprecatedMethod¤".Remove this use of "Base64"; it is deprecated.(®ËåG
+]squid:S2147Î"ECombine this catch with the one at line 716, which has the same body.(¹ƒ›×
+bsquid:S2147Ğ"ECombine this catch with the one at line 716, which has the same body.(µç‡Šúÿÿÿÿ
+tsquid:S2737»"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ
+Gsquid:S2093±"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+fsquid:CallToDeprecatedMethodÍ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+fsquid:CallToDeprecatedMethodÏ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+fsquid:CallToDeprecatedMethodÑ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+Usquid:S1197†"8Move the array designator from the variable to the type.(‘‚¤«şÿÿÿÿ
+Usquid:S1197œ"8Move the array designator from the variable to the type.(ĞÀõıüÿÿÿÿ
+Psquid:S1197¯"8Move the array designator from the variable to the type.(³°‰ª
+fsquid:CallToDeprecatedMethodÏ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+hsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ƒî®áúÿÿÿÿ
+hsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(½»¾³üÿÿÿÿ

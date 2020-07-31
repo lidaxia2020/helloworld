@@ -1,0 +1,16 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+ysquid:S1192ò"\Define a constant instead of duplicating this literal "NO_MODIFICATION_ALLOWED_ERR" 3 times.(óâœïøÿÿÿÿ
+ƒsquid:S4144›"kUpdate this method so that its implementation is not identical to "isElementContentWhitespace" on line 165.(¾º·÷
+wsquid:S1149à"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(„å›
+|squid:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ıÕÍ›úÿÿÿÿ
+|squid:S1149¨"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(´öÎ¥ûÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheckà"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„å›
+š%squid:RedundantThrowsDeclarationCheckÜ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¦Õƒÿÿÿÿÿ
+osquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¦Õƒÿÿÿÿÿ
+osquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ğÔÁ²ûÿÿÿÿ
+^squid:S1126ü"AReplace this if-then-else statement by a single return statement.(ÃŒÿ¾şÿÿÿÿ
+jsquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¹Ö‘Ê
+^squid:S1126Ù"AReplace this if-then-else statement by a single return statement.(ÚÃÂúÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckÀ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

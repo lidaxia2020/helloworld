@@ -1,0 +1,16 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(“Ç‡ÿÿÿÿÿ
+dsquid:S2095•"GUse try-with-resources or close this "Formatter" in a "finally" clause.(úÅ·ÿÿÿÿÿ
+csquid:S2095a"GUse try-with-resources or close this "Formatter" in a "finally" clause.(úÅ·ÿÿÿÿÿ
+wsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Ğ‡
+9squid:S16590""Declare "ipv4" on a separate line.(ÿò’‚
+gsquid:S1206<"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+qsquid:S12014"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¦™ÇÒùÿÿÿÿ
+nsquid:S3776@"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(®¡…¶úÿÿÿÿ
+<squid:S1659K"%Declare "portstr" on a separate line.(¼ØÍ‚
+[squid:HiddenFieldCheck…"8Rename "ipv4" which hides the field declared at line 48.(—Ëı°
+osquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ñº·Àıÿÿÿÿ
+psquid:ModifiersOrderCheckî"EReorder the modifiers to comply with the Java Language Specification.(›œ€úÿÿÿÿ
+psquid:ModifiersOrderCheckï"EReorder the modifiers to comply with the Java Language Specification.(¤Ô•©ûÿÿÿÿ
+psquid:ModifiersOrderCheckğ"EReorder the modifiers to comply with the Java Language Specification.(§Ö»úøÿÿÿÿ
+<squid:S1659"Declare "h" on a separate line.(±–¾âıÿÿÿÿ

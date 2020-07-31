@@ -1,0 +1,19 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(«ª§Ûüÿÿÿÿ
+Lsquid:S1066ô"/Merge this if statement with the enclosing one.( ûşÿÿÿÿ
+_squid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(é°ƒşÿÿÿÿ
+Lsquid:S2065K"0Remove the "transient" modifier from this field.(‡³Å¾úÿÿÿÿ
+Gsquid:S2065M"0Remove the "transient" modifier from this field.(¼¬Ç
+Jsquid:S3077e".Remove the "volatile" keyword from this field.(Ü‡Šúÿÿÿÿ
+Rsquid:S1161‚":Add the "@Override" annotation above this method signature(²É
+Esquid:S1185"(Remove this method to simply inherit it.(ñĞÓ¾ıÿÿÿÿ
+Esquid:S1185¬"(Remove this method to simply inherit it.(×œš£üÿÿÿÿ
+asquid:S4201»"IRemove this unnecessary null check; "instanceof" returns false for nulls.(’½Í
+¤%squid:RedundantThrowsDeclarationCheckñ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(©“Öùÿÿÿÿ
+@squid:S1185"(Remove this method to simply inherit it.(Î¬Û
+@squid:S1185›"(Remove this method to simply inherit it.(ê–…˜
+@squid:S1185Ş"(Remove this method to simply inherit it.(Ì÷Ê¼
+Rsquid:S1161Ş":Add the "@Override" annotation above this method signature(Ì÷Ê¼
+Esquid:S1185ê"(Remove this method to simply inherit it.(°²®‘ûÿÿÿÿ
+Wsquid:S1161ê":Add the "@Override" annotation above this method signature(°²®‘ûÿÿÿÿ
+3squid:S3626"Remove this redundant jump.(­şû

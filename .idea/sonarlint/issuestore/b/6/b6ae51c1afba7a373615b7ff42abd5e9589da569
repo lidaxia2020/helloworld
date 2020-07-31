@@ -1,0 +1,50 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+jsquid:S1192ù"RDefine a constant instead of duplicating this literal "TYPE_MISMATCH_ERR" 6 times.(òÃÃª
+nsquid:S1192º"VDefine a constant instead of duplicating this literal "FEATURE_NOT_SUPPORTED" 3 times.(…®®—
+Wsquid:UselessImportCheckA"3Remove this unused import 'javax.xml.XMLConstants'.(Ğøš
+‚squid:S1149·"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÖÁ„Ôıÿÿÿÿ
+jsquid:ModifiersOrderCheckz"EReorder the modifiers to comply with the Java Language Specification.(¹¸Šù
+psquid:ModifiersOrderCheckÀ"EReorder the modifiers to comply with the Java Language Specification.(Ö¸ô‘ùÿÿÿÿ
+jsquid:ModifiersOrderCheckÁ"EReorder the modifiers to comply with the Java Language Specification.(äçÈ_
+ksquid:ModifiersOrderCheckÂ"EReorder the modifiers to comply with the Java Language Specification.(ÊÑ›ç
+psquid:ModifiersOrderCheckÃ"EReorder the modifiers to comply with the Java Language Specification.(ÇÔğëúÿÿÿÿ
+ksquid:ModifiersOrderCheckÄ"EReorder the modifiers to comply with the Java Language Specification.(·÷‚Ì
+psquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(ÿÏå²úÿÿÿÿ
+psquid:ModifiersOrderCheckÆ"EReorder the modifiers to comply with the Java Language Specification.(„ÿ›µÿÿÿÿÿ
+ksquid:ModifiersOrderCheckÇ"EReorder the modifiers to comply with the Java Language Specification.(ÍüÅ¹
+psquid:ModifiersOrderCheckÈ"EReorder the modifiers to comply with the Java Language Specification.(ÇÃØœùÿÿÿÿ
+ksquid:ModifiersOrderCheckÉ"EReorder the modifiers to comply with the Java Language Specification.(ãëÃ±
+psquid:ModifiersOrderCheckË"EReorder the modifiers to comply with the Java Language Specification.(ÇİÊ°ûÿÿÿÿ
+ksquid:ModifiersOrderCheckÌ"EReorder the modifiers to comply with the Java Language Specification.(˜ÖÎç
+psquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(ÚŠç‡ùÿÿÿÿ
+Bsquid:S00108î")Either remove or fill this block of code.(®ËúÃ
+µ%squid:RedundantThrowsDeclarationCheck«"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(íĞ½®ûÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheckÊ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+Esquid:S1185É"(Remove this method to simply inherit it.(°‘òŞşÿÿÿÿ
+Ê%squid:RedundantThrowsDeclarationCheckÜ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+@squid:S1185Û"(Remove this method to simply inherit it.(šıšº
+µ%squid:RedundantThrowsDeclarationCheckï"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÓòœÍúÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ääöøÿÿÿÿ
+psquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 119 to the 15 allowed.(ääöøÿÿÿÿ
+Qsquid:S1854ì"9Remove this useless assignment to local variable "found".(·”íŒ
+Bsquid:S00108ƒ")Either remove or fill this block of code.(íƒÕ
+Bsquid:S00108˜")Either remove or fill this block of code.(íƒÕ
+Bsquid:S00108¹")Either remove or fill this block of code.(íƒÕ
+š%squid:RedundantThrowsDeclarationCheckù"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ì®Øúÿÿÿÿ
+osquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ì®Øúÿÿÿÿ
+asquid:S4201²"IRemove this unnecessary null check; "instanceof" returns false for nulls.(èÜ÷
+osquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(û»áìúÿÿÿÿ
+Fsquid:S1125")Remove the literal "false" boolean value.(»˜ñşıÿÿÿÿ
+@squid:S1125†"(Remove the literal "true" boolean value.(îëÃ±
+Esquid:S1125"(Remove the literal "true" boolean value.(ìŞ€ øÿÿÿÿ
+@squid:S1125"(Remove the literal "true" boolean value.(ŞÜÁ¤
+@squid:S1125“"(Remove the literal "true" boolean value.(®Åƒî
+Esquid:S1125˜"(Remove the literal "true" boolean value.(ëö¹µûÿÿÿÿ
+Esquid:S1125œ"(Remove the literal "true" boolean value.(™êêÔüÿÿÿÿ
+Esquid:S1125Ÿ"(Remove the literal "true" boolean value.(İ¤Öæşÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationChecké"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Âä
+Ê%squid:RedundantThrowsDeclarationCheckƒ	"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+Rsquid:S1161‚	":Add the "@Override" annotation above this method signature(¼³˜É
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(ˆä‡—

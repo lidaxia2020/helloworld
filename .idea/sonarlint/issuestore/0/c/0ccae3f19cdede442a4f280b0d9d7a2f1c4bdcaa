@@ -1,0 +1,66 @@
+
+… squid:ForLoopCounterChangedCheck	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ö®‡¤
+csquid:S1192…"KDefine a constant instead of duplicating this literal "Deque full" 3 times.(¤­ÛÜ
+_$squid:AssignmentInSubExpressionCheckı
+".Extract the assignment out of this expression.(æ¾ˆ
+\squid:HiddenFieldCheckş"9Rename "lock" which hides the field declared at line 204.(º·úã
+qsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+\squid:HiddenFieldCheck¦"9Rename "lock" which hides the field declared at line 204.(º·úã
+qsquid:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+\squid:HiddenFieldCheck·"9Rename "lock" which hides the field declared at line 204.(º·úã
+qsquid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+\squid:HiddenFieldCheckÉ"9Rename "lock" which hides the field declared at line 204.(º·úã
+qsquid:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+\squid:HiddenFieldCheckÜ"9Rename "lock" which hides the field declared at line 204.(º·úã
+qsquid:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+\squid:HiddenFieldCheckñ"9Rename "lock" which hides the field declared at line 204.(º·úã
+qsquid:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø·®º
+\squid:HiddenFieldCheckŠ"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheck¯"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheck¹"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheckÃ"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheckĞ"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheckß"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheckñ"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheck—"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheck¡"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheck¬"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheck½"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheckÊ"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheckî"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheck¶"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheckÎ"9Rename "lock" which hides the field declared at line 204.(º·úã
+Osquid:S1135Û"2Complete the task associated to this TODO comment.(Ü£Ìéûÿÿÿÿ
+Jsquid:S1135á"2Complete the task associated to this TODO comment.(¹Ûÿ²
+\squid:HiddenFieldCheck¤"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheckå"9Rename "lock" which hides the field declared at line 204.(º·úã
+Rsquid:S1161÷":Add the "@Override" annotation above this method signature(Á»›ê
+\squid:HiddenFieldCheckø"9Rename "lock" which hides the field declared at line 204.(º·úã
+\squid:HiddenFieldCheck–	"9Rename "lock" which hides the field declared at line 204.(º·úã
+asquid:HiddenFieldCheck÷	"9Rename "lock" which hides the field declared at line 204.(ˆŠ’äúÿÿÿÿ
+asquid:HiddenFieldCheckŸ
+"9Rename "lock" which hides the field declared at line 204.(ˆŠ’äúÿÿÿÿ
+Wsquid:S1161·
+":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+asquid:HiddenFieldCheck¼
+"9Rename "lock" which hides the field declared at line 204.(ˆŠ’äúÿÿÿÿ
+jsquid:S3776â
+"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(÷¾˜
+\squid:S3358æ
+"DExtract this nested ternary operation into an independent statement.(»³¡
+isquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ºˆ¡
+Qsquid:S1161‰":Add the "@Override" annotation above this method signature(ºˆ¡
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+qsquid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÜê
+\squid:HiddenFieldCheckó"9Rename "lock" which hides the field declared at line 204.(º·úã
+hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+hsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(·†ÁÈıÿÿÿÿ
+hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(¥“Ïêúÿÿÿÿ
+csquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(ÍæŞì
+csquid:CommentedOutCodeLine¢
+"<This block of commented-out lines of code should be removed.(ÓÂÈ˜
+hsquid:CommentedOutCodeLineÕ
+"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ

@@ -1,0 +1,6 @@
+
+Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(²É“
+Qsquid:S1118A":Add a private constructor to hide the implicit public one.(ÍºØ«
+Msquid:S1068ì"0Remove this unused "NEXT_FREE_ID" private field.(£ƒìûøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(¾Þðë

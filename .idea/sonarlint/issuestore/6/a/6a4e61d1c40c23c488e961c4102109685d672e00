@@ -1,0 +1,7 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+Vsquid:S11180":Add a private constructor to hide the implicit public one.(³‡Çõüÿÿÿÿ
+osquid:ModifiersOrderCheck5"EReorder the modifiers to comply with the Java Language Specification.(§Ü˜Õùÿÿÿÿ
+osquid:ModifiersOrderCheck6"EReorder the modifiers to comply with the Java Language Specification.(İÚşøÿÿÿÿ
+Ssquid:S1854="<Remove this useless assignment to local variable "language".(ûö€‰
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

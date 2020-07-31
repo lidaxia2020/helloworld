@@ -1,0 +1,13 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
+Psquid:S11619":Add the "@Override" annotation above this method signature(â‡ƒp
+Vsquid:S1161C":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+Qsquid:S1161J":Add the "@Override" annotation above this method signature(çİŠ
+Vsquid:S1161W":Add the "@Override" annotation above this method signature(×§Ä¨ıÿÿÿÿ
+Qsquid:S1161[":Add the "@Override" annotation above this method signature(ÛˆêÏ
+Asquid:S1948a"*Make "leftSkin" transient or serializable.(Â¡ş·
+Bsquid:S1948b"+Make "rightSkin" transient or serializable.(„ñ²˜
+Hsquid:S1948c",Make "bottomSkin" transient or serializable.(Ãö´òıÿÿÿÿ
+Qsquid:S1161o":Add the "@Override" annotation above this method signature(ƒ¹—”
+Wsquid:S1161":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
+Wsquid:S1161Š":Add the "@Override" annotation above this method signature(Ö£¸Áüÿÿÿÿ

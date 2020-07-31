@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
+Bsquid:S1172Y"&Remove these unused method parameters.(„ÿÔşÿÿÿÿ
+Csquid:S1172e",Remove this unused method parameter "value".(Ûñ
+Hsquid:S1172k",Remove this unused method parameter "value".(Ôäô‡úÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

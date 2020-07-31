@@ -1,0 +1,6 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
+jsquid:MaximumInheritanceDepth3"<This class has 7 parents which is greater than 5 authorized.(†µµåüÿÿÿÿ
+Qsquid:S1161P":Add the "@Override" annotation above this method signature(ˆ­¶Ê
+Vsquid:S1161a":Add the "@Override" annotation above this method signature(™³€áøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

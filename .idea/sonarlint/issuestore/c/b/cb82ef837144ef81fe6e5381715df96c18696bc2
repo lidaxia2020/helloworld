@@ -1,0 +1,16 @@
+
+Msquid:S1191Ò"5Use classes from the Java API instead of Sun classes.(ıƒïê
+rsquid:S1192ß"ZDefine a constant instead of duplicating this literal " in your properties file." 3 times.(¡ÉºŸ
+psquid:S1192Ş"SDefine a constant instead of duplicating this literal ":\ncheck property " 3 times.(Óú•Íûÿÿÿÿ
+_squid:S00112İ"FDefine and throw a dedicated exception instead of using a generic one.(™öœ£
+_squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(ÉèÙ
+dsquid:S00112å"FDefine and throw a dedicated exception instead of using a generic one.(æô±¥øÿÿÿÿ
+ksquid:ModifiersOrderCheck¶"EReorder the modifiers to comply with the Java Language Specification.(Ó”ë
+:squid:S1214½""Move constants to a class or enum.(å•Óû
+Rsquid:S1133Æ"5Do not forget to remove this deprecated code someday.(¤ª‡úÿÿÿÿ
+Rsquid:S1133ä"5Do not forget to remove this deprecated code someday.(›­ƒõüÿÿÿÿ
+?squid:S1214‚""Move constants to a class or enum.(ßç’üÿÿÿÿ
+Rsquid:S1133¤"5Do not forget to remove this deprecated code someday.(¤ª‡úÿÿÿÿ
+Rsquid:S1133¿"5Do not forget to remove this deprecated code someday.(›­ƒõüÿÿÿÿ
+ksquid:ModifiersOrderCheckË"EReorder the modifiers to comply with the Java Language Specification.(çâØœ
+asquid:CallToDeprecatedMethodÛ"3Remove this use of "newInstance"; it is deprecated.(åÕÂÁúÿÿÿÿ

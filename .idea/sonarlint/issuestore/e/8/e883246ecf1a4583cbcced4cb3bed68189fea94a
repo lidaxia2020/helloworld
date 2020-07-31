@@ -1,0 +1,9 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(½¸ÒÁùÿÿÿÿ
+wsquid:S1488‚"ZImmediately return this expression instead of assigning it to the temporary variable "pk".(¬ª×¦şÿÿÿÿ
+isquid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û²Š
+£%squid:RedundantThrowsDeclarationChecka"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(½¹£€úÿÿÿÿ
+Osquid:S1197n"8Move the array designator from the variable to the type.(¡­´
+]squid:S2147‡"ECombine this catch with the one at line 133, which has the same body.(¶£½Á
+jsquid:CallToDeprecatedMethod†"<Remove this use of "XMLSecurityException"; it is deprecated.(˜›©Èøÿÿÿÿ
+jsquid:CallToDeprecatedMethodˆ"<Remove this use of "XMLSecurityException"; it is deprecated.(˜›©Èøÿÿÿÿ

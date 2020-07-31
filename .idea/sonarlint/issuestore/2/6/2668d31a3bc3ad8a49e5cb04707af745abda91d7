@@ -1,0 +1,39 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+jsquid:S1192¿"RUse already-defined constant 'XMLNS_STRING' instead of duplicating its value here.(¥Ø¤á
+Lsquid:S1066Ş"/Merge this if statement with the enclosing one.(š¨¯£úÿÿÿÿ
+p
+squid:S135²"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸
+Vsquid:S4973¿"9Use the "equals" method if value comparison was intended.(ƒæîûÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(×™—ùÿÿÿÿ
+Vsquid:S4973"9Use the "equals" method if value comparison was intended.(ê÷¼¢ûÿÿÿÿ
+Qsquid:S4973 "9Use the "equals" method if value comparison was intended.(¬ªïî
+msquid:S00116A"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼˜Äúÿÿÿÿ
+usquid:S00116B"]Rename this field "_literalElemParent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ®¦
+usquid:S00116C"]Rename this field "_attributeElements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÿç„
+tsquid:S00116D"\Rename this field "_accessedPrefixes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š½á¬
+|squid:S00116I"_Rename this field "_allAttributesUnique" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¨ãÇúÿÿÿÿ
+|squid:S1149C"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©ÿç„
+msquid:S1149D"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(š½á¬
+ssquid:S1149ı"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".( ”¡Ûûÿÿÿÿ
+ssquid:S1149€"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(…‘Ö¬ıÿÿÿÿ
+nsquid:S1149ÿ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ò Ğ
+‚squid:S1149°"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùù¯Üøÿÿÿÿ
+}squid:S1149Ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(É«åÏ
+osquid:ModifiersOrderCheckK"EReorder the modifiers to comply with the Java Language Specification.(»§¥íüÿÿÿÿ
+Vsquid:S1161]":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
+nsquid:S3776|"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­ôË üÿÿÿÿ
+Wsquid:S1161æ":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+jsquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÁØ’›
+Rsquid:S1161–":Add the "@Override" annotation above this method signature(ÁØ’›
+fsquid:S4201œ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(’ş¾§ûÿÿÿÿ
+jsquid:S1871ç"MThis branch's code block is the same as the block for the branch on line 355.(ğˆ©îøÿÿÿÿ
+Qsquid:S1161í":Add the "@Override" annotation above this method signature(ÏÁy
+jsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(†“‹Ø
+Rsquid:S1161û":Add the "@Override" annotation above this method signature(†“‹Ø
+Isquid:S1905"1Remove this unnecessary cast to "SyntaxTreeNode".(ûöø÷
+jsquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÕÈâÎ
+3squid:S3626·"Remove this redundant jump.(ÉŠ©ƒ
+3squid:S3626Æ"Remove this redundant jump.(ÉŠ©ƒ
+jsquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ôıÌ¡
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

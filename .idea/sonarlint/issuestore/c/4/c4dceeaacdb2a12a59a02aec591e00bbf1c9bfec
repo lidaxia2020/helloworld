@@ -1,0 +1,13 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+xsquid:S00115ß"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤ÔÍşÿÿÿÿ
+lsquid:S00100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ˆ©ùøÿÿÿÿ
+Usquid:S1197"8Move the array designator from the variable to the type.(Üñ¦Ùşÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šä¬’ÿÿÿÿÿ
+Psquid:S1197"8Move the array designator from the variable to the type.(¨ˆÃş
+;squid:S2129¼"Remove this "Byte" constructor(µ‡ºøÿÿÿÿ
+Zsquid:CallToDeprecatedMethod¼",Remove this use of "Byte"; it is deprecated.(µ‡ºøÿÿÿÿ
+ksquid:ModifiersOrderCheck²"EReorder the modifiers to comply with the Java Language Specification.(¥¼…¹
+ksquid:S2975¾"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ïÉ”’
+ksquid:ModifiersOrderCheck¾"EReorder the modifiers to comply with the Java Language Specification.(ïÉ”’
+psquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(¤ÔÍşÿÿÿÿ

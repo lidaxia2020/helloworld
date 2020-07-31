@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Â¹åÂ
+‚squid:S1488»"eImmediately return this expression instead of assigning it to the temporary variable "theNewContext".(¨¿’ûÿÿÿÿ
+{squid:S1488ı"^Immediately return this expression instead of assigning it to the temporary variable "theKey".(ïúòòúÿÿÿÿ
+csquid:S00112G"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µ²
+gsquid:S00100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßê‡
+Psquid:S1197ì"8Move the array designator from the variable to the type.(± Ñ
+]squid:S2147õ"ECombine this catch with the one at line 241, which has the same body.(óñÒ
+bsquid:S2147ù"ECombine this catch with the one at line 241, which has the same body.(¼Ôîàùÿÿÿÿ
+gsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(Ô¤úŸüÿÿÿÿ
+csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ø¿ëó

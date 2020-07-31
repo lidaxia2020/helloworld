@@ -1,0 +1,12 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(İéÔÑøÿÿÿÿ
+nsquid:UselessImportCheck$"ERemove this unused import 'com.sun.corba.se.pept.transport.Acceptor'.(Ÿ÷“ûÿÿÿÿ
+_squid:UselessImportCheck"";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+`squid:UselessImportCheck"<Remove this unused import 'java.nio.channels.SocketChannel'.(Í¾’Õ
+bsquid:UselessImportCheck'"9Remove this unused import 'com.sun.corba.se.spi.ior.IOR'.(èÂâıÿÿÿÿ
+squid:UselessImportCheck/"[Remove this unused import 'com.sun.corba.se.impl.transport.SocketOrChannelContactInfoImpl'.(¨­œ÷
+osquid:UselessImportCheck*"KRemove this unused import 'com.sun.corba.se.spi.transport.CorbaConnection'.(á¦¥­
+`squid:UselessImportCheck!"7Remove this unused import 'org.omg.CORBA.COMM_FAILURE'.(©Ÿ·ıÿÿÿÿ
+qsquid:UselessImportCheck%"HRemove this unused import 'com.sun.corba.se.pept.transport.ContactInfo'.(é¯ªÓúÿÿÿÿ
+[squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+`squid:S2147]"DCombine this catch with the one at line 89, which has the same body.(±Ÿ—±ÿÿÿÿÿ

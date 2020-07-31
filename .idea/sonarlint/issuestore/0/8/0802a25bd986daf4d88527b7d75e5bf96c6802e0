@@ -1,0 +1,24 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+osquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÍãìûÿÿÿÿ
+osquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÍãìûÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã‚ÈÑ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã‚ÈÑ
+osquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞèìÑùÿÿÿÿ
+osquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶óİóÿÿÿÿÿ
+jsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò§êÏ
+osquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
+osquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
+osquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄØ²ÿÿÿÿÿ
+psquid:S00116m"SRename this field "start_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÄÌıÿÿÿÿ
+nsquid:S00116n"QRename this field "end_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ø¶èúÿÿÿÿ
+rsquid:S00116o"URename this field "handler_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ãŠùúÿÿÿÿ
+msquid:S00116p"URename this field "catch_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”˜´¶
+Fsquid:S1948m"*Make "start_pc" transient or serializable.(ãÄÌıÿÿÿÿ
+Dsquid:S1948n"(Make "end_pc" transient or serializable.(—ø¶èúÿÿÿÿ
+Hsquid:S1948o",Make "handler_pc" transient or serializable.(³ãŠùúÿÿÿÿ
+Csquid:S1948p",Make "catch_type" transient or serializable.(”˜´¶
+ksquid:S2975ƒ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+U
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+1squid:S2225ˆ"Return a non null object.(¥¹ï

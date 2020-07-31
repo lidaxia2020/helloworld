@@ -1,0 +1,39 @@
+
+Lsquid:S1191)"5Use classes from the Java API instead of Sun classes.(à„Ü
+u
+squid:S135ö"YReduce the total number of break and continue statements in this loop to use at most one.(ƒ²Í¯ÿÿÿÿÿ
+u
+squid:S135À"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+u
+squid:S135õ"YReduce the total number of break and continue statements in this loop to use at most one.(Àÿ•óÿÿÿÿÿ
+Esquid:S1604º"(Make this anonymous inner class a lambda(£åï£øÿÿÿÿ
+Hsquid:S2160©"+Override the "equals" method in this class.(û•¶éüÿÿÿÿ
+ssquid:S1149©"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(û•¶éüÿÿÿÿ
+|squid:S1149ó"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ê‹¦¨þÿÿÿÿ
+nsquid:S1149ä	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ËÃŠ³
+nsquid:S1149‚
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(—½Ž
+nsquid:S1149•
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ËÃŠ³
+nsquid:S1149¸
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ËÃŠ³
+nsquid:S1149Î
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(©¡®À
+ssquid:S1149á
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(î¾ƒÕûÿÿÿÿ
+=squid:S1948¼"%Make "defaults" private or transient.(Áéè
+osquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÏÁ›Êýÿÿÿÿ
+Msquid:S1854ï"5Remove this useless assignment to local variable "c".(ò‹÷Ó
+osquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(™‡Ïèüÿÿÿÿ
+osquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ï¶Æñþÿÿÿÿ
+jsquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ö×ù²
+6squid:S2178–"Correct this "&" to "&&".(Á´¼¨ÿÿÿÿÿ
+osquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(«ÙŸ¸ùÿÿÿÿ
+Rsquid:S1133ã"5Do not forget to remove this deprecated code someday.(«óçøÿÿÿÿÿ
+Bsquid:S00108æ")Either remove or fill this block of code.(ï­£Ä
+Vsquid:S4719ô">Replace charset name argument with StandardCharsets.ISO_8859_1(½ŒßÚ
+¸%squid:RedundantThrowsDeclarationCheckÂ"…Remove the declaration of thrown exception 'java.util.InvalidPropertiesFormatException' which is a subclass of 'java.io.IOException'.(ÎÌÐÁ
+>squid:S1452ã	"&Remove usage of generic wildcard type.(§²¸ø
+asquid:CallToDeprecatedMethodª"3Remove this use of "newInstance"; it is deprecated.(î—º¶ûÿÿÿÿ
+¸%squid:RedundantThrowsDeclarationCheckÊ"…Remove the declaration of thrown exception 'java.util.InvalidPropertiesFormatException' which is a subclass of 'java.io.IOException'.(ÎÌÐÁ
+hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ˆò€–ûÿÿÿÿ

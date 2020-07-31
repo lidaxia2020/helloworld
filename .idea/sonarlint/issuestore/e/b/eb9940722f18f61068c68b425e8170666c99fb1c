@@ -1,0 +1,151 @@
+
+Š squid:ForLoopCounterChangedCheck¯"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¼ëŠøÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¯‹ëûÿÿÿÿ
+… squid:ForLoopCounterChangedCheckÊ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÃèŒß
+Š squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(°õãìøÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÄ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¼ëŠøÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÍ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¯‹ëûÿÿÿÿ
+… squid:ForLoopCounterChangedCheckß"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÃèŒß
+Š squid:ForLoopCounterChangedCheckş"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÖú‹úÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckÙ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¼ëŠøÿÿÿÿ
+Š squid:ForLoopCounterChangedCheckâ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¯‹ëûÿÿÿÿ
+… squid:ForLoopCounterChangedCheckô"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÃèŒß
+… squid:ForLoopCounterChangedCheck“"XRefactor the code in order to not assign to this loop counter from within the loop body.(ßş¨ş
+Š squid:ForLoopCounterChangedCheckî"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¼ëŠøÿÿÿÿ
+Š squid:ForLoopCounterChangedCheck÷"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¯‹ëûÿÿÿÿ
+… squid:ForLoopCounterChangedCheck‰"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÃèŒß
+Š squid:ForLoopCounterChangedCheck¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(‹‡•îşÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck¯".Extract the assignment out of this expression.(Ã¼ëŠøÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck¸".Extract the assignment out of this expression.(Ã¯‹ëûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckÊ".Extract the assignment out of this expression.(ÃèŒß
+d$squid:AssignmentInSubExpressionCheckÄ".Extract the assignment out of this expression.(Ã¼ëŠøÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckÍ".Extract the assignment out of this expression.(Ã¯‹ëûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckß".Extract the assignment out of this expression.(ÃèŒß
+d$squid:AssignmentInSubExpressionCheckÙ".Extract the assignment out of this expression.(Ã¼ëŠøÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckâ".Extract the assignment out of this expression.(Ã¯‹ëûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckô".Extract the assignment out of this expression.(ÃèŒß
+d$squid:AssignmentInSubExpressionCheckî".Extract the assignment out of this expression.(Ã¼ëŠøÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck÷".Extract the assignment out of this expression.(Ã¯‹ëûÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck‰".Extract the assignment out of this expression.(ÃèŒß
+p
+squid:S135®"YReduce the total number of break and continue statements in this loop to use at most one.(ùÔ—È
+p
+squid:S135·"YReduce the total number of break and continue statements in this loop to use at most one.(ùÔ—È
+u
+squid:S135É"YReduce the total number of break and continue statements in this loop to use at most one.(üÈœçşÿÿÿÿ
+u
+squid:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(¶‚™ˆûÿÿÿÿ
+p
+squid:S135Ã"YReduce the total number of break and continue statements in this loop to use at most one.(ùÔ—È
+p
+squid:S135Ì"YReduce the total number of break and continue statements in this loop to use at most one.(ùÔ—È
+u
+squid:S135Ş"YReduce the total number of break and continue statements in this loop to use at most one.(üÈœçşÿÿÿÿ
+p
+squid:S135ı"YReduce the total number of break and continue statements in this loop to use at most one.(Ô»óË
+p
+squid:S135Ø"YReduce the total number of break and continue statements in this loop to use at most one.(ùÔ—È
+p
+squid:S135á"YReduce the total number of break and continue statements in this loop to use at most one.(ùÔ—È
+u
+squid:S135ó"YReduce the total number of break and continue statements in this loop to use at most one.(üÈœçşÿÿÿÿ
+p
+squid:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(¤ûı
+p
+squid:S135í"YReduce the total number of break and continue statements in this loop to use at most one.(ùÔ—È
+p
+squid:S135ö"YReduce the total number of break and continue statements in this loop to use at most one.(ùÔ—È
+u
+squid:S135ˆ"YReduce the total number of break and continue statements in this loop to use at most one.(üÈœçşÿÿÿÿ
+u
+squid:S135§"YReduce the total number of break and continue statements in this loop to use at most one.(ïÃŠåùÿÿÿÿ
+_squid:S00107Š"AConstructor has 8 parameters, which is greater than 7 authorized.(Èñ—ëùÿÿÿÿ
+_squid:S00107 "AConstructor has 8 parameters, which is greater than 7 authorized.(¦Ğ¦üÿÿÿÿ
+_squid:S00107µ"AConstructor has 8 parameters, which is greater than 7 authorized.(üğˆÀşÿÿÿÿ
+_squid:S00107Ê"AConstructor has 8 parameters, which is greater than 7 authorized.(Æ»âÀûÿÿÿÿ
+Fsquid:EmptyStatementUsageCheck7"Remove this empty statement.(×öª¸
+?squid:S1659x"#Declare "right" on a separate line.(¤¨Îáşÿÿÿÿ
+8squid:S1659y"!Declare "out" on a separate line.(„†şå
+6squid:S1659z" Declare "hi" on a separate line.(ÓâãE
+:squid:S1659z"$Declare "origin" on a separate line.(ÓâãE
+9squid:S1659z"#Declare "fence" on a separate line.(ÓâãE
+=squid:S1659z"'Declare "threshold" on a separate line.(ÓâãE
+>squid:S1948v"'Make "array" transient or serializable.(ÙÀÈ
+Asquid:S1948w"*Make "function" transient or serializable.(êµë•
+;squid:S1948y"$Make "in" transient or serializable.(„†şå
+<squid:S1948y"%Make "out" transient or serializable.(„†şå
+psquid:S3776•"SRefactor this method to reduce its Cognitive Complexity from 153 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+Ssquid:S1854£"6Remove this useless assignment to local variable "lt".(ÁõÔşÿÿÿÿ
+Nsquid:S1854¡"6Remove this useless assignment to local variable "rt".(‰£şÜ
+>squid:S1659š"!Declare "org" on a separate line.(¿è‘„ıÿÿÿÿ
+>squid:S1659š"!Declare "fnc" on a separate line.(¿è‘„ıÿÿÿÿ
+<squid:S1659š"Declare "l" on a separate line.(¿è‘„ıÿÿÿÿ
+<squid:S1659š"Declare "h" on a separate line.(¿è‘„ıÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheckœ";Refactor the code to remove this label and the need for it.(£‘°ü
+=squid:S1659" Declare "rt" on a separate line.(ñ±ÖÅşÿÿÿÿ
+<squid:S1659"Declare "f" on a separate line.(ñ±ÖÅşÿÿÿÿ
+vsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÄÕ«ûÿÿÿÿ
+vsquid:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÜ«åıÿÿÿÿ
+asquid:S3358Í"DExtract this nested ternary operation into an independent statement.(²¬Î§ûÿÿÿÿ
+8squid:S1659ò" Declare "lt" on a separate line.(İÇ·
+8squid:S1659ò" Declare "rt" on a separate line.(İÇ·
+@squid:S1659"#Declare "right" on a separate line.(®ûãşÿÿÿÿ
+>squid:S1659"!Declare "out" on a separate line.(ù­‡óüÿÿÿÿ
+7squid:S1659" Declare "hi" on a separate line.(ÓâãE
+;squid:S1659"$Declare "origin" on a separate line.(ÓâãE
+:squid:S1659"#Declare "fence" on a separate line.(ÓâãE
+>squid:S1659"'Declare "threshold" on a separate line.(ÓâãE
+Asquid:S1948"*Make "function" transient or serializable.(ÃÑİ
+psquid:S3776ª"SRefactor this method to reduce its Cognitive Complexity from 153 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+Ssquid:S1854¸"6Remove this useless assignment to local variable "lt".(ÁõÔşÿÿÿÿ
+Nsquid:S1854¶"6Remove this useless assignment to local variable "rt".(‰£şÜ
+>squid:S1659¯"!Declare "org" on a separate line.(¿è‘„ıÿÿÿÿ
+>squid:S1659¯"!Declare "fnc" on a separate line.(¿è‘„ıÿÿÿÿ
+<squid:S1659¯"Declare "l" on a separate line.(¿è‘„ıÿÿÿÿ
+<squid:S1659¯"Declare "h" on a separate line.(¿è‘„ıÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheck±";Refactor the code to remove this label and the need for it.(£‘°ü
+8squid:S1659³" Declare "rt" on a separate line.(ÕÆ”é
+7squid:S1659³"Declare "f" on a separate line.(ÕÆ”é
+asquid:S3358â"DExtract this nested ternary operation into an independent statement.(²¬Î§ûÿÿÿÿ
+8squid:S1659‡" Declare "lt" on a separate line.(Ú×ˆ£
+8squid:S1659‡" Declare "rt" on a separate line.(Ú×ˆ£
+@squid:S1659£"#Declare "right" on a separate line.(Ò• –øÿÿÿÿ
+>squid:S1659¤"!Declare "out" on a separate line.(®¦¥şÿÿÿÿ
+7squid:S1659¥" Declare "hi" on a separate line.(ÓâãE
+;squid:S1659¥"$Declare "origin" on a separate line.(ÓâãE
+:squid:S1659¥"#Declare "fence" on a separate line.(ÓâãE
+>squid:S1659¥"'Declare "threshold" on a separate line.(ÓâãE
+Gsquid:S1948¢"*Make "function" transient or serializable.(¢õİßùÿÿÿÿ
+psquid:S3776¿"SRefactor this method to reduce its Cognitive Complexity from 153 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+Ssquid:S1854Í"6Remove this useless assignment to local variable "lt".(ÁõÔşÿÿÿÿ
+Nsquid:S1854Ë"6Remove this useless assignment to local variable "rt".(‰£şÜ
+>squid:S1659Ä"!Declare "org" on a separate line.(¿è‘„ıÿÿÿÿ
+>squid:S1659Ä"!Declare "fnc" on a separate line.(¿è‘„ıÿÿÿÿ
+<squid:S1659Ä"Declare "l" on a separate line.(¿è‘„ıÿÿÿÿ
+<squid:S1659Ä"Declare "h" on a separate line.(¿è‘„ıÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheckÆ";Refactor the code to remove this label and the need for it.(£‘°ü
+8squid:S1659È" Declare "rt" on a separate line.(ƒ«ÃŸ
+7squid:S1659È"Declare "f" on a separate line.(ƒ«ÃŸ
+asquid:S3358÷"DExtract this nested ternary operation into an independent statement.(²¬Î§ûÿÿÿÿ
+8squid:S1659œ" Declare "lt" on a separate line.(—§Ë
+8squid:S1659œ" Declare "rt" on a separate line.(—§Ë
+@squid:S1659¸"#Declare "right" on a separate line.(”Æ­üÿÿÿÿ
+>squid:S1659¹"!Declare "out" on a separate line.(êáÜ·ûÿÿÿÿ
+7squid:S1659º" Declare "hi" on a separate line.(ÓâãE
+;squid:S1659º"$Declare "origin" on a separate line.(ÓâãE
+:squid:S1659º"#Declare "fence" on a separate line.(ÓâãE
+>squid:S1659º"'Declare "threshold" on a separate line.(ÓâãE
+Bsquid:S1948·"*Make "function" transient or serializable.(ùÀÓ£
+psquid:S3776Ô"SRefactor this method to reduce its Cognitive Complexity from 153 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+Ssquid:S1854â"6Remove this useless assignment to local variable "lt".(ÁõÔşÿÿÿÿ
+Nsquid:S1854à"6Remove this useless assignment to local variable "rt".(‰£şÜ
+>squid:S1659Ù"!Declare "org" on a separate line.(¿è‘„ıÿÿÿÿ
+>squid:S1659Ù"!Declare "fnc" on a separate line.(¿è‘„ıÿÿÿÿ
+<squid:S1659Ù"Declare "l" on a separate line.(¿è‘„ıÿÿÿÿ
+<squid:S1659Ù"Declare "h" on a separate line.(¿è‘„ıÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheckÛ";Refactor the code to remove this label and the need for it.(£‘°ü
+8squid:S1659İ" Declare "rt" on a separate line.(ÎŸŸ“
+7squid:S1659İ"Declare "f" on a separate line.(ÎŸŸ“
+asquid:S3358Œ"DExtract this nested ternary operation into an independent statement.(²¬Î§ûÿÿÿÿ
+=squid:S1659±" Declare "lt" on a separate line.(ƒá¢ûÿÿÿÿ
+=squid:S1659±" Declare "rt" on a separate line.(ƒá¢ûÿÿÿÿ

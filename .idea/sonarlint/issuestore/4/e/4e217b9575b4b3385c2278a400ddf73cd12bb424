@@ -1,0 +1,11 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ıŒÇ
+fsquid:S00100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨à”
+Dsquid:S1125["(Remove the literal "true" boolean value.(ŞæØùÿÿÿÿ
+Wsquid:S1161³":Add the "@Override" annotation above this method signature(Å¯³Ïıÿÿÿÿ
+Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(ÿ…á
+ƒsquid:S3252Ä"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(À£¹ÿıÿÿÿÿ
+Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(ö™±¨ûÿÿÿÿ
+Asquid:S1125Ò")Remove the literal "false" boolean value.(Ë†¬Ÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(À£¹ÿıÿÿÿÿ

@@ -1,0 +1,12 @@
+
+Š squid:ForLoopCounterChangedCheckì"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘•³øÿÿÿÿ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(›Âış
+_squid:S00112º"FDefine and throw a dedicated exception instead of using a generic one.(ä¼¸¼
+tsquid:UselessImportCheck2"KRemove this unused import 'javax.imageio.metadata.IIOInvalidTreeException'.(åÓÆöüÿÿÿÿ
+[squid:UselessImportCheck,"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’
+msquid:UselessImportCheck1"IRemove this unused import 'javax.imageio.metadata.IIOMetadataFormatImpl'.(¥Ï”ï
+_squid:UselessImportCheck"6Remove this unused import 'java.awt.image.ColorModel'.(ïˆÏÍşÿÿÿÿ
+Vsquid:S1161n":Add the "@Override" annotation above this method signature(‹·® ûÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(íîÚå
+osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(ìÁÇ»øÿÿÿÿ
+Rsquid:S1161¸":Add the "@Override" annotation above this method signature(¡ÀØ”

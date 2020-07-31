@@ -1,0 +1,12 @@
+
+Qsquid:S1161}":Add the "@Override" annotation above this method signature(ÖàµŒ
+Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(ÖàµŒ
+Rsquid:S1161×":Add the "@Override" annotation above this method signature(ÖàµŒ
+Rsquid:S1161ë":Add the "@Override" annotation above this method signature(ÖàµŒ
+ksquid:ModifiersOrderCheckÙ"EReorder the modifiers to comply with the Java Language Specification.(ýòâî
+psquid:ModifiersOrderCheckò"EReorder the modifiers to comply with the Java Language Specification.(€¼èÙûÿÿÿÿ
+gsquid:S00119Œ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‚ÍåÞüÿÿÿÿ
+gsquid:S00119’"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ì£§œÿÿÿÿÿ
+Asquid:S1948¡"$Make "op" transient or serializable.(ŠÝÁëøÿÿÿÿ
+bsquid:S00119ž"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Êìš³
+bsquid:S00119ž"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Êìš³

@@ -1,0 +1,7 @@
+
+Gsquid:S1066ä"/Merge this if statement with the enclosing one.(ßëíƒ
+Usquid:S1854ª"8Remove this useless assignment to local variable "secs".(ç†Üýøÿÿÿÿ
+Asquid:S1125ì")Remove the literal "false" boolean value.(æ¸Çª
+jsquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Á»›ê
+Usquid:S1854ú"8Remove this useless assignment to local variable "secs".(ç†Üýøÿÿÿÿ
+Osquid:S1068Æ"8Remove this unused "DAYS_PER_10000_YEARS" private field.(à¦‘a

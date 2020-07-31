@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+nsquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹íˆäûÿÿÿÿ
+osquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­†‚³ùÿÿÿÿ
+isquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ§É
+jsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÀÔÃ
+osquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À×ŞÃûÿÿÿÿ
+osquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀöµÆúÿÿÿÿ
+osquid:S00116f"WRename this field "match_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‰÷”
+Rsquid:S1905~"6Remove this unnecessary cast to "InstructionHandle[]".(é“Ëùÿÿÿÿ
+<squid:S1659¼"Declare "j" on a separate line.(µğ“ÿÿÿÿÿ
+<squid:S1659½"Declare "m" on a separate line.(¯ö¨§üÿÿÿÿ

@@ -1,0 +1,23 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¢üß–ùÿÿÿÿ
+~squid:S00116X"aRename this field "_isNotSecureProcessing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉïŠÕÿÿÿÿÿ
+psquid:S00116_"XRename this field "_isSecureMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™§ë¯
+}squid:S00116g"`Rename this field "_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜İËÚúÿÿÿÿ
+wsquid:S00116i"ZRename this field "_featureManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©îã÷şÿÿÿÿ
+~squid:S3252‘"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252™"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+Ysquid:S1126 "AReplace this if-then-else statement by a single return statement.(‡ß´
+~squid:S3252å"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+>squid:S2129ç"!Remove this "Boolean" constructor(òÂÔ¶øÿÿÿÿ
+]squid:CallToDeprecatedMethodç"/Remove this use of "Boolean"; it is deprecated.(òÂÔ¶øÿÿÿÿ
+~squid:S3252î"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+>squid:S2129ğ"!Remove this "Boolean" constructor(ÀÓ¹§úÿÿÿÿ
+]squid:CallToDeprecatedMethodğ"/Remove this use of "Boolean"; it is deprecated.(ÀÓ¹§úÿÿÿÿ
+~squid:S3252Š"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+>squid:S2129Œ"!Remove this "Boolean" constructor(ÀÓ¹§úÿÿÿÿ
+]squid:CallToDeprecatedMethodŒ"/Remove this use of "Boolean"; it is deprecated.(ÀÓ¹§úÿÿÿÿ
+~squid:S3252·"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252Í"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252î"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+~squid:S3252"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

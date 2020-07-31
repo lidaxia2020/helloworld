@@ -1,0 +1,5 @@
+
+Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(Õªü@
+nsquid:S3776O"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯™¢Çøÿÿÿÿ
+Osquid:S1197r"8Move the array designator from the variable to the type.(úÃ¿ã
+Osquid:S1197z"8Move the array designator from the variable to the type.(úÃ¿ã

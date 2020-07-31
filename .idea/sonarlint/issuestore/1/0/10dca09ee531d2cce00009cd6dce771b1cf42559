@@ -1,0 +1,22 @@
+
+Lsquid:S1191'"5Use classes from the Java API instead of Sun classes.(‘ŒïÕ
+gsquid:S1192T"KDefine a constant instead of duplicating this literal "java.lang" 12 times.(ïÖìúÿÿÿÿ
+msquid:S1192»"PDefine a constant instead of duplicating this literal "OperatingSystem" 3 times.(“îÈÖúÿÿÿÿ
+?squid:S1604V"(Make this anonymous inner class a lambda(ñ¼Šœ
+>squid:S1604f"(Make this anonymous inner class a lambda(¨æÌ]
+?squid:S1604{"(Make this anonymous inner class a lambda(Å‹Œ‚
+@squid:S1604‹"(Make this anonymous inner class a lambda(¥öá§
+@squid:S1604œ"(Make this anonymous inner class a lambda(û¸—¥
+Esquid:S1604­"(Make this anonymous inner class a lambda(“‘–šùÿÿÿÿ
+Esquid:S1604½"(Make this anonymous inner class a lambda(£Îˆ×ûÿÿÿÿ
+@squid:S1604Í"(Make this anonymous inner class a lambda(Ğ—·š
+@squid:S1604İ"(Make this anonymous inner class a lambda(§´÷§
+Esquid:S1604î"(Make this anonymous inner class a lambda(ıÍĞúÿÿÿÿ
+@squid:S1604ƒ"(Make this anonymous inner class a lambda(ëı“¢
+@squid:S1604–"(Make this anonymous inner class a lambda(ìî‰‚
+Esquid:S1604§"(Make this anonymous inner class a lambda(¹¾·’ıÿÿÿÿ
+@squid:S1604·"(Make this anonymous inner class a lambda(šˆá
+@squid:S1604Ç"(Make this anonymous inner class a lambda(ŸÛ»±
+vsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ı½©Éûÿÿÿÿ
+Ssquid:S1172¹"6Remove this unused method parameter "mxbeanInterface".(æØúÓúÿÿÿÿ
+\squid:S3398ß"?Move this method into the anonymous class declared at line 278.(Æ¢‹“üÿÿÿÿ

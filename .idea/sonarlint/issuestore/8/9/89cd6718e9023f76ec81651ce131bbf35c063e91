@@ -1,0 +1,6 @@
+
+tsquid:S3038"\"read" is defined in the "ReadableByteChannel" interface and can be removed from this class.(‹ş€
+{squid:S3038£"^"read" is defined in the "ScatteringByteChannel" interface and can be removed from this class.(øÅæ¼ıÿÿÿÿ
+zsquid:S3038Ğ"]"write" is defined in the "WritableByteChannel" interface and can be removed from this class.(–Ê“±ùÿÿÿÿ
+{squid:S3038ê"^"write" is defined in the "GatheringByteChannel" interface and can be removed from this class.(‰Ó°¸úÿÿÿÿ
+squid:S3038¡"b"getLocalAddress" is defined in the "NetworkChannel" interface and can be removed from this class.(òº‘ïûÿÿÿÿ

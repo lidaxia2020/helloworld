@@ -1,0 +1,14 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
+osquid:S1192å"WDefine a constant instead of duplicating this literal "property-not-supported" 4 times.(¬ı³ä
+Lsquid:S1066ˆ"/Merge this if statement with the enclosing one.(àıè­ùÿÿÿÿ
+Lsquid:S1066”"/Merge this if statement with the enclosing one.(âÄ–Šúÿÿÿÿ
+Gsquid:S1066Æ"/Merge this if statement with the enclosing one.(Àûø
+osquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(›Ø‘Ùüÿÿÿÿ
+Wsquid:S1161¾":Add the "@Override" annotation above this method signature(—Á«¢ÿÿÿÿÿ
+Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(¥ÁÕ
+jsquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×Û©
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(×Û©
+osquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ö´ô”üÿÿÿÿ
+Wsquid:S1161©":Add the "@Override" annotation above this method signature(Ö´ô”üÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

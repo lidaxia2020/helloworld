@@ -1,0 +1,10 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÎÚ¶…øÿÿÿÿ
+usquid:UselessImportCheck("QRemove this unnecessary import: java.lang classes are always implicitly imported.(ª“á±
+Ysquid:UselessImportCheck)"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+nsquid:S1450¶"VRemove the "fieldID" field and declare it as a local variable in the relevant methods.(Àì¾ê
+qsquid:S1210İ"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
+Q"squid:SwitchLastCaseIsDefaultCheck•""Add a default case to this switch.(ÜŸ•
+Csquid:S1068¶"+Remove this unused "fieldID" private field.(Àì¾ê
+hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(÷„ÏÓùÿÿÿÿ
+hsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(•‡òÀúÿÿÿÿ

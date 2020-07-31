@@ -1,0 +1,19 @@
+
+Rsquid:S1191†"5Use classes from the Java API instead of Sun classes.(ÿ°ÎÎşÿÿÿÿ
+squid:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÌÆ§ÿÿÿÿÿ
+Osquid:S11975"8Move the array designator from the variable to the type.(’‡ª½
+§%squid:RedundantThrowsDeclarationCheckB"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(ºÍÀùÿÿÿÿ
+Vsquid:S1161Z":Add the "@Override" annotation above this method signature(Š¶µãüÿÿÿÿ
+Osquid:S1197y"8Move the array designator from the variable to the type.(ÌÎòú
+]squid:S1193†"@Replace the usage of the "instanceof" operator by a catch block.(ÿ°ÎÎşÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(è¼Ù§üÿÿÿÿ
+Wsquid:S1161«":Add the "@Override" annotation above this method signature(—‚ÄÙûÿÿÿÿ
+Usquid:S1197«"8Move the array designator from the variable to the type.(—‚ÄÙûÿÿÿÿ
+Wsquid:S1161»":Add the "@Override" annotation above this method signature(èöò¡şÿÿÿÿ
+Usquid:S1197»"8Move the array designator from the variable to the type.(èöò¡şÿÿÿÿ
+Wsquid:S1161Æ":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+xsquid:CallToDeprecatedMethodÙ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(³ÌÆ§ÿÿÿÿÿ
+a"squid:ObjectFinalizeOverridenCheckÙ"-Do not override the Object.finalize() method.(³ÌÆ§ÿÿÿÿÿ
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(³ÌÆ§ÿÿÿÿÿ
+™4squid:ObjectFinalizeOverridenCallsSuperFinalizeCheckÙ"SAdd a call to super.finalize() at the end of this Object.finalize() implementation.(³ÌÆ§ÿÿÿÿÿ
+ksquid:ModifiersOrderCheckà"EReorder the modifiers to comply with the Java Language Specification.(×æÄó

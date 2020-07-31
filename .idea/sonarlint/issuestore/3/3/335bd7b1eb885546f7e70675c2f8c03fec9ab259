@@ -1,0 +1,10 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‘´¦¸
+wsquid:S1192„"_Define a constant instead of duplicating this literal "\" found in resource bundle \"" 3 times.(Èñ½
+nsquid:S1192ƒ"VDefine a constant instead of duplicating this literal "No message with ID \"" 3 times.(œœ‘À
+Bsquid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Bsquid:S1181š"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Psquid:S1197˜"8Move the array designator from the variable to the type.(î—äÔ
+Usquid:S1197²"8Move the array designator from the variable to the type.(öıó©øÿÿÿÿ
+Bsquid:S1181µ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+ksquid:ModifiersOrderCheckÈ"EReorder the modifiers to comply with the Java Language Specification.( »«

@@ -1,0 +1,10 @@
+
+Qsquid:S1191!"5Use classes from the Java API instead of Sun classes.(÷ıá…ÿÿÿÿÿ
+`squid:S1192a"IDefine a constant instead of duplicating this literal "xml:base" 3 times.(¶Ø¦É
+^squid:S1192{"GDefine a constant instead of duplicating this literal "suffix" 6 times.(çË¬
+wsquid:S1192n"[Define a constant instead of duplicating this literal "Invalid catalog entry type" 4 times.(ªœĞÄüÿÿÿÿ
+rsquid:S00115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ôøŒ
+squid:S1149["eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸÊ¨¾ÿÿÿÿÿ
+‚squid:S1149¯"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸÊ¨¾ÿÿÿÿÿ
+nsquid:S3776M"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¹šíğıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

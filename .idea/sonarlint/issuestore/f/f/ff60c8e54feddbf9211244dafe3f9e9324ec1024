@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ªµÎ×üÿÿÿÿ
+wsquid:S00115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—‚ñüÿÿÿÿ
+=squid:S11812"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
+=squid:S14810"&Remove this unused "c" local variable.(ô×Õ

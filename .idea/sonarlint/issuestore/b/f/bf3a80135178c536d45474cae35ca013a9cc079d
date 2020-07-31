@@ -1,0 +1,78 @@
+
+… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ú‰°÷
+Lsquid:S1191="5Use classes from the Java API instead of Sun classes.(ÚŸÈš
+Esquid:S1199“"-Extract this nested code block into a method.(ğÛòÜ
+Esquid:S1199"-Extract this nested code block into a method.(«ïÆœ
+Jsquid:S1199¤"-Extract this nested code block into a method.(ö‹âäüÿÿÿÿ
+Esquid:S1199ª"-Extract this nested code block into a method.(õÍÃÅ
+Esquid:S1199°"-Extract this nested code block into a method.(æĞ½¿
+Esquid:S1199¶"-Extract this nested code block into a method.(Öæ—
+Esquid:S1199Á"-Extract this nested code block into a method.(²óÚï
+Jsquid:S1199Ç"-Extract this nested code block into a method.(¶ ¨÷ûÿÿÿÿ
+Dsquid:S1199Í"-Extract this nested code block into a method.(•ŒÊ#
+Esquid:S1199Û"-Extract this nested code block into a method.(š¸ÊĞ
+Esquid:S1199å"-Extract this nested code block into a method.(¯Ôí¶
+Jsquid:S1199ñ"-Extract this nested code block into a method.( áÊşúÿÿÿÿ
+Esquid:S1199ı"-Extract this nested code block into a method.(¡©¤ò
+Jsquid:S1199"-Extract this nested code block into a method.(µë£Ãÿÿÿÿÿ
+Esquid:S1199˜"-Extract this nested code block into a method.(ôÊ‚Ê
+Dsquid:S1199"-Extract this nested code block into a method.(Ğ¼Şp
+Dsquid:S1199§"-Extract this nested code block into a method.(÷îé,
+Jsquid:S1199±"-Extract this nested code block into a method.(Ìï³™øÿÿÿÿ
+Jsquid:S1199¼"-Extract this nested code block into a method.(˜ç˜»şÿÿÿÿ
+Esquid:S1199Æ"-Extract this nested code block into a method.(¿¦ìÉ
+Jsquid:S1199Í"-Extract this nested code block into a method.(¸¨ÍÖøÿÿÿÿ
+Dsquid:S1199ê"-Extract this nested code block into a method.(¬“¸
+Jsquid:S1199ï"-Extract this nested code block into a method.(áöîáûÿÿÿÿ
+Esquid:S1199ô"-Extract this nested code block into a method.(ÓƒÕƒ
+Esquid:S1199ù"-Extract this nested code block into a method.(ğÛòÜ
+Esquid:S1199ş"-Extract this nested code block into a method.(«ïÆœ
+Jsquid:S1199„ "-Extract this nested code block into a method.(ö‹âäüÿÿÿÿ
+Esquid:S1199Š "-Extract this nested code block into a method.(õÍÃÅ
+Esquid:S1199 "-Extract this nested code block into a method.(æĞ½¿
+Esquid:S1199— "-Extract this nested code block into a method.(Öæ—
+Esquid:S1199¢ "-Extract this nested code block into a method.(²óÚï
+Jsquid:S1199¨ "-Extract this nested code block into a method.(¶ ¨÷ûÿÿÿÿ
+Dsquid:S1199® "-Extract this nested code block into a method.(•ŒÊ#
+Esquid:S1199» "-Extract this nested code block into a method.(š¸ÊĞ
+Esquid:S1199Î "-Extract this nested code block into a method.(¯Ôí¶
+Jsquid:S1199Ú "-Extract this nested code block into a method.( áÊşúÿÿÿÿ
+Esquid:S1199æ "-Extract this nested code block into a method.(¡©¤ò
+Jsquid:S1199ù "-Extract this nested code block into a method.(µë£Ãÿÿÿÿÿ
+Esquid:S1199!"-Extract this nested code block into a method.(ôÊ‚Ê
+Dsquid:S1199‡!"-Extract this nested code block into a method.(Ğ¼Şp
+Dsquid:S1199!"-Extract this nested code block into a method.(÷îé,
+Jsquid:S1199š!"-Extract this nested code block into a method.(Ìï³™øÿÿÿÿ
+Jsquid:S1199¥!"-Extract this nested code block into a method.(˜ç˜»şÿÿÿÿ
+Esquid:S1199¯!"-Extract this nested code block into a method.(¿¦ìÉ
+Jsquid:S1199¶!"-Extract this nested code block into a method.(¸¨ÍÖøÿÿÿÿ
+1squid:S1700¨""Rename field "flags"(¯Æ˜ùÿÿÿÿ
+ssquid:S00115é"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯®°
+jsquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ËËÉÒ
+Lsquid:EmptyStatementUsageCheck´"Remove this empty statement.(ôŸìúÿÿÿÿ
+Bsquid:S00108º")Either remove or fill this block of code.(£ò¨ø
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(œåÕşÿÿÿÿ
+jsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ëçÉ˜
+osquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(şòÆÂıÿÿÿÿ
+jsquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÒíÉ’
+Ssquid:S2696ÿ"6Make the enclosing method "static" or remove this set.(·Ôıøÿÿÿÿ
+bsquid:HiddenFieldCheckˆ"?Rename "precision" which hides the field declared at line 2618.(èÑÂû
+jsquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ºÚÈñ
+Psquid:S1197§"8Move the array designator from the variable to the type.(±æœÅ
+Lsquid:S2200Á"/Only the sign of the result should be examined.(¬”ÃÊøÿÿÿÿ
+Lsquid:S2200Â"/Only the sign of the result should be examined.(èç«ƒûÿÿÿÿ
+>squid:S1168‡"&Return an empty array instead of null.(¥¹ï
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(éôÁ€ùÿÿÿÿ
+Usquid:S1197"8Move the array designator from the variable to the type.(òàúÉúÿÿÿÿ
+Osquid:S1854è"7Remove this useless assignment to local variable "tmp".(ëåÌå
+osquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ˆ¨Šóÿÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck€""Add a default case to this switch.(îÇËúÿÿÿÿ
+jsquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Š¾Ôò
+V"squid:SwitchLastCaseIsDefaultChecké ""Add a default case to this switch.(îÇËúÿÿÿÿ
+osquid:S3776â!"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Õ§§Òøÿÿÿÿ
+bsquid:HiddenFieldChecké!":Rename "zero" which hides the field declared at line 1857.(ÌìÑõıÿÿÿÿ
+Zsquid:HiddenFieldCheck—""7Rename "c" which hides the field declared at line 2620.(‰÷ğˆ
+Zsquid:UnusedPrivateMethod"/Remove this unused private "conversion" method.(ãõÜ°ûÿÿÿÿ
+Hsquid:S1068Æ"0Remove this unused "MAX_FD_CHARS" private field.(ÕŒ¥ú
+hsquid:CommentedOutCodeLine #"<This block of commented-out lines of code should be removed.(ÍêÒîÿÿÿÿÿ
+csquid:CommentedOutCodeLine¤#"<This block of commented-out lines of code should be removed.(Ø›üí

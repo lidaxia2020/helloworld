@@ -1,0 +1,8 @@
+
+Lsquid:S1191q"5Use classes from the Java API instead of Sun classes.(àÆÔ‹
+Dsquid:S1604N"(Make this anonymous inner class a lambda(Á·í»ùÿÿÿÿ
+Qsquid:S11187":Add a private constructor to hide the implicit public one.(Ä»áÕ
+Dsquid:S1125g"(Remove the literal "true" boolean value.(þ‰ý¼þÿÿÿÿ
+N
+squid:S106u"9Replace this use of System.out or System.err by a logger.(Ú¼è	
+asquid:CallToDeprecatedMethod‰"3Remove this use of "newInstance"; it is deprecated.(º‡¥ƒøÿÿÿÿ

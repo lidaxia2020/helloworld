@@ -1,0 +1,14 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
+squid:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘æİ­şÿÿÿÿ
+squid:S1186s"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢­øÿÿÿÿ
+Vsquid:S1161W":Add the "@Override" annotation above this method signature(Ò˜‚ûøÿÿÿÿ
+Vsquid:S1161[":Add the "@Override" annotation above this method signature(è‘òÆüÿÿÿÿ
+Psquid:S1161_":Add the "@Override" annotation above this method signature(Š—å
+Qsquid:S1161c":Add the "@Override" annotation above this method signature(Ÿœ¦Ì
+Vsquid:S1161g":Add the "@Override" annotation above this method signature(ó‚Õµøÿÿÿÿ
+asquid:S3252h"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ÓùîÑùÿÿÿÿ
+Vsquid:S1161p":Add the "@Override" annotation above this method signature(‘æİ­şÿÿÿÿ
+Vsquid:S1161s":Add the "@Override" annotation above this method signature(¢­øÿÿÿÿ
+Qsquid:S1161v":Add the "@Override" annotation above this method signature(³Š…´
+bsquid:S3252†"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ÓùîÑùÿÿÿÿ

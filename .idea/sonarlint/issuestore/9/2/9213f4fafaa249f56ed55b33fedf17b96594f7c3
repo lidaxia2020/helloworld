@@ -1,0 +1,8 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Éë–
+}squid:UselessImportCheck*"TRemove this unnecessary import: same package classes are always implicitly imported.(˜ƒš±şÿÿÿÿ
+}squid:UselessImportCheck+"TRemove this unnecessary import: same package classes are always implicitly imported.(ˆÎÙÿÿÿÿÿ
+Wsquid:UselessImportCheck "3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+_squid:UselessImportCheck!";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+Ysquid:HiddenFieldCheckY"7Rename "toa" which hides the field declared at line 57.(¨Àù
+Ksquid:EmptyStatementUsageCheckr"Remove this empty statement.(ôŸìúÿÿÿÿ

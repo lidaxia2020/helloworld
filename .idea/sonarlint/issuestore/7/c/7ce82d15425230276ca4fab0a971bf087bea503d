@@ -1,0 +1,5 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(í¨¼»üÿÿÿÿ
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ù»óİ
+Osquid:S2390‘"7Remove this reference to "DefaultMXBeanMappingFactory".(ÍóÈ

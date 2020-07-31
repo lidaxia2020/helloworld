@@ -1,0 +1,38 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ıäÌİûÿÿÿÿ
+Wsquid:UselessImportCheck-"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+8squid:S2129E"!Remove this "Boolean" constructor(µºä
+Wsquid:CallToDeprecatedMethodE"/Remove this use of "Boolean"; it is deprecated.(µºä
+?squid:S2129O"#Remove this "Character" constructor(ôˆ©âûÿÿÿÿ
+^squid:CallToDeprecatedMethodO"1Remove this use of "Character"; it is deprecated.(ôˆ©âûÿÿÿÿ
+5squid:S2129Y"Remove this "Byte" constructor(‰ù†Ì
+Tsquid:CallToDeprecatedMethodY",Remove this use of "Byte"; it is deprecated.(‰ù†Ì
+;squid:S2129c"Remove this "Short" constructor(Âğ‡¿øÿÿÿÿ
+Zsquid:CallToDeprecatedMethodc"-Remove this use of "Short"; it is deprecated.(Âğ‡¿øÿÿÿÿ
+=squid:S2129m"!Remove this "Integer" constructor(òêäøÿÿÿÿ
+\squid:CallToDeprecatedMethodm"/Remove this use of "Integer"; it is deprecated.(òêäøÿÿÿÿ
+4squid:S2129w"Remove this "Long" constructor(Ü•‡L
+Ssquid:CallToDeprecatedMethodw",Remove this use of "Long"; it is deprecated.(Ü•‡L
+<squid:S2129‚"Remove this "Float" constructor(ñ‘£óşÿÿÿÿ
+[squid:CallToDeprecatedMethod‚"-Remove this use of "Float"; it is deprecated.(ñ‘£óşÿÿÿÿ
+=squid:S2129Œ" Remove this "Double" constructor(•ùõ¥şÿÿÿÿ
+\squid:CallToDeprecatedMethodŒ".Remove this use of "Double"; it is deprecated.(•ùõ¥şÿÿÿÿ
+Rsquid:S1161¶":Add the "@Override" annotation above this method signature(ì³´Ò
+Rsquid:S1161¿":Add the "@Override" annotation above this method signature(›œçİ
+Rsquid:S1161Ò":Add the "@Override" annotation above this method signature(†”Ë
+™squid:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ¾²‘
+™squid:S1186î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ê¸÷œ
+squid:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´±î±úÿÿÿÿ
+squid:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅÎ–Íüÿÿÿÿ
+Rsquid:S1161ô":Add the "@Override" annotation above this method signature(Ïº·Ü
+Rsquid:S1161€":Add the "@Override" annotation above this method signature(Ïº·Ü
+Wsquid:S1161…":Add the "@Override" annotation above this method signature(µ§î›øÿÿÿÿ
+Wsquid:S1161”":Add the "@Override" annotation above this method signature(É˜ËÁüÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(Šİˆƒ
+Wsquid:S1161­":Add the "@Override" annotation above this method signature(µ§î›øÿÿÿÿ
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(É˜ËÁüÿÿÿÿ
+Rsquid:S1161½":Add the "@Override" annotation above this method signature(Šİˆƒ
+squid:S1186Ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅÎ–Íüÿÿÿÿ
+Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(µ§î›øÿÿÿÿ
+Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(É˜ËÁüÿÿÿÿ
+Wsquid:S1161Ú":Add the "@Override" annotation above this method signature(ÅÎ–Íüÿÿÿÿ

@@ -1,0 +1,23 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Ç­ìŞşÿÿÿÿ
+?squid:S1604R"(Make this anonymous inner class a lambda(±øÿ¼
+?squid:S1604_"(Make this anonymous inner class a lambda(±øÿ¼
+?squid:S1604l"(Make this anonymous inner class a lambda(±øÿ¼
+>squid:S1604|"(Make this anonymous inner class a lambda(ÎõåK
+?squid:S1604„"(Make this anonymous inner class a lambda(ÎõåK
+Esquid:S1604©"(Make this anonymous inner class a lambda(”ó¾ıúÿÿÿÿ
+Esquid:S1604Î"(Make this anonymous inner class a lambda(Ôâ¶•ûÿÿÿÿ
+@squid:S1604ß"(Make this anonymous inner class a lambda(Æ¢ŠÜ
+Esquid:S1604ç"(Make this anonymous inner class a lambda( ¨£ÿÿÿÿÿ
+Fsquid:S00108W")Either remove or fill this block of code.(óÇÃËıÿÿÿÿ
+Fsquid:S00108d")Either remove or fill this block of code.(óÇÃËıÿÿÿÿ
+Fsquid:S00108q")Either remove or fill this block of code.(óÇÃËıÿÿÿÿ
+6squid:S2129é"Remove this "Long" constructor(Ã”½¸
+Usquid:CallToDeprecatedMethodé",Remove this use of "Long"; it is deprecated.(Ã”½¸
+gsquid:S3027ü"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(ôÓ¢àşÿÿÿÿ
+csquid:S3027–"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ãş®Ïùÿÿÿÿ
+]squid:S3027"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ú«ø|
+Psquid:S1197¹"8Move the array designator from the variable to the type.(ûäşœ
+Gsquid:S00108ö")Either remove or fill this block of code.(ô¯ãŸşÿÿÿÿ
+Gsquid:S00108û")Either remove or fill this block of code.(˜œÛıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

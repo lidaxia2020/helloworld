@@ -1,0 +1,4 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‘´¦¸
+usquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬­ÚÉÿÿÿÿÿ
+ž%squid:RedundantThrowsDeclarationCheckk"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(áþä¼

@@ -1,0 +1,16 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
+^squid:S1192œ"FDefine a constant instead of duplicating this literal "value" 6 times.(ıÖÍÿ
+hsquid:UselessImportCheck$"?Remove this unused import 'javax.imageio.metadata.IIOMetadata'.(î¥åçøÿÿÿÿ
+fsquid:UselessImportCheck""=Remove this unused import 'javax.imageio.ImageTypeSpecifier'.(ıÒ´½ÿÿÿÿÿ
+Ssquid:UselessImportCheck "/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+nsquid:UselessImportCheck&"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
+Qsquid:S11617":Add the "@Override" annotation above this method signature(ã³¦
+Qsquid:S1161;":Add the "@Override" annotation above this method signature(¡ÀØ”
+Usquid:S4719d">Replace charset name argument with StandardCharsets.ISO_8859_1(ÃÂ‘Ğ
+isquid:S3776j"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(ÇëÍ®
+Qsquid:S1161j":Add the "@Override" annotation above this method signature(ÇëÍ®
+asquid:S4201ÿ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(åí­ó
+osquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(Ú‡ »øÿÿÿÿ
+Wsquid:S1161¬":Add the "@Override" annotation above this method signature(Ú‡ »øÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(ù„Àºüÿÿÿÿ

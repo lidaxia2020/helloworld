@@ -1,0 +1,19 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+Qsquid:S1133;"5Do not forget to remove this deprecated code someday.(»öÚîüÿÿÿÿ
+Tsquid:MissingDeprecatedCheck;"'Add the missing @Deprecated annotation.(»öÚîüÿÿÿÿ
+˜squid:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸±İÆ
+msquid:S00116x"PRename this field "m_doc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾³ğƒøÿÿÿÿ
+Esquid:S2755Â"-Disable XML external entity (XXE) processing.(×§°
+Isquid:S1135›"2Complete the task associated to this TODO comment.(–³×[
+Osquid:S1135¢"2Complete the task associated to this TODO comment.(çÀ…çøÿÿÿÿ
+Jsquid:S1135ø"2Complete the task associated to this TODO comment.(ÛÏ¥©
+Osquid:S1135ş"2Complete the task associated to this TODO comment.(¯ëÃüÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+bsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(Î‹Ÿ¹
+bsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(­Û³Œ
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(…¿İó
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(É¤Ş¬øÿÿÿÿ
+csquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(ÛøÄ´
+csquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(Òë×Á
+hsquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(’ê²Æúÿÿÿÿ

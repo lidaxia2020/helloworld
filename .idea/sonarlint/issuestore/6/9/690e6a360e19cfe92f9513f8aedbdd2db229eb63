@@ -1,0 +1,13 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯¼Š«
+Gsquid:S1444,"+Make this "public static debug" field final(­Â—ùûÿÿÿÿ
+Nsquid:S1444œ"1Make this "public static debugStream" field final(‘Ÿáäøÿÿÿÿ
+Lsquid:S1444£"/Make this "public static errStream" field final(­†¯±üÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck,"QMake debug a static final constant or non-public and provide accessors if needed.(­Â—ùûÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheckœ"WMake debugStream a static final constant or non-public and provide accessors if needed.(‘Ÿáäøÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck£"UMake errStream a static final constant or non-public and provide accessors if needed.(­†¯±üÿÿÿÿ
+?squid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬Úéøÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck#"Remove this empty statement.(ìóğûıÿÿÿÿ
+T
+squid:S106G"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ

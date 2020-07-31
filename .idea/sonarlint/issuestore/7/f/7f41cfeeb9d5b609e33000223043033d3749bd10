@@ -1,0 +1,62 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(äÝÐùÿÿÿÿ
+^squid:S2259ç"AA "NullPointerException" could be thrown; "orb" is nullable here.(Ÿ û½üÿÿÿÿ
+@squid:S1604«"(Make this anonymous inner class a lambda(çàÙè
+@squid:S1604Ö"(Make this anonymous inner class a lambda(çàÙè
+jsquid:UselessImportCheckB"ARemove this unused import 'org.omg.CORBA.portable.ServantObject'.(Ñ÷Áýûÿÿÿÿ
+psquid:UselessImportCheckU"LRemove this unused import 'com.sun.corba.se.spi.ior.iiop.CodeSetsComponent'.(Ãè™ï
+psquid:UselessImportCheck]"LRemove this unused import 'com.sun.corba.se.spi.transport.CorbaContactInfo'.(ÔÁ¿
+squid:UselessImportCheckt"VRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.ProfileAddr'.(ÌÓ±ùúÿÿÿÿ
+_squid:UselessImportCheck3";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+zsquid:UselessImportChecke"VRemove this unused import 'com.sun.corba.se.spi.servicecontext.CodeSetServiceContext'.(ãÆßß
+tsquid:UselessImportCheck^"PRemove this unused import 'com.sun.corba.se.spi.transport.CorbaContactInfoList'.(øöŠŸ
+Ysquid:UselessImportCheckE"6Remove this unused import 'org.omg.IOP.TAG_CODE_SETS'.(éÌ·O
+tsquid:UselessImportCheckk"KRemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputStream'.(ÁÐ˜Úÿÿÿÿÿ
+†squid:UselessImportCheckg"]Remove this unused import 'com.sun.corba.se.spi.servicecontext.SendingContextServiceContext'.(ÛÏŽÅýÿÿÿÿ
+squid:UselessImportCheckv"]Remove this unused import 'com.sun.corba.se.impl.transport.CorbaContactInfoListIteratorImpl'.(íË¥•
+hsquid:UselessImportCheckG"DRemove this unused import 'com.sun.org.omg.SendingContext.CodeBase'.(¹ØÙï
+osquid:UselessImportCheck>"FRemove this unused import 'org.omg.CORBA.portable.RemarshalException'.(òîº„øÿÿÿÿ
+wsquid:UselessImportChecko"NRemove this unused import 'com.sun.corba.se.impl.encoding.MarshalInputStream'.(¡Ÿ©µÿÿÿÿÿ
+csquid:UselessImportCheck<":Remove this unused import 'org.omg.CORBA.DATA_CONVERSION'.(®˜Ù‘øÿÿÿÿ
+msquid:UselessImportCheck@"DRemove this unused import 'org.omg.CORBA_2_3.portable.OutputStream'.(©éµ¿üÿÿÿÿ
+zsquid:UselessImportCheckr"WRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.ReplyMessage'.(¶¹*
+xsquid:UselessImportCheckn"ORemove this unused import 'com.sun.corba.se.impl.encoding.MarshalOutputStream'.(£íãÂûÿÿÿÿ
+Vsquid:UselessImportCheck8"2Remove this unused import 'org.omg.CORBA.Context'.(ææ÷¬
+squid:UselessImportChecku"XRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.ReferenceAddr'.(ì—áýþÿÿÿÿ
+tsquid:UselessImportCheckc"PRemove this unused import 'com.sun.corba.se.spi.servicecontext.ServiceContexts'.(Ï¼àó
+usquid:UselessImportChecks"RRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.KeyAddr'.(àšÚD
+`squid:UselessImportCheck0"7Remove this unused import 'org.omg.CORBA.COMM_FAILURE'.(©Ÿ·ýÿÿÿÿ
+hsquid:UselessImportCheckD"DRemove this unused import 'org.omg.CORBA.portable.UnknownException'.(–ªËÑ
+xsquid:UselessImportCheck\"TRemove this unused import 'com.sun.corba.se.spi.protocol.RequestDispatcherRegistry'.(ÔƒºÒ
+psquid:UselessImportCheckZ"GRemove this unused import 'com.sun.corba.se.spi.orb.ORBVersionFactory'.(›à«ñýÿÿÿÿ
+^squid:UselessImportCheck6"5Remove this unused import 'org.omg.CORBA.NamedValue'.(ç§Ò¹þÿÿÿÿ
+usquid:UselessImportCheckO"LRemove this unused import 'com.sun.corba.se.pept.transport.ConnectionCache'.(ŠÐÜŸüÿÿÿÿ
+_squid:UselessImportCheck4";Remove this unused import 'org.omg.CORBA.WrongTransaction'.(ƒƒÞã
+xsquid:UselessImportCheckb"ORemove this unused import 'com.sun.corba.se.spi.servicecontext.ServiceContext'.(Í£Ñ–ûÿÿÿÿ
+nsquid:UselessImportCheckV"ERemove this unused import 'com.sun.corba.se.spi.oa.OAInvocationInfo'.(¥‹Ìûÿÿÿÿ
+esquid:UselessImportCheckx"ARemove this unused import 'com.sun.corba.se.impl.util.JDKBridge'.(ƒ×µ°
+Wsquid:UselessImportCheck1"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+^squid:UselessImportCheck2":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
+psquid:UselessImportCheckq"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œýÿÿÿÿ
+‰squid:UselessImportCheckf"eRemove this unused import 'com.sun.corba.se.spi.servicecontext.MaxStreamFormatVersionServiceContext'.(›Êñâ
+psquid:UselessImportCheckN"GRemove this unused import 'com.sun.corba.se.pept.transport.Connection'.(®Õ½“ýÿÿÿÿ
+_squid:UselessImportCheck9"6Remove this unused import 'org.omg.CORBA.ContextList'.(Ù²ºòÿÿÿÿÿ
+isquid:UselessImportCheckY"@Remove this unused import 'com.sun.corba.se.spi.orb.ORBVersion'.(·›â‰ùÿÿÿÿ
+jsquid:UselessImportCheckS"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.GIOPVersion'.(Å¯›ë
+bsquid:UselessImportCheckR"9Remove this unused import 'com.sun.corba.se.spi.ior.IOR'.(èÂâžýÿÿÿÿ
+dsquid:UselessImportCheckI"@Remove this unused import 'com.sun.corba.se.pept.broker.Broker'.(„‘×î
+^squid:UselessImportCheck)"5Remove this unused import 'java.rmi.RemoteException'.(Ä÷àÿÿÿÿÿ
+|squid:UselessImportCheck_"XRemove this unused import 'com.sun.corba.se.spi.transport.CorbaContactInfoListIterator'.(ÞÄš
+Zsquid:UselessImportCheck7"1Remove this unused import 'org.omg.CORBA.NVList'.(´‚à¾øÿÿÿÿ
+osquid:UselessImportCheck`"KRemove this unused import 'com.sun.corba.se.spi.transport.CorbaConnection'.(á¦¥­
+ssquid:UselessImportCheckl"PRemove this unused import 'com.sun.corba.se.impl.encoding.CodeSetComponentInfo'.(ŠþÈj
+Wsquid:UselessImportCheck;"3Remove this unused import 'org.omg.CORBA.TypeCode'.(æŠŠÕ
+~squid:UselessImportCheckd"URemove this unused import 'com.sun.corba.se.spi.servicecontext.UEInfoServiceContext'.(¥ØŽ•ýÿÿÿÿ
+vsquid:UselessImportCheckm"MRemove this unused import 'com.sun.corba.se.impl.encoding.CodeSetConversion'.(å éþÿÿÿÿ
+\squid:UselessImportCheck:"8Remove this unused import 'org.omg.CORBA.ExceptionList'.(‚ÝùÜ
+Ssquid:UselessImportCheck("/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+Usquid:UselessImportCheck-"1Remove this unused import 'javax.rmi.CORBA.Util'.(ïïãù
+rsquid:UselessImportCheckW"IRemove this unused import 'com.sun.corba.se.spi.oa.ObjectAdapterFactory'.(Ë§‚·þÿÿÿÿ
+Tsquid:UselessImportCheck."0Remove this unused import 'javax.rmi.CORBA.Tie'.(üñÿ¸
+rsquid:UselessImportCheckT"NRemove this unused import 'com.sun.corba.se.spi.ior.iiop.IIOPProfileTemplate'.(úËªº
+[squid:UselessImportCheck="2Remove this unused import 'org.omg.CORBA.UNKNOWN'.(œœõ–ùÿÿÿÿ

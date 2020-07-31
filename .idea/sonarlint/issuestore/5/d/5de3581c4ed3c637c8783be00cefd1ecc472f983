@@ -1,0 +1,35 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ğÔñ¯ıÿÿÿÿ
+csquid:S1192¾"KDefine a constant instead of duplicating this literal "Constants." 3 times.(´¬î´
+_squid:S00112í"FDefine and throw a dedicated exception instead of using a generic one.(äÑ•
+osquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÙíÌüÿÿÿÿ
+osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‹¿¯ûÿÿÿÿ
+osquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÙíÌüÿÿÿÿ
+jsquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹…ÅĞ
+osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãéú™ÿÿÿÿÿ
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°’¼Ğ
+jsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°’¼Ğ
+ksquid:S00116e"NRename this field "_mg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¼øÛüÿÿÿÿ
+gsquid:S00116f"ORename this field "_out" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô÷“á
+fsquid:S00116g"NRename this field "_cp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ‘£
+rsquid:S00116o"URename this field "branch_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( íÔùúÿÿÿÿ
+wsquid:S1149©"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ô–‚ÿ
+hsquid:S3776q"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ú¡­,
+Rsquid:S1161œ":Add the "@Override" annotation above this method signature(€¬í«
+Rsquid:S1161«":Add the "@Override" annotation above this method signature(ÍÜÛ»
+Rsquid:S1161´":Add the "@Override" annotation above this method signature(åÿ«é
+bsquid:CallToDeprecatedMethod·"4Remove this use of "getClassName"; it is deprecated.(¾ÙíÌüÿÿÿÿ
+Wsquid:S1161Â":Add the "@Override" annotation above this method signature(Ö¤ÿ±úÿÿÿÿ
+bsquid:CallToDeprecatedMethodÄ"4Remove this use of "getClassName"; it is deprecated.(¾ÙíÌüÿÿÿÿ
+Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(™æğıÿÿÿÿ
+c
+squid:S128ã"LEnd this switch case with an unconditional break, return or throw statement.(Ê½†Š
+Wsquid:S1161ü":Add the "@Override" annotation above this method signature(ëºİ©ùÿÿÿÿ
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(ıñÒÀùÿÿÿÿ
+Wsquid:S1161„":Add the "@Override" annotation above this method signature(¯½æÒÿÿÿÿÿ
+Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(«Ë¤Şúÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(™ñÛØ
+Rsquid:S1161–":Add the "@Override" annotation above this method signature(‡Âüå
+osquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(’»ú¶øÿÿÿÿ
+Wsquid:S1161 ":Add the "@Override" annotation above this method signature(’»ú¶øÿÿÿÿ
+Rsquid:S1161Ø":Add the "@Override" annotation above this method signature(øÆûÊ

@@ -1,0 +1,12 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Å°ò£øÿÿÿÿ
+isquid:S00117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è×´Ò
+nsquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êĞµ¢şÿÿÿÿ
+esquid:S3008"NRename this field "_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óõĞæ
+qsquid:S3008"URename this field "__typeCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ô”Çıÿÿÿÿ
+osquid:S3008"SRename this field "__active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À§… øÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(½ú·ûşÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(½ú·ûşÿÿÿÿ
+isquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÇÚÅ
+Csquid:S1172C",Remove this unused method parameter "value".(ÌÑ×
+Osquid:S1481-"3Remove this unused "_tcOf_members0" local variable.(êĞµ¢şÿÿÿÿ

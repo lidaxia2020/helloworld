@@ -1,0 +1,6 @@
+
+dsquid:S1192‚"LDefine a constant instead of duplicating this literal "beanContext" 3 times.(ÆÁ›Ò
+c$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(÷‡çÏıÿÿÿÿ
+"squid:ClassVariableVisibilityCheckÄ"`Make beanContextChildPeer a static final constant or non-public and provide accessors if needed.(ÍÓˆı
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ìØ
+™squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€‚ó—

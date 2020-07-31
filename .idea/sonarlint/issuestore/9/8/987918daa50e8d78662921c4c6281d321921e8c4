@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÎÚ¶…øÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'org.omg.CORBA.ORB'.(æ‡µ³üÿÿÿÿ
+>squid:S1214%""Move constants to a class or enum.(Ñµ‡Ùþÿÿÿÿ

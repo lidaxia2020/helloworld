@@ -1,0 +1,36 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Û¤‘ÿÿÿÿÿ
+psquid:S1192ß"XDefine a constant instead of duplicating this literal "property-not-recognized" 3 times.(¼ØÃÚ
+Lsquid:S1066¿"/Merge this if statement with the enclosing one.(Ş¢æÿÿÿÿÿ
+Gsquid:S1066ù"/Merge this if statement with the enclosing one.(Àûø
+nsquid:S1149‹"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(—¤©ı
+ssquid:S1149˜"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ıëï–ıÿÿÿÿ
+ssquid:S1149“"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ôøã ûÿÿÿÿ
+osquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ıëï–ıÿÿÿÿ
+\squid:CallToDeprecatedMethod ".Remove this use of "Parser"; it is deprecated.(–¬°áùÿÿÿÿ
+Fsquid:S1905£")Remove this unnecessary cast to "Parser".(™’çÆıÿÿÿÿ
+\squid:CallToDeprecatedMethod£".Remove this use of "Parser"; it is deprecated.(™’çÆıÿÿÿÿ
+Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(®´æ³
+Wsquid:S1161ì":Add the "@Override" annotation above this method signature(ìÕ°†øÿÿÿÿ
+Qsquid:S1161û":Add the "@Override" annotation above this method signature(î&
+[squid:CallToDeprecatedMethodû"3Remove this use of "HandlerBase"; it is deprecated.(î&
+Wsquid:S1161Š":Add the "@Override" annotation above this method signature(ÚÌ½çüÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(¡ÀØ”
+Gsquid:S1905«"/Remove this unnecessary cast to "PSVIProvider".(ìÉÓÓ
+Gsquid:S1905¯"/Remove this unnecessary cast to "PSVIProvider".(Ê—‹è
+Lsquid:S1905³"/Remove this unnecessary cast to "PSVIProvider".(Õ¡’Èüÿÿÿÿ
+jsquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¶¢Â
+Rsquid:S1161ö":Add the "@Override" annotation above this method signature(¶¢Â
+Jsquid:S1135ù"2Complete the task associated to this TODO comment.(ıóÈó
+bsquid:S2147ˆ"ECombine this catch with the one at line 513, which has the same body.(ÒÈ×ÿÿÿÿÿÿ
+Rsquid:S1161œ":Add the "@Override" annotation above this method signature(¡˜£‘
+Jsquid:S1135Ÿ"2Complete the task associated to this TODO comment.(ıóÈó
+osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(Å“¨üÿÿÿÿ
+Wsquid:S1161¯":Add the "@Override" annotation above this method signature(Å“¨üÿÿÿÿ
+Jsquid:S1135²"2Complete the task associated to this TODO comment.(ıóÈó
+Wsquid:S1161…":Add the "@Override" annotation above this method signature(ªÌüœÿÿÿÿÿ
+Jsquid:S1135ˆ"2Complete the task associated to this TODO comment.(ıóÈó
+Rsquid:S1161¹":Add the "@Override" annotation above this method signature(„¥Û®
+Wsquid:S1161Å":Add the "@Override" annotation above this method signature(©¬øïúÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ÜÀ¿èÿÿÿÿÿ

@@ -1,0 +1,60 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(©÷Éêúÿÿÿÿ
+rsquid:S1192º"UDefine a constant instead of duplicating this literal "Wrong subst() result" 4 times.(©ûæÆúÿÿÿÿ
+ksquid:S1192Ö"NDefine a constant instead of duplicating this literal "\", actual \"" 4 times.(„¡ßˆûÿÿÿÿ
+ksquid:S1192Õ"NDefine a constant instead of duplicating this literal " (expected \"" 4 times.(İàöüøÿÿÿÿ
+p
+squid:S135Œ"YReduce the total number of break and continue statements in this loop to use at most one.(¸Âå¤
+^squid:S00112Å"FDefine and throw a dedicated exception instead of using a generic one.(ÍÎ¢h
+^squid:S00112ë"FDefine and throw a dedicated exception instead of using a generic one.(Ë‹ã
+?squid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148È"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Î"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+squid:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÏ¯Öøÿÿÿÿ
+wsquid:S00115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È†Ìşÿÿÿÿ
+|squid:S1149ß"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(š©Ï©şÿÿÿÿ
+O
+squid:S106v"9Replace this use of System.out or System.err by a logger.(§œ±
+T
+squid:S106w"9Replace this use of System.out or System.err by a logger.(¨„§ûÿÿÿÿ
+T
+squid:S106x"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(¡Ç™J
+U
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(›Äæ÷üÿÿÿÿ
+P
+squid:S106§"9Replace this use of System.out or System.err by a logger.(ÚÂâ
+U
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106á"9Replace this use of System.out or System.err by a logger.(íí‘ƒûÿÿÿÿ
+O
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(¡Ç™J
+U
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+isquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ë‹ã
+wsquid:S1149Ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ö¥Ş
+wsquid:S1149›"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(”ì€²
+|squid:S1149§"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(öš‰ùûÿÿÿÿ
+ksquid:ModifiersOrderCheckÒ"EReorder the modifiers to comply with the Java Language Specification.(ö¥Ş
+psquid:ModifiersOrderCheckÓ"EReorder the modifiers to comply with the Java Language Specification.(ĞÆÙüÿÿÿÿÿ
+jsquid:ModifiersOrderCheckÔ"EReorder the modifiers to comply with the Java Language Specification.(Í•½{
+psquid:ModifiersOrderCheckÕ"EReorder the modifiers to comply with the Java Language Specification.(‚Ê‰şÿÿÿÿ
+psquid:ModifiersOrderCheckÖ"EReorder the modifiers to comply with the Java Language Specification.(¬Õ·Òûÿÿÿÿ
+psquid:ModifiersOrderCheck×"EReorder the modifiers to comply with the Java Language Specification.(ç„²·şÿÿÿÿ
+psquid:ModifiersOrderCheckØ"EReorder the modifiers to comply with the Java Language Specification.(éÕÕ¿øÿÿÿÿ
+ksquid:ModifiersOrderCheckÙ"EReorder the modifiers to comply with the Java Language Specification.(¸ëô…
+ksquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(àöÆ¨
+qsquid:S3012ë"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÂÀ¸§
+9squid:S1181š"!Catch Exception instead of Error.(Œå³Û
+3squid:S3626Á"Remove this redundant jump.(ûÁİ…
+9squid:S1181Ë"!Catch Exception instead of Error.(Œå³Û
+msquid:CallToDeprecatedMethod¼"?Remove this use of "StringBufferInputStream"; it is deprecated.(æ²Òßùÿÿÿÿ
+9squid:S1181“"!Catch Exception instead of Error.(Œå³Û
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

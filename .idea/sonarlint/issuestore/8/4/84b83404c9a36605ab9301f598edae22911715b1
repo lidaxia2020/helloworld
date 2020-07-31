@@ -1,0 +1,13 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Šæƒ¼
+dsquid:S3008E"MRename this field "PI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª™ÈÒ
+hsquid:S3008F"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î ÄŒûÿÿÿÿ
+hsquid:S3008G"QRename this field "SQRRT2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÑ‚¾
+esquid:S3008H"NRename this field "LN2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‘ª
+fsquid:S3008I"ORename this field "LN10" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“÷Å¢
+gsquid:S3008J"PRename this field "LOG2E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸€˜
+nsquid:S3008K"RRename this field "SQRT1_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÈèÒúÿÿÿÿ
+>squid:S2153å"!Remove the boxing of "precision".(ûÀ Õøÿÿÿÿ
+=squid:S2129å" Remove this "Double" constructor(ûÀ Õøÿÿÿÿ
+\squid:CallToDeprecatedMethodå".Remove this use of "Double"; it is deprecated.(ûÀ Õøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

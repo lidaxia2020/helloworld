@@ -1,0 +1,35 @@
+
+Ksquid:S1191n"5Use classes from the Java API instead of Sun classes.(’ªv
+msquid:S2095¬"PUse try-with-resources or close this "ZipFileInputStream" in a "finally" clause.(—Ôíıÿÿÿÿ
+šsquid:S1845H"‚Rename field "locsig" to prevent any misunderstanding/clash with field "LOCSIG" defined in interface "java.util.zip.ZipConstants".(ğÓ Æ
+wsquid:S00115i"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ù¦¨Êúÿÿÿÿ
+¦%squid:RedundantThrowsDeclarationCheckÇ"uRemove the declaration of thrown exception 'java.util.zip.ZipException' which is a subclass of 'java.io.IOException'.(¬Òš
+`squid:HiddenFieldCheckû"8Rename "name" which hides the field declared at line 70.(§ª‚èşÿÿÿÿ
+Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
+Wsquid:S1161ã":Add the "@Override" annotation above this method signature(²÷ğ²şÿÿÿÿ
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+xsquid:CallToDeprecatedMethodø"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ
+a"squid:ObjectFinalizeOverridenCheckø"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+Fsquid:S1125ˆ")Remove the literal "false" boolean value.(•õ¸íşÿÿÿÿ
+Fsquid:S1125—")Remove the literal "false" boolean value.(•õ¸íşÿÿÿÿ
+Hsquid:S1150®"+Implement Iterator rather than Enumeration.(·—º£üÿÿÿÿ
+Csquid:S1452ê"&Remove usage of generic wildcard type.(ÙÙàéûÿÿÿÿ
+Csquid:S1452û"&Remove usage of generic wildcard type.(ƒù“¢úÿÿÿÿ
+Fsquid:S1125Æ")Remove the literal "false" boolean value.(¦ÿÿ–şÿÿÿÿ
+ssquid:CallToDeprecatedMethodû"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÏæÉå
+\"squid:ObjectFinalizeOverridenCheckû"-Do not override the Object.finalize() method.(ÏæÉå
+Rsquid:S1161¤":Add the "@Override" annotation above this method signature(§ìî·
+Psquid:S1197¤"8Move the array designator from the variable to the type.(§ìî·
+`squid:HiddenFieldCheck¦"8Rename "rem" which hides the field declared at line 794.(½µ²´ÿÿÿÿÿ
+`squid:HiddenFieldCheck§"8Rename "pos" which hides the field declared at line 793.(æ¬èáüÿÿÿÿ
+Wsquid:S1161É":Add the "@Override" annotation above this method signature(Ò°·…úÿÿÿÿ
+Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(âËÎ¡ıÿÿÿÿ
+Wsquid:S1161Ü":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ
+xsquid:CallToDeprecatedMethodí"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+a"squid:ObjectFinalizeOverridenCheckí"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+Jsquid:S3398–"3Move this method into "ZipFileInflaterInputStream".(É³ò\
+\squid:S3398ƒ"?Move this method into the anonymous class declared at line 884.(¿¹á”üÿÿÿÿ
+Csquid:S3398‹"+Move this method into "ZipFileInputStream".(Ş¾Ñ×
+Csquid:S3398‹"+Move this method into "ZipFileInputStream".(¤ÊÄØ
+Fsquid:S3398¢")Move this method into "ZipEntryIterator".(íŸû¯üÿÿÿÿ
+@squid:S3398œ")Move this method into "ZipEntryIterator".(ü»£o

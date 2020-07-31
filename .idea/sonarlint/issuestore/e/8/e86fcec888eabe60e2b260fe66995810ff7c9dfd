@@ -1,0 +1,25 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+qsquid:S30082"URename this field "DESCENDING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹»¤şÿÿÿÿ
+hsquid:S30083"QRename this field "NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñç­™
+™squid:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ĞÔ
+lsquid:S001165"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şœ˜—ùÿÿÿÿ
+msquid:S001166"URename this field "_className" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÏ‡ü
+nsquid:S001167"QRename this field "_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÿ¬úøÿÿÿÿ
+psquid:S001168"XRename this field "_sortSettings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÀóƒ
+qsquid:S00116>"TRename this field "_collator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÖÖıÿÿÿÿ
+Lsquid:S1133N"5Do not forget to remove this deprecated code someday.(Íó˜†
+Osquid:MissingDeprecatedCheckN"'Add the missing @Deprecated annotation.(Íó˜†
+Tsquid:S1197O"8Move the array designator from the variable to the type.(ë¹Ò„øÿÿÿÿ
+Tsquid:S1197O"8Move the array designator from the variable to the type.(ë¹Ò„øÿÿÿÿ
+Tsquid:S1197`"8Move the array designator from the variable to the type.(…ÍØøÿÿÿÿ
+Tsquid:S1197`"8Move the array designator from the variable to the type.(…ÍØøÿÿÿÿ
+Tsquid:S1197`"8Move the array designator from the variable to the type.(…ÍØøÿÿÿÿ
+Osquid:S1197a"8Move the array designator from the variable to the type.(ã¹öê
+¶%squid:RedundantThrowsDeclarationCheck©"ƒRemove the declaration of thrown exception 'java.lang.ExceptionInInitializerError' which is a subclass of 'java.lang.LinkageError'.(·¢Ö‘
+˜%squid:RedundantThrowsDeclarationCheck­"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(Å°Ã÷
+asquid:CallToDeprecatedMethod±"3Remove this use of "newInstance"; it is deprecated.(°…ÖÀüÿÿÿÿ
+Csquid:S1172º"+Remove this unused method parameter "lang".(¼ĞÔ
+Psquid:S1197º"8Move the array designator from the variable to the type.(¼ĞÔ
+Rsquid:UnusedPrivateMethodº",Remove this unused private "setLang" method.(¼ĞÔ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

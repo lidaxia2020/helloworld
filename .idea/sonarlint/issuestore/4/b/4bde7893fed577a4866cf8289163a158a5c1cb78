@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(õ‹½
+>squid:S1604G"(Make this anonymous inner class a lambda(ÆÞÖ
+osquid:UselessImportCheck&"FRemove this unused import 'java.util.concurrent.atomic.AtomicBoolean'.(§­‹¼üÿÿÿÿ
+Vsquid:S3725^":Replace this with a call to the "toFile().exists()" method( ÖáÓýÿÿÿÿ
+[squid:S3725`"?Replace this with a call to the "toFile().isDirectory()" method(òÈÝûÿÿÿÿÿ

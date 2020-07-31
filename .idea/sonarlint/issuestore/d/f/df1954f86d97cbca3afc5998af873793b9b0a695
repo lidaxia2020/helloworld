@@ -1,0 +1,25 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(š«©ÿÿÿÿÿ
+}squid:S1192"eDefine a constant instead of duplicating this literal "Could not add certificate from file " 5 times.(Ë’ğ®
+usquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¹î•úÿÿÿÿ
+isquid:S3776a"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Şê¤
+usquid:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÍóËûÿÿÿÿ
+msquid:CallToDeprecatedMethodt"@Remove this use of "StorageResolverException"; it is deprecated.(ãáç·ùÿÿÿÿ
+]squid:S2147‘"ECombine this catch with the one at line 141, which has the same body.(¦‰°á
+bsquid:S2147•"ECombine this catch with the one at line 141, which has the same body.(£Éì¤şÿÿÿÿ
+]squid:S2147™"ECombine this catch with the one at line 141, which has the same body.(ïŞÒ¬
+Gsquid:S2093‚"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+fsquid:S2272Ö"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÕâÖÌ
+Wsquid:S1161á":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+Usquid:S1197ï"8Move the array designator from the variable to the type.(ç²¨óøÿÿÿÿ
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+squid:S106û"9Replace this use of System.out or System.err by a logger.(‹Ğ…²
+Wsquid:CallToDeprecatedMethodü".Remove this use of "Base64"; it is deprecated.(ĞÙ©
+U
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(»ÂÔëúÿÿÿÿ
+U
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(ÕçÚ”şÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(„¼³ÿÿÿÿÿ

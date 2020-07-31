@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
+Vsquid:S1118C":Add a private constructor to hide the implicit public one.(­æüãúÿÿÿÿ
+osquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ñ—§Ñıÿÿÿÿ
+jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(˜™—Ã
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

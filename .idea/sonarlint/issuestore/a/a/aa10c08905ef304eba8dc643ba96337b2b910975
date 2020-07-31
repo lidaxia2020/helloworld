@@ -1,0 +1,17 @@
+
+Gsquid:S1066ü"/Merge this if statement with the enclosing one.(‹¾ÆÙ
+Lsquid:S1066ı"/Merge this if statement with the enclosing one.(ïõí†şÿÿÿÿ
+zsquid:S1488ı"]Immediately return this expression instead of assigning it to the temporary variable "level".(ãæú‚şÿÿÿÿ
+Qsquid:S4973Ì"9Use the "equals" method if value comparison was intended.(İÛ§¹
+Zsquid:S2259Ç"CA "NullPointerException" could be thrown; "level" is nullable here.(†å¿
+[squid:S2259½"CA "NullPointerException" could be thrown; "level" is nullable here.(›ÅÔÅ
+Xsquid:S2259Ú"@A "NullPointerException" could be thrown; "lx" is nullable here.(­«‹¨
+wsquid:S00115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹‚´ıÿÿÿÿ
+\squid:S1854Ä"?Remove this useless assignment to local variable "levelObject".(Á¡²áùÿÿÿÿ
+bsquid:S2062õ"EMake this class "private" or elevate the visibility of "readResolve".(ŒÇ«Óüÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck¦"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¬Òê‰øÿÿÿÿ
+\squid:S1854º"?Remove this useless assignment to local variable "levelObject".(Á¡²áùÿÿÿÿ
+Bsquid:S2201¨"*The return value of "length" must be used.(ôı‚
+7squid:S2097×"Add a type test to this method.(Í§Ñª
+Msquid:S1481Ä"0Remove this unused "levelObject" local variable.(Á¡²áùÿÿÿÿ
+Msquid:S1481º"0Remove this unused "levelObject" local variable.(Á¡²áùÿÿÿÿ

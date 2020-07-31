@@ -1,0 +1,5 @@
+
+Gsquid:S2160$"+Override the "equals" method in this class.(Í°İ¡ùÿÿÿÿ
+squid:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ¶àüüÿÿÿÿ
+˜squid:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢¼Ö
+Qsquid:S11615":Add the "@Override" annotation above this method signature(ÇËë×

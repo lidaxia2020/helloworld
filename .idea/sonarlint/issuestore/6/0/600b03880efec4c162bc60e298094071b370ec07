@@ -1,0 +1,17 @@
+
+[squid:S3034í">Prevent "int" promotion by adding "& 0xff" to this expression.(ñç»ûÿÿÿÿ
+Gsquid:S2065"0Remove the "transient" modifier from this field.(Ğ§–s
+Msquid:S2065‚"0Remove the "transient" modifier from this field.(í·ğúÿÿÿÿÿ
+Hsquid:S2065†"0Remove the "transient" modifier from this field.(òç“
+Hsquid:S2065"0Remove the "transient" modifier from this field.(Î¬»Ó
+>squid:S1170‘"!Make this final field static too.(ëÖ¥Àÿÿÿÿÿ
+>squid:S1170’"!Make this final field static too.(ªìÄÙşÿÿÿÿ
+>squid:S1170“"!Make this final field static too.(ïîºÄÿÿÿÿÿ
+usquid:S00116‘"WRename this field "BITARRAYMASK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÖ¥Àÿÿÿÿÿ
+rsquid:S00116’"TRename this field "BYTEPOWER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªìÄÙşÿÿÿÿ
+qsquid:S00116“"SRename this field "BYTEMASK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïîºÄÿÿÿÿÿ
+nsquid:S3776q"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(—±È¥üÿÿÿÿ
+Ssquid:S1854";Remove this useless assignment to local variable "extList".(Æ£…Æ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Í¬áúüÿÿÿÿ
+jsquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(êË¥
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Ï¢Ğ©

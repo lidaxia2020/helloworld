@@ -1,0 +1,5 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ðá
+psquid:S00116^"SRename this field "dtm_iter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âêâóûÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckà"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(±òŠêþÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

@@ -1,0 +1,7 @@
+
+Lsquid:S1191""5Use classes from the Java API instead of Sun classes.(ñÜ¸†
+9squid:S1165N""Make this "exception" field final.(ˆÒ‰«
+=squid:S1165O"&Make this "exceptionType" field final.(ë«ÿˆ
+Qsquid:S1161©":Add the "@Override" annotation above this method signature(Ìƒ…l
+Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(ßÔü²þÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

@@ -1,0 +1,6 @@
+
+msquid:UselessImportCheck"DRemove this unused import 'com.helloworld.spring.entity.UserEntity'.(â›»çûÿÿÿÿ
+[squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8åŸ™Ôœ.
+esquid:UselessImportCheck"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äýµ8¢ ÁÔœ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íù¯íýÿÿÿÿ8¹¼ÁÔœ.

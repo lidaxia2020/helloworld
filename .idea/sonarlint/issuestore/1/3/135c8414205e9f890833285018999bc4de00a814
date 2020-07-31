@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+osquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É·¢ùÿÿÿÿ
+osquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
+osquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
+isquid:S3008t"RRename this field "bh_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îâµı
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(Ä¨««
+Ssquid:S2696ˆ"6Make the enclosing method "static" or remove this set.(·¬ ¦ûÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(£ÇË‡
+Rsquid:S1161’":Add the "@Override" annotation above this method signature(³éÍÀ
+Wsquid:S1161–":Add the "@Override" annotation above this method signature(É·¢ùÿÿÿÿ
+Rsquid:S1161¿":Add the "@Override" annotation above this method signature(®Ğ¼¿

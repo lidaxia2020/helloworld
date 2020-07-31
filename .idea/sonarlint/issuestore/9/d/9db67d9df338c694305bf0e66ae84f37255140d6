@@ -1,0 +1,12 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+Ksquid:S1066g"/Merge this if statement with the enclosing one.(¡•„—ûÿÿÿÿ
+qsquid:S001165"TRename this field "_template" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¡ñ‡üÿÿÿÿ
+tsquid:S001166"\Rename this field "_importPrecedence" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôş—‰
+qsquid:S001167"TRename this field "_priority" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äåˆ°ıÿÿÿÿ
+lsquid:S001168"TRename this field "_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŸã
+Nsquid:S1135;"2Complete the task associated to this TODO comment.(ôÉÀ¹ûÿÿÿÿ
+Nsquid:S1135?"2Complete the task associated to this TODO comment.(¥äÃšùÿÿÿÿ
+Qsquid:S1161I":Add the "@Override" annotation above this method signature(Š´Æ
+Psquid:S3400R"9Remove this method and declare a constant for this value.(´éğ¤
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

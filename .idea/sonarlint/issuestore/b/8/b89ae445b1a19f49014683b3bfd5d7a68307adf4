@@ -1,0 +1,9 @@
+
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ıûÕ³
+squid:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±³±Ìüÿÿÿÿ
+‚squid:S1149ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ú¨òÁşÿÿÿÿ
+‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(È¢ŠÀûÿÿÿÿ
+‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(È¢ŠÀûÿÿÿÿ
+}squid:S1149‰"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¢¬ÇŸ
+¤%squid:RedundantThrowsDeclarationCheckê"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Õèğêüÿÿÿÿ
+>squid:S1168…"&Return an empty array instead of null.(¥¹ï

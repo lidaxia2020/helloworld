@@ -1,0 +1,10 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ç”Å§
+Qsquid:S1161+":Add the "@Override" annotation above this method signature(££Ûì
+Vsquid:S11619":Add the "@Override" annotation above this method signature(ÌŸõëıÿÿÿÿ
+Psquid:S1161F":Add the "@Override" annotation above this method signature(õŞ–-
+Vsquid:S1161]":Add the "@Override" annotation above this method signature(Ú‘—Óùÿÿÿÿ
+Osquid:S1197r"8Move the array designator from the variable to the type.(Å÷£
+Osquid:S1197t"8Move the array designator from the variable to the type.(„Ï’°
+dsquid:CallToDeprecatedMethod–"<Remove this use of "KeyResolverException"; it is deprecated.(´ğïQ
+Psquid:S1197§"8Move the array designator from the variable to the type.(‘åÚ©

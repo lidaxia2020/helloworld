@@ -1,0 +1,22 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ùİ‚Ë
+;squid:S1165?"$Make this "m_styleNode" field final.(‚Õç¶
+@squid:S1165`"$Make this "m_exception" field final.(éÀ çüÿÿÿÿ
+nsquid:S00116?"VRename this field "m_styleNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Õç¶
+ssquid:S00116`"VRename this field "m_exception" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÀ çüÿÿÿÿ
+Dsquid:S1948?"-Make "m_styleNode" transient or serializable.(‚Õç¶
+fsquid:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(“¡”äÿÿÿÿÿ
+fsquid:S4201¢"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‰œ¬êúÿÿÿÿ
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(Æ“ºĞüÿÿÿÿ
+P
+squid:S106ó"9Replace this use of System.out or System.err by a logger.(›Î¨™
+Bsquid:S00108ù")Either remove or fill this block of code.(‚Üò
+Qsquid:S1161œ":Add the "@Override" annotation above this method signature(Ìƒ…l
+jsquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¬º€ã
+Tsquid:S1854ø"=Remove this useless assignment to local variable "exception".(ÏùĞr
+Rsquid:S1161Æ":Add the "@Override" annotation above this method signature(¬º€ã
+U
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(ã¸§µùÿÿÿÿ
+Bsquid:S00108Ğ")Either remove or fill this block of code.(‚Üò
+Rsquid:S1161":Add the "@Override" annotation above this method signature(ÇáÈÃ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

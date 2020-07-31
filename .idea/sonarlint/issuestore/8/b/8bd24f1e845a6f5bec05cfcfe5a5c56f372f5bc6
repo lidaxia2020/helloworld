@@ -1,0 +1,5 @@
+
+vsquid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÇ—™úÿÿÿÿ
+vsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÝÂ ùÿÿÿÿ
+fsquid:S4201»"IRemove this unnecessary null check; "instanceof" returns false for nulls.(æŸ¹äùÿÿÿÿ
+Xsquid:S1126Ä"AReplace this if-then-else statement by a single return statement.(Œ²¶.

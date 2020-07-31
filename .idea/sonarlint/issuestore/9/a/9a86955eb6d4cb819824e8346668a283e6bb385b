@@ -1,0 +1,17 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö²‰ô
+esquid:S001015"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ…™¢
+nsquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×«û›úÿÿÿÿ
+nsquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×«û›úÿÿÿÿ
+isquid:S00117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ğ˜«
+isquid:S00117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ğ˜«
+isquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø™¾ı
+isquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø™¾ı
+rsquid:UselessImportCheck%"NRemove this unused import 'com.sun.corba.se.impl.encoding.CDRInputStream_1_2'.(¿ö†„
+psquid:UselessImportCheck$"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
+xsquid:UselessImportCheck&"ORemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputStream_1_2'.(ÂÇæüÿÿÿÿ
+qsquid:S00116<"YRename this field "response_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÌïÒ
+ssquid:S00116@"[Rename this field "service_contexts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»òå
+Osquid:S1197="8Move the array designator from the variable to the type.(Ï¾â‰
+Xsquid:S1126p"AReplace this if-then-else statement by a single return statement.(ÚËâ
+gsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(¡é°´üÿÿÿÿ

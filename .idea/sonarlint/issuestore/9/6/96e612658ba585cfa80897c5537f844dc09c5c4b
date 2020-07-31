@@ -1,0 +1,22 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+Gsquid:S1066‰"/Merge this if statement with the enclosing one.(“¢³¹
+Lsquid:S1066Æ"/Merge this if statement with the enclosing one.(ñŒ¤þÿÿÿÿ
+Gsquid:S1066ç"/Merge this if statement with the enclosing one.(“¢³¹
+dsquid:S00112Š"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+dsquid:S00112è"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
+msquid:S001167"PRename this field "_bits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¶› øÿÿÿÿ
+ksquid:S001168"SRename this field "_bitSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ÿ‹
+psquid:S001169"SRename this field "_intSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âë£Çýÿÿÿÿ
+msquid:S00116:"PRename this field "_mask" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‘ÿâüÿÿÿÿ
+msquid:S00116°"ORename this field "_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“üÖÑüÿÿÿÿ
+hsquid:S00116±"PRename this field "_node" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ü=
+hsquid:S00116²"ORename this field "_int" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çµ˜¥
+msquid:S00116³"ORename this field "_bit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œøùþÿÿÿÿ
+jsquid:S00116Ü"QRename this field "_first" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‡±»
+nsquid:S00116Ý"PRename this field "_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ø‘Þþÿÿÿÿ
+osquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(Ì‹ÿ»ùÿÿÿÿ
+osquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(µêê¥ùÿÿÿÿ
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­¥êˆ
+jsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(çŽ Ü
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

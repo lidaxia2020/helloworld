@@ -1,0 +1,28 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(äªŒ­
+ssquid:S1192Ø"[Define a constant instead of duplicating this literal "removeNotificationListener" 3 times.(Ì å³
+ssquid:S1192µ"[Define a constant instead of duplicating this literal "NotifFetcher.fetchOneNotif" 6 times.(Í”¨ú
+isquid:S1192Ç"QDefine a constant instead of duplicating this literal "NotifFetcher-run" 5 times.(ŞÃÒí
+Esquid:S1604Ä"(Make this anonymous inner class a lambda(†ÜÀüøÿÿÿÿ
+psquid:ModifiersOrderCheck¢"EReorder the modifiers to comply with the Java Language Specification.(ç³¥ïøÿÿÿÿ
+psquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(„šË†úÿÿÿÿ
+psquid:ModifiersOrderCheckª"EReorder the modifiers to comply with the Java Language Specification.(ˆ¶ÛÄıÿÿÿÿ
+ksquid:ModifiersOrderCheck´"EReorder the modifiers to comply with the Java Language Specification.(–´ùİ
+¶%squid:RedundantThrowsDeclarationCheck½"ƒRemove the declaration of thrown exception 'javax.management.InstanceNotFoundException', as it cannot be thrown from method's body.(—¯¸¢
+vsquid:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(´·ÁÏøÿÿÿÿ
+vsquid:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÇÓŞşÿÿÿÿ
+vsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÇÓŞşÿÿÿÿ
+vsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(´·ÁÏøÿÿÿÿ
+vsquid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÇÓŞşÿÿÿÿ
+jsquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¯Ğ›í
+^squid:S2142à"FEither re-interrupt this method or rethrow the "InterruptedException".(ä³Á€
+^squid:S2142‰"FEither re-interrupt this method or rethrow the "InterruptedException".(ä³Á€
+osquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Õ§Ö”úÿÿÿÿ
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡úîß
+osquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(”ú¬ûÿÿÿÿ
+osquid:S3776š"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ôª‡€ÿÿÿÿÿ
+@squid:S1125£"(Remove the literal "true" boolean value.(œÜÜì
+^squid:S2142«"FEither re-interrupt this method or rethrow the "InterruptedException".(ä³Á€
+@squid:S1125¹"(Remove the literal "true" boolean value.(œÜÜì
+^squid:S2142ş"FEither re-interrupt this method or rethrow the "InterruptedException".(ä³Á€
+psquid:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ñ¢e

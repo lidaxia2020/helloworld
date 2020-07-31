@@ -1,0 +1,23 @@
+
+Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(Ôªº©þÿÿÿÿ
+dsquid:S1192–"LDefine a constant instead of duplicating this literal "newInstance" 3 times.(¨ÚœÙ
+Dsquid:S1604D"(Make this anonymous inner class a lambda(ú£¿ýÿÿÿÿ
+dsquid:S00112Ú"FDefine and throw a dedicated exception instead of using a generic one.(ð·†ìûÿÿÿÿ
+_squid:S00112Ü"FDefine and throw a dedicated exception instead of using a generic one.(þíâÛ
+dsquid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(ÐžçŒûÿÿÿÿ
+wsquid:S1149Œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æ åÜ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(Þàš¬øÿÿÿÿ
+O
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ÝæÍÊ
+Zsquid:HiddenFieldCheckÛ"7Rename "acc" which hides the field declared at line 76.(Ëìöø
+osquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(ÐžçŒûÿÿÿÿ
+]squid:HiddenFieldCheckï":Rename "target" which hides the field declared at line 77.(¾†í
+asquid:HiddenFieldCheckð">Rename "methodName" which hides the field declared at line 78.(ú†üŽ
+_squid:HiddenFieldCheck÷"=Rename "arguments" which hides the field declared at line 79.(è­©N
+@squid:S2129¨"#Remove this "Character" constructor(”—Û“þÿÿÿÿ
+_squid:CallToDeprecatedMethod¨"1Remove this use of "Character"; it is deprecated.(”—Û“þÿÿÿÿ
+]squid:HiddenFieldCheck†":Rename "target" which hides the field declared at line 77.(¾†í
+asquid:HiddenFieldCheck‡">Rename "methodName" which hides the field declared at line 78.(ú†üŽ
+_squid:HiddenFieldCheckˆ"=Rename "arguments" which hides the field declared at line 79.(è­©N
+bsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(†€éˆ

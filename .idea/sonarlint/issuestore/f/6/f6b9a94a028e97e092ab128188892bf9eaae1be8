@@ -1,0 +1,170 @@
+
+ksquid:S3824Ã"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Îšºûÿÿÿÿ
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+ssquid:S1192–"[Define a constant instead of duplicating this literal "extension-element-prefixes" 3 times.(¬ÿı¹
+esquid:S1192™"NDefine a constant instead of duplicating this literal "namespace-uri" 3 times.(¢¤æ
+usquid:S1192”"XDefine a constant instead of duplicating this literal "exclude-result-prefixes" 3 times.(´ß´ÿÿÿÿÿ
+esquid:S1192¶"HDefine a constant instead of duplicating this literal "version" 4 times.(İ”÷óşÿÿÿÿ
+dsquid:S1192Ë"GDefine a constant instead of duplicating this literal "output" 3 times.(İÕ•œıÿÿÿÿ
+dsquid:S1192Â"GDefine a constant instead of duplicating this literal "number" 4 times.(ñ»Èœşÿÿÿÿ
+dsquid:S1192À"GDefine a constant instead of duplicating this literal "select" 8 times.(ÂŞÎ˜ıÿÿÿÿ
+jsquid:S1192’"SDefine a constant instead of duplicating this literal "use-attribute-sets" 4 times.(Á­†a
+Lsquid:S1066¹"/Merge this if statement with the enclosing one.(êá›¾ûÿÿÿÿ
+Lsquid:S1066È"/Merge this if statement with the enclosing one.(ÎĞÆ™ıÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckÓ".Extract the assignment out of this expression.(ù¿ÿˆøÿÿÿÿ
+Rsquid:S1141ñ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141÷"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141ş"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+^squid:S2259ú"FA "NullPointerException" could be thrown; "_PImedia" is nullable here.(§ßãó
+^squid:S2259û"FA "NullPointerException" could be thrown; "_PImedia" is nullable here.(Š¿èÖ
+jsquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÈâ¹
+osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÉÁãıÿÿÿÿ
+osquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¤ĞÄúÿÿÿÿ
+jsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áó¬ÿ
+isquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¨õ
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Çúı
+osquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌŞ§ûÿÿÿÿ
+osquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºŸ¢øüÿÿÿÿ
+jsquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§ÛŞ
+osquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¹ùÿÿÿÿ
+osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©ˆÿÿÿÿÿ
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²èŸİ
+jsquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÕËõ
+jsquid:S00117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸éÙË
+osquid:S00117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ı¶îüÿÿÿÿ
+jsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬†èã
+osquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÌç¸ÿÿÿÿÿ
+jsquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›•ƒÈ
+osquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€“û³ùÿÿÿÿ
+isquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç ª.
+osquid:S00117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì“ÿşÿÿÿÿ
+osquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³’¼üÿÿÿÿ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²™âÍûÿÿÿÿ
+osquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êëØ¾ÿÿÿÿÿ
+jsquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Æ±Â
+jsquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿õµÀ
+osquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÜÛƒúÿÿÿÿ
+osquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã½Åúÿÿÿÿ
+jsquid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Á­º
+jsquid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öâÄö
+jsquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¡É
+jsquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¡æè
+osquid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‘õ–ÿÿÿÿÿ
+osquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¬×ƒıÿÿÿÿ
+jsquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔØï
+osquid:S00117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¤Œäÿÿÿÿÿ
+jsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÅÆë
+jsquid:S00117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ£­”
+osquid:S00117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ã–İùÿÿÿÿ
+osquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û±û•øÿÿÿÿ
+osquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’“Œ¬şÿÿÿÿ
+@squid:S1148Ì"#Use a logger to log this exception.(ŞâŒıÿÿÿÿ
+@squid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ó"#Use a logger to log this exception.(òôí›ùÿÿÿÿ
+@squid:S1148Ø"#Use a logger to log this exception.(ŞâŒıÿÿÿÿ
+@squid:S1148Ü"#Use a logger to log this exception.(ŞâŒıÿÿÿÿ
+@squid:S1148Ü	"#Use a logger to log this exception.(ŞâŒıÿÿÿÿ
+[squid:S1155ï	">Use isEmpty() to check whether the collection is empty or not.(àÊÿ‚üÿÿÿÿ
+™squid:S1186Ö
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰“éœ
+squid:S1186î
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤’µûşÿÿÿÿ
+™squid:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜éÁÔ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(««Ÿ¼ùÿÿÿÿ
+ksquid:S00116X"SRename this field "_locator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ìõõ
+isquid:S00116Z"QRename this field "_xsltc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êò¹¡
+tsquid:S00116["WRename this field "_xpathParser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Æûÿÿÿÿÿ
+jsquid:S00116\"RRename this field "_errors" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÔ“Ğ
+qsquid:S00116]"TRename this field "_warnings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íûå…øÿÿÿÿ
+vsquid:S00116_"^Rename this field "_instructionClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğş±
+ysquid:S00116`"\Rename this field "_instructionAttrs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ­À”ÿÿÿÿÿ
+jsquid:S00116a"RRename this field "_qNames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆç½ˆ
+ssquid:S00116b"VRename this field "_namespaces" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º–œåÿÿÿÿÿ
+ysquid:S00116c"\Rename this field "_useAttributeSets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ş §øÿÿÿÿ
+~squid:S00116d"aRename this field "_excludeResultPrefixes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¸ó²üÿÿÿÿ
+{squid:S00116e"dRename this field "_extensionElementPrefixes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Š«D
+psquid:S00116f"YRename this field "_variableScope" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¾€}
+usquid:S00116g"]Rename this field "_currentStylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¾¦Ç
+tsquid:S00116h"WRename this field "_symbolTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ’êİûÿÿÿÿ
+isquid:S00116i"RRename this field "_output" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÕô
+lsquid:S00116j"TRename this field "_template" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªâÿ˜
+tsquid:S00116l"\Rename this field "_rootNamespaceDef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÙ«Ô
+hsquid:S00116n"PRename this field "_root" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–š‹
+osquid:S00116p"RRename this field "_target" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´çÀÿÿÿÿÿ
+{squid:S00116r"cRename this field "_currentImportPrecedence" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»œÂÁ
+}squid:S00116t"`Rename this field "_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜İËÚúÿÿÿÿ
+qsquid:S00116©"SRename this field "_PImedia" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‡Úşúÿÿÿÿ
+qsquid:S00116ª"SRename this field "_PItitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÜñÿÿÿÿÿ
+ssquid:S00116«"URename this field "_PIcharset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ñû¾ÿÿÿÿÿ
+rsquid:S00116ç"YRename this field "_templateIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğô§è
+usquid:S00116À
+"WRename this field "_parentStack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÍùÿÿÿÿÿ
+wsquid:S00116Á
+"YRename this field "_prefixMapping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ“ş…ùÿÿÿÿ
+|squid:S1149\"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸÔ“Ğ
+squid:S1149]"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Íûå…øÿÿÿÿ
+msquid:S1149_"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ğş±
+rsquid:S1149`"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ˆ­À”ÿÿÿÿÿ
+msquid:S1149a"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ˆç½ˆ
+rsquid:S1149b"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(º–œåÿÿÿÿÿ
+lsquid:S1149f"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Æ¾€}
+hsquid:S1149¾"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¢¥›“
+msquid:S1149Â"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ
+hsquid:S1149Ğ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¢¥›“
+hsquid:S1149İ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¢¥›“
+|squid:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¯—™/
+‚squid:S1149¶
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æ„ûøÿÿÿÿ
+}squid:S1149º
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—½‚ù
+msquid:S1149À
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ˆÍùÿÿÿÿÿ
+ssquid:S1149Á
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(œ“ş…ùÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck`"Remove this empty statement.(ˆ­À”ÿÿÿÿÿ
+Psquid:S1854œ"9Remove this useless assignment to local variable "cdata".(âë² 
+Fsquid:S1125ˆ")Remove the literal "false" boolean value.(”İ¸Íøÿÿÿÿ
+Fsquid:S1125¬")Remove the literal "false" boolean value.(”İ¸Íøÿÿÿÿ
+[squid:S1854¤">Remove this useless assignment to local variable "precedence".(ê€ùÿÿÿÿ
+bsquid:S2147×"ECombine this catch with the one at line 459, which has the same body.(áå¥Èûÿÿÿÿ
+bsquid:S2147Û"ECombine this catch with the one at line 459, which has the same body.(ñ“Š±üÿÿÿÿ
+Nsquid:S1905É"1Remove this unnecessary cast to "SyntaxTreeNode".(Ğö¹®øÿÿÿÿ
+Bsquid:S00108ô")Either remove or fill this block of code.(¬ÃÖ
+U
+squid:S106’"9Replace this use of System.out or System.err by a logger.(Ÿ›ıÿÿÿÿ
+^squid:S3027ç"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Îä”¦
+Ó%squid:RedundantThrowsDeclarationCheckŸ"›Remove the declaration of thrown exception 'com.sun.org.apache.xalan.internal.xsltc.compiler.CompilerException', as it cannot be thrown from method's body.(ÿİ»»úÿÿÿÿ
+Isquid:S1905©"1Remove this unnecessary cast to "SyntaxTreeNode".(ÓËÚä
+Psquid:S1854ç"8Remove this useless assignment to local variable "S_SD".(ƒ£­”
+Osquid:S1854Õ"7Remove this useless assignment to local variable "D_X".(¦Æ±Â
+Nsquid:S1854Á"7Remove this useless assignment to local variable "R_I".(‘¨õ
+Tsquid:S1854¾"7Remove this useless assignment to local variable "I_R".(õÉÁãıÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÔºÌÑûÿÿÿÿ
+asquid:CallToDeprecatedMethod‹"3Remove this use of "newInstance"; it is deprecated.(ùïÈşÿÿÿÿ
+fsquid:S4201Ê"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‘…çûÿÿÿÿ
+osquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(°¢ùÿÿÿÿ
+Isquid:S2692ê"10 is a valid index, but is ignored by this check.(õŒ­¬
+U
+squid:S106û	"9Replace this use of System.out or System.err by a logger.(Â„µ©ùÿÿÿÿ
+P
+squid:S106ı	"9Replace this use of System.out or System.err by a logger.(Ø½ıÖ
+P
+squid:S106‹
+"9Replace this use of System.out or System.err by a logger.(éµıí
+U
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(¶™ö·şÿÿÿÿ
+Q"squid:SwitchLastCaseIsDefaultCheck™
+""Add a default case to this switch.(íÕ„¾
+Fsquid:S1125Š")Remove the literal "false" boolean value.(´ÅŞøÿÿÿÿ
+asquid:S4201Å"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¨Ô¬ğ
+jsquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğ›¸ü
+Asquid:S1481œ"*Remove this unused "cdata" local variable.(âë² 
+Lsquid:S1481¤"/Remove this unused "precedence" local variable.(ê€ùÿÿÿÿ
+Esquid:S1481¾"(Remove this unused "I_R" local variable.(õÉÁãıÿÿÿÿ
+?squid:S1481Á"(Remove this unused "R_I" local variable.(‘¨õ
+@squid:S1481Õ"(Remove this unused "D_X" local variable.(¦Æ±Â
+Asquid:S1481ç")Remove this unused "S_SD" local variable.(ƒ£­”
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineÔ	"<This block of commented-out lines of code should be removed.(©Ï½

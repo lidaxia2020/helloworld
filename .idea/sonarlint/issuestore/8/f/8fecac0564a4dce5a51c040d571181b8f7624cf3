@@ -1,0 +1,9 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
+Zsquid:S4719v">Replace charset name argument with StandardCharsets.ISO_8859_1(¾Ñëƒÿÿÿÿÿ
+Asquid:S00108w")Either remove or fill this block of code.(Î¢û“
+Rsquid:S1161ƒ":Add the "@Override" annotation above this method signature(ÀÅÎ›
+Rsquid:S1161’":Add the "@Override" annotation above this method signature(ÊÉ„ã
+Rsquid:S1161˜":Add the "@Override" annotation above this method signature(è§©¯
+U
+squid:S106š"9Replace this use of System.out or System.err by a logger.(âàÜ¢úÿÿÿÿ

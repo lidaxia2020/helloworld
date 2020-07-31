@@ -1,0 +1,7 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
+psquid:S00116k"XRename this field "attribute_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª²ˆ
+ksquid:S2975°"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+U
+squid:S106´"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+1squid:S2225µ"Return a non null object.(¥¹ï

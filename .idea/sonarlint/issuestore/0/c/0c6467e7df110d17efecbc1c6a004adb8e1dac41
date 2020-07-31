@@ -1,0 +1,6 @@
+
+Lsquid:S1191Q"5Use classes from the Java API instead of Sun classes.(Ç¬‘
+~"squid:ClassVariableVisibilityChecke"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+‚"squid:ClassVariableVisibilityCheckh"TMake publicId a static final constant or non-public and provide accessors if needed.(ÀºÂñ
+‡"squid:ClassVariableVisibilityCheckk"TMake systemId a static final constant or non-public and provide accessors if needed.(ÈÿÆµùÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheckn"XMake baseSystemId a static final constant or non-public and provide accessors if needed.(‰‹şÿÿÿÿ

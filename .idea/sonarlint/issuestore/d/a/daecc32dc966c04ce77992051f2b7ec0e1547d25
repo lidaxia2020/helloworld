@@ -1,0 +1,6 @@
+
+Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(äÝÛ¦üÿÿÿÿ
+asquid:S4201ë"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‰šÿã
+Wsquid:S1161Æ":Add the "@Override" annotation above this method signature(úêþ¤üÿÿÿÿ
+Rsquid:S1161Ì":Add the "@Override" annotation above this method signature(æ¯åµ
+Wsquid:S1161€":Add the "@Override" annotation above this method signature(À¸Ö«üÿÿÿÿ

@@ -1,0 +1,21 @@
+
+… squid:ForLoopCounterChangedCheckÊ6"XRefactor the code in order to not assign to this loop counter from within the loop body.(ú£üÚ
+… squid:ForLoopCounterChangedCheckÍ6"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+Š squid:ForLoopCounterChangedCheckö6"XRefactor the code in order to not assign to this loop counter from within the loop body.(ìÙµ®ıÿÿÿÿ
+… squid:ForLoopCounterChangedCheckù6"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+Msquid:S1133Ç"5Do not forget to remove this deprecated code someday.(è©ÑŠ
+Psquid:S1197Ş"8Move the array designator from the variable to the type.(¥Ûœâ
+Asquid:S1659™""$Declare "bottom" on a separate line.(òô‚ôüÿÿÿÿ
+Bsquid:S1659™""%Declare "current" on a separate line.(òô‚ôüÿÿÿÿ
+Asquid:S2786ú"")Remove this redundant "static" qualifier.(âé¨Ğ
+Psquid:S1197‡0"8Move the array designator from the variable to the type.(àê¾‰
+Psquid:S1197ÿ0"8Move the array designator from the variable to the type.(Ó«™›
+osquid:S3776š7"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(á•Â“ûÿÿÿÿ
+osquid:S3776ë7"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(„ÙÈúÿÿÿÿ
+Rsquid:S1133Á="5Do not forget to remove this deprecated code someday.(ÜƒµÉüÿÿÿÿ
+Rsquid:S1133ï="5Do not forget to remove this deprecated code someday.(¶Æƒüÿÿÿÿ
+Rsquid:S1133åE"5Do not forget to remove this deprecated code someday.(‹Åş—üÿÿÿÿ
+hsquid:CommentedOutCodeLineÜ."<This block of commented-out lines of code should be removed.(áÕóøøÿÿÿÿ
+hsquid:CommentedOutCodeLineß/"<This block of commented-out lines of code should be removed.(ô¢‡şÿÿÿÿ
+hsquid:CommentedOutCodeLine†3"<This block of commented-out lines of code should be removed.(Ò“±Áøÿÿÿÿ
+hsquid:CommentedOutCodeLineÊG"<This block of commented-out lines of code should be removed.(—Èûÿÿÿÿ

@@ -1,0 +1,47 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
+Rsquid:S1141×"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141İ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+˜squid:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëÑT
+squid:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Âƒ„ÿÿÿÿÿ
+˜squid:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õÖË
+squid:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Û¶Àãúÿÿÿÿ
+™squid:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùÈ¢â
+™squid:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„Ü–×
+™squid:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿª²˜
+squid:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·Öäûÿÿÿÿ
+squid:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾ğéìıÿÿÿÿ
+˜squid:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ûáô^
+Wsquid:S1161†":Add the "@Override" annotation above this method signature(—Á«¢ÿÿÿÿÿ
+Rsquid:S1161˜":Add the "@Override" annotation above this method signature(×Û©
+Rsquid:S1161³":Add the "@Override" annotation above this method signature(¥ÁÕ
+Wsquid:S1161Å":Add the "@Override" annotation above this method signature(Ö´ô”üÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckò"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckş"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ü©Í–
+µ%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(´™Çïøÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheckƒ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(õÖË
+µ%squid:RedundantThrowsDeclarationCheck†"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheck’"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheck£"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheck«"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ü©Í–
+°%squid:RedundantThrowsDeclarationCheck®"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
+°%squid:RedundantThrowsDeclarationCheck±"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
+µ%squid:RedundantThrowsDeclarationCheck´"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÅ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÑ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
+°%squid:RedundantThrowsDeclarationChecká"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ÿª²˜
+µ%squid:RedundantThrowsDeclarationCheckã"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(·Öäûÿÿÿÿ
+°%squid:RedundantThrowsDeclarationCheckå"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ª¢ïÃ
+jsquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(‹ÃÄŠ
+Esquid:S2755Í"-Disable XML external entity (XXE) processing.(¼œÚú
+Asquid:S00108Û")Either remove or fill this block of code.(º©Ñ
+P
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(õ­€â
+osquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ËÒƒÒıÿÿÿÿ
+Jsquid:S1135Ã"2Complete the task associated to this TODO comment.(¥¢Ë
+Jsquid:S1135Ä"2Complete the task associated to this TODO comment.(¡œÿİ
+usquid:S3252Ç"]Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_VALID".( ¾¯°
+Jsquid:S1135Ï"2Complete the task associated to this TODO comment.(ñ¢È÷
+Vsquid:S1854Ä"9Remove this useless assignment to local variable "sysId".(ş’ıÿÿÿÿ
+Gsquid:S1481Ä"*Remove this unused "sysId" local variable.(ş’ıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

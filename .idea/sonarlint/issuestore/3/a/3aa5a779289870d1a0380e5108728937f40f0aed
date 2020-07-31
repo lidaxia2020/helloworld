@@ -1,0 +1,6 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°ðÎð
+{squid:S1488-"_Immediately return this expression instead of assigning it to the temporary variable "wrapper".(ÆÂø³øÿÿÿÿ
+{squid:S14885"_Immediately return this expression instead of assigning it to the temporary variable "wrapper".(ª²èÕøÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
+\squid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.OMGVMCID'.(”¢„¦ýÿÿÿÿ

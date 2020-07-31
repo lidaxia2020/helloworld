@@ -1,0 +1,6 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ü©¬Øýÿÿÿÿ
+Usquid:UselessImportCheck'"1Remove this unused import 'java.util.Dictionary'.(¸Ûãó
+Asquid:S11501"+Implement Iterator rather than Enumeration.(†  g
+Tsquid:S11974"8Move the array designator from the variable to the type.(Ž¾Ì¿þÿÿÿÿ
+Tsquid:S11977"8Move the array designator from the variable to the type.(¢ýÉ øÿÿÿÿ

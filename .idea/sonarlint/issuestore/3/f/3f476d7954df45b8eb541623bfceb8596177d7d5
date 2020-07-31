@@ -1,0 +1,6 @@
+
+lsquid:UselessImportCheck""CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾þÿÿÿÿ
+fsquid:UselessImportCheck#"BRemove this unused import 'java.security.NoSuchProviderException'.(®²»›
+\squid:S1610M"EConvert the abstract class "CertificateFactorySpi" into an interface.(ŒìçÎ
+=squid:S1452¿"&Remove usage of generic wildcard type.(åÆê?
+>squid:S1452˜"&Remove usage of generic wildcard type.(°³´•

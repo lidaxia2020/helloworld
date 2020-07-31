@@ -1,0 +1,30 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+lsquid:S1192ô"ODefine a constant instead of duplicating this literal "</center></td>" 3 times.(°¿†Õûÿÿÿÿ
+esquid:S1192ó"MDefine a constant instead of duplicating this literal "<td><center>" 4 times.(ôĞï‰
+Lsquid:S1066ì"/Merge this if statement with the enclosing one.(±¿½çÿÿÿÿÿ
+\squid:S2583È"DChange this condition so that it does not always evaluate to "false"(òšíÖ
+\squid:S2583¸"DChange this condition so that it does not always evaluate to "false"(‹ı·º
+Rsquid:S1141Ñ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+hsquid:S00116I"PRename this field "_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á°ö€
+ssquid:S00116J"VRename this field "_references" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒîŠüÿÿÿÿ
+msquid:S00116K"PRename this field "_URIs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡”ì’ıÿÿÿÿ
+nsquid:S00116L"QRename this field "_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èğ¤ıÿÿÿÿ
+psquid:S00116M"SRename this field "_current" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥»µøúÿÿÿÿ
+jsquid:S00116N"RRename this field "_parser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÔÆ“
+jsquid:S00116O"RRename this field "_reader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ª¯¯
+nsquid:S00116P"VRename this field "_dtmManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¶Ùş
+rsquid:S1149J"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÙÒîŠüÿÿÿÿ
+ssquid:S00116]"[Rename this field "_firstReferenced" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¢“»
+rsquid:S00116^"ZRename this field "_lastReferenced" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âÿ‹Ü
+osquid:S00116_"WRename this field "_accessCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Á€‚
+usquid:S00116`"XRename this field "_lastModified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Åı›ùÿÿÿÿ
+tsquid:S00116a"WRename this field "_lastChecked" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ç¯Óûÿÿÿÿ
+msquid:S00116b"URename this field "_buildTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Â¢
+gsquid:S00116e"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùô“º
+Esquid:S2755Ğ"-Disable XML external entity (XXE) processing.(óÜİ´
+Wsquid:CallToDeprecatedMethodí".Remove this use of "decode"; it is deprecated.(§Ôó…
+Tsquid:S1854š"7Remove this useless assignment to local variable "old".(ŸÖµÀÿÿÿÿÿ
+jsquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ë¥ÛÂ
+Esquid:S1481š"(Remove this unused "old" local variable.(ŸÖµÀÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

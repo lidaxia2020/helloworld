@@ -1,0 +1,96 @@
+
+4squid:S1643û"Use a StringBuilder instead.(¹îùŸ
+4squid:S1643‡"Use a StringBuilder instead.(¶ëĞğ
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ü©¬Øıÿÿÿÿ
+Rsquid:S1141â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+dsquid:S2259"GA "NullPointerException" could be thrown; "className" is nullable here.( Î¡şÿÿÿÿ
+jsquid:S00117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÀ½Š
+jsquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŸ¬Ì
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ºšøÿÿÿÿ
+jsquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±şü¼
+_squid:UselessImportCheck&"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
+?squid:S1659t"(Declare "actualSuid" on a separate line.(Ë‡³Û
+Csquid:S1659u",Declare "actualSuidLong" on a separate line.(Ùøİñ
+rsquid:S00115x"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”áæ¹
+wsquid:S00115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÃïËåùÿÿÿÿ
+rsquid:S00115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µË»æ
+rsquid:S00115{"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Å±Œ«
+wsquid:S00115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôÑÃ…şÿÿÿÿ
+rsquid:S00115}"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ò×äà
+rsquid:S00115~"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼íøâ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â‘ìûÿÿÿÿ
+ssquid:S00115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñúíä
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§ —
+ssquid:S00115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨¬‰–
+xsquid:S00115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä¹„Ôÿÿÿÿÿ
+ssquid:S00115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬Ùãâ
+ssquid:S00115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ±Ù¯
+xsquid:S00115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ı³€ãşÿÿÿÿ
+ssquid:S00115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶Õç
+xsquid:S00115Š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ş’îÜüÿÿÿÿ
+xsquid:S00115‹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›ã·¼şÿÿÿÿ
+xsquid:S00115Œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±ÂÖûÿÿÿÿ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ôü€¨
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(º¥áÌ
+ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ•æÎ
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ò×¸øÿÿÿÿ
+ssquid:S00115’"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢Åÿ
+ssquid:S00115“"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍäÕî
+rsquid:S00115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­ãú?
+xsquid:S00115•"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ¯ıãùÿÿÿÿ
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÅèÚüÿÿÿÿ
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û–í®ûÿÿÿÿ
+xsquid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©¿Ñ‰ıÿÿÿÿ
+xsquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î†‹ıÿÿÿÿ
+ssquid:S00115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô´Ã‰
+xsquid:S00115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ¤ı‚şÿÿÿÿ
+xsquid:S00115¨"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òøÿÿÿÿ
+xsquid:S00115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ø—±íùÿÿÿÿ
+xsquid:S00115®"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éõÍûÿÿÿÿ
+ssquid:S00115¯"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä¬Ùî
+ssquid:S00115²"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(é¨‰¯
+ssquid:S00115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©¾ôÓ
+xsquid:S00115¶"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ§¨ğÿÿÿÿÿ
+xsquid:S00115·"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷´ü»ûÿÿÿÿ
+xsquid:S00115º"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(êØ¢†ûÿÿÿÿ
+rsquid:S00115»"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€ä¶j
+xsquid:S00115¾"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İñø¹ûÿÿÿÿ
+rsquid:S00115¿"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’¯˜
+xsquid:S00115Â"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á›·Éøÿÿÿÿ
+xsquid:S00115Ã"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»œ¯ßşÿÿÿÿ
+xsquid:S00115Ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç™¶õüÿÿÿÿ
+ssquid:S00115Å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜ïå¹
+xsquid:S00115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦˜Á©øÿÿÿÿ
+xsquid:S00115®"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Êåîğÿÿÿÿÿ
+msquid:S1149g"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(âÚ¥Ë
+nsquid:S1149Ç"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ñüÓş
+nsquid:S1149Ğ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ìùó
+ssquid:S1149Ø"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ü”Ñùÿÿÿÿ
+nsquid:S1149ä"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¨Ï½â
+nsquid:S1149ï"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(À²–¸
+nsquid:S1149û"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ëã±Ò
+nsquid:S1149†"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(×Åîâ
+|squid:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+wsquid:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(şİ¼Ø
+wsquid:S1149Ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ó”ë
+Usquid:S1197”"8Move the array designator from the variable to the type.(¸‘Šüÿÿÿÿ
+Psquid:S1197±"8Move the array designator from the variable to the type.(¾Ø¸Ú
+Usquid:S1197²"8Move the array designator from the variable to the type.(èĞ¤½ıÿÿÿÿ
+jsquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÕíÛí
+bsquid:HiddenFieldCheckÓ":Rename "repId" which hides the field declared at line 105.(ƒ§òÿûÿÿÿÿ
+Bsquid:S1181å"%Catch Exception instead of Throwable.(’ğôãøÿÿÿÿ
+8squid:S2129é" Remove this "String" constructor(´Ë£Ÿ
+[squid:UnusedPrivateMethodæ"5Remove this unused private "createHashString" method.(„Àûä
+Wsquid:UnusedPrivateMethodà",Remove this unused private "replace" method.(ªşšÿÿÿÿÿ
+6squid:S2183Ğ"Remove this useless shift(›×˜ùÿÿÿÿ
+Jsquid:S1068Y"3Remove this unused "useCodebaseOnly" private field.(ö¸•
+Ksquid:S1068x"4Remove this unused "kSequenceKeyword" private field.(”áæ¹
+Lsquid:S1068"0Remove this unused "kArrayPrefix" private field.(â‘ìûÿÿÿÿ
+Qsquid:S1068‚"9Remove this unused "kSequencePrefixLength" private field.(¨¬‰–
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ù—ÇÆûÿÿÿÿ
+hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(ÃÀÛ½úÿÿÿÿ
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(®Å¾Ã
+hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÃØ¸ëşÿÿÿÿ
+bsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(Â¶…i
+csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(ëûñ¸
+bsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(Â¶…i

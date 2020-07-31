@@ -1,0 +1,20 @@
+
+fsquid:S1192]"JDefine a constant instead of duplicating this literal "SQLState(" 3 times.(Ï£Îáÿÿÿÿÿ
+Fsquid:S1066\"/Merge this if statement with the enclosing one.(Ÿ¢
+Fsquid:S1066|"/Merge this if statement with the enclosing one.(Ÿ¢
+Gsquid:S1066š"/Merge this if statement with the enclosing one.(Ÿ¢
+Gsquid:S1066µ"/Merge this if statement with the enclosing one.(Ÿ¢
+Gsquid:S1066Ó"/Merge this if statement with the enclosing one.(Ÿ¢
+Gsquid:S1066î"/Merge this if statement with the enclosing one.(Ÿ¢
+Gsquid:S1066Œ"/Merge this if statement with the enclosing one.(Ÿ¢
+Gsquid:S1066«"/Merge this if statement with the enclosing one.(Ÿ¢
+isquid:S00117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†žìÁ
+nsquid:S00117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ßŠåÿÿÿÿÿ
+Fsquid:S3077Å".Remove the "volatile" keyword from this field.(Î÷Å£
+>squid:S1165·"!Make this "SQLState" field final.(îÓ­¤øÿÿÿÿ
+@squid:S1165¾"#Make this "vendorCode" field final.(ÇÙÊ­üÿÿÿÿ
+5squid:S1165Å"Make this "next" field final.(Î÷Å£
+qsquid:S00116·"SRename this field "SQLState" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÓ­¤øÿÿÿÿ
+\squid:HiddenFieldCheckí"9Rename "next" which hides the field declared at line 453.(‰¹ø—
+^squid:S1126‘"AReplace this if-then-else statement by a single return statement.(òÙÜ‘ýÿÿÿÿ
+Wsquid:S1161ª":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ

@@ -1,0 +1,9 @@
+
+Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(Äýç•ýÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck0"QMake _name a static final constant or non-public and provide accessors if needed.(˜ùÉÏüÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck1"RMake _value a static final constant or non-public and provide accessors if needed.(ÅÝúõ
+‰"squid:ClassVariableVisibilityCheck2"VMake _isDefault a static final constant or non-public and provide accessors if needed.(ö¢ºƒÿÿÿÿÿ
+msquid:S001160"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ùÉÏüÿÿÿÿ
+isquid:S001161"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÝúõ
+rsquid:S001162"URename this field "_isDefault" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¢ºƒÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

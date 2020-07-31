@@ -1,0 +1,6 @@
+
+ysquid:S4144{"]Update this method so that its implementation is not identical to "getException" on line 109.(á»±àÿÿÿÿÿ
+>squid:S1165G""Make this "exception" field final.(ØûÃñøÿÿÿÿ
+esquid:S3551{"IMake this method "synchronized" to match the parent class implementation.(á»±àÿÿÿÿÿ
+Vsquid:S1161{":Add the "@Override" annotation above this method signature(á»±àÿÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(Á»›ê

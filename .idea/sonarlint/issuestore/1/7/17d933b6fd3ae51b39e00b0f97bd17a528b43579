@@ -1,0 +1,9 @@
+
+msquid:S1192P"VDefine a constant instead of duplicating this literal "Should not reach here" 3 times.(Èä¥†
+?squid:S1604H"(Make this anonymous inner class a lambda(’­Ûü
+xsquid:S00116<"[Rename this field "external_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ—È»ÿÿÿÿÿ
+wsquid:S001153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£Ìúöøÿÿÿÿ
+rsquid:S001155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒÖÏ 
+wsquid:S001156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²®ƒÔûÿÿÿÿ
+esquid:S4201g"IRemove this unnecessary null check; "instanceof" returns false for nulls.(³ã²ıÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ï›À‘ıÿÿÿÿ

@@ -1,0 +1,19 @@
+
+Lsquid:S1191<"5Use classes from the Java API instead of Sun classes.(§ª›‰
+dsquid:S00112Ü"FDefine and throw a dedicated exception instead of using a generic one.(™Úøÿÿÿÿ
+dsquid:S00112í"FDefine and throw a dedicated exception instead of using a generic one.(™Úøÿÿÿÿ
+osquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ëæÿÿÿÿÿ
+ysquid:S4144è"\Update this method so that its implementation is not identical to "getInstance" on line 471.(·êËâøÿÿÿÿ
+ssquid:S00115Ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿è­â
+xsquid:S00115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØŸ×Àúÿÿÿÿ
+Psquid:S1197Ô"8Move the array designator from the variable to the type.(İ…ôé
+Psquid:S1197á"8Move the array designator from the variable to the type.(áôï
+Psquid:S1197ï"8Move the array designator from the variable to the type.(œö¢
+Osquid:S1197ş"8Move the array designator from the variable to the type.(šîÿk
+Usquid:S1197Œ"8Move the array designator from the variable to the type.(‰ı‘ëşÿÿÿÿ
+Usquid:S1197˜"8Move the array designator from the variable to the type.(—ƒ‰¥şÿÿÿÿ
+Usquid:S1197Â"8Move the array designator from the variable to the type.(ñØúÚşÿÿÿÿ
+tsquid:S1858È"W"newLocalPatternChars" is already a string, there's no need to call "toString()" on it.(—‹ëÙûÿÿÿÿ
+psquid:S2975Ò"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
+csquid:HiddenFieldCheckø"@Rename "zoneStrings" which hides the field declared at line 322.(¢Îãİ
+Dsquid:S1872³"'Use an "instanceof" comparison instead.(à›µùıÿÿÿÿ

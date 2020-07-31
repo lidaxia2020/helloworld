@@ -1,0 +1,9 @@
+
+Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈş×
+Ksquid:S1066I"/Merge this if statement with the enclosing one.(ç€³ıÿÿÿÿ
+hsquid:S00116@"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›«Æ
+rsquid:S00116A"URename this field "_isLiteral" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒä³¸ÿÿÿÿÿ
+Qsquid:S1161C":Add the "@Override" annotation above this method signature(ÁØ’›
+Vsquid:S1161Y":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
+Qsquid:S1161_":Add the "@Override" annotation above this method signature(†“‹Ø
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

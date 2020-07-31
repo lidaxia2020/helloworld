@@ -1,0 +1,8 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ˆ¨
+msquid:S1149d"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(âââİ
+rsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÌúŒùÿÿÿÿ
+osquid:ModifiersOrderCheckL"EReorder the modifiers to comply with the Java Language Specification.(‹½ıŸüÿÿÿÿ
+µ%squid:RedundantThrowsDeclarationCheckÙ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ä™Û«úÿÿÿÿ
+Usquid:S1068n"9Remove this unused "RECOGNIZED_PROPERTIES" private field.(©¶şÒÿÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

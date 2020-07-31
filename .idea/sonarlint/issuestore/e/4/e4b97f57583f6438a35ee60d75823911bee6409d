@@ -1,0 +1,19 @@
+
+Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+ssquid:S00116J"[Rename this field "m_indexFromQName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àóÓ¬
+nsquid:S00116L"QRename this field "m_buff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®²ÃÍıÿÿÿÿ
+rsquid:S00115^"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È·ó¾
+msquid:S1149J"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(àóÓ¬
+{squid:S1149L"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(®²ÃÍıÿÿÿÿ
+Psquid:S1161j":Add the "@Override" annotation above this method signature(ÊÄ.
+3squid:S3626œ"Remove this redundant jump.(ûÁİ…
+3squid:S3626¯"Remove this redundant jump.(ûÁİ…
+Rsquid:S1161":Add the "@Override" annotation above this method signature(“ìƒ„
+9squid:S2129¦"!Remove this "Integer" constructor(æá›ä
+Xsquid:CallToDeprecatedMethod¦"/Remove this use of "Integer"; it is deprecated.(æá›ä
+9squid:S2129Ã"!Remove this "Integer" constructor(æá›ä
+Xsquid:CallToDeprecatedMethodÃ"/Remove this use of "Integer"; it is deprecated.(æá›ä
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(öµòúÿÿÿÿ
+Wsquid:S1161ó":Add the "@Override" annotation above this method signature(ÈÁñûÿÿÿÿ
+Wsquid:S1161‹":Add the "@Override" annotation above this method signature(…û€şÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

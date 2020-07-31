@@ -1,0 +1,4 @@
+
+Isquid:S1153Å"1Directly append the argument of String.valueOf().(ÅýÁå
+wsquid:S1149Â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+ksquid:S2975®"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ

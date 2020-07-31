@@ -1,0 +1,25 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
+qsquid:S3008:"URename this field "_factories" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÉ§Çúÿÿÿÿ
+Hsquid:S2390G"1Remove this reference to "SerializerFactoryImpl".(¬ıó—
+Hsquid:S2390I"1Remove this reference to "SerializerFactoryImpl".(»Ç®ú
+Msquid:S2390K"1Remove this reference to "SerializerFactoryImpl".(§½ú“úÿÿÿÿ
+Msquid:S2390M"1Remove this reference to "SerializerFactoryImpl".(Ôğğêÿÿÿÿÿ
+wsquid:S001157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔúÚùÿÿÿÿ
+rsquid:S1149:"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(îÉ§Çúÿÿÿÿ
+esquid:CallToDeprecatedMethodG"=Remove this use of "SerializerFactoryImpl"; it is deprecated.(¬ıó—
+Vsquid:CallToDeprecatedMethodG".Remove this use of "Method"; it is deprecated.(¬ıó—
+esquid:CallToDeprecatedMethodI"=Remove this use of "SerializerFactoryImpl"; it is deprecated.(»Ç®ú
+Vsquid:CallToDeprecatedMethodI".Remove this use of "Method"; it is deprecated.(»Ç®ú
+jsquid:CallToDeprecatedMethodK"=Remove this use of "SerializerFactoryImpl"; it is deprecated.(§½ú“úÿÿÿÿ
+[squid:CallToDeprecatedMethodK".Remove this use of "Method"; it is deprecated.(§½ú“úÿÿÿÿ
+jsquid:CallToDeprecatedMethodM"=Remove this use of "SerializerFactoryImpl"; it is deprecated.(Ôğğêÿÿÿÿÿ
+[squid:CallToDeprecatedMethodM".Remove this use of "Method"; it is deprecated.(Ôğğêÿÿÿÿÿ
+Fsquid:S00108Y")Either remove or fill this block of code.(Àäéüÿÿÿÿ
+[squid:CallToDeprecatedMethod—"2Remove this use of "Serializer"; it is deprecated.(÷¦ƒã
+]squid:CallToDeprecatedMethod—"4Remove this use of "OutputFormat"; it is deprecated.(÷¦ƒã
+[squid:CallToDeprecatedMethod¢"2Remove this use of "Serializer"; it is deprecated.(–§Ô
+bsquid:CallToDeprecatedMethod£"4Remove this use of "OutputFormat"; it is deprecated.(ëÊıÿÿÿÿ
+`squid:CallToDeprecatedMethod±"2Remove this use of "Serializer"; it is deprecated.(Íâ©şÿÿÿÿ
+]squid:CallToDeprecatedMethod²"4Remove this use of "OutputFormat"; it is deprecated.( ¤šÆ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

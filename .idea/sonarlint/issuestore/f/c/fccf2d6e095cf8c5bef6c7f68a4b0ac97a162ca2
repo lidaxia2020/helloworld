@@ -1,0 +1,41 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ùİ‚Ë
+^squid:S3973‰"GUse indentation to denote the code conditionally executed by this "if".(ÀéÜ%
+dsquid:S00112ğ"FDefine and throw a dedicated exception instead of using a generic one.(¥¸¸«ùÿÿÿÿ
+dsquid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(äæØÌÿÿÿÿÿ
+_squid:S00112‘"FDefine and throw a dedicated exception instead of using a generic one.(ıìú’
+zsquid:UselessImportCheck3"QRemove this unused import 'com.sun.org.apache.xpath.internal.functions.Function'.(£’«—ıÿÿÿÿ
+{squid:S4144˜"^Update this method so that its implementation is not identical to "getExpression" on line 101.(ªŒŞùÿÿÿÿ
+qsquid:S00116G"TRename this field "m_mainExp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸…Æ“şÿÿÿÿ
+nsquid:S00116O"VRename this field "m_funcTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´—Ü…
+xsquid:S00116²"ZRename this field "m_patternString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó·†ãüÿÿÿÿ
+|squid:S1149x"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
+ƒsquid:S3252ğ"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¥¸¸«ùÿÿÿÿ
+asquid:S4201ø"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ƒÙşÔ
+ƒsquid:S3252§"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(äæØÌÿÿÿÿÿ
+asquid:S4201²"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ƒÙşÔ
+Xsquid:S1193²"@Replace the usage of the "instanceof" operator by a catch block.(ş¸Õ
+~squid:S3252»"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ááÓ£
+Xsquid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(ş¸Õ
+~squid:S3252Š"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ááÓ£
+P
+squid:S106È"9Replace this use of System.out or System.err by a logger.(ç—ê§
+ƒsquid:S3252ğ"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHWarning".(€Èó†ûÿÿÿÿ
+}squid:S3252"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¤šl
+ƒsquid:S3252­"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¨Ğ¯‘úÿÿÿÿ
+P
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(Ñ¹ê
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(óÉ·Êøÿÿÿÿ
+hsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(¥¸¸«ùÿÿÿÿ
+bsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(ÌÑëJ
+hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(Ú•ÜÁıÿÿÿÿ
+bsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(ñ¢Õ#
+bsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(ÌÑëJ
+hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(Ú•ÜÁıÿÿÿÿ
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(†€éˆ
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(œŠ—¬ûÿÿÿÿ
+csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(†€éˆ
+hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(œŠ—¬ûÿÿÿÿ
+hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(±ËÕØøÿÿÿÿ

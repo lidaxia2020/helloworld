@@ -1,0 +1,24 @@
+
+Qsquid:S1191-"5Use classes from the Java API instead of Sun classes.(ˆ¼í¥ıÿÿÿÿ
+Fsquid:S1066¦"/Merge this if statement with the enclosing one.(£ã¦
+p
+squid:S135©"YReduce the total number of break and continue statements in this loop to use at most one.(»³½‹
+Esquid:S1604"(Make this anonymous inner class a lambda(ÉÂÅºøÿÿÿÿ
+Esquid:S1604§"(Make this anonymous inner class a lambda(†úø»ûÿÿÿÿ
+@squid:S1604É"(Make this anonymous inner class a lambda(°äƒš
+dsquid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
+dsquid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(åÇóèşÿÿÿÿ
+dsquid:S00112·"FDefine and throw a dedicated exception instead of using a generic one.(åÇóèşÿÿÿÿ
+Csquid:S3077½"&Use an "AtomicReferenceArray" instead.( £Êõùÿÿÿÿ
+>squid:S3077¾"&Use an "AtomicReferenceArray" instead.(¦æÔ…
+Fsquid:S3077Û".Remove the "volatile" keyword from this field.(ÏËì
+2squid:S5164ø"Call "remove()" on "gate".(à˜¼‚
+isquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ö®§8
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+qsquid:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(îà€®
+>squid:S5164"&Use "remove()" instead of "set(null)".(Ñ„ø–
+\squid:CallToDeprecatedMethod¬"3Remove this use of "newInstance"; it is deprecated.(¦³Åª
+vsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(şİ†ëıÿÿÿÿ
+Wsquid:S4719÷":Replace Charset.forName() call with StandardCharsets.UTF_8(Ş«ÓÊÿÿÿÿÿ
+qsquid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÖ¤ô
+psquid:S3012º"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¨û 

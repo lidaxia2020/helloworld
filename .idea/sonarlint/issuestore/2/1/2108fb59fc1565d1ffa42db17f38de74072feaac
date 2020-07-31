@@ -1,0 +1,23 @@
+
+\squid:S2583Ë"DChange this condition so that it does not always evaluate to "false"(‘Ü²˜
+zsquid:S1488^"^Immediately return this expression instead of assigning it to the temporary variable "result".(òÅÑòûÿÿÿÿ
+zsquid:UselessImportCheck0"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ùàíşüÿÿÿÿ
+vsquid:S1149E"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(–Íçá
+vsquid:S1149O"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùÜ
+{squid:S1149m"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+|squid:S1149‘"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÁÎ¦äøÿÿÿÿ
+|squid:S1149µ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(”¿£®ıÿÿÿÿ
+|squid:S1149Ü"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ê…“ïÿÿÿÿÿ
+|squid:S1149İ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•ØÄƒúÿÿÿÿ
+|squid:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬Ü—Ëúÿÿÿÿ
+|squid:S1149¾"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½Ëª‰ÿÿÿÿÿ
+6squid:S2097["Add a type test to this method.(ÜÑã
+Nsquid:S5261™"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck¤""Add a default case to this switch.(œŒ¾ıÿÿÿÿ
+fsquid:S1871Æ"IThis case's code block is the same as the block for the case on line 193.(„òÒ’ÿÿÿÿÿ
+|squid:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬Ü—Ëúÿÿÿÿ
+|squid:S1149¾"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½Ëª‰ÿÿÿÿÿ
+osquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(Œô¹Ïşÿÿÿÿ
+h squid:LabelsShouldNotBeUsedCheckö";Refactor the code to remove this label and the need for it.(²°
+Jsquid:S1135"2Complete the task associated to this TODO comment.(¤–¸
+Asquid:S1125¢")Remove the literal "false" boolean value.(à½€Õ

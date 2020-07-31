@@ -1,0 +1,12 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+ysquid:S1192ä"\Define a constant instead of duplicating this literal "NO_MODIFICATION_ALLOWED_ERR" 4 times.(Ñ°°ßşÿÿÿÿ
+osquid:ModifiersOrderCheckg"EReorder the modifiers to comply with the Java Language Specification.(‚Ëıÿÿÿÿ
+isquid:ModifiersOrderCheckh"EReorder the modifiers to comply with the Java Language Specification.(îìún
+isquid:ModifiersOrderChecki"EReorder the modifiers to comply with the Java Language Specification.(›Û´n
+š%squid:RedundantThrowsDeclarationCheckß"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck¿"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckç"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+jsquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥Áêô
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

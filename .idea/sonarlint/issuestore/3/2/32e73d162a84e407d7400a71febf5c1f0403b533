@@ -1,0 +1,69 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+jsquid:S1192‰"RDefine a constant instead of duplicating this literal "NOT_SUPPORTED_ERR" 3 times.(•ì¥
+Gsquid:S1066¹"/Merge this if statement with the enclosing one.(¦®óÁ
+Gsquid:S1066	"/Merge this if statement with the enclosing one.(©¼İò
+Gsquid:S1066	"/Merge this if statement with the enclosing one.(©¼İò
+Gsquid:S1066É	"/Merge this if statement with the enclosing one.(©¼İò
+Gsquid:S1066ä
+"/Merge this if statement with the enclosing one.(©¼İò
+Vsquid:S1155®">Use isEmpty() to check whether the collection is empty or not.(€ùÙë
+squid:S1149{"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÜïçĞùÿÿÿÿ
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆ„’·şÿÿÿÿ
+msquid:S1149‚"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(áûÍ
+‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(É§ºıÿÿÿÿ
+}squid:S1149¦"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ïáõ¨
+‚squid:S1149÷"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ï¯àûùÿÿÿÿ
+‚squid:S1149¡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ï¯àûùÿÿÿÿ
+}squid:S1149Â"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Úè‰µ
+}squid:S1149³"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÆéÊš
+}squid:S1149È"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ËøªÔ
+}squid:S1149Ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(âàĞ
+‚squid:S1149å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ï¯àûùÿÿÿÿ
+}squid:S1149ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(âàĞ
+}squid:S1149ˆ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(âàĞ
+Bsquid:S1948{"&Make "iterators" private or transient.(ÜïçĞùÿÿÿÿ
+?squid:S1948"#Make "ranges" private or transient.(ˆ„’·şÿÿÿÿ
+Bsquid:S1948‚"+Make "eventListeners" private or transient.(áûÍ
+Wsquid:S1161½":Add the "@Override" annotation above this method signature(ÿñùÿÿÿÿ
+Rsquid:S1161Ó":Add the "@Override" annotation above this method signature(ùáø°
+Wsquid:S1161‰":Add the "@Override" annotation above this method signature(£Èƒÿÿÿÿÿ
+Wsquid:S1161š":Add the "@Override" annotation above this method signature(²Õşûÿÿÿÿ
+Rsquid:S1161¬":Add the "@Override" annotation above this method signature(€÷ğ¹
+š%squid:RedundantThrowsDeclarationCheckå"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Rsquid:S1161ø":Add the "@Override" annotation above this method signature(æƒ‰
+Wsquid:S1161‚":Add the "@Override" annotation above this method signature(‡ÏÆùÿÿÿÿ
+Csquid:S1168¨"+Return an empty collection instead of null.(¥¹ï
+Bsquid:S1948È"*Make "listener" transient or serializable.(†²¡
+Rsquid:S1161ë":Add the "@Override" annotation above this method signature(Ú»¡
+Rsquid:S1161š":Add the "@Override" annotation above this method signature(×­„
+Wsquid:S1161Á":Add the "@Override" annotation above this method signature(îß¢ôùÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(û¾ûùÿÿÿÿ
+Rsquid:S1854¸"5Remove this useless assignment to local variable "p".(íÕÚÌúÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(û¾ûùÿÿÿÿ
+Rsquid:S1161	":Add the "@Override" annotation above this method signature(¿¸äÍ
+Rsquid:S1161›	":Add the "@Override" annotation above this method signature(£Ñô›
+Wsquid:S1161·	":Add the "@Override" annotation above this method signature(ñóŸûÿÿÿÿ
+Rsquid:S1161Ç	":Add the "@Override" annotation above this method signature(ÎØ´
+jsquid:S3776Õ	"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(•…
+Rsquid:S1161Õ	":Add the "@Override" annotation above this method signature(•…
+jsquid:S3776™
+"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Úúú»
+Rsquid:S1161™
+":Add the "@Override" annotation above this method signature(Úúú»
+Rsquid:S1161ß
+":Add the "@Override" annotation above this method signature(ú­ìÎ
+Wsquid:S1161ğ
+":Add the "@Override" annotation above this method signature(©ñüøÿÿÿÿ
+Rsquid:S1161ü
+":Add the "@Override" annotation above this method signature(˜ÿ‚‹
+Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(Ä„ËÅşÿÿÿÿ
+Qsquid:S1161”":Add the "@Override" annotation above this method signature(è‡ò
+Rsquid:S1161¢":Add the "@Override" annotation above this method signature(ñ…ï
+Wsquid:S1161·":Add the "@Override" annotation above this method signature(•İçõøÿÿÿÿ
+Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(¬Êé™ÿÿÿÿÿ
+Wsquid:S1161ß":Add the "@Override" annotation above this method signature(“ŸëÃüÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ïë ¹
+csquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(¹É¹‡
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(¨Òô

@@ -1,0 +1,22 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
+csquid:S1192R"GDefine a constant instead of duplicating this literal "Class " 3 times.(çÂÑ×üÿÿÿÿ
+Lsquid:S1066‘"/Merge this if statement with the enclosing one.(©¹ì„úÿÿÿÿ
+Lsquid:S1066˜"/Merge this if statement with the enclosing one.(Ï¿Â¾úÿÿÿÿ
+Lsquid:S1066 "/Merge this if statement with the enclosing one.(•™ØÆùÿÿÿÿ
+Nsquid:S2589©"7Remove this expression which always evaluates to "true"(ƒ¨¹n
+Osquid:S2589ª"7Remove this expression which always evaluates to "true"(âèÕ¿
+Osquid:S2589«"7Remove this expression which always evaluates to "true"(¢ÀÕÆ
+Osquid:S2589ª"7Remove this expression which always evaluates to "true"(âèÕ¿
+2squid:S3626h"Remove this redundant jump.(ûÁÝ…
+osquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚Á£íüÿÿÿÿ
+_squid:S1854„"BRemove this useless assignment to local variable "exceptionTypes".(¹ ›„øÿÿÿÿ
+^squid:S3878¶"ADisambiguate this call by either casting as "Class" or "Class[]".(í÷Ç‹þÿÿÿÿ
+^squid:S3878Ñ"ADisambiguate this call by either casting as "Class" or "Class[]".(í÷Ç‹þÿÿÿÿ
+^squid:S3878ê"ADisambiguate this call by either casting as "Class" or "Class[]".(í÷Ç‹þÿÿÿÿ
+3squid:S3626Š"Remove this redundant jump.(ûÁÝ…
+3squid:S3626Þ"Remove this redundant jump.(ûÁÝ…
+3squid:S3626ˆ"Remove this redundant jump.(ûÁÝ…
+Psquid:S1481„"3Remove this unused "exceptionTypes" local variable.(¹ ›„øÿÿÿÿ
+bsquid:UnusedPrivateMethod¹"=Remove this unused private "validateDirectInterfaces" method.(÷à²W
+bsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(×æ—¡

@@ -1,0 +1,18 @@
+
+Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‰ŒÒş
+osquid:S1192€"WDefine a constant instead of duplicating this literal "utils.resolver.noClass" 5 times.(¿ßß
+dsquid:S00112ö"FDefine and throw a dedicated exception instead of using a generic one.(•ƒéÉşÿÿÿÿ
+usquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ôÙøûÿÿÿÿ
+Tsquid:S1197z"8Move the array designator from the variable to the type.(»êéşÿÿÿÿ
+Usquid:S1197Œ"8Move the array designator from the variable to the type.(»êéşÿÿÿÿ
+Usquid:S1197§"8Move the array designator from the variable to the type.(»êéşÿÿÿÿ
+Usquid:S1197¹"8Move the array designator from the variable to the type.(»êéşÿÿÿÿ
+\squid:CallToDeprecatedMethodß"3Remove this use of "newInstance"; it is deprecated.(¥Ê¤™
+]squid:S2147ƒ"ECombine this catch with the one at line 257, which has the same body.(Å¡ß
+]squid:S2147…"ECombine this catch with the one at line 257, which has the same body.(¯áè
+asquid:CallToDeprecatedMethod€"3Remove this use of "newInstance"; it is deprecated.(Äûò™şÿÿÿÿ
+qsquid:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åë÷¼
+\squid:CallToDeprecatedMethodÓ"3Remove this use of "newInstance"; it is deprecated.(¥Ê¤™
+vsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óñéıûÿÿÿÿ
+Wsquid:S1161ü":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
+Lsquid:EmptyStatementUsageCheckÿ"Remove this empty statement.(ôŸìúÿÿÿÿ

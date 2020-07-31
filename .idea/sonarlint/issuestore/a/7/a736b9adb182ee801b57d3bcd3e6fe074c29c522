@@ -1,0 +1,109 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
+dsquid:S1192Û"LDefine a constant instead of duplicating this literal ".readBits: " 4 times.(Ì¥ÊÒ
+rsquid:S1192"UDefine a constant instead of duplicating this literal ".finishReadingBits: " 4 times.(úÈÒÒøÿÿÿÿ
+Rsquid:S1444i"6Make this "public static dprintWriteLocks" field final(Üš’éıÿÿÿÿ
+dsquid:S3973É"GUse indentation to denote the code conditionally executed by this "if".(ìï¬äıÿÿÿÿ
+{squid:S1488Ù"^Immediately return this expression instead of assigning it to the temporary variable "result".(ôî¥àüÿÿÿÿ
+Rsquid:S1141”"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+"squid:ClassVariableVisibilityChecki"\Make dprintWriteLocks a static final constant or non-public and provide accessors if needed.(Üš’éıÿÿÿÿ
+Tsquid:S2589Æ"7Remove this expression which always evaluates to "true"(¦Äº£ùÿÿÿÿ
+Tsquid:S2589†"7Remove this expression which always evaluates to "true"(¦Äº£ùÿÿÿÿ
+_squid:S00112Õ"FDefine and throw a dedicated exception instead of using a generic one.(‚æŸó
+^squid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(¹–¬2
+dsquid:S00112è"FDefine and throw a dedicated exception instead of using a generic one.(ÛÑçÀøÿÿÿÿ
+dsquid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(Œ‘¹úÿÿÿÿ
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İû±Ç
+osquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àšğ“üÿÿÿÿ
+osquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Õìûÿÿÿÿ
+jsquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øºë
+jsquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉãÕÌ
+jsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»Æº
+jsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øºë
+jsquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉãÕÌ
+jsquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¬½ù
+osquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÌğÿùÿÿÿÿ
+}squid:UselessImportCheck["TRemove this unnecessary import: same package classes are always implicitly imported.(ç•É¨ûÿÿÿÿ
+csquid:UselessImportCheck-":Remove this unused import 'org.omg.CORBA.DATA_CONVERSION'.(®˜Ù‘øÿÿÿÿ
+rsquid:UselessImportCheckQ"NRemove this unused import 'com.sun.corba.se.impl.encoding.CDRInputStream_1_0'.(¸Šüï
+_squid:UselessImportCheck0";Remove this unused import 'org.omg.CORBA.OBJECT_NOT_EXIST'.(îÈ›±
+dsquid:UselessImportCheck$";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
+[squid:UselessImportCheck/"2Remove this unused import 'org.omg.CORBA.MARSHAL'.(Éªõºùÿÿÿÿ
+dsquid:UselessImportCheck5"@Remove this unused import 'com.sun.corba.se.pept.broker.Broker'.(„‘×î
+dsquid:UselessImportCheck%";Remove this unused import 'java.security.PrivilegedAction'.(£Şóšùÿÿÿÿ
+xsquid:UselessImportCheckS"ORemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputStream_1_0'.(·£­úùÿÿÿÿ
+Ysquid:UselessImportCheck'"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+ssquid:S00116Š"ZRename this field "clientReply_1_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æØÂğ
+usquid:S00116›"\Rename this field "serverRequest_1_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–±ô­
+|squid:S1149”"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í—ãüÿÿÿÿ
+wsquid:S1149¹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‚ùşÄ
+Bsquid:S1181á"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Asquid:S1125š")Remove the literal "false" boolean value.(”¿¢ò
+Asquid:S1125")Remove the literal "false" boolean value.(”¿¢ò
+osquid:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ø‘Â–ûÿÿÿÿ
+Bsquid:S1181å"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+Bsquid:S1181ß"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Xsquid:S1193ë"@Replace the usage of the "instanceof" operator by a catch block.(“®Óİ
+osquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(èÆşÿÿÿÿÿ
+Bsquid:S1181¨"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+Bsquid:S1181¢"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Xsquid:S1193®"@Replace the usage of the "instanceof" operator by a catch block.(“®Óİ
+osquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Äßè€üÿÿÿÿ
+Bsquid:S1181ê"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+Bsquid:S1181ä"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Xsquid:S1193ğ"@Replace the usage of the "instanceof" operator by a catch block.(“®Óİ
+^squid:S2142ø"FEither re-interrupt this method or rethrow the "InterruptedException".(Îë¯’
+>squid:S2129‰"!Remove this "Integer" constructor(©ôùÿÿÿÿ
+]squid:CallToDeprecatedMethod‰"/Remove this use of "Integer"; it is deprecated.(©ôùÿÿÿÿ
+9squid:S2129Š"!Remove this "Integer" constructor(Ïıˆ‘
+Xsquid:CallToDeprecatedMethodŠ"/Remove this use of "Integer"; it is deprecated.(Ïıˆ‘
+6squid:S2129Š"Remove this "Long" constructor(Ïıˆ‘
+Usquid:CallToDeprecatedMethodŠ",Remove this use of "Long"; it is deprecated.(Ïıˆ‘
+;squid:S2129‹"Remove this "Long" constructor(ğ“×àøÿÿÿÿ
+Zsquid:CallToDeprecatedMethod‹",Remove this use of "Long"; it is deprecated.(ğ“×àøÿÿÿÿ
+^squid:S2142¸"FEither re-interrupt this method or rethrow the "InterruptedException".(Îë¯’
+>squid:S2129É"!Remove this "Integer" constructor(©ôùÿÿÿÿ
+]squid:CallToDeprecatedMethodÉ"/Remove this use of "Integer"; it is deprecated.(©ôùÿÿÿÿ
+9squid:S2129Ê"!Remove this "Integer" constructor(Ïıˆ‘
+Xsquid:CallToDeprecatedMethodÊ"/Remove this use of "Integer"; it is deprecated.(Ïıˆ‘
+6squid:S2129Ê"Remove this "Long" constructor(Ïıˆ‘
+Usquid:CallToDeprecatedMethodÊ",Remove this use of "Long"; it is deprecated.(Ïıˆ‘
+;squid:S2129Ë"Remove this "Long" constructor(ğ“×àøÿÿÿÿ
+Zsquid:CallToDeprecatedMethodË",Remove this use of "Long"; it is deprecated.(ğ“×àøÿÿÿÿ
+Bsquid:S1181–"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+^squid:S1126ö"AReplace this if-then-else statement by a single return statement.(Ğ˜íñûÿÿÿÿ
+jsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(œÌñ¼
+csquid:S2142³"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+csquid:S2142É"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+Hsquid:S2446€"0"notify" may not wake up the appropriate thread.(Í´°¿
+jsquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÑŞ‡Ğ
+^squid:S2147š	"FCombine this catch with the one at line 1176, which has the same body.(Îâ×ß
+Bsquid:S1181ê	"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+>squid:S2129š
+"!Remove this "Integer" constructor(İ’ó·ıÿÿÿÿ
+]squid:CallToDeprecatedMethodš
+"/Remove this use of "Integer"; it is deprecated.(İ’ó·ıÿÿÿÿ
+>squid:S2129 
+"!Remove this "Integer" constructor(üçãøÿÿÿÿ
+]squid:CallToDeprecatedMethod 
+"/Remove this use of "Integer"; it is deprecated.(üçãøÿÿÿÿ
+9squid:S2129¥
+"!Remove this "Integer" constructor(ºÄÔë
+Xsquid:CallToDeprecatedMethod¥
+"/Remove this use of "Integer"; it is deprecated.(ºÄÔë
+dsquid:S2886Ø
+"LSynchronize this method to match the synchronization on "setCodeSetContext".(‰û–ı
+jsquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ºŞ®ª
+P
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(Ç­ï³
+Ssquid:S1481ÿ"6Remove this unused "completion_status" local variable.(ùÌğÿùÿÿÿÿ
+hsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(€‰ìŠüÿÿÿÿ
+hsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(£Ì¦Œûÿÿÿÿ
+hsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(€‰ìŠüÿÿÿÿ
+hsquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(£Ì¦Œûÿÿÿÿ
+hsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(€‰ìŠüÿÿÿÿ
+hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(Œ¾—Øøÿÿÿÿ
+csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(â¬£¼
+csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(äøø
+hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(™šäùÿÿÿÿ
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(¹ÌÊŸ

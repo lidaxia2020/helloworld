@@ -1,0 +1,8 @@
+
+fsquid:S1192¬"IDefine a constant instead of duplicating this literal "children" 3 times.(Éúæøÿÿÿÿ
+ˆsquid:S1192®"kDefine a constant instead of duplicating this literal "vetoableChangeSupportSerializedDataVersion" 3 times.(È·ôøÿÿÿÿ
+_squid:S1192­"GDefine a constant instead of duplicating this literal "source" 3 times.(Ö¢ñ‡
+ssquid:S1149š"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(„Œ€ÿÿÿÿÿ
+nsquid:S1149Á"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(†ıÍ
+osquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¿´Å¤úÿÿÿÿ
+Wsquid:S1068á":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ

@@ -1,0 +1,13 @@
+
+Lsquid:S1191+"5Use classes from the Java API instead of Sun classes.(éª‚€
+dsquid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(†ªĞ¼ıÿÿÿÿ
+dsquid:S00112›"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+_squid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+gsquid:S1610h"KConvert the abstract class "AtomicReferenceFieldUpdater" into an interface.(œŒşÿÿÿÿ
+vsquid:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¤¸ûÿÿÿÿ
+9squid:S1659‹""Declare "next" on a separate line.(Ó¨9
+9squid:S1659£""Declare "next" on a separate line.(Ó¨9
+9squid:S1659Á""Declare "next" on a separate line.(Ó¨9
+9squid:S1659ß""Declare "next" on a separate line.(Ó¨9
+usquid:S4144Ø"^Update this method so that its implementation is not identical to "compareAndSet" on line 464.(§Óø
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(‹ìÈ·

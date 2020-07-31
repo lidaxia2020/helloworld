@@ -1,0 +1,18 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ü©¬Øıÿÿÿÿ
+_squid:UselessImportCheck+";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+Usquid:UselessImportCheck,"1Remove this unused import 'java.util.Properties'.(¬µ²
+Msquid:UselessImportCheck-")Remove this unused import 'java.io.File'.(†Ğ¥Å
+dsquid:UselessImportCheck0";Remove this unused import 'java.security.PrivilegedAction'.(£Şóšùÿÿÿÿ
+dsquid:UselessImportCheck'";Remove this unused import 'java.rmi.NoSuchObjectException'.(òÇô›ûÿÿÿÿ
+isquid:UselessImportCheck)"@Remove this unused import 'java.rmi.server.UnicastRemoteObject'.(êÜŸûÿÿÿÿ
+]squid:UselessImportCheck*"4Remove this unused import 'org.omg.CORBA.BAD_PARAM'.(Š¡ë±ûÿÿÿÿ
+Psquid:UselessImportCheck&",Remove this unused import 'java.rmi.Remote'.(Ô¤ÈÓ
+Xsquid:UselessImportCheck."4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+P
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(©†åá
+^squid:S2130Æ"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(¡ºœÿÿÿÿÿ
+gsquid:S2886D"KSynchronize this method to match the synchronization on "setLocalCodebase".(¥²£­şÿÿÿÿ
+Gsquid:S00108Û")Either remove or fill this block of code.(÷­ë®úÿÿÿÿ
+_squid:CallToDeprecatedMethodá"1Remove this use of "loadClass"; it is deprecated.(ƒÓ‰ûÿÿÿÿ
+csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(û©á

@@ -1,0 +1,13 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ü©¬Øıÿÿÿÿ
+Bsquid:S2160,"+Override the "equals" method in this class.(×Éù
+usquid:S3008."YRename this field "MAX_CACHE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó£Ô»ùÿÿÿÿ
+psquid:S1450/"TRemove the "cache" field and declare it as a local variable in the relevant methods.(²¹”äşÿÿÿÿ
+gsquid:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(×Éù
+Bsquid:S2160_"+Override the "equals" method in this class.(Á„åÚ
+msquid:S1149_"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Á„åÚ
+Nsquid:S1068."2Remove this unused "MAX_CACHE_SIZE" private field.(Ó£Ô»ùÿÿÿÿ
+Esquid:S1068/")Remove this unused "cache" private field.(²¹”äşÿÿÿÿ
+gsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ÿÍòışÿÿÿÿ
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(á¢–¬
+gsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(õƒ†ôúÿÿÿÿ

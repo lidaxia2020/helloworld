@@ -1,0 +1,113 @@
+
+Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(·¸êÉ¯ˇˇˇˇ
+_squid:S1192˛"GDefine a constant instead of duplicating this literal ".class" 6 times.(Óßàé
+}squid:S1192Î"`Define a constant instead of duplicating this literal "getAssociatedStylesheets failed" 3 times.(«ÙÁù˚ˇˇˇˇ
+bsquid:S2095ö"EUse try-with-resources or close this "ZipFile" in a "finally" clause.(ï·∂‰˙ˇˇˇˇ
+o
+squid:S135√"YReduce the total number of break and continue statements in this loop to use at most one.(èì‚h
+Rsquid:S1141Œ"5Extract this nested try block into a separate method.(°ª¢¸˘ˇˇˇˇ
+Å"squid:ClassVariableVisibilityCheckÃ"RMake _media a static final constant or non-public and provide accessors if needed.(Â°îÓ
+Å"squid:ClassVariableVisibilityCheckÕ"RMake _title a static final constant or non-public and provide accessors if needed.(êÖ€â
+à"squid:ClassVariableVisibilityCheckŒ"TMake _charset a static final constant or non-public and provide accessors if needed.(üÀÅó˘ˇˇˇˇ
+@squid:S1604∫"(Make this anonymous inner class a lambda(ÌË«
+jsquid:S00117∏"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ê€œ
+rsquid:S00116Å"YRename this field "_errorListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨»∏ˆ
+psquid:S00116â"WRename this field "_uriResolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ïëÓ
+vsquid:S00116¢"XRename this field "_transletName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë◊ßÑ˛ˇˇˇˇ
+~squid:S00116™"`Rename this field "_destinationDirectory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Åæ¶˙ˇˇˇˇ
+osquid:S00116≤"WRename this field "_packageName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≈¯Ñ#
+psquid:S00116∫"WRename this field "_jarFileName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’˚Ñ©
+rsquid:S00116√"TRename this field "_piParams" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãò≤Í˝ˇˇˇˇ
+osquid:S00116›"QRename this field "_debug" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄΩπÚ˝ˇˇˇˇ
+xsquid:S00116Â"ZRename this field "_enableInlining" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‚˜™˚ˇˇˇˇ
+usquid:S00116Ó"\Rename this field "_generateTranslet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôäë†
+vsquid:S00116˘"XRename this field "_autoTranslet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É˙ó∏˛ˇˇˇˇ
+qsquid:S00116Ç"XRename this field "_useClasspath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á®∆…
+qsquid:S00116ä"XRename this field "_indentNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˙« ¨
+squid:S00116í"aRename this field "_isNotSecureProcessing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ôä’ˇˇˇˇˇ
+qsquid:S00116ô"XRename this field "_isSecureMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôßÎØ
+~squid:S00116£"`Rename this field "_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÙÙ≤¯ˇˇˇˇ
+Çsquid:S00116´"dRename this field "_accessExternalStylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀØÆí¸ˇˇˇˇ
+{squid:S00116≤"]Rename this field "_accessExternalDTD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˇÌº¶¯ˇˇˇˇ
+{squid:S00116¥"bRename this field "_xmlSecurityPropertyMgr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø°¸Â
+|squid:S00116µ"^Rename this field "_xmlSecurityManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‡Ò’˛ˇˇˇˇ
+xsquid:S00116∑"ZRename this field "_featureManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ó„˜˛ˇˇˇˇ
+ysquid:S00116π"`Rename this field "_extensionClassLoader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°üì◊
+Åsquid:S00116æ"cRename this field "_xsltcExtensionFunctions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÃñÀ˚ˇˇˇˇ
+ssquid:S1149√"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ãò≤Í˝ˇˇˇˇ
+Çsquid:S1149π"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜õ‰‰˝ˇˇˇˇ
+Çsquid:S1149”"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÛÆﬁî˝ˇˇˇˇ
+|squid:S1149é	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µòà)
+}squid:S1149ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(πáºó
+}squid:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(πáºó
+jsquid:ModifiersOrderChecko"EReorder the modifiers to comply with the Java Language Specification.(≈≥™˘
+jsquid:ModifiersOrderCheckp"EReorder the modifiers to comply with the Java Language Specification.(ê¥Œ®
+jsquid:ModifiersOrderCheckq"EReorder the modifiers to comply with the Java Language Specification.(¯ÊŒ´
+osquid:ModifiersOrderCheckr"EReorder the modifiers to comply with the Java Language Specification.(µá∏Å¯ˇˇˇˇ
+jsquid:ModifiersOrderChecks"EReorder the modifiers to comply with the Java Language Specification.( ¯ÙÈ
+osquid:ModifiersOrderCheckt"EReorder the modifiers to comply with the Java Language Specification.(¸·ÿﬂ˘ˇˇˇˇ
+osquid:ModifiersOrderChecku"EReorder the modifiers to comply with the Java Language Specification.(ÂçÂÓ˝ˇˇˇˇ
+jsquid:ModifiersOrderCheckv"EReorder the modifiers to comply with the Java Language Specification.(ˆ›ÕÖ
+osquid:ModifiersOrderCheckw"EReorder the modifiers to comply with the Java Language Specification.(˚€äâ˙ˇˇˇˇ
+jsquid:ModifiersOrderCheckx"EReorder the modifiers to comply with the Java Language Specification.(©µ∏Í
+psquid:ModifiersOrderCheckö"EReorder the modifiers to comply with the Java Language Specification.(∂∏∂•˙ˇˇˇˇ
+jsquid:S00116Ã"QRename this field "_media" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â°îÓ
+jsquid:S00116Õ"QRename this field "_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÖ€â
+qsquid:S00116Œ"SRename this field "_charset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÀÅó˘ˇˇˇˇ
+ü%squid:RedundantThrowsDeclarationCheck¯"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¿ìıƒ
+ü%squid:RedundantThrowsDeclarationCheckü"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¿ìıƒ
+jsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(âîÈ¯
+9squid:S2129¶"!Remove this "Boolean" constructor(ƒÏõ≤
+Xsquid:CallToDeprecatedMethod¶"/Remove this use of "Boolean"; it is deprecated.(ƒÏõ≤
+9squid:S2129©"!Remove this "Boolean" constructor(õ®° 
+Xsquid:CallToDeprecatedMethod©"/Remove this use of "Boolean"; it is deprecated.(õ®° 
+ü%squid:RedundantThrowsDeclarationCheck÷"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¿ìıƒ
+jsquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ß–Ä±
+~squid:S3252º"aUse static access with "com.sun.org.apache.xalan.internal.utils.FeaturePropertyBase" for "State".(Îœ¨„¸ˇˇˇˇ
+3squid:S3626è"Remove this redundant jump.(˚¡›Ö
+jsquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(◊€©Å
+Gsquid:S00108—")Either remove or fill this block of code.(¢∞®˘ˇˇˇˇˇ
+Jsquid:S2755ÿ"-Disable XML external entity (XXE) processing.(Åáº“¸ˇˇˇˇ
+fsquid:CallToDeprecatedMethodÿ"8Remove this use of "XMLReaderFactory"; it is deprecated.(Åáº“¸ˇˇˇˇ
+osquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(≥£îÄ¯ˇˇˇˇ
+U
+squid:S106°"9Replace this use of System.out or System.err by a logger.(›ÙÌä˛ˇˇˇˇ
+U
+squid:S106§"9Replace this use of System.out or System.err by a logger.(›ÙÌä˛ˇˇˇˇ
+_squid:S1126≤"BReplace this if-then-else statement by a single method invocation.(Œãïˆ˚ˇˇˇˇ
+Bsquid:S00108¯")Either remove or fill this block of code.(óˆÒ¸
+Lsquid:S3984»
+"5Throw this exception or remove this useless statement(¯¨¬O
+P
+squid:S106‰
+"9Replace this use of System.out or System.err by a logger.(Å£ÎÍ
+P
+squid:S106Ë
+"9Replace this use of System.out or System.err by a logger.(ó∫˙à
+U
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(ÂÂ†¯¸ˇˇˇˇ
+P
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(±ÊÄï
+U
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(è¯Û¶¯ˇˇˇˇ
+P
+squid:S106´"9Replace this use of System.out or System.err by a logger.(áÀ∆Ó
+osquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(˛‡Üù˝ˇˇˇˇ
+>squid:S1168Ï"&Return an empty array instead of null.(•πÔç
+>squid:S1075˛"&Remove this hard-coded path-delimiter.(Óßàé
+>squid:S1075Ç"&Remove this hard-coded path-delimiter.(∞˘§≤
+>squid:S1168ä"&Return an empty array instead of null.(•πÔç
+>squid:S1168î"&Return an empty array instead of null.(•πÔç
+>squid:S1168†"&Return an empty array instead of null.(•πÔç
+>squid:S1168©"&Return an empty array instead of null.(•πÔç
+>squid:S1168Ø"&Return an empty array instead of null.(•πÔç
+>squid:S1168È"&Return an empty array instead of null.(•πÔç
+jsquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(’Äê™
+Csquid:S1075Å"&Remove this hard-coded path-delimiter.(É◊ûÛ˚ˇˇˇˇ
+Csquid:S1075Ñ"&Remove this hard-coded path-delimiter.(Ω˚’‡˘ˇˇˇˇ
+>squid:S1168å"&Return an empty array instead of null.(•πÔç
+>squid:S1168î"&Return an empty array instead of null.(•πÔç
+>squid:S1168ù"&Return an empty array instead of null.(•πÔç
+>squid:S1168ª"&Return an empty array instead of null.(•πÔç
+>squid:S1168À"&Return an empty array instead of null.(•πÔç
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

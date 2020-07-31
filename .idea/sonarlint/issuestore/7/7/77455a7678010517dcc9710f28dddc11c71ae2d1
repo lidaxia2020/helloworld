@@ -1,0 +1,27 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+ksquid:S1192·"NDefine a constant instead of duplicating this literal "NOT_FOUND_ERR" 3 times.(«ĞÙùÿÿÿÿ
+xsquid:S1192j"\Define a constant instead of duplicating this literal "NO_MODIFICATION_ALLOWED_ERR" 4 times.(Ñ°°ßşÿÿÿÿ
+[squid:S2259â"CA "NullPointerException" could be thrown; "nodes" is nullable here.(µçŠ˜
+Vsquid:S1155ë">Use isEmpty() to check whether the collection is empty or not.(§ĞÛÒ
+™%squid:RedundantThrowsDeclarationChecke"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+nsquid:S3776d"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(š¤ó¢üÿÿÿÿ
+Vsquid:S1161d":Add the "@Override" annotation above this method signature(š¤ó¢üÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck¯"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+jsquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¢˜õ
+Rsquid:S1161®":Add the "@Override" annotation above this method signature(¢˜õ
+š%squid:RedundantThrowsDeclarationCheck‡"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(–¯Ä¦
+š%squid:RedundantThrowsDeclarationCheckª"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+ksquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(”Û¡ü
+š%squid:RedundantThrowsDeclarationCheck¨"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Qsquid:S1161§":Add the "@Override" annotation above this method signature(×ÄÂc
+jsquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Šåá¦
+ksquid:ModifiersOrderCheck¿"EReorder the modifiers to comply with the Java Language Specification.(Šåá¦
+Wsquid:S1161™":Add the "@Override" annotation above this method signature(Ê¼÷Ìúÿÿÿÿ
+Wsquid:S1161§":Add the "@Override" annotation above this method signature(¨¼òÊùÿÿÿÿ
+Rsquid:S1161€":Add the "@Override" annotation above this method signature(ÛÏà
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(•¡ÿ”ûÿÿÿÿ
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(•¡ÿ”ûÿÿÿÿ
+hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(•¡ÿ”ûÿÿÿÿ

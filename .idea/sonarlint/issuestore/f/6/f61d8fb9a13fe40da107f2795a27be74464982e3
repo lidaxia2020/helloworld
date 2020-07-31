@@ -1,0 +1,31 @@
+
+esquid:S3824™"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ƒ™S
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(áÈà®þÿÿÿÿ
+‡squid:S1319õ"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(²šÀ€
+Šsquid:S1319ö"mThe type of the "env" object should be an interface such as "Map" rather than the implementation "Hashtable".(­ã¡æýÿÿÿÿ
+…squid:S1319Â"mThe type of the "env" object should be an interface such as "Map" rather than the implementation "Hashtable".(ö©Â
+Šsquid:S1319Ž"mThe type of the "env" object should be an interface such as "Map" rather than the implementation "Hashtable".(è†ìúûÿÿÿÿ
+Šsquid:S1319ë"mThe type of the "env" object should be an interface such as "Map" rather than the implementation "Hashtable".(´‹íÍÿÿÿÿÿ
+Psquid:S2589Î"8Remove this expression which always evaluates to "false"(‚¿Á¨
+Qsquid:S4973ß"9Use the "equals" method if value comparison was intended.(ÿÐÀÃ
+[squid:S1155¥">Use isEmpty() to check whether the collection is empty or not.(›ÙÁœýÿÿÿÿ
+nsquid:S1149õ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(²šÀ€
+ssquid:S1149ö"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(­ã¡æýÿÿÿÿ
+nsquid:S1149Â"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ö©Â
+ssquid:S1149Ž"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(è†ìúûÿÿÿÿ
+ssquid:S1149ë"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(´‹íÍÿÿÿÿÿ
+nsquid:S1149À"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(’ÂÄ–
+nsquid:S1149Ê"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¯š¥Ð
+nsquid:S1149ú"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(íÅ½
+nsquid:S1149€"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Û¾çó
+nsquid:S1149É"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(›ÞË¹
+msquid:S1149Ê"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¾øë"
+>squid:S1452õ"&Remove usage of generic wildcard type.(²šÀ€
+>squid:S1452õ"&Remove usage of generic wildcard type.(²šÀ€
+jsquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(²šÀ€
+\squid:CallToDeprecatedMethodý".Remove this use of "APPLET"; it is deprecated.(õß“Òúÿÿÿÿ
+osquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´‹íÍÿÿÿÿÿ
+asquid:CallToDeprecatedMethod˜"3Remove this use of "newInstance"; it is deprecated.(ÒÀÌÿþÿÿÿÿ
+csquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(»ƒÎá
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(¢˜œ“
+hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(”ý¼üÿÿÿÿ

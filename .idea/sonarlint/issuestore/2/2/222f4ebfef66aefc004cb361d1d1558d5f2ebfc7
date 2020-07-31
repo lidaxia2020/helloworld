@@ -1,0 +1,10 @@
+
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
+fsquid:S2095R"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ß— ùÿÿÿÿ
+bsquid:S2095`"KUse try-with-resources or close this "SocketChannel" in a "finally" clause.(×¦ã
+hsquid:S2095O"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(ğô¿Ÿ
+`squid:S2095c"DUse try-with-resources or close this "Socket" in a "finally" clause.(¨Á±¥üÿÿÿÿ
+Dsquid:S16045"(Make this anonymous inner class a lambda(»Üëùÿÿÿÿ
+rsquid:S001151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ¸šÀ
+=squid:S2129;"!Remove this "Boolean" constructor(„‡ÇÌÿÿÿÿÿ
+\squid:CallToDeprecatedMethod;"/Remove this use of "Boolean"; it is deprecated.(„‡ÇÌÿÿÿÿÿ

@@ -1,0 +1,110 @@
+
+Š squid:ForLoopCounterChangedCheckë"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+Lsquid:S1066„"/Merge this if statement with the enclosing one.(ıÒ®Æûÿÿÿÿ
+Gsquid:S1066š"/Merge this if statement with the enclosing one.(Ÿ½¯À
+Gsquid:S1066£"/Merge this if statement with the enclosing one.(¨Ÿàû
+Lsquid:S1066ı"/Merge this if statement with the enclosing one.(µíãåşÿÿÿÿ
+u
+squid:S135Ş"YReduce the total number of break and continue statements in this loop to use at most one.(Ôœ«†ùÿÿÿÿ
+gsquid:S2259İ"J"NullPointerException" will be thrown when invoking method "initialize()".(ë…¾øşÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ääó
+osquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¹ÆŸûÿÿÿÿ
+osquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·±ôúıÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä–¿
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä–¿
+jsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ìËÁ
+jsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ìËÁ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢¯áüÿÿÿÿ
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÜ‘ê
+osquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ€ƒæşÿÿÿÿ
+osquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îï›òıÿÿÿÿ
+osquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îï›òıÿÿÿÿ
+osquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßªƒíıÿÿÿÿ
+osquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÀƒÆûÿÿÿÿ
+jsquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñò¤
+jsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ²ˆŠ
+isquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úöˆr
+osquid:S00117£	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó˜é¾ÿÿÿÿÿ
+osquid:S00117À	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎĞå¥øÿÿÿÿ
+jsquid:S00117ı	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¬Š
+osquid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÅØ‰üÿÿÿÿ
+osquid:S00117Ã
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÕƒ£úÿÿÿÿ
+osquid:S00117ä
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ë«îùÿÿÿÿ
+jsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºøú•
+jsquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÀ¬
+osquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âşüìşÿÿÿÿ
+jsquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹çªÕ
+osquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…½ò‰ÿÿÿÿÿ
+osquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¼ßÚıÿÿÿÿ
+osquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºå¤ÿøÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÒßÁüÿÿÿÿ
+jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Œ·Ä
+osquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ó÷’øÿÿÿÿ
+osquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¢Ñãÿÿÿÿÿ
+isquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—“©=
+msquid:S3008Í"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚ÆÖûÿÿÿÿ
+lsquid:S00116¡"SRename this field "m_scheme" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¾„î
+msquid:S00116§"URename this field "m_userinfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â£æX
+osquid:S00116­"QRename this field "m_host" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¹ª×úÿÿÿÿ
+osquid:S00116³"QRename this field "m_port" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶†¤õùÿÿÿÿ
+osquid:S00116¹"QRename this field "m_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬î ûÿÿÿÿ
+qsquid:S00116Ä"XRename this field "m_queryString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ùµ
+nsquid:S00116Ê"URename this field "m_fragment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÖË¥
+osquid:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(Îï›òıÿÿÿÿ
+Ysquid:S1854–"<Remove this useless assignment to local variable "testChar".(ÅıŠİúÿÿÿÿ
+Qsquid:S1854ÿ"9Remove this useless assignment to local variable "index".(ìŞ™¬
+Qsquid:S1854"9Remove this useless assignment to local variable "index".(ìŞ™¬
+`squid:S4635"HReplace "startsWith" with the overload that accepts an offset parameter.(ÒåŞ¦
+Ysquid:S1854Å"<Remove this useless assignment to local variable "testChar".(ÅıŠİúÿÿÿÿ
+osquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(íÀƒÆûÿÿÿÿ
+jsquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ñò¤
+osquid:S3776À	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÎĞå¥øÿÿÿÿ
+Ysquid:S1854Ó	"<Remove this useless assignment to local variable "testChar".(ÅıŠİúÿÿÿÿ
+osquid:S3776ä
+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›Ë«îùÿÿÿÿ
+Csquid:S1075ù
+"&Remove this hard-coded path-delimiter.(‚·ˆáıÿÿÿÿ
+Csquid:S1075"&Remove this hard-coded path-delimiter.(¦Ë¯€ÿÿÿÿÿ
+osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Âşüìşÿÿÿÿ
+osquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(…½ò‰ÿÿÿÿÿ
+3squid:S3626ó"Remove this redundant jump.(ÉŠ©ƒ
+Ysquid:S1854Ü"<Remove this useless assignment to local variable "testChar".(ÅıŠİúÿÿÿÿ
+Fsquid:S1068Í")Remove this unused "DEBUG" private field.(Ö‚ÆÖûÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(’­‘î
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(»˜ÿÏ
+bsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(ÿá‹^
+hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(³¡¼úúÿÿÿÿ
+csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(–ö­¨
+csquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(ƒÉË
+csquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(€Å“ÿ
+hsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(»½£îıÿÿÿÿ
+hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(â˜á¿ûÿÿÿÿ
+csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(Í‘ÅË
+hsquid:CommentedOutCodeLine¨	"<This block of commented-out lines of code should be removed.(Ë’şÿÿÿÿ
+hsquid:CommentedOutCodeLine­	"<This block of commented-out lines of code should be removed.(õ„öøÿÿÿÿ
+hsquid:CommentedOutCodeLineˆ
+"<This block of commented-out lines of code should be removed.(î¨ßÒûÿÿÿÿ
+csquid:CommentedOutCodeLine¥
+"<This block of commented-out lines of code should be removed.(£÷ŒÒ
+hsquid:CommentedOutCodeLineª
+"<This block of commented-out lines of code should be removed.(Š«öØúÿÿÿÿ
+csquid:CommentedOutCodeLineî
+"<This block of commented-out lines of code should be removed.(·±çî
+csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(á”²
+hsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(˜”ßùÿÿÿÿ
+csquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(‡˜ìü

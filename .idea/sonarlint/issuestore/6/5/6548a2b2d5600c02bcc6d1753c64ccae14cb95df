@@ -1,0 +1,7 @@
+
+9squid:S1214c""Move constants to a class or enum.(‡í
+¯%squid:RedundantThrowsDeclarationCheck‚"xRemove the declaration of thrown exception 'java.rmi.AccessException' which is a subclass of 'java.rmi.RemoteException'.(ãÔÏáøÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.rmi.AccessException' which is a subclass of 'java.rmi.RemoteException'.(¬Ù™øÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheck¸"xRemove the declaration of thrown exception 'java.rmi.AccessException' which is a subclass of 'java.rmi.RemoteException'.(ãÔÏáøÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheckÔ"xRemove the declaration of thrown exception 'java.rmi.AccessException' which is a subclass of 'java.rmi.RemoteException'.(¤Â¾Úøÿÿÿÿ
+ª%squid:RedundantThrowsDeclarationChecké"xRemove the declaration of thrown exception 'java.rmi.AccessException' which is a subclass of 'java.rmi.RemoteException'.(ª•œø

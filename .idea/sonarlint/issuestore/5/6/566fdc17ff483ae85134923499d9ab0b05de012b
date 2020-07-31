@@ -1,0 +1,24 @@
+
+… squid:ForLoopCounterChangedCheckœ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+… squid:ForLoopCounterChangedCheckÆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+… squid:ForLoopCounterChangedCheckÊ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+Lsquid:S1191)"5Use classes from the Java API instead of Sun classes.(Û«ê
+Gsquid:S1066´"/Merge this if statement with the enclosing one.(É„Æ
+_$squid:AssignmentInSubExpressionCheckË".Extract the assignment out of this expression.(Š»é
+]squid:UselessImportCheck":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È
+[squid:UselessImportCheck"7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸
+Vsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+Ysquid:UselessImportCheck "0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+dsquid:UselessImportCheck(";Remove this unused import 'java.security.PrivilegedAction'.(£Şóšùÿÿÿÿ
+esquid:UselessImportCheck)"ARemove this unused import 'sun.security.action.GetBooleanAction'.(Û«ê
+rsquid:S00115i"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëÃ˜“
+wsquid:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(İæŒª
+Rsquid:S1133Ô"5Do not forget to remove this deprecated code someday.(Ñ†Áùÿÿÿÿ
+jsquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Ç¹¨¤
+]squid:S2147"ECombine this catch with the one at line 268, which has the same body.(Î ÷½
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Èú´éÿÿÿÿÿ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ôù˜
+hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(–æÉ½ùÿÿÿÿ
+hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(¬Î—ùÿÿÿÿ
+csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(Üç°
+csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(¿±äş

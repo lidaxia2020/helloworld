@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö²‰ô
+jsquid:S001016"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸®Ö„úÿÿÿÿ
+isquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¯“²
+nsquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ç†óúÿÿÿÿ
+nsquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ç†óúÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+jsquid:UselessImportCheck&"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.GIOPVersion'.(Å¯›ë
+rsquid:S00116<"URename this field "request_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ²Öÿÿÿÿÿ
+psquid:S00116="XRename this field "locate_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÙÁª
+Bsquid:S1905<"&Remove this unnecessary cast to "int".(µ²Öÿÿÿÿÿ
+=squid:S1905="&Remove this unnecessary cast to "int".(¯ÙÁª

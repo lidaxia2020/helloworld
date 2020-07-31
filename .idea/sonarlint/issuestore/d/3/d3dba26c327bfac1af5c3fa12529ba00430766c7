@@ -1,0 +1,77 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+]squid:S1192¿"FDefine a constant instead of duplicating this literal " \n\t" 3 times.(á™Ù
+˜squid:S1186z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½‚ã§
+nsquid:S00116H"QRename this field "_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í©¤ùÿÿÿÿ
+wsquid:S00116Q"_Rename this field "_currentDocumentNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ñÛÑ
+rsquid:S00116Y"ZRename this field "_rootToIndexMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÄŠÖ
+isquid:S00116b"QRename this field "_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¼ù‘
+lsquid:S00116k"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹¯¢şÿÿÿÿ
+osquid:S00116m"WRename this field "_enhancedDOM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û˜·
+rsquid:S00116u"ZRename this field "_markedPosition" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨µø
+Qsquid:S1161z":Add the "@Override" annotation above this method signature(½‚ã§
+>squid:S2129ˆ"!Remove this "Integer" constructor(—¾™¦ÿÿÿÿÿ
+]squid:CallToDeprecatedMethodˆ"/Remove this use of "Integer"; it is deprecated.(—¾™¦ÿÿÿÿÿ
+Rsquid:S1133¡"5Do not forget to remove this deprecated code someday.(Ô¦™ÿÿÿÿÿ
+Usquid:MissingDeprecatedCheck¡"'Add the missing @Deprecated annotation.(Ô¦™ÿÿÿÿÿ
+Msquid:S1133º"5Do not forget to remove this deprecated code someday.(«ÚùŠ
+Psquid:MissingDeprecatedCheckº"'Add the missing @Deprecated annotation.(«ÚùŠ
+>squid:S2129æ"!Remove this "Integer" constructor(¼ŞÙàùÿÿÿÿ
+]squid:CallToDeprecatedMethodæ"/Remove this use of "Integer"; it is deprecated.(¼ŞÙàùÿÿÿÿ
+Rsquid:S1133ˆ"5Do not forget to remove this deprecated code someday.(¢±¡¶ùÿÿÿÿ
+Usquid:MissingDeprecatedCheckˆ"'Add the missing @Deprecated annotation.(¢±¡¶ùÿÿÿÿ
+Msquid:S1133˜"5Do not forget to remove this deprecated code someday.(¯¨°°
+Psquid:MissingDeprecatedCheck˜"'Add the missing @Deprecated annotation.(¯¨°°
+>squid:S2129·"!Remove this "Integer" constructor(ğ¢±àüÿÿÿÿ
+]squid:CallToDeprecatedMethod·"/Remove this use of "Integer"; it is deprecated.(ğ¢±àüÿÿÿÿ
+>squid:S2129ï"!Remove this "Integer" constructor(ğ¢±àüÿÿÿÿ
+]squid:CallToDeprecatedMethodï"/Remove this use of "Integer"; it is deprecated.(ğ¢±àüÿÿÿÿ
+Msquid:S1133†"5Do not forget to remove this deprecated code someday.(üÿÆ‰
+Psquid:MissingDeprecatedCheck†"'Add the missing @Deprecated annotation.(üÿÆ‰
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(üÿÆ‰
+Msquid:S1133•"5Do not forget to remove this deprecated code someday.(›ëı™
+Psquid:MissingDeprecatedCheck•"'Add the missing @Deprecated annotation.(›ëı™
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(›ëı™
+Rsquid:S1133£"5Do not forget to remove this deprecated code someday.(¶ÂÀèùÿÿÿÿ
+Usquid:MissingDeprecatedCheck£"'Add the missing @Deprecated annotation.(¶ÂÀèùÿÿÿÿ
+Wsquid:S1161£":Add the "@Override" annotation above this method signature(¶ÂÀèùÿÿÿÿ
+Msquid:S1133±"5Do not forget to remove this deprecated code someday.(ª³í
+Psquid:MissingDeprecatedCheck±"'Add the missing @Deprecated annotation.(ª³í
+Msquid:S1133¿"5Do not forget to remove this deprecated code someday.(‡ÀÃœ
+Psquid:MissingDeprecatedCheck¿"'Add the missing @Deprecated annotation.(‡ÀÃœ
+Rsquid:S1133Ï"5Do not forget to remove this deprecated code someday.(òøÀùüÿÿÿÿ
+Usquid:MissingDeprecatedCheckÏ"'Add the missing @Deprecated annotation.(òøÀùüÿÿÿÿ
+Jsquid:S1905Ö"2Remove this unnecessary cast to "DTMAxisIterator".(ùå©‰
+Msquid:S1133å"5Do not forget to remove this deprecated code someday.(§øªÁ
+Psquid:MissingDeprecatedCheckå"'Add the missing @Deprecated annotation.(§øªÁ
+Rsquid:S1161å":Add the "@Override" annotation above this method signature(§øªÁ
+Rsquid:S1133ó"5Do not forget to remove this deprecated code someday.(ÍïŸúúÿÿÿÿ
+Usquid:MissingDeprecatedCheckó"'Add the missing @Deprecated annotation.(ÍïŸúúÿÿÿÿ
+Wsquid:S1161ó":Add the "@Override" annotation above this method signature(ÍïŸúúÿÿÿÿ
+Msquid:S1133"5Do not forget to remove this deprecated code someday.(À÷ÖÚ
+Psquid:MissingDeprecatedCheck"'Add the missing @Deprecated annotation.(À÷ÖÚ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(À÷ÖÚ
+Jsquid:S1905‡"2Remove this unnecessary cast to "DTMAxisIterator".(¿Òåá
+psquid:ModifiersOrderCheckå"EReorder the modifiers to comply with the Java Language Specification.(’ÇàÇıÿÿÿÿ
+osquid:S00116ú"QRename this field "_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚‘ûÿÿÿÿ
+usquid:S00116‰"\Rename this field "_keyValueIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¿½»
+msquid:S00116˜"TRename this field "_keyValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êá…é
+rsquid:S00116¢"YRename this field "_isKeyIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øšğ
+osquid:S00116¶"QRename this field "_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚‘ûÿÿÿÿ
+msquid:S00116¿"TRename this field "_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŸã
+vsquid:S00116È"XRename this field "_markPosition" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÆÄøÿÿÿÿ
+Rsquid:S1161ô":Add the "@Override" annotation above this method signature(É»ç
+Rsquid:S1161†":Add the "@Override" annotation above this method signature(ª³í
+Rsquid:S1161":Add the "@Override" annotation above this method signature(‡ÀÃœ
+osquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¨Ñüÿÿÿÿÿ
+>squid:S2129õ"!Remove this "Integer" constructor(â„Ç§ûÿÿÿÿ
+]squid:CallToDeprecatedMethodõ"/Remove this use of "Integer"; it is deprecated.(â„Ç§ûÿÿÿÿ
+Rsquid:S1161«":Add the "@Override" annotation above this method signature(¸Öƒ
+Rsquid:S1161Â":Add the "@Override" annotation above this method signature(¯¨°°
+Rsquid:S1161á":Add the "@Override" annotation above this method signature(üÿÆ‰
+osquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(è±¹¯ÿÿÿÿÿ
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(è±¹¯ÿÿÿÿÿ
+Rsquid:S1161µ":Add the "@Override" annotation above this method signature(›ëı™
+Rsquid:S1161Å":Add the "@Override" annotation above this method signature(’²­§
+Vsquid:S1481†"9Remove this unused "retrievedKeyValueIdx" local variable.(Ì“®Æıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

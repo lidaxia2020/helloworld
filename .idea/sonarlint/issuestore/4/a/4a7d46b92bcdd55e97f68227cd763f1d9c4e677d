@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(íÙìžûÿÿÿÿ
+4squid:S1165G"Make this "path" field final.(÷ÍºÍ
+=squid:S1948G"&Make "path" transient or serializable.(÷ÍºÍ
+fsquid:S2272¼"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Êó¯Þ
+Wsquid:S1161Â":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ

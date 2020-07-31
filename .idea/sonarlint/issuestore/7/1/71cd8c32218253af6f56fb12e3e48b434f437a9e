@@ -1,0 +1,21 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+ssquid:S1192ä"VDefine a constant instead of duplicating this literal "INVALID_CHARACTER_ERR" 4 times.(Ä—µ•ùÿÿÿÿ
+Qsquid:S4973Ê"9Use the "equals" method if value comparison was intended.(ãÜÈ˜
+Qsquid:S4973Ú"9Use the "equals" method if value comparison was intended.(Æ±ˆ—
+Qsquid:S4973î"9Use the "equals" method if value comparison was intended.(ãÜÈ˜
+Qsquid:S4973ù"9Use the "equals" method if value comparison was intended.(Æ±ˆ—
+Tsquid:S1197V"8Move the array designator from the variable to the type.(”µÎ»şÿÿÿÿ
+Osquid:S1197X"8Move the array designator from the variable to the type.(ğÁ§
+osquid:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¿¥Ô´úÿÿÿÿ
+Usquid:S1197•"8Move the array designator from the variable to the type.(ûôõ—üÿÿÿÿ
+?squid:S1872—"'Use an "instanceof" comparison instead.(ì‡µ¦
+š%squid:RedundantThrowsDeclarationCheck¬"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+Usquid:S1197É"8Move the array designator from the variable to the type.(ûôõ—üÿÿÿÿ
+?squid:S1872Ë"'Use an "instanceof" comparison instead.(ì‡µ¦
+asquid:CallToDeprecatedMethodÍ"3Remove this use of "newInstance"; it is deprecated.(ƒ®ÎŒÿÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheckŒ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
+bsquid:CallToDeprecatedMethodµ"9Remove this use of "DOMSerializerImpl"; it is deprecated.(Âïü¨
+Usquid:S1197ó"8Move the array designator from the variable to the type.(®¤‹şÿÿÿÿ
+Usquid:S1197ş"8Move the array designator from the variable to the type.(®¤‹şÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

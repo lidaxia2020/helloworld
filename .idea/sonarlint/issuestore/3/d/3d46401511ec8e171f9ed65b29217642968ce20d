@@ -1,0 +1,4 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(·£þŒþÿÿÿÿ
+qsquid:S12019"UEither override Object.equals(Object), or rename the method to prevent any confusion.(—™Ö—øÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

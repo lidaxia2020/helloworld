@@ -1,0 +1,31 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(©î¹ÿûÿÿÿÿ
+usquid:S1488¤"]Immediately return this expression instead of assigning it to the temporary variable "netif".(®Äª
+fsquid:S00101†"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿù®Ë
+esquid:S00101å"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò‰²E
+?squid:S1604@"(Make this anonymous inner class a lambda(’­Ûü
+rsquid:S00115<"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÁÍ
+Osquid:S11976"8Move the array designator from the variable to the type.(ãœçä
+Tsquid:S11977"8Move the array designator from the variable to the type.(Ôß¿Ïşÿÿÿÿ
+Tsquid:S11978"8Move the array designator from the variable to the type.(ÏÜéºúÿÿÿÿ
+osquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ºá´©øÿÿÿÿ
+@squid:S1659ˆ"#Declare "count" on a separate line.(‚´ˆûÿÿÿÿ
+osquid:S00116‰"VRename this field "local_addrs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôåâù
+Csquid:S1150†"+Implement Iterator rather than Enumeration.(ÿù®Ë
+Psquid:S1197‰"8Move the array designator from the variable to the type.(ôåâù
+Gsquid:S00108")Either remove or fill this block of code.(‘é×ˆùÿÿÿÿ
+vsquid:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÑ‹ıÿÿÿÿ
+Gsquid:S00108Ï")Either remove or fill this block of code.(‘é×ˆùÿÿÿÿ
+Bsquid:S1150å"+Implement Iterator rather than Enumeration.(ò‰²E
+ksquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(¦Õ××
+ksquid:ModifiersOrderCheck´"EReorder the modifiers to comply with the Java Language Specification.(§ï²
+psquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(êôŠôúÿÿÿÿ
+ksquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(Ôı‚è
+>squid:S1168›"&Return an empty array instead of null.(¥¹ï
+ksquid:ModifiersOrderCheckÌ"EReorder the modifiers to comply with the Java Language Specification.(—×åÈ
+ksquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(™ŞÒ³
+jsquid:ModifiersOrderCheckÎ"EReorder the modifiers to comply with the Java Language Specification.(…Û×?
+psquid:ModifiersOrderCheckÏ"EReorder the modifiers to comply with the Java Language Specification.(ìÃ«ˆşÿÿÿÿ
+ksquid:ModifiersOrderCheckĞ"EReorder the modifiers to comply with the Java Language Specification.(Ğ÷ı³
+ksquid:ModifiersOrderCheckÑ"EReorder the modifiers to comply with the Java Language Specification.(¼¥¼¨
+jsquid:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÜÑã

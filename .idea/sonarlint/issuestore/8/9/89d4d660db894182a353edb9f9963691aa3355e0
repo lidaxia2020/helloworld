@@ -1,0 +1,58 @@
+
+_$squid:AssignmentInSubExpressionCheckß".Extract the assignment out of this expression.(İ€ò
+d$squid:AssignmentInSubExpressionCheck§".Extract the assignment out of this expression.(ÅßˆÏøÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckÀ".Extract the assignment out of this expression.(¬‘‘Øüÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheckÙ".Extract the assignment out of this expression.(Á§…øÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheckò".Extract the assignment out of this expression.(ÖäÄü
+Tsquid:S2589×"7Remove this expression which always evaluates to "true"(ÖˆïÅşÿÿÿÿ
+Qsquid:S11185":Add a private constructor to hide the implicit public one.(·
+jsquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(²ÈáÔ
+asquid:S00119H"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²ÈáÔ
+asquid:S00119H"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²ÈáÔ
+fsquid:S00119I"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(•åÚúÿÿÿÿ
+=squid:S1452á"&Remove usage of generic wildcard type.(“¢Æg
+bsquid:S00119Â"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(°¼Ş
+bsquid:S00119Â"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(°¼Ş
+Bsquid:S00108ñ")Either remove or fill this block of code.(›¼‚ß
+gsquid:S00119ö"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(”Æí³ùÿÿÿÿ
+Bsquid:S00108«")Either remove or fill this block of code.(›¼‚ß
+gsquid:S00119°"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÖËñùÿÿÿÿ
+Bsquid:S00108å")Either remove or fill this block of code.(›¼‚ß
+gsquid:S00119ê"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(›é½ùÿÿÿÿ
+Bsquid:S00108Ÿ")Either remove or fill this block of code.(›¼‚ß
+gsquid:S00119®"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(§á·ôùÿÿÿÿ
+/squid:S2176è"Rename this class.(±µƒ³üÿÿÿÿ
+gsquid:S00119è"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(±µƒ³üÿÿÿÿ
+gsquid:S00119è"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(±µƒ³üÿÿÿÿ
+*squid:S2176ú"Rename this class.(¨°øô
+*squid:S2176ƒ"Rename this class.(ş 
+/squid:S2176Œ"Rename this class.(öôôùÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ä‘Ê<
+asquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ä‘Ê<
+*squid:S2176°"Rename this class.(«Éô´
+ksquid:ModifiersOrderCheck°"EReorder the modifiers to comply with the Java Language Specification.(«Éô´
+gsquid:S00119±"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ä¾ÂÎøÿÿÿÿ
+bsquid:S00119²"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ıí˜¥
+/squid:S2176ğ"Rename this class.(öÉ‡‰ûÿÿÿÿ
+*squid:S2176ˆ"Rename this class.(ùÙûï
+/squid:S2176 "Rename this class.(Ó¸÷Ìûÿÿÿÿ
+jsquid:ModifiersOrderCheckÇ"EReorder the modifiers to comply with the Java Language Specification.(ƒÅ–I
+asquid:S00119Ç"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ƒÅ–I
+Bsquid:S00108Ö")Either remove or fill this block of code.(ö²…ø
+/squid:S2176ó"Rename this class.(˜ı™´úÿÿÿÿ
+psquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(˜ı™´úÿÿÿÿ
+bsquid:S00119õ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¦Š…ì
+bsquid:S00119ö"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(½ßÇÿ
+gsquid:S00119÷"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ŞƒĞşÿÿÿÿ
+Gsquid:S00108¥	")Either remove or fill this block of code.(Ê…‚äûÿÿÿÿ
+*squid:S2176µ	"Rename this class.(¨°øô
+*squid:S2176Ø	"Rename this class.(ş 
+/squid:S2176û	"Rename this class.(öôôùÿÿÿÿ
+jsquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(ÎûŞ~
+*squid:S2176«"Rename this class.(æü¾¹
+/squid:S2176Ä"Rename this class.(„Êüûÿÿÿÿ
+*squid:S2176İ"Rename this class.(’†€¢
+psquid:ModifiersOrderCheckø"EReorder the modifiers to comply with the Java Language Specification.(ê³‚ÿÿÿÿÿ
+Hsquid:S2387•"0"index" is the name of a field in "ArrayBuffer".(Î‚í„
+psquid:ModifiersOrderCheck”"EReorder the modifiers to comply with the Java Language Specification.(¦‰ÀÄşÿÿÿÿ
+gsquid:S00119”"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¦‰ÀÄşÿÿÿÿ

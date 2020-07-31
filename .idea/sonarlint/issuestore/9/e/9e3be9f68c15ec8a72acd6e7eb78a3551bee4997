@@ -1,0 +1,9 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ğá
+msquid:S00116Z"PRename this field "m_dtm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”§•™şÿÿÿÿ
+isquid:S00116["QRename this field "m_iter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åå–ó
+usquid:S00116\"XRename this field "m_cachedNodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø™’²ûÿÿÿÿ
+nsquid:S00116]"QRename this field "m_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÖÇ¸ûÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(¯Îùüûÿÿÿÿ
+Rsquid:S1161¯":Add the "@Override" annotation above this method signature(èïÊ’
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

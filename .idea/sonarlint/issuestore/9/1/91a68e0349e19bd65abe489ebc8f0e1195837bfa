@@ -1,0 +1,16 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
+Rsquid:S1141ö"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+msquid:S1149D"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(½¯ü
+=squid:S1948D"&Make "subgroups" private or transient.(½¯ü
+Fsquid:S1125‹")Remove the literal "false" boolean value.(Ê«äºşÿÿÿÿ
+6squid:S2129«"Remove this "Long" constructor(ÂÕŒŠ
+Usquid:CallToDeprecatedMethod«",Remove this use of "Long"; it is deprecated.(ÂÕŒŠ
+ksquid:ModifiersOrderCheckÔ"EReorder the modifiers to comply with the Java Language Specification.(òì›©
+psquid:ModifiersOrderCheckú"EReorder the modifiers to comply with the Java Language Specification.(˜·Û†üÿÿÿÿ
+ksquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(Ğè“
+5squid:S2129Ä"Remove this "Long" constructor(ÀªT
+Tsquid:CallToDeprecatedMethodÄ",Remove this use of "Long"; it is deprecated.(ÀªT
+@squid:S1481Ï")Remove this unused "node" local variable.(í¨Ü3
+hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(”Ğåàúÿÿÿÿ

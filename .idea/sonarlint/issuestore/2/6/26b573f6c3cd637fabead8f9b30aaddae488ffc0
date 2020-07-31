@@ -1,0 +1,7 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯¼Š«
+xsquid:UselessImportCheck."TRemove this unnecessary import: same package classes are always implicitly imported.(³—š
+Wsquid:UselessImportCheck#"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
+tsquid:UselessImportCheck&"PRemove this unused import 'org.omg.PortableServer.RequestProcessingPolicyValue'.(¥Ê¨à
+_squid:UselessImportCheck ";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+Rsquid:S1854"5Remove this useless assignment to local variable "i".(µ ÷äùÿÿÿÿ

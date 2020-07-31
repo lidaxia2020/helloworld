@@ -1,0 +1,94 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.( ¸¤
+Qsquid:S4973×
+"9Use the "equals" method if value comparison was intended.(•ãÅ¼
+Qsquid:S4973Ú
+"9Use the "equals" method if value comparison was intended.(œ¶óá
+Esquid:S1604“"(Make this anonymous inner class a lambda(¬’•¨ûÿÿÿÿ
+[squid:S1155Å">Use isEmpty() to check whether the collection is empty or not.(æ”½ÿøÿÿÿÿ
+fsquid:MaximumInheritanceDepth©"<This class has 6 parents which is greater than 5 authorized.(šÔ™¶
+ksquid:MaximumInheritanceDepthù"<This class has 6 parents which is greater than 5 authorized.(Øï¼ûÿÿÿÿ
+ksquid:MaximumInheritanceDepth†"<This class has 6 parents which is greater than 5 authorized.(©ƒüÏúÿÿÿÿ
+esquid:MaximumInheritanceDepthŸ
+"<This class has 6 parents which is greater than 5 authorized.(ÓÙşO
+ksquid:S3008k"TRename this field "PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‡”É
+osquid:S3008l"SRename this field "MIN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†”©şúÿÿÿÿ
+nsquid:S3008n"XRename this field "ZERO_ACC_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÊêF
+osquid:S3008p"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§©Ñ‡ıÿÿÿÿ
+tsquid:S1450Z"]Remove the "filterComboBox" field and declare it as a local variable in the relevant methods.(€ñÅ©
+|squid:S1149±"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+bsquid:CallToDeprecatedMethod£"9Remove this use of "getSelectedValues"; it is deprecated.(†§ßÙ
+qsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Ñ‘Æ
+Wsquid:S1161Î":Add the "@Override" annotation above this method signature(ÖÑ¾ùÿÿÿÿ
+Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(Êğùôÿÿÿÿÿ
+Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(ï‡÷ıÿÿÿÿ
+Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(´­õÈ
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(ô•†üÿÿÿÿ
+™squid:S1186ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚŒô
+™squid:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ¿»ø
+Rsquid:S1161ë":Add the "@Override" annotation above this method signature(ÚŒô
+Wsquid:S1161î":Add the "@Override" annotation above this method signature(Ÿ•“§ıÿÿÿÿ
+Rsquid:S1161ò":Add the "@Override" annotation above this method signature(Ÿ¿»ø
+Rsquid:S1161õ":Add the "@Override" annotation above this method signature(ú€İÖ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(Ô“–Ã
+Wsquid:S1161–":Add the "@Override" annotation above this method signature(ë€“Ûûÿÿÿÿ
+Rsquid:S1161´":Add the "@Override" annotation above this method signature(ÛÈ™Æ
+Rsquid:S1161Å":Add the "@Override" annotation above this method signature(òÊñé
+Rsquid:S1161Ì":Add the "@Override" annotation above this method signature(¬«æ
+Rsquid:S1161×":Add the "@Override" annotation above this method signature(«ÎÚ—
+Rsquid:S1161ã":Add the "@Override" annotation above this method signature(—¦˜İ
+Rsquid:S1161ô":Add the "@Override" annotation above this method signature(ë‚„ä
+osquid:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ä Ïúüÿÿÿÿ
+Wsquid:S1161ş":Add the "@Override" annotation above this method signature(Ä Ïúüÿÿÿÿ
+Rsquid:S1161—":Add the "@Override" annotation above this method signature(€İ§ò
+Rsquid:S1161¥":Add the "@Override" annotation above this method signature(¦¿öå
+jsquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(™àíŸ
+bsquid:CallToDeprecatedMethod³"9Remove this use of "getSelectedValues"; it is deprecated.(–å
+Rsquid:S2209¸"5Change this instance-reference to a static reference.(³§©Áøÿÿÿÿ
+qsquid:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Õ±‰
+Msquid:S2209Ñ"5Change this instance-reference to a static reference.(‘°äâ
+Wsquid:S1161é":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
+Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
+Rsquid:S1161û":Add the "@Override" annotation above this method signature(Ú¯ò©
+`squid:S3252"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(Ü–Ÿúÿÿÿÿ
+Wsquid:S1161¯":Add the "@Override" annotation above this method signature(½›Ôßùÿÿÿÿ
+esquid:HiddenFieldCheckü"BRename "accessoryPanel" which hides the field declared at line 64.(±¼¶Ö
+Wsquid:S1161":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Wsquid:S1161ª":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+vsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ÎÈşÿÿÿÿ
+Wsquid:S1161é":Add the "@Override" annotation above this method signature(ß›³øÿÿÿÿ
+Wsquid:S1161ô":Add the "@Override" annotation above this method signature(Îš³¼ùÿÿÿÿ
+Wsquid:S1161‡":Add the "@Override" annotation above this method signature(¸—®Ëúÿÿÿÿ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(Ã÷´
+Wsquid:S1161•":Add the "@Override" annotation above this method signature(ŸŸÁ¯şÿÿÿÿ
+Wsquid:S1161¼":Add the "@Override" annotation above this method signature(’ô¯şÿÿÿÿ
+vsquid:S3252ç"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(äêİÅşÿÿÿÿ
+vsquid:S3252ı"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(äêİÅşÿÿÿÿ
+Rsquid:S1161…":Add the "@Override" annotation above this method signature(ØŞ›ë
+Rsquid:S1161‰":Add the "@Override" annotation above this method signature(µœĞŞ
+Rsquid:S1161":Add the "@Override" annotation above this method signature(ÙÉ¼
+Bsquid:S1948’"%Make "fsv" transient or serializable.(óËçâşÿÿÿÿ
+Msquid:S1948“"0Make "fileComparator" transient or serializable.(¬’•¨ûÿÿÿÿ
+Wsquid:S1161":Add the "@Override" annotation above this method signature(’İáÙşÿÿÿÿ
+Wsquid:S1161ú":Add the "@Override" annotation above this method signature(íöİúÿÿÿÿ
+Wsquid:S1161‡":Add the "@Override" annotation above this method signature(íöİúÿÿÿÿ
+Wsquid:S1161–":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
+Wsquid:S1161¥":Add the "@Override" annotation above this method signature(’Æ•Ûûÿÿÿÿ
+Rsquid:S1161©":Add the "@Override" annotation above this method signature(ñÈ˜š
+Ysquid:S3252®"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ôÄ¸‡
+]squid:S3252¯"@Use static access with "java.awt.Component" for "TOP_ALIGNMENT".(¯®‡»øÿÿÿÿ
+Wsquid:S1161²":Add the "@Override" annotation above this method signature(óÅ¹íùÿÿÿÿ
+Fsquid:S1172½")Remove this unused method parameter "fc".(ŞêÛôûÿÿÿÿ
+@squid:S1948È"(Make "directories" private or transient.(•Å©·
+=squid:S1948Ë"%Make "fsv" transient or serializable.(¥’„¾
+qsquid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Å©·
+Wsquid:S1161Î	":Add the "@Override" annotation above this method signature(¼ Òşüÿÿÿÿ
+Wsquid:S1161 
+":Add the "@Override" annotation above this method signature(ú›Šøøÿÿÿÿ
+Qsquid:S1161¬
+":Add the "@Override" annotation above this method signature(ñºà<
+Asquid:S1948Î
+")Make "filters" transient or serializable.(¸¬ÇË
+Fsquid:S1125ô
+")Remove the literal "false" boolean value.(­šÕÅûÿÿÿÿ
+csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(œ²„£

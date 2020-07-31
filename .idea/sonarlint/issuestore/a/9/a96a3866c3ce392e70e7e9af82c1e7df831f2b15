@@ -1,0 +1,7 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ°¨£øÿÿÿÿ
+\squid:UselessImportCheck"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊşÿÿÿÿ
+jsquid:UselessImportCheck7"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.GIOPVersion'.(Å¯›ë
+xsquid:UselessImportCheck9"TRemove this unused import 'com.sun.corba.se.spi.protocol.RequestDispatcherRegistry'.(ÔƒºÒ
+Usquid:UselessImportCheck%"1Remove this unused import 'javax.rmi.CORBA.Util'.(ïïãù
+Psquid:UselessParenthesesCheck"!Remove these useless parentheses.(ÈÎš‚ùÿÿÿÿ

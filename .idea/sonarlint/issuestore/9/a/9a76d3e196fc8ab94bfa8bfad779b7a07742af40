@@ -1,0 +1,22 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
+asquid:S2259à"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(Â®ªÔÿÿÿÿÿ
+asquid:S2259ã"DA "NullPointerException" could be thrown; "newGuy" is nullable here.(şÕå«úÿÿÿÿ
+isquid:S2975b"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+Psquid:S1161b":Add the "@Override" annotation above this method signature(­æğ
+Qsquid:S1161m":Add the "@Override" annotation above this method signature(ÀÅÎ›
+Qsquid:S1161}":Add the "@Override" annotation above this method signature(ÊÉ„ã
+Rsquid:S1161":Add the "@Override" annotation above this method signature(è§©¯
+P
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ç¦Ÿ¸
+U
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+jsquid:S2975Ú"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
+Gsquid:S00108Ş")Either remove or fill this block of code.(ÏÖ¹¦úÿÿÿÿ
+P
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(šİÜá
+U
+squid:S106õ"9Replace this use of System.out or System.err by a logger.(üó¼ùÿÿÿÿ
+U
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(ÑŠÃåÿÿÿÿÿ
+bsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(³ÏöR

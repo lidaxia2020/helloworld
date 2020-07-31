@@ -1,0 +1,27 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(÷“¯ûÿÿÿÿ
+csquid:S1192}"GDefine a constant instead of duplicating this literal "empty" 10 times.(Íõ¬Öüÿÿÿÿ
+squid:S1192µ"dDefine a constant instead of duplicating this literal "algorithms.WrongKeyForThisOperation" 3 times.(İëµ­úÿÿÿÿ
+‚squid:S4165Å"jRemove this useless assignment; "macAlgorithm" already holds the assigned value along all execution paths.(ş´¤Î
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ®™€
+jsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úì‚Ú
+jsquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ôÉ¿
+7squid:S2131¾"Use "Integer.toString" instead.(û‡¿
+ssquid:S00116@"[Rename this field "HMACOutputLength" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÔ÷Ÿ
+vsquid:S00116A"^Rename this field "HMACOutputLengthSet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶äÜ
+Rsquid:S1161€":Add the "@Override" annotation above this method signature(¡ÀØ”
+fsquid:CallToDeprecatedMethodŸ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+Psquid:S1197³"8Move the array designator from the variable to the type.(œŸú•
+fsquid:CallToDeprecatedMethodÇ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+fsquid:CallToDeprecatedMethodâ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+Psquid:S1197ô"8Move the array designator from the variable to the type.(œŸú•
+fsquid:CallToDeprecatedMethodü"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+Psquid:S1197‘"8Move the array designator from the variable to the type.(œŸú•
+bsquid:S2147š"ECombine this catch with the one at line 280, which has the same body.(¦ßÿÎúÿÿÿÿ
+fsquid:CallToDeprecatedMethod™"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+fsquid:CallToDeprecatedMethod›"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+fsquid:CallToDeprecatedMethod¾"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+fsquid:CallToDeprecatedMethodÑ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+Psquid:S1197â"8Move the array designator from the variable to the type.(ø¦Ù×
+fsquid:CallToDeprecatedMethodæ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
+Qsquid:S1161›":Add the "@Override" annotation above this method signature(Ê‚ƒh

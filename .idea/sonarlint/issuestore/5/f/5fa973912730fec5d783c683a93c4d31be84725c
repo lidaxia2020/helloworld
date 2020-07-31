@@ -1,0 +1,27 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
+d$squid:AssignmentInSubExpressionCheck…".Extract the assignment out of this expression.(¢œÔüúÿÿÿÿ
+[squid:S2583½"CChange this condition so that it does not always evaluate to "true"(šÊáõ
+@squid:S1659M"$Declare "m_MASK" on a separate line.(œúıúÿÿÿÿ
+ssquid:S00116J"VRename this field "m_blocksize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì™œüÿÿÿÿ
+osquid:S00116M"RRename this field "m_SHIFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œúıúÿÿÿÿ
+nsquid:S00116M"QRename this field "m_MASK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œúıúÿÿÿÿ
+ssquid:S00116S"VRename this field "m_numblocks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äõøÿÿÿÿ
+msquid:S00116V"PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚€Ì¼ÿÿÿÿÿ
+ssquid:S00116Y"VRename this field "m_firstFree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½—ºµùÿÿÿÿ
+nsquid:S00116\"QRename this field "m_map0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´“¥€øÿÿÿÿ
+nsquid:S00116e"WRename this field "m_buildCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôƒïF
+~squid:S00116f"aRename this field "m_buildCacheStartIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¬µ¶üÿÿÿÿ
+Tsquid:S1197V"8Move the array designator from the variable to the type.(‚€Ì¼ÿÿÿÿÿ
+Tsquid:S1197\"8Move the array designator from the variable to the type.(´“¥€øÿÿÿÿ
+Nsquid:S1197e"8Move the array designator from the variable to the type.(ôƒïF
+osquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¢Êäéùÿÿÿÿ
+osquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ËÒÑüúÿÿÿÿ
+[squid:UnusedPrivateMethodø"0Remove this unused private "addElements" method.(¢Êäéùÿÿÿÿ
+[squid:UnusedPrivateMethod¥"0Remove this unused private "addElements" method.(½†¢æıÿÿÿÿ
+Zsquid:UnusedPrivateMethodÃ"4Remove this unused private "insertElementAt" method.(¦±‹
+]squid:UnusedPrivateMethod“"2Remove this unused private "removeElement" method.(•²ˆıÿÿÿÿ
+Xsquid:UnusedPrivateMethod¡"-Remove this unused private "contains" method.(¸¸ùúÿÿÿÿ
+[squid:UnusedPrivateMethodó"0Remove this unused private "lastIndexOf" method.(õ‹–Ğıÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(éÎ¡—

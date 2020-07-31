@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
+bsquid:S1764|"KCorrect one of the identical sub-expressions on both sides of operator "||"(ü¥µæ
+•%squid:RedundantThrowsDeclarationCheckŸ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

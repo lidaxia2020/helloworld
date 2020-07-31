@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßþÿÿÿÿ
+8squid:S11650"Make this "key" field final.(ú´Ïïýÿÿÿÿ
+4squid:S11651"Make this "args" field final.(ê–á½
+=squid:S19481"&Make "args" transient or serializable.(ê–á½
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

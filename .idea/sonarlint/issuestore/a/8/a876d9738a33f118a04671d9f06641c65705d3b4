@@ -1,0 +1,14 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŞÄÿá
+‚squid:S1149†"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷À Óÿÿÿÿÿ
+‚squid:S1149ó"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ò×Ìœùÿÿÿÿ
+‚squid:S1149Ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÕÌèÿÿÿÿÿ
+psquid:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤«»ñ
+jsquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“–ış
+osquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¸İ´½úÿÿÿÿ
+csquid:S1764Ì"KCorrect one of the identical sub-expressions on both sides of operator "||"(«³—
+csquid:S1764Î"KCorrect one of the identical sub-expressions on both sides of operator "||"(«³—
+‚squid:S1149Ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÕÌèÿÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck®"Remove this empty statement.(ôŸìúÿÿÿÿ
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(±¹‘›ùÿÿÿÿ
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(Ãˆëşúÿÿÿÿ

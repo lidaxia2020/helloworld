@@ -1,0 +1,8 @@
+
+Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
+Vsquid:S1118)":Add a private constructor to hide the implicit public one.(ÚâéÚÿÿÿÿÿ
+wsquid:S001153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ÚŠÁşÿÿÿÿ
+wsquid:S00115<"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿõ¤¥ıÿÿÿÿ
+wsquid:S00115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“ŒÌÆÿÿÿÿÿ
+wsquid:S00115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„êœşÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

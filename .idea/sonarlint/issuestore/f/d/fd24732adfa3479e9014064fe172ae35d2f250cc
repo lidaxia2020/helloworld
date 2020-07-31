@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(†õ„§øÿÿÿÿ
+wsquid:S1488h"`Immediately return this expression instead of assigning it to the temporary variable "contents".(ÆÑÇä
+Vsquid:UselessImportCheck!"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ
+hsquid:UselessImportCheck""?Remove this unused import 'java.util.MissingResourceException'.(å—¡Þþÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

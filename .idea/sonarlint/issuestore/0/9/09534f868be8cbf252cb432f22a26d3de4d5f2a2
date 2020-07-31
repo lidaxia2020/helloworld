@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+Gsquid:S2160f"+Override the "equals" method in this class.(…úÌãÿÿÿÿÿ
+Wsquid:S1161¾":Add the "@Override" annotation above this method signature(¬ÛÚ¢üÿÿÿÿ
+=squid:S2129Ç" Remove this "Double" constructor(Ñ¬÷üøÿÿÿÿ
+\squid:CallToDeprecatedMethodÇ".Remove this use of "Double"; it is deprecated.(Ñ¬÷üøÿÿÿÿ

@@ -1,0 +1,5 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßþÿÿÿÿ
+]squid:S2147´"ECombine this catch with the one at line 175, which has the same body.(‘Ù»¡
+]squid:S2147Ë"ECombine this catch with the one at line 198, which has the same body.(‘Ù»¡
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

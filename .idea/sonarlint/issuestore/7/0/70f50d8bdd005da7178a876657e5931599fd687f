@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŞÄÿá
+jsquid:S1192í"MDefine a constant instead of duplicating this literal "updateResult" 4 times.(áÒï½üÿÿÿÿ
+p
+squid:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(û¹ÎÇ
+}squid:UselessImportCheck1"TRemove this unnecessary import: same package classes are always implicitly imported.(”Ô…„ùÿÿÿÿ
+fsquid:UselessImportCheck("=Remove this unused import 'com.sun.jmx.snmp.SnmpVarBindList'.(“ÙğÙùÿÿÿÿ
+jsquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ª¹±
+csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(÷‚¯‚
+csquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(“ı‚Ü
+csquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(‰ˆæá
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(íÒ«

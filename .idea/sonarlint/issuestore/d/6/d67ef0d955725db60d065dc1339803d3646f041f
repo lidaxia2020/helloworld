@@ -1,0 +1,12 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
+„"squid:ClassVariableVisibilityCheckÎ"PMake hash a static final constant or non-public and provide accessors if needed.(ß’ü¯ûÿÿÿÿ
+"squid:ClassVariableVisibilityCheckÏ"RMake bucket a static final constant or non-public and provide accessors if needed.(–Õ˜Ô
+"squid:ClassVariableVisibilityCheckĞ"PMake prev a static final constant or non-public and provide accessors if needed.(¡¨‚å
+~"squid:ClassVariableVisibilityCheckÑ"PMake next a static final constant or non-public and provide accessors if needed.(ƒÊø
+"squid:ClassVariableVisibilityCheckÒ"PMake desc a static final constant or non-public and provide accessors if needed.(Øæß
+‡"squid:ClassVariableVisibilityCheckÓ"SMake grammar a static final constant or non-public and provide accessors if needed.(æ—ııÿÿÿÿ
+"squid:ClassVariableVisibilityCheckö"QMake entry a static final constant or non-public and provide accessors if needed.(¬¿_
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦Âšú
+hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(²Ú÷ûùÿÿÿÿ

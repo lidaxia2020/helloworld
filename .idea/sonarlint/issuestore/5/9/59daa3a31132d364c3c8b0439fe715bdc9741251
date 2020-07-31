@@ -1,0 +1,36 @@
+
+Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
+Jsquid:S1199À"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Jsquid:S1199Ñ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çåà¹ûÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶€ôıúÿÿÿÿ
+osquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú”¼Ôúÿÿÿÿ
+isquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú®©e
+jsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÂÍÖ
+jsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¾Í
+osquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶€ôıúÿÿÿÿ
+osquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú”¼Ôúÿÿÿÿ
+isquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú®©e
+jsquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÂÍÖ
+lsquid:S00116T"ORename this field "m_os" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê»ÔÉıÿÿÿÿ
+usquid:S00116]"XRename this field "m_outputBytes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ª·Îøÿÿÿÿ
+tsquid:S00116_"WRename this field "m_inputChars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôª¡©øÿÿÿÿ
+Tsquid:S1197]"8Move the array designator from the variable to the type.(­ª·Îøÿÿÿÿ
+Tsquid:S1197_"8Move the array designator from the variable to the type.(ôª¡©øÿÿÿÿ
+¹%squid:RedundantThrowsDeclarationCheckz"‚Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from constructor's body.(ÌÆ«ãûÿÿÿÿ
+isquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ùÈÓW
+Nsquid:S1854—"6Remove this useless assignment to local variable "ic".(õÓË
+Osquid:S1197ì"8Move the array designator from the variable to the type.(ùÈÓW
+Osquid:S1135¦"2Complete the task associated to this TODO comment.(ûÀÕ°ÿÿÿÿÿ
+9squid:S1659æ"!Declare "low" on a separate line.(ä¾†Ÿ
+jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÀùÚ
+Osquid:S1135¸"2Complete the task associated to this TODO comment.(°›¦îûÿÿÿÿ
+9squid:S1659÷"!Declare "low" on a separate line.(ä¾†Ÿ
+?squid:S1481—"'Remove this unused "ic" local variable.(õÓË
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(¡’ÌÒûÿÿÿÿ
+csquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(Ú°à¬
+hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(—¥Ö¼ÿÿÿÿÿ
+csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(¢ÒÆ¤
+hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(Â½à—øÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(Î¦äĞüÿÿÿÿ

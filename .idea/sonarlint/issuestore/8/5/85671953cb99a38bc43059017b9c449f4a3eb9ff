@@ -1,0 +1,21 @@
+
+@squid:S1148À"#Use a logger to log this exception.(ÍÀ¹îûÿÿÿÿ
+Jsquid:S3077F".Remove the "volatile" keyword from this field.(Òæœ‹üÿÿÿÿ
+Dsquid:S3077G".Remove the "volatile" keyword from this field.(í³&
+Dsquid:S3077H".Remove the "volatile" keyword from this field.(øÊ—
+Jsquid:S3077I".Remove the "volatile" keyword from this field.(–‚ùÆûÿÿÿÿ
+rsquid:S00115<"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿ÿÒÓ
+˜%squid:RedundantThrowsDeclarationCheckŒ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(­òàÅ
+%squid:RedundantThrowsDeclarationCheckŸ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¢ø‰Ùúÿÿÿÿ
+_squid:S2886®"GSynchronize this method to match the synchronization on "setFormatter".(§Ò””
+%squid:RedundantThrowsDeclarationCheckÆ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¾‘Àøÿÿÿÿ
+csquid:S2886Ş"FSynchronize this method to match the synchronization on "setEncoding".( ÖÊÏøÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckó"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.( ¼æ¦ıÿÿÿÿ
+\squid:S2886"DSynchronize this method to match the synchronization on "setFilter".(½ş­è
+bsquid:S2886¨"JSynchronize this method to match the synchronization on "setErrorManager".(ö°£û
+P
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(½ÖµÔ
+˜%squid:RedundantThrowsDeclarationCheck×"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(´øú
+Zsquid:S2886é"CSynchronize this method to match the synchronization on "setLevel".(Ìù®>
+bsquid:HiddenFieldCheck„":Rename "filter" which hides the field declared at line 70.(„çîßøÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¹Š‰ùıÿÿÿÿ

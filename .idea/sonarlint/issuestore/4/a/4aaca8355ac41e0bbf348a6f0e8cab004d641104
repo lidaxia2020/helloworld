@@ -1,0 +1,18 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(äªŒ­
+xsquid:S1192m"\Define a constant instead of duplicating this literal "The client has been closed." 4 times.(¢Éçøşÿÿÿÿ
+isquid:S1192Ø"LDefine a constant instead of duplicating this literal "Checker-run" 6 times.(®ÇØÌüÿÿÿÿ
+u
+squid:S135¼"YReduce the total number of break and continue statements in this loop to use at most one.(„ô†úúÿÿÿÿ
+Zsquid:S3078,">Use an "AtomicLong" for this field; its operations are atomic.(Ì¤Ô™üÿÿÿÿ
+3squid:S3626™"Remove this redundant jump.(ûÁİ…
+isquid:S3776i"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÏÁ–Ä
+]squid:S2142v"FEither re-interrupt this method or rethrow the "InterruptedException".(ä³Á€
+jsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(“–ış
+^squid:S2142¿"FEither re-interrupt this method or rethrow the "InterruptedException".(ä³Á€
+]squid:S1193Ó"@Replace the usage of the "instanceof" operator by a catch block.(šÔÚèøÿÿÿÿ
+Xsquid:S1193Ô"@Replace the usage of the "instanceof" operator by a catch block.(Çêûè
+psquid:ModifiersOrderCheck€"EReorder the modifiers to comply with the Java Language Specification.(Üàç¡ùÿÿÿÿ
+ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Î³—¬
+ksquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(–Íô
+psquid:ModifiersOrderCheckƒ"EReorder the modifiers to comply with the Java Language Specification.(ô±³ÿÿÿÿÿ

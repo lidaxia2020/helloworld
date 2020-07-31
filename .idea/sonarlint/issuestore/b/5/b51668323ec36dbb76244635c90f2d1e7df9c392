@@ -1,0 +1,4 @@
+
+Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck6"UMake community a static final constant or non-public and provide accessors if needed.(¬Êáç
+Zsquid:UselessImportCheck"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ

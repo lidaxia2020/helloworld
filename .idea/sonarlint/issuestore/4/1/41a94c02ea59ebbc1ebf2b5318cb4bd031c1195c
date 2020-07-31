@@ -1,0 +1,12 @@
+
+ksquid:S1192æ"SDefine a constant instead of duplicating this literal "Pipe not connected" 4 times.(É”‡
+dsquid:S1192è"LDefine a constant instead of duplicating this literal "Pipe closed" 4 times.(ß˜ú
+lsquid:S1192¶"ODefine a constant instead of duplicating this literal "Write end dead" 3 times.(şÏ·ÿÿÿÿÿ
+Osquid:S1197G"8Move the array designator from the variable to the type.(Ä³ ©
+csquid:S2142ö"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+Usquid:S1197‹"8Move the array designator from the variable to the type.(¯äÀ“ùÿÿÿÿ
+Rsquid:S1161¯":Add the "@Override" annotation above this method signature(ê†§Ş
+csquid:S2142Ç"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+Usquid:S1197í"8Move the array designator from the variable to the type.(‘—úÖúÿÿÿÿ
+Rsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(Şò³…
+Ysquid:S1126¨"AReplace this if-then-else statement by a single return statement.(°‡ôÉ

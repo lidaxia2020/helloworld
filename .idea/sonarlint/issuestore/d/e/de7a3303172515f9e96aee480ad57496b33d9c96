@@ -1,0 +1,13 @@
+
+Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
+Ssquid:S23874"<"_position" is the name of a field in "DTMAxisIteratorBase".(Þ¸ß”
+jsquid:S001163"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
+lsquid:S001164"TRename this field "_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ¸ß”
+isquid:S001165"QRename this field "_ready" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ÿ±
+Vsquid:S1161<":Add the "@Override" annotation above this method signature(¿çß¤ÿÿÿÿÿ
+Qsquid:S1161A":Add the "@Override" annotation above this method signature(À÷ÖÚ
+Qsquid:S1161s":Add the "@Override" annotation above this method signature(üÿÆ‰
+Qsquid:S1161y":Add the "@Override" annotation above this method signature(›ëý™
+Vsquid:S1161}":Add the "@Override" annotation above this method signature(¶ÂÀèùÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(øå©Æÿÿÿÿÿ

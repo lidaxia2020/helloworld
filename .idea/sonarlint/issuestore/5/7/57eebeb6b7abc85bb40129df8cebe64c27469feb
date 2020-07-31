@@ -1,0 +1,71 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
+ksquid:S1192÷"SDefine a constant instead of duplicating this literal "AttributeNotUnique" 4 times.(È¦ƒõ
+Lsquid:S1066ø"/Merge this if statement with the enclosing one.(è¨”ğùÿÿÿÿ
+Gsquid:S1066"/Merge this if statement with the enclosing one.(Ëğ¬ù
+d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(°Ø‰úÿÿÿÿ
+Vsquid:S4973¸"9Use the "equals" method if value comparison was intended.(ü­‘üÿÿÿÿ
+Qsquid:S4973Ü"9Use the "equals" method if value comparison was intended.(äæÓı
+Vsquid:S4973à"9Use the "equals" method if value comparison was intended.(ö¬ÑÑúÿÿÿÿ
+Psquid:S4973ü"9Use the "equals" method if value comparison was intended.(œÎó`
+Vsquid:S4973ı"9Use the "equals" method if value comparison was intended.(é«Ÿùÿÿÿÿ
+Vsquid:S4973ı"9Use the "equals" method if value comparison was intended.(é«Ÿùÿÿÿÿ
+Vsquid:S4973ƒ"9Use the "equals" method if value comparison was intended.(¸í¥èÿÿÿÿÿ
+Vsquid:S4973ƒ"9Use the "equals" method if value comparison was intended.(¸í¥èÿÿÿÿÿ
+Qsquid:S4973‹"9Use the "equals" method if value comparison was intended.(¬­’
+Vsquid:S4973“"9Use the "equals" method if value comparison was intended.(ÆÙÉşÿÿÿÿ
+Qsquid:S4973”"9Use the "equals" method if value comparison was intended.(ÿùòƒ
+Psquid:S4973"9Use the "equals" method if value comparison was intended.(‘Òô_
+Vsquid:S4973¤"9Use the "equals" method if value comparison was intended.(û‰´›ûÿÿÿÿ
+Qsquid:S4973¨"9Use the "equals" method if value comparison was intended.(¢÷Ü
+Qsquid:S4973¨"9Use the "equals" method if value comparison was intended.(¢÷Ü
+Qsquid:S4973®"9Use the "equals" method if value comparison was intended.(ì¥ó¶
+Qsquid:S4973®"9Use the "equals" method if value comparison was intended.(ì¥ó¶
+Bsquid:UselessImportCheck1"Remove this duplicated import.(–ÅÉÂ
+‡squid:UselessImportCheck&"^Remove this unused import 'com.sun.org.apache.xerces.internal.util.XMLAttributesIteratorImpl'.(´ŒÈšúÿÿÿÿ
+fsquid:UselessImportCheck3"=Remove this unused import 'javax.xml.stream.XMLInputFactory'.(ş£öôÿÿÿÿÿ
+isquid:UselessImportCheck4"@Remove this unused import 'javax.xml.stream.XMLStreamConstants'.(Æ¢Äúÿÿÿÿ
+wsquid:UselessImportCheck'"TRemove this unused import 'com.sun.org.apache.xerces.internal.util.XMLStringBuffer'.(šÀú8
+Vsquid:S1161p":Add the "@Override" annotation above this method signature(Œ¹Ê®úÿÿÿÿ
+É%squid:RedundantThrowsDeclarationCheckx"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
+Qsquid:S1161w":Add the "@Override" annotation above this method signature(±æ‚ö
+µ%squid:RedundantThrowsDeclarationCheck†"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(öıĞáıÿÿÿÿ
+Wsquid:S1161†":Add the "@Override" annotation above this method signature(öıĞáıÿÿÿÿ
+gsquid:S3252Š"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(ÁÅËÔ
+¯%squid:RedundantThrowsDeclarationCheckÇ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
+osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 99 to the 15 allowed.(ÑÆ‘ãşÿÿÿÿ
+Wsquid:S1161Æ":Add the "@Override" annotation above this method signature(ÑÆ‘ãşÿÿÿÿ
+P
+squid:S106É"9Replace this use of System.out or System.err by a logger.(¯í”‡
+P
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(¬îæ
+P
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(Ú¾ã‹
+U
+squid:S106â"9Replace this use of System.out or System.err by a logger.(şœß¡ÿÿÿÿÿ
+U
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(Í’Å¸üÿÿÿÿ
+U
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(¶ÕĞüÿÿÿÿ
+P
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(‹Øß®
+P
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(‡ä–§
+U
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(¡ëÓæøÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheckÏ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
+jsquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(†‰›³
+O
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(¶¯Ö_
+U
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(²¼’Óüÿÿÿÿ
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(‚³ğ½
+¯%squid:RedundantThrowsDeclarationCheck•"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
+Wsquid:S1161”":Add the "@Override" annotation above this method signature(Ç·Àóøÿÿÿÿ
+gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+hsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(¯û•¶ùÿÿÿÿ
+csquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(º™â
+csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(º™â
+bsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Ç½¿
+bsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(šãáy
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ï³¸¦úÿÿÿÿ

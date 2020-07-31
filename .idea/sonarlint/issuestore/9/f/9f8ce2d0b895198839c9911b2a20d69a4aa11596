@@ -1,0 +1,22 @@
+
+Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(äËÍµøÿÿÿÿ
+Fsquid:S1066ô"/Merge this if statement with the enclosing one.(ëÙà
+Rsquid:S1141­"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141²"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Esquid:S1604£"(Make this anonymous inner class a lambda(Ë²‹øÿÿÿÿ
+wsquid:S00120$"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äËÍµøÿÿÿÿ
+Gsquid:UselessImportCheck="Remove this duplicated import.(­Ğ„¦ùÿÿÿÿ
+tsquid:UselessImportCheckk"PRemove this unused import 'com.sun.corba.se.spi.copyobject.ObjectCopierFactory'.(ÿÓ¦½
+Ysquid:UselessImportCheck,"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
+[squid:UselessImportCheck0"2Remove this unused import 'java.util.WeakHashMap'.(Ãê‹ûùÿÿÿÿ
+Usquid:UselessImportCheck."1Remove this unused import 'java.util.Properties'.(¬µ²
+esquid:UselessImportCheckC"<Remove this unused import 'java.rmi.ServerRuntimeException'.(¥º¥šøÿÿÿÿ
+osquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ë²­Œÿÿÿÿÿ
+dsquid:S1871ï"MThis branch's code block is the same as the block for the branch on line 231.(ºÑ˜-
+Bsquid:S1181œ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+Bsquid:S1181¬"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+Bsquid:S1181¼"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+bsquid:S2147Ä"ECombine this catch with the one at line 578, which has the same body.(ƒ´´ûÿÿÿÿ
+Qsquid:S1161Ø":Add the "@Override" annotation above this method signature(íòø
+csquid:S2142İ"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ
+Gsquid:S00108İ")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ

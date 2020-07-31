@@ -1,0 +1,14 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
+osquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âø”ùøÿÿÿÿ
+osquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÀİÊşÿÿÿÿ
+jsquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
+jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨—Ãè
+osquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‰õ‚şÿÿÿÿ
+jsquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠˆÓï
+isquid:S00117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ø0
+psquid:S00116h"XRename this field "inner_classes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š±ã«
+ysquid:S00116i"\Rename this field "number_of_classes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Î’…ÿÿÿÿÿ
+|squid:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+Wsquid:S1161¸":Add the "@Override" annotation above this method signature(¼çØıùÿÿÿÿ
+Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ

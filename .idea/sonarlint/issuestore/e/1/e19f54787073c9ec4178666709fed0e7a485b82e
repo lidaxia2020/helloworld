@@ -1,0 +1,6 @@
+
+wsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(¬›ãD
+Wsquid:S1161¯":Add the "@Override" annotation above this method signature(èöò¡şÿÿÿÿ
+Usquid:S1197¯"8Move the array designator from the variable to the type.(èöò¡şÿÿÿÿ
+Rsquid:S1161È":Add the "@Override" annotation above this method signature(·œ©ò
+Wsquid:S1161Ú":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

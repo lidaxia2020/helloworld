@@ -1,0 +1,8 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
+jsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÔÚ„
+_squid:UselessImportCheck";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
+[squid:UselessImportCheck "7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
+Zsquid:UselessImportCheck""6Remove this unused import 'org.omg.CORBA.LocalObject'.(øöè
+[squid:S1068`"?Remove this unused "MESSAGE_ORBINITINFO_INVALID" private field.(«ˆ¸¢şÿÿÿÿ
+csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ò«”³

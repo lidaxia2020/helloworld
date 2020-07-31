@@ -1,0 +1,47 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÃêØ»ùÿÿÿÿ
+xsquid:S1192°"[Define a constant instead of duplicating this literal "\t\t[SolarisLoginModule]: " 6 times.(å›öÿÿÿÿÿ
+asquid:S2583"DChange this condition so that it does not always evaluate to "false"(˜íìÒùÿÿÿÿ
+Osquid:S2589ª"7Remove this expression which always evaluates to "true"(±ªœ¦
+¤squid:S2681¨"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(â‹ğşÿÿÿÿ
+hsquid:S2259¨"KA "NullPointerException" could be thrown; "solarisGroups" is nullable here.(â‹ğşÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+usquid:S1450F"^Remove the "callbackHandler" field and declare it as a local variable in the relevant methods.(”¢ö¸
+qsquid:S1450G"ZRemove the "sharedState" field and declare it as a local variable in the relevant methods.(”ÃıÂ
+msquid:S1450H"VRemove the "options" field and declare it as a local variable in the relevant methods.(ØÌŸ¼
+Qsquid:S1133B"5Do not forget to remove this deprecated code someday.(°‚‰ãøÿÿÿÿ
+osquid:S00116V"WRename this field "UIDPrincipal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑâÀÎ
+tsquid:S00116W"WRename this field "GIDPrincipal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¥¸Èúÿÿÿÿ
+U
+squid:S106°"9Replace this use of System.out or System.err by a logger.(å›öÿÿÿÿÿ
+U
+squid:S106²"9Replace this use of System.out or System.err by a logger.(‰Öğ¾ÿÿÿÿÿ
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(·»Ûıÿÿÿÿ
+U
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(¬èœ´ûÿÿÿÿ
+Fsquid:S1125â")Remove the literal "false" boolean value.(ç§åÏûÿÿÿÿ
+U
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(å›öÿÿÿÿÿ
+U
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(å›öÿÿÿÿÿ
+P
+squid:S106û"9Replace this use of System.out or System.err by a logger.(¯µ×®
+U
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(ÑÎÿÿÿÿÿ
+U
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(¬“ªıÿÿÿÿ
+U
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(å›öÿÿÿÿÿ
+Fsquid:S1125¨")Remove the literal "false" boolean value.(ç§åÏûÿÿÿÿ
+@squid:S1125ª"(Remove the literal "true" boolean value.(±ªœ¦
+Asquid:S1125ª")Remove the literal "false" boolean value.(±ªœ¦
+vsquid:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(ííÊ§øÿÿÿÿ
+U
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(å›öÿÿÿÿÿ
+vsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÙ­–ıÿÿÿÿ
+U
+squid:S106å"9Replace this use of System.out or System.err by a logger.(å›öÿÿÿÿÿ
+Jsquid:S1068F"3Remove this unused "callbackHandler" private field.(”¢ö¸
+Fsquid:S1068G"/Remove this unused "sharedState" private field.(”ÃıÂ
+Bsquid:S1068H"+Remove this unused "options" private field.(ØÌŸ¼
