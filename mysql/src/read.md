@@ -174,14 +174,16 @@
 #### 补充
 - for update是在数据库中上锁用的，可以为数据库中的行上一个排它（写）锁
 - 执行顺序
-1)from 
-(3) join 
-(2) on 
-(4) where 
-(5)group by(开始使用select中的别名，后面的语句中都可以使用)
-(6) avg,sum.... 
-(7)having 
-(8) select 
-(9) distinct 
-(10) order by
-(11) limit 
+~~~~
+    1)from 
+    (3) join 
+    (2) on 
+    (4) where 
+    (5)group by(开始使用select中的别名，后面的语句中都可以使用)
+    (6) avg,sum.... 
+    (7)having 
+    (8) select 
+    (9) distinct 
+    (10) order by
+    (11) limit 
+~~~~
