@@ -34,8 +34,24 @@
 <scheme>://<user>:<password>@<host>:<port>/<path>;<params>?<query>#<frag>
 ~~~~
 #### 3.Http报文
-
-
+- 报文流：Http报文是http应用程序之间发送得数据块。这些数据块以一些文本得形式元信息开头，这些信息描述了报文的内容及含义。术语“流入”“流出”“上游”“下游”都是用来描述报文方向的。
+- 报文格式
+~~~~
+请求报文：
+    <method> <request-URL> <version>
+    <entity-body>
+响应报文：
+    <version> <status> <reason-phrase>
+    <status>
+    <entity-body>
+方法（method）:客户端希望服务器对资源执行的动作。
+请求URL(request-URL):命名了所有请求资源，或者URL路径组件的完整URL.
+版本(version):报文所使用的http版本。格式：HTTP/<major>.<minor>
+状态码(status-code):这三位数字描述了请求过程中所发生的情况。
+原因短语(reason-phrase):数字状态码的可读版本，包含行终止序列之前的所有文本。
+首部(header):可以有0个或多个首部。每个名字后面都跟着一个冒号(:),然后是一个可选的空格，接着是一个值，最后是一个CRLF。
+实体的主体部分(entity-body):实体的主体部分包含一个由任意数据组成的数据块。
+~~~~
 #### 4.连接管理
 #### 5.Web服务器
 #### 6.代理
