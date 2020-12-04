@@ -89,7 +89,12 @@
         - 用于捎带确认的Tcp延迟确认算法
         - Time_wait时延和端口耗尽
     - TCP连接的握手时延
-        - 4.2.3
+    - 延迟确认
+    - TCP慢启动
+    - Nagle算法与TCP_NODELAY
+    
+    
+     
         
         
         
