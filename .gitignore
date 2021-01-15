@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 out/
 
-.idea
+.idea/*
 *.iws
 *.iml
 *.ipr
