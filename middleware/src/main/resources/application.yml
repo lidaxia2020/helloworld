@@ -1,0 +1,42 @@
+
+server:
+  port: 9000
+
+
+#redis
+spring:
+  redis:
+    #redis����ip
+    host: 127.0.0.1
+    #redis�˿�
+    port: 6379
+    #redis����
+    password: 123456
+#    #redis��ʱʱ�䣨���룩����������ã�ȡĬ��ֵ2000
+#    timeout: 10000
+#    #��������
+#    maxIdle: 300
+#    #���ӳص�������ݿ�����������Ϊ0��ʾ������,�����jedis 2.4�Ժ���redis.maxTotal
+#    #maxActive=600
+#    #����һ��pool�ɷ�����ٸ�jedisʵ��,�����滻�����redis.maxActive,�����jedis 2.4�Ժ��ø�����
+#    maxTotal: 1000
+#    #��������ӵȴ�ʱ�䡣���������ʱ�佫�ӵ��쳣����Ϊ-1��ʾ�����ơ�
+#    maxWaitMillis: 1000
+#    #���ӵ���С����ʱ�� Ĭ��1800000����(30����)
+#    minEvictableIdleTimeMillis: 300000
+#    #ÿ���ͷ����ӵ������Ŀ,Ĭ��3
+#    numTestsPerEvictionRun: 1024
+#    #���ɨ���ʱ����(����) ���Ϊ����,����������߳�, Ĭ��-1
+#    timeBetweenEvictionRunsMillis: 30000
+#    #�Ƿ��ڴӳ���ȡ������ǰ���м���,�������ʧ��,��ӳ���ȥ�����Ӳ�����ȡ����һ��
+#    testOnBorrow: true
+#    #�ڿ���ʱ�����Ч��, Ĭ��false
+#    testWhileIdle: true
+    database: 3
+
+
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/scaffolding?useUnicode=true&zeroDateTimeBehavior=convertToNull&autoReconnect=true&characterEncoding=utf-8
+    username: root
+    password: 123456

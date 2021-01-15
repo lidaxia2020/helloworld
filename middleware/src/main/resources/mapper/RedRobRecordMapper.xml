@@ -1,0 +1,16 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.middleware.demo.mapper.RedRobRecordMapper">
+
+    <resultMap id="BaseResultMap" type="com.middleware.demo.model.RedRobRecord">
+            <result column="id" property="id" jdbcType="INTEGER" />
+            <result column="user_id" property="userId" jdbcType="INTEGER" />
+            <result column="red_packet" property="redPacket" jdbcType="VARCHAR" />
+            <result column="amount" property="amount" jdbcType="DECIMAL" />
+            <result column="rob_time" property="robTime" jdbcType="TIMESTAMP" />
+            <result column="is_active" property="isActive" jdbcType="TINYINT" />
+    </resultMap>
+
+
+</mapper>
