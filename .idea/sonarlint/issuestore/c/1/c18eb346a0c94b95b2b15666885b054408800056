@@ -1,29 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(²úğÿÿÿÿÿ
-Esquid:S1199ş"-Extract this nested code block into a method.(—®–Œ
-Jsquid:S1199Á"-Extract this nested code block into a method.(ÄŠ¯œÿÿÿÿÿ
-Jsquid:S1199È"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Jsquid:S1199ì"-Extract this nested code block into a method.(ÄŠ¯œÿÿÿÿÿ
-Jsquid:S1199ó"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Qsquid:S4973„"9Use the "equals" method if value comparison was intended.(ö‰ó»
-=squid:S1659S"!Declare "uri" on a separate line.(œî¼ªÿÿÿÿÿ
-Bsquid:S1659S"&Declare "nodename" on a separate line.(œî¼ªÿÿÿÿÿ
-8squid:S1170P"!Make this final field static too.(Ğ°ô¤
-tsquid:S00116P"\Rename this field "NOT_SUPPORTED_ERR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ°ô¤
-7squid:S3626o"Remove this redundant jump.(ùúÏšøÿÿÿÿ
-jsquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ä¿Ş×
-jsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ş‚ã©
-bsquid:HiddenFieldCheck":Rename "prefix" which hides the field declared at line 83.(¸¹â½üÿÿÿÿ
-jsquid:S1871‡"MThis branch's code block is the same as the block for the branch on line 388.(Ÿµ·Ôıÿÿÿÿ
-jsquid:S1871œ"MThis branch's code block is the same as the block for the branch on line 407.(İ‘Ş«úÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckã"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-”%squid:RedundantThrowsDeclarationCheck¨"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(”İ…
-š%squid:RedundantThrowsDeclarationCheck¼"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ì”Ÿšüÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(§íø
-hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(š¤Éşøÿÿÿÿ
-hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(¨§´½ûÿÿÿÿ
-hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(š¤Éşøÿÿÿÿ
-hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(÷¤¢°ÿÿÿÿÿ
-csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(—®–Œ
-hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(š¤Éşøÿÿÿÿ

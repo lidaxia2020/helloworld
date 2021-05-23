@@ -1,19 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊÐ·Îûÿÿÿÿ
-isquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðôó×
-isquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðôó×
-nsquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
-nsquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒïèâÿÿÿÿÿ
-nsquid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
-nsquid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÎ†óúÿÿÿÿ
-Gsquid:S21605"+Override the "equals" method in this class.(µõƒëùÿÿÿÿ
-tsquid:S30086"XRename this field "CURRENT_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“øôŸúÿÿÿÿ
-qsquid:S001168"YRename this field "_iteratorIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¾”À
-usquid:S00116:"XRename this field "_iloadCurrent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‚ªðýÿÿÿÿ
-vsquid:S00116;"YRename this field "_istoreCurrent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®É§Ÿþÿÿÿÿ
-lsquid:S00116<"TRename this field "_aloadDom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šß‹¤
-Psquid:S1161I":Add the "@Override" annotation above this method signature(”¬ëR
-Qsquid:S1161M":Add the "@Override" annotation above this method signature(¢åƒ‚
-Vsquid:S1161[":Add the "@Override" annotation above this method signature(ã¢Õ¿ûÿÿÿÿ
-Psquid:S1161|":Add the "@Override" annotation above this method signature(£íÌB
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

@@ -1,4 +1,0 @@
-
-]squid:UselessImportCheck"9Remove this unused import 'java.util.EventListenerProxy'.(¼êšÌ
-hsquid:S3776|"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¦ÌÕ
-qsquid:S3012Ñ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÝÅ» 

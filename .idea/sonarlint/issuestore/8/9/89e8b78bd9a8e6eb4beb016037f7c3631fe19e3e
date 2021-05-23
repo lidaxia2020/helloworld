@@ -1,11 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ò“Ô’ÿÿÿÿÿ
-dsquid:S00112Ã"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
-\squid:UselessImportCheck"3Remove this unused import 'sun.invoke.empty.Empty'.(Ò“Ô’ÿÿÿÿÿ
-osquid:ModifiersOrderCheckp"EReorder the modifiers to comply with the Java Language Specification.(¦Æ¥÷úÿÿÿÿ
-Jsquid:S1172¯"-Remove this unused method parameter "ignore".(å¶Œùÿÿÿÿ
-Ssquid:S1854‡";Remove this useless assignment to local variable "bsmType".(åÇ©š
-Wsquid:S1193˜"@Replace the usage of the "instanceof" operator by a catch block.(•—Ÿy
-esquid:UnusedPrivateMethod¯":Remove this unused private "uninitializedCallSite" method.(å¶Œùÿÿÿÿ
-csquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(òŸóĞ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ó·‰‡úÿÿÿÿ

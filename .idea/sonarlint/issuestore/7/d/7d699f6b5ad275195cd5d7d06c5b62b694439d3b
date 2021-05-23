@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
-}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(—ÂÚ§úÿÿÿÿ
-xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(äı°
-}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(îñÃ³üÿÿÿÿ
-}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(ş™ºßùÿÿÿÿ
-Qsquid:S11180":Add a private constructor to hide the implicit public one.(­ŠÚ€

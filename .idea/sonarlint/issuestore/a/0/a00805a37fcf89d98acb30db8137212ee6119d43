@@ -1,12 +1,0 @@
-
-_$squid:AssignmentInSubExpressionCheck˛".Extract the assignment out of this expression.(±ÅË‰
-?squid:S1948"(Make "helper" transient or serializable.(Ö‡æó
-Jsquid:S1948à"-Make "spliterator" transient or serializable.(˛òÁ¸˙ˇˇˇˇ
-Jsquid:S1948¢"-Make "localResult" transient or serializable.(ÿé”é˙ˇˇˇˇ
-asquid:S00119o"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(€Ûü≠
-asquid:S00119o"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(€Ûü≠
-=squid:S1659Å" Declare "ls" on a separate line.(Áè¡≈¸ˇˇˇˇ
-@squid:S1659á"(Declare "rightChild" on a separate line.(–‘ù’
-@squid:S1659á"(Declare "taskToFork" on a separate line.(–‘ù’
-asquid:HiddenFieldChecká">Rename "leftChild" which hides the field declared at line 149.(–‘ù’
-bsquid:HiddenFieldChecká"?Rename "rightChild" which hides the field declared at line 159.(–‘ù’

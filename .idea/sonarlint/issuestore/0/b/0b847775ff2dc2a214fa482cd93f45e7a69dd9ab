@@ -1,19 +1,0 @@
-
-Qsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÓ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(àü²‘
-osquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅµÈ³ùÿÿÿÿ
-Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(ÅµÈ³ùÿÿÿÿ
-Rsquid:S1161‡":Add the "@Override" annotation above this method signature(°èÉƒ
-Rsquid:S1161»":Add the "@Override" annotation above this method signature(˜¹áü
-Rsquid:S1161Â":Add the "@Override" annotation above this method signature(Öó¹¨
-Wsquid:S1161É":Add the "@Override" annotation above this method signature(äõæúÿÿÿÿ
-Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(††³
-Wsquid:S1161×":Add the "@Override" annotation above this method signature(¯Úşÿÿÿÿ
-Wsquid:S1161ß":Add the "@Override" annotation above this method signature(ØÓ²ùÿÿÿÿ
-Rsquid:S1161æ":Add the "@Override" annotation above this method signature(ˆã„İ
-Vsquid:S3400î"9Remove this method and declare a constant for this value.(µšşÌıÿÿÿÿ
-Dsquid:S1068",Remove this unused "fStrings" private field.(Âğˆ³
-Bsquid:S1068’"+Remove this unused "fString" private field.(ÃÑ¼b
-Jsquid:S1068˜"2Remove this unused "fStringBuffer2" private field.(“¥³«
-Osquid:S1068™"2Remove this unused "fStringBuffer3" private field.(Ìúìçüÿÿÿÿ
-hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(ùáøÚùÿÿÿÿ

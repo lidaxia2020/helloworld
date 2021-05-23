@@ -1,324 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(º…¹ıÿÿÿÿ
-ksquid:S1192Î"NDefine a constant instead of duplicating this literal "java.ext.dirs" 3 times.(Ó½†¢ıÿÿÿÿ
-esquid:S1192—
-"NDefine a constant instead of duplicating this literal "SAX-backlevel" 3 times.(‘ĞÀ!
-gsquid:S1192»	"ODefine a constant instead of duplicating this literal "DOM.draftlevel" 3 times.(ÚŸÉØ
-hsquid:S1192¶"PDefine a constant instead of duplicating this literal "java.class.path" 4 times.(ØôÍ
-qsquid:S1192À"TDefine a constant instead of duplicating this literal "sun.boot.class.path" 3 times.(»Ùªˆşÿÿÿÿ
-jsquid:S1192£"MDefine a constant instead of duplicating this literal "java.version" 3 times.(ÏŒëşøÿÿÿÿ
-asquid:S2095¨"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(…Ò ‰
-‡squid:S1319"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".( Û©…
-ˆsquid:S1319ó"kThe type of the "h" object should be an interface such as "Map" rather than the implementation "Hashtable".(±ñ±¥ıÿÿÿÿ
-Rsquid:S1141•"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141³	"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141À	"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheck”"TMake jarNames a static final constant or non-public and provide accessors if needed.(´Şã
-@squid:S1148À"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
-[squid:S1155¸">Use isEmpty() to check whether the collection is empty or not.(ª”´äûÿÿÿÿ
-[squid:S1155İ">Use isEmpty() to check whether the collection is empty or not.(ª”´äûÿÿÿÿ
-nsquid:S1149å"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(´Œ¤ƒ
-nsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".( Û©…
-ssquid:S1149 "VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(­´Çúûÿÿÿÿ
-ssquid:S1149Æ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‡”ŞÉıÿÿÿÿ
-‚squid:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(İ°·’úÿÿÿÿ
-}squid:S1149µ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ìãá
-ssquid:S1149Á"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Âá³şÿÿÿÿ
-ssquid:S1149ó"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(±ñ±¥ıÿÿÿÿ
-‚squid:S1149š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(İ°·’úÿÿÿÿ
-‚squid:S1149Ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(€¿½‡ûÿÿÿÿ
-ssquid:S1149ä"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Âá³şÿÿÿÿ
-ssquid:S1149š"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Õ ü”üÿÿÿÿ
-‚squid:S1149º"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ì€»‘şÿÿÿÿ
-}squid:S1149ş"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(İåò 
-}squid:S1149…"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
-nsquid:S1149›"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(”º¦†
-nsquid:S1149²"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(”º¦†
-nsquid:S1149Š"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¡´†´
-nsquid:S1149¯"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ä¦Àƒ
-|squid:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-|squid:S1149İ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-ssquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ŠÏé’ûÿÿÿÿ
-nsquid:S1149Î"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ä“›Ï
-nsquid:S1149ğ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(³ªµ­
-ssquid:S1149™	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÈŸ³ıÿÿÿÿ
-ssquid:S1149ë	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(âæ®ôùÿÿÿÿ
-ssquid:S1149Ã
-"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¤»—üÿÿÿÿ
-U
-squid:S106›"9Replace this use of System.out or System.err by a logger.(‚şá¦ûÿÿÿÿ
-U
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(ª—ÙØÿÿÿÿÿ
-U
-squid:S106²"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-P
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(èÑİÓ
-csquid:S3027ô"FPut single-quotes around '-' to use the faster "indexOf(char)" method.(ø¾’şûÿÿÿÿ
-^squid:S3027õ"FPut single-quotes around '-' to use the faster "indexOf(char)" method.(³…¨–
-Osquid:S1135‹"2Complete the task associated to this TODO comment.(±ß‰Àøÿÿÿÿ
-Osquid:S1135Ì"2Complete the task associated to this TODO comment.(Ÿˆ¿Œşÿÿÿÿ
-Osquid:S1135Ú"2Complete the task associated to this TODO comment.(‡ê¨øÿÿÿÿ
-jsquid:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(İåò 
-Csquid:S1168ƒ"+Return an empty collection instead of null.(¥¹ï
-Jsquid:S1135Ê"2Complete the task associated to this TODO comment.(ï×İÄ
-;squid:S2129à"Remove this "Long" constructor(É¹Ö’øÿÿÿÿ
-Zsquid:CallToDeprecatedMethodà",Remove this use of "Long"; it is deprecated.(É¹Ö’øÿÿÿÿ
-Vsquid:S1854–"9Remove this useless assignment to local variable "clazz".(—ï–¼şÿÿÿÿ
-Psquid:S1197í"8Move the array designator from the variable to the type.(£Ü™è
-8squid:S3878ò"Remove this array creation.(Ôƒ²úıÿÿÿÿ
-Vsquid:S1854º"9Remove this useless assignment to local variable "clazz".(¿Áèüûÿÿÿÿ
-Osquid:S1135"2Complete the task associated to this TODO comment.(›¸üéüÿÿÿÿ
-Jsquid:S1135¼"2Complete the task associated to this TODO comment.(“ìÄ¶
-Psquid:S1197Ø"8Move the array designator from the variable to the type.(£Ü™è
-8squid:S3878İ"Remove this array creation.(Ôƒ²úıÿÿÿÿ
-Rsquid:S1854ı":Remove this useless assignment to local variable "method".(ÀôÒ¶
-]squid:S1854¡	"ERemove this useless assignment to local variable "DOM_LEVEL3_METHOD".(Û°­ç
-Wsquid:S1854­	":Remove this useless assignment to local variable "method".(’ÿÓÆüÿÿÿÿ
-Qsquid:S1854¹	":Remove this useless assignment to local variable "method".(¦Ÿ¹(
-Wsquid:S1854Å	":Remove this useless assignment to local variable "method".(®”‰³ûÿÿÿÿ
-Usquid:S1197¦	"8Move the array designator from the variable to the type.(ÔëÇ›ùÿÿÿÿ
-Isquid:S1135×	"2Complete the task associated to this TODO comment.(¤İö9
-Jsquid:S1135Ø	"2Complete the task associated to this TODO comment.(ŠŸıÔ
-Wsquid:S1854
-":Remove this useless assignment to local variable "method".(ÏÍÜ´ùÿÿÿÿ
-Wsquid:S1854’
-":Remove this useless assignment to local variable "method".(Ì­¼œûÿÿÿÿ
-Rsquid:S1854¤
-":Remove this useless assignment to local variable "method".(È©†¶
-Psquid:S1197÷	"8Move the array designator from the variable to the type.(ñßĞ±
-Usquid:S1197ù	"8Move the array designator from the variable to the type.(â¨øäûÿÿÿÿ
-;squid:S2129Ò
-"Remove this "Long" constructor(³‚îˆùÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÒ
-",Remove this use of "Long"; it is deprecated.(³‚îˆùÿÿÿÿ
-6squid:S2129Ó
-"Remove this "Long" constructor(×´æÂ
-Usquid:CallToDeprecatedMethodÓ
-",Remove this use of "Long"; it is deprecated.(×´æÂ
-6squid:S2129Ô
-"Remove this "Long" constructor(Šñı
-Usquid:CallToDeprecatedMethodÔ
-",Remove this use of "Long"; it is deprecated.(Šñı
-5squid:S2129Õ
-"Remove this "Long" constructor(×¤›[
-Tsquid:CallToDeprecatedMethodÕ
-",Remove this use of "Long"; it is deprecated.(×¤›[
-;squid:S2129Ö
-"Remove this "Long" constructor(ù»ä¯ıÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÖ
-",Remove this use of "Long"; it is deprecated.(ù»ä¯ıÿÿÿÿ
-;squid:S2129×
-"Remove this "Long" constructor(ÔÚĞ™ùÿÿÿÿ
-Zsquid:CallToDeprecatedMethod×
-",Remove this use of "Long"; it is deprecated.(ÔÚĞ™ùÿÿÿÿ
-;squid:S2129Ø
-"Remove this "Long" constructor( ÇÄ¤øÿÿÿÿ
-Zsquid:CallToDeprecatedMethodØ
-",Remove this use of "Long"; it is deprecated.( ÇÄ¤øÿÿÿÿ
-;squid:S2129Ù
-"Remove this "Long" constructor(ßÍèÆüÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÙ
-",Remove this use of "Long"; it is deprecated.(ßÍèÆüÿÿÿÿ
-6squid:S2129Ú
-"Remove this "Long" constructor(îÔîê
-Usquid:CallToDeprecatedMethodÚ
-",Remove this use of "Long"; it is deprecated.(îÔîê
-;squid:S2129Û
-"Remove this "Long" constructor(à³úÃÿÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÛ
-",Remove this use of "Long"; it is deprecated.(à³úÃÿÿÿÿÿ
-;squid:S2129Ü
-"Remove this "Long" constructor(¤‚àöûÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÜ
-",Remove this use of "Long"; it is deprecated.(¤‚àöûÿÿÿÿ
-;squid:S2129İ
-"Remove this "Long" constructor(×Éè®ùÿÿÿÿ
-Zsquid:CallToDeprecatedMethodİ
-",Remove this use of "Long"; it is deprecated.(×Éè®ùÿÿÿÿ
-6squid:S2129Ş
-"Remove this "Long" constructor(üüÒò
-Usquid:CallToDeprecatedMethodŞ
-",Remove this use of "Long"; it is deprecated.(üüÒò
-;squid:S2129ß
-"Remove this "Long" constructor(Ûÿìªûÿÿÿÿ
-Zsquid:CallToDeprecatedMethodß
-",Remove this use of "Long"; it is deprecated.(Ûÿìªûÿÿÿÿ
-;squid:S2129à
-"Remove this "Long" constructor(×ò¹îÿÿÿÿÿ
-Zsquid:CallToDeprecatedMethodà
-",Remove this use of "Long"; it is deprecated.(×ò¹îÿÿÿÿÿ
-6squid:S2129á
-"Remove this "Long" constructor(Ãê‹‹
-Usquid:CallToDeprecatedMethodá
-",Remove this use of "Long"; it is deprecated.(Ãê‹‹
-;squid:S2129ä
-"Remove this "Long" constructor(…ø½ûÿÿÿÿ
-Zsquid:CallToDeprecatedMethodä
-",Remove this use of "Long"; it is deprecated.(…ø½ûÿÿÿÿ
-;squid:S2129å
-"Remove this "Long" constructor(ŠË“ûÿÿÿÿ
-Zsquid:CallToDeprecatedMethodå
-",Remove this use of "Long"; it is deprecated.(ŠË“ûÿÿÿÿ
-;squid:S2129æ
-"Remove this "Long" constructor(âÿùÿÿÿÿ
-Zsquid:CallToDeprecatedMethodæ
-",Remove this use of "Long"; it is deprecated.(âÿùÿÿÿÿ
-;squid:S2129ç
-"Remove this "Long" constructor(õÑ®Âüÿÿÿÿ
-Zsquid:CallToDeprecatedMethodç
-",Remove this use of "Long"; it is deprecated.(õÑ®Âüÿÿÿÿ
-6squid:S2129è
-"Remove this "Long" constructor(Ï˜·•
-Usquid:CallToDeprecatedMethodè
-",Remove this use of "Long"; it is deprecated.(Ï˜·•
-6squid:S2129é
-"Remove this "Long" constructor(«ÌÊ‰
-Usquid:CallToDeprecatedMethodé
-",Remove this use of "Long"; it is deprecated.(«ÌÊ‰
-;squid:S2129ê
-"Remove this "Long" constructor(ğÁİÏüÿÿÿÿ
-Zsquid:CallToDeprecatedMethodê
-",Remove this use of "Long"; it is deprecated.(ğÁİÏüÿÿÿÿ
-6squid:S2129ë
-"Remove this "Long" constructor(ñÂ² 
-Usquid:CallToDeprecatedMethodë
-",Remove this use of "Long"; it is deprecated.(ñÂ² 
-6squid:S2129î
-"Remove this "Long" constructor(ÅƒÉ
-Usquid:CallToDeprecatedMethodî
-",Remove this use of "Long"; it is deprecated.(ÅƒÉ
-;squid:S2129ğ
-"Remove this "Long" constructor(¡²øÿÿÿÿ
-Zsquid:CallToDeprecatedMethodğ
-",Remove this use of "Long"; it is deprecated.(¡²øÿÿÿÿ
-6squid:S2129ñ
-"Remove this "Long" constructor(¼É¡’
-Usquid:CallToDeprecatedMethodñ
-",Remove this use of "Long"; it is deprecated.(¼É¡’
-;squid:S2129ò
-"Remove this "Long" constructor(İ¿˜’ÿÿÿÿÿ
-Zsquid:CallToDeprecatedMethodò
-",Remove this use of "Long"; it is deprecated.(İ¿˜’ÿÿÿÿÿ
-6squid:S2129ó
-"Remove this "Long" constructor(Â¨¾®
-Usquid:CallToDeprecatedMethodó
-",Remove this use of "Long"; it is deprecated.(Â¨¾®
-6squid:S2129ô
-"Remove this "Long" constructor(¯ùÏï
-Usquid:CallToDeprecatedMethodô
-",Remove this use of "Long"; it is deprecated.(¯ùÏï
-5squid:S2129õ
-"Remove this "Long" constructor(ÎêÂd
-Tsquid:CallToDeprecatedMethodõ
-",Remove this use of "Long"; it is deprecated.(ÎêÂd
-6squid:S2129ö
-"Remove this "Long" constructor(Œ¨«–
-Usquid:CallToDeprecatedMethodö
-",Remove this use of "Long"; it is deprecated.(Œ¨«–
-;squid:S2129ú
-"Remove this "Long" constructor(®ÊòÆÿÿÿÿÿ
-Zsquid:CallToDeprecatedMethodú
-",Remove this use of "Long"; it is deprecated.(®ÊòÆÿÿÿÿÿ
-6squid:S2129ü
-"Remove this "Long" constructor(™¸¥„
-Usquid:CallToDeprecatedMethodü
-",Remove this use of "Long"; it is deprecated.(™¸¥„
-;squid:S2129ı
-"Remove this "Long" constructor(„®é•şÿÿÿÿ
-Zsquid:CallToDeprecatedMethodı
-",Remove this use of "Long"; it is deprecated.(„®é•şÿÿÿÿ
-;squid:S2129ş
-"Remove this "Long" constructor(ˆè¡¤üÿÿÿÿ
-Zsquid:CallToDeprecatedMethodş
-",Remove this use of "Long"; it is deprecated.(ˆè¡¤üÿÿÿÿ
-;squid:S2129ÿ
-"Remove this "Long" constructor(¸ıĞ„ıÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÿ
-",Remove this use of "Long"; it is deprecated.(¸ıĞ„ıÿÿÿÿ
-6squid:S2129€"Remove this "Long" constructor(î¦
-Usquid:CallToDeprecatedMethod€",Remove this use of "Long"; it is deprecated.(î¦
-5squid:S2129"Remove this "Long" constructor(Âèt
-Tsquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(Âèt
-;squid:S2129‚"Remove this "Long" constructor(›ª½ıÿÿÿÿ
-Zsquid:CallToDeprecatedMethod‚",Remove this use of "Long"; it is deprecated.(›ª½ıÿÿÿÿ
-;squid:S2129ƒ"Remove this "Long" constructor(£ü³“ùÿÿÿÿ
-Zsquid:CallToDeprecatedMethodƒ",Remove this use of "Long"; it is deprecated.(£ü³“ùÿÿÿÿ
-;squid:S2129„"Remove this "Long" constructor(û¼§Âüÿÿÿÿ
-Zsquid:CallToDeprecatedMethod„",Remove this use of "Long"; it is deprecated.(û¼§Âüÿÿÿÿ
-6squid:S2129…"Remove this "Long" constructor(ºÜ·‘
-Usquid:CallToDeprecatedMethod…",Remove this use of "Long"; it is deprecated.(ºÜ·‘
-;squid:S2129†"Remove this "Long" constructor(òú£øùÿÿÿÿ
-Zsquid:CallToDeprecatedMethod†",Remove this use of "Long"; it is deprecated.(òú£øùÿÿÿÿ
-;squid:S2129‡"Remove this "Long" constructor(¸·˜üÿÿÿÿ
-Zsquid:CallToDeprecatedMethod‡",Remove this use of "Long"; it is deprecated.(¸·˜üÿÿÿÿ
-;squid:S2129ˆ"Remove this "Long" constructor(ªÀ­ˆúÿÿÿÿ
-Zsquid:CallToDeprecatedMethodˆ",Remove this use of "Long"; it is deprecated.(ªÀ­ˆúÿÿÿÿ
-6squid:S2129‰"Remove this "Long" constructor(ã°É„
-Usquid:CallToDeprecatedMethod‰",Remove this use of "Long"; it is deprecated.(ã°É„
-6squid:S2129Š"Remove this "Long" constructor(Óù€©
-Usquid:CallToDeprecatedMethodŠ",Remove this use of "Long"; it is deprecated.(Óù€©
-;squid:S2129‹"Remove this "Long" constructor(ƒœÇüÿÿÿÿ
-Zsquid:CallToDeprecatedMethod‹",Remove this use of "Long"; it is deprecated.(ƒœÇüÿÿÿÿ
-5squid:S2129Œ"Remove this "Long" constructor(Š°¡
-Tsquid:CallToDeprecatedMethodŒ",Remove this use of "Long"; it is deprecated.(Š°¡
-6squid:S2129"Remove this "Long" constructor(ƒÖ‚¶
-Usquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(ƒÖ‚¶
-6squid:S2129"Remove this "Long" constructor(üôÕÜ
-Usquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(üôÕÜ
-6squid:S2129"Remove this "Long" constructor(ØŞæ
-Usquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(ØŞæ
-;squid:S2129"Remove this "Long" constructor(…æŞíÿÿÿÿÿ
-Zsquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(…æŞíÿÿÿÿÿ
-6squid:S2129’"Remove this "Long" constructor(È®ä
-Usquid:CallToDeprecatedMethod’",Remove this use of "Long"; it is deprecated.(È®ä
-5squid:S2129“"Remove this "Long" constructor(Û¤ˆ
-Tsquid:CallToDeprecatedMethod“",Remove this use of "Long"; it is deprecated.(Û¤ˆ
-6squid:S2129•"Remove this "Long" constructor(”ñ™î
-Usquid:CallToDeprecatedMethod•",Remove this use of "Long"; it is deprecated.(”ñ™î
-;squid:S2129–"Remove this "Long" constructor(©éë¢ÿÿÿÿÿ
-Zsquid:CallToDeprecatedMethod–",Remove this use of "Long"; it is deprecated.(©éë¢ÿÿÿÿÿ
-;squid:S2129—"Remove this "Long" constructor(áî­˜ûÿÿÿÿ
-Zsquid:CallToDeprecatedMethod—",Remove this use of "Long"; it is deprecated.(áî­˜ûÿÿÿÿ
-6squid:S2129˜"Remove this "Long" constructor(ÿïÁÒ
-Usquid:CallToDeprecatedMethod˜",Remove this use of "Long"; it is deprecated.(ÿïÁÒ
-;squid:S2129œ"Remove this "Long" constructor(™‹Äûÿÿÿÿ
-Zsquid:CallToDeprecatedMethodœ",Remove this use of "Long"; it is deprecated.(™‹Äûÿÿÿÿ
-6squid:S2129"Remove this "Long" constructor(Ø®“¡
-Usquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(Ø®“¡
-;squid:S2129"Remove this "Long" constructor(ìü¥¶ıÿÿÿÿ
-Zsquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(ìü¥¶ıÿÿÿÿ
-6squid:S2129Ÿ"Remove this "Long" constructor(ø­ª¨
-Usquid:CallToDeprecatedMethodŸ",Remove this use of "Long"; it is deprecated.(ø­ª¨
-6squid:S2129 "Remove this "Long" constructor(Í¹Àê
-Usquid:CallToDeprecatedMethod ",Remove this use of "Long"; it is deprecated.(Í¹Àê
-;squid:S2129¡"Remove this "Long" constructor(‡ƒŠØıÿÿÿÿ
-Zsquid:CallToDeprecatedMethod¡",Remove this use of "Long"; it is deprecated.(‡ƒŠØıÿÿÿÿ
-5squid:S2129¢"Remove this "Long" constructor(¢µŸ
-Tsquid:CallToDeprecatedMethod¢",Remove this use of "Long"; it is deprecated.(¢µŸ
-6squid:S2129£"Remove this "Long" constructor(Ú¿è
-Usquid:CallToDeprecatedMethod£",Remove this use of "Long"; it is deprecated.(Ú¿è
-6squid:S2129¤"Remove this "Long" constructor(Ó§“
-Usquid:CallToDeprecatedMethod¤",Remove this use of "Long"; it is deprecated.(Ó§“
-6squid:S2129¥"Remove this "Long" constructor(š³¹Ÿ
-Usquid:CallToDeprecatedMethod¥",Remove this use of "Long"; it is deprecated.(š³¹Ÿ
-6squid:S2129¨"Remove this "Long" constructor(Ä—ü
-Usquid:CallToDeprecatedMethod¨",Remove this use of "Long"; it is deprecated.(Ä—ü
-;squid:S2129©"Remove this "Long" constructor(˜¯Ûúÿÿÿÿ
-Zsquid:CallToDeprecatedMethod©",Remove this use of "Long"; it is deprecated.(˜¯Ûúÿÿÿÿ
-P
-squid:S106­"9Replace this use of System.out or System.err by a logger.(Ù¯¬
-Bsquid:S1481"*Remove this unused "clazz" local variable.(ÒÒ½½
-Gsquid:S1481º"*Remove this unused "clazz" local variable.(¿Áèüûÿÿÿÿ
-Csquid:S1481ı"+Remove this unused "method" local variable.(ÀôÒ¶
-Hsquid:S1481­	"+Remove this unused "method" local variable.(’ÿÓÆüÿÿÿÿ
-Nsquid:S1481¡	"6Remove this unused "DOM_LEVEL3_METHOD" local variable.(Û°­ç
-Hsquid:S1481
-"+Remove this unused "method" local variable.(ÏÍÜ´ùÿÿÿÿ
-Hsquid:S1481’
-"+Remove this unused "method" local variable.(Ì­¼œûÿÿÿÿ
-Csquid:S1481¤
-"+Remove this unused "method" local variable.(È©†¶
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(Ù”ãøÿÿÿÿ
-hsquid:CommentedOutCodeLineı	"<This block of commented-out lines of code should be removed.(ğè­Éÿÿÿÿÿ

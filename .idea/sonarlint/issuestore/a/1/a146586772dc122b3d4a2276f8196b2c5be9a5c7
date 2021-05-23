@@ -1,60 +1,0 @@
-
-fsquid:S3824Œ	"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".( «»Ç
-fsquid:S3824÷"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".( «»Ç
-fsquid:S3824¡	"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".( «»Ç
-Qsquid:S1191|"5Use classes from the Java API instead of Sun classes.(‡ç´õùÿÿÿÿ
-osquid:S1192"WDefine a constant instead of duplicating this literal "removeProviderProperty" 4 times.(—ã™ş
-msquid:S1192˜"UDefine a constant instead of duplicating this literal " provider properties" 3 times.(ì‡áõ
-ssquid:S1192«"VDefine a constant instead of duplicating this literal "putProviderProperty." 12 times.(ßøÂúÿÿÿÿ
-`squid:S1192˜"HDefine a constant instead of duplicating this literal "Remove " 3 times.(ì‡áõ
-qsquid:S1192æ"TDefine a constant instead of duplicating this literal " provider property " 9 times.(±Øê•şÿÿÿÿ
-usquid:S1192ä"XDefine a constant instead of duplicating this literal "removeProviderProperty." 3 times.(ò³é»øÿÿÿÿ
-u
-squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÒÖ›ëÿÿÿÿÿ
-Vsquid:S4973«"9Use the "equals" method if value comparison was intended.(¨‚Õ©øÿÿÿÿ
-Vsquid:S4973«"9Use the "equals" method if value comparison was intended.(¨‚Õ©øÿÿÿÿ
-_squid:S00112ã"FDefine and throw a dedicated exception instead of using a generic one.(ó—ì
-dsquid:S00112Œ"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
-Gsquid:S2160w"+Override the "equals" method in this class.(¿»¦‡ùÿÿÿÿ
-Fsquid:S3077à	".Remove the "volatile" keyword from this field.(ÖƒÆï
-asquid:S3551ğ"IMake this method "synchronized" to match the parent class implementation.(Á»›ê
-Rsquid:S1161ğ":Add the "@Override" annotation above this method signature(Á»›ê
-Wsquid:S1161±":Add the "@Override" annotation above this method signature(óÕåÅúÿÿÿÿ
-vsquid:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÒƒÂıÿÿÿÿ
-vsquid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÒƒÂıÿÿÿÿ
-@squid:S1125£")Remove the literal "false" boolean value.(Ç¶F
-Fsquid:S1125·")Remove the literal "false" boolean value.(ø–õüÿÿÿÿ
-vsquid:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÿ¾÷ûÿÿÿÿ
-Fsquid:S1125Ò")Remove the literal "false" boolean value.(É»½²øÿÿÿÿ
-^squid:S3027Ù"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(§ÿã‘
->squid:S1168ß"&Return an empty array instead of null.(¥¹ï
-ksquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(°ÎÌ÷
-psquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(›´ß³øÿÿÿÿ
-ksquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(£ë«Ì
-jsquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(±¤—Û
-Fsquid:S1125Ì	")Remove the literal "false" boolean value.(™ÓÈ¦ÿÿÿÿÿ
-vsquid:S2293»
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Ü—“øÿÿÿÿ
-Asquid:S1125Ë")Remove the literal "false" boolean value.(ÀŞ
-Fsquid:S3077Ü".Remove the "volatile" keyword from this field.(£™¢¸
-vsquid:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿùâŠúÿÿÿÿ
-Dsquid:S1659Ü"'Declare "algorithm" on a separate line.(Öåµ³úÿÿÿÿ
-Dsquid:S1659Ü"'Declare "className" on a separate line.(Öåµ³úÿÿÿÿ
-Fsquid:S3077â".Remove the "volatile" keyword from this field.(®ëÎ¯
-vsquid:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ü»üÿÿÿÿ
-vsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¤Ü ùÿÿÿÿ
-psquid:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÃ¥0
-vsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“½²‚şÿÿÿÿ
-isquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğ©Ï'
-Asquid:S1125°")Remove the literal "false" boolean value.(Âİˆ®
-Fsquid:S1125Î")Remove the literal "false" boolean value.(Á¦è¹ûÿÿÿÿ
-qsquid:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨’áÕ
-Asquid:S1125¢")Remove the literal "false" boolean value.(¶ıüõ
-@squid:S1125Õ")Remove the literal "false" boolean value.(Û—«M
-Fsquid:S1125Ú")Remove the literal "false" boolean value.(ç—ó»ÿÿÿÿÿ
-Fsquid:S1125Ş")Remove the literal "false" boolean value.(€–Şıÿÿÿÿ
-^squid:S1126è"AReplace this if-then-else statement by a single return statement.(ˆÊ—³üÿÿÿÿ
-gsquid:HiddenFieldCheck‚"?Rename "className" which hides the field declared at line 1628.(œßƒÒÿÿÿÿÿ
-hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(Ñ¼®½üÿÿÿÿ
-hsquid:CommentedOutCodeLine‡	"<This block of commented-out lines of code should be removed.(ü·íµüÿÿÿÿ
-csquid:CommentedOutCodeLine•	"<This block of commented-out lines of code should be removed.(îá›Ÿ

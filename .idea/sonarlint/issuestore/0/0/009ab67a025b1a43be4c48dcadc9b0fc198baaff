@@ -1,40 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-Gsquid:S1066³"/Merge this if statement with the enclosing one.(õ”îş
-Gsquid:S1066Á"/Merge this if statement with the enclosing one.(ä°ÿ
-Gsquid:S1066İ"/Merge this if statement with the enclosing one.(ä°ÿ
-osquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¤éşÿÿÿÿ
-osquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶à·ÿÿÿÿÿ
-isquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çáòA
-osquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ôî²øÿÿÿÿ
-jsquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëé€‚
-osquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶à·ÿÿÿÿÿ
-isquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çáòA
-osquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ôî²øÿÿÿÿ
-jsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëé€‚
-jsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(Ì˜ü‘
-`squid:CallToDeprecatedMethodŸ"7Remove this use of "referencesClass"; it is deprecated.(¾«¢Ú
-`squid:CallToDeprecatedMethod¦"7Remove this use of "referencesClass"; it is deprecated.(­©È‘
-isquid:CallToDeprecatedMethod²";Remove this use of "referencesInterface"; it is deprecated.(¬îö‘ıÿÿÿÿ
-dsquid:CallToDeprecatedMethod¼";Remove this use of "referencesInterface"; it is deprecated.(ŠšÈ§
-`squid:CallToDeprecatedMethodÀ"7Remove this use of "referencesClass"; it is deprecated.(­©È‘
-isquid:CallToDeprecatedMethodÊ";Remove this use of "referencesInterface"; it is deprecated.(¬îö‘ıÿÿÿÿ
-`squid:CallToDeprecatedMethodÜ"7Remove this use of "referencesClass"; it is deprecated.(­©È‘
-Osquid:S1135ü"2Complete the task associated to this TODO comment.(ÉŒòƒÿÿÿÿÿ
-isquid:CallToDeprecatedMethod";Remove this use of "referencesInterface"; it is deprecated.(¬îö‘ıÿÿÿÿ
-osquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(â¶ÃÕøÿÿÿÿ
-Osquid:S1135¤"2Complete the task associated to this TODO comment.(ĞÕìĞıÿÿÿÿ
-Jsquid:S1135ª"2Complete the task associated to this TODO comment.(ÑíÒÍ
-Jsquid:S1135Â"2Complete the task associated to this TODO comment.(¼ıÒş
-isquid:CallToDeprecatedMethodÄ";Remove this use of "referencesInterface"; it is deprecated.(¯ûÓÅúÿÿÿÿ
-dsquid:CallToDeprecatedMethodÅ";Remove this use of "referencesInterface"; it is deprecated.(½²º¨
-Osquid:S1135Ç"2Complete the task associated to this TODO comment.(Á©ìÜıÿÿÿÿ
-Rsquid:S1133ş"5Do not forget to remove this deprecated code someday.(ú÷¹úÿÿÿÿ
-Usquid:MissingDeprecatedCheckş"'Add the missing @Deprecated annotation.(ú÷¹úÿÿÿÿ
-osquid:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú÷¹úÿÿÿÿ
-Osquid:S1135ƒ"2Complete the task associated to this TODO comment.(ĞÕìĞıÿÿÿÿ
-Jsquid:S1135"2Complete the task associated to this TODO comment.(¼ıÒş
-isquid:CallToDeprecatedMethod";Remove this use of "referencesInterface"; it is deprecated.(¯ûÓÅúÿÿÿÿ
-dsquid:CallToDeprecatedMethod";Remove this use of "referencesInterface"; it is deprecated.(½²º¨
-Osquid:S1135’"2Complete the task associated to this TODO comment.(Á©ìÜıÿÿÿÿ
-hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(ÓÓ„şÿÿÿÿ

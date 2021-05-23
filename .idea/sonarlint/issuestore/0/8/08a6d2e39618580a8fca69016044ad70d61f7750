@@ -1,16 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(†õ„§øÿÿÿÿ
-dsquid:S00112Ö"FDefine and throw a dedicated exception instead of using a generic one.(ú»¦†üÿÿÿÿ
-hsquid:UselessImportCheck)"?Remove this unused import 'java.util.MissingResourceException'.(å—¡Şşÿÿÿÿ
-lsquid:S00116"SRename this field "m_locale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£¶˜
-tsquid:S00116“"[Rename this field "m_resourceBundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú ÌÜ
-wsquid:S00116–"_Rename this field "m_resourceBundleName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¯ôG
-Psquid:S1197Ø"8Move the array designator from the variable to the type.(«ñ¢
-osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ä¹áòıÿÿÿÿ
-Nsquid:S1854Ÿ"7Remove this useless assignment to local variable "msg".(ÿ½ós
-Nsquid:S1854’"7Remove this useless assignment to local variable "msg".(ÿ½ós
-Psquid:S1197ú"8Move the array designator from the variable to the type.(Û¤¡’
-Psquid:S3878•"8Remove this array creation and simply pass the elements.(Ç³ƒ¤
-Psquid:S3878Á"8Remove this array creation and simply pass the elements.(Ç³ƒ¤
-Ysquid:UnusedPrivateMethodÄ".Remove this unused private "getLocale" method.(üÈ÷Òúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

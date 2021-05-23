@@ -1,18 +1,0 @@
-
-Msquid:S2065"0Remove the "transient" modifier from this field.(âïñãşÿÿÿÿ
-Hsquid:S2065"0Remove the "transient" modifier from this field.( ú™
-Ksquid:S3077".Remove the "volatile" keyword from this field.(âïñãşÿÿÿÿ
-Fsquid:S3077".Remove the "volatile" keyword from this field.( ú™
-Wsquid:S1161¸":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Wsquid:S1161ú":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Rsquid:S1161„":Add the "@Override" annotation above this method signature(ûÄ•
-Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
-Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(Û¶¬å
-msquid:S3038”"P"entrySet" is defined in the "Map" interface and can be removed from this class.(›íûÉøÿÿÿÿ
-osquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(İ¢êÍıÿÿÿÿ
-bsquid:S2147Õ"ECombine this catch with the one at line 595, which has the same body.(Ü–›×øÿÿÿÿ
-jsquid:S2975¯"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
-=squid:S1948á"%Make "key" transient or serializable.(æàİÌ
-Dsquid:S1948â"'Make "value" transient or serializable.(ÖÜİäøÿÿÿÿ
-=squid:S1948"%Make "key" transient or serializable.(æàİÌ
-Dsquid:S1948‘"'Make "value" transient or serializable.(Š¥²şÿÿÿÿ

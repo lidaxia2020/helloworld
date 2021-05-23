@@ -1,21 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
-osquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÛ³şúÿÿÿÿ
-osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÎ¼¯üÿÿÿÿ
-osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÎ¼¯üÿÿÿÿ
-osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÂÊ˜øÿÿÿÿ
-Wsquid:UselessImportCheck#"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-_squid:UselessImportCheck$";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-[squid:UselessImportCheck&"7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
-esquid:UselessImportCheck5"ARemove this unused import 'com.sun.corba.se.spi.ior.IORTemplate'.(Ôÿº©
-\squid:UselessImportCheck!"8Remove this unused import 'org.omg.CORBA.BAD_INV_ORDER'.(äÓìæ
-9squid:S2129Ì"!Remove this "Integer" constructor(¹ˆœÍ
-Xsquid:CallToDeprecatedMethodÌ"/Remove this use of "Integer"; it is deprecated.(¹ˆœÍ
-9squid:S2129Ì"!Remove this "Integer" constructor(¹ˆœÍ
-Xsquid:CallToDeprecatedMethodÌ"/Remove this use of "Integer"; it is deprecated.(¹ˆœÍ
-9squid:S2129Ò"!Remove this "Integer" constructor(Ñ÷ìº
-Xsquid:CallToDeprecatedMethodÒ"/Remove this use of "Integer"; it is deprecated.(Ñ÷ìº
-8squid:S2129Ó"!Remove this "Integer" constructor(‹÷¡U
-Wsquid:CallToDeprecatedMethodÓ"/Remove this use of "Integer"; it is deprecated.(‹÷¡U
-8squid:S2129Ó"!Remove this "Integer" constructor(‹÷¡U
-Wsquid:CallToDeprecatedMethodÓ"/Remove this use of "Integer"; it is deprecated.(‹÷¡U

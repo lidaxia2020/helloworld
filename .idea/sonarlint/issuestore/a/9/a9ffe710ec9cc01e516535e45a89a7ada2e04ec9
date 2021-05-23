@@ -1,12 +1,0 @@
-
-Vsquid:S1118$":Add a private constructor to hide the implicit public one.(š²ïùÿÿÿÿ
-Ysquid:CallToDeprecatedMethodZ",Remove this use of "Date"; it is deprecated.(Öâ°Øûÿÿÿÿ
-\squid:CallToDeprecatedMethodl"/Remove this use of "getYear"; it is deprecated.(÷÷Â…ûÿÿÿÿ
-]squid:CallToDeprecatedMethodp"0Remove this use of "getMonth"; it is deprecated.(Ÿç¼Öşÿÿÿÿ
-\squid:CallToDeprecatedMethodq"/Remove this use of "getDate"; it is deprecated.(›ğ®úÿÿÿÿ
-]squid:CallToDeprecatedMethodq"0Remove this use of "getHours"; it is deprecated.(›ğ®úÿÿÿÿ
-_squid:CallToDeprecatedMethodq"2Remove this use of "getMinutes"; it is deprecated.(›ğ®úÿÿÿÿ
-_squid:CallToDeprecatedMethodr"2Remove this use of "getSeconds"; it is deprecated.(¿ÑÔ÷ÿÿÿÿÿ
-Nsquid:S1197|"8Move the array designator from the variable to the type.(’»M
-Usquid:S1197‡"8Move the array designator from the variable to the type.(£¢§èüÿÿÿÿ
-Usquid:S1197‘"8Move the array designator from the variable to the type.(âëÊªùÿÿÿÿ

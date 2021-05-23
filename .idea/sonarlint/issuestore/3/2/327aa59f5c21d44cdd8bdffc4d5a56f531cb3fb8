@@ -1,8 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.( ŠÝ¹ýÿÿÿÿ
-~squid:S1192b"hDefine a constant instead of duplicating this literal "c14n.Canonicalizer.UnsupportedOperation" 3 times.(ÀË£s
-psquid:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(«‚ôÂ
-Hsquid:S1135a"2Complete the task associated to this TODO comment.(¯“¦R
-Hsquid:S1135t"2Complete the task associated to this TODO comment.(¯“¦R
-]squid:HiddenFieldCheck”":Rename "result" which hides the field declared at line 70.(Ýäî–
-Isquid:S1135³"2Complete the task associated to this TODO comment.(¯“¦R

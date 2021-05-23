@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ°¨£øÿÿÿÿ
-vsquid:UselessImportCheck)"MRemove this unused import 'com.sun.corba.se.impl.logging.IORSystemException'.(ù™Â©þÿÿÿÿ
-rsquid:UselessImportCheck%"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
-Lsquid:S2065,"0Remove the "transient" modifier from this field.(ÁŒ’»þÿÿÿÿ
-osquid:ModifiersOrderCheck,"EReorder the modifiers to comply with the Java Language Specification.(ÁŒ’»þÿÿÿÿ
-fsquid:S001007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÄÃ›

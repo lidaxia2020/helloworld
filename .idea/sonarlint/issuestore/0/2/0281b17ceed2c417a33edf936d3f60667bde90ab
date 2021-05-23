@@ -1,12 +1,0 @@
-
-Qsquid:S1191/"5Use classes from the Java API instead of Sun classes.(¸…Áçøÿÿÿÿ
-dsquid:S1192Ë"LDefine a constant instead of duplicating this literal " counter_=" 10 times.(›€Õ›
-gsquid:S1192ò"JDefine a constant instead of duplicating this literal " holder_=" 8 times.(œ¿ý¿øÿÿÿÿ
-ksquid:S00116°"RRename this field "holder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ˜ƒõ
-qsquid:S00116³"SRename this field "counter_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã›ô®üÿÿÿÿ
-Msquid:S2446Ú"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-Msquid:S2446…"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-Msquid:S2446¥"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-Msquid:S2446¿"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-jsquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ûÒŒ‘
-Msquid:S2446ð"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ

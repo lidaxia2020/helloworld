@@ -1,17 +1,0 @@
-
-Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒğw
-csquid:S1192"FDefine a constant instead of duplicating this literal "empty" 3 times.(˜›©Èøÿÿÿÿ
-ƒsquid:S1488Ê"kImmediately return this expression instead of assigning it to the temporary variable "inclusiveNamespaces".(ãı¹ç
-dsquid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-]squid:S2147"ECombine this catch with the one at line 268, which has the same body.(Ãôş•
-]squid:S2147"ECombine this catch with the one at line 268, which has the same body.(¶ùø
-jsquid:CallToDeprecatedMethod"<Remove this use of "XMLSecurityException"; it is deprecated.(˜›©Èøÿÿÿÿ
-jsquid:CallToDeprecatedMethod"<Remove this use of "XMLSecurityException"; it is deprecated.(˜›©Èøÿÿÿÿ
-jsquid:CallToDeprecatedMethod‘"<Remove this use of "XMLSecurityException"; it is deprecated.(˜›©Èøÿÿÿÿ
-•%squid:RedundantThrowsDeclarationCheck£"âRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.MissingResourceFailureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(äÛİş
-•%squid:RedundantThrowsDeclarationCheck´"âRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.MissingResourceFailureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(äÛİş
-%squid:RedundantThrowsDeclarationCheckÅ"×Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.c14n.CanonicalizationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(»âşüÿÿÿÿ
-“%squid:RedundantThrowsDeclarationCheckÅ"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.c14n.InvalidCanonicalizerException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(»âşüÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckŞ"×Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.c14n.CanonicalizationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(»âşüÿÿÿÿ
-“%squid:RedundantThrowsDeclarationCheckŞ"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.c14n.InvalidCanonicalizerException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(»âşüÿÿÿÿ
-Wsquid:S1161º":Add the "@Override" annotation above this method signature(È‚Ûÿÿÿÿÿ

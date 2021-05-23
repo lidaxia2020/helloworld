@@ -1,18 +1,0 @@
-
-Qsquid:S1191O"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckŒ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Â¸¶¼
-°%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ƒ­¨„
-µ%squid:RedundantThrowsDeclarationCheck•"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck™"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÛÎô¡şÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Åş†ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck¡"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ª¢ïÃ
-µ%squid:RedundantThrowsDeclarationCheck¥"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(×¯”şÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck©"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Œ£¯Å
-°%squid:RedundantThrowsDeclarationCheck­"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¦š¬ö
-µ%squid:RedundantThrowsDeclarationCheck±"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Íö©Ùûÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckµ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÚ ı
-µ%squid:RedundantThrowsDeclarationCheck¾"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÂ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(™•í¿øÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÇ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckË"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ıİªò
-°%squid:RedundantThrowsDeclarationCheckÏ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÿøÏí

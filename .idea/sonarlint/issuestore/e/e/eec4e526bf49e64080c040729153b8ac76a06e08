@@ -1,56 +1,0 @@
-
-Qsquid:S1191("5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
-jsquid:S00116­"RRename this field "_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¾…
-qsquid:S00116¶"SRename this field "_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ëßâÿÿÿÿÿ
-ksquid:S00116À"RRename this field "_indent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÏÏÍ
-rsquid:S00116Ê"TRename this field "_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‡×±úÿÿÿÿ
-vsquid:S00116Ò"XRename this field "_encodingInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆœÃùÿÿÿÿ
-xsquid:S00116Õ"ZRename this field "_allowJavaNames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ€¡ùÿÿÿÿ
-ssquid:S00116İ"URename this field "_mediaType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¡×üûÿÿÿÿ
-wsquid:S00116æ"YRename this field "_doctypeSystem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğïëúûÿÿÿÿ
-rsquid:S00116ï"YRename this field "_doctypePublic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Šò
-wsquid:S00116ø"^Rename this field "_omitXmlDeclaration" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Àä»
-usquid:S00116"WRename this field "_omitDoctype" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁûóÌÿÿÿÿÿ
-qsquid:S00116Š"XRename this field "_omitComments" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŞí³
-wsquid:S00116“"YRename this field "_stripComments" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥íºúÿÿÿÿ
-tsquid:S00116œ"VRename this field "_standalone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æş’øÿÿÿÿ
-wsquid:S00116¦"YRename this field "_cdataElements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¯ªİıÿÿÿÿ
-}squid:S00116°"_Rename this field "_nonEscapingElements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“€Ö§ûÿÿÿÿ
-wsquid:S00116¹"YRename this field "_lineSeparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á³ôÿÿÿÿÿ
-nsquid:S00116Â"URename this field "_lineWidth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â²ÒÔ
-rsquid:S00116Ì"TRename this field "_preserve" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‰İØûÿÿÿÿ
-|squid:S00116Ô"cRename this field "_preserveEmptyAttributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œêšÁ
-Vsquid:S1118W":Add a private constructor to hide the implicit public one.(åı™¸şÿÿÿÿ
-rsquid:S00115`"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±ƒ´
-rsquid:S00115h"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì¡äá
-wsquid:S00115q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´Àí²ûÿÿÿÿ
-wsquid:S00115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›‡Ø÷øÿÿÿÿ
-Wsquid:S1118€":Add a private constructor to hide the implicit public one.(‘˜²šşÿÿÿÿ
-ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§·õˆ
-xsquid:S00115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÏ·€üÿÿÿÿ
-ssquid:S00115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(›Ë»‚
-bsquid:CallToDeprecatedMethodÒ"4Remove this use of "EncodingInfo"; it is deprecated.(ÆœÃùÿÿÿÿ
-csquid:CallToDeprecatedMethod¹"5Remove this use of "LineSeparator"; it is deprecated.(á³ôÿÿÿÿÿ
-bsquid:CallToDeprecatedMethodé"4Remove this use of "EncodingInfo"; it is deprecated.(«Á”øÿÿÿÿ
-]squid:CallToDeprecatedMethod÷"4Remove this use of "EncodingInfo"; it is deprecated.(ã¯œü
-Zsquid:CallToDeprecatedMethodù"1Remove this use of "Encodings"; it is deprecated.(›Ÿ™
-csquid:CallToDeprecatedMethodä"5Remove this use of "LineSeparator"; it is deprecated.(‚‹Øíùÿÿÿÿ
-osquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÎËë×şÿÿÿÿ
-Wsquid:CallToDeprecatedMethodí".Remove this use of "Method"; it is deprecated.(–ÿ€Œ
-asquid:S1134ó"DTake the required action to fix the issue indicated by this comment.(ü‘ÆÌùÿÿÿÿ
-Wsquid:CallToDeprecatedMethodú".Remove this use of "Method"; it is deprecated.(–ÿ€Œ
-Wsquid:CallToDeprecatedMethodü".Remove this use of "Method"; it is deprecated.(ºÀœ
-\squid:CallToDeprecatedMethodş".Remove this use of "Method"; it is deprecated.(İåÏøÿÿÿÿÿ
-\squid:CallToDeprecatedMethodˆ	".Remove this use of "Method"; it is deprecated.(İåÏøÿÿÿÿÿ
-\squid:CallToDeprecatedMethod	".Remove this use of "Method"; it is deprecated.(İåÏøÿÿÿÿÿ
-9squid:S1181£	"!Catch Exception instead of Error.(ºÑœï
-Bsquid:S00108£	")Either remove or fill this block of code.(ºÑœï
-9squid:S1181¾	"!Catch Exception instead of Error.(ºÑœï
-Bsquid:S00108¾	")Either remove or fill this block of code.(ºÑœï
-Vsquid:CallToDeprecatedMethodÏ	".Remove this use of "Method"; it is deprecated.(ëµû
-\squid:CallToDeprecatedMethodÑ	".Remove this use of "Method"; it is deprecated.(ôõ„ßúÿÿÿÿ
-Wsquid:CallToDeprecatedMethodÓ	".Remove this use of "Method"; it is deprecated.(Ÿôıƒ
-\squid:CallToDeprecatedMethodÕ	".Remove this use of "Method"; it is deprecated.(±ìøÿÿÿÿ
-Wsquid:CallToDeprecatedMethod×	".Remove this use of "Method"; it is deprecated.(íÉØÿ
-Osquid:S1068“"2Remove this unused "_stripComments" private field.(›¥íºúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,21 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-Psquid:S4973b"9Use the "equals" method if value comparison was intended.(ï©â
-Vsquid:S4973"9Use the "equals" method if value comparison was intended.(íŠ®Òÿÿÿÿÿ
-Vsquid:S4973š"9Use the "equals" method if value comparison was intended.(–Ç£øÿÿÿÿ
-Vsquid:S4973¤"9Use the "equals" method if value comparison was intended.(©ÿè¹úÿÿÿÿ
-usquid:UselessImportCheck*"LRemove this unused import 'com.sun.org.apache.bcel.internal.generic.ICONST'.(ÅŠĞÛÿÿÿÿÿ
-jsquid:S00116@"RRename this field "_prefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•‰ã
-osquid:S00116A"RRename this field "_ignore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕß²ÿÿÿÿÿ
-qsquid:S00116B"YRename this field "_isLiteralName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èæª”
-msquid:S00116C"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•âŒ™ûÿÿÿÿ
-rsquid:S00116D"URename this field "_namespace" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖËÚÏıÿÿÿÿ
-wsquid:S1149™"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£û´ã
-Vsquid:S1161L":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-isquid:S3776]"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÁØ’›
-Qsquid:S1161]":Add the "@Override" annotation above this method signature(ÁØ’›
-Wsquid:S1161¼":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Rsquid:S1161ô":Add the "@Override" annotation above this method signature(†“‹Ø
-Wsquid:S1161¼":Add the "@Override" annotation above this method signature(ëÇæÀùÿÿÿÿ
-Gsquid:S1481õ"*Remove this unused "local" local variable.(áàÓÔúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

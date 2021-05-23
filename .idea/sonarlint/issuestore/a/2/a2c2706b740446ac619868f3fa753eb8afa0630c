@@ -1,9 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶‘×þ
-`squid:UselessImportCheckS"<Remove this unused import 'java.awt.image.DirectColorModel'.(—Úå¿
-Tsquid:UselessImportCheckO"+Remove this unused import 'java.awt.Point'.(îÞ˜Úüÿÿÿÿ
-^squid:UselessImportCheckU":Remove this unused import 'java.awt.image.DataBufferByte'.(»‰¯ú
-[squid:UselessImportCheckX"7Remove this unused import 'java.awt.image.SampleModel'.(’ïÎÒ
-]squid:UselessImportCheckV"9Remove this unused import 'java.awt.image.DataBufferInt'.(Ç€­£
-^squid:UselessImportCheckY":Remove this unused import 'java.awt.image.WritableRaster'.(Üï€
-_squid:UselessImportCheckT"6Remove this unused import 'java.awt.image.DataBuffer'.(Ý²žÂüÿÿÿÿ

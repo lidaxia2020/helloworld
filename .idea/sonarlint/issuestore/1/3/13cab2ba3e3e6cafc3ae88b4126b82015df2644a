@@ -1,12 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
-†"squid:ClassVariableVisibilityCheckÑ"RMake symbol a static final constant or non-public and provide accessors if needed.(˜Çœ¡ûÿÿÿÿ
-…"squid:ClassVariableVisibilityCheckÛ"VMake characters a static final constant or non-public and provide accessors if needed.(Ì£¦Ğ
-~"squid:ClassVariableVisibilityCheckŞ"PMake next a static final constant or non-public and provide accessors if needed.(ƒÊø
-8squid:S3626†"Remove this redundant jump.(µ‚Æ²ÿÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck€";Refactor the code to remove this label and the need for it.(ÈÆÊŸ
-h squid:LabelsShouldNotBeUsedCheck±";Refactor the code to remove this label and the need for it.(ÈÆÊŸ
-8squid:S3626Š"Remove this redundant jump.(µ‚Æ²ÿÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck„";Refactor the code to remove this label and the need for it.(ÈÆÊŸ
-h squid:LabelsShouldNotBeUsedCheck¯";Refactor the code to remove this label and the need for it.(ÈÆÊŸ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

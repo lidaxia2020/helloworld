@@ -1,18 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-osquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¯ª¶ıÿÿÿÿ
-osquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‰õ‚şÿÿÿÿ
-jsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÍÇÃ
-jsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÍÇÃ
-jsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÍÇÃ
-jsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
-osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¯êıÿÿÿÿ
-osquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÁ‹Øşÿÿÿÿ
-isquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ø0
-Csquid:S1659g"'Declare "pmg_index" on a separate line.(Ó»‰Šüÿÿÿÿ
-wsquid:S00116g"ZRename this field "pmg_class_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó»‰Šüÿÿÿÿ
-qsquid:S00116g"TRename this field "pmg_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó»‰Šüÿÿÿÿ
-U
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(Òüºçüÿÿÿÿ
-Wsquid:S1161²":Add the "@Override" annotation above this method signature(¼çØıùÿÿÿÿ
-Wsquid:S1161ö":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ

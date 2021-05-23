@@ -1,10 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
-usquid:UselessImportCheck)"QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
-fsquid:UselessImportCheck "BRemove this unused import 'org.omg.CORBA.TypeCodePackage.BadKind'.(ÍË‹‘
-}squid:UselessImportCheck%"YRemove this unused import 'org.omg.DynamicAny.DynAnyFactoryPackage.InconsistentTypeCode'.(ƒ­Š
-ssquid:UselessImportCheck#"JRemove this unused import 'org.omg.DynamicAny.DynAnyPackage.TypeMismatch'.(££´Âúÿÿÿÿ
-ssquid:UselessImportCheck$"JRemove this unused import 'org.omg.DynamicAny.DynAnyPackage.InvalidValue'.(ëŞ÷¤øÿÿÿÿ
-Usquid:UselessImportCheck"1Remove this unused import 'org.omg.CORBA.TCKind'.(ŞâƒÅ
-rsquid:UselessImportCheck("IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
-esquid:UselessImportCheck!"ARemove this unused import 'org.omg.CORBA.TypeCodePackage.Bounds'.( ²‘¤

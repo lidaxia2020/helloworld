@@ -1,21 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯¼Š«
-Rsquid:S1141‰"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-wsquid:UselessImportCheck&"TRemove this unnecessary import: same package classes are always implicitly imported.(óë”
-Zsquid:UselessImportCheck"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ
-@squid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-jsquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(¹Å½˜
-jsquid:ModifiersOrderCheckL"EReorder the modifiers to comply with the Java Language Specification.(ñËÃÌ
-N
-squid:S106N"9Replace this use of System.out or System.err by a logger.(‚š‰1
-osquid:ModifiersOrderCheckQ"EReorder the modifiers to comply with the Java Language Specification.(¶í‰Èşÿÿÿÿ
-nsquid:S3776w"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¡şÏÖøÿÿÿÿ
-Tsquid:S1197w"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-U
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-U
-squid:S106Ø"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-P
-squid:S106Ú"9Replace this use of System.out or System.err by a logger.(Ç­ûÚ
-Rsquid:S2274Ş":Remove this call to "wait" or move it into a "while" loop.(Û®Æ¢
-Lsquid:S1481`"0Remove this unused "rootContext" local variable.(ßèˆÏûÿÿÿÿ

@@ -1,10 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-osquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú›ùÿÿÿÿ
-osquid:S001164"RRename this field "m_attrs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ûÉ•şÿÿÿÿ
-jsquid:S00116@"RRename this field "m_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëòİã
-rsquid:S11494"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(­ûÉ•şÿÿÿÿ
-9squid:S2129Å"!Remove this "Integer" constructor(¦ÛĞ¨
-Xsquid:CallToDeprecatedMethodÅ"/Remove this use of "Integer"; it is deprecated.(¦ÛĞ¨
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Ÿİñ¼ÿÿÿÿÿ

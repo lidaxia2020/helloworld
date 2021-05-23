@@ -1,14 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ãø‘şÿÿÿÿ
-msquid:UselessImportCheck#"IRemove this unused import 'javax.imageio.metadata.IIOMetadataFormatImpl'.(¥Ï”ï
-Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-nsquid:UselessImportCheck""ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
-Ssquid:S2387("<"vendorName" is the name of a field in "IIOServiceProvider".(Êºº
-Usquid:S2387*"9"version" is the name of a field in "IIOServiceProvider".(ÆÍñ´üÿÿÿÿ
-Psquid:S2387,"9"names" is the name of a field in "ImageReaderWriterSpi".(±†³®
-Ssquid:S2387."<"suffixes" is the name of a field in "ImageReaderWriterSpi".(é©“Ğ
-Tsquid:S23870"="MIMETypes" is the name of a field in "ImageReaderWriterSpi".(‡­æè
-Ssquid:S23875"<"writerSpiNames" is the name of a field in "ImageReaderSpi".(Ôšä­
-rsquid:S00115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Êºº
-wsquid:S00115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÍñ´üÿÿÿÿ
-rsquid:S001152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(– ô

@@ -1,68 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(˜ÿ‰¸úÿÿÿÿ
-‚squid:S1192Ù"eDefine a constant instead of duplicating this literal "XPointerElementSchemeProcessingError" 3 times.(ú¿ˆ‘úÿÿÿÿ
-Esquid:S1199À"-Extract this nested code block into a method.(É¬“Ğ
-Esquid:S1199Í"-Extract this nested code block into a method.(úÍÚè
-u
-squid:S135á"YReduce the total number of break and continue statements in this loop to use at most one.(½µ–¥ûÿÿÿÿ
-nsquid:S1149á"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ûÜ£ê
-Tsquid:S1197\"8Move the array designator from the variable to the type.(ôÉ„úÿÿÿÿ
-Osquid:S1197e"8Move the array designator from the variable to the type.(“ÕŠâ
-Fsquid:EmptyStatementUsageChecke"Remove this empty statement.(“ÕŠâ
-µ%squid:RedundantThrowsDeclarationCheck”"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Å³Îùùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckŸ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(÷ç‡­ûÿÿÿÿ
-Usquid:S1197¶"8Move the array designator from the variable to the type.(â›ğÉşÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck "~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Æ†
-µ%squid:RedundantThrowsDeclarationCheckÑ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-osquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Âøé’ÿÿÿÿÿ
-Ksquid:S1172Ğ".Remove this unused method parameter "element".(Âøé’ÿÿÿÿÿ
-Psquid:S1197Õ"8Move the array designator from the variable to the type.(äá×¹
-jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(„Ö¢Ó
-°%squid:RedundantThrowsDeclarationCheckÙ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ô·Ê–
-µ%squid:RedundantThrowsDeclarationCheckû"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-nsquid:S1149á"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ûÜ£ê
-9squid:S2129ï"!Remove this "Integer" constructor(ıºàˆ
-Xsquid:CallToDeprecatedMethodï"/Remove this use of "Integer"; it is deprecated.(ıºàˆ
->squid:S2129ñ"!Remove this "Integer" constructor(›ı’Æøÿÿÿÿ
-]squid:CallToDeprecatedMethodñ"/Remove this use of "Integer"; it is deprecated.(›ı’Æøÿÿÿÿ
->squid:S2129ÿ"!Remove this "Integer" constructor(¸”Ã’üÿÿÿÿ
-]squid:CallToDeprecatedMethodÿ"/Remove this use of "Integer"; it is deprecated.(¸”Ã’üÿÿÿÿ
-9squid:S2129Œ"!Remove this "Integer" constructor(Ìÿ¶­
-Xsquid:CallToDeprecatedMethodŒ"/Remove this use of "Integer"; it is deprecated.(Ìÿ¶­
->squid:S2129›"!Remove this "Integer" constructor(‰»™úÿÿÿÿ
-]squid:CallToDeprecatedMethod›"/Remove this use of "Integer"; it is deprecated.(‰»™úÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck×"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïÈ¢Îüÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationChecké"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(øäÂÅùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckı"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(õ¾³óùÿÿÿÿ
-Isquid:S1659µ",Declare "CHARTYPE_OTHER" on a separate line.(”ô¿äşÿÿÿÿ
-Isquid:S1659¶",Declare "CHARTYPE_MINUS" on a separate line.(õÑ¬ºûÿÿÿÿ
-Jsquid:S1659·"-Declare "CHARTYPE_PERIOD" on a separate line.(¶î—øÿÿÿÿ
-Isquid:S1659¸",Declare "CHARTYPE_SLASH" on a separate line.(Ô‰í€úÿÿÿÿ
-Isquid:S1659¹",Declare "CHARTYPE_DIGIT" on a separate line.(Ö¯Íµøÿÿÿÿ
-Jsquid:S1659º"-Declare "CHARTYPE_LETTER" on a separate line.(ı–†êúÿÿÿÿ
-Hsquid:S1659»"1Declare "CHARTYPE_UNDERSCORE" on a separate line.(ÛµŞ
-Gsquid:S1659¼"/Declare "CHARTYPE_NONASCII" on a separate line.(™¦Ï
-µ%squid:RedundantThrowsDeclarationCheckï"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-osquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(÷ƒ‹ÿÿÿÿÿ
-Ssquid:S1854¶"6Remove this useless assignment to local variable "ch".(¼ÑÂ–ıÿÿÿÿ
-Ssquid:S1854¸"6Remove this useless assignment to local variable "ch".(¯£ıÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckƒ""Add a default case to this switch.(‰çÄÚ
-;squid:S2129›"#Remove this "Character" constructor(‰ëøğ
-Zsquid:CallToDeprecatedMethod›"1Remove this use of "Character"; it is deprecated.(‰ëøğ
-osquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(«”Š„ùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck„"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(§´ïÁúÿÿÿÿ
-Xsquid:UnusedPrivateMethod‹"-Remove this unused private "getToken" method.(ê±¦øÿÿÿÿ
-Vsquid:UnusedPrivateMethod¼"+Remove this unused private "rewind" method.(æµÁªûÿÿÿÿ
-Ysquid:UnusedPrivateMethodé".Remove this unused private "peekToken" method.(øäÂÅùÿÿÿÿ
-asquid:UnusedPrivateMethodı"6Remove this unused private "nextTokenAsString" method.(õ¾³óùÿÿÿÿ
-Msquid:S1068Ò"0Remove this unused "fgTokenNames" private field.(½¤üıÿÿÿÿ
-Msquid:S1068ß"0Remove this unused "fSymbolTable" private field.(õæ÷âùÿÿÿÿ
-Qsquid:S1068´"4Remove this unused "CHARTYPE_INVALID" private field.(óÏ×÷ÿÿÿÿÿ
-Msquid:S1068Ñ"0Remove this unused "fSymbolTable" private field.(õæ÷âùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(¡Š¸³øÿÿÿÿ
-csquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ôß 
-hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-csquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(™Ş‘˜
-csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(ŞÎÂÚ

@@ -1,140 +1,0 @@
-
-9squid:S1643¾"Use a StringBuilder instead.(åìÄÇüÿÿÿÿ
-… squid:ForLoopCounterChangedCheckñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ç‡º­
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ú¹ç²
-jsquid:S1192ç"MDefine a constant instead of duplicating this literal "IncludeChild" 3 times.(÷œ¹ğûÿÿÿÿ
-nsquid:S1192û"QDefine a constant instead of duplicating this literal "XMLResourceError" 5 times.(Ó…Ñ‹ıÿÿÿÿ
-Gsquid:S1066ß"/Merge this if statement with the enclosing one.(ÊÅªé
-Gsquid:S1066Ë"/Merge this if statement with the enclosing one.(·¸•«
-p
-squid:S135é"YReduce the total number of break and continue statements in this loop to use at most one.(ş‹§š
-"squid:ClassVariableVisibilityCheckù"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
-ˆ"squid:ClassVariableVisibilityCheckú"TMake systemId a static final constant or non-public and provide accessors if needed.(ÈÿÆµùÿÿÿÿ
-‡"squid:ClassVariableVisibilityCheckû"SMake baseURI a static final constant or non-public and provide accessors if needed.(¤Ç‡÷şÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheckü"TMake publicId a static final constant or non-public and provide accessors if needed.(ÀºÂñ
-"squid:ClassVariableVisibilityCheckı"\Make expandedSystemId a static final constant or non-public and provide accessors if needed.(ëŸÆİÿÿÿÿÿ
-"squid:ClassVariableVisibilityCheckş"YMake augmentations a static final constant or non-public and provide accessors if needed.(ŒäÊşÿÿÿÿ
-"squid:ClassVariableVisibilityCheck¢"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
-ˆ"squid:ClassVariableVisibilityCheck£"TMake systemId a static final constant or non-public and provide accessors if needed.(ÈÿÆµùÿÿÿÿ
-‡"squid:ClassVariableVisibilityCheck¤"SMake baseURI a static final constant or non-public and provide accessors if needed.(¤Ç‡÷şÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheck¥"TMake publicId a static final constant or non-public and provide accessors if needed.(ÀºÂñ
-"squid:ClassVariableVisibilityCheck¦"\Make expandedSystemId a static final constant or non-public and provide accessors if needed.(ëŸÆİÿÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheck§"TMake notation a static final constant or non-public and provide accessors if needed.(³¢Ü¼
-"squid:ClassVariableVisibilityCheck¨"YMake augmentations a static final constant or non-public and provide accessors if needed.(ŒäÊşÿÿÿÿ
-Qsquid:S4973"9Use the "equals" method if value comparison was intended.(™–§±
-Qsquid:S4973¹"9Use the "equals" method if value comparison was intended.(’ê³×
-Vsquid:S4973º"9Use the "equals" method if value comparison was intended.(ıøŒ‰üÿÿÿÿ
-Vsquid:S4973š"9Use the "equals" method if value comparison was intended.(—Šßªûÿÿÿÿ
-Vsquid:S4973›"9Use the "equals" method if value comparison was intended.(–ûşÛûÿÿÿÿ
-Vsquid:S4973Ö"9Use the "equals" method if value comparison was intended.(‰÷®ıÿÿÿÿ
-Vsquid:S4973Ù"9Use the "equals" method if value comparison was intended.(´š† ùÿÿÿÿ
-Vsquid:S4973á"9Use the "equals" method if value comparison was intended.(Ñ•ßúÿÿÿÿ
-fsquid:S2259«"NA "NullPointerException" could be thrown; "includedSystemId" is nullable here.(¹ñ†ß
-Wsquid:UselessImportCheck'"3Remove this unused import 'javax.xml.XMLConstants'.(Ğøš
-Lsquid:S1143¡"5Remove this return statement from this finally block.(¸®Ã'
-hsquid:S1149Ù"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ö¬õÁ
-gsquid:S1149Ú"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ä¾‹~
-hsquid:S1149Û"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(±Â¬“
-gsquid:S1149ß"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ûÒ¼ 
-ksquid:ModifiersOrderCheck¨"EReorder the modifiers to comply with the Java Language Specification.(åº¯
-psquid:ModifiersOrderCheckª"EReorder the modifiers to comply with the Java Language Specification.(¸€…Ãûÿÿÿÿ
-ksquid:ModifiersOrderCheck«"EReorder the modifiers to comply with the Java Language Specification.(Ÿ‰â®
-psquid:ModifiersOrderCheck¬"EReorder the modifiers to comply with the Java Language Specification.(¹¶…½øÿÿÿÿ
-psquid:ModifiersOrderCheck®"EReorder the modifiers to comply with the Java Language Specification.(ĞØùºûÿÿÿÿ
-ksquid:ModifiersOrderCheck°"EReorder the modifiers to comply with the Java Language Specification.(´õÌ¢
-psquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(õÏÚÛıÿÿÿÿ
-psquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(™İíùşÿÿÿÿ
-ksquid:ModifiersOrderCheck´"EReorder the modifiers to comply with the Java Language Specification.(ÌÿÁˆ
-jsquid:ModifiersOrderCheck¶"EReorder the modifiers to comply with the Java Language Specification.(ùî®Z
-ksquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(²íı
-psquid:ModifiersOrderCheck¸"EReorder the modifiers to comply with the Java Language Specification.(Ç†¨ˆûÿÿÿÿ
-ksquid:ModifiersOrderCheck¹"EReorder the modifiers to comply with the Java Language Specification.(£Åó¹
-ksquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(óıô
-psquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(Š˜Ñæûÿÿÿÿ
-psquid:ModifiersOrderCheckÀ"EReorder the modifiers to comply with the Java Language Specification.(¥€½Æüÿÿÿÿ
-psquid:ModifiersOrderCheckÃ"EReorder the modifiers to comply with the Java Language Specification.(ÁÚÚ‰ûÿÿÿÿ
-psquid:ModifiersOrderCheckÄ"EReorder the modifiers to comply with the Java Language Specification.(á‡¢ıÿÿÿÿ
-ksquid:ModifiersOrderCheckÌ"EReorder the modifiers to comply with the Java Language Specification.(ŒÅà¿
-psquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(Óóöûÿÿÿÿ
-psquid:ModifiersOrderCheckÔ"EReorder the modifiers to comply with the Java Language Specification.(€‹æùüÿÿÿÿ
-ksquid:ModifiersOrderCheckÜ"EReorder the modifiers to comply with the Java Language Specification.(ï™Şß
-ksquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(°„œ•
-psquid:ModifiersOrderCheckâ"EReorder the modifiers to comply with the Java Language Specification.(´•Ãœúÿÿÿÿ
->squid:S2129¦"!Remove this "Integer" constructor(¿‹¿øùÿÿÿÿ
-]squid:CallToDeprecatedMethod¦"/Remove this use of "Integer"; it is deprecated.(¿‹¿øùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¯"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-jsquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(±æ‚ö
-Bsquid:S00108×")Either remove or fill this block of code.(íƒÕ
-Gsquid:S00108å")Either remove or fill this block of code.(ÇŠ¡İüÿÿÿÿ
-Bsquid:S00108ó")Either remove or fill this block of code.(íƒÕ
-Csquid:S1905ƒ"+Remove this unnecessary cast to "String[]".(ó¶Ïª
-Ê%squid:RedundantThrowsDeclarationCheck"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Hsquid:S1905±"+Remove this unnecessary cast to "String[]".(§ğ×öÿÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckË"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-3squid:S3626‚"Remove this redundant jump.(ûÁİ…
-jsquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(šıšº
-Esquid:S2447›"-Null is returned but a "Boolean" is expected.(¥¹ï
-µ%squid:RedundantThrowsDeclarationCheckÖ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck†"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck“"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck›"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¯"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÄ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-jsquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ò–êë
-µ%squid:RedundantThrowsDeclarationCheck‹"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-osquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(èŒÁ³ûÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÚ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckŒ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck›	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¤	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck®	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¿	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÈ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÚ ı
-µ%squid:RedundantThrowsDeclarationCheckÑ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Åş†ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÚ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ª¢ïÃ
-µ%squid:RedundantThrowsDeclarationCheck‚
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckš
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¦
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(‹ÒÆ¢øÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck³
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck¿
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(İÍ²Ã
-µ%squid:RedundantThrowsDeclarationCheckÍ
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÚ
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckê
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck’"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¦"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¾"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckË"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckØ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckè"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckù"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÖ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-psquid:S3776Õ"SRefactor this method to reduce its Cognitive Complexity from 119 to the 15 allowed.(¸ÜŒ“ıÿÿÿÿ
-Osquid:S1135à"2Complete the task associated to this TODO comment.(ß£íûÿÿÿÿ
-Jsquid:S1135â"2Complete the task associated to this TODO comment.(äß‰
->squid:S2129é"!Remove this "Integer" constructor(‘³®™øÿÿÿÿ
-]squid:CallToDeprecatedMethodé"/Remove this use of "Integer"; it is deprecated.(‘³®™øÿÿÿÿ
-Qsquid:S1905¬"4Remove this unnecessary cast to "XPointerProcessor".(Ûè±Èüÿÿÿÿ
-Lsquid:S1905Ë"4Remove this unnecessary cast to "XPointerProcessor".(·¸•«
-Jsquid:S1135ó"2Complete the task associated to this TODO comment.(íŞ½Ò
-osquid:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(‡òÿÿúÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Š€ëœÿÿÿÿÿ
-asquid:S4201•"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¦õü
-asquid:S4201¿"IRemove this unnecessary null check; "instanceof" returns false for nulls.(²§ÍÁ
-Usquid:S1197«"8Move the array designator from the variable to the type.(´é˜šûÿÿÿÿ
-Psquid:S1197­"8Move the array designator from the variable to the type.(–®Ğ
-Usquid:S1197¯"8Move the array designator from the variable to the type.(Ÿ¨ÁÌøÿÿÿÿ
-jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(‘µ¬
-Qsquid:S4719‚"9Replace charset name argument with StandardCharsets.UTF_8(øÎ‚
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(ğàê¿
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôÂ…

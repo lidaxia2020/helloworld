@@ -1,34 +1,0 @@
-
-Lsquid:S1191	"5Use classes from the Java API instead of Sun classes.(ŞÄÿá
-Gsquid:S1066½"/Merge this if statement with the enclosing one.(šïë½
-Gsquid:S1066"/Merge this if statement with the enclosing one.(šïë½
-`squid:S3014#"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Ñé°
-Ssquid:S2589D"7Remove this expression which always evaluates to "true"(é¢Àûÿÿÿÿ
-Ssquid:S2589J"7Remove this expression which always evaluates to "true"(Äêçüÿÿÿÿ
-|squid:S1149Y"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(™ƒÂš
-Isquid:S1948#"2Make "queueThreadGroup" transient or serializable.(Ñé°
-Gsquid:S1948$"0Make "requestQThread" transient or serializable.(„¯
-Jsquid:S1948%".Make "timerQThread" transient or serializable.(ş”½ïûÿÿÿÿ
-Esquid:S11255")Remove the literal "false" boolean value.(´à‚‘şÿÿÿÿ
-Esquid:S11258")Remove the literal "false" boolean value.(Ü”‘—ıÿÿÿÿ
-Dsquid:S1125D"(Remove the literal "true" boolean value.(é¢Àûÿÿÿÿ
-Dsquid:S1125J"(Remove the literal "true" boolean value.(Äêçüÿÿÿÿ
-Gsquid:S2160x"+Override the "equals" method in this class.(—Ş«ùşÿÿÿÿ
-squid:S1149x"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—Ş«ùşÿÿÿÿ
-}squid:S1149£"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼ˆ®¬
-}squid:S1149¥"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§öŞ¼
-@squid:S1125”"(Remove the literal "true" boolean value.(²øºÂ
-Asquid:S1125—")Remove the literal "false" boolean value.(–¡Î¬
-@squid:S1125§"(Remove the literal "true" boolean value.(ÊÆ†’
-Csquid:S1168·"+Return an empty collection instead of null.(¥¹ï
-^squid:S2142Æ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Wsquid:S2274Å":Remove this call to "wait" or move it into a "while" loop.(ïõìæúÿÿÿÿ
-Bsquid:S00108Æ")Either remove or fill this block of code.(ä ¹€
-Hsquid:S2160æ"+Override the "equals" method in this class.(ºÏØßúÿÿÿÿ
-‚squid:S1149æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºÏØßúÿÿÿÿ
-@squid:S1125ı"(Remove the literal "true" boolean value.(²øºÂ
-Asquid:S1125€")Remove the literal "false" boolean value.(–¡Î¬
-@squid:S1125"(Remove the literal "true" boolean value.(ÊÆ†’
-^squid:S2142¦"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Wsquid:S2274¥":Remove this call to "wait" or move it into a "while" loop.(ïõìæúÿÿÿÿ
-Bsquid:S00108¦")Either remove or fill this block of code.(ä ¹€

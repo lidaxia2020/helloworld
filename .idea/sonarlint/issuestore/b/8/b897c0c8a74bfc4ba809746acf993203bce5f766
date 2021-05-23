@@ -1,9 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-jsquid:MaximumInheritanceDepth6"<This class has 6 parents which is greater than 5 authorized.(©Ø˜şÿÿÿÿ
-Dsquid:S1172F"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
-Qsquid:S1161T":Add the "@Override" annotation above this method signature(À…âÈ
-Qsquid:S1161c":Add the "@Override" annotation above this method signature(¬ôŒµ
-Qsquid:S1161v":Add the "@Override" annotation above this method signature(¢øéÄ
-Psquid:S1161{":Add the "@Override" annotation above this method signature(¦ÀÚM
-Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ

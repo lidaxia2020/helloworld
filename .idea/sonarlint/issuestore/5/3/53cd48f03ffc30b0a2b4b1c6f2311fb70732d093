@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(·£şŒşÿÿÿÿ
-Bsquid:S21605"+Override the "equals" method in this class.(¨¹¨â
-Vsquid:S1161c":Add the "@Override" annotation above this method signature(ì‹şÿÿÿÿ
-Rsquid:S1161":Add the "@Override" annotation above this method signature(÷—Ó€
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(ğ‹»Ç
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

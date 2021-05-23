@@ -1,10 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-c$squid:AssignmentInSubExpressionCheckn".Extract the assignment out of this expression.(Ÿ†â¡ıÿÿÿÿ
-isquid:S001169"QRename this field "_param" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹®Ê
-lsquid:S00116:"URename this field "_paramType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ö¯x
-squid:S1149L"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ò™óÁÿÿÿÿÿ
-Vsquid:S1161Y":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Vsquid:S1161q":Add the "@Override" annotation above this method signature(óù¬Úüÿÿÿÿ
-Qsquid:S1161{":Add the "@Override" annotation above this method signature(£û×û
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,66 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
-esquid:S00101k"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óç×â
-Esquid:S1604ˆ"(Make this anonymous inner class a lambda(Ú‘°’üÿÿÿÿ
-jsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šæÿˆ
-psquid:UselessImportCheck1"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
-@squid:S1148½"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
->squid:S1659f"'Declare "peekCount" on a separate line.(µ­¹ê
-8squid:S1170b"!Make this final field static too.(§–¥
-‹squid:S1845ú"nRename method "read_Value" to prevent any misunderstanding/clash with method "read_value" defined on line 695.(Öé¦óúÿÿÿÿ
-wsquid:S1149Ş"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ì‘ ”
-wsquid:S1149ß"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÍÔœÆ
-wsquid:S1149À"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¯’Ô¯
-Rsquid:S1161˜":Add the "@Override" annotation above this method signature(ä’çÂ
-:squid:S2129ò"#Remove this "Character" constructor(ÜË—r
-Ysquid:CallToDeprecatedMethodò"1Remove this use of "Character"; it is deprecated.(ÜË—r
-6squid:S2129–"Remove this "Byte" constructor(ôñ©Æ
-Usquid:CallToDeprecatedMethod–",Remove this use of "Byte"; it is deprecated.(ôñ©Æ
-7squid:S2129ª"Remove this "Short" constructor(­á«®
-Vsquid:CallToDeprecatedMethodª"-Remove this use of "Short"; it is deprecated.(­á«®
->squid:S2129Ù"!Remove this "Integer" constructor(»Şˆ—ûÿÿÿÿ
-]squid:CallToDeprecatedMethodÙ"/Remove this use of "Integer"; it is deprecated.(»Şˆ—ûÿÿÿÿ
-6squid:S2129ñ"Remove this "Long" constructor(™ñÎö
-Usquid:CallToDeprecatedMethodñ",Remove this use of "Long"; it is deprecated.(™ñÎö
-<squid:S2129‰"Remove this "Float" constructor(œ²Â‰úÿÿÿÿ
-[squid:CallToDeprecatedMethod‰"-Remove this use of "Float"; it is deprecated.(œ²Â‰úÿÿÿÿ
-=squid:S2129" Remove this "Double" constructor(Ò‹§ªüÿÿÿÿ
-\squid:CallToDeprecatedMethod".Remove this use of "Double"; it is deprecated.(Ò‹§ªüÿÿÿÿ
-gsquid:S00100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‘ ”
-]squid:HiddenFieldCheckß":Rename "buffer" which hides the field declared at line 91.(ÍÔœÆ
-Csquid:S1905ç"&Remove this unnecessary cast to "int".(îŸÅÿÿÿÿÿ
->squid:S1905è"&Remove this unnecessary cast to "int".(ââÊò
-gsquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•„Şš
-]squid:HiddenFieldCheckÀ":Rename "buffer" which hides the field declared at line 91.(¯’Ô¯
->squid:S2129Â"!Remove this "Integer" constructor(Í”ıùÿÿÿÿÿ
-]squid:CallToDeprecatedMethodÂ"/Remove this use of "Integer"; it is deprecated.(Í”ıùÿÿÿÿÿ
->squid:S2129Ã"!Remove this "Integer" constructor(ºØ™Ñıÿÿÿÿ
-]squid:CallToDeprecatedMethodÃ"/Remove this use of "Integer"; it is deprecated.(ºØ™Ñıÿÿÿÿ
-jsquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(•¿ßï
-P
-squid:S106‰"9Replace this use of System.out or System.err by a logger.(ßæè¬
-U
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-P
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(ïöíµ
-P
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(£‡Ş§
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Bsquid:S1181¼"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-U
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(¨Üƒ¤úÿÿÿÿ
-P
-squid:S106ª"9Replace this use of System.out or System.err by a logger.(×•œ²
-P
-squid:S106º"9Replace this use of System.out or System.err by a logger.(ÀÜïÍ
-U
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(ËæÙşÿÿÿÿ
-Jsquid:S1068\"3Remove this unused "encodingVersion" private field.(×¨”ì
-csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(èÂµê
-hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
-csquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(Ë™Ò¿
-hsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(¾Æç£ûÿÿÿÿ
-csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ÕáÓ
-csquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÕáÓ
-csquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(Åè…œ

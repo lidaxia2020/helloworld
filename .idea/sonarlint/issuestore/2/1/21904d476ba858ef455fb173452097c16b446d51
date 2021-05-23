@@ -1,45 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(‘…«ûÿÿÿÿ
-‚squid:S1192¦"eDefine a constant instead of duplicating this literal "target and filter types do not match" 3 times.(Øµ²Êıÿÿÿÿ
-Lsquid:S1066³"/Merge this if statement with the enclosing one.(º¾¨€ûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÇ".Extract the assignment out of this expression.(”°ºÃÿÿÿÿÿ
-tsquid:S1488È"\Immediately return this expression instead of assigning it to the temporary variable "cbmh".(¡Ú–¢
-dsquid:S00112”"FDefine and throw a dedicated exception instead of using a generic one.(„×‚©ıÿÿÿÿ
-_squid:S00112¡"FDefine and throw a dedicated exception instead of using a generic one.(™Çé°
-^squid:S00112Ò"FDefine and throw a dedicated exception instead of using a generic one.(ş°ÑQ
-_squid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(ûÌş”
-ksquid:ModifiersOrderCheck¼"EReorder the modifiers to comply with the Java Language Specification.(±¦ã¥
-rsquid:S3008Ê"ZRename this field "LOOKASIDE_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ƒî¬
-]squid:CallToDeprecatedMethod­"4Remove this use of "isAccessible"; it is deprecated.(µÆ…¨
-]squid:CallToDeprecatedMethod"4Remove this use of "isAccessible"; it is deprecated.(Õò¥¨
-bsquid:CallToDeprecatedMethod³"4Remove this use of "isAccessible"; it is deprecated.(†ƒ¦ÿÿÿÿÿ
-osquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¡ ¶‡ÿÿÿÿÿ
-isquid:HiddenFieldCheckŒ"ARename "allowedModes" which hides the field declared at line 736.(òÕ£¿ÿÿÿÿÿ
-isquid:HiddenFieldCheckÔ"ARename "allowedModes" which hides the field declared at line 736.(òÕ£¿ÿÿÿÿÿ
-Ysquid:S1126á"AReplace this if-then-else statement by a single return statement.(”Çƒ 
-asquid:S1134 "DTake the required action to fix the issue indicated by this comment.(……¢ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÂ"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(İ°ıÑıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckÜ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ÂË˜—üÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheckï"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¿Œ–´
-jsquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(Ä´¤R
-jsquid:ModifiersOrderCheckô"EReorder the modifiers to comply with the Java Language Specification.(Ä´¤R
-jsquid:ModifiersOrderCheck°"EReorder the modifiers to comply with the Java Language Specification.(Ä´¤R
->squid:S4274"(Replace this assert with a proper check.(ÃN
-Esquid:S4274÷"(Replace this assert with a proper check.(şõå¿ıÿÿÿÿ
-Esquid:S4274"(Replace this assert with a proper check.(îÁ·‚øÿÿÿÿ
-osquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(æƒ¦•şÿÿÿÿ
-`squid:S1854Û"CRemove this useless assignment to local variable "originalReorder".(ÜÖ³üÿÿÿÿ
-Asquid:S1659ë"$Declare "dstPos" on a separate line.(Ÿ±ºıÿÿÿÿ
-Asquid:S1659ë"$Declare "dupVal" on a separate line.(Ÿ±ºıÿÿÿÿ
-<squid:S1659ş"$Declare "insPos" on a separate line.(„¹—ö
-osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ğ«§¾üÿÿÿÿ
-ksquid:ModifiersOrderCheckÃ"EReorder the modifiers to comply with the Java Language Specification.(ı’¿Í
-œ%squid:RedundantThrowsDeclarationCheck”"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(„×‚©ıÿÿÿÿ
-—%squid:RedundantThrowsDeclarationCheck¡"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(™Çé°
-–%squid:RedundantThrowsDeclarationCheckÒ"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(ş°ÑQ
-—%squid:RedundantThrowsDeclarationCheck²"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(ûÌş”
-Qsquid:S1854õ"9Remove this useless assignment to local variable "gtype".(¾Åù
->squid:S1659ñ"!Declare "tpc" on a separate line.(Í¸Ìüÿÿÿÿ
-Vsquid:S1854Å"9Remove this useless assignment to local variable "htype".(úÀÜ³ûÿÿÿÿ
-9squid:S1659Á"!Declare "tpc" on a separate line.(äï‰
-Qsquid:S1481Û"4Remove this unused "originalReorder" local variable.(ÜÖ³üÿÿÿÿ

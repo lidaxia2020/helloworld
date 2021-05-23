@@ -1,7 +1,0 @@
-
-Qsquid:S1191,"5Use classes from the Java API instead of Sun classes.(ËÔŽàýÿÿÿÿ
-Vsquid:S1161~":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-csquid:HiddenFieldCheckŽ";Rename "nodeSet" which hides the field declared at line 97.(þø¢ûýÿÿÿÿ
-vsquid:S2293Ž"YReplace the type specification in this constructor call with the diamond operator ("<>").(þø¢ûýÿÿÿÿ
-osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ËÇª¯üÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck¥""Add a default case to this switch.(ô…È·

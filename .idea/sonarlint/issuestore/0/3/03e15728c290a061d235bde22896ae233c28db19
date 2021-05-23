@@ -1,4 +1,0 @@
-
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÊÐ·Îûÿÿÿÿ
-lsquid:S1149/"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(â¹Å¼þÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

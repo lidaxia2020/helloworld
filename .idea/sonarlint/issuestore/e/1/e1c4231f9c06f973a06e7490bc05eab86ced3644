@@ -1,29 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-^$squid:AssignmentInSubExpressionCheckR".Extract the assignment out of this expression.(®†£Ö
-^$squid:AssignmentInSubExpressionCheckS".Extract the assignment out of this expression.(ùĞğ
-_$squid:AssignmentInSubExpressionCheckĞ".Extract the assignment out of this expression.(½–Ù³
-fsquid:S00116L"NRename this field "_op" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ã÷¶
-msquid:S00116M"PRename this field "_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷øº«ûÿÿÿÿ
-nsquid:S00116N"QRename this field "_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íšÊüÿÿÿÿ
-Qsquid:S1161V":Add the "@Override" annotation above this method signature(­‘“
-Qsquid:S1161s":Add the "@Override" annotation above this method signature(–ğ±Ø
-]squid:S1126u"AReplace this if-then-else statement by a single return statement.(¶Œ‘ııÿÿÿÿ
-Vsquid:S1161y":Add the "@Override" annotation above this method signature(ªß­¦ùÿÿÿÿ
-]squid:S1126{"AReplace this if-then-else statement by a single return statement.(Ã±üÿÿÿÿ
-osquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(šíïÿÿÿÿÿ
-Wsquid:S1161Š":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(‚Šéƒùÿÿÿÿ
-Lsquid:S1905Ü"4Remove this unnecessary cast to "BranchInstruction".(ÎÍì²
-Qsquid:S1905İ"4Remove this unnecessary cast to "BranchInstruction".(Œîş—ùÿÿÿÿ
-Qsquid:S1905æ"4Remove this unnecessary cast to "BranchInstruction".(Œöì’ıÿÿÿÿ
-Ksquid:S1905ç"4Remove this unnecessary cast to "BranchInstruction".(¨ˆ£y
-Lsquid:S1905ë"4Remove this unnecessary cast to "BranchInstruction".(ÎÍì²
-Qsquid:S1905ì"4Remove this unnecessary cast to "BranchInstruction".(Œîş—ùÿÿÿÿ
-jsquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(†“‹Ø
-Rsquid:S1161õ":Add the "@Override" annotation above this method signature(†“‹Ø
-<squid:S1659‘"$Declare "falsec" on a separate line.(–•±ø
-Qsquid:S1905¤"4Remove this unnecessary cast to "BranchInstruction".(Œöì’ıÿÿÿÿ
-Qsquid:S1905¥"4Remove this unnecessary cast to "BranchInstruction".(ëãÅÁüÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(èÓ­%

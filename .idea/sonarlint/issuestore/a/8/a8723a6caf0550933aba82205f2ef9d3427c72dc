@@ -1,59 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheck¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(–«ä°ûÿÿÿÿ
-Lsquid:S1191&"5Use classes from the Java API instead of Sun classes.(éª‚€
-lsquid:S1192"UDefine a constant instead of duplicating this literal "haveNextNextGaussian" 3 times.(ÕËäo
-nsquid:S1192"QDefine a constant instead of duplicating this literal "nextNextGaussian" 3 times.(‹ÒÙ‚üÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckº".Extract the assignment out of this expression.(·Ñ…
-_$squid:AssignmentInSubExpressionCheckî".Extract the assignment out of this expression.(”ùˆõ
-d$squid:AssignmentInSubExpressionCheckó	".Extract the assignment out of this expression.(¡¬¦µşÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheck­
-".Extract the assignment out of this expression.(‡š
-_$squid:AssignmentInSubExpressionCheckè
-".Extract the assignment out of this expression.(±­Ğ 
-dsquid:S00112Ó"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
-wsquid:S00115o"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”Šûÿÿÿÿ
-wsquid:S00115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õğöàùÿÿÿÿ
-rsquid:S00115q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è¾°×
-rsquid:S00115v"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Ãã“
-rsquid:S00115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀÄèî
-wsquid:S00115x"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÜ‘ôüÿÿÿÿ
-ssquid:S00115Î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓèÒ
-ksquid:ModifiersOrderCheckĞ"EReorder the modifiers to comply with the Java Language Specification.(…šØ”
->squid:S1659ú"&Declare "nextseed" on a separate line.(Š€Õ
-asquid:HiddenFieldCheckû"9Rename "seed" which hides the field declared at line 109.(¨–Œ×øÿÿÿÿ
-<squid:S1659µ"Declare "m" on a separate line.(ğşÉ§ûÿÿÿÿ
-ksquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(°¨Ï†
-=squid:S1659í" Declare "v2" on a separate line.(ŞıèÅùÿÿÿÿ
-<squid:S1659í"Declare "s" on a separate line.(ŞıèÅùÿÿÿÿ
-gsquid:HiddenFieldCheckó"?Rename "multiplier" which hides the field declared at line 111.(»„ïµüÿÿÿÿ
-Fsquid:S1940£	")Use the opposite operator (">=") instead.(–á«ôùÿÿÿÿ
-Fsquid:S1940Ğ	")Use the opposite operator (">=") instead.(–á«ôùÿÿÿÿ
-7squid:S1659ñ	"Declare "m" on a separate line.(õÙùÇ
-6squid:S1659
-"Declare "f" on a separate line.(Ç™àe
-Rsquid:S1161Š
-":Add the "@Override" annotation above this method signature(ñ‰ì¶
-6squid:S1659Œ
-"Declare "f" on a separate line.(Ç™àe
-7squid:S1659
-"Declare "b" on a separate line.(‰«êà
-7squid:S1659«
-"Declare "m" on a separate line.(õÙùÇ
-6squid:S1659»
-"Declare "f" on a separate line.(Ç™àe
-Wsquid:S1161Ä
-":Add the "@Override" annotation above this method signature(ÖËàúÿÿÿÿ
-6squid:S1659Æ
-"Declare "f" on a separate line.(Ç™àe
-7squid:S1659Ê
-"Declare "b" on a separate line.(¹¶
-7squid:S1659æ
-"Declare "m" on a separate line.(õÙùÇ
-6squid:S1659ö
-"Declare "f" on a separate line.(Ç™àe
-Wsquid:S1161ÿ
-":Add the "@Override" annotation above this method signature(ß¿½ûÿÿÿÿ
-6squid:S1659"Declare "f" on a separate line.(Ç™àe
-<squid:S1659…"Declare "b" on a separate line.(ÏÚËÛıÿÿÿÿ
-psquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(—›Æ¥üÿÿÿÿ
-Wsquid:S1068›":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ

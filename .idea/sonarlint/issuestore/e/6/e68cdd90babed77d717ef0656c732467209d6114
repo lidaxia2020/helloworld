@@ -1,19 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ö™† 
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ñ¾â
-… squid:ForLoopCounterChangedCheck¤"XRefactor the code in order to not assign to this loop counter from within the loop body.(ö™† 
-… squid:ForLoopCounterChangedCheck¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ñ¾â
-Š squid:ForLoopCounterChangedCheckº"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢í¸‚úÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck»"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚¢Æúÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¢í¸‚úÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÓ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚¢Æúÿÿÿÿ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
-dsquid:MaximumInheritanceDepth3"<This class has 7 parents which is greater than 5 authorized.(ç±¶9
-Vsquid:S1161O":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
-Vsquid:S1161[":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
-Vsquid:S1161_":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
-wsquid:CallToDeprecatedMethodc"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‹Ä­ˆùÿÿÿÿ
-Vsquid:S1161c":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ
-isquid:S3776g"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(è­›
-Qsquid:S1161g":Add the "@Override" annotation above this method signature(è­›
-U"squid:SwitchLastCaseIsDefaultCheckz""Add a default case to this switch.(Æóõµıÿÿÿÿ

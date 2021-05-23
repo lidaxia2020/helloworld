@@ -1,58 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckŸ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheck¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Š squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ú”ØÜüÿÿÿÿ
-… squid:ForLoopCounterChangedCheck§	"XRefactor the code in order to not assign to this loop counter from within the loop body.(É…ªÂ
-… squid:ForLoopCounterChangedCheck­	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheck±	"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Lsquid:S1191!"5Use classes from the Java API instead of Sun classes.(õ‹½
-osquid:S1192¿"WDefine a constant instead of duplicating this literal "Could not open windows" 3 times.(¡í«Ü
-jsquid:S1192Ç"MDefine a constant instead of duplicating this literal " at root 0x" 19 times.(ø„˜†øÿÿÿÿ
-usquid:S1192ò"XDefine a constant instead of duplicating this literal "Could not open windows " 3 times.(ÔÒ·ÿÿÿÿÿ
-msquid:S1192ó"PDefine a constant instead of duplicating this literal "registry node " 11 times.(¢ãÅÿÿÿÿÿ
-Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
-Wsquid:UselessImportCheck".Remove this unused import 'java.util.TreeMap'.(¨éˆèıÿÿÿÿ
-wsquid:S3008 "ZRename this field "INIT_SLEEP_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—âÊùÿÿÿÿ
-osquid:S3008¨"WRename this field "MAX_ATTEMPTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¸Ü”
-|squid:S1149–"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(»Ààøÿÿÿÿ
-|squid:S1149º"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
-wsquid:S1149á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ç¹ˆ
-|squid:S1149š	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(»Ààøÿÿÿÿ
-wsquid:S1149É	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ç¹ˆ
-|squid:S1149Ğ	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(î¦¹òúÿÿÿÿ
-|squid:S1149‡
-"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
-lsquid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÒÂƒøÿÿÿÿ
-lsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÖò‹øÿÿÿÿ
-^squid:S2142Ò"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-fsquid:S00100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç’½t
-lsquid:S00100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôá˜´úÿÿÿÿ
-gsquid:S00100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø»çƒ
-^squid:S2142ş"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•í¯
-gsquid:S00100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¢„
-lsquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éˆ×ìùÿÿÿÿ
-^squid:S2142©"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-lsquid:S00100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë…™¹ùÿÿÿÿ
-gsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öàçã
-gsquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’õñë
-^squid:S2142Ö"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-gsquid:S00100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¶—é
-fsquid:S00100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÛËk
-gsquid:S00100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÆúË
-^squid:S2142‚"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-lsquid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êƒ€Õıÿÿÿÿ
-lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óšÌæøÿÿÿÿ
-^squid:S2142¨"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-gsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºëê§
-gsquid:S00100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÿß
-^squid:S2142Î"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Xsquid:S1854‰";Remove this useless assignment to local variable "subkeys".(Ğ‹íÿÿÿÿÿ
-Wsquid:S1161¨":Add the "@Override" annotation above this method signature(«ÉŠ‡ûÿÿÿÿ
-Wsquid:S1161Î":Add the "@Override" annotation above this method signature(­àµşÿÿÿÿ
-jsquid:S3776—	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ËÖ«Á
-Isquid:S1481‰",Remove this unused "subkeys" local variable.(Ğ‹íÿÿÿÿÿ
-hsquid:CommentedOutCodeLine•
-"<This block of commented-out lines of code should be removed.(©‰Ô®şÿÿÿÿ
-hsquid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(©‰Ô®şÿÿÿÿ

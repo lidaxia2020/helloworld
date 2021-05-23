@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
-usquid:UselessImportCheck'"QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
-Usquid:UselessImportCheck "1Remove this unused import 'org.omg.CORBA.TCKind'.(ŞâƒÅ
-rsquid:UselessImportCheck&"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
-Zsquid:UselessImportCheck"6Remove this unused import 'org.omg.CORBA.LocalObject'.(øöè
-hsquid:S00116S"PRename this field "__ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ•†–
-Gsquid:S1905V"+Remove this unnecessary cast to "String[]".(È«çéúÿÿÿÿ

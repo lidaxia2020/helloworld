@@ -1,147 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(˜ÿ‰¸úÿÿÿÿ
-rsquid:S1192À"ZDefine a constant instead of duplicating this literal "InvalidXPointerExpression" 4 times.(­Úí–
-rsquid:S1192ç"UDefine a constant instead of duplicating this literal "XPTRTOKEN_OPEN_PAREN" 5 times.(ñŒø«şÿÿÿÿ
-psquid:S1192©"XDefine a constant instead of duplicating this literal "XPointerProcessingError" 3 times.(Úê¹Ñ
-msquid:S1192„"VDefine a constant instead of duplicating this literal "XPTRTOKEN_CLOSE_PAREN" 3 times.(•³Œ
-Esquid:S1199Æ"-Extract this nested code block into a method.(ë¦·ê
-Esquid:S1199×"-Extract this nested code block into a method.(£î°ì
-u
-squid:S135½"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-u
-squid:S135‚"YReduce the total number of break and continue statements in this loop to use at most one.(½µ–¥ûÿÿÿÿ
-u
-squid:S135¤"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-xsquid:S1488†"`Immediately return this expression instead of assigning it to the temporary variable "resolved".(ëƒ
-Vsquid:S4973ç"9Use the "equals" method if value comparison was intended.(ñŒø«şÿÿÿÿ
-Vsquid:S4973ù"9Use the "equals" method if value comparison was intended.(åãŸØøÿÿÿÿ
-Psquid:S4973„"9Use the "equals" method if value comparison was intended.(•³Œ
-Qsquid:S4973‹"9Use the "equals" method if value comparison was intended.(Ú¨±ñ
-Qsquid:S4973ö
-"9Use the "equals" method if value comparison was intended.(²ßÎş
-Qsquid:S4973€"9Use the "equals" method if value comparison was intended.(²ßÎş
-Qsquid:S4973Š"9Use the "equals" method if value comparison was intended.(Ë©®¼
-Qsquid:S4973”"9Use the "equals" method if value comparison was intended.(Ë©®¼
-Qsquid:S4973"9Use the "equals" method if value comparison was intended.(²ßÎş
-8squid:S1170q"!Make this final field static too.(°Âîì
-Wsquid:S2387n";"fSymbolTable" is the name of a field in "XIncludeHandler".(ã ‡£úÿÿÿÿ
-vsquid:S00116q"^Rename this field "ELEMENT_SCHEME_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Âîì
-|squid:S1149_"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÛÑ¡Ü
-‚squid:S1149ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷·©ÿúÿÿÿÿ
-nsquid:S1149¸"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ûÜ£ê
-wsquid:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ñ’™¾
-|squid:S1149¢"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ªæãáüÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¡"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Å³Îùùÿÿÿÿ
-osquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(Å³Îùùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¬"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161«":Add the "@Override" annotation above this method signature(÷ç‡­ûÿÿÿÿ
-9squid:S2129•"!Remove this "Integer" constructor(ˆ˜‹
-Xsquid:CallToDeprecatedMethod•"/Remove this use of "Integer"; it is deprecated.(ˆ˜‹
-9squid:S2129–"!Remove this "Integer" constructor(«×ŞÕ
-Xsquid:CallToDeprecatedMethod–"/Remove this use of "Integer"; it is deprecated.(«×ŞÕ
-°%squid:RedundantThrowsDeclarationCheckÁ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Æ†
-°%squid:RedundantThrowsDeclarationCheckï"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ô·Ê–
-Fsquid:S1125ñ")Remove the literal "false" boolean value.(³¹ßÈüÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck…"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¶İÙÔ
-Asquid:S1125‡")Remove the literal "false" boolean value.(Ü±Ê
-µ%squid:RedundantThrowsDeclarationCheck”"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(µ´ºªüÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck­"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÄ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Psquid:S1659¤"3Declare "XPTRTOKEN_CLOSE_PAREN" on a separate line.(…øÒôùÿÿÿÿ
-Nsquid:S1659¤"1Declare "XPTRTOKEN_SHORTHAND" on a separate line.(…øÒôùÿÿÿÿ
-Jsquid:S1659¥"2Declare "XPTRTOKEN_SCHEMENAME" on a separate line.(ğËÉ¸
-Jsquid:S1659¥"2Declare "XPTRTOKEN_SCHEMEDATA" on a separate line.(ğËÉ¸
-nsquid:S1149¸"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ûÜ£ê
->squid:S2129Æ"!Remove this "Integer" constructor(¿‹Çüÿÿÿÿ
-]squid:CallToDeprecatedMethodÆ"/Remove this use of "Integer"; it is deprecated.(¿‹Çüÿÿÿÿ
-9squid:S2129È"!Remove this "Integer" constructor(¼ò©
-Xsquid:CallToDeprecatedMethodÈ"/Remove this use of "Integer"; it is deprecated.(¼ò©
->squid:S2129Ê"!Remove this "Integer" constructor(¹ƒ¬ıÿÿÿÿ
-]squid:CallToDeprecatedMethodÊ"/Remove this use of "Integer"; it is deprecated.(¹ƒ¬ıÿÿÿÿ
-9squid:S2129Ì"!Remove this "Integer" constructor(ò©¨û
-Xsquid:CallToDeprecatedMethodÌ"/Remove this use of "Integer"; it is deprecated.(ò©¨û
->squid:S2129Î"!Remove this "Integer" constructor(Ã›²©ûÿÿÿÿ
-]squid:CallToDeprecatedMethodÎ"/Remove this use of "Integer"; it is deprecated.(Ã›²©ûÿÿÿÿ
->squid:S2129Ü"!Remove this "Integer" constructor(¸”Ã’üÿÿÿÿ
-]squid:CallToDeprecatedMethodÜ"/Remove this use of "Integer"; it is deprecated.(¸”Ã’üÿÿÿÿ
->squid:S2129ë"!Remove this "Integer" constructor(‰»™úÿÿÿÿ
-]squid:CallToDeprecatedMethodë"/Remove this use of "Integer"; it is deprecated.(‰»™úÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck§"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïÈ¢Îüÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckº"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(øäÂÅùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÏ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(õ¾³óùÿÿÿÿ
-Dsquid:S1659û",Declare "CHARTYPE_OTHER" on a separate line.(êó³Ş
-Nsquid:S1659ü"1Declare "CHARTYPE_WHITESPACE" on a separate line.(§öÛ¾ùÿÿÿÿ
-Esquid:S1659ı"-Declare "CHARTYPE_CARRET" on a separate line.(‰½Şâ
-Nsquid:S1659ş"1Declare "CHARTYPE_OPEN_PAREN" on a separate line.(Ë˜Ì÷øÿÿÿÿ
-Osquid:S1659ÿ"2Declare "CHARTYPE_CLOSE_PAREN" on a separate line.(ÇËËûÿÿÿÿ
-Isquid:S1659€",Declare "CHARTYPE_MINUS" on a separate line.(•æœşøÿÿÿÿ
-Dsquid:S1659"-Declare "CHARTYPE_PERIOD" on a separate line.(¶¢ŞZ
-Isquid:S1659‚",Declare "CHARTYPE_SLASH" on a separate line.(ˆ ‰ùÿÿÿÿ
-Dsquid:S1659ƒ",Declare "CHARTYPE_DIGIT" on a separate line.(•‚ëƒ
-Dsquid:S1659„",Declare "CHARTYPE_COLON" on a separate line.(á÷ …
-Dsquid:S1659…",Declare "CHARTYPE_EQUAL" on a separate line.(ú­Ë 
-Esquid:S1659†"-Declare "CHARTYPE_LETTER" on a separate line.(ÿÇùØ
-Isquid:S1659‡"1Declare "CHARTYPE_UNDERSCORE" on a separate line.(œÕÆÜ
-Lsquid:S1659ˆ"/Declare "CHARTYPE_NONASCII" on a separate line.(ß™ü©ûÿÿÿÿ
-wsquid:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ñ’™¾
-|squid:S1149¢"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ªæãáüÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck±"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(÷ƒ‹ÿÿÿÿÿ
-Ssquid:S1854˜"6Remove this useless assignment to local variable "ch".(¼ÑÂ–ıÿÿÿÿ
-Ssquid:S1854£"6Remove this useless assignment to local variable "ch".(¼ÑÂ–ıÿÿÿÿ
-Ssquid:S1854¥"6Remove this useless assignment to local variable "ch".(¯£ıÿÿÿÿ
-Ssquid:S1854¨";Remove this useless assignment to local variable "isQName".(ÚËó
-Xsquid:S1854²";Remove this useless assignment to local variable "isQName".(ø…Ş»ûÿÿÿÿ
-Xsquid:S1854·";Remove this useless assignment to local variable "isQName".(ø…Ş»ûÿÿÿÿ
-Ssquid:S1854Ì"6Remove this useless assignment to local variable "ch".(¼ÑÂ–ıÿÿÿÿ
-Ssquid:S1854Î"6Remove this useless assignment to local variable "ch".(¯£ıÿÿÿÿ
-@squid:S1659¶"(Declare "dataOffset" on a separate line.(å×»Ñ
-Q"squid:SwitchLastCaseIsDefaultCheckâ""Add a default case to this switch.(‰çÄÚ
-osquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(«”Š„ùÿÿÿÿ
-osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ªæãáüÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckê"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(§´ïÁúÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck€	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ƒ­¨„
-Rsquid:S1161€	":Add the "@Override" annotation above this method signature(ƒ­¨„
-µ%squid:RedundantThrowsDeclarationCheck 	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Rsquid:S1161Ÿ	":Add the "@Override" annotation above this method signature(¥áÃÊ
-µ%squid:RedundantThrowsDeclarationCheck¶	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Rsquid:S1161µ	":Add the "@Override" annotation above this method signature(ÊÂÎ
-µ%squid:RedundantThrowsDeclarationCheckÙ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Rsquid:S1161Ø	":Add the "@Override" annotation above this method signature(Š†ÒÎ
-µ%squid:RedundantThrowsDeclarationCheckú	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Rsquid:S1161ù	":Add the "@Override" annotation above this method signature(ã·ú
-µ%squid:RedundantThrowsDeclarationCheck”
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161“
-":Add the "@Override" annotation above this method signature(ÂÖ¶Òıÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck©
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Rsquid:S1161¨
-":Add the "@Override" annotation above this method signature(”¥˜’
-°%squid:RedundantThrowsDeclarationCheck¿
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÚ ı
-Rsquid:S1161¿
-":Add the "@Override" annotation above this method signature(äÚ ı
-µ%squid:RedundantThrowsDeclarationCheckÒ
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Åş†ÿÿÿÿÿ
-Wsquid:S1161Ò
-":Add the "@Override" annotation above this method signature(Åş†ÿÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckó
-"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-jsquid:S3776ò
-"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(šıšº
-Rsquid:S1161ò
-":Add the "@Override" annotation above this method signature(šıšº
-Isquid:S1481·",Remove this unused "isQName" local variable.(±ÔÃ°üÿÿÿÿ
-Vsquid:UnusedPrivateMethodŒ"+Remove this unused private "rewind" method.(æµÁªûÿÿÿÿ
-asquid:UnusedPrivateMethodÏ"6Remove this unused private "nextTokenAsString" method.(õ¾³óùÿÿÿÿ
-Msquid:S1068¨"0Remove this unused "fgTokenNames" private field.(ş±ÀÊûÿÿÿÿ
-Msquid:S1068¶"0Remove this unused "fSymbolTable" private field.(õæ÷âùÿÿÿÿ
-Lsquid:S1068ú"4Remove this unused "CHARTYPE_INVALID" private field.(Í‘¹†
-Msquid:S1068—"0Remove this unused "fSymbolTable" private field.(õæ÷âùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(‰­İ„
-csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(çô‡ú
-csquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ã‚—£
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€’ŒÄ
-bsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(àıŞY

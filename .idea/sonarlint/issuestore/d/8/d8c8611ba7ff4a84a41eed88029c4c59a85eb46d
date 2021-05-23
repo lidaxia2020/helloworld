@@ -1,9 +1,0 @@
-
-rsquid:S00115Á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿýòh
-Usquid:S1197‘"8Move the array designator from the variable to the type.(ÂÛµÄüÿÿÿÿ
-Usquid:S1197¨"8Move the array designator from the variable to the type.(‰Ûà–ûÿÿÿÿ
-psquid:ModifiersOrderCheck¾"EReorder the modifiers to comply with the Java Language Specification.(Í÷Ì²üÿÿÿÿ
-Usquid:S1197¾"8Move the array designator from the variable to the type.(Í÷Ì²üÿÿÿÿ
-Usquid:S1197Ä"8Move the array designator from the variable to the type.(ÿ¾ðèùÿÿÿÿ
-psquid:S3038¼"S"close" is defined in the "Closeable" interface and can be removed from this class.(Îöò¹úÿÿÿÿ
-psquid:ModifiersOrderCheck¼"EReorder the modifiers to comply with the Java Language Specification.(Îöò¹úÿÿÿÿ

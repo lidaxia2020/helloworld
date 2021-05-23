@@ -1,22 +1,0 @@
-
-Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(Õªü@
-rsquid:S1192¼"UDefine a constant instead of duplicating this literal "generic.EmptyMessage" 4 times.(µ–öëıÿÿÿÿ
-|squid:S1488ª"dImmediately return this expression instead of assigning it to the temporary variable "uriNewNoFrag".(¬õ¯¦
-Tsquid:S2387Z"="properties" is the name of a field in "ResourceResolverSpi".(Ìßá
-qsquid:S00115a"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü·Ñ=
-wsquid:S00115d"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ—”Õüÿÿÿÿ
-rsquid:S00115g"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ¸“ü
-wsquid:S00115j"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Úù—¤üÿÿÿÿ
-wsquid:S00115m"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘è˜ãüÿÿÿÿ
-wsquid:S00115p"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ëÒßşÿÿÿÿ
-Osquid:S1197Z"8Move the array designator from the variable to the type.(Ìßá
-Jsquid:S1135‚"2Complete the task associated to this TODO comment.(Äû€
-\squid:S2147½"ECombine this catch with the one at line 187, which has the same body.(ÎËŠ
-]squid:S2147¿"ECombine this catch with the one at line 187, which has the same body.(Ãôş•
-\squid:CallToDeprecatedMethod".Remove this use of "Base64"; it is deprecated.(õ§òÂıÿÿÿÿ
-[squid:S4719">Replace charset name argument with StandardCharsets.ISO_8859_1(õ§òÂıÿÿÿÿ
-Psquid:S2647¡"3Use a more secure method than basic authentication.(èŸÎ¦øÿÿÿÿ
-Usquid:S1197¨"8Move the array designator from the variable to the type.(óø×›ÿÿÿÿÿ
-\squid:CallToDeprecatedMethodİ".Remove this use of "Base64"; it is deprecated.(ß´Ÿ¨ÿÿÿÿÿ
-[squid:S4719İ">Replace charset name argument with StandardCharsets.ISO_8859_1(ß´Ÿ¨ÿÿÿÿÿ
-Rsquid:S1161›":Add the "@Override" annotation above this method signature(Ç½Ÿ

@@ -1,7 +1,0 @@
-
-Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(²É“
-psquid:S00116>"SRename this field "m_funcID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ˆÿ÷ùÿÿÿÿ
-msquid:S00116A"URename this field "m_funcName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Žãõÿ
-\squid:S3027z"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(ËªÊ+
-Hsquid:S1068>",Remove this unused "m_funcID" private field.(¤ˆÿ÷ùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

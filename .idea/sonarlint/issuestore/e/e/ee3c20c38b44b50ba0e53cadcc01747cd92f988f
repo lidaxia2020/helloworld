@@ -1,26 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
-@squid:S1604É"(Make this anonymous inner class a lambda(Ùš±¬
-xsquid:S3008Q"\Rename this field "ABSTRACT_TRANSLET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¥ĞÔıÿÿÿÿ
-3squid:S5164¢"Call "remove()" on "_sdom".(­®•€
-msquid:S00116Z"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÚÑüÿÿÿÿ
-rsquid:S00116c"URename this field "_bytecodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÒèïøÿÿÿÿ
-nsquid:S00116l"QRename this field "_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó‹°üÿÿÿÿ
-vsquid:S00116u"YRename this field "_transletIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úè ™şÿÿÿÿ
-ssquid:S00116}"VRename this field "_auxClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êñüÿÿÿÿÿ
-usquid:S00116…"\Rename this field "_outputProperties" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à´•ä
-qsquid:S00116"XRename this field "_indentNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ïû
-usquid:S00116–"WRename this field "_uriResolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÔùşÿÿÿÿ
-isquid:S00116¢"PRename this field "_sdom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­®•€
-msquid:S00116«"TRename this field "_tfactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÏÕ
-~squid:S00116­"`Rename this field "_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ôô²øÿÿÿÿ
-‚squid:S00116µ"dRename this field "_accessExternalStylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¯®’üÿÿÿÿ
-jsquid:ModifiersOrderCheckG"EReorder the modifiers to comply with the Java Language Specification.(«ã³Á
-…squid:S00116¹"lRename this field "_loadedExternalExtensionFunctions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÚÙä
-Rsquid:S1161Å":Add the "@Override" annotation above this method signature(¡”¥‘
-]squid:S2147“"ECombine this catch with the one at line 527, which has the same body.(™è“î
-[squid:CallToDeprecatedMethod„"3Remove this use of "newInstance"; it is deprecated.(åù`
-_squid:UnusedPrivateMethodé"9Remove this unused private "setTransletBytecodes" method.(º«ÕŞ
-dsquid:UnusedPrivateMethodú"9Remove this unused private "getTransletBytecodes" method.(›ÃÕËûÿÿÿÿ
-bsquid:UnusedPrivateMethod‹"7Remove this unused private "getTransletClasses" method.(•±Àòúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

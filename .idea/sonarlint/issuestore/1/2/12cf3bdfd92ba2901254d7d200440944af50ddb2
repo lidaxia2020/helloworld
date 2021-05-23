@@ -1,7 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‡½Òµüÿÿÿÿ
-jsquid:ModifiersOrderCheck5"EReorder the modifiers to comply with the Java Language Specification.(Óú’—
-_squid:CallToDeprecatedMethod}"2Remove this use of "RemoteStub"; it is deprecated.(ÀËô±ÿÿÿÿÿ
-]squid:S2147˜"ECombine this catch with the one at line 534, which has the same body.(Å¡ß
-]squid:S2147š"ECombine this catch with the one at line 534, which has the same body.(ğıˆÒ
-\squid:CallToDeprecatedMethodŒ"3Remove this use of "newInstance"; it is deprecated.(‰Ã‰–

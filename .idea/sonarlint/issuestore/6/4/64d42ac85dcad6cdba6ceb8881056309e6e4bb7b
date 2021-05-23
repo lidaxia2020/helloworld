@@ -1,7 +1,0 @@
-
-Rsquid:S1191ƒ"5Use classes from the Java API instead of Sun classes.(ôïÈ‰ûÿÿÿÿ
-Dsquid:S1604w"(Make this anonymous inner class a lambda(Áé¨äúÿÿÿÿ
-dsquid:S00112”"FDefine and throw a dedicated exception instead of using a generic one.(éå†öúÿÿÿÿ
-dsquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
-Gsquid:S00108â")Either remove or fill this block of code.(ó¿Ê¥ùÿÿÿÿ
-Gsquid:S00108í")Either remove or fill this block of code.(ó¿Ê¥ùÿÿÿÿ

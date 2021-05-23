@@ -1,167 +1,0 @@
-
-Ysquid:S2184ê	"ACast one of the operands of this addition operation to a "float".(˜«ùå
-Ysquid:S2184ë	"ACast one of the operands of this addition operation to a "float".(‰£í€
-Ysquid:S2184í	"ACast one of the operands of this addition operation to a "float".(¶›öÎ
-^squid:S2184î	"ACast one of the operands of this addition operation to a "float".(Œªİğÿÿÿÿÿ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.( ¸¤
-zsquid:S1192€"bDefine a constant instead of duplicating this literal "InternalFrameTitlePane.menuButton" 3 times.(ò—‰¤
-usquid:S1192Ö"XDefine a constant instead of duplicating this literal "InternalFrame.northPane" 3 times.(Ñõ±°ûÿÿÿÿ
-^squid:S1192è"GDefine a constant instead of duplicating this literal "NORMAL" 4 times.(è£¨H
-osquid:S1192¨"RDefine a constant instead of duplicating this literal "rounded_top_right" 4 times.(Öı­©ùÿÿÿÿ
-csquid:S1192›"FDefine a constant instead of duplicating this literal "state" 8 times.(µ©Ê’ùÿÿÿÿ
-psquid:S1192Ÿ"SDefine a constant instead of duplicating this literal "left_titlebar_edge" 6 times.(¼ú§ìûÿÿÿÿ
-fsquid:S1192î"IDefine a constant instead of duplicating this literal "PRELIGHT" 4 times.(öÑ˜ üÿÿÿÿ
-jsquid:S1192È"MDefine a constant instead of duplicating this literal "title_border" 3 times.(Ìú¯úÿÿÿÿ
-asquid:S1192Å"IDefine a constant instead of duplicating this literal "draw_ops" 8 times.(ùñøî
-lsquid:S1192 "TDefine a constant instead of duplicating this literal "right_titlebar_edge" 7 times.(¿åÜ®
-nsquid:S1192¦"QDefine a constant instead of duplicating this literal "rounded_top_left" 4 times.(‡©ü—ûÿÿÿÿ
-dsquid:S1192Ÿ"LDefine a constant instead of duplicating this literal "frame_style" 3 times.(şåÏó
-isquid:S1192ì"LDefine a constant instead of duplicating this literal "INSENSITIVE" 4 times.(¢¡ˆÉÿÿÿÿÿ
-^squid:S1192™"FDefine a constant instead of duplicating this literal "frame" 3 times.(¶½Œ…
-^squid:S1192š"FDefine a constant instead of duplicating this literal "focus" 3 times.(Ş¢ùİ
-csquid:S1192ˆ"FDefine a constant instead of duplicating this literal "value" 4 times.(û“«šùÿÿÿÿ
-csquid:S1192Ü"FDefine a constant instead of duplicating this literal "color" 6 times.(çû¹”øÿÿÿÿ
-gsquid:S1192›"JDefine a constant instead of duplicating this literal "maximized" 3 times.(µ©Ê’ùÿÿÿÿ
-dsquid:S1192Ë"GDefine a constant instead of duplicating this literal "width" 27 times.(‡òøÍùÿÿÿÿ
-qsquid:S1192ª"TDefine a constant instead of duplicating this literal "rounded_bottom_left" 3 times.(İàÒüÿÿÿÿ
-csquid:S1192 "FDefine a constant instead of duplicating this literal "style" 3 times.(ßÛ“øÿÿÿÿ
-fsquid:S1192ê"IDefine a constant instead of duplicating this literal "SELECTED" 4 times.(ˆ¶Ïúÿÿÿÿ
-`squid:S1192Ì"HDefine a constant instead of duplicating this literal "height" 26 times.(Êƒâ«
-^squid:S1192Ÿ"GDefine a constant instead of duplicating this literal "parent" 3 times.(ãåÉA
-dsquid:S1192Ê"GDefine a constant instead of duplicating this literal "normal" 9 times.(‡¿Í°øÿÿÿÿ
-msquid:S1192¬"UDefine a constant instead of duplicating this literal "rounded_bottom_right" 3 times.(–»­¯
-^squid:S1192É"FDefine a constant instead of duplicating this literal "alpha" 4 times.(í¶å‘
-isquid:S1192‹"LDefine a constant instead of duplicating this literal "right_right" 3 times.(ŸÖ½˜ûÿÿÿÿ
-ksquid:S1192É"NDefine a constant instead of duplicating this literal "button_border" 4 times.(¤ºé¿ûÿÿÿÿ
-lsquid:S2095˜"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(Í¹Ÿ¤şÿÿÿÿ
-p
-squid:S135ì"YReduce the total number of break and continue statements in this loop to use at most one.(‹ú¾«
-`squid:S2583Ş"CChange this condition so that it does not always evaluate to "true"(Û¼„ûÿÿÿÿ
-Qsquid:S4973€"9Use the "equals" method if value comparison was intended.(ò—‰¤
-Qsquid:S4973„"9Use the "equals" method if value comparison was intended.(”áá„
-Vsquid:S4973"9Use the "equals" method if value comparison was intended.(ÃäõÖùÿÿÿÿ
-Vsquid:S4973“"9Use the "equals" method if value comparison was intended.(Ä‰‘¬üÿÿÿÿ
-isquid:S2259Ÿ"LA "NullPointerException" could be thrown; "maximizeButton" is nullable here.(àÁ†ıÿÿÿÿ
-_squid:S2259•"GA "NullPointerException" could be thrown; "titlePane" is nullable here.(„åê•
-fsquid:S2259š"IA "NullPointerException" could be thrown; "closeButton" is nullable here.(Š²àıÿÿÿÿ
-_squid:S2259â"HA "NullPointerException" could be thrown; "frameTitle" is nullable here.(Şñ¦
-`squid:S2259©"HA "NullPointerException" could be thrown; "menuButton" is nullable here.(Ö—¶‚
-fsquid:S2259±"IA "NullPointerException" could be thrown; "closeButton" is nullable here.(Š²àıÿÿÿÿ
-isquid:S2259¶"LA "NullPointerException" could be thrown; "maximizeButton" is nullable here.(àÁ†ıÿÿÿÿ
-dsquid:S2259¤"LA "NullPointerException" could be thrown; "minimizeButton" is nullable here.(ÍÚˆº
-`squid:S2259’"HA "NullPointerException" could be thrown; "menuButton" is nullable here.(Ö—¶‚
-dsquid:S2259»"LA "NullPointerException" could be thrown; "minimizeButton" is nullable here.(ÍÚˆº
-Usquid:S00107™"<Method has 8 parameters, which is greater than 7 authorized.(¤ı’Ò
-Esquid:S1604ƒ"(Make this anonymous inner class a lambda(ÚõÆÚùÿÿÿÿ
-^squid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(İ¦ØÀ
-osquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è•ÿÿÿÿÿ
-osquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÖÑÉùÿÿÿÿ
-jsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şåÏó
-jsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÚ…
-osquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®Ïşúÿÿÿÿ
-jsquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùñøî
-jsquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şåÏó
-osquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìú¯úÿÿÿÿ
-osquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ºé¿ûÿÿÿÿ
-osquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñº±£ùÿÿÿÿ
-osquid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¶Œ•ùÿÿÿÿ
-jsquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§üıó
-osquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŠ›‰ıÿÿÿÿ
-osquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¬û³ûÿÿÿÿ
-osquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(· èØÿÿÿÿÿ
-isquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ŞûC
-jsquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒóÅ
-isquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉéËG
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é±³¼
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ºé¿ûÿÿÿÿ
-osquid:S00117‚
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‚ÌÌúÿÿÿÿ
-jsquid:S00117×
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ªç¥
-jsquid:S00117æ
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÙçø
-jsquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ı’Ò
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®Ïşúÿÿÿÿ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó³û
-jsquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şåÏó
-jsquid:S3008<"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¢ÿ 
-rsquid:S00116b"ZRename this field "frame_style_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áø
-|squid:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Àëá¼ÿÿÿÿÿ
-[squid:S2147N"DCombine this catch with the one at line 76, which has the same body.(‚°„–
-[squid:S2147P"DCombine this catch with the one at line 76, which has the same body.(¶ùø
-Fsquid:S00108K")Either remove or fill this block of code.(©çı»ıÿÿÿÿ
-?squid:S3010x"#Remove this assignment of "xmlDoc".(Èî¾ëÿÿÿÿÿ
-isquid:S3776s"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(©‹¢Ó
-vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö½¨æüÿÿÿÿ
-qsquid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ³à‘
-qsquid:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò™ıÆ
-<squid:S2129¾"Remove this "Float" constructor(ƒ˜ò²ÿÿÿÿÿ
-[squid:CallToDeprecatedMethod¾"-Remove this use of "Float"; it is deprecated.(ƒ˜ò²ÿÿÿÿÿ
-jsquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.( Ñîø
->squid:S1172Ü"&Remove these unused method parameters.( Ñîø
-Tsquid:S1854§"=Remove this useless assignment to local variable "buttonLoc".(ôÛÆ
-V"squid:SwitchLastCaseIsDefaultCheckŠ""Add a default case to this switch.(ÅÂúëüÿÿÿÿ
-jsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ë…°
-Vsquid:S1854ì">Remove this useless assignment to local variable "menuButton".(Ú‚ÿÑ
-usquid:S3008Ğ"XRename this field "GET_THEME_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÑÊÌúÿÿÿÿ
-vsquid:S3008Ñ"YRename this field "GET_USER_THEME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÀâÄÿÿÿÿÿ
-qsquid:S3008Ò"TRename this field "GET_IMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‡–œıÿÿÿÿ
-|squid:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Àëá¼ÿÿÿÿÿ
-osquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ñ«âåùÿÿÿÿ
-]squid:S2147¯"ECombine this catch with the one at line 557, which has the same body.(Ãôş•
-Nsquid:S2696"6Make the enclosing method "static" or remove this set.(ÉÆí³
-[squid:S4719˜">Replace charset name argument with StandardCharsets.ISO_8859_1(Í¹Ÿ¤şÿÿÿÿ
-]squid:S3027¨"FPut single-quotes around '<' to use the faster "indexOf(char)" method.(¾³áD
-qsquid:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼•¾†
-8squid:S1659ÿ" Declare "cg" on a separate line.(»¶ÜÄ
-8squid:S1659ÿ" Declare "cb" on a separate line.(»¶ÜÄ
-<squid:S1659”"Declare "g" on a separate line.(Ì‡ëºşÿÿÿÿ
-<squid:S1659”"Declare "b" on a separate line.(Ì‡ëºşÿÿÿÿ
-™squid:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦–†
-™squid:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®åØ”
-isquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Â½¼
-Msquid:S1854„"5Remove this useless assignment to local variable "h".(ãğú
-isquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(²Œ+
-jsquid:S3776É	"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ç›‚
-jsquid:S3776æ
-"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(şÙçø
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(µõª˜
-jsquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€°µÙ
-U
-squid:S106ñ"9Replace this use of System.out or System.err by a logger.(íÃµáùÿÿÿÿ
-Esquid:S2755€"-Disable XML external entity (XXE) processing.(±±ÎÌ
-qsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œß¾ü
-jsquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(éºËÌ
-Ysquid:S2130ù"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ÆÇóÖ
-P
-squid:S106±"9Replace this use of System.out or System.err by a logger.(¶³¡³
-isquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(’Ét
-Rsquid:S1161÷":Add the "@Override" annotation above this method signature(Ï™ŞÚ
-Rsquid:S1161û":Add the "@Override" annotation above this method signature(®óë¥
-^squid:HiddenFieldCheck„";Rename "token" which hides the field declared at line 1896.(ïœ–‰
-Vsquid:S3400İ"9Remove this method and declare a constant for this value.(ÈßŸŸùÿÿÿÿ
-=squid:S1172Ü"&Remove these unused method parameters.(Ûµ‹
-7squid:S1659î"Declare "y" on a separate line.(ü½Å„
-7squid:S1659î"Declare "w" on a separate line.(ü½Å„
-7squid:S1659î"Declare "h" on a separate line.(ü½Å„
-8squid:S1659î" Declare "aw" on a separate line.(ü½Å„
-8squid:S1659î" Declare "ah" on a separate line.(ü½Å„
-xsquid:S00115õ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾×ºıÿÿÿÿ
-xsquid:S00115ö"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Â§Ìüÿÿÿÿ
-ssquid:S00115÷"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÚÌêş
-ssquid:S00115ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥‡ê
-xsquid:S00115ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼÷ÌÆÿÿÿÿÿ
-xsquid:S00115ú"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â„Ñ¥ÿÿÿÿÿ
-Psquid:S1197ò"8Move the array designator from the variable to the type.(ğë•ë
-Usquid:S1197ó"8Move the array designator from the variable to the type.(ş˜©™ÿÿÿÿÿ
-Psquid:S1197€"8Move the array designator from the variable to the type.(¥‘·»
-Psquid:S1197—"8Move the array designator from the variable to the type.(Š¦Şå
-Usquid:S1197Ô"8Move the array designator from the variable to the type.(•üÂèøÿÿÿÿ
-Usquid:S1197ä"8Move the array designator from the variable to the type.(•üÂèøÿÿÿÿ
-Esquid:S1481§".Remove this unused "buttonLoc" local variable.(ôÛÆ
-Gsquid:S1481ì"/Remove this unused "menuButton" local variable.(Ú‚ÿÑ
->squid:S1481„"&Remove this unused "h" local variable.(ãğú
-Rsquid:UnusedPrivateMethodÜ"-Remove this unused private "classify" method.(Ûµ‹
-csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(†˜ñò
-bsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ß¹—

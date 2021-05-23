@@ -1,76 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
-qsquid:S1192¿"TDefine a constant instead of duplicating this literal "s4s-att-must-appear" 3 times.(Ã§ÌÉşÿÿÿÿ
-fsquid:S1192ø"NDefine a constant instead of duplicating this literal "(annotation?)" 3 times.(º¥Ò§
-msquid:S1192ø"UDefine a constant instead of duplicating this literal "s4s-elt-must-match.1" 3 times.(º¥Ò§
-Lsquid:S1066î"/Merge this if statement with the enclosing one.(á âõùÿÿÿÿ
-Fsquid:S1066©"/Merge this if statement with the enclosing one.(ß·œ
-u
-squid:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(Ïùö úÿÿÿÿ
-p
-squid:S135ô"YReduce the total number of break and continue statements in this loop to use at most one.(£×õÇ
-‚squid:S1149¡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ö¹€Šüÿÿÿÿ
-wsquid:S1149¤"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôæë…
-|squid:S1149Â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÖœÒüÿÿÿÿ
-‚squid:S1149à"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ö¹€Šüÿÿÿÿ
-wsquid:S1149ã"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôæë…
-|squid:S1149ı"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÖœÒüÿÿÿÿ
-wsquid:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ãÊ—ş
-‚squid:S1149¯"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§Ê½àüÿÿÿÿ
-‚squid:S1149²"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’¯–¡ûÿÿÿÿ
-wsquid:S1149È"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ğû¸
-isquid:S3776|"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(º†™·
-Dsquid:S1659«"'Declare "localpart" on a separate line.(Ğİíûûÿÿÿÿ
-Fsquid:S1172Ù"/Remove this unused method parameter "isGlobal".(ˆÓ”?
-Zsquid:S1854í"=Remove this useless assignment to local variable "localpart".(—¢ƒÓıÿÿÿÿ
-Zsquid:S1854ñ"=Remove this useless assignment to local variable "localpart".(ÂùÖêûÿÿÿÿ
-Tsquid:S1854ó"7Remove this useless assignment to local variable "uri".(ß”éÄøÿÿÿÿ
-Dsquid:S1659ê"'Declare "localpart" on a separate line.(Ğİíûûÿÿÿÿ
-psquid:S3776§"SRefactor this method to reduce its Cognitive Complexity from 113 to the 15 allowed.(ïÏ²âşÿÿÿÿ
-ƒsquid:S3252É"kUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_ATOMIC".(©ŠËÊ
-‚squid:S3252ü"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(‰‰©»
-‰squid:S3252ª"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINLENGTH".(ƒ°‡Üşÿÿÿÿ
-‰squid:S3252­"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXLENGTH".(üËÓÉşÿÿÿÿ
-‡squid:S3252°"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXEXCLUSIVE".(ô ªÿ
-Œsquid:S3252³"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(æ®ê™ûÿÿÿÿ
-Œsquid:S3252¶"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINEXCLUSIVE".(’“ªÈüÿÿÿÿ
-Œsquid:S3252¹"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(ÉËÊ“úÿÿÿÿ
-†squid:S3252¼"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_TOTALDIGITS".(€¤ùÊ
-squid:S3252¿"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_FRACTIONDIGITS".(¶¿Ùùÿÿÿÿ
-„squid:S3252Â"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(û‚®U
-squid:S3252Å"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_LENGTH".(œ«™»
-V"squid:SwitchLastCaseIsDefaultCheckê""Add a default case to this switch.(ÎÒÍ±üÿÿÿÿ
-‰squid:S3252ë"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINLENGTH".(Àùÿÿÿÿ
-‰squid:S3252î"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXLENGTH".(±™†üÿÿÿÿ
-†squid:S3252ñ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXEXCLUSIVE".(ò±Ë^
-†squid:S3252ô"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(Á´ã
-Œsquid:S3252÷"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINEXCLUSIVE".(“ùÄ€şÿÿÿÿ
-Œsquid:S3252ú"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(Äšä¹üÿÿÿÿ
-‹squid:S3252ı"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_TOTALDIGITS".(¨á¨øÿÿÿÿ
-‰squid:S3252€"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_FRACTIONDIGITS".(´×íÚ
-…squid:S3252ƒ"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(®ï¬
-†squid:S3252†"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_LENGTH".(´Ÿğşÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck™""Add a default case to this switch.(ÎÒÍ±üÿÿÿÿ
-‰squid:S3252š"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINLENGTH".(Àùÿÿÿÿ
-‰squid:S3252"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXLENGTH".(±™†üÿÿÿÿ
-†squid:S3252 "oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXEXCLUSIVE".(ò±Ë^
-†squid:S3252£"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(Á´ã
-Œsquid:S3252¦"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINEXCLUSIVE".(“ùÄ€şÿÿÿÿ
-Œsquid:S3252©"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(Äšä¹üÿÿÿÿ
-‹squid:S3252¬"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_TOTALDIGITS".(¨á¨øÿÿÿÿ
-‰squid:S3252¯"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_FRACTIONDIGITS".(´×íÚ
-…squid:S3252²"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(®ï¬
-†squid:S3252µ"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_LENGTH".(´Ÿğşÿÿÿÿ
-†squid:S3252Á"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(âº¢ü
-‚squid:S3252Æ"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(Œª†¡
-ƒsquid:S3252Ó"kUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_ATOMIC".(ÆÃ‹Å
-†squid:S3252Ø"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_LIST".(±„±±úÿÿÿÿ
-‡squid:S3252Û"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_UNION".(Ûà»øÿÿÿÿ
-psquid:S3776ê"SRefactor this method to reduce its Cognitive Complexity from 125 to the 15 allowed.(¡¿§¢ıÿÿÿÿ
-ˆsquid:S3252ì"kUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_ATOMIC".(­Æ¤®ùÿÿÿÿ
-‹squid:S3252î"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(á âõùÿÿÿÿ
-osquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Š€Ã›ÿÿÿÿÿ
-Ksquid:S1481ê".Remove this unused "localpart" local variable.(Ğİíûûÿÿÿÿ
-Esquid:S1481ó"(Remove this unused "uri" local variable.(ß”éÄøÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(°Çœò

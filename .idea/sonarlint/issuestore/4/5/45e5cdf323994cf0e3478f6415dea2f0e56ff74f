@@ -1,11 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°ðÎð
-vsquid:S14888"_Immediately return this expression instead of assigning it to the temporary variable "wrapper".(“—ïè
-{squid:S1488@"_Immediately return this expression instead of assigning it to the temporary variable "wrapper".(Âõè¸ùÿÿÿÿ
-^squid:UselessImportCheck":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
-\squid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.OMGVMCID'.(”¢„¦ýÿÿÿÿ
-—squid:S1845¥E"zRename method "runtimeexception" to prevent any misunderstanding/clash with field "RUNTIMEEXCEPTION" defined on line 8867.(ÿÖ¾øúÿÿÿÿ
-—squid:S1845³E"zRename method "runtimeexception" to prevent any misunderstanding/clash with field "RUNTIMEEXCEPTION" defined on line 8867.(˜´ë˜þÿÿÿÿ
-—squid:S1845·E"zRename method "runtimeexception" to prevent any misunderstanding/clash with field "RUNTIMEEXCEPTION" defined on line 8867.(ûÊÎ—ùÿÿÿÿ
-—squid:S1845»E"zRename method "runtimeexception" to prevent any misunderstanding/clash with field "RUNTIMEEXCEPTION" defined on line 8867.(ÝÓËŸÿÿÿÿÿ
-ssquid:S00115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷­æê

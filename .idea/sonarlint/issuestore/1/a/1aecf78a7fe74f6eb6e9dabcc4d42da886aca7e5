@@ -1,343 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
-jsquid:S1192Á"RDefine a constant instead of duplicating this literal "EntityNotDeclared" 3 times.(í»»–
-gsquid:S1192“"JDefine a constant instead of duplicating this literal "fCount = " 3 times.(ÑÌè¶ùÿÿÿÿ
-gsquid:S1192ı"JDefine a constant instead of duplicating this literal "fDepth = " 3 times.(‹Á„øÿÿÿÿ
-Gsquid:S1066¸"/Merge this if statement with the enclosing one.(´õÃ 
-Gsquid:S1066å"/Merge this if statement with the enclosing one.(´õÃ 
-Lsquid:S1066‡"/Merge this if statement with the enclosing one.(è¨”ğùÿÿÿÿ
-Gsquid:S1066ç"/Merge this if statement with the enclosing one.(­²œ¨
-Gsquid:S1066İ"/Merge this if statement with the enclosing one.(¼ö¢ñ
-Fsquid:S1066œ"/Merge this if statement with the enclosing one.(­—ÉZ
-Gsquid:S1066ñ"/Merge this if statement with the enclosing one.(¹¹Ô…
-Jsquid:S1199ó"-Extract this nested code block into a method.(ËÂ‚ıÿÿÿÿ
-Esquid:S1199ø"-Extract this nested code block into a method.(ÛÄè‡
-Jsquid:S1199ˆ"-Extract this nested code block into a method.(£é·Õşÿÿÿÿ
-Jsquid:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Esquid:S1199½"-Extract this nested code block into a method.(¸ ê—
-Jsquid:S1199Â"-Extract this nested code block into a method.(¼™©øÿÿÿÿ
-Esquid:S1199ï"-Extract this nested code block into a method.(¸ ê—
-Jsquid:S1199ÿ"-Extract this nested code block into a method.(¼™©øÿÿÿÿ
-Esquid:S1199°"-Extract this nested code block into a method.(¤²åÈ
-Jsquid:S1199¿"-Extract this nested code block into a method.(Æ±Óğøÿÿÿÿ
-Jsquid:S1199æ"-Extract this nested code block into a method.(‡¢¸şÿÿÿÿ
-Jsquid:S1199ı"-Extract this nested code block into a method.(ÄÃ“óúÿÿÿÿ
-Jsquid:S1199ƒ"-Extract this nested code block into a method.(§Àİñûÿÿÿÿ
-Esquid:S1199"-Extract this nested code block into a method.(½ß°Æ
-Dsquid:S1199²"-Extract this nested code block into a method.(í½õ
-Jsquid:S1199ë"-Extract this nested code block into a method.(õ½ı‘ûÿÿÿÿ
-Jsquid:S1199“"-Extract this nested code block into a method.(¹Ö¬Áøÿÿÿÿ
-Esquid:S1199œ"-Extract this nested code block into a method.(îşÅî
-d$squid:AssignmentInSubExpressionCheck›
-".Extract the assignment out of this expression.(§­œ¡ûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¡
-".Extract the assignment out of this expression.(§­œ¡ûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck«
-".Extract the assignment out of this expression.(ÙãÏûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck®
-".Extract the assignment out of this expression.(§­œ¡ûÿÿÿÿ
-hsquid:S1301»"KReplace this "switch" statement by "if" statements to increase readability.(·ó†§øÿÿÿÿ
-hsquid:S1301î"KReplace this "switch" statement by "if" statements to increase readability.(·ó†§øÿÿÿÿ
-u
-squid:S135­"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
-u
-squid:S135ä"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-€"squid:ClassVariableVisibilityCheck"QMake qname a static final constant or non-public and provide accessors if needed.(½‹ğÀ
-ƒ"squid:ClassVariableVisibilityCheck’"TMake fRawname a static final constant or non-public and provide accessors if needed.(¹ö¯ç
-„"squid:ClassVariableVisibilityCheck•"PMake next a static final constant or non-public and provide accessors if needed.(äİÀøÿÿÿÿ
-Vsquid:S4973¡	"9Use the "equals" method if value comparison was intended.(İÿÿÿÿÿ
-Qsquid:S4973Ÿ"9Use the "equals" method if value comparison was intended.(àğŞ
-Qsquid:S4973£"9Use the "equals" method if value comparison was intended.(Ÿ‹Ì·
-Vsquid:S4973§"9Use the "equals" method if value comparison was intended.(æ¼÷øÿÿÿÿ
-Vsquid:S4973«"9Use the "equals" method if value comparison was intended.(š”üÿÿÿÿ
-Vsquid:S4973¯"9Use the "equals" method if value comparison was intended.(µš¹˜ûÿÿÿÿ
-Vsquid:S4973„"9Use the "equals" method if value comparison was intended.(Ú‚Æğùÿÿÿÿ
-Vsquid:S4973ê"9Use the "equals" method if value comparison was intended.(Š±Ôˆıÿÿÿÿ
-}squid:UselessImportCheck="TRemove this unnecessary import: same package classes are always implicitly imported.(şìêòùÿÿÿÿ
-wsquid:UselessImportCheck>"TRemove this unnecessary import: same package classes are always implicitly imported.(÷Èœ%
-Asquid:UselessImportCheckI"Remove this duplicated import.(èù•g
-usquid:UselessImportCheck$"LRemove this unused import 'com.sun.xml.internal.stream.XMLInputFactoryImpl'.(àéí…üÿÿÿÿ
-Wsquid:UselessImportCheckG"3Remove this unused import 'javax.xml.XMLConstants'.(Ğøš
-ysquid:UselessImportCheck?"URemove this unused import 'com.sun.org.apache.xerces.internal.util.NamespaceSupport'.(•ƒ”­
-squid:S1186¼"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şŸ¾ÿÿÿÿÿ
-Ssquid:S2387Œ"6"fEntityStore" is the name of a field in "XMLScanner".(ïíº™úÿÿÿÿ
-wsquid:S1149’	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-wsquid:S1149Á	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-ksquid:ModifiersOrderCheckÆ"EReorder the modifiers to comply with the Java Language Specification.(˜í‘
-¯%squid:RedundantThrowsDeclarationCheckæ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-gsquid:S3252¶"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(ÃÒ˜¾
-µ%squid:RedundantThrowsDeclarationCheckÂ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(öıĞáıÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckŞ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Wsquid:S1161‰":Add the "@Override" annotation above this method signature(Œ¹Ê®úÿÿÿÿ
-]squid:HiddenFieldCheck™":Rename "cdata" which hides the field declared at line 236.(â±î©
-Fsquid:S1125Ÿ")Remove the literal "false" boolean value.(êŠßˆÿÿÿÿÿ
-Esquid:S1125Ÿ"(Remove the literal "true" boolean value.(êŠßˆÿÿÿÿÿ
-Esquid:S1125¢"(Remove the literal "true" boolean value.(İÁØıÿÿÿÿÿ
-Csquid:S1905Õ"+Remove this unnecessary cast to "String[]".(ó¶Ïª
-Ê%squid:RedundantThrowsDeclarationCheckî"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Hsquid:S1905…"+Remove this unnecessary cast to "String[]".(§ğ×öÿÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheck"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Esquid:S2447Ø"-Null is returned but a "Boolean" is expected.(¥¹ï
-°%squid:RedundantThrowsDeclarationCheck£"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(»•İÍ
-°%squid:RedundantThrowsDeclarationCheckÍ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¾Á‰
-¯%squid:RedundantThrowsDeclarationCheck™"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-¯%squid:RedundantThrowsDeclarationCheckà"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-Qsquid:S1161ß":Add the "@Override" annotation above this method signature(ç–Ş3
-µ%squid:RedundantThrowsDeclarationCheckı"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(˜ãÒµşÿÿÿÿ
-U
-squid:S106—	"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
-U
-squid:S106Æ	"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
-Esquid:S1125Ô	"(Remove the literal "true" boolean value.(Š¬Ïæøÿÿÿÿ
-P
-squid:S106…
-"9Replace this use of System.out or System.err by a logger.(¨°Şô
-U
-squid:S106¦
-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-U
-squid:S106§
-"9Replace this use of System.out or System.err by a logger.(è¯²ÿÿÿÿÿ
-U
-squid:S106¨
-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheck×
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-osquid:S3776Ö
-"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÑÆ‘ãşÿÿÿÿ
-P
-squid:S106Ù
-"9Replace this use of System.out or System.err by a logger.(¯í”‡
-P
-squid:S106â
-"9Replace this use of System.out or System.err by a logger.(¬îæ
-P
-squid:S106ê
-"9Replace this use of System.out or System.err by a logger.(Ú¾ã‹
-U
-squid:S106ò
-"9Replace this use of System.out or System.err by a logger.(şœß¡ÿÿÿÿÿ
-U
-squid:S106…"9Replace this use of System.out or System.err by a logger.(Í’Å¸üÿÿÿÿ
-U
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(¶ÕĞüÿÿÿÿ
-U
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(¡ëÓæøÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckâ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¸€ı¶
-@squid:S1125û"(Remove the literal "true" boolean value.(ßÄ“Ş
-¯%squid:RedundantThrowsDeclarationCheck¡"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-O
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(¶¯Ö_
-U
-squid:S106Ú"9Replace this use of System.out or System.err by a logger.(²¼’Óüÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckì"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¡”Ÿ
-¯%squid:RedundantThrowsDeclarationCheck¬"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-jsquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¯µ‚Ó
-°%squid:RedundantThrowsDeclarationCheck”"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ãö²
-O
-squid:S106•"9Replace this use of System.out or System.err by a logger.(ˆ°Ç*
-P
-squid:S106›"9Replace this use of System.out or System.err by a logger.(¶­¸ê
-¯%squid:RedundantThrowsDeclarationCheckß"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-jsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(À«¹
-°%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(©‘Í
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(©‘Í
-°%squid:RedundantThrowsDeclarationCheckü"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¼”ğ
-U
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(ñÍ±öûÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯®€å
-U
-squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-P
-squid:S106±"9Replace this use of System.out or System.err by a logger.(™Ò±à
-P
-squid:S106²"9Replace this use of System.out or System.err by a logger.(ôÈÎ´
-U
-squid:S106³"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck¾""Add a default case to this switch.(ş™ÅŞ
-Rsquid:S2209û"5Change this instance-reference to a static reference.(í¬¬±úÿÿÿÿ
-P
-squid:S106ü"9Replace this use of System.out or System.err by a logger.(´¸³¦
-U
-squid:S106ı"9Replace this use of System.out or System.err by a logger.(‹Á„øÿÿÿÿ
-U
-squid:S106‚"9Replace this use of System.out or System.err by a logger.(óíåÒøÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(äı…òúÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÏ£å
-P
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(ÑÌä§
-U
-squid:S106’"9Replace this use of System.out or System.err by a logger.(‹Á„øÿÿÿÿ
-U
-squid:S106“"9Replace this use of System.out or System.err by a logger.(ÑÌè¶ùÿÿÿÿ
-U
-squid:S106—"9Replace this use of System.out or System.err by a logger.(ò–àÙùÿÿÿÿ
-U
-squid:S106°"9Replace this use of System.out or System.err by a logger.(¯’½êûÿÿÿÿ
-U
-squid:S106¶"9Replace this use of System.out or System.err by a logger.(ÑÌè¶ùÿÿÿÿ
-P
-squid:S106À"9Replace this use of System.out or System.err by a logger.(é¹åí
-jsquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ìï§ø
-U
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(ÁáÑÔÿÿÿÿÿ
-O
-squid:S106è"9Replace this use of System.out or System.err by a logger.(Í™÷ 
-U
-squid:S106õ"9Replace this use of System.out or System.err by a logger.(¯Œóºùÿÿÿÿ
-P
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(ÑÏ£å
-P
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(ÑÌä§
-U
-squid:S106ø"9Replace this use of System.out or System.err by a logger.(‹Á„øÿÿÿÿ
-U
-squid:S106ù"9Replace this use of System.out or System.err by a logger.(ÑÌè¶ùÿÿÿÿ
-U
-squid:S106ú"9Replace this use of System.out or System.err by a logger.(¥¢ûƒùÿÿÿÿ
-U
-squid:S106û"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
-U
-squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(ò–àÙùÿÿÿÿ
-P
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(Õğëï
-U
-squid:S106™"9Replace this use of System.out or System.err by a logger.(Ï»Æúÿÿÿÿ
-U
-squid:S106š"9Replace this use of System.out or System.err by a logger.(á†ƒúÿÿÿÿ
-P
-squid:S106›"9Replace this use of System.out or System.err by a logger.(Í²µñ
-U
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
-U
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(Ñïñèüÿÿÿÿ
-P
-squid:S106¤"9Replace this use of System.out or System.err by a logger.(‹íİŸ
-U
-squid:S106İ"9Replace this use of System.out or System.err by a logger.(ö»õÂûÿÿÿÿ
-U
-squid:S106Ş"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
-U
-squid:S106ã"9Replace this use of System.out or System.err by a logger.(ğáÿıÿÿÿÿ
-P
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(şµ° 
-°%squid:RedundantThrowsDeclarationCheckÆ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ªéû¹
-V"squid:SwitchLastCaseIsDefaultCheck»""Add a default case to this switch.(·ó†§øÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckã"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(öıĞáıÿÿÿÿ
-psquid:S3776ã"SRefactor this method to reduce its Cognitive Complexity from 234 to the 15 allowed.(öıĞáıÿÿÿÿ
-U
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(©è¦úÿÿÿÿ
-U
-squid:S106è"9Replace this use of System.out or System.err by a logger.(âÈ¦ùÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckî""Add a default case to this switch.(·ó†§øÿÿÿÿ
-c
-squid:S128ï"LEnd this switch case with an unconditional break, return or throw statement.(¸ ê—
-fsquid:S3252’"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-fsquid:S3252¡"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-U
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(İ…±éıÿÿÿÿ
-jsquid:S3252­"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(¯ã„
-osquid:S3252®"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(×ğé¸üÿÿÿÿ
-isquid:S3252¼"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(»°Ïš
-P
-squid:S106Á"9Replace this use of System.out or System.err by a logger.(Ù˜“Ğ
-P
-squid:S106Â"9Replace this use of System.out or System.err by a logger.(ûºî¢
-U
-squid:S106×"9Replace this use of System.out or System.err by a logger.(ÜŠëëşÿÿÿÿ
-P
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(™¼âó
-P
-squid:S106û"9Replace this use of System.out or System.err by a logger.(­¦í†
-asquid:S3252ü"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(áö
-fsquid:S3252ş"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-P
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ˆ“·¶
-U
-squid:S106„"9Replace this use of System.out or System.err by a logger.(ÜŠëëşÿÿÿÿ
-U
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(óÆĞ€ùÿÿÿÿ
-U
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(œ”òßüÿÿÿÿ
-P
-squid:S106ß"9Replace this use of System.out or System.err by a logger.(­¦í†
-asquid:S3252à"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(áö
-fsquid:S3252â"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-zsquid:S3923í"]This conditional operation returns the same value whether the condition is "true" or "false".(õ¥Œîûÿÿÿÿ
-lsquid:S3252í"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(õ¥Œîûÿÿÿÿ
-lsquid:S3252í"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(õ¥Œîûÿÿÿÿ
-lsquid:S3252õ"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(—Å¾¶øÿÿÿÿ
-lsquid:S3252ú"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(—Å¾¶øÿÿÿÿ
-hsquid:S3252€"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(Šù€ƒıÿÿÿÿ
-wsquid:S3252‹"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(Èçõ˜ùÿÿÿÿ
-fsquid:S3252¬"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(­¯Òªúÿÿÿÿ
-fsquid:S3252®"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-fsquid:S3252É"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-fsquid:S3252Ò"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-lsquid:S3252á"TUse static access with "javax.xml.stream.XMLStreamConstants" for "ENTITY_REFERENCE".(Ë»Ğ±
-isquid:S3252—"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(»°Ïš
-isquid:S3252š"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(»°Ïš
-fsquid:S3252¡"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-¯%squid:RedundantThrowsDeclarationCheckã"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-¯%squid:RedundantThrowsDeclarationCheckú"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-¯%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ïş´C
-¯%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-@squid:S1172"(Remove this unused method parameter "e".(è¨âò
-O
-squid:S106«"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-Isquid:S1905¿",Remove this unnecessary cast to "XMLString".(‘ÔÏÿÿÿÿÿ
-Gsquid:S1068î"*Remove this unused "endTag" private field.(ÿÚ¹†ÿÿÿÿÿ
-Usquid:S1068å"8Remove this unused "fContinueDispatching" private field.(Õ¤ÎÛúÿÿÿÿ
-Ssquid:S1068æ"6Remove this unused "fScanningForMarkup" private field.(ıÆŞÇÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(åÇ±<
-csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(·¯œ¶
-csquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(»ä¤
-csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(…ÃÂ 
-csquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(Şšßí
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(üç¢°øÿÿÿÿ
-hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ÿ’™úÿÿÿÿÿ
-hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(Ìşõûşÿÿÿÿ
-hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(‚’ƒïùÿÿÿÿ
-csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(â½åÌ
-csquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(Úäç…
-hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(àËğ–ıÿÿÿÿ
-hsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(½Şñªùÿÿÿÿ
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¶äÊıÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àËğ–ıÿÿÿÿ
-hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(âƒ¶½şÿÿÿÿ
-csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(ƒ„ú 
-csquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ı ¦Â
-hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(Ôµ–”ûÿÿÿÿ
-hsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(èŒ™ºüÿÿÿÿ
-csquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(üÓú
-hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(›§ª„úÿÿÿÿ
-csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ÊÍÃæ
-csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(Äïêî
-hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(çü¬İúÿÿÿÿ
-hsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(â¦‚Íıÿÿÿÿ
-csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(‰¢Ë
-csquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(‰¢Ë
-hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(½µ­Èşÿÿÿÿ
-hsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(Ôµ–”ûÿÿÿÿ
-hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(±÷Œşıÿÿÿÿ
-csquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(ƒ„ú 
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(š—¹Äûÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’€ÌÓ
-hsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(¬Í´¯øÿÿÿÿ
-csquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(È‹ü¨
-hsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(şò’Ñúÿÿÿÿ
-csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(ĞÒÄ¿
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(»¦Ã®ÿÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›§ª„úÿÿÿÿ
-csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ÊÍÃæ
-csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(¸Öâš
-hsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(Óü•€üÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¯€¤
-hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(§Àİñûÿÿÿÿ
-csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(±¯€¤
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ß°Æ

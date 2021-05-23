@@ -1,8 +1,0 @@
-
-[squid:S2184Ô"CCast one of the operands of this subtraction operation to a "long".(»ÿÃ
-[squid:S2259ä"CA "NullPointerException" could be thrown; "trans" is nullable here.(š¿±Ä
-qsquid:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(”Ÿş„
-°%squid:RedundantThrowsDeclarationCheck—"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(¿†´Úúÿÿÿÿ
-osquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ù‚Îİûÿÿÿÿ
-Fsquid:S1125ï")Remove the literal "false" boolean value.(¹Àµ­ıÿÿÿÿ
-Fsquid:S1125ï")Remove the literal "false" boolean value.(üÍŸíşÿÿÿÿ

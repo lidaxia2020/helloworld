@@ -1,16 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ğÔñ¯ıÿÿÿÿ
-csquid:S00112y"FDefine and throw a dedicated exception instead of using a generic one.(îŒØüÿÿÿÿ
-dsquid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(Ãì£şÿÿÿÿ
-jsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¡£
-jsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ù³Í
-jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‘¥
-;squid:S1148°"#Use a logger to log this exception.(Ç’Çê
-`squid:CallToDeprecatedMethodw"3Remove this use of "newInstance"; it is deprecated.(Ûüÿÿÿÿ
-Ysquid:S3878š"ADisambiguate this call by either casting as "Class" or "Class[]".(“¬÷ 
-U
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(¼´à§şÿÿÿÿ
-Usquid:S3878®"8Remove this array creation and simply pass the elements.(“ö»«úÿÿÿÿ
-lsquid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãì£şÿÿÿÿ
-U
-squid:S106½"9Replace this use of System.out or System.err by a logger.(•Ôø ÿÿÿÿÿ

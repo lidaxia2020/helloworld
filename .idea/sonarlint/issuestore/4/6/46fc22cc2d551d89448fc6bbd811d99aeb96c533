@@ -1,34 +1,0 @@
-
-Qsquid:S1191("5Use classes from the Java API instead of Sun classes.(ò«Æûÿÿÿÿ
-dsquid:S1192¹"GDefine a constant instead of duplicating this literal "source" 4 times.(ìÄüøÿÿÿÿ
-Vsquid:S3516÷"9Refactor this method to not always return the same value.(ÖÍäøøÿÿÿÿ
-jsquid:S2095‡"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(óÊß·úÿÿÿÿ
-esquid:S2095£"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(”ñ¿ğ
-u
-squid:S135ˆ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-Tsquid:S2589Å	"7Remove this expression which always evaluates to "true"(¿Ì°¤øÿÿÿÿ
-}squid:UselessImportCheck&"TRemove this unnecessary import: same package classes are always implicitly imported.(åğ×±ûÿÿÿÿ
-usquid:S3008õ"]Rename this field "WHITESPACE_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºôË€
-xsquid:S3008ù"[Rename this field "FIND_ANY_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿõé‚üÿÿÿÿ
-rsquid:S3008ü"ZRename this field "NON_ASCII_DIGIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÎ‘æ
-Ksquid:S3077–".Remove the "volatile" keyword from this field.(¢©Ò£úÿÿÿÿ
-Fsquid:S3077Ê".Remove the "volatile" keyword from this field.(áş¾Ô
-Ksquid:S3077Ë".Remove the "volatile" keyword from this field.(ğˆ¢ıÿÿÿÿ
-{squid:S00116©"]Rename this field "SIMPLE_GROUP_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šé±µÿÿÿÿÿ
-Ysquid:S1126®"AReplace this if-then-else statement by a single return statement.(ßŸŞ¹
-osquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÛÏÙ­øÿÿÿÿ
-jsquid:S3776°	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(İñ²Ú
-esquid:S2272ç"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ì­åR
-Wsquid:S1161„":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-asquid:S4201ã"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¦¶êª
-fsquid:S4201å"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ˆÀáÔÿÿÿÿÿ
-asquid:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(äÊ‹ú
-asquid:S4201ƒ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Á¨öŸ
-jsquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(èø©¢
-fsquid:S4201’"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¹éò”üÿÿÿÿ
-fsquid:S4201ã"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Òë™Åùÿÿÿÿ
-asquid:S4201à"IRemove this unnecessary null check; "instanceof" returns false for nulls.(˜âƒ
-asquid:S4201®"IRemove this unnecessary null check; "instanceof" returns false for nulls.(›ÃçÁ
-hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(ôò™Šÿÿÿÿÿ
-hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ÌŸôîúÿÿÿÿ
-csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(Š°•ª

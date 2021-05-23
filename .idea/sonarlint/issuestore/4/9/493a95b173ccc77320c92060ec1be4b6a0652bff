@@ -1,9 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(·£şŒşÿÿÿÿ
-gsquid:S1206z"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
-4squid:S2386="Make this member "protected".(‰Ù±¹
-²%squid:RedundantThrowsDeclarationChecks"|Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xs.XSException' which is a runtime exception.(ƒ—‘Äÿÿÿÿÿ
-`squid:S4201{"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ûƒ÷¥
-7squid:S2129“"Remove this "Short" constructor(Îì‹Ó
-Vsquid:CallToDeprecatedMethod“"-Remove this use of "Short"; it is deprecated.(Îì‹Ó
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

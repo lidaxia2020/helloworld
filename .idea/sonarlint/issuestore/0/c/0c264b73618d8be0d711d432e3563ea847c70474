@@ -1,26 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-Qsquid:S4973å"9Use the "equals" method if value comparison was intended.(Œè¸Å
-Qsquid:S4973å"9Use the "equals" method if value comparison was intended.(Œè¸Å
-@squid:S1604ö"(Make this anonymous inner class a lambda(Ë…²¹
-qsquid:S3008±"YRename this field "m_synch_object" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€»«â
-xsquid:S3008Ç"[Rename this field "m_xml_properties" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š×ºıûÿÿÿÿ
-tsquid:S3008Ê"\Rename this field "m_html_properties" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—½®Ë
-ssquid:S3008Í"\Rename this field "m_text_properties" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‰‚S
-wsquid:S3008Ğ"_Rename this field "m_unknown_properties" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨×Ë
-Vsquid:S1118z":Add a private constructor to hide the implicit public one.(ï„Ùçÿÿÿÿÿ
-9squid:S2129±"!Remove this "Integer" constructor(€»«â
-Xsquid:CallToDeprecatedMethod±"/Remove this use of "Integer"; it is deprecated.(€»«â
-osquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ñºì…ıÿÿÿÿ
-psquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(ñºì…ıÿÿÿÿ
-Csquid:S1860‡"&Synchronize on a new "Object" instead.(Îâú­ÿÿÿÿÿ
-Osquid:S1135¿"2Complete the task associated to this TODO comment.(±ıÂÿÿÿÿÿ
-jsquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(´îœÒ
-ksquid:ModifiersOrderCheckâ"EReorder the modifiers to comply with the Java Language Specification.(´îœÒ
-Gsquid:S2093ñ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
-psquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(®ÿÈšùÿÿÿÿ
-Dsquid:S1068´",Remove this unused "PROP_DIR" private field.(ôµÜ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(æ°á·
-hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ç‹„³úÿÿÿÿ
-csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(ãÔ„ƒ

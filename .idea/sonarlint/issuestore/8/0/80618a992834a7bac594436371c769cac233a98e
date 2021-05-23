@@ -1,15 +1,0 @@
-
-Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-_$squid:AssignmentInSubExpressionCheck‰".Extract the assignment out of this expression.(¬½æİ
-_$squid:AssignmentInSubExpressionCheck¢".Extract the assignment out of this expression.(áä’º
-jsquid:S00116?"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
-isquid:S00116G"QRename this field "_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßß–
-jsquid:S00116O"SRename this field "_current" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ç i
-rsquid:S00116W"URename this field "_nodesSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÙÍùÿÿÿÿ
-qsquid:S00116_"TRename this field "_lastNext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×È’Œûÿÿÿÿ
-wsquid:S00116g"ZRename this field "_markedLastNext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÀÄıÿÿÿÿ
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(À÷ÖÚ
-Wsquid:S1161¸":Add the "@Override" annotation above this method signature(¿çß¤ÿÿÿÿÿ
-Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(üÿÆ‰
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ÂˆğÓşÿÿÿÿ

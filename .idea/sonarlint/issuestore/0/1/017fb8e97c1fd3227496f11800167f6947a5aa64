@@ -1,11 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-psquid:S3008I"YRename this field "WindowsPainter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Á¼ø
-Vsquid:S1161D":Add the "@Override" annotation above this method signature(°¤ºçûÿÿÿÿ
-Vsquid:S1161W":Add the "@Override" annotation above this method signature(Ã”ù’ûÿÿÿÿ
-isquid:S3776r"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(şçôÌ
-Qsquid:S1161r":Add the "@Override" annotation above this method signature(şçôÌ
-`squid:CallToDeprecatedMethodw"3Remove this use of "modelToView"; it is deprecated.(ãÓœˆøÿÿÿÿ
-[squid:CallToDeprecatedMethodx"3Remove this use of "modelToView"; it is deprecated.(Ô”–¾
-jsquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Àà„Ÿ
-Rsquid:S1161½":Add the "@Override" annotation above this method signature(Àà„Ÿ

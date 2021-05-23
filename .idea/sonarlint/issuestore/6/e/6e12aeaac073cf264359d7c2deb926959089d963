@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(íØÎàþÿÿÿÿ
-xsquid:S1192»"[Define a constant instead of duplicating this literal "null permissions parameter" 4 times.(¥¹ƒ¿úÿÿÿÿ
-}squid:S1488’"`Immediately return this expression instead of assigning it to the temporary variable "callerPd".(¶±žÔùÿÿÿÿ
-@squid:S1604“"(Make this anonymous inner class a lambda(´ÓÁê
-¦%squid:RedundantThrowsDeclarationCheck»"oRemove the declaration of thrown exception 'java.security.AccessControlException' which is a runtime exception.(¬ÎŸ‡ÿÿÿÿÿ
-csquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(Ôì°è

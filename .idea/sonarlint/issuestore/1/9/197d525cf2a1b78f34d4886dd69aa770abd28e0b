@@ -1,30 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ä³ùÿÿÿÿ
-Vsquid:S4973†"9Use the "equals" method if value comparison was intended.(ƒæşÿÿÿÿ
-Vsquid:S4973†"9Use the "equals" method if value comparison was intended.(ƒæşÿÿÿÿ
-Vsquid:S4973‡"9Use the "equals" method if value comparison was intended.(¨”¹÷ùÿÿÿÿ
-Vsquid:S4973—"9Use the "equals" method if value comparison was intended.(–ûşÛûÿÿÿÿ
-Esquid:S2387C"."hidden" is the name of a field in "NodeImpl".(àµµ
-wsquid:S00115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛæÕ£øÿÿÿÿ
-wsquid:S00115<"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªç‚üÿÿÿÿ
-{squid:S1149G"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ö³§ÿÿÿÿÿ
-wsquid:S1149¼"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶ı‚û
-wsquid:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ğû¸
-U
-squid:S106É"9Replace this use of System.out or System.err by a logger.(óÇüÿÿÿÿ
-U
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(Â³Ö ûÿÿÿÿ
-P
-squid:S106Ó"9Replace this use of System.out or System.err by a logger.(ÈË“¥
-P
-squid:S106Ú"9Replace this use of System.out or System.err by a logger.(øÜÛ»
-U
-squid:S106İ"9Replace this use of System.out or System.err by a logger.(•èÑœúÿÿÿÿ
-P
-squid:S106ã"9Replace this use of System.out or System.err by a logger.(”¶¼§
-Wsquid:S1161è":Add the "@Override" annotation above this method signature(° Ïêûÿÿÿÿ
-Rsquid:S1161í":Add the "@Override" annotation above this method signature(ùáø°
-jsquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›åÄô
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ààóÿ
-hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(‹›ª÷úÿÿÿÿ

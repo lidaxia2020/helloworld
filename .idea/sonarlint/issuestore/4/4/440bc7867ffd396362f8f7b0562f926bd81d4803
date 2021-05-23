@@ -1,5 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
-fsquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öü¬ž
-fsquid:S00100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍºïÕ
-Dsquid:S1125m"(Remove the literal "true" boolean value.(±ªÉŒÿÿÿÿÿ

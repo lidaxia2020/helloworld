@@ -1,5 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ÍÌ¬>
-}squid:UselessImportCheck."TRemove this unnecessary import: same package classes are always implicitly imported.(üƒóíûÿÿÿÿ
-gsquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¿Ÿ»
-gsquid:S00100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¬„¹

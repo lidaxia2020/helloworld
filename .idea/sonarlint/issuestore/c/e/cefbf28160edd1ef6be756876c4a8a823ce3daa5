@@ -1,18 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
-Gsquid:S1066¶"/Merge this if statement with the enclosing one.(Àûø
-Lsquid:S1066¹"/Merge this if statement with the enclosing one.(ÇÂï¸ûÿÿÿÿ
-Gsquid:S1066Î"/Merge this if statement with the enclosing one.(·‡… 
-qsquid:S00116š"XRename this field "_isSecureMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™§ë¯
-Ê%squid:RedundantThrowsDeclarationCheck¬"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckË"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(µ«õéûÿÿÿÿ
-osquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(µ«õéûÿÿÿÿ
-Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(µ«õéûÿÿÿÿ
-esquid:S1871Ò"MThis branch's code block is the same as the block for the branch on line 332.(ŠˆÀÛ
-esquid:S1871Ï"MThis branch's code block is the same as the block for the branch on line 332.( ³ãÑ
-Asquid:S1125Ï")Remove the literal "false" boolean value.( ³ãÑ
-Ê%squid:RedundantThrowsDeclarationCheckƒ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheck"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(ËØøòúÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ËØøòúÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckİ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ø¿ï÷üÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

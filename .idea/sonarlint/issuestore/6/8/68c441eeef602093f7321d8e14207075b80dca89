@@ -1,36 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(íØÎàşÿÿÿÿ
-lsquid:S1192‘"ODefine a constant instead of duplicating this literal "access denied " 3 times.(ôºÊúûÿÿÿÿ
-Lsquid:S1066"/Merge this if statement with the enclosing one.(â²äÒøÿÿÿÿ
-Lsquid:S1066­"/Merge this if statement with the enclosing one.(Û¶Şùÿÿÿÿ
-Lsquid:S1066Ô"/Merge this if statement with the enclosing one.(¶éÎÈúÿÿÿÿ
-Gsquid:S1066Ø"/Merge this if statement with the enclosing one.(Á¶â¨
-Lsquid:S1066É"/Merge this if statement with the enclosing one.(‘†ì«ùÿÿÿÿ
-fsquid:S2259¤"IA "NullPointerException" could be thrown; "permissions" is nullable here.(Ôô™äøÿÿÿÿ
-?squid:S1604"(Make this anonymous inner class a lambda(ÆŞÖ
-Tsquid:S1197g"8Move the array designator from the variable to the type.(¿Û´şÿÿÿÿ
-Nsquid:S1197t"8Move the array designator from the variable to the type.(ÒŞÖ
-Osquid:S1197z"8Move the array designator from the variable to the type.(´Ç²Â
-Usquid:S1197š"8Move the array designator from the variable to the type.(é¨µ„ùÿÿÿÿ
-jsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(çŸê¢
-Psquid:S1197É"8Move the array designator from the variable to the type.(…‰¸
-¦%squid:RedundantThrowsDeclarationCheckÎ"oRemove the declaration of thrown exception 'java.security.AccessControlException' which is a runtime exception.(¬ÎŸ‡ÿÿÿÿÿ
-jsquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(§óí
-osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(‹ë¹éøÿÿÿÿ
-`squid:HiddenFieldCheck"=Rename "combiner" which hides the field declared at line 113.(Èäê„
-csquid:HiddenFieldCheck";Rename "parent" which hides the field declared at line 117.(¨€Ñüÿÿÿÿ
-bsquid:HiddenFieldCheck"@Rename "permissions" which hides the field declared at line 116.(¿½×R
-osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(æÙÚ¨şÿÿÿÿ
-Usquid:S1197"8Move the array designator from the variable to the type.(¥ÜÔîúÿÿÿÿ
-g squid:LabelsShouldNotBeUsedCheck–";Refactor the code to remove this label and the need for it.(àÏÅ)
-Usquid:S1197«"8Move the array designator from the variable to the type.(„ôÅ´ûÿÿÿÿ
-Ysquid:S1126î"AReplace this if-then-else statement by a single return statement.(êºğ¥
-Ysquid:S1126‚"AReplace this if-then-else statement by a single return statement.(¸Ÿÿ
-Ysquid:S1126"AReplace this if-then-else statement by a single return statement.( ù¬İ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(åÂú‹üÿÿÿÿ
-^squid:S1126æ"AReplace this if-then-else statement by a single return statement.(òÉ°•şÿÿÿÿ
-Esquid:S1481Ÿ"-Remove this unused "thisPerm" local variable.(¡“¯î
-hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(âãØıùÿÿÿÿ
-hsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(®ùÆßıÿÿÿÿ
-hsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ØëõÂúÿÿÿÿ
-hsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(†©íûÿÿÿÿ

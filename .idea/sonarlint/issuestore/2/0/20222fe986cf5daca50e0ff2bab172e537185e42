@@ -1,15 +1,0 @@
-
-jsquid:S3824p"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(åëÚîıÿÿÿÿ
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ì—ğá
-Ssquid:S2589Z"7Remove this expression which always evaluates to "true"(à€Ñµøÿÿÿÿ
-usquid:S00116F"XRename this field "m_stringToInt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–»×œúÿÿÿÿ
-rsquid:S1149F"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(–»×œúÿÿÿÿ
-Qsquid:S1161W":Add the "@Override" annotation above this method signature(…—Ó¯
-£%squid:RedundantThrowsDeclarationCheckg"sRemove the declaration of thrown exception 'java.lang.ArrayIndexOutOfBoundsException' which is a runtime exception.(ªÃê8
-Qsquid:S1161f":Add the "@Override" annotation above this method signature(’ë‚ü
-Vsquid:S1161m":Add the "@Override" annotation above this method signature(¸Æúÿÿÿÿ
-8squid:S2129s"!Remove this "Integer" constructor(•ò‹‘
-Wsquid:CallToDeprecatedMethods"/Remove this use of "Integer"; it is deprecated.(•ò‹‘
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(Ş÷ğ¤
-bsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(óÆ©

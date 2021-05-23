@@ -1,15 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-d$squid:AssignmentInSubExpressionCheck”".Extract the assignment out of this expression.(òµãºøÿÿÿÿ
-gsquid:S00116H"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŞüH
-qsquid:S00116P"TRename this field "_trueList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦äÚúÿÿÿÿ
-msquid:S00116X"URename this field "_falseList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜñÜ
-‚squid:S1149ö"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(È±ÿ¿üÿÿÿÿ
-?squid:S1659“""Declare "save" on a separate line.(Î¿ôØùÿÿÿÿ
-Lsquid:S1172¯"/Remove this unused method parameter "classGen".(ò¤é¸şÿÿÿÿ
-Fsquid:S1125²")Remove the literal "false" boolean value.(µÙŸŞıÿÿÿÿ
-Asquid:S1125»")Remove the literal "false" boolean value.(˜ùÖƒ
-Osquid:S1854Ë"7Remove this useless assignment to local variable "cpg".(„àü
-Lsquid:S1172Ó"/Remove this unused method parameter "classGen".(Å¢²Íûÿÿÿÿ
-@squid:S1481Ë"(Remove this unused "cpg" local variable.(„àü
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

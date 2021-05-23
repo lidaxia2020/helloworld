@@ -1,174 +1,0 @@
-
-esquid:S3824‹"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(é€ñ~
-fsquid:S3824Ğ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(çùĞ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘º…œøÿÿÿÿ
-psquid:S1192Ô"SDefine a constant instead of duplicating this literal "addLayoutComponent" 3 times.(£ïÅ§şÿÿÿÿ
-Šsquid:S1192¤"mDefine a constant instead of duplicating this literal "java.util.Collections$CheckedCollection.type" 5 times.(ºÈã»ûÿÿÿÿ
-Lsquid:S1066À"/Merge this if statement with the enclosing one.(ÌïóÔøÿÿÿÿ
-ksquid:S00101Ç"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªê”çıÿÿÿÿ
-ksquid:S00101Ğ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÇóØÛşÿÿÿÿ
-ksquid:S00101ò"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÕÓ²şşÿÿÿÿ
-fsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·ß‘
-fsquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İÜ¹°
-ksquid:S00101»"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ™ï¹úÿÿÿÿ
-esquid:S00101‡"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û¹£s
-fsquid:S00101˜"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìğ¨Ì
-ksquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ı²ÓÎúÿÿÿÿ
-ksquid:S00101¤"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì†êíşÿÿÿÿ
-fsquid:S00101ª"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş¼¦ø
-ksquid:S00101±"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦‡¢Ûûÿÿÿÿ
-ksquid:S00101¸"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šœùÿÿÿÿ
-ksquid:S00101À"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ¯¡Ôıÿÿÿÿ
-ksquid:S00101Ç"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Éü›øÿÿÿÿ
-fsquid:S00101Î"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºËß
-fsquid:S00101Õ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬Ô‰
-ksquid:S00101Ü"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éÀœ»øÿÿÿÿ
-ksquid:S00101ã"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àİŠ¯ùÿÿÿÿ
-fsquid:S00101ê"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓØòª
-ksquid:S00101ñ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖŠ¥¿øÿÿÿÿ
-ksquid:S00101ø"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ĞÙ¾ûıÿÿÿÿ
-ksquid:S00101ÿ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±ÎŞ±ûÿÿÿÿ
-ksquid:S00101†"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷‚”Éùÿÿÿÿ
-fsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß¹Ó¬
-fsquid:S00101”"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÈíÌ
-ksquid:S00101›"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ëïîøÿÿÿÿ
-esquid:S00101¢"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(âÓ–
-ksquid:S00101ª"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸Òû¢ùÿÿÿÿ
-ksquid:S00101²"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯î¹«ÿÿÿÿÿ
-fsquid:S00101º"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–ı²Ô
-ksquid:S00101Â"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÀÂşşÿÿÿÿ
-ksquid:S00101Ê"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘°ºíıÿÿÿÿ
-fsquid:S00101Ó"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘å¯ó
-fsquid:S00101æ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤ÇÊº
-esquid:S00101ı"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶Ö’^
-ksquid:S00101Œ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ª¦ÿÿÿÿÿ
-fsquid:S00101›"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“Íàë
-ksquid:S00101¾"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò–¬Üûÿÿÿÿ
-ksquid:S00101ä"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•ƒ¶±ùÿÿÿÿ
-ksquid:S00101å"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍÆ†Óûÿÿÿÿ
-ksquid:S00101æ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íİüÿÿÿÿ
-fsquid:S00101ç"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À¢’ó
-ksquid:S00101ë"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒ† ¹øÿÿÿÿ
-fsquid:S00101ú"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äåˆ
-fsquid:S00101–"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş“ã
-fsquid:S00101ß"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßøáŞ
-ksquid:S00101¥"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»Ö‚Àùÿÿÿÿ
-ksquid:S00101¨"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ¡Êùüÿÿÿÿ
-fsquid:S00101«"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†•²ú
-fsquid:S00101¸"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹Ò±Ç
-fsquid:S00101ç"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’èÎ
-ksquid:S00101Š"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€Ô³üÿÿÿÿ
-ksquid:S00101–"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ö§şÿÿÿÿ
-ksquid:S00101¢"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ®Áıÿÿÿÿ
-fsquid:S00101®"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨Ó§í
-fsquid:S00101½"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã¡èÚ
-fsquid:S00101Ü"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ—í
-fsquid:S00101ñ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦’à¹
-fsquid:S00101‰	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»Ôïç
-fsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿ò¢
-fsquid:S00101«	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾”§Ú
-esquid:S00101·	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Íàè
-fsquid:S00101Ç	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆŒÎ§
-fsquid:S00101Ï	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨äÔô
-ksquid:S00101Ş	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯¯à–ÿÿÿÿÿ
-fsquid:S00101ó	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§†äÃ
-ksquid:S00101‰
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òñÏúÿÿÿÿ
-ksquid:S00101º
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ÄÀ ùÿÿÿÿ
-Esquid:S1604Õ"(Make this anonymous inner class a lambda(‚¸Ñ‘ıÿÿÿÿ
-_squid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(“ûãØ
-Ssquid:UselessImportCheck&"/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û
-Tsquid:UselessImportCheck%"+Remove this unused import 'java.awt.Point'.(îŞ˜Úüÿÿÿÿ
-asquid:UselessImportCheck#"8Remove this unused import 'java.awt.GridBagConstraints'.(ıÆâ£øÿÿÿÿ
-Ssquid:UselessImportCheck "/Remove this unused import 'java.awt.Dimension'.(˜‚º·
-Vsquid:S1155‘">Use isEmpty() to check whether the collection is empty or not.(×’ŒÛ
-Vsquid:S1118N":Add a private constructor to hide the implicit public one.(ˆõûºÿÿÿÿÿ
-‚squid:S1149­"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(šô÷ıÿÿÿÿ
-}squid:S1149ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÃşĞÜ
-ssquid:S1149ÿ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ü±÷çüÿÿÿÿ
-ssquid:S1149Ç
-"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ƒŒ¿Ñûÿÿÿÿ
-˜squid:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åî±½
-Qsquid:S1161S":Add the "@Override" annotation above this method signature(Åî±½
-Vsquid:S1161W":Add the "@Override" annotation above this method signature(Ú€ÿÿüÿÿÿÿ
-Vsquid:S1161f":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Vsquid:S1161q":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Vsquid:S1161|":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-9squid:S2129‡"!Remove this "Integer" constructor(÷ë±å
-Xsquid:CallToDeprecatedMethod‡"/Remove this use of "Integer"; it is deprecated.(÷ë±å
-Rsquid:S1161Š":Add the "@Override" annotation above this method signature(Åî±½
->squid:S2129"!Remove this "Integer" constructor(È™‡Ñúÿÿÿÿ
-]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(È™‡Ñúÿÿÿÿ
-‚squid:S1149­"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(šô÷ıÿÿÿÿ
-Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(Ú€ÿÿüÿÿÿÿ
-Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-O
-squid:S106ß"9Replace this use of System.out or System.err by a logger.(Ü“¼{
-Wsquid:S1161ó":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Wsquid:S1161‚":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Wsquid:S1161¡":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Rsquid:S1161à":Add the "@Override" annotation above this method signature(Åî±½
-jsquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(Û¹£s
-Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Rsquid:S1161”":Add the "@Override" annotation above this method signature(Åî±½
-Wsquid:S1161ç":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Wsquid:S1161ş":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Rsquid:S1161":Add the "@Override" annotation above this method signature(Åî±½
-Rsquid:S1161œ":Add the "@Override" annotation above this method signature(Åî±½
->squid:S2129¦"!Remove this "Integer" constructor(È™‡Ñúÿÿÿÿ
-]squid:CallToDeprecatedMethod¦"/Remove this use of "Integer"; it is deprecated.(È™‡Ñúÿÿÿÿ
-Rsquid:S1161¿":Add the "@Override" annotation above this method signature(Åî±½
-esquid:S1871Ø"MThis branch's code block is the same as the block for the branch on line 726.(ÃóÏ“
-Wsquid:S1161û":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Wsquid:S1161—":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-osquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¿ÔÚßûÿÿÿÿ
-Lsquid:S2864¥"4Iterate over the "entrySet" instead of the "keySet".(Ä×ğË
-Wsquid:S1161à":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Usquid:S1197‹"8Move the array designator from the variable to the type.(±Öıÿÿÿÿ
-Wsquid:S1161›":Add the "@Override" annotation above this method signature(Ú€ÿÿüÿÿÿÿ
-Wsquid:S1161¬":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-9squid:S2129³"!Remove this "Integer" constructor(„”ù
-Xsquid:CallToDeprecatedMethod³"/Remove this use of "Integer"; it is deprecated.(„”ù
-jsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Åî±½
-Rsquid:S1161¹":Add the "@Override" annotation above this method signature(Åî±½
-Rsquid:S1161è":Add the "@Override" annotation above this method signature(Åî±½
-\squid:S3358€"DExtract this nested ternary operation into an independent statement.(§µìû
-Rsquid:S1161‹":Add the "@Override" annotation above this method signature(Åî±½
-Rsquid:S1161—":Add the "@Override" annotation above this method signature(Åî±½
-Rsquid:S1161£":Add the "@Override" annotation above this method signature(Åî±½
-Rsquid:S1161¯":Add the "@Override" annotation above this method signature(Åî±½
-}squid:S1149ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÃşĞÜ
-Wsquid:S1161İ":Add the "@Override" annotation above this method signature(¹Âì†ÿÿÿÿÿ
-Wsquid:S1161è":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-ssquid:S1149ÿ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ü±÷çüÿÿÿÿ
-Wsquid:S1161ò":Add the "@Override" annotation above this method signature(¹Âì†ÿÿÿÿÿ
-Wsquid:S1161ü":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Rsquid:S1161Š	":Add the "@Override" annotation above this method signature(Åî±½
-Rsquid:S1161	":Add the "@Override" annotation above this method signature(Åî±½
-Rsquid:S1161¬	":Add the "@Override" annotation above this method signature(Åî±½
-Rsquid:S1161¸	":Add the "@Override" annotation above this method signature(‚–¾–
-Rsquid:S1161Ğ	":Add the "@Override" annotation above this method signature(Åî±½
-Wsquid:S1161ß	":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-Wsquid:S1161ã	":Add the "@Override" annotation above this method signature(¿ÔÚßûÿÿÿÿ
-Rsquid:S1161ô	":Add the "@Override" annotation above this method signature(Åî±½
-Wsquid:S1161»
-":Add the "@Override" annotation above this method signature(İ¾¹ïøÿÿÿÿ
-jsquid:S3776é
-"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(­å§„
-ksquid:ModifiersOrderChecké
-"EReorder the modifiers to comply with the Java Language Specification.(­å§„
-Bsquid:S00108ƒ")Either remove or fill this block of code.(‚Üò
-\squid:CallToDeprecatedMethod”"3Remove this use of "newInstance"; it is deprecated.(ş±¨š
-P
-squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ŞîÈÆ
-gsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(û”ÍÕúÿÿÿÿ
-hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(‹Ôè‰øÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸÉ°Ô
-hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ı¯”şÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Øß²ü
-hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(û”ÍÕúÿÿÿÿ
-hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ĞŒøüÿÿÿÿ
-csquid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(§†äÃ
-csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(âÇâ‰

@@ -1,27 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck£"XRefactor the code in order to not assign to this loop counter from within the loop body.(üŠÓ‚
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
-8squid:S11704"!Make this final field static too.(¡”¨
-nsquid:S001164"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡”¨
-O
-squid:S106o"9Replace this use of System.out or System.err by a logger.(İµï
-T
-squid:S106p"9Replace this use of System.out or System.err by a logger.(Îëš¢ÿÿÿÿÿ
-T
-squid:S106q"9Replace this use of System.out or System.err by a logger.(ÒÕÓûÿÿÿÿ
-O
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(™ú¯B
-Esquid:S1172ò"-Remove this unused method parameter "reader".(Æ‚ãü
-Fsquid:S1125õ")Remove the literal "false" boolean value.(˜ˆ²µşÿÿÿÿ
-Esquid:S1125"(Remove the literal "true" boolean value.(ÎéÕŸşÿÿÿÿ
-O
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(®ÒŸl
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(İÿ›åúÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(©»Ğí
-P
-squid:S106¤"9Replace this use of System.out or System.err by a logger.(ò–Ÿ
-U
-squid:S106¦"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(ßÏ–Öşÿÿÿÿ

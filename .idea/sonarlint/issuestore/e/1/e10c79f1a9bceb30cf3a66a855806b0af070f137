@@ -1,14 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-d$squid:AssignmentInSubExpressionCheck‚".Extract the assignment out of this expression.(¢Ş–îşÿÿÿÿ
-csquid:S1301Š"KReplace this "switch" statement by "if" statements to increase readability.(×ºí
-jsquid:MaximumInheritanceDepthK"<This class has 7 parents which is greater than 5 authorized.(‹ı¤¾ûÿÿÿÿ
-?squid:S1172-"(Remove this unused method parameter "h".(´Â×ı
-Vsquid:S11611":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
-Vsquid:S1161<":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
-=squid:S1659M"&Declare "hasFocus" on a separate line.(¨øŸÍ
-@squid:S1659M")Declare "hasRollover" on a separate line.(¨øŸÍ
-isquid:S3776T"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(íÔ­¢
-Qsquid:S1161T":Add the "@Override" annotation above this method signature(íÔ­¢
-ˆ"squid:SwitchLastCaseIsDefaultCheckŠ"YComplete cases by adding the missing enum constants or add a default case to this switch.(×ºí
-Rsquid:S1161¯":Add the "@Override" annotation above this method signature(¶øÂÁ

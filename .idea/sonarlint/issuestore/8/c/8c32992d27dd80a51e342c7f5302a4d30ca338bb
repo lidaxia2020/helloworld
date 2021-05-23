@@ -1,6 +1,0 @@
-
-msquid:S1206ä"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
-Vsquid:S1161":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-?squid:S1905Ç"'Remove this unnecessary cast to "Enum".(ÑÌšð
-Wsquid:S1161¥":Add the "@Override" annotation above this method signature(‚Õ°ªÿÿÿÿÿ
-Wsquid:S1161ä":Add the "@Override" annotation above this method signature(Ý¢êÍýÿÿÿÿ

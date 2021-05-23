@@ -1,50 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-lsquid:S1192Ò"ODefine a constant instead of duplicating this literal "INDEX_SIZE_ERR" 3 times.(¨†Ÿóûÿÿÿÿ
-tsquid:S1192¼"WDefine a constant instead of duplicating this literal "INVALID_NODE_TYPE_ERR" 10 times.(‹«Š¤ûÿÿÿÿ
-jsquid:S1192c"SDefine a constant instead of duplicating this literal "INVALID_STATE_ERR" 22 times.(ãøç
-lsquid:S1192Á"TDefine a constant instead of duplicating this literal "WRONG_DOCUMENT_ERR" 10 times.(ášîš
-Lsquid:S1066ı"/Merge this if statement with the enclosing one.(ş‹¸üøÿÿÿÿ
-Lsquid:S1066„"/Merge this if statement with the enclosing one.(§¸œàøÿÿÿÿ
-Fsquid:S1066Ñ"/Merge this if statement with the enclosing one.(ğ¬¯
-Lsquid:S1066×"/Merge this if statement with the enclosing one.(˜‹Üıÿÿÿÿ
-Tsquid:S2589­"7Remove this expression which always evaluates to "true"(«›ÀŠùÿÿÿÿ
-Tsquid:S2589²"7Remove this expression which always evaluates to "true"(«›ÀŠùÿÿÿÿ
-lsquid:S2259ù"OA "NullPointerException" could be thrown; "clonedGrandParent" is nullable here.(¦¾ñİúÿÿÿÿ
-lsquid:S2259ë"OA "NullPointerException" could be thrown; "clonedGrandParent" is nullable here.(¦¾ñİúÿÿÿÿ
-bsquid:S2259à"JA "NullPointerException" could be thrown; "clonedParent" is nullable here.(ó±ó§
-gsquid:S2259ì"JA "NullPointerException" could be thrown; "clonedParent" is nullable here.(áğÂ¹úÿÿÿÿ
-‚squid:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(òõ¹İüÿÿÿÿ
-|squid:S1149š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Şœşu
-wsquid:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-%squid:RedundantThrowsDeclarationCheck±"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(Æ¹Â˜
-•%squid:RedundantThrowsDeclarationCheck±"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Æ¹Â˜
-%squid:RedundantThrowsDeclarationCheckÖ"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(Æ¹Â˜
-•%squid:RedundantThrowsDeclarationCheckÖ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Æ¹Â˜
-£%squid:RedundantThrowsDeclarationCheckû"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(Ëò˜‰ûÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheck¤"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(Ëò˜‰ûÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckË"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(Ëò˜‰ûÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckò"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(Ëò˜‰ûÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckª"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(Ëò˜‰ûÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckÍ"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(Ëò˜‰ûÿÿÿÿ
-•%squid:RedundantThrowsDeclarationCheckñ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
-isquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(À®ãM
-•%squid:RedundantThrowsDeclarationCheckî"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
-•%squid:RedundantThrowsDeclarationCheckô"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
-•%squid:RedundantThrowsDeclarationCheckú"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
-š%squid:RedundantThrowsDeclarationCheck€"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(öñ†Çûÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheck€"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(öñ†Çûÿÿÿÿ
-osquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(©Äçóùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckİ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(öñ†Çûÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckİ"lRemove the declaration of thrown exception 'org.w3c.dom.ranges.RangeException' which is a runtime exception.(öñ†Çûÿÿÿÿ
-jsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Á»›ê
-•%squid:RedundantThrowsDeclarationCheck÷"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
-Q"squid:SwitchLastCaseIsDefaultCheckÌ""Add a default case to this switch.(›¶ş¿
-Q"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(›¶ş¿
-š%squid:RedundantThrowsDeclarationCheckÍ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(£“Æÿÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck‹""Add a default case to this switch.(¾ã¤ëüÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck©""Add a default case to this switch.(Õ‚Èöøÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck¾""Add a default case to this switch.(¾ã¤ëüÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(óÉôùûÿÿÿÿ
-hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(£ÔÌœûÿÿÿÿ

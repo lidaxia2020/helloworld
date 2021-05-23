@@ -1,19 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-isquid:S1192 "LUse already-defined constant 'xmlURI' instead of duplicating its value here.(Á§²ùÿÿÿÿ
-fsquid:S1192€"NDefine a constant instead of duplicating this literal "NAMESPACE_ERR" 5 times.(Õ¨›ì
-Lsquid:S1066é"/Merge this if statement with the enclosing one.(êòâ€ûÿÿÿÿ
-}squid:UselessImportCheck!"YRemove this unused import 'com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition'.(Îó¶¼
-rsquid:S00115J"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÃª‘
-”%squid:RedundantThrowsDeclarationCheckf"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
-isquid:S3776l"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(©ºê¬
-@squid:S1659v"$Declare "colon2" on a separate line.(Ö°½èúÿÿÿÿ
-•%squid:RedundantThrowsDeclarationCheck»"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
-•%squid:RedundantThrowsDeclarationCheckÔ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Ãæœ›
-jsquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(‰Âæ”
-osquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(’“ì¶ÿÿÿÿÿ
-Wsquid:S1161–":Add the "@Override" annotation above this method signature(’“ì¶ÿÿÿÿÿ
-Rsquid:S1161é":Add the "@Override" annotation above this method signature(ÒÅ™Ş
-Wsquid:S1161ù":Add the "@Override" annotation above this method signature(ƒşÕ‰üÿÿÿÿ
-Rsquid:S1161”":Add the "@Override" annotation above this method signature(ÍË¿ö
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

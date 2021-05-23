@@ -1,11 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
-Fsquid:S1066á"/Merge this if statement with the enclosing one.(’Ôûg
-wsquid:UselessImportCheck+"TRemove this unnecessary import: same package classes are always implicitly imported.(üÜ¶
-wsquid:UselessImportCheck,"TRemove this unnecessary import: same package classes are always implicitly imported.(ŠşÈj
-}squid:UselessImportCheck-"TRemove this unnecessary import: same package classes are always implicitly imported.(å éşÿÿÿÿ
-}squid:UselessImportCheck."TRemove this unnecessary import: same package classes are always implicitly imported.(°Š ÿÿÿÿÿ
-xsquid:UselessImportCheck/"TRemove this unnecessary import: same package classes are always implicitly imported.(³ş¾˜
-csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(çñòÒ
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(›Ç°ıÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß†‘

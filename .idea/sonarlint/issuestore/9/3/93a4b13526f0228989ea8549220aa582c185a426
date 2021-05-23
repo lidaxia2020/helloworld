@@ -1,30 +1,0 @@
-
-esquid:S1192"MDefine a constant instead of duplicating this literal "serviceClass" 4 times.(¸¥˜Ö
-_$squid:AssignmentInSubExpressionCheckş".Extract the assignment out of this expression.(¬Ô»’
-_$squid:AssignmentInSubExpressionCheckÜ".Extract the assignment out of this expression.(¬Ô»’
-Ysquid:UselessImportCheck#"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ
-Psquid:S2675„"3Remove the "synchronized" keyword from this method.(úÛ¢·üÿÿÿÿ
-fsquid:S3551¦"IMake this method "synchronized" to match the parent class implementation.(·òşÿÿÿÿ
-Wsquid:S1161¦":Add the "@Override" annotation above this method signature(·òşÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckş"rRemove the declaration of thrown exception 'java.lang.UnsupportedOperationException' which is a runtime exception.(Ş¹¤ó
-fsquid:HiddenFieldCheck˜">Rename "services" which hides the field declared at line 1434.(ÆşÃÿÿÿÿÿ
-asquid:HiddenFieldCheckµ">Rename "services" which hides the field declared at line 1434.(ø•úÑ
-jsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(™”¶ô
-asquid:HiddenFieldCheckğ">Rename "services" which hides the field declared at line 1434.(ø•úÑ
-fsquid:HiddenFieldCheck ">Rename "services" which hides the field declared at line 1434.(„ğ©öøÿÿÿÿ
-isquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ø¦ÍK
-asquid:HiddenFieldCheckÎ">Rename "services" which hides the field declared at line 1434.(ø•úÑ
-Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(·óğÌ
-Isquid:S1948¶"1Make "serviceProvider" transient or serializable.(Ãƒ¬ì
-Asquid:S1172")Remove this unused method parameter "sc".(Ûí¶Ş
-3squid:S3626Û"Remove this redundant jump.(ûÁİ…
-3squid:S3626í"Remove this redundant jump.(ûÁİ…
-@squid:S1125í")Remove the literal "false" boolean value.(Ò²£_
-osquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ä—¹ûÿÿÿÿ
-Wsquid:S1161	":Add the "@Override" annotation above this method signature(ÿ³Üîùÿÿÿÿ
-Wsquid:S1161¦	":Add the "@Override" annotation above this method signature(Ôš¢Ñüÿÿÿÿ
-Wsquid:S1161Å	":Add the "@Override" annotation above this method signature(Èª´ªÿÿÿÿÿ
-Rsquid:S1161²
-":Add the "@Override" annotation above this method signature(—¯Î¾
-Wsquid:S1161ä
-":Add the "@Override" annotation above this method signature(‘Ÿáüÿÿÿÿ

@@ -1,25 +1,0 @@
-
-^$squid:AssignmentInSubExpressionCheckz".Extract the assignment out of this expression.(Ï‹ùÍ
-^$squid:AssignmentInSubExpressionCheckğ".Extract the assignment out of this expression.(ÿªZ
-d$squid:AssignmentInSubExpressionCheckò".Extract the assignment out of this expression.(æ²ÇÛúÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckô".Extract the assignment out of this expression.(ê¡Ÿºûÿÿÿÿ
-3squid:S17002"Rename field "invokers"(¬¢·çÿÿÿÿÿ
-Esquid:S16596")Declare "INV_GENERIC" on a separate line.(“ŸÄıÿÿÿÿ
->squid:S16597"'Declare "INV_BASIC" on a separate line.(˜ Š†
-Csquid:S16598"'Declare "INV_LIMIT" on a separate line.(ÒÙ¼«üÿÿÿÿ
-Nsquid:S1659ë"1Declare "NF_checkGenericType" on a separate line.(“‰‰Çşÿÿÿÿ
-Jsquid:S1659ì"2Declare "NF_getCallSiteTarget" on a separate line.(ÜÖ£š
-jsquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Õû¼™
-Dsquid:S1659´"'Declare "isGeneric" on a separate line.(¤âüÿÿÿÿ
-\squid:S1134÷"DTake the required action to fix the issue indicated by this comment.(¡ñå³
-…squid:S2234‰"mParameters to newWrongMethodTypeException have the same names but not the same order as the method arguments.(å°°ø
-asquid:S1134"DTake the required action to fix the issue indicated by this comment.(Œñ»äüÿÿÿÿ
-Hsquid:S1659Õ"+Declare "PREPEND_COUNT" on a separate line.(”ÇŒÿşÿÿÿÿ
-Psquid:S1197ï"8Move the array designator from the variable to the type.(‰½ûŸ
-bsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.( Ğ»¦
-bsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(ÏÄ½à
-bsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(÷åÅŸ
-bsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ÉáĞa
-hsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(øåéùÿÿÿÿ
-csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(‚÷³´
-hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(üÏÖçÿÿÿÿÿ

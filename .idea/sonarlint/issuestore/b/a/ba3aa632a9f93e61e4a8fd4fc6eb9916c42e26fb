@@ -1,10 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ýá¸ø
-lsquid:S1192U"UUse already-defined constant 'MAX_OCCUR_LIMIT' instead of duplicating its value here.(ÙÑëÈ
-ssquid:S1192A"\Use already-defined constant 'ENTITY_EXPANSION_LIMIT' instead of duplicating its value here.(×ÈËö
-ysquid:S1192K"]Use already-defined constant 'ELEMENT_ATTRIBUTE_LIMIT' instead of duplicating its value here.(«ï€Öüÿÿÿÿ
-Vsquid:S1118*":Add a private constructor to hide the implicit public one.(´Ñïáûÿÿÿÿ
-psquid:ModifiersOrderChecká"EReorder the modifiers to comply with the Java Language Specification.(Íð¥¨þÿÿÿÿ
-psquid:ModifiersOrderCheckã"EReorder the modifiers to comply with the Java Language Specification.(íŸ‚Ìúÿÿÿÿ
-Usquid:S1197Ñ"8Move the array designator from the variable to the type.(„ß¾•üÿÿÿÿ
-^squid:S1126Ò"AReplace this if-then-else statement by a single return statement.(¦¶Ìïøÿÿÿÿ

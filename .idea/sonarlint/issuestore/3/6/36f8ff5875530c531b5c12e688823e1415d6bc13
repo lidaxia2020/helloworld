@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(äªŒ­
-?squid:S16043"(Make this anonymous inner class a lambda(¡·ëª
-[squid:S2147="DCombine this catch with the one at line 59, which has the same body.(Å¡ß
-`squid:CallToDeprecatedMethod8"3Remove this use of "newInstance"; it is deprecated.(ö¼Èüúÿÿÿÿ
-@squid:S1125X")Remove the literal "false" boolean value.(ÖÌ™”
-Asquid:S1125–")Remove the literal "false" boolean value.(¾²Ÿ·

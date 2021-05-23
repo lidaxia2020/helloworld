@@ -1,318 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ó’›ú
-Lsquid:S1659>"0Declare "ELEMNAME_WITHPARAM" on a separate line.(íÖõøşÿÿÿÿ
-Osquid:S1659?"3Declare "ELEMNAME_ADDATTRIBUTE" on a separate line.(™Î¥™ıÿÿÿÿ
-Isquid:S1659?"-Declare "ELEMNAME_ANCHOR" on a separate line.(™Î¥™ıÿÿÿÿ
-Msquid:S1659B"6Declare "ELEMNAME_APPLY_TEMPLATES" on a separate line.(ı’„Ë
-Asquid:S1659B"*Declare "ELEMNAME_USE" on a separate line.(ı’„Ë
-Fsquid:S1659B"/Declare "ELEMNAME_CHILDREN" on a separate line.(ı’„Ë
-Isquid:S1659C"-Declare "ELEMNAME_CHOOSE" on a separate line.(»ß«ûøÿÿÿÿ
-Jsquid:S1659C".Declare "ELEMNAME_COMMENT" on a separate line.(»ß«ûøÿÿÿÿ
-Gsquid:S1659D"0Declare "ELEMNAME_CONSTRUCT" on a separate line.(‹Ôõµ
-Fsquid:S1659E"/Declare "ELEMNAME_CONTENTS" on a separate line.(ıƒÁŞ
-Bsquid:S1659E"+Declare "ELEMNAME_COPY" on a separate line.(ıƒÁŞ
-Esquid:S1659F".Declare "ELEMNAME_COPY_OF" on a separate line.(à˜ì™
-Psquid:S1659G"4Declare "ELEMNAME_DECIMALFORMAT" on a separate line.(å·çÿÿÿÿÿ
-Usquid:S1659H"9Declare "ELEMNAME_DEFINEATTRIBUTESET" on a separate line.(›¡«ıÿÿÿÿ
-Osquid:S1659L"3Declare "ELEMNAME_DEFINESCRIPT" on a separate line.(şÔÊ–ûÿÿÿÿ
-Lsquid:S1659L"0Declare "ELEMNAME_DISPLAYIF" on a separate line.(şÔÊ–ûÿÿÿÿ
-Csquid:S1659M",Declare "ELEMNAME_EMPTY" on a separate line.(ÎØïÂ
-Bsquid:S1659M"+Declare "ELEMNAME_EVAL" on a separate line.(ÎØïÂ
-Ssquid:S1659N"7Declare "ELEMNAME_EXPECTEDCHILDREN" on a separate line.(¨¯Íùÿÿÿÿ
-Gsquid:S1659O"0Declare "ELEMNAME_EXTENSION" on a separate line.(ö”ä
-Ssquid:S1659P"7Declare "ELEMNAME_EXTENSIONHANDLER" on a separate line.(şÔÇ¾úÿÿÿÿ
-Jsquid:S1659Q".Declare "ELEMNAME_FOREACH" on a separate line.(¾ÁÍ«ıÿÿÿÿ
-Fsquid:S1659Q"*Declare "ELEMNAME_KEY" on a separate line.(¾ÁÍ«ıÿÿÿÿ
-Esquid:S1659R")Declare "ELEMNAME_IF" on a separate line.(•áº˜üÿÿÿÿ
-Isquid:S1659R"-Declare "ELEMNAME_IMPORT" on a separate line.(•áº˜üÿÿÿÿ
-Esquid:S1659S".Declare "ELEMNAME_INCLUDE" on a separate line.(Öóµì
-Jsquid:S1659T"3Declare "ELEMNAME_CALLTEMPLATE" on a separate line.(Çõş 
-Ksquid:S1659U"4Declare "ELEMNAME_PARAMVARIABLE" on a separate line.(èí½‘
-Csquid:S1659V"-Declare "ELEMNAME_NUMBER" on a separate line.(‘¢d
-Dsquid:S1659V".Declare "ELEMNAME_NSALIAS" on a separate line.(‘¢d
-Lsquid:S1659W"0Declare "ELEMNAME_OTHERWISE" on a separate line.(Ñù˜Óşÿÿÿÿ
-Esquid:S1659W")Declare "ELEMNAME_PI" on a separate line.(Ñù˜Óşÿÿÿÿ
-Psquid:S1659X"4Declare "ELEMNAME_PRESERVESPACE" on a separate line.(’¤îÆıÿÿÿÿ
-Rsquid:S1659Y"6Declare "ELEMNAME_REMOVEATTRIBUTE" on a separate line.(‰ıê–ÿÿÿÿÿ
-Fsquid:S1659Z"/Declare "ELEMNAME_TEMPLATE" on a separate line.(íİÜ¬
-Bsquid:S1659Z"+Declare "ELEMNAME_SORT" on a separate line.(íİÜ¬
-Msquid:S1659["1Declare "ELEMNAME_STRIPSPACE" on a separate line.(Ïêğëüÿÿÿÿ
-Hsquid:S1659\"1Declare "ELEMNAME_STYLESHEET" on a separate line.(úƒ†
-Bsquid:S1659\"+Declare "ELEMNAME_TEXT" on a separate line.(úƒ†
-Jsquid:S1659]".Declare "ELEMNAME_VALUEOF" on a separate line.(Ì†ÆÒúÿÿÿÿ
-Gsquid:S1659]"+Declare "ELEMNAME_WHEN" on a separate line.(Ì†ÆÒúÿÿÿÿ
-Bsquid:S1659`"+Declare "ELEMNAME_ROOT" on a separate line.(¶¤¥€
-Asquid:S1659`"*Declare "ELEMNAME_ANY" on a separate line.(¶¤¥€
-Esquid:S1659`".Declare "ELEMNAME_ELEMENT" on a separate line.(¶¤¥€
-Ksquid:S1659a"4Declare "ELEMNAME_TARGETELEMENT" on a separate line.(­èŠÏ
-Gsquid:S1659a"0Declare "ELEMNAME_ATTRIBUTE" on a separate line.(­èŠÏ
-Rsquid:S1659b"6Declare "ELEMNAME_TARGETATTRIBUTE" on a separate line.(í™™µøÿÿÿÿ
-Fsquid:S1659b"*Declare "ELEMNAME_URL" on a separate line.(í™™µøÿÿÿÿ
-Bsquid:S1659c"+Declare "ELEMNAME_CALL" on a separate line.(¶¢û±
-Fsquid:S1659f"/Declare "ELEMNAME_FALLBACK" on a separate line.(ĞÕ·²
-Fsquid:S1659g"/Declare "ELEMNAME_TARGETPI" on a separate line.(¥Ò†Ü
-Psquid:S1659h"4Declare "ELEMNAME_TARGETCOMMENT" on a separate line.(ï†·Ûùÿÿÿÿ
-Hsquid:S1659i"1Declare "ELEMNAME_TARGETTEXT" on a separate line.(‡ÕÕ 
-Psquid:S1659j"9Declare "ELEMNAME_CSSSTYLECONVERSION" on a separate line.(‡¾Æ•
-Esquid:S1659k".Declare "ELEMNAME_COUNTER" on a separate line.(ëÆ…°
-Fsquid:S1659k"/Declare "ELEMNAME_COUNTERS" on a separate line.(ëÆ…°
-Nsquid:S1659l"7Declare "ELEMNAME_COUNTERINCREMENT" on a separate line.(¦Š³
-Jsquid:S1659l"3Declare "ELEMNAME_COUNTERRESET" on a separate line.(¦Š³
-Osquid:S1659m"3Declare "ELEMNAME_COUNTERSCOPE" on a separate line.(­à¼Êûÿÿÿÿ
-Psquid:S1659m"4Declare "ELEMNAME_APPLY_IMPORTS" on a separate line.(­à¼Êûÿÿÿÿ
-Ksquid:S1659n"/Declare "ELEMNAME_VARIABLE" on a separate line.(É°Ğøÿÿÿÿ
-Jsquid:S1659n".Declare "ELEMNAME_MESSAGE" on a separate line.(É°Ğøÿÿÿÿ
-Isquid:S1659n"-Declare "ELEMNAME_LOCALE" on a separate line.(É°Ğøÿÿÿÿ
-Ksquid:S1659o"4Declare "ELEMNAME_LITERALRESULT" on a separate line.(×ãÙµ
-Osquid:S1659o"8Declare "ELEMNAME_TEXTLITERALRESULT" on a separate line.(×ãÙµ
-Psquid:S1659p"4Declare "ELEMNAME_EXTENSIONCALL" on a separate line.(¦º¹‹ÿÿÿÿÿ
-Psquid:S1659p"4Declare "ELEMNAME_EXTENSIONDECL" on a separate line.(¦º¹‹ÿÿÿÿÿ
-Rsquid:S1659q"6Declare "ELEMNAME_EXTENSIONSCRIPT" on a separate line.(ğàÛğøÿÿÿÿ
-Isquid:S1659q"-Declare "ELEMNAME_OUTPUT" on a separate line.(ğàÛğøÿÿÿÿ
-Gsquid:S1659r"0Declare "ELEMNAME_COMPONENT" on a separate line.(œÆÜÂ
-Dsquid:S1659r"-Declare "ELEMNAME_SCRIPT" on a separate line.(œÆÜÂ
-Hsquid:S1659"1Declare "ELEMNAME_ANY_STRING" on a separate line.(ø’Ç
-Ssquid:S1659€";Declare "ELEMNAME_APPLY_IMPORTS_STRING" on a separate line.(şº°Ì
-Zsquid:S1659"=Declare "ELEMNAME_APPLY_TEMPLATES_STRING" on a separate line.(½ÙÇıÿÿÿÿ
-Nsquid:S1659‚"1Declare "ELEMNAME_ARG_STRING" on a separate line.(»ïçÓûÿÿÿÿ
-Rsquid:S1659ƒ":Declare "ELEMNAME_ATTRIBUTESET_STRING" on a separate line.(Èê¿“
-Tsquid:S1659„"7Declare "ELEMNAME_ATTRIBUTE_STRING" on a separate line.(Öôùõøÿÿÿÿ
-Usquid:S1659…"=Declare "ELEMNAME_CALLTEMPLATEARG_STRING" on a separate line.(ù¬¥Ø
-Wsquid:S1659†":Declare "ELEMNAME_CALLTEMPLATE_STRING" on a separate line.(ŠêÄÔøÿÿÿÿ
-Jsquid:S1659‡"2Declare "ELEMNAME_CALL_STRING" on a separate line.(ºâÍ
-Ssquid:S1659ˆ"6Declare "ELEMNAME_CHILDREN_STRING" on a separate line.(ÈĞ«¸úÿÿÿÿ
-Lsquid:S1659‰"4Declare "ELEMNAME_CHOOSE_STRING" on a separate line.(§À™
-Rsquid:S1659Š"5Declare "ELEMNAME_COMMENT_STRING" on a separate line.(š†íµÿÿÿÿÿ
-Tsquid:S1659‹"7Declare "ELEMNAME_COMPONENT_STRING" on a separate line.(Ü”øœüÿÿÿÿ
-Tsquid:S1659Œ"7Declare "ELEMNAME_CONSTRUCT_STRING" on a separate line.( ğñğşÿÿÿÿ
-Nsquid:S1659"6Declare "ELEMNAME_CONTENTS_STRING" on a separate line.(ƒ°›Å
-Rsquid:S1659"5Declare "ELEMNAME_COPY_OF_STRING" on a separate line.(Œÿç©ÿÿÿÿÿ
-Osquid:S1659"2Declare "ELEMNAME_COPY_STRING" on a separate line.(ğÁ¨«ûÿÿÿÿ
-Vsquid:S1659">Declare "ELEMNAME_COUNTERINCREMENT_STRING" on a separate line.(‚©ıÑ
-Wsquid:S1659‘":Declare "ELEMNAME_COUNTERRESET_STRING" on a separate line.(æìüƒşÿÿÿÿ
-Qsquid:S1659’":Declare "ELEMNAME_COUNTERSCOPE_STRING" on a separate line.(åï”_
-Msquid:S1659“"6Declare "ELEMNAME_COUNTERS_STRING" on a separate line.(î‹îj
-Rsquid:S1659”"5Declare "ELEMNAME_COUNTER_STRING" on a separate line.(¢ÌÌøüÿÿÿÿ
-]squid:S1659•"@Declare "ELEMNAME_CSSSTYLECONVERSION_STRING" on a separate line.(€Ë¶üÿÿÿÿ
-Ssquid:S1659–";Declare "ELEMNAME_DECIMALFORMAT_STRING" on a separate line.(ªë”Æ
-Tsquid:S1659—"7Declare "ELEMNAME_DISPLAYIF_STRING" on a separate line.(×…Š„ùÿÿÿÿ
-Msquid:S1659˜"5Declare "ELEMNAME_ELEMENT_STRING" on a separate line.(ó‚æ
-Ksquid:S1659™"3Declare "ELEMNAME_EMPTY_STRING" on a separate line.(Ã¾ÛÁ
-Osquid:S1659š"2Declare "ELEMNAME_EVAL_STRING" on a separate line.(´ÅÜ‚øÿÿÿÿ
-[squid:S1659›">Declare "ELEMNAME_EXPECTEDCHILDREN_STRING" on a separate line.(şòú±şÿÿÿÿ
-Vsquid:S1659œ">Declare "ELEMNAME_EXTENSIONHANDLER_STRING" on a separate line.(¢•Àé
-Osquid:S1659"7Declare "ELEMNAME_EXTENSION_STRING" on a separate line.(ÒĞ”
-Ssquid:S1659"6Declare "ELEMNAME_FALLBACK_STRING" on a separate line.(ÏûÛ†ıÿÿÿÿ
-Msquid:S1659Ÿ"5Declare "ELEMNAME_FOREACH_STRING" on a separate line.(«Áçø
-Hsquid:S1659 "0Declare "ELEMNAME_IF_STRING" on a separate line.(×ê“‹
-Qsquid:S1659¡"4Declare "ELEMNAME_IMPORT_STRING" on a separate line.(ì·ã¨ûÿÿÿÿ
-Msquid:S1659¢"5Declare "ELEMNAME_INCLUDE_STRING" on a separate line.(ª›¤Û
-Isquid:S1659£"1Declare "ELEMNAME_KEY_STRING" on a separate line.(®“Ò§
-Ksquid:S1659¤"4Declare "ELEMNAME_LOCALE_STRING" on a separate line.(«¢è
-Msquid:S1659¥"5Declare "ELEMNAME_MESSAGE_STRING" on a separate line.(ö¬±©
-Rsquid:S1659¦"5Declare "ELEMNAME_NSALIAS_STRING" on a separate line.(™“£ƒşÿÿÿÿ
-Ksquid:S1659§"4Declare "ELEMNAME_NUMBER_STRING" on a separate line.(œé?
-Tsquid:S1659¨"7Declare "ELEMNAME_OTHERWISE_STRING" on a separate line.(˜ÃÏ†üÿÿÿÿ
-Lsquid:S1659©"4Declare "ELEMNAME_OUTPUT_STRING" on a separate line.(Àğ¡İ
-Xsquid:S1659ª";Declare "ELEMNAME_PARAMVARIABLE_STRING" on a separate line.(•ÌÅåùÿÿÿÿ
-Lsquid:S1659«"4Declare "ELEMNAME_PI_OLD_STRING" on a separate line.(Çú³
-Msquid:S1659¬"0Declare "ELEMNAME_PI_STRING" on a separate line.(áóï‘øÿÿÿÿ
-Xsquid:S1659­";Declare "ELEMNAME_PRESERVESPACE_STRING" on a separate line.(¹åğàùÿÿÿÿ
-Isquid:S1659®"2Declare "ELEMNAME_ROOT_STRING" on a separate line.(§†£8
-Qsquid:S1659¯"4Declare "ELEMNAME_SCRIPT_STRING" on a separate line.(Šíõœüÿÿÿÿ
-Osquid:S1659°"2Declare "ELEMNAME_SORT_STRING" on a separate line.(–„¡¯ıÿÿÿÿ
-Psquid:S1659±"8Declare "ELEMNAME_STRIPSPACE_STRING" on a separate line.(ÆØ¶¾
-Usquid:S1659²"8Declare "ELEMNAME_STYLESHEET_STRING" on a separate line.(Ûä¯åşÿÿÿÿ
-Tsquid:S1659³"=Declare "ELEMNAME_TARGETATTRIBUTE_STRING" on a separate line.(ÕõÓS
-Ssquid:S1659´";Declare "ELEMNAME_TARGETCOMMENT_STRING" on a separate line.(Ó¬à 
-Ssquid:S1659µ";Declare "ELEMNAME_TARGETELEMENT_STRING" on a separate line.(ÖüöÕ
-Nsquid:S1659¶"6Declare "ELEMNAME_TARGETPI_STRING" on a separate line.(ÄÍœø
-Osquid:S1659·"8Declare "ELEMNAME_TARGETTEXT_STRING" on a separate line.(óÃ›9
-Nsquid:S1659¸"6Declare "ELEMNAME_TEMPLATE_STRING" on a separate line.(Ô·ÚĞ
-Osquid:S1659¹"2Declare "ELEMNAME_TEXT_STRING" on a separate line.(†÷ìõşÿÿÿÿ
-Tsquid:S1659º"7Declare "ELEMNAME_TRANSFORM_STRING" on a separate line.(ªêÊÿÿÿÿÿ
-Isquid:S1659»"1Declare "ELEMNAME_URL_STRING" on a separate line.(ÃŸÕë
-Nsquid:S1659¼"1Declare "ELEMNAME_USE_STRING" on a separate line.(®¨ãıÿÿÿÿ
-Rsquid:S1659½"5Declare "ELEMNAME_VALUEOF_STRING" on a separate line.(éÄÃĞúÿÿÿÿ
-Ssquid:S1659¾"6Declare "ELEMNAME_VARIABLE_STRING" on a separate line.(—ğ ÿÿÿÿÿ
-Osquid:S1659¿"2Declare "ELEMNAME_WHEN_STRING" on a separate line.(Ç¶×øÿÿÿÿ
-Tsquid:S1659À"7Declare "ELEMNAME_WITHPARAM_STRING" on a separate line.(¾Şãúÿÿÿÿ
-Vsquid:S1659Ê">Declare "EXSLT_ELEMNAME_FUNCRESULT_STRING" on a separate line.(¸®Ëã
-Tsquid:S1659Í"7Declare "EXSLT_ELEMNAME_FUNCRESULT" on a separate line.(±ˆ™øıÿÿÿÿ
-Lsquid:S1659Ù"/Declare "ATTRNAME_ANCESTOR" on a separate line.(Ëâºùÿÿÿÿ
-Fsquid:S1659Ú".Declare "ATTRNAME_ARCHIVE" on a separate line.(„Ñæï
-Hsquid:S1659Û"0Declare "ATTRNAME_ATTRIBUTE" on a separate line.(ŒÀãª
-Lsquid:S1659Ü"4Declare "ATTRNAME_ATTRIBUTE_SET" on a separate line.(ÿù½
-Msquid:S1659İ"0Declare "ATTRNAME_CASEORDER" on a separate line.(Üõô­øÿÿÿÿ
-Dsquid:S1659Ş",Declare "ATTRNAME_CLASS" on a separate line.( šÙ
-Ksquid:S1659ß".Declare "ATTRNAME_CLASSID" on a separate line.(ç®¶œüÿÿÿÿ
-Gsquid:S1659à"/Declare "ATTRNAME_CODEBASE" on a separate line.(ÜˆóÄ
-Lsquid:S1659á"/Declare "ATTRNAME_CODETYPE" on a separate line.(œ… Çÿÿÿÿÿ
-Msquid:S1659â"0Declare "ATTRNAME_CONDITION" on a separate line.(¤áäÿÿÿÿÿ
-Lsquid:S1659ã"/Declare "ATTRNAME_COPYTYPE" on a separate line.(™½ÜĞùÿÿÿÿ
-Isquid:S1659ä",Declare "ATTRNAME_COUNT" on a separate line.(Ö„ÏŒşÿÿÿÿ
-Fsquid:S1659å"/Declare "ATTRNAME_DATATYPE" on a separate line.(€›œp
-Osquid:S1659æ"7Declare "ATTRNAME_DECIMALSEPARATOR" on a separate line.(…¦ã•
-Ksquid:S1659ç".Declare "ATTRNAME_DEFAULT" on a separate line.(†õ‘›şÿÿÿÿ
-Psquid:S1659è"3Declare "ATTRNAME_DEFAULTSPACE" on a separate line.(×ï¹âşÿÿÿÿ
-Dsquid:S1659é",Declare "ATTRNAME_DEPTH" on a separate line.(«ñ©Ÿ
-Dsquid:S1659ê",Declare "ATTRNAME_DIGIT" on a separate line.(µÜÖí
-Lsquid:S1659ë"4Declare "ATTRNAME_DIGITGROUPSEP" on a separate line.(î—şó
-[squid:S1659ì">Declare "ATTRNAME_DISABLE_OUTPUT_ESCAPING" on a separate line.(£´·Ùıÿÿÿÿ
-Fsquid:S1659í".Declare "ATTRNAME_ELEMENT" on a separate line.(£ÆÓ
-Lsquid:S1659î"/Declare "ATTRNAME_ELEMENTS" on a separate line.(›ÀÄ©ÿÿÿÿÿ
-Vsquid:S1659ï">Declare "ATTRNAME_EXCLUDE_RESULT_PREFIXES" on a separate line.(İœ¢„
-Csquid:S1659ğ"+Declare "ATTRNAME_EXPR" on a separate line.(±¨âÈ
-\squid:S1659ñ"?Declare "ATTRNAME_EXTENSIONELEMENTPREFIXES" on a separate line.(Í¹úÏúÿÿÿÿ
-Esquid:S1659ò"-Declare "ATTRNAME_FORMAT" on a separate line.(êÙœâ
-Csquid:S1659ó"+Declare "ATTRNAME_FROM" on a separate line.(……öè
-Psquid:S1659ô"8Declare "ATTRNAME_GROUPINGSEPARATOR" on a separate line.(ÿªà
-Ksquid:S1659õ"3Declare "ATTRNAME_GROUPINGSIZE" on a separate line.(·¢úÒ
-Csquid:S1659ö"+Declare "ATTRNAME_HREF" on a separate line.(ìİÓ¾
-Asquid:S1659÷")Declare "ATTRNAME_ID" on a separate line.(‡é„Å
-Isquid:S1659ø"1Declare "ATTRNAME_IMPORTANCE" on a separate line.(–—ãØ
-Ksquid:S1659ù"3Declare "ATTRNAME_INDENTRESULT" on a separate line.( ®’
-Fsquid:S1659ú"/Declare "ATTRNAME_INFINITY" on a separate line.(¾ÔÖL
-Csquid:S1659û"+Declare "ATTRNAME_LANG" on a separate line.(—†¨¥
-Osquid:S1659ü"2Declare "ATTRNAME_LETTERVALUE" on a separate line.(ø‰Í«ıÿÿÿÿ
-Isquid:S1659ı",Declare "ATTRNAME_LEVEL" on a separate line.(Şø‡›ÿÿÿÿÿ
-Isquid:S1659ş",Declare "ATTRNAME_MATCH" on a separate line.(³ÅÑøûÿÿÿÿ
-Esquid:S1659ÿ"-Declare "ATTRNAME_METHOD" on a separate line.(²³ûæ
-Gsquid:S1659€"0Declare "ATTRNAME_MINUSSIGN" on a separate line.(ı½Ôa
-Bsquid:S1659"+Declare "ATTRNAME_MODE" on a separate line.(ÕÄÎa
-Hsquid:S1659‚"+Declare "ATTRNAME_NAME" on a separate line.(‚Ú£’øÿÿÿÿ
-Msquid:S1659ƒ"0Declare "ATTRNAME_NAMESPACE" on a separate line.(÷ğêøÿÿÿÿ
-Bsquid:S1659„"*Declare "ATTRNAME_NAN" on a separate line.(…¤ÉĞ
-Nsquid:S1659…"6Declare "ATTRNAME_NDIGITSPERGROUP" on a separate line.(¤ÃÍ³
-Asquid:S1659†")Declare "ATTRNAME_NS" on a separate line.(™×´÷
-Hsquid:S1659‡"+Declare "ATTRNAME_ONLY" on a separate line.(µ¿¼Ãÿÿÿÿÿ
-Dsquid:S1659ˆ",Declare "ATTRNAME_ORDER" on a separate line.(äš»Ï
-\squid:S1659‰"DDeclare "ATTRNAME_OUTPUT_CDATA_SECTION_ELEMENTS" on a separate line.(È³Úõ
-Tsquid:S1659Š"<Declare "ATTRNAME_OUTPUT_DOCTYPE_PUBLIC" on a separate line.(òËÂÏ
-Tsquid:S1659‹"<Declare "ATTRNAME_OUTPUT_DOCTYPE_SYSTEM" on a separate line.(¿Ó°
-Nsquid:S1659Œ"6Declare "ATTRNAME_OUTPUT_ENCODING" on a separate line.(éšé˜
-Qsquid:S1659"4Declare "ATTRNAME_OUTPUT_INDENT" on a separate line.(òíøÅúÿÿÿÿ
-Nsquid:S1659"7Declare "ATTRNAME_OUTPUT_MEDIATYPE" on a separate line.(Â‰şf
-Lsquid:S1659"4Declare "ATTRNAME_OUTPUT_METHOD" on a separate line.(¢ÄÓ€
-Vsquid:S1659"9Declare "ATTRNAME_OUTPUT_OMITXMLDECL" on a separate line.(­Áõæùÿÿÿÿ
-Psquid:S1659‘"8Declare "ATTRNAME_OUTPUT_STANDALONE" on a separate line.(ô¤¾±
-Rsquid:S1659’"5Declare "ATTRNAME_OUTPUT_VERSION" on a separate line.(÷é¦ùÿÿÿÿ
-Osquid:S1659“"7Declare "ATTRNAME_PATTERNSEPARATOR" on a separate line.(¼ªÚ™
-Fsquid:S1659”".Declare "ATTRNAME_PERCENT" on a separate line.(íË¿Í
-Gsquid:S1659•"/Declare "ATTRNAME_PERMILLE" on a separate line.(´çÁß
-Lsquid:S1659–"/Declare "ATTRNAME_PRIORITY" on a separate line.(³ı´Äúÿÿÿÿ
-Isquid:S1659—",Declare "ATTRNAME_REFID" on a separate line.(ÙŸ„£şÿÿÿÿ
-Gsquid:S1659˜"/Declare "ATTRNAME_RESULTNS" on a separate line.(õöšğ
-Lsquid:S1659™"4Declare "ATTRNAME_RESULT_PREFIX" on a separate line.(‰Ö¶ä
-Esquid:S1659š"-Declare "ATTRNAME_SELECT" on a separate line.(ã¢•ä
-Jsquid:S1659›"2Declare "ATTRNAME_SEQUENCESRC" on a separate line.(ù×ù
-Isquid:S1659œ",Declare "ATTRNAME_STYLE" on a separate line.(™æñĞıÿÿÿÿ
-Usquid:S1659"8Declare "ATTRNAME_STYLESHEET_PREFIX" on a separate line.(Ç©ö¼ıÿÿÿÿ
-Msquid:S1659"0Declare "ATTRNAME_TERMINATE" on a separate line.(ğô½’øÿÿÿÿ
-Hsquid:S1659Ÿ"+Declare "ATTRNAME_TEST" on a separate line.(ëêû¢øÿÿÿÿ
-Gsquid:S1659 "/Declare "ATTRNAME_TOSTRING" on a separate line.(éİİÙ
-Hsquid:S1659¡"+Declare "ATTRNAME_TYPE" on a separate line.(­ÊÖ³şÿÿÿÿ
-Bsquid:S1659¢"*Declare "ATTRNAME_USE" on a separate line.(À¯°è
-Osquid:S1659£"7Declare "ATTRNAME_USEATTRIBUTESETS" on a separate line.(´Ğ¢Œ
-Isquid:S1659¤",Declare "ATTRNAME_VALUE" on a separate line.(ßòÙœüÿÿÿÿ
-Ksquid:S1659¥".Declare "ATTRNAME_VERSION" on a separate line.(Ñş¨ëÿÿÿÿÿ
-Dsquid:S1659¦",Declare "ATTRNAME_XMLNS" on a separate line.(¬ù­
-Fsquid:S1659§"/Declare "ATTRNAME_XMLNSDEF" on a separate line.(æ–‰X
-Gsquid:S1659¨"/Declare "ATTRNAME_XMLSPACE" on a separate line.(®úœÈ
-Msquid:S1659©"0Declare "ATTRNAME_ZERODIGIT" on a separate line.(¡ûõıùÿÿÿÿ
-Ksquid:S1659³".Declare "TATTRNAME_AMOUNT" on a separate line.(õÖÍ¹şÿÿÿÿ
-Msquid:S1659´"0Declare "TATTRNAME_ANCESTOR" on a separate line.(ğ¹ŞÌùÿÿÿÿ
-Lsquid:S1659´"/Declare "TATTRNAME_ARCHIVE" on a separate line.(ğ¹ŞÌùÿÿÿÿ
-Isquid:S1659µ"1Declare "TATTRNAME_ATTRIBUTE" on a separate line.(´àƒ
-Lsquid:S1659¶"5Declare "TATTRNAME_ATTRIBUTE_SET" on a separate line.(ƒÕ4
-Nsquid:S1659·"1Declare "TATTRNAME_CASEORDER" on a separate line.(ŞíÏ¢øÿÿÿÿ
-Jsquid:S1659·"-Declare "TATTRNAME_CLASS" on a separate line.(ŞíÏ¢øÿÿÿÿ
-Gsquid:S1659¸"/Declare "TATTRNAME_CLASSID" on a separate line.(›ĞÍ‚
-Hsquid:S1659¸"0Declare "TATTRNAME_CODEBASE" on a separate line.(›ĞÍ‚
-Hsquid:S1659¹"0Declare "TATTRNAME_CODETYPE" on a separate line.(ûˆø¬
-Isquid:S1659¹"1Declare "TATTRNAME_CONDITION" on a separate line.(ûˆø¬
-Msquid:S1659º"0Declare "TATTRNAME_COPYTYPE" on a separate line.(ëµÜğùÿÿÿÿ
-Jsquid:S1659º"-Declare "TATTRNAME_COUNT" on a separate line.(ëµÜğùÿÿÿÿ
-Msquid:S1659»"0Declare "TATTRNAME_DATATYPE" on a separate line.(ì¡—Ìøÿÿÿÿ
-Lsquid:S1659»"/Declare "TATTRNAME_DEFAULT" on a separate line.(ì¡—Ìøÿÿÿÿ
-Qsquid:S1659¼"4Declare "TATTRNAME_DEFAULTSPACE" on a separate line.(Ø¿·Šùÿÿÿÿ
-Jsquid:S1659¼"-Declare "TATTRNAME_DEPTH" on a separate line.(Ø¿·Šùÿÿÿÿ
-Msquid:S1659½"5Declare "TATTRNAME_DIGITGROUPSEP" on a separate line.(‡«Â
-Wsquid:S1659¾"?Declare "TATTRNAME_DISABLE_OUTPUT_ESCAPING" on a separate line.(î¿¼¸
-Lsquid:S1659¿"/Declare "TATTRNAME_ELEMENT" on a separate line.(Ûù¤‘ûÿÿÿÿ
-Msquid:S1659¿"0Declare "TATTRNAME_ELEMENTS" on a separate line.(Ûù¤‘ûÿÿÿÿ
-Isquid:S1659À",Declare "TATTRNAME_EXPR" on a separate line.(ÔìĞ™ùÿÿÿÿ
-Xsquid:S1659Á"@Declare "TATTRNAME_EXTENSIONELEMENTPREFIXES" on a separate line.(¤ü¶
-Fsquid:S1659Â".Declare "TATTRNAME_FORMAT" on a separate line.(ÅÆĞŞ
-Dsquid:S1659Â",Declare "TATTRNAME_FROM" on a separate line.(ÅÆĞŞ
-Qsquid:S1659Ã"9Declare "TATTRNAME_GROUPINGSEPARATOR" on a separate line.(ıÃÆ
-Lsquid:S1659Ä"4Declare "TATTRNAME_GROUPINGSIZE" on a separate line.(äÃŞ
-Dsquid:S1659Ä",Declare "TATTRNAME_HREF" on a separate line.(äÃŞ
-Asquid:S1659Å"*Declare "TATTRNAME_ID" on a separate line.(€’G
-Isquid:S1659Å"2Declare "TATTRNAME_IMPORTANCE" on a separate line.(€’G
-Lsquid:S1659Æ"4Declare "TATTRNAME_INDENTRESULT" on a separate line.(éŒùª
-Dsquid:S1659Æ",Declare "TATTRNAME_LANG" on a separate line.(éŒùª
-Psquid:S1659Ç"3Declare "TATTRNAME_LETTERVALUE" on a separate line.(·°©àûÿÿÿÿ
-Jsquid:S1659Ç"-Declare "TATTRNAME_LEVEL" on a separate line.(·°©àûÿÿÿÿ
-Jsquid:S1659È"-Declare "TATTRNAME_MATCH" on a separate line.(Ÿ‰Šıÿÿÿÿ
-Ksquid:S1659È".Declare "TATTRNAME_METHOD" on a separate line.(Ÿ‰Šıÿÿÿÿ
-Isquid:S1659É",Declare "TATTRNAME_MODE" on a separate line.(şòê¡øÿÿÿÿ
-Isquid:S1659É",Declare "TATTRNAME_NAME" on a separate line.(şòê¡øÿÿÿÿ
-Isquid:S1659Ê"1Declare "TATTRNAME_NAMESPACE" on a separate line.(ñÅëÁ
-Osquid:S1659Ë"7Declare "TATTRNAME_NDIGITSPERGROUP" on a separate line.(Ï÷ú
-Bsquid:S1659Ë"*Declare "TATTRNAME_NS" on a separate line.(Ï÷ú
-Dsquid:S1659Ì",Declare "TATTRNAME_ONLY" on a separate line.(ØÕâ¥
-Esquid:S1659Ì"-Declare "TATTRNAME_ORDER" on a separate line.(ØÕâ¥
-bsquid:S1659Í"EDeclare "TATTRNAME_OUTPUT_CDATA_SECTION_ELEMENTS" on a separate line.(¡ËØûıÿÿÿÿ
-Usquid:S1659Î"=Declare "TATTRNAME_OUTPUT_DOCTYPE_PUBLIC" on a separate line.(ı› ·
-Usquid:S1659Ï"=Declare "TATTRNAME_OUTPUT_DOCTYPE_SYSTEM" on a separate line.(á¼ª
-Osquid:S1659Ğ"7Declare "TATTRNAME_OUTPUT_ENCODING" on a separate line.(úËœ
-Msquid:S1659Ñ"5Declare "TATTRNAME_OUTPUT_INDENT" on a separate line.(ôÓÁ
-Usquid:S1659Ò"8Declare "TATTRNAME_OUTPUT_MEDIATYPE" on a separate line.(Ê¯Ù‰şÿÿÿÿ
-Vsquid:S1659Ó"9Declare "TATTRNAME_OUTPUT_STANDALONE" on a separate line.(ñĞˆİıÿÿÿÿ
-Nsquid:S1659Ô"6Declare "TATTRNAME_OUTPUT_VERSION" on a separate line.(³°Ö
-Wsquid:S1659Õ":Declare "TATTRNAME_OUTPUT_OMITXMLDECL" on a separate line.(ò¾Öœûÿÿÿÿ
-Msquid:S1659Ö"0Declare "TATTRNAME_PRIORITY" on a separate line.(œÌ£Îúÿÿÿÿ
-Jsquid:S1659Ö"-Declare "TATTRNAME_REFID" on a separate line.(œÌ£Îúÿÿÿÿ
-Hsquid:S1659×"0Declare "TATTRNAME_RESULTNS" on a separate line.(€ùé×
-Fsquid:S1659×".Declare "TATTRNAME_SELECT" on a separate line.(€ùé×
-Ksquid:S1659Ø"3Declare "TATTRNAME_SEQUENCESRC" on a separate line.(¶Ş×›
-Esquid:S1659Ø"-Declare "TATTRNAME_STYLE" on a separate line.(¶Ş×›
-Isquid:S1659Ù",Declare "TATTRNAME_TEST" on a separate line.(¸êÉùÿÿÿÿ
-Msquid:S1659Ù"0Declare "TATTRNAME_TOSTRING" on a separate line.(¸êÉùÿÿÿÿ
-Csquid:S1659Ú",Declare "TATTRNAME_TYPE" on a separate line.(ş†‘c
-Bsquid:S1659Ú"+Declare "TATTRNAME_USE" on a separate line.(ş†‘c
-Usquid:S1659Û"8Declare "TATTRNAME_USEATTRIBUTESETS" on a separate line.(¼‰…Ğÿÿÿÿÿ
-Jsquid:S1659Ü"-Declare "TATTRNAME_VALUE" on a separate line.(«¯©ÿÿÿÿÿ
-Msquid:S1659Ü"0Declare "TATTRNAME_XMLNSDEF" on a separate line.(«¯©ÿÿÿÿÿ
-Jsquid:S1659İ"-Declare "TATTRNAME_XMLNS" on a separate line.(ŞéŠ†ıÿÿÿÿ
-Msquid:S1659İ"0Declare "TATTRNAME_XMLSPACE" on a separate line.(ŞéŠ†ıÿÿÿÿ
-Wsquid:S1659Ş"?Declare "TATTRNAME_EXCLUDE_RESULT_PREFIXES" on a separate line.(äÈÅü
-Tsquid:S1659÷"7Declare "ATTRVAL_OUTPUT_METHOD_XML" on a separate line.(µ÷©Ğûÿÿÿÿ
-Usquid:S1659ø"8Declare "ATTRVAL_OUTPUT_METHOD_TEXT" on a separate line.(‘àÛ—ıÿÿÿÿ
-Hsquid:S1659ü"+Declare "ATTRVAL_STRIP" on a separate line.(ü¢›øüÿÿÿÿ
-Esquid:S1659€"(Declare "ATTRVAL_NO" on a separate line.(ë ¢£ùÿÿÿÿ
-Hsquid:S1659…"+Declare "ATTRVAL_OTHER" on a separate line.(¯šÚ•ÿÿÿÿÿ
-Nsquid:S1659†"1Declare "ATTRVAL_TRADITIONAL" on a separate line.(ÁÌÑşÿÿÿÿÿ
-Csquid:S1659‹"+Declare "ATTRVAL_MULTI" on a separate line.(Â«°
-Asquid:S1659‹")Declare "ATTRVAL_ANY" on a separate line.(Â«°
-Nsquid:S1659’"6Declare "NUMBERLETTER_TRADITIONAL" on a separate line.(µñ’©
-Lsquid:S1659•"/Declare "NUMBERLEVEL_MULTI" on a separate line.(ãæãòşÿÿÿÿ
-Dsquid:S1659–"-Declare "NUMBERLEVEL_ANY" on a separate line.(Ê’
-Msquid:S1659–"6Declare "MAX_MULTI_COUNTING_DEPTH" on a separate line.(Ê’
-Isquid:S1659š",Declare "ATTRVAL_PARENT" on a separate line.(¿Õ‰Àûÿÿÿÿ
-Fsquid:S1659›".Declare "ATTRVAL_ANCESTOR" on a separate line.(€”Úß
-@squid:S1659›"(Declare "ATTRVAL_ID" on a separate line.(€”Úß
-Msquid:S1659 "5Declare "ATTRVAL_DATATYPE_NUMBER" on a separate line.(™èÉÜ
-Msquid:S1659¡"5Declare "ATTRVAL_ORDER_ASCENDING" on a separate line.(ÇÇ¨Å
-Msquid:S1659¢"6Declare "ATTRVAL_ORDER_DESCENDING" on a separate line.(Ûæ¢
-Rsquid:S1659£"5Declare "ATTRVAL_CASEORDER_UPPER" on a separate line.(æ¥‰˜øÿÿÿÿ
-Rsquid:S1659¤"5Declare "ATTRVAL_CASEORDER_LOWER" on a separate line.(ª£éßÿÿÿÿÿ
-Isquid:S1659§"1Declare "SORTDATATYPE_NUMBER" on a separate line.(Å¯¾À
-Osquid:S1659ª"2Declare "SORTORDER_DESCENDING" on a separate line.(ïğ—Âüÿÿÿÿ
-Nsquid:S1659­"6Declare "SORTCASEORDER_LOWERFIRST" on a separate line.(¤ÎÅ—
-Fsquid:S1659±")Declare "ATTRVAL_NAN" on a separate line.(«ÒåØúÿÿÿÿ
-Qsquid:S1659²"4Declare "DEFAULT_DECIMAL_FORMAT" on a separate line.(‚µÔõûÿÿÿÿ
-.squid:S2176."Rename this class.(…ø¸ şÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(‰…®­

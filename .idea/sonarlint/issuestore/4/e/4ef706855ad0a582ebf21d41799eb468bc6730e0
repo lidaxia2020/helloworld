@@ -1,48 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ıäÌİûÿÿÿÿ
-?squid:S1604Z"(Make this anonymous inner class a lambda(°ûº
-dsquid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(¬÷ïŒÿÿÿÿÿ
-}squid:UselessImportCheck@"TRemove this unnecessary import: same package classes are always implicitly imported.(Ä£Ò¦ûÿÿÿÿ
-^squid:UselessImportCheck-"5Remove this unused import 'java.io.DataOutputStream'.(¸Îáíıÿÿÿÿ
-msquid:UselessImportCheck<"DRemove this unused import 'javax.rmi.CORBA.ValueHandlerMultiFormat'.(Ãà¦øÿÿÿÿ
-fsquid:UselessImportCheck0"=Remove this unused import 'java.io.StreamCorruptedException'.(’‡µ¿ÿÿÿÿÿ
-Usquid:UselessImportCheck9",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ
-Xsquid:UselessImportCheck7"4Remove this unused import 'java.lang.reflect.Field'.(„‡Áú
-csquid:UselessImportCheck2":Remove this unused import 'java.io.ObjectStreamException'.(ÀÔôæÿÿÿÿÿ
-msquid:S1450U"VRemove the "wrapper" field and declare it as a local variable in the relevant methods.(±½¬†
-lsquid:S1149m"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¹ÚÃ÷úÿÿÿÿ
->squid:S1181›"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181Å"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-Psquid:S1197Ì"8Move the array designator from the variable to the type.(Ÿá¥î
->squid:S1181Ñ"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-Usquid:S1197Ø"8Move the array designator from the variable to the type.(ÄêŸˆúÿÿÿÿ
->squid:S1181İ"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181é"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181õ"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-Psquid:S1197Œ"8Move the array designator from the variable to the type.(ÀÄ½Æ
->squid:S1181š"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181§"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-Usquid:S1197¥"8Move the array designator from the variable to the type.(’¹ÊËşÿÿÿÿ
->squid:S1181³"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181¿"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181Ë"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181×"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181ã"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181‚"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-Rsquid:S1854 "5Remove this useless assignment to local variable "c".(¸ö”Îşÿÿÿÿ
-osquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(»ÓÚéûÿÿÿÿ
-jsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÙÌ”ó
-Usquid:S1854†"=Remove this useless assignment to local variable "className".(ñÍ·‚
-Q"squid:SwitchLastCaseIsDefaultCheckœ""Add a default case to this switch.(ÒÌ
-ª%squid:RedundantThrowsDeclarationCheck¸"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(×ÚÇ¿
-Csquid:S1481 "&Remove this unused "c" local variable.(¸ö”Îşÿÿÿÿ
-Fsquid:S1481†".Remove this unused "className" local variable.(ñÍ·‚
-]squid:UnusedPrivateMethod‘"8Remove this unused private "checkSpecialClasses" method.(´„‹m
-psquid:UnusedPrivateMethod¬"ERemove this unused private "checkSubstitutableSpecialClasses" method.(ƒĞªùÿÿÿÿ
-hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(ÙÔ”²ÿÿÿÿÿ
-hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(ËàÙéúÿÿÿÿ
-hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(Œïşİşÿÿÿÿ
-csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(‡ÏÖÌ
-hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(Ó‡Ãÿÿÿÿÿ

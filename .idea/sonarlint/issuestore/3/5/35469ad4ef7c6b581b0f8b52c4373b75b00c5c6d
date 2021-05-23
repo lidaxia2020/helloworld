@@ -1,78 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
-squid:S1192¨	"bDefine a constant instead of duplicating this literal "wf-invalid-character-in-node-name" 6 times.(ÿâ¹Ïşÿÿÿÿ
-fsquid:S1192‘"NDefine a constant instead of duplicating this literal "getXmlVersion" 3 times.(«Å™à
-osquid:S1192"RDefine a constant instead of duplicating this literal "FEATURE_NOT_FOUND" 3 times.(–ŞŠ™ùÿÿÿÿ
-nsquid:S1192‚"VDefine a constant instead of duplicating this literal "FEATURE_NOT_SUPPORTED" 4 times.(…®®—
-Gsquid:S1066¤	"/Merge this if statement with the enclosing one.(«ñÁª
-Lsquid:S1066¥	"/Merge this if statement with the enclosing one.(ª‡ê¿øÿÿÿÿ
-Jsquid:S1199•	"-Extract this nested code block into a method.(¨§´½ûÿÿÿÿ
-Jsquid:S1199˜	"-Extract this nested code block into a method.(áäìœşÿÿÿÿ
-Esquid:S1199›	"-Extract this nested code block into a method.(—®–Œ
-Esquid:S1199Ì	"-Extract this nested code block into a method.(”ğ¿Å
-Jsquid:S1199Ò	"-Extract this nested code block into a method.(æéÍ®şÿÿÿÿ
-Esquid:S1199Ú	"-Extract this nested code block into a method.(Åô²ô
-Jsquid:S1199à	"-Extract this nested code block into a method.(µ®Ô£üÿÿÿÿ
-Jsquid:S1199ä	"-Extract this nested code block into a method.(«¦ÿäüÿÿÿÿ
-Osquid:S2589¤	"7Remove this expression which always evaluates to "true"(«ñÁª
-Usquid:S2589ì"8Remove this expression which always evaluates to "false"(È¾şâúÿÿÿÿ
-isquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÑÊl
-‚squid:S1149ƒ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÖÁ„Ôıÿÿÿÿ
-|squid:S1149ˆ
-"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÅÂıšşÿÿÿÿ
-Nsquid:S1135d"2Complete the task associated to this TODO comment.(€šÅ±şÿÿÿÿ
-bsquid:CallToDeprecatedMethodj"5Remove this use of "XMLSerializer"; it is deprecated.(éô ¡şÿÿÿÿ
-_squid:CallToDeprecatedMethodm"7Remove this use of "XML11Serializer"; it is deprecated.(õÙìÌ
-osquid:ModifiersOrderCheckz"EReorder the modifiers to comply with the Java Language Specification.(Ö¸ô‘ùÿÿÿÿ
-jsquid:ModifiersOrderCheck{"EReorder the modifiers to comply with the Java Language Specification.(…“¯™
-jsquid:ModifiersOrderCheck|"EReorder the modifiers to comply with the Java Language Specification.(ÊÑ›ç
-osquid:ModifiersOrderCheck}"EReorder the modifiers to comply with the Java Language Specification.(ÇÔğëúÿÿÿÿ
-jsquid:ModifiersOrderCheck~"EReorder the modifiers to comply with the Java Language Specification.(·÷‚Ì
-osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÿÏå²úÿÿÿÿ
-psquid:ModifiersOrderCheck€"EReorder the modifiers to comply with the Java Language Specification.(Ì‡Ì‹ûÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(è³±›üÿÿÿÿ
-ksquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(Îó«ö
-ksquid:ModifiersOrderCheckƒ"EReorder the modifiers to comply with the Java Language Specification.(ãëÃ±
-ksquid:ModifiersOrderCheck„"EReorder the modifiers to comply with the Java Language Specification.(¢øòì
-psquid:ModifiersOrderCheck…"EReorder the modifiers to comply with the Java Language Specification.(ã“¼ôıÿÿÿÿ
-^squid:CallToDeprecatedMethod¦"5Remove this use of "XMLSerializer"; it is deprecated.(ŞµÛŸ
-š%squid:RedundantThrowsDeclarationCheckº"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ääöøÿÿÿÿ
-osquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(ääöøÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck®"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ì®Øúÿÿÿÿ
-osquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ì®Øúÿÿÿÿ
-hsquid:S1764×"KCorrect one of the identical sub-expressions on both sides of operator "||"(ª‘¸Ÿúÿÿÿÿ
-•%squid:RedundantThrowsDeclarationCheck‰"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(†ª½ˆ
-—%squid:RedundantThrowsDeclarationCheck‰"eRemove the declaration of thrown exception 'org.w3c.dom.ls.LSException' which is a runtime exception.(†ª½ˆ
-jsquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(†ª½ˆ
-^squid:CallToDeprecatedMethod"5Remove this use of "XMLSerializer"; it is deprecated.(ûÒø
-Ysquid:S3878‘"ADisambiguate this call by either casting as "Class" or "Class[]".(«Å™à
-`squid:CallToDeprecatedMethod›"7Remove this use of "XML11Serializer"; it is deprecated.(ÆŸİó
-^squid:CallToDeprecatedMethodÆ"5Remove this use of "XMLSerializer"; it is deprecated.(ÒùŞ
-^squid:CallToDeprecatedMethodÑ"5Remove this use of "XMLSerializer"; it is deprecated.(€¾¾
-^squid:CallToDeprecatedMethodÑ"5Remove this use of "XMLSerializer"; it is deprecated.(€¾¾
-—%squid:RedundantThrowsDeclarationCheck†"eRemove the declaration of thrown exception 'org.w3c.dom.ls.LSException' which is a runtime exception.(İº“Á
-jsquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(İº“Á
-^squid:CallToDeprecatedMethodŒ"5Remove this use of "XMLSerializer"; it is deprecated.(ûÒø
-Xsquid:S3878“"ADisambiguate this call by either casting as "Class" or "Class[]".(˜Óµ
-`squid:CallToDeprecatedMethod"7Remove this use of "XML11Serializer"; it is deprecated.(ÆŸİó
-Ysquid:S3878¬"ADisambiguate this call by either casting as "Class" or "Class[]".(Öï³À
-Ysquid:S3878¶"ADisambiguate this call by either casting as "Class" or "Class[]".(…®Ò‹
-–%squid:RedundantThrowsDeclarationCheckĞ"eRemove the declaration of thrown exception 'org.w3c.dom.ls.LSException' which is a runtime exception.(ÏÑÊl
-isquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ÏÑÊl
-^squid:CallToDeprecatedMethodÖ"5Remove this use of "XMLSerializer"; it is deprecated.(ûÒø
-^squid:S3878à"ADisambiguate this call by either casting as "Class" or "Class[]".(ÊÖ·ğùÿÿÿÿ
-`squid:CallToDeprecatedMethodê"7Remove this use of "XML11Serializer"; it is deprecated.(ÆŸİó
-Ysquid:S3878ö"ADisambiguate this call by either casting as "Class" or "Class[]".(Öï³À
-Ysquid:S3878€"ADisambiguate this call by either casting as "Class" or "Class[]".(…®Ò‹
-osquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÃÏ•ûÿÿÿÿ
-csquid:CallToDeprecatedMethodÖ"5Remove this use of "XMLSerializer"; it is deprecated.(ÃÏ•ûÿÿÿÿ
-:squid:S1659ã""Declare "root" on a separate line.(¿‚ Œ
-^squid:S3878ë"ADisambiguate this call by either casting as "Class" or "Class[]".(‹È‘ùÿÿÿÿ
-osquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ã×‘äüÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck”	""Add a default case to this switch.(ÜŸ•
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(äî€´
-csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(äî€´
-hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(âŸÉ„şÿÿÿÿ
-csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(Âºï§
-csquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ŞÎÂÚ

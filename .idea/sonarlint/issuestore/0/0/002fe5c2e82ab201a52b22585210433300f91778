@@ -1,4 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-Vsquid:UselessImportCheck"3Remove this unused import 'javax.swing.JSplitPane'.(•Ã¯P
-Qsquid:S1161I":Add the "@Override" annotation above this method signature(¶øÂÁ

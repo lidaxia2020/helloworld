@@ -1,10 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(úş¢¢
-squid:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆıÒÔüÿÿÿÿ
-ssquid:S1149ä"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¥ÒÅ½øÿÿÿÿ
-nsquid:S1149ó"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÁåÀ
-ssquid:S1149ú"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¦ÃÅ”şÿÿÿÿ
-1squid:S2178³"Correct this "|" to "||".(èèï
-1squid:S2178´"Correct this "|" to "||".(“”œ
-6squid:S2178µ"Correct this "|" to "||".(ÓïÏâúÿÿÿÿ
-Fsquid:S1125™")Remove the literal "false" boolean value.(³¹ßÈüÿÿÿÿ

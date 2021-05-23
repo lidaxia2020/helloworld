@@ -1,112 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckû"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰™ÿ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(üÁÿ«
-nsquid:S1192ó"VDefine a constant instead of duplicating this literal "# Current Symbol is #" 3 times.(â§ô”
-lsquid:S1192´"ODefine a constant instead of duplicating this literal "# Goto state #" 3 times.(ğÂó¢úÿÿÿÿ
-_squid:S3973ø"GUse indentation to denote the code conditionally executed by this "if".(ñİ›ı
-_squid:S3973‘"GUse indentation to denote the code conditionally executed by this "if".(š£û¼
-Ÿsquid:S2681“"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ÊìªŸ
-fsquid:S00101µ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯’È†
-dsquid:S00112›"FDefine and throw a dedicated exception instead of using a generic one.(ûœ®Æüÿÿÿÿ
-dsquid:S00112©"FDefine and throw a dedicated exception instead of using a generic one.(ñ±ÚÈûÿÿÿÿ
-dsquid:S00112´"FDefine and throw a dedicated exception instead of using a generic one.(ş”İùÿÿÿÿ
-dsquid:S00112â"FDefine and throw a dedicated exception instead of using a generic one.(·½¶äÿÿÿÿÿ
-dsquid:S00112Ù"FDefine and throw a dedicated exception instead of using a generic one.(ÔüÇíøÿÿÿÿ
-_squid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(¶¦¬á
-_squid:S00112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(¶¦¬á
-jsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ò¨‹
-jsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı”±º
-osquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡€Íûÿÿÿÿ
-jsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ®Š–
-osquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íİÕüÿÿÿÿ
-osquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íİÕüÿÿÿÿ
-osquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÇŠ÷øÿÿÿÿ
-osquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÇŠ÷øÿÿÿÿ
-osquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÇŠ÷øÿÿÿÿ
-osquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨è…Îøÿÿÿÿ
-jsquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ®Š–
-osquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íİÕüÿÿÿÿ
-osquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íİÕüÿÿÿÿ
-osquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æâ›£ùÿÿÿÿ
-jsquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‡¬Ø
-osquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘·šúÿÿÿÿ
-jsquid:S00117Ê	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùéÕ
-jsquid:S00117˜
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ®Š–
-osquid:S00117›
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íİÕüÿÿÿÿ
-osquid:S00117›
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íİÕüÿÿÿÿ
-qsquid:S00116·"XRename this field "_done_parsing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚óÄÃ
-msquid:S00116Ô"TRename this field "cur_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜÷œÉ
-rsquid:S00116Ş"YRename this field "production_tab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜µÖ
-nsquid:S00116ã"URename this field "action_tab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©
-ssquid:S00116è"URename this field "reduce_tab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ïÿ¢ÿÿÿÿÿ
-lsquid:S00116ó"SRename this field "_scanner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë”¾Ø
-vsquid:S00116ñ"XRename this field "lookahead_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯•ÇÄüÿÿÿÿ
-xsquid:S00115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´–¯èÿÿÿÿÿ
-msquid:S1149Ù"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ä¿Æ¦ûÿÿÿÿ
-hsquid:S1149™"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾×ŸÑ
-|squid:S1149Â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Áøœšÿÿÿÿÿ
-|squid:S1149€"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—ÍÎ¬ıÿÿÿÿ
-psquid:ModifiersOrderCheckÑ"EReorder the modifiers to comply with the Java Language Specification.(´–¯èÿÿÿÿÿ
-lsquid:S00100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª²šˆşÿÿÿÿ
-gsquid:S00100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£èâÿ
-gsquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÆ£Ü
-lsquid:S00100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×µ³Âûÿÿÿÿ
-lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤²©áúÿÿÿÿ
-lsquid:S00100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ƒÁµıÿÿÿÿ
-lsquid:S00100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ğ¨Úşÿÿÿÿ
-lsquid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ß‰úÿÿÿÿ
-gsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ëó
-gsquid:S00100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡³¸ê
-lsquid:S00100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ±ÚÈûÿÿÿÿ
-lsquid:S00100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş”İùÿÿÿÿ
-gsquid:S00100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ó·¿
-lsquid:S00100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¤·“ùÿÿÿÿ
-P
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(çÌ«ö
-Hsquid:S5261û"1Add explicit curly braces to avoid dangling else.(À²÷P
-U
-squid:S106ù"9Replace this use of System.out or System.err by a logger.(¿Êúÿÿÿÿ
-O
-squid:S106û"9Replace this use of System.out or System.err by a logger.(À²÷P
-O
-squid:S106ü"9Replace this use of System.out or System.err by a logger.(À²÷P
-gsquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı”±º
-lsquid:S00100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡€Íûÿÿÿÿ
-gsquid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÍÑÁ
-:squid:S1659µ""Declare "last" on a separate line.(²÷Šı
-;squid:S1659µ"#Declare "probe" on a separate line.(²÷Šı
-gsquid:S00100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÙ¼Ë
-Fsquid:S1659š")Declare "lhs_sym_num" on a separate line.(‚íİÕüÿÿÿÿ
-lsquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÌÌÀúÿÿÿÿ
-U
-squid:S106…"9Replace this use of System.out or System.err by a logger.(î¦èŸşÿÿÿÿ
-gsquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‹
-lsquid:S00100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÇŠ÷øÿÿÿÿ
-lsquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨è…Îøÿÿÿÿ
-lsquid:S00100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸æçıÿÿÿÿ
-lsquid:S00100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ëù«ùÿÿÿÿ
-Fsquid:S1659á")Declare "lhs_sym_num" on a separate line.(‚íİÕüÿÿÿÿ
-osquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŒğÉÿÿÿÿÿ
-lsquid:S00100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒğÉÿÿÿÿÿ
-gsquid:S00100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×É¤®
-fsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÈÏT
-Usquid:S1197î"8Move the array designator from the variable to the type.(ä³¿Ñøÿÿÿÿ
-lsquid:S00100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±£ğæıÿÿÿÿ
-lsquid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ñ¢Ëıÿÿÿÿ
-gsquid:S00100˜	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ßñÚ
-lsquid:S00100©	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÓ‚ûÿÿÿÿ
-osquid:S3776Æ	"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(°Ãßÿûÿÿÿÿ
-lsquid:S00100Æ	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ãßÿûÿÿÿÿ
->squid:S1659Ê	"&Declare "rhs_size" on a separate line.(ùéÕ
-jsquid:S3776‘
-"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(’ØÕ¸
-gsquid:S00100‘
-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ØÕ¸
-Fsquid:S1659›
-")Declare "lhs_sym_num" on a separate line.(‚íİÕüÿÿÿÿ
-csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ú¿ïÄ
-hsquid:CommentedOutCodeLineÄ
-"<This block of commented-out lines of code should be removed.(€”“œÿÿÿÿÿ

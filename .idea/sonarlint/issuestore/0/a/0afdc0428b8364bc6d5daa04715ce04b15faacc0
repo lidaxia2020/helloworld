@@ -1,12 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çþÿÿÿÿ
-Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
-Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
-Xsquid:S1610Z"<Convert the abstract class "CTBConverter" into an interface.(›ú Ëøÿÿÿÿ
-Ysquid:S1610"<Convert the abstract class "BTCConverter" into an interface.(Œ³– ýÿÿÿÿ
-rsquid:S1450Ý"URemove the "buffer" field and declare it as a local variable in the relevant methods.(ûŒêµúÿÿÿÿ
-Rsquid:S1161ç":Add the "@Override" annotation above this method signature(ÑàÕŽ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(´©ŸŽùÿÿÿÿ
-ksquid:ModifiersOrderCheckú"EReorder the modifiers to comply with the Java Language Specification.(ÂšÔÙ
-1squid:S2183Œ"Remove this useless shift(•ößü
-Osquid:S1068ÿ"2Remove this unused "implementation" private field.(ø·•þÿÿÿÿ

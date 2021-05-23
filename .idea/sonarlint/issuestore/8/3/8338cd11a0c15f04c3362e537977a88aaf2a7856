@@ -1,17 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-Vsquid:S4973ş"9Use the "equals" method if value comparison was intended.(±ß¬Èÿÿÿÿÿ
-Vsquid:S4973£"9Use the "equals" method if value comparison was intended.(±ß¬Èÿÿÿÿÿ
-€squid:S00116M"cRename this field "_isInSimpleNamedTemplate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şá›¸ÿÿÿÿÿ
-Qsquid:S1161U":Add the "@Override" annotation above this method signature(Á»›ê
-Vsquid:S1161y":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-T
-squid:S106{"9Replace this use of System.out or System.err by a logger.(Êåôçøÿÿÿÿ
-T
-squid:S106~"9Replace this use of System.out or System.err by a logger.(ûšû×ùÿÿÿÿ
-Rsquid:S1161Š":Add the "@Override" annotation above this method signature(ÁØ’›
-Wsquid:S1161À":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Fsquid:S1125Ã")Remove the literal "false" boolean value.(¯Æøÿÿÿÿ
-Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(†“‹Ø
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(áöÆ³

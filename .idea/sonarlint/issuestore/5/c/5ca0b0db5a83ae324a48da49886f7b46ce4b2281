@@ -1,119 +1,0 @@
-
-Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-jsquid:S1192ƒ"MUse already-defined constant 'XML_URI' instead of duplicating its value here.(¦ãøıÿÿÿÿÿ
-Jsquid:S1199à"-Extract this nested code block into a method.(ä–Ó–ûÿÿÿÿ
-Jsquid:S1199å"-Extract this nested code block into a method.(À©úŒûÿÿÿÿ
-Jsquid:S1199ê"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck½".Extract the assignment out of this expression.(Î¾Æãûÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckà".Extract the assignment out of this expression.(šƒÍ 
-_$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(¬½æİ
-Zsquid:S00107Æ"AConstructor has 9 parameters, which is greater than 7 authorized.(³’æ¦
-Rsquid:UselessImportCheck'")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
-_squid:UselessImportCheck(";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ
-jsquid:MaximumInheritanceDepthf"<This class has 6 parents which is greater than 5 authorized.(ÄÌí£úÿÿÿÿ
-ysquid:S3008š"\Rename this field "_documentURIIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ±ãêÿÿÿÿÿ
-squid:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æ•Õ¡øÿÿÿÿ
-lsquid:S00116o"TRename this field "_uriCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş½ÒÜ
-nsquid:S00116p"WRename this field "_prefixCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ıÄ~
-qsquid:S00116t"YRename this field "_xmlSpaceStack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô³®¦
-gsquid:S00116u"ORename this field "_idx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô›±
-qsquid:S00116v"TRename this field "_preserve" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‰İØûÿÿÿÿ
-lsquid:S00116"TRename this field "_escaping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯ÊŒ
-ysquid:S00116€"[Rename this field "_disableEscaping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ•½‰úÿÿÿÿ
-vsquid:S00116"]Rename this field "_textNodeToProcess" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷„„ø
-nsquid:S00116"URename this field "_namesSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÛµ°
-lsquid:S00116"SRename this field "_nsIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ„´Û
-nsquid:S00116“"PRename this field "_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡èëïúÿÿÿÿ
-tsquid:S00116–"VRename this field "_dontEscape" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İˆ–œıÿÿÿÿ
-psquid:S00116™"WRename this field "_documentURI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ê»ç
-msquid:S00116"TRename this field "_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êëš
-rsquid:S00116¢"TRename this field "_node2Ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ô¼†øÿÿÿÿ
-psquid:S00116¥"XRename this field "_hasDOMSource" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìˆ¯V
-osquid:S00116¨"VRename this field "_dtmManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¶Ùş
-osquid:S00116«"QRename this field "_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ú÷ ıÿÿÿÿ
-nsquid:S00116¬"URename this field "_nodeLists" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¾Ò
-ksquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(©Ü’»
-jsquid:ModifiersOrderCheck‹"EReorder the modifiers to comply with the Java Language Specification.(­á¢
-psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(ƒ±ãêÿÿÿÿÿ
-psquid:ModifiersOrderCheck­"EReorder the modifiers to comply with the Java Language Specification.(—çä„øÿÿÿÿ
-Ssquid:S2696Ä"6Make the enclosing method "static" or remove this set.(İñùüÿÿÿÿ
-Asquid:S1659Û"$Declare "nsnode" on a separate line.(ÖÑ±ãşÿÿÿÿ
-rsquid:S00116ü"TRename this field "_nsPrefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µá¸ÿøÿÿÿÿ
-Psquid:S1854œ"8Remove this useless assignment to local variable "node".(¬ëª
-Rsquid:S1161˜":Add the "@Override" annotation above this method signature(¯¨°°
-ksquid:S00116²"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
-osquid:S00116³"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ƒšÿÿÿÿÿ
-gsquid:S00116´"NRename this field "_op" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‘ƒ±
-ssquid:S00116µ"URename this field "_isReverse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—°Ù›øÿÿÿÿ
-osquid:S00116¶"VRename this field "_returnType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠãÉ©
-Qsquid:S1161Â":Add the "@Override" annotation above this method signature(Ğœü)
-Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(ßôà’ûÿÿÿÿ
-Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(ËÉÀúÿÿÿÿ
-Rsquid:S1161Ş":Add the "@Override" annotation above this method signature(…½…Å
-Wsquid:S1161ş":Add the "@Override" annotation above this method signature(ûÓøıÿÿÿÿ
-Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(ÇêĞüÿÿÿÿ
-Jsquid:S1905Œ"2Remove this unnecessary cast to "DTMAxisIterator".(Û™ä»
->squid:S2129´"!Remove this "Integer" constructor(òÁ¤êùÿÿÿÿ
-]squid:CallToDeprecatedMethod´"/Remove this use of "Integer"; it is deprecated.(òÁ¤êùÿÿÿÿ
-Esquid:S1185¿"(Remove this method to simply inherit it.(ÖÓ®âşÿÿÿÿ
-=squid:S1659ç" Declare "ns" on a separate line.(ˆıŠöøÿÿÿÿ
-asquid:S3027ì"JPut single-quotes around ':' to use the faster "lastIndexOf(char)" method.(˜ğñH
-9squid:S2129“"!Remove this "Integer" constructor(¹Ú•™
-Xsquid:CallToDeprecatedMethod“"/Remove this use of "Integer"; it is deprecated.(¹Ú•™
-9squid:S2129ª"!Remove this "Integer" constructor(¹Ú•™
-Xsquid:CallToDeprecatedMethodª"/Remove this use of "Integer"; it is deprecated.(¹Ú•™
-Wsquid:S1161ô":Add the "@Override" annotation above this method signature(êÕØØıÿÿÿÿ
-Rsquid:S1161É":Add the "@Override" annotation above this method signature(úÒ¨
-Fsquid:S1125Ë")Remove the literal "false" boolean value.(Üæ±úÿÿÿÿ
-9squid:S2129ƒ"!Remove this "Integer" constructor(×¹Šô
-Xsquid:CallToDeprecatedMethodƒ"/Remove this use of "Integer"; it is deprecated.(×¹Šô
-9squid:S2129ƒ"!Remove this "Integer" constructor(×¹Šô
-Xsquid:CallToDeprecatedMethodƒ"/Remove this use of "Integer"; it is deprecated.(×¹Šô
-9squid:S2129¤"!Remove this "Integer" constructor(¶¦Ö
-Xsquid:CallToDeprecatedMethod¤"/Remove this use of "Integer"; it is deprecated.(¶¦Ö
-Jsquid:S1172ş"-Remove this unused method parameter "prefix".(”Ô¾©úÿÿÿÿ
-8squid:S2129‚	"!Remove this "Integer" constructor(¬ú
-Wsquid:CallToDeprecatedMethod‚	"/Remove this use of "Integer"; it is deprecated.(¬ú
-9squid:S2129„	"!Remove this "Integer" constructor(Æ¹ÒŞ
-Xsquid:CallToDeprecatedMethod„	"/Remove this use of "Integer"; it is deprecated.(Æ¹ÒŞ
-P
-squid:S106°	"9Replace this use of System.out or System.err by a logger.(ñ„®
-U
-squid:S106´	"9Replace this use of System.out or System.err by a logger.(›êúõùÿÿÿÿ
-U
-squid:S106·	"9Replace this use of System.out or System.err by a logger.(ÈıÜùÿÿÿÿ
-P
-squid:S106¹	"9Replace this use of System.out or System.err by a logger.(ö•¤
-U
-squid:S106¾	"9Replace this use of System.out or System.err by a logger.(¬Õ©ºıÿÿÿÿ
-lsquid:S00116Å"SRename this field "m_nsType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÆÈ—
-wsquid:S00116Î"YRename this field "m_baseIterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×œğãşÿÿÿÿ
-h
-squid:S128å"LEnd this switch case with an unconditional break, return or throw statement.(À©úŒûÿÿÿÿ
-h
-squid:S128à"LEnd this switch case with an unconditional break, return or throw statement.(ä–Ó–ûÿÿÿÿ
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(À÷ÖÚ
-Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(ÍïŸúúÿÿÿÿ
-Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(ª³í
-Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(‡ÀÃœ
-ksquid:S00116Ş"RRename this field "_nsType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛĞçæ
-ksquid:S00116³"RRename this field "_nsType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛĞçæ
-Rsquid:S1854Ÿ":Remove this useless assignment to local variable "source".(†äî—
-Jsquid:S1905Ÿ"2Remove this unnecessary cast to "DTMAxisIterator".(†äî—
-Osquid:S1135Ò"2Complete the task associated to this TODO comment.(´õİşÿÿÿÿ
-Jsquid:S1135Ô"2Complete the task associated to this TODO comment.(ûÏîÎ
-Jsquid:S1135Ø"2Complete the task associated to this TODO comment.(÷ÊÏÅ
-jsquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(­¾¡
-jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(õ†íš
-Jsquid:S1481£"-Remove this unused "iterator" local variable.(ÑÓ™üıÿÿÿÿ
-Csquid:S1481Ÿ"+Remove this unused "source" local variable.(†äî—
-\squid:UnusedPrivateMethodÊ"1Remove this unused private "setupMapping" method.(Êú¡¸øÿÿÿÿ
-Fsquid:S1068p"0Remove this unused "_prefixCount" private field.(²ıÄ~
-Jsquid:S1068x".Remove this unused "XML_STRING" private field.(É÷Ãæıÿÿÿÿ
-Gsquid:S1068|"0Remove this unused "XMLNS_PREFIX" private field.(Š¶ÑŸ
-Hsquid:S1068™"0Remove this unused "_documentURI" private field.(’Ê»ç
-Ssquid:S1068­"6Remove this unused "XML_LANG_ATTRIBUTE" private field.(—çä„øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(°ñ‡«ÿÿÿÿÿ
-hsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(ë³ÙÑüÿÿÿÿ
-csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Ìòçç

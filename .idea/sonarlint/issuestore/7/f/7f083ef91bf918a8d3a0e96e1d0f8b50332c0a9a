@@ -1,21 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
-^$squid:AssignmentInSubExpressionCheckc".Extract the assignment out of this expression.(ÈäÉœ
-Xsquid:UselessImportCheck""4Remove this unused import 'java.util.EventListener'.(óü¬É
-Tsquid:S2387A"="titlePane" is the name of a field in "BasicInternalFrameUI".(Ò‹ÉÉ
-Ksquid:S1133N"5Do not forget to remove this deprecated code someday.(±Ëå9
-Vsquid:S1161\":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
-Qsquid:S1161a":Add the "@Override" annotation above this method signature(ïÆ•ø
-Qsquid:S1161j":Add the "@Override" annotation above this method signature(˜ˆßË
-\squid:CallToDeprecatedMethodn"4Remove this use of "closeMenuKey"; it is deprecated.(ÊŸÑ‹
-Qsquid:S1161r":Add the "@Override" annotation above this method signature(¦¬ûú
-Psquid:S1161|":Add the "@Override" annotation above this method signature(ŸöÕ+
-Rsquid:S1161":Add the "@Override" annotation above this method signature(ñÈ˜š
-Wsquid:S1161…":Add the "@Override" annotation above this method signature(¿°„£øÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(Ó²¬­ÿÿÿÿÿ
-Wsquid:S1161›":Add the "@Override" annotation above this method signature(ï¬Çõùÿÿÿÿ
-Rsquid:S1161¢":Add the "@Override" annotation above this method signature(Åæ´«
-Wsquid:S1161©":Add the "@Override" annotation above this method signature(ï¬Çõùÿÿÿÿ
-Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(ï¬Çõùÿÿÿÿ
-Rsquid:S1161×":Add the "@Override" annotation above this method signature(«Şâè
-Wsquid:S1161Ş":Add the "@Override" annotation above this method signature(¥©¤—ıÿÿÿÿ

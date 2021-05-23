@@ -1,6 +1,0 @@
-
-€"squid:ClassVariableVisibilityCheckM"RMake detail a static final constant or non-public and provide accessors if needed.(³ï²»
-6squid:S1165M"Make this "detail" field final.(³ï²»
-Nsquid:S1161|":Add the "@Override" annotation above this method signature(‡+
-fsquid:S3551"IMake this method "synchronized" to match the parent class implementation.(á»±àÿÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(á»±àÿÿÿÿÿ

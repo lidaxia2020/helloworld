@@ -1,19 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
-wsquid:UselessImportCheck1"TRemove this unnecessary import: same package classes are always implicitly imported.(üÜ¶
-xsquid:UselessImportCheck2"TRemove this unnecessary import: same package classes are always implicitly imported.(óë³“
-}squid:UselessImportCheck3"TRemove this unnecessary import: same package classes are always implicitly imported.(ÁĞ˜Úÿÿÿÿÿ
-}squid:UselessImportCheck4"TRemove this unnecessary import: same package classes are always implicitly imported.(·£­úùÿÿÿÿ
-}squid:UselessImportCheck5"TRemove this unnecessary import: same package classes are always implicitly imported.(å éşÿÿÿÿ
-wsquid:UselessImportCheck6"TRemove this unnecessary import: same package classes are always implicitly imported.(ŠşÈj
-}squid:UselessImportCheck7"TRemove this unnecessary import: same package classes are always implicitly imported.(°Š ÿÿÿÿÿ
-Wsquid:UselessImportCheck ".Remove this unused import 'org.omg.CORBA.Any'.(ÑÔĞåşÿÿÿÿ
-Xsquid:UselessImportCheck!"4Remove this unused import 'org.omg.CORBA.Principal'.(Ğ¢Áš
-Wsquid:UselessImportCheck""3Remove this unused import 'org.omg.CORBA.TypeCode'.(æŠŠÕ
-squid:UselessImportCheck:"VRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.MessageBase'.(Â ôşÿÿÿÿ
-tsquid:UselessImportCheck0"PRemove this unused import 'com.sun.corba.se.spi.servicecontext.ServiceContexts'.(Ï¼àó
-Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
-tsquid:UselessImportCheck,"KRemove this unused import 'com.sun.corba.se.pept.transport.ByteBufferPool'.(Å¡«÷üÿÿÿÿ
-Esquid:S1125V")Remove the literal "false" boolean value.(“ªêØøÿÿÿÿ
-^squid:UnusedPrivateMethodM"9Remove this unused private "CDROutputObject" constructor.(Š©ƒ
-csquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(íëÜ¿

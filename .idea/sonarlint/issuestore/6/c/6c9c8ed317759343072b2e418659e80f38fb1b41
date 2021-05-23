@@ -1,15 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
-squid:S32527"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_LENGTH".(¦‹‡@
-‚squid:S32527"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINLENGTH".(¦‹‡@
-‚squid:S32527"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXLENGTH".(¦‹‡@
-€squid:S32527"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(¦‹‡@
-„squid:S32527"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(¦‹‡@
-ƒsquid:S32527"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(¦‹‡@
-Csquid:S1659?"'Declare "localpart" on a separate line.(ÐÝíûûÿÿÿÿ
-]squid:S3027@"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(ùÆÀÒ
-Qsquid:S1161[":Add the "@Override" annotation above this method signature(ÝÞÿÀ
-gsquid:S1206n"PThis class overrides "equals()" and should therefore also override "hashCode()".(’ÜÇÞ
-Qsquid:S1161n":Add the "@Override" annotation above this method signature(’ÜÇÞ
-Qsquid:S1161v":Add the "@Override" annotation above this method signature(µ™¬ù
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

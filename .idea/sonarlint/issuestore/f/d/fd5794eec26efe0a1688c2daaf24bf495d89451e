@@ -1,27 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
-Vsquid:S1161T":Add the "@Override" annotation above this method signature(Åë¸âùÿÿÿÿ
-Vsquid:S1161g":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
-Csquid:S1172…"+Remove this unused method parameter "type".(á¿ï
-Csquid:S1172™"&Remove these unused method parameters.(˜©Ì¡üÿÿÿÿ
-Csquid:S1172ª"+Remove this unused method parameter "type".(ç¾÷˜
-Wsquid:S1161»":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
-Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(Éä®†
-Wsquid:S1161Ü":Add the "@Override" annotation above this method signature(÷İšÂûÿÿÿÿ
-Wsquid:S1161æ":Add the "@Override" annotation above this method signature(˜ßÑÇúÿÿÿÿ
-Rsquid:S1161ğ":Add the "@Override" annotation above this method signature(Ó¤ÍŞ
-Wsquid:S1161ô":Add the "@Override" annotation above this method signature(‚İ±¹ÿÿÿÿÿ
-Rsquid:S1161ø":Add the "@Override" annotation above this method signature(ê×øÄ
-Qsquid:S1905ù"4Remove this unnecessary cast to "BranchInstruction".(Æì¹ÿÿÿÿÿ
-Qsquid:S1905ú"4Remove this unnecessary cast to "BranchInstruction".(¦”ê­üÿÿÿÿ
-Rsquid:S1161ı":Add the "@Override" annotation above this method signature(âàºÎ
-Qsquid:S1905ş"4Remove this unnecessary cast to "BranchInstruction".(şÇûÿÿÿÿ
-Lsquid:S1905ÿ"4Remove this unnecessary cast to "BranchInstruction".(ûƒÃÄ
-Qsquid:S1161‚":Add the "@Override" annotation above this method signature(ÑÍö
-Lsquid:S1905ƒ"4Remove this unnecessary cast to "BranchInstruction".(ğËˆ
-Lsquid:S1905„"4Remove this unnecessary cast to "BranchInstruction".(ÙÅá­
-Rsquid:S1161‡":Add the "@Override" annotation above this method signature(¿êÊ„
-Lsquid:S1905ˆ"4Remove this unnecessary cast to "BranchInstruction".(©Öª
-Qsquid:S1905‰"4Remove this unnecessary cast to "BranchInstruction".(°¥Ã¿úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(Ôúİ

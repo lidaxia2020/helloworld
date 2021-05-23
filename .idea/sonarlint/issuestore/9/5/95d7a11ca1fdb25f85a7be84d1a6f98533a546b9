@@ -1,13 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-`squid:S2583w"DChange this condition so that it does not always evaluate to "false"(ÿóé¥úÿÿÿÿ
-_squid:UselessImportCheck/";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ
-Msquid:UselessImportCheck-")Remove this unused import 'java.io.File'.(†Ğ¥Å
-csquid:UselessImportCheck.":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
-@squid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-qsquid:S00116B"TRename this field "_included" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡·‚†ùÿÿÿÿ
-isquid:S3776H"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ï‰Ñ§
-Qsquid:S1161H":Add the "@Override" annotation above this method signature(ï‰Ñ§
-Wsquid:S1161°":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Rsquid:S1161´":Add the "@Override" annotation above this method signature(†“‹Ø
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

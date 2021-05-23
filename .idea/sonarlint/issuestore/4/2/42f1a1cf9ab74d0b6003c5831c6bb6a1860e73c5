@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
-Dsquid:S1604O"(Make this anonymous inner class a lambda(Ø¸°çøÿÿÿÿ
-jsquid:ModifiersOrderCheck8"EReorder the modifiers to comply with the Java Language Specification.(Š¯Ââ
-osquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(Š“šîüÿÿÿÿ
-osquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(õŠ¸‡üÿÿÿÿ
-Esquid:S1172–"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ

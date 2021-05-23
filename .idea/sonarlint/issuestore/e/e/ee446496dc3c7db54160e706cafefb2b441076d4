@@ -1,19 +1,0 @@
-
-`squid:S2184í"CCast one of the operands of this subtraction operation to a "long".(ø‰¯ãùÿÿÿÿ
-p
-squid:S135â"YReduce the total number of break and continue statements in this loop to use at most one.(ë¶ã«
-Bsquid:S1659]"&Declare "nextChar" on a separate line.(ì Òÿıÿÿÿÿ
-wsquid:S1149ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Š§îå
-Tsquid:S1197\"8Move the array designator from the variable to the type.(ÂÚ´ùÿÿÿÿ
-Usquid:S1197²"8Move the array designator from the variable to the type.(Òù³üÿÿÿÿ
-Rsquid:S1161Ò":Add the "@Override" annotation above this method signature(Ä…©
-Psquid:S1197Ñ"8Move the array designator from the variable to the type.(“Ş»ß
-osquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ˆ…Ü¿ÿÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(¥×í¼
-1squid:S1065"Remove this unused label.(¥×í¼
-m squid:LabelsShouldNotBeUsedCheck–";Refactor the code to remove this label and the need for it.(æ°©şÿÿÿÿ
-Wsquid:S1161Û":Add the "@Override" annotation above this method signature(ÀÅ¿İùÿÿÿÿ
-Rsquid:S1161‡":Add the "@Override" annotation above this method signature(±ä§í
-Rsquid:S1161¬":Add the "@Override" annotation above this method signature(ª©ˆ›
-Rsquid:S1161Ä":Add the "@Override" annotation above this method signature(•Ñ…Ş
-Qsquid:S1161Ú":Add the "@Override" annotation above this method signature(”ŸÀ8

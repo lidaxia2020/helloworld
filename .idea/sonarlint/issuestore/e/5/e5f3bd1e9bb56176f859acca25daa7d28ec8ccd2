@@ -1,17 +1,0 @@
-
-[
-squid:S106:"9Replace this use of System.out or System.err by a logger.(Õ”¾õøÿÿÿÿ8 Ç¶æ—.
-V
-squid:S106C"9Replace this use of System.out or System.err by a logger.(¥ŽÆÇ8 Ç¶æ—.
-[
-squid:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8 Ç¶æ—.
-[
-squid:S106M"9Replace this use of System.out or System.err by a logger.(í´øúûÿÿÿÿ8 Ç¶æ—.
-]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8 Ç¶æ—.
-[
-squid:S106'"9Replace this use of System.out or System.err by a logger.(Ê„¢Ôøÿÿÿÿ8 Ç¶æ—.
-V
-squid:S106-"9Replace this use of System.out or System.err by a logger.(šÏßŒ8 Ç¶æ—.
-|squid:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ8 Ç¶æ—.
-V
-squid:S1060"9Replace this use of System.out or System.err by a logger.(È¼„¼8 Ç¶æ—.

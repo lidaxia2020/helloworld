@@ -1,43 +1,0 @@
-
-^squid:S2184ÿ"ACast one of the operands of this addition operation to a "float".(›§Œ…üÿÿÿÿ
-Ysquid:S2184Œ"ACast one of the operands of this addition operation to a "float".(³Ø¨Ã
-Xsquid:S2184â
-"ACast one of the operands of this addition operation to a "float".(ı×3
-Š squid:ForLoopCounterChangedCheck’"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯…ƒŒıÿÿÿÿ
-asquid:S2583À"DChange this condition so that it does not always evaluate to "false"(Ñë™ûÿÿÿÿ
-asquid:S2583«"DChange this condition so that it does not always evaluate to "false"(Ñë™ûÿÿÿÿ
-gsquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ThreadLocalRandom'.(¨ÏÙî
-Fsquid:S3077".Remove the "volatile" keyword from this field.(†ßéÒ
-Ksquid:S3077‚".Remove the "volatile" keyword from this field.(şÜÉªÿÿÿÿÿ
-Fsquid:S3077ƒ".Remove the "volatile" keyword from this field.(˜ñÏ
-|squid:S1845Ö"dRename field "VALUES" to prevent any misunderstanding/clash with field "values" defined on line 771.(Õ½¯•
-ssquid:S1149¯"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(üÒ§Áùÿÿÿÿ
-Psquid:S1197‰"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197¹"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197Ü"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197Í"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197ì"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197›"8Move the array designator from the variable to the type.(À»Èº
-ksquid:S2975­"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(˜øãô
-Esquid:S1185Ø"(Remove this method to simply inherit it.(†š°‚ùÿÿÿÿ
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
-jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ï˜”–
-bsquid:S2147å"ECombine this catch with the one at line 995, which has the same body.(Ü–›×øÿÿÿÿ
-Psquid:S1197Ì"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197ã"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197ü"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197‘	"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197¤	"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197¼	"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197Ù	"8Move the array designator from the variable to the type.(À»Èº
-Psquid:S1197ü	"8Move the array designator from the variable to the type.(À»Èº
-*squid:S2176œ"Rename this class.(â›èø
-jsquid:S2975ª"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
-_squid:S1182ª"HUse super.clone() to create and seed the cloned instance to be returned.(­æğ
-Csquid:S1150ã"+Implement Iterator rather than Enumeration.(¯‹Ä©
-asquid:S3358œ"DExtract this nested ternary operation into an independent statement.(Ë‚”Ùøÿÿÿÿ
-fsquid:S2272¦"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÓÔç
-Wsquid:S1161¬":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-csquid:HiddenFieldCheck¶";Rename "index" which hides the field declared at line 1509.(·Ö¶¤üÿÿÿÿ

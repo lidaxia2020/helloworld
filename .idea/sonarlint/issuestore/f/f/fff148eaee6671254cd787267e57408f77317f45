@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
-_squid:S11925"HDefine a constant instead of duplicating this literal "dqtable" 4 times.(á·éä
-dsquid:S1192M"HDefine a constant instead of duplicating this literal "dhtable" 4 times.(øÚ¢àùÿÿÿÿ
-_squid:S1192t"HDefine a constant instead of duplicating this literal "unknown" 3 times.(‹ƒËÖ
-nsquid:UselessImportCheck"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
-Ysquid:S1126‚"AReplace this if-then-else statement by a single return statement.(³ÖÖ˜

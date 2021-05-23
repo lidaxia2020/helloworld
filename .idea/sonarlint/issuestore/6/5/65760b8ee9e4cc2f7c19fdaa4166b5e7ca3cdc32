@@ -1,30 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-Gsquid:S1066Ì"/Merge this if statement with the enclosing one.(€ÆÄ 
-Osquid:S2589´"7Remove this expression which always evaluates to "true"(Ö°âÞ
-jsquid:S00117ž"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ˆ÷”
-osquid:S3008U"XRename this field "m_xmlcharInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÐ·¢
-Ssquid:S2387K"<"m_cdataTagOpen" is the name of a field in "SerializerBase".(–º‘
-qsquid:S00116K"YRename this field "m_cdataTagOpen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–º‘
-esquid:S00100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡œã)
-jsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ò¥û¡
-Rsquid:S1161œ":Add the "@Override" annotation above this method signature(ò¥û¡
-Asquid:S1125°")Remove the literal "false" boolean value.(û²ØÅ
-Fsquid:S1125²")Remove the literal "false" boolean value.(îç”øúÿÿÿÿ
-jsquid:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ï±´
-Wsquid:S1161µ":Add the "@Override" annotation above this method signature(³¯€Ûÿÿÿÿÿ
-Rsquid:S1161“":Add the "@Override" annotation above this method signature(„ô¡´
-O
-squid:S106ã"9Replace this use of System.out or System.err by a logger.(‚š‰1
-Bsquid:S00108å")Either remove or fill this block of code.(‚Üò
-Rsquid:S1161î":Add the "@Override" annotation above this method signature(°è½ø
-3squid:S3626’"Remove this redundant jump.(ûÁÝ…
-Wsquid:S1161þ":Add the "@Override" annotation above this method signature(ý¢Õ»þÿÿÿÿ
-Wsquid:S1161º":Add the "@Override" annotation above this method signature(–Ó¨Úüÿÿÿÿ
-O
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(‚š‰1
-Bsquid:S00108ù")Either remove or fill this block of code.(‚Üò
-Wsquid:UnusedPrivateMethodß"2Remove this unused private "getXMLVersion" method.(—™÷g
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-bsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(Ÿ˜“µ
-gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(Â´×åùÿÿÿÿ

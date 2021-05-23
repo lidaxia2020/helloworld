@@ -1,54 +1,0 @@
-
-Qsquid:S1191X"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
-Gsquid:S1066¹"/Merge this if statement with the enclosing one.(Ú¼Ş”
-Vsquid:S4973Ï"9Use the "equals" method if value comparison was intended.(‹ŸÄûşÿÿÿÿ
-Vsquid:S4973×"9Use the "equals" method if value comparison was intended.(­Á“›ÿÿÿÿÿ
-Qsquid:S4973ß"9Use the "equals" method if value comparison was intended.(È‡¢
-Vsquid:S4973ç"9Use the "equals" method if value comparison was intended.(µÍ´ºşÿÿÿÿ
-Vsquid:S4973ï"9Use the "equals" method if value comparison was intended.(¿Üªşÿÿÿÿ
-hsquid:S2387•"K"fStringBuffer" is the name of a field in "XMLDocumentFragmentScannerImpl".(¬•ôÆûÿÿÿÿ
-dsquid:S2387–"L"fStringBuffer2" is the name of a field in "XMLDocumentFragmentScannerImpl".(ŒÃæì
-°%squid:RedundantThrowsDeclarationCheck¯"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¡”Ÿ
-Rsquid:S1161¯":Add the "@Override" annotation above this method signature(¡”Ÿ
-°%squid:RedundantThrowsDeclarationCheckƒ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(àü²‘
-psquid:S3776ÿ"SRefactor this method to reduce its Cognitive Complexity from 176 to the 15 allowed.(ûæ°Ÿÿÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(î¦Êïşÿÿÿÿ
-U
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(¬§îšøÿÿÿÿ
-U
-squid:S106«"9Replace this use of System.out or System.err by a logger.(Â¹¦æùÿÿÿÿ
-U
-squid:S106º"9Replace this use of System.out or System.err by a logger.(ßÈÑÄùÿÿÿÿ
-P
-squid:S106Ò"9Replace this use of System.out or System.err by a logger.(ûáşÉ
-P
-squid:S106Ú"9Replace this use of System.out or System.err by a logger.(ï‡…
-P
-squid:S106â"9Replace this use of System.out or System.err by a logger.(ùì—ÿ
-U
-squid:S106ê"9Replace this use of System.out or System.err by a logger.(µ¿Ìşûÿÿÿÿ
-U
-squid:S106ò"9Replace this use of System.out or System.err by a logger.(ÛĞ³ıÿÿÿÿ
-U
-squid:S106 "9Replace this use of System.out or System.err by a logger.(Ù¿‹úıÿÿÿÿ
-U
-squid:S106¶"9Replace this use of System.out or System.err by a logger.(ìÑ¶­şÿÿÿÿ
-P
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ş®–´
-°%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(àü²‘
-osquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅµÈ³ùÿÿÿÿ
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(ÅµÈ³ùÿÿÿÿ
-Rsquid:S1161µ":Add the "@Override" annotation above this method signature(°èÉƒ
-Rsquid:S1161é":Add the "@Override" annotation above this method signature(˜¹áü
-Rsquid:S1161ğ":Add the "@Override" annotation above this method signature(Öó¹¨
-Wsquid:S1161÷":Add the "@Override" annotation above this method signature(äõæúÿÿÿÿ
-Rsquid:S1161ş":Add the "@Override" annotation above this method signature(††³
-Wsquid:S1161…":Add the "@Override" annotation above this method signature(¯Úşÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ØÓ²ùÿÿÿÿ
-Rsquid:S1161‘":Add the "@Override" annotation above this method signature(ˆã„İ
-Vsquid:S3400™"9Remove this method and declare a constant for this value.(µšşÌıÿÿÿÿ
-hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(›§ª„úÿÿÿÿ
-bsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(ĞÈß
-hsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(œÚÕÿÿÿÿÿ
-bsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(šÙñ

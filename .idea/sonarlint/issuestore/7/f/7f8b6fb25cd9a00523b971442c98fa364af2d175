@@ -1,8 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
-psquid:UselessImportCheck."GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
-msquid:S00116@"URename this field "SDRegistry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÖÍ‡
-rsquid:S00116A"URename this field "CSRegistry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢õéáúÿÿÿÿ
-ssquid:S00116B"VRename this field "OAFRegistry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŒÈ­øÿÿÿÿ
-osquid:S00116C"WRename this field "LCSFRegistry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŒ£
-ssquid:S4275¸"VRefactor this getter so that it actually refers to the field "objectAdapterFactories".(œŒÁ¬úÿÿÿÿ

@@ -1,72 +1,0 @@
-
-Lsquid:S1191<"5Use classes from the Java API instead of Sun classes.(§ª›‰
-hsquid:UselessImportCheck8"?Remove this unused import 'java.util.MissingResourceException'.(å—¡Şşÿÿÿÿ
-isquid:UselessImportCheck;"@Remove this unused import 'java.util.spi.LocaleServiceProvider'.(É‰Á¿ÿÿÿÿÿ
-^squid:UselessImportCheck9"5Remove this unused import 'java.util.ResourceBundle'.(ıÆ£¯øÿÿÿÿ
-|squid:S1149Ó"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùƒ°ÿÿÿÿÿ
-|squid:S1149Ó"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùƒ°ÿÿÿÿÿ
-ksquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(ÛúŞ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(é†ş×ùÿÿÿÿ
-ksquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(‘ã˜
-ksquid:ModifiersOrderCheck‘"EReorder the modifiers to comply with the Java Language Specification.(²†§”
-ksquid:ModifiersOrderCheckœ"EReorder the modifiers to comply with the Java Language Specification.(ïøËÔ
-psquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(Ôšäøúÿÿÿÿ
-ksquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(¦„«¢
-psquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(—“ëùÿÿÿÿ
-ksquid:ModifiersOrderCheck¿"EReorder the modifiers to comply with the Java Language Specification.(‡Ç¿ü
-ksquid:ModifiersOrderCheckÇ"EReorder the modifiers to comply with the Java Language Specification.(Á—Óß
-psquid:ModifiersOrderCheckÏ"EReorder the modifiers to comply with the Java Language Specification.(¸…Ÿ¿üÿÿÿÿ
-psquid:ModifiersOrderCheck×"EReorder the modifiers to comply with the Java Language Specification.(½Ä¸½úÿÿÿÿ
-psquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(…€×Ÿùÿÿÿÿ
-psquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(©ê–ôúÿÿÿÿ
-psquid:ModifiersOrderCheckï"EReorder the modifiers to comply with the Java Language Specification.(ÃÉÂ¤ûÿÿÿÿ
-jsquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(èÜ¼
-psquid:ModifiersOrderCheckƒ"EReorder the modifiers to comply with the Java Language Specification.(í°µøÿÿÿÿ
-ksquid:ModifiersOrderCheck‹"EReorder the modifiers to comply with the Java Language Specification.(ÇêŠ¹
-psquid:ModifiersOrderCheck…"EReorder the modifiers to comply with the Java Language Specification.(«ûé«ıÿÿÿÿ
-jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(²û».
-ksquid:ModifiersOrderCheck®"EReorder the modifiers to comply with the Java Language Specification.(üŒ­ß
-psquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(æ„˜üÿÿÿÿ
-ksquid:ModifiersOrderCheckİ"EReorder the modifiers to comply with the Java Language Specification.(ËºéÑ
-ksquid:ModifiersOrderCheckî"EReorder the modifiers to comply with the Java Language Specification.(ß¨‰²
-ksquid:ModifiersOrderCheck…"EReorder the modifiers to comply with the Java Language Specification.(”³¼ª
-ksquid:ModifiersOrderCheckŸ"EReorder the modifiers to comply with the Java Language Specification.(úØ¡™
-ksquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(…€–Í
-jsquid:ModifiersOrderCheckÁ"EReorder the modifiers to comply with the Java Language Specification.(ë«ÏC
-psquid:S2975£"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(¯ÔÚ“ùÿÿÿÿ
-/squid:S2176ı"Rename this class.(çÅ“­øÿÿÿÿ
-Ksquid:S3010»	"3Remove this assignment of "calendarToFieldMapping".(ŸïĞÖ
-ksquid:ModifiersOrderCheckö	"EReorder the modifiers to comply with the Java Language Specification.(ãŸÂ
-psquid:ModifiersOrderCheckş	"EReorder the modifiers to comply with the Java Language Specification.(ÀŞ…Àÿÿÿÿÿ
-ksquid:ModifiersOrderCheck†
-"EReorder the modifiers to comply with the Java Language Specification.(Àà“Ñ
-ksquid:ModifiersOrderCheck
-"EReorder the modifiers to comply with the Java Language Specification.(‹èİè
-jsquid:ModifiersOrderCheck˜
-"EReorder the modifiers to comply with the Java Language Specification.(–?
-ksquid:ModifiersOrderCheck¡
-"EReorder the modifiers to comply with the Java Language Specification.(÷Ç·¦
-ksquid:ModifiersOrderCheckª
-"EReorder the modifiers to comply with the Java Language Specification.(¥¥©¸
-ksquid:ModifiersOrderCheck²
-"EReorder the modifiers to comply with the Java Language Specification.(«·Óé
-jsquid:ModifiersOrderCheckº
-"EReorder the modifiers to comply with the Java Language Specification.(ÿëõ
-psquid:ModifiersOrderCheckÃ
-"EReorder the modifiers to comply with the Java Language Specification.(Å§ø±øÿÿÿÿ
-ksquid:ModifiersOrderCheckÌ
-"EReorder the modifiers to comply with the Java Language Specification.(À˜äş
-ksquid:ModifiersOrderCheckÕ
-"EReorder the modifiers to comply with the Java Language Specification.(¹¡Û¼
-ksquid:ModifiersOrderCheckß
-"EReorder the modifiers to comply with the Java Language Specification.(ô‡¡÷
-psquid:ModifiersOrderCheckè
-"EReorder the modifiers to comply with the Java Language Specification.(ÿ·¶úÿÿÿÿ
-psquid:ModifiersOrderCheckò
-"EReorder the modifiers to comply with the Java Language Specification.(Ş¿ã‰üÿÿÿÿ
-ksquid:ModifiersOrderCheckü
-"EReorder the modifiers to comply with the Java Language Specification.(Ôšàı
-psquid:ModifiersOrderCheck…"EReorder the modifiers to comply with the Java Language Specification.(óÑÏ‡øÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‘×¨ö
-csquid:CommentedOutCodeLineº	"<This block of commented-out lines of code should be removed.(Ş¿¿ô

@@ -1,36 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-^squid:S1192Ñ"FDefine a constant instead of duplicating this literal "xmlns" 3 times.(·´‹ï
-csquid:S1192Ò"FDefine a constant instead of duplicating this literal "CDATA" 3 times.(“¥„ôûÿÿÿÿ
-Osquid:S2589š"7Remove this expression which always evaluates to "true"(Œë‘
-jsquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äË ©
-squid:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õê¬†ıÿÿÿÿ
-squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’ª¼êşÿÿÿÿ
-™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅöÕ¯
-™squid:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èàÅ€
-squid:S1186¯"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÌÍ®ùÿÿÿÿ
-squid:S1186¸"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿Ş²üøÿÿÿÿ
-squid:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıôğÉüÿÿÿÿ
-squid:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍÂè¨şÿÿÿÿ
-squid:S1186Ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“©­£øÿÿÿÿ
-wsquid:S00116J"ZRename this field "m_escapeSetting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¯à…şÿÿÿÿ
-Dsquid:S1172w"(Remove this unused method parameter "n".(Õê¬†ıÿÿÿÿ
-Wsquid:S1161ú":Add the "@Override" annotation above this method signature(çí¼üÿÿÿÿ
-Wsquid:S1161š":Add the "@Override" annotation above this method signature(§Ù¨÷şÿÿÿÿ
-3squid:S3626â"Remove this redundant jump.(ûÁİ…
-Rsquid:S1161õ":Add the "@Override" annotation above this method signature(Ÿ½´
-Rsquid:S1161¿":Add the "@Override" annotation above this method signature(–‹’ì
-Rsquid:S1161ç":Add the "@Override" annotation above this method signature(ò–êë
-Rsquid:S1161ñ":Add the "@Override" annotation above this method signature(ïÍéÉ
-Wsquid:S1161³":Add the "@Override" annotation above this method signature(ı¢Õ»şÿÿÿÿ
-Rsquid:S1161Â":Add the "@Override" annotation above this method signature(ï±´
-Rsquid:S1161‰":Add the "@Override" annotation above this method signature(ò–êë
-jsquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(é¸Ú¥
-csquid:S3027º"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ø‡Õõÿÿÿÿÿ
-Rsquid:S1161ç":Add the "@Override" annotation above this method signature(„ô¡´
-Wsquid:S1161„":Add the "@Override" annotation above this method signature(–Ó¨Úüÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(Ÿş‘İ
-csquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(Ò“¿
-csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(Ò“¿
-csquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ñ–ˆ¼

@@ -1,22 +1,0 @@
-
-Lsquid:S1191	"5Use classes from the Java API instead of Sun classes.(ŞÄÿá
-hsquid:S1192Ş"PDefine a constant instead of duplicating this literal "processResponse" 3 times.(äÉßÖ
-u
-squid:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(³Èêşÿÿÿÿ
-msquid:S1149M"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ù¨‘Ü
-lsquid:S1149V"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‰Êò´ùÿÿÿÿ
-isquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§ Å6
-^squid:S2142£"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Bsquid:S00108£")Either remove or fill this block of code.(ä ¹€
-8squid:S3626î"Remove this redundant jump.(—‡¾‡şÿÿÿÿ
-Ssquid:S1854È";Remove this useless assignment to local variable "snmpreq".(˜¡˜‹
-^squid:S2142ß"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Rsquid:S2274Ş":Remove this call to "wait" or move it into a "while" loop.(Šä
-Bsquid:S00108ß")Either remove or fill this block of code.(ä ¹€
-Hsquid:S2165¯"+Remove this nullification of "informRespq".(÷»ˆëùÿÿÿÿ
-Isquid:S2165²",Remove this nullification of "informSocket".(Ê‰¢ÿÿÿÿÿ
-?squid:S2165´"(Remove this nullification of "snmpQman".(™÷àr
-xsquid:CallToDeprecatedMethod¦"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
-a"squid:ObjectFinalizeOverridenCheck¦"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
-Dsquid:S1481È",Remove this unused "snmpreq" local variable.(˜¡˜‹
-hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(ÇË£€şÿÿÿÿ

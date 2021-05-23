@@ -1,24 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ğÔñ¯ıÿÿÿÿ
-_squid:S1192"GDefine a constant instead of duplicating this literal ".class" 3 times.(Œ¨Èÿ
-@squid:S1604â"(Make this anonymous inner class a lambda(ûÇ…é
-nsquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¯¼³úÿÿÿÿ
-jsquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¾ˆ
-jsquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¾ˆ
-jsquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¾ˆ
-jsquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†åÀÓ
-/squid:S1700™"Rename field "dir"(ä¬ÅÖûÿÿÿÿ
-*squid:S1700´"Rename field "zip"(²ûÖÑ
-rsquid:S00116l"URename this field "class_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Á…Ÿøÿÿÿÿ
-|squid:S1149î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-U
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(èÓ×¸üÿÿÿÿ
-Rsquid:S1133›"5Do not forget to remove this deprecated code someday.(Öâ¾ûÿÿÿÿ
-Usquid:MissingDeprecatedCheck›"'Add the missing @Deprecated annotation.(Öâ¾ûÿÿÿÿ
-?squid:S1659Í"'Declare "boot_path" on a separate line.(±¾ˆ
->squid:S1659Í"&Declare "ext_path" on a separate line.(±¾ˆ
-Gsquid:S00108”")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
-Qsquid:S1610ó"9Convert the abstract class "PathEntry" into an interface.(ÿÂ›î
-ksquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(ÿÂ›î
-=squid:S1948´"%Make "zip" transient or serializable.(²ûÖÑ
-csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(èøêæ

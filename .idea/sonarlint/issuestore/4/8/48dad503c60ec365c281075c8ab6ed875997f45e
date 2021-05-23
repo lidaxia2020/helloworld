@@ -1,14 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
-ysquid:UselessImportCheck("URemove this unused import 'com.sun.org.apache.bcel.internal.generic.INVOKEINTERFACE'.(…†”ª
-msquid:S00116;"PRename this field "_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŸ¸îýÿÿÿÿ
-nsquid:S00116<"QRename this field "_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž¦Ë¡ýÿÿÿÿ
-isquid:S00116="QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åòÓ´
-Ksquid:EmptyStatementUsageCheck;"Remove this empty statement.(ÉŸ¸îýÿÿÿÿ
-Fsquid:EmptyStatementUsageCheck="Remove this empty statement.(åòÓ´
-Vsquid:S1161H":Add the "@Override" annotation above this method signature(šžíïÿÿÿÿÿ
-Qsquid:S1161Z":Add the "@Override" annotation above this method signature(Á»›ê
-\squid:S1854v"@Remove this useless assignment to local variable "getNodeIdent".(·¤ŸÓûÿÿÿÿ
-Qsquid:S1161c":Add the "@Override" annotation above this method signature(£û×û
-Msquid:S1481v"1Remove this unused "getNodeIdent" local variable.(·¤ŸÓûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

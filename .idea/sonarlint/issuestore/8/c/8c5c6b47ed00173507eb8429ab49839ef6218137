@@ -1,29 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘å›Ô
-jsquid:S1192a"SUse already-defined constant 'LANG_ADDITIVE' instead of duplicating its value here.(­¸£
-osquid:S1192X"SUse already-defined constant 'LANG_ALPHABET' instead of duplicating its value here.(—¯¡¥ÿÿÿÿÿ
-osquid:S1192["XUse already-defined constant 'LANG_TRAD_ALPHABET' instead of duplicating its value here.(ËäÖ 
-ksquid:S1192a"TUse already-defined constant 'LANG_NUMBERING' instead of duplicating its value here.(­¸£
-msquid:S1192_"VUse already-defined constant 'LANG_ORIENTATION' instead of duplicating its value here.(Ì„ÿ‘
-Vsquid:UselessImportCheck)"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
-hsquid:UselessImportCheck*"?Remove this unused import 'java.util.MissingResourceException'.(å—¡Şşÿÿÿÿ
-dsquid:UselessImportCheck'";Remove this unused import 'java.security.PrivilegedAction'.(£Şóšùÿÿÿÿ
-dsquid:UselessImportCheck&";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
-Gsquid:S1659@"+Declare "XSLT_RESOURCE" on a separate line.(§Çû™ûÿÿÿÿ
-Esquid:S1659A".Declare "LANG_BUNDLE_NAME" on a separate line.(Ç›¶“
-Dsquid:S1659B"(Declare "MULT_ORDER" on a separate line.(‹‰Œşÿÿÿÿ
-Gsquid:S1659C"+Declare "MULT_PRECEDES" on a separate line.(Áùíıüÿÿÿÿ
-Fsquid:S1659C"*Declare "MULT_FOLLOWS" on a separate line.(Áùíıüÿÿÿÿ
-Esquid:S1659D".Declare "LANG_ORIENTATION" on a separate line.(ı‹¯ç
-Esquid:S1659D".Declare "LANG_RIGHTTOLEFT" on a separate line.(ı‹¯ç
-Esquid:S1659E".Declare "LANG_LEFTTORIGHT" on a separate line.(ëö¼¾
-Csquid:S1659E",Declare "LANG_NUMBERING" on a separate line.(ëö¼¾
-Bsquid:S1659F"+Declare "LANG_ADDITIVE" on a separate line.(•ƒ‚¡
-Bsquid:S1659F"+Declare "LANG_MULT_ADD" on a separate line.(•ƒ‚¡
-Isquid:S1659G"-Declare "LANG_MULTIPLIER" on a separate line.(ñ³œîüÿÿÿÿ
-Nsquid:S1659H"2Declare "LANG_MULTIPLIER_CHAR" on a separate line.(—ŒÂüÿÿÿÿ
-Esquid:S1659I"/Declare "LANG_NUMBERGROUPS" on a separate line.(Åº§
-Csquid:S1659I"-Declare "LANG_NUM_TABLES" on a separate line.(Åº§
-Bsquid:S1659J"+Declare "LANG_ALPHABET" on a separate line.(ºè¨
-Gsquid:S1659J"0Declare "LANG_TRAD_ALPHABET" on a separate line.(ºè¨
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

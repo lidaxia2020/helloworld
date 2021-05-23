@@ -1,6 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
-Zsquid:S00107E"BConstructor has 10 parameters, which is greater than 7 authorized.(òñÒ
-|squid:S1149G"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áé…Ù
-‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùåú×ûÿÿÿÿ
-|squid:S1149–"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ƒÄÛ%

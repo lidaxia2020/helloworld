@@ -1,8 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ĞµŒëşÿÿÿÿ
-}squid:UselessImportCheck@"TRemove this unnecessary import: same package classes are always implicitly imported.(­Â÷ûÿÿÿÿ
-msquid:UselessImportCheck7"DRemove this unused import 'com.sun.corba.se.spi.protocol.PIHandler'.(Š¤Ç™ùÿÿÿÿ
-bsquid:S2147š"ECombine this catch with the one at line 152, which has the same body.(üéß¢ÿÿÿÿÿ
-Bsquid:S00108³")Either remove or fill this block of code.(Å‰ä÷
-psquid:ModifiersOrderCheckÃ"EReorder the modifiers to comply with the Java Language Specification.(ŞÎ±¦şÿÿÿÿ
-ksquid:ModifiersOrderCheckñ"EReorder the modifiers to comply with the Java Language Specification.(†Ñ»±

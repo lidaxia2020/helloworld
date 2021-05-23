@@ -1,6 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
-msquid:S00116,"PRename this field "m_dtm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”§•™şÿÿÿÿ
-psquid:S00116-"XRename this field "m_dtmIdentity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‡ÀÉ
-jsquid:S00116."RRename this field "m_xctxt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Úü
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

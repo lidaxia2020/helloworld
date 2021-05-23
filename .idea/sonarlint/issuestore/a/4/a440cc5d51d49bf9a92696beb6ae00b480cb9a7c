@@ -1,12 +1,0 @@
-
-csquid:S1192¶"FDefine a constant instead of duplicating this literal "value" 4 times.(ºÁùãøÿÿÿÿ
-Rsquid:S1141©"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Qsquid:S11182":Add a private constructor to hide the implicit public one.(ƒ›Øö
-Esquid:S2755ü"-Disable XML external entity (XXE) processing.( ­šô
-Jsquid:S2755"-Disable XML external entity (XXE) processing.(ƒ”±êùÿÿÿÿ
-wsquid:S4435¨"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(ƒ¶ŠÊûÿÿÿÿ
-9squid:S2129ª"!Remove this "Integer" constructor(§Å‡‰
-Xsquid:CallToDeprecatedMethodª"/Remove this use of "Integer"; it is deprecated.(§Å‡‰
-Vsquid:S4719¶"9Replace charset name argument with StandardCharsets.UTF_8(¶÷şûÿÿÿÿ
-lsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¥Œªûÿÿÿÿ
-gsquid:S00100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïÿ¡‰

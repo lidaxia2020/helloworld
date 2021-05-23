@@ -1,156 +1,0 @@
-
-]squid:S2184"FCast one of the operands of this multiplication operation to a "long".(™«¸[
-^squid:S2184à"FCast one of the operands of this multiplication operation to a "long".(·¯Š¥
-Š squid:ForLoopCounterChangedCheckÔ"XRefactor the code in order to not assign to this loop counter from within the loop body.(³£øÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÕ"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚ÁíÍûÿÿÿÿ
-… squid:ForLoopCounterChangedCheck”"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰å˜“
-… squid:ForLoopCounterChangedCheck¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(ı›¦Š
-Š squid:ForLoopCounterChangedCheckÙ!"XRefactor the code in order to not assign to this loop counter from within the loop body.(ùùÈûÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÙ!"XRefactor the code in order to not assign to this loop counter from within the loop body.(ùùÈûÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÚ!"XRefactor the code in order to not assign to this loop counter from within the loop body.(—ûÛ™ÿÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckÜ!"XRefactor the code in order to not assign to this loop counter from within the loop body.(®¬«
-Š squid:ForLoopCounterChangedCheckİ!"XRefactor the code in order to not assign to this loop counter from within the loop body.(–Ğàôûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÁ'"XRefactor the code in order to not assign to this loop counter from within the loop body.( å–
-… squid:ForLoopCounterChangedCheckÁ'"XRefactor the code in order to not assign to this loop counter from within the loop body.( å–
-Š squid:ForLoopCounterChangedCheckÂ'"XRefactor the code in order to not assign to this loop counter from within the loop body.(—ûÛ™ÿÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckÄ'"XRefactor the code in order to not assign to this loop counter from within the loop body.(®¬«
-Š squid:ForLoopCounterChangedCheckÅ'"XRefactor the code in order to not assign to this loop counter from within the loop body.(–Ğàôûÿÿÿÿ
-Lsquid:S1191+"5Use classes from the Java API instead of Sun classes.(ÚŸÈš
-tsquid:S1192‘"WDefine a constant instead of duplicating this literal "Zero length BigInteger" 4 times.(îöùÿÿÿÿ
-dsquid:S1192±&"GDefine a constant instead of duplicating this literal "signum" 5 times.(Ù†ùİúÿÿÿÿ
-bsquid:S1192²&"JDefine a constant instead of duplicating this literal "magnitude" 4 times.(ë¯çû
-msquid:S1192À"UDefine a constant instead of duplicating this literal "Negative bit address" 4 times.(¯ûŞ
-~squid:S1192ğ"aDefine a constant instead of duplicating this literal "BigInteger: modulus not positive" 3 times.(Ù÷Ÿ½şÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÉ".Extract the assignment out of this expression.(Æ…¨‚
-d$squid:AssignmentInSubExpressionCheckÒ".Extract the assignment out of this expression.(ÖÇÇ§şÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck†".Extract the assignment out of this expression.(ÇŠ´•
-_$squid:AssignmentInSubExpressionCheckŠ".Extract the assignment out of this expression.(î¡¢
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(²€“Ìÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckº".Extract the assignment out of this expression.(²€“Ìÿÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck™".Extract the assignment out of this expression.(òêŸñ
-Csquid:S3077È
-"&Use an "AtomicReferenceArray" instead.(ë¡ù–şÿÿÿÿ
-Msquid:S1133Ö"5Do not forget to remove this deprecated code someday.(»ØÙ¶
-Rsquid:S1133æ"5Do not forget to remove this deprecated code someday.(óáŞçşÿÿÿÿ
-Rsquid:S1133ö"5Do not forget to remove this deprecated code someday.(ÿøæåûÿÿÿÿ
-Rsquid:S1133†"5Do not forget to remove this deprecated code someday.(«ø¦Ôùÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(’±ñíüÿÿÿÿ
-jsquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Õñë¯
-Dsquid:S1659’"'Declare "numDigits" on a separate line.(²Û£Çûÿÿÿÿ
-Dsquid:S1659ç"'Declare "numDigits" on a separate line.(²Û£Çûÿÿÿÿ
-Psquid:S1197§"8Move the array designator from the variable to the type.(‡Øî¹
-Usquid:S1197×"8Move the array designator from the variable to the type.(Û‹Öæşÿÿÿÿ
-jsquid:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¬şù 
-osquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(è¢æııÿÿÿÿ
-8squid:S1659ø" Declare "u2" on a separate line.(ÏÉ‡–
-=squid:S1659ù" Declare "v2" on a separate line.(¢ÚîÇùÿÿÿÿ
-Psquid:S1197°
-"8Move the array designator from the variable to the type.(Ãèöé
-ksquid:ModifiersOrderCheck¼
-"EReorder the modifiers to comply with the Java Language Specification.(İ‡¿¡
-Usquid:S1197½
-"8Move the array designator from the variable to the type.(æÒÉ°ûÿÿÿÿ
-Usquid:S1197¾
-"8Move the array designator from the variable to the type.(Â‚•Óûÿÿÿÿ
-Usquid:S1197ù"8Move the array designator from the variable to the type.(ªÄç°şÿÿÿÿ
-Usquid:S1197“"8Move the array designator from the variable to the type.(é¸‘Ùşÿÿÿÿ
-Usquid:S1197«"8Move the array designator from the variable to the type.(ªÄç°şÿÿÿÿ
-Psquid:S1197¶"8Move the array designator from the variable to the type.(¦ÈÄµ
-Usquid:S1197º"8Move the array designator from the variable to the type.(¤Œâìıÿÿÿÿ
-Usquid:S1197İ"8Move the array designator from the variable to the type.(½²¨Êùÿÿÿÿ
-Usquid:S1197œ"8Move the array designator from the variable to the type.(½²¨Êùÿÿÿÿ
-jsquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Úç¿ß
-8squid:S1659¸" Declare "a1" on a separate line.(½ìÇè
-8squid:S1659¸" Declare "a2" on a separate line.(½ìÇè
-8squid:S1659¸" Declare "b0" on a separate line.(½ìÇè
-8squid:S1659¸" Declare "b1" on a separate line.(½ìÇè
-8squid:S1659¸" Declare "b2" on a separate line.(½ìÇè
-8squid:S1659À" Declare "v1" on a separate line.(‘›ë‡
-8squid:S1659À" Declare "v2" on a separate line.(‘›ë‡
-9squid:S1659À"!Declare "vm1" on a separate line.(‘›ë‡
-:squid:S1659À""Declare "vinf" on a separate line.(‘›ë‡
-8squid:S1659À" Declare "t1" on a separate line.(‘›ë‡
-8squid:S1659À" Declare "t2" on a separate line.(‘›ë‡
-9squid:S1659À"!Declare "tm1" on a separate line.(‘›ë‡
-9squid:S1659À"!Declare "da1" on a separate line.(‘›ë‡
-9squid:S1659À"!Declare "db1" on a separate line.(‘›ë‡
-9squid:S1659û"!Declare "end" on a separate line.(ÁÃÑé
-?squid:S1659û"'Declare "sliceSize" on a separate line.(ÁÃÑé
-9squid:S1659û"!Declare "len" on a separate line.(ÁÃÑé
-<squid:S1659û"$Declare "offset" on a separate line.(ÁÃÑé
-Psquid:S1197›"8Move the array designator from the variable to the type.(ùĞ’¢
-7squid:S1659¯"Declare "w" on a separate line.(ë†Û
-7squid:S1659¯"Declare "q" on a separate line.(ë†Û
-<squid:S1659¯"$Declare "borrow" on a separate line.(ë†Û
-Usquid:S1197Ú"8Move the array designator from the variable to the type.(ôêş®ùÿÿÿÿ
-Psquid:S1197ğ"8Move the array designator from the variable to the type.(Üçª
-=squid:S1659”" Declare "a1" on a separate line.(œ‡è¡øÿÿÿÿ
-=squid:S1659”" Declare "a2" on a separate line.(œ‡è¡øÿÿÿÿ
-8squid:S1659˜" Declare "v1" on a separate line.(äË›°
-8squid:S1659˜" Declare "v2" on a separate line.(äË›°
-9squid:S1659˜"!Declare "vm1" on a separate line.(äË›°
-:squid:S1659˜""Declare "vinf" on a separate line.(äË›°
-8squid:S1659˜" Declare "t1" on a separate line.(äË›°
-8squid:S1659˜" Declare "t2" on a separate line.(äË›°
-9squid:S1659˜"!Declare "tm1" on a separate line.(äË›°
-9squid:S1659˜"!Declare "da1" on a separate line.(äË›°
-7squid:S1659Ú"Declare "a" on a separate line.(úÂõ
-7squid:S1659Û"Declare "b" on a separate line.(‹µê
-7squid:S1659ı"Declare "a" on a separate line.(úÂõ
-7squid:S1659ş"Declare "b" on a separate line.(‹µê
-7squid:S1659"Declare "a" on a separate line.(úÂõ
-7squid:S1659"Declare "b" on a separate line.(‹µê
-osquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(Ú§èùıÿÿÿÿ
-Psquid:S1197‚"8Move the array designator from the variable to the type.(ÇÛø
-Psquid:S1197‡"8Move the array designator from the variable to the type.(¿Íí†
-jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ƒò½í
-osquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(×Š˜™ıÿÿÿÿ
-Rsquid:S1854ı";Remove this useless assignment to local variable "multpos".(¾«¥:
-8squid:S1659Ñ" Declare "a2" on a separate line.(ÆÍ‚
-=squid:S1659Ò" Declare "b2" on a separate line.(ğÿ»‘ÿÿÿÿÿ
-[squid:HiddenFieldCheckî"8Rename "mag" which hides the field declared at line 195.(“¡Ûà
-Psquid:S1197Ë"8Move the array designator from the variable to the type.(ûÜ
-jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¶½¶
-Psquid:S1197"8Move the array designator from the variable to the type.(ûÜ
-bsquid:CallToDeprecatedMethod¦"4Remove this use of "lowestSetBit"; it is deprecated.(ÿºÛúÿÿÿÿ
-7squid:S1659­"Declare "b" on a separate line.(úßéë
-bsquid:CallToDeprecatedMethod²"4Remove this use of "lowestSetBit"; it is deprecated.(éıó«ùÿÿÿÿ
-isquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(˜·ä
-Zsquid:CallToDeprecatedMethodÊ"1Remove this use of "bitLength"; it is deprecated.(îø¶­
-_squid:CallToDeprecatedMethodŞ"1Remove this use of "bitLength"; it is deprecated.(ÆÅóæùÿÿÿÿ
-^squid:CallToDeprecatedMethodğ"0Remove this use of "bitCount"; it is deprecated.(Ê¨Ö›şÿÿÿÿ
-<squid:S1659ø"Declare "j" on a separate line.(¼º„Äøÿÿÿÿ
-Ysquid:CallToDeprecatedMethodş"0Remove this use of "bitCount"; it is deprecated.(˜¶­„
-isquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(õõì,
-Usquid:S1197  "8Move the array designator from the variable to the type.(ˆè¾Ğıÿÿÿÿ
-6squid:S1659© "Declare "a" on a separate line.(°ßÜ
-6squid:S1659ª "Declare "b" on a separate line.(¼ŒÉ%
-<squid:S1659î "Declare "n" on a separate line.(õì—üÿÿÿÿÿ
-Psquid:S1197¢!"8Move the array designator from the variable to the type.(±îÃ½
-Ksquid:UselessParenthesesCheckö""!Remove these useless parentheses.(Òô‡Ğ
-Psquid:UselessParenthesesChecké#"!Remove these useless parentheses.(İû­ğúÿÿÿÿ
-Psquid:S1197$"8Move the array designator from the variable to the type.(÷ŒÕ
-Usquid:S1197’$"8Move the array designator from the variable to the type.(ŞÔòèùÿÿÿÿ
-Usquid:S1197¢$"8Move the array designator from the variable to the type.(½à£Õüÿÿÿÿ
-Usquid:S1197¿$"8Move the array designator from the variable to the type.(¢íª„üÿÿÿÿ
-7squid:S1659À$"Declare "k" on a separate line.(ÀøƒÕ
-Osquid:S1197Ñ$"8Move the array designator from the variable to the type.(Ï€Ì1
-Usquid:S1197ö$"8Move the array designator from the variable to the type.(ÍäØ”ùÿÿÿÿ
-<squid:S1659÷$"Declare "j" on a separate line.(Àññıÿÿÿÿ
-Psquid:S1197„%"8Move the array designator from the variable to the type.(Ç½¼­
-Usquid:S1197¤%"8Move the array designator from the variable to the type.(ˆ «Ëúÿÿÿÿ
-Usquid:S1197¨%"8Move the array designator from the variable to the type.(¹û§Ãüÿÿÿÿ
-Usquid:S1197Â%"8Move the array designator from the variable to the type.(ÃâòÌûÿÿÿÿ
-Psquid:S1197Æ%"8Move the array designator from the variable to the type.(€˜“º
-asquid:S3358ÿ%"DExtract this nested ternary operation into an independent statement.(îŸÚËùÿÿÿÿ
-Ssquid:S1854&"6Remove this useless assignment to local variable "fn".(ç‡ãÍúÿÿÿÿ
-hsquid:CallToDeprecatedMethod‹&":Remove this use of "firstNonzeroIntNum"; it is deprecated.(Ñíº¬ÿÿÿÿÿ
-hsquid:CallToDeprecatedMethod•&":Remove this use of "firstNonzeroIntNum"; it is deprecated.(£ëÊúÿÿÿÿ
-[squid:HiddenFieldCheckå&"8Rename "mag" which hides the field declared at line 195.(´È†¬
-xsquid:S00115ş&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±”Ë«ÿÿÿÿÿ
-ssquid:S00115ÿ&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥®ê¤
->squid:S1481Ø"&Remove this unused "y" local variable.(ùÌ¤ô
-Zsquid:UnusedPrivateMethodØ	"4Remove this unused private "BigInteger" constructor.(üõé¡
-Wsquid:UnusedPrivateMethodä%",Remove this unused private "signBit" method.(­°Ú¤ÿÿÿÿÿ
-Wsquid:S1068°&":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ
-hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(ˆƒóùÿÿÿÿ

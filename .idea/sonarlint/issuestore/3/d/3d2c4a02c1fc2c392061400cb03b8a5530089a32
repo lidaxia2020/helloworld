@@ -1,24 +1,0 @@
-
-Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(–¥á¤
-vsquid:S1192È"YDefine a constant instead of duplicating this literal "Transforms.addTransform(" 3 times.(ØÜºÎşÿÿÿÿ
-csquid:S1192Ï"FDefine a constant instead of duplicating this literal "empty" 7 times.(‘¡ôûÿÿÿÿ
-osquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ïòúÿÿÿÿ
-5squid:S1700{"Rename field "transforms"(ç’öªüÿÿÿÿ
-Xsquid:S1075i"ARefactor your code to get this URI from a customizable parameter.(„ˆ„â
-]squid:S1075u"ARefactor your code to get this URI from a customizable parameter.(òïîãúÿÿÿÿ
-Ksquid:EmptyStatementUsageCheck}"Remove this empty statement.(°ÙÂƒÿÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck¡"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Âò®•ÿÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheck¡"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(Âò®•ÿÿÿÿÿ
-•%squid:RedundantThrowsDeclarationCheck¡"İRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(Âò®•ÿÿÿÿÿ
-“%squid:RedundantThrowsDeclarationCheck¢"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.TransformationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ê‡ìŒüÿÿÿÿ
-Psquid:S1197©"8Move the array designator from the variable to the type.(‚³«»
-msquid:CallToDeprecatedMethodÏ"?Remove this use of "TransformationException"; it is deprecated.(‘¡ôûÿÿÿÿ
-msquid:CallToDeprecatedMethodë"?Remove this use of "TransformationException"; it is deprecated.(‘¡ôûÿÿÿÿ
-msquid:CallToDeprecatedMethodƒ"?Remove this use of "TransformationException"; it is deprecated.(‘¡ôûÿÿÿÿ
-]squid:S2147Ñ"ECombine this catch with the one at line 335, which has the same body.(€àÈ„
-]squid:S2147Ó"ECombine this catch with the one at line 335, which has the same body.(¹ƒ›×
-msquid:CallToDeprecatedMethodĞ"?Remove this use of "TransformationException"; it is deprecated.(‘¡ôûÿÿÿÿ
-msquid:CallToDeprecatedMethodÒ"?Remove this use of "TransformationException"; it is deprecated.(‘¡ôûÿÿÿÿ
-msquid:CallToDeprecatedMethodÔ"?Remove this use of "TransformationException"; it is deprecated.(‘¡ôûÿÿÿÿ
-Usquid:S1197Û"8Move the array designator from the variable to the type.(ÁÌ†Òøÿÿÿÿ
-msquid:CallToDeprecatedMethodˆ"?Remove this use of "TransformationException"; it is deprecated.(‘¡ôûÿÿÿÿ

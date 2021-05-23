@@ -1,11 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
-Ssquid:S2387("<"vendorName" is the name of a field in "IIOServiceProvider".(žÊºº
-Usquid:S2387*"9"version" is the name of a field in "IIOServiceProvider".(ÆÍñ´üÿÿÿÿ
-Usquid:S2387,"9"names" is the name of a field in "ImageReaderWriterSpi".(ÓüèÅþÿÿÿÿ
-Ssquid:S2387."<"suffixes" is the name of a field in "ImageReaderWriterSpi".(Š²à§
-Ysquid:S23870"="MIMETypes" is the name of a field in "ImageReaderWriterSpi".(¾âž…úÿÿÿÿ
-Ssquid:S23875"<"readerSpiNames" is the name of a field in "ImageWriterSpi".(µˆõ¡
-rsquid:S00115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(žÊºº
-wsquid:S00115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÍñ´üÿÿÿÿ
-qsquid:S001152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªúˆ

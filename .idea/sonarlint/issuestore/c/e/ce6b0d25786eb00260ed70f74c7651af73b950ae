@@ -1,9 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ÂÙÁˆûÿÿÿÿ
-dsquid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(ú»¦†üÿÿÿÿ
-msquid:S3008<"VRename this field "XPATHBundle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­õÝ„
-~squid:S4144o"bUpdate this method so that its implementation is not identical to "createXPATHMessage" on line 84.(œâû­úÿÿÿÿ
-Tsquid:S1197T"8Move the array designator from the variable to the type.(£É´ýÿÿÿÿ
-Tsquid:S1197o"8Move the array designator from the variable to the type.(œâû­úÿÿÿÿ
-Usquid:S1197‹"8Move the array designator from the variable to the type.(ð˜Ãûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

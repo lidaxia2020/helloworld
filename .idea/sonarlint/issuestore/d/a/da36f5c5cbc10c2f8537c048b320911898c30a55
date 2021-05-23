@@ -1,8 +1,0 @@
-
-p
-squid:S135‘"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-Wsquid:S1161•":Add the "@Override" annotation above this method signature(æÔ«÷þÿÿÿÿ
-Rsquid:S1161¬":Add the "@Override" annotation above this method signature(æ¯åµ
-Wsquid:S1161í":Add the "@Override" annotation above this method signature(è¼Ù§üÿÿÿÿ
-osquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(üýÛÂúÿÿÿÿ
-Wsquid:S1161„":Add the "@Override" annotation above this method signature(üýÛÂúÿÿÿÿ

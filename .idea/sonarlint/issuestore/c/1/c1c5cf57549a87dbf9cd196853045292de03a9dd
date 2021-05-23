@@ -1,13 +1,0 @@
-
-Lsquid:S1191""5Use classes from the Java API instead of Sun classes.(—Ì½‹
-ˆ"squid:ClassVariableVisibilityCheckX"ZMake namespaceAware a static final constant or non-public and provide accessors if needed.(Ñ£‹ª
-‰"squid:ClassVariableVisibilityCheck["VMake validating a static final constant or non-public and provide accessors if needed.(Áà­äþÿÿÿÿ
-Qsquid:S1172t"5Remove this unused method parameter "privateCatalog".(²ï­èüÿÿÿÿ
-osquid:S3776™"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥¾¿æûÿÿÿÿ
-Ysquid:S1854“"<Remove this useless assignment to local variable "fragment".( ô¯¤ÿÿÿÿÿ
-csquid:S3027"FPut single-quotes around '#' to use the faster "indexOf(char)" method.(ÝÎºóþÿÿÿÿ
-Esquid:S2755à"-Disable XML external entity (XXE) processing.(¼œÚú
-bsquid:S2147è"ECombine this catch with the one at line 357, which has the same body.(±ÓŽ—ÿÿÿÿÿ
-Esquid:S1481"-Remove this unused "fragment" local variable.(€Š¸î
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-csquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(¬‰µ¶

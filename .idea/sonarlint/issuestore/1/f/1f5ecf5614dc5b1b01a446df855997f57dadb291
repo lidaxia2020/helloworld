@@ -1,47 +1,0 @@
-
-}squid:S1192¯"eDefine a constant instead of duplicating this literal "Can't add attribute to 0-length text" 3 times.(¤çıü
-usquid:S1192—"XDefine a constant instead of duplicating this literal "Invalid substring range" 4 times.(ÓÔÒ¨üÿÿÿÿ
-u
-squid:S135¶"YReduce the total number of break and continue statements in this loop to use at most one.(¨À÷ıÿÿÿÿ
-zsquid:S1488ñ"]Immediately return this expression instead of assigning it to the temporary variable "other".(ü±ìÿûÿÿÿÿ
-{squid:S1149b"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
-}squid:S1149µ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(éùë‘
-‚squid:S1149¶"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ì˜‰©úÿÿÿÿ
-|squid:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬´­äÿÿÿÿÿ
-‚squid:S1149¡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Š†ß¨üÿÿÿÿ
-‚squid:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(úÆÛÿşÿÿÿÿ
-|squid:S1149¥"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¹½‡c
-‚squid:S1149¦"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(´²´¼şÿÿÿÿ
-}squid:S1149Ä"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Êº³Ô
-‚squid:S1149Å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¹û™“ıÿÿÿÿ
-‚squid:S1149¨"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆ¶“¿üÿÿÿÿ
-}squid:S1149©"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‚®ÔÉ
-vsquid:S1149ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‚«¼z
-}squid:S1149”"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñğ¶Û
-|squid:S1149•"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®ª
-‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§³ëğşÿÿÿÿ
-Osquid:S1197I"8Move the array designator from the variable to the type.(Ö«Úú
-Nsquid:S1197J"8Move the array designator from the variable to the type.(Ë±r
-Osquid:S1197K"8Move the array designator from the variable to the type.(¼©±¡
-nsquid:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Óüéİùÿÿÿÿ
-jsquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(ıÈàë
-vsquid:S3012©"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Î³çÅıÿÿÿÿ
-Psquid:S1197Ó"8Move the array designator from the variable to the type.(Œ¥İÁ
-Usquid:S1197Ö"8Move the array designator from the variable to the type.(ˆÔÂôøÿÿÿÿ
-Psquid:S1197Ù"8Move the array designator from the variable to the type.(€Ò˜â
-Usquid:S1197Œ"8Move the array designator from the variable to the type.(ç—ÃĞùÿÿÿÿ
-Osquid:S1197"8Move the array designator from the variable to the type.(Ôœ«(
-Psquid:S1197’"8Move the array designator from the variable to the type.(ËéÊÄ
-jsquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(’Š˜á
-ksquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(°ÁÑª
-‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§³ëğşÿÿÿÿ
-ksquid:ModifiersOrderCheck²"EReorder the modifiers to comply with the Java Language Specification.(©Í‡€
-Ysquid:S1126æ"AReplace this if-then-else statement by a single return statement.(–ê¥¯
-ksquid:S2975ï"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-osquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(…¯„ìüÿÿÿÿ
-Csquid:S2160ë"+Override the "equals" method in this class.(ãûü
-ksquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(ãûü
-Rsquid:S1161	":Add the "@Override" annotation above this method signature(‹ô®‡
-Nsquid:S3398İ"1Move this method into "AttributedStringIterator".(ìÚ‚‚ûÿÿÿÿ
-Nsquid:S3398£"1Move this method into "AttributedStringIterator".(ÈàÌüÿÿÿÿ
-Ssquid:S1068½"6Remove this unused "relevantAttributes" private field.(ì¼«°ûÿÿÿÿ

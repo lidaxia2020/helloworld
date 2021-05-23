@@ -1,26 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(í™¼şÿÿÿÿ
-\squid:S2583¼"DChange this condition so that it does not always evaluate to "false"(…¯èò
-\squid:S2583º"DChange this condition so that it does not always evaluate to "false"(¶©ä
-asquid:S2583½"DChange this condition so that it does not always evaluate to "false"(ë¿Ú˜øÿÿÿÿ
-xsquid:S00116`"`Rename this field "m_currentDocumentNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º˜™
-qsquid:S00116c"TRename this field "mark_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¬‚·şÿÿÿÿ
-vsquid:S00116e"YRename this field "mark_data_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‰Ñ¾ıÿÿÿÿ
-vsquid:S00116g"YRename this field "mark_char_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’±èšûÿÿÿÿ
-usquid:S00116i"XRename this field "mark_doq_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú®¸äşÿÿÿÿ
-{squid:S00116s"^Rename this field "mark_nsdeclset_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ç§†ùÿÿÿÿ
-wsquid:S00116|"_Rename this field "mark_nsdeclelem_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¡ìé
-tsquid:S00116„"[Rename this field "m_emptyNodeCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ ù¸
-ysquid:S00116Œ"`Rename this field "m_emptyNSDeclSetCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÿË©
-~squid:S00116”"eRename this field "m_emptyNSDeclSetElemsCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÚ¡ë
-tsquid:S00116œ"[Rename this field "m_emptyDataCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ•ßº
-usquid:S00116¤"\Rename this field "m_emptyCharsCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡™Á
-{squid:S00116¬"]Rename this field "m_emptyDataQNCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ô£Ïşÿÿÿÿ
-Qsquid:S1161ß":Add the "@Override" annotation above this method signature(õ¶Ó-
-Wsquid:S1161õ":Add the "@Override" annotation above this method signature(Éæ—Öúÿÿÿÿ
-gsquid:S00100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÇËì
-Rsquid:S1161ª":Add the "@Override" annotation above this method signature(Ä¿œ
-Wsquid:S1161È":Add the "@Override" annotation above this method signature(¹Ìı›üÿÿÿÿ
-Esquid:S1068]")Remove this unused "DEBUG" private field.(ÀâŞøÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(–¶¼ùıÿÿÿÿ

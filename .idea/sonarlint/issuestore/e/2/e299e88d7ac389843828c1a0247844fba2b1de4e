@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š†¼È
-Esquid:S1604±"(Make this anonymous inner class a lambda(Æ™ŒÉùÿÿÿÿ
-Esquid:S1604Ç"(Make this anonymous inner class a lambda(Æ™ŒÉùÿÿÿÿ
-Lsquid:S1133A"5Do not forget to remove this deprecated code someday.(Ð‰ÍŒ
-qsquid:S00115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶Í£P
-rsquid:S00115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶Åïœ
-isquid:S3776y"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(“·ò¦

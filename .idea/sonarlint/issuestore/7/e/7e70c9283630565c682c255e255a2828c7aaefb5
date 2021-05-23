@@ -1,10 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
-ksquid:S1192ù"SDefine a constant instead of duplicating this literal "getGetNextHandlers" 5 times.(ô†§£
-isquid:S1192ü"LDefine a constant instead of duplicating this literal "getHandlers" 7 times.(ÿäÚ®þÿÿÿÿ
-}squid:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Þ¯›±
-osquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ºÓ¤×þÿÿÿÿ
-isquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÄˆØ
-Jsquid:S1481ÿ"-Remove this unused "original" local variable.(Õœ˜õûÿÿÿÿ
-hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(‰ÆÍ‡øÿÿÿÿ
-hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(±‘˜Ûûÿÿÿÿ

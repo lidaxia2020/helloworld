@@ -1,14 +1,0 @@
-
-Lsquid:S1191""5Use classes from the Java API instead of Sun classes.(ñÜ¸†
-xsquid:S1488£"[Immediately return this expression instead of assigning it to the temporary variable "arg".(½Ğ±¾øÿÿÿÿ
-rsquid:S1149Y"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÕĞŒøÿÿÿÿ
-{squid:S1149_"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óØ¶
-‚squid:S1149½"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(úÛÂÛşÿÿÿÿ
-}squid:S1149Õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿ¾˜·
-}squid:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿÑ¹Ø
-8squid:S2129q"!Remove this "Integer" constructor(ı«¯
-Wsquid:CallToDeprecatedMethodq"/Remove this use of "Integer"; it is deprecated.(ı«¯
-8squid:S2129r"!Remove this "Integer" constructor(‡´¦
-Wsquid:CallToDeprecatedMethodr"/Remove this use of "Integer"; it is deprecated.(‡´¦
-¥%squid:RedundantThrowsDeclarationCheck¼"sRemove the declaration of thrown exception 'java.lang.ArrayIndexOutOfBoundsException' which is a runtime exception.(Â®ôº
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

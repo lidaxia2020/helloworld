@@ -1,11 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µ‡æûÿÿÿÿ
-}squid:UselessImportCheck$"TRemove this unnecessary import: same package classes are always implicitly imported.(İ†’øÿÿÿÿ
-Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÙĞÿóşÿÿÿÿ
-[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÙĞÿóşÿÿÿÿ
-4squid:S2129V"Remove this "Long" constructor(§œÓ2
-Ssquid:CallToDeprecatedMethodV",Remove this use of "Long"; it is deprecated.(§œÓ2
-:squid:S2129^"Remove this "Long" constructor(ãÒšûÿÿÿÿ
-Ysquid:CallToDeprecatedMethod^",Remove this use of "Long"; it is deprecated.(ãÒšûÿÿÿÿ
-5squid:S2129f"Remove this "Long" constructor(Å¨Øû
-Tsquid:CallToDeprecatedMethodf",Remove this use of "Long"; it is deprecated.(Å¨Øû

@@ -1,29 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(†‰£±
-_$squid:AssignmentInSubExpressionCheckª".Extract the assignment out of this expression.(†Ú„Ğ
-d$squid:AssignmentInSubExpressionCheckâ".Extract the assignment out of this expression.(ÓÄ’·ûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckô".Extract the assignment out of this expression.(ÓÄ’·ûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckŠ".Extract the assignment out of this expression.(†ÆÄÄøÿÿÿÿ
-u
-squid:S135œ"YReduce the total number of break and continue statements in this loop to use at most one.(ÖÖ––üÿÿÿÿ
-Dsquid:S1905ü"-Remove this unnecessary cast to "Comparator".(²Ò­
-Jsquid:S1905"-Remove this unnecessary cast to "Comparator".(ŒÍÉûıÿÿÿÿ
-Jsquid:S1905"-Remove this unnecessary cast to "Comparator".(ÀÛŠÖÿÿÿÿÿ
-Jsquid:S1905µ"-Remove this unnecessary cast to "Comparator".(ÀÛŠÖÿÿÿÿÿ
-Qsquid:S1161“":Add the "@Override" annotation above this method signature(å{
-asquid:HiddenFieldCheckÎ"9Rename "size" which hides the field declared at line 135.(°¦¿‹ùÿÿÿÿ
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
-Csquid:S1452—"&Remove usage of generic wildcard type.(âäıÿÿÿÿ
-Wsquid:S1161å":Add the "@Override" annotation above this method signature(ÓÎëùÿÿÿÿ
-vsquid:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï›¢ÿùÿÿÿÿ
-=squid:S1659ˆ" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
->squid:S1659ˆ"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
-vsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ÆÄÄøÿÿÿÿ
-isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºˆ¡
-Qsquid:S1161":Add the "@Override" annotation above this method signature(ºˆ¡
-=squid:S1659" Declare "hi" on a separate line.(€åä°ıÿÿÿÿ
-=squid:S1659" Declare "mc" on a separate line.(€åä°ıÿÿÿÿ
-7squid:S1659‘"Declare "a" on a separate line.(§ÿ¯Ú
-=squid:S1659¯" Declare "lo" on a separate line.(ºÀÖ×úÿÿÿÿ
-hsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ì¾ª’ıÿÿÿÿ

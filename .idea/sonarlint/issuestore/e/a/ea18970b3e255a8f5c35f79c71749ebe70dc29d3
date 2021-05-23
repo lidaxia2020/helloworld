@@ -1,6 +1,0 @@
-
-Lsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(Ç¬‘
-"squid:ClassVariableVisibilityCheck‰"PMake type a static final constant or non-public and provide accessors if needed.(ÌšÇ…
-…"squid:ClassVariableVisibilityCheck’"QMake value a static final constant or non-public and provide accessors if needed.(’åéäøÿÿÿÿ
-Š"squid:ClassVariableVisibilityCheck›"VMake otherValue a static final constant or non-public and provide accessors if needed.(ú«Ó»úÿÿÿÿ
-asquid:S4201÷"IRemove this unnecessary null check; "instanceof" returns false for nulls.(„ĞÖÆ

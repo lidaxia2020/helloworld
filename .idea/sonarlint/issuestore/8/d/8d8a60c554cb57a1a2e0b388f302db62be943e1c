@@ -1,61 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-qsquid:S00115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èº¯u
-wsquid:S00115W"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í¥Ùœøÿÿÿÿ
-wsquid:S00115k"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ô‚¬Íıÿÿÿÿ
-wsquid:S00115}"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å¯Öºÿÿÿÿÿ
-xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼Æ²àüÿÿÿÿ
-ssquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…ş×ò
-ssquid:S00115°"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÚ£Á
-nsquid:S1149è"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°˜ñã
-ssquid:S1149ì"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(•‡ğ¶şÿÿÿÿ
-ssquid:S1149ò"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(˜É ãıÿÿÿÿ
-nsquid:S1149ó"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÔÂÌë
-isquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(Èº¯u
-osquid:ModifiersOrderCheckW"EReorder the modifiers to comply with the Java Language Specification.(Í¥Ùœøÿÿÿÿ
-osquid:ModifiersOrderCheckk"EReorder the modifiers to comply with the Java Language Specification.(Ô‚¬Íıÿÿÿÿ
-osquid:ModifiersOrderCheck}"EReorder the modifiers to comply with the Java Language Specification.(å¯Öºÿÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¼Æ²àüÿÿÿÿ
-ksquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(…ş×ò
-ksquid:ModifiersOrderCheck°"EReorder the modifiers to comply with the Java Language Specification.(ÎÚ£Á
-¤%squid:RedundantThrowsDeclarationCheck¾"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckÎ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckŞ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckî"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckş"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckŠ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckš"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckª"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckº"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-psquid:ModifiersOrderCheckÔ"EReorder the modifiers to comply with the Java Language Specification.(ÇŒüÎûÿÿÿÿ
-^squid:S1126Ö"AReplace this if-then-else statement by a single return statement.(ù¨À°úÿÿÿÿ
-psquid:ModifiersOrderCheckò"EReorder the modifiers to comply with the Java Language Specification.(˜É ãıÿÿÿÿ
-ksquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(ÔÂÌë
->squid:S2129õ"!Remove this "Integer" constructor(©€ÌÙşÿÿÿÿ
-]squid:CallToDeprecatedMethodõ"/Remove this use of "Integer"; it is deprecated.(©€ÌÙşÿÿÿÿ
-9squid:S2129ö"!Remove this "Integer" constructor(Ï°Ö¹
-Xsquid:CallToDeprecatedMethodö"/Remove this use of "Integer"; it is deprecated.(Ï°Ö¹
-9squid:S2129÷"!Remove this "Integer" constructor(à³
-Xsquid:CallToDeprecatedMethod÷"/Remove this use of "Integer"; it is deprecated.(à³
-9squid:S2129ø"!Remove this "Integer" constructor(åÄ˜‚
-Xsquid:CallToDeprecatedMethodø"/Remove this use of "Integer"; it is deprecated.(åÄ˜‚
-9squid:S2129ù"!Remove this "Integer" constructor(øİ¡î
-Xsquid:CallToDeprecatedMethodù"/Remove this use of "Integer"; it is deprecated.(øİ¡î
-8squid:S2129ú"!Remove this "Integer" constructor(æ¹«D
-Wsquid:CallToDeprecatedMethodú"/Remove this use of "Integer"; it is deprecated.(æ¹«D
-9squid:S2129û"!Remove this "Integer" constructor(Œ³¥ë
-Xsquid:CallToDeprecatedMethodû"/Remove this use of "Integer"; it is deprecated.(Œ³¥ë
->squid:S2129ü"!Remove this "Integer" constructor(ø§ë·ıÿÿÿÿ
-]squid:CallToDeprecatedMethodü"/Remove this use of "Integer"; it is deprecated.(ø§ë·ıÿÿÿÿ
->squid:S2129ı"!Remove this "Integer" constructor(ŠİÖŠÿÿÿÿÿ
-]squid:CallToDeprecatedMethodı"/Remove this use of "Integer"; it is deprecated.(ŠİÖŠÿÿÿÿÿ
->squid:S2129ş"!Remove this "Integer" constructor(¸ÛÅøÿÿÿÿ
-]squid:CallToDeprecatedMethodş"/Remove this use of "Integer"; it is deprecated.(¸ÛÅøÿÿÿÿ
-9squid:S2129ÿ"!Remove this "Integer" constructor(ÇÅŒ¤
-Xsquid:CallToDeprecatedMethodÿ"/Remove this use of "Integer"; it is deprecated.(ÇÅŒ¤
-9squid:S2129€"!Remove this "Integer" constructor(Á´˜
-Xsquid:CallToDeprecatedMethod€"/Remove this use of "Integer"; it is deprecated.(Á´˜
-9squid:S2129"!Remove this "Integer" constructor(ˆ¨±ë
-Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ˆ¨±ë
-9squid:S2129‚"!Remove this "Integer" constructor(Å¯Œ£
-Xsquid:CallToDeprecatedMethod‚"/Remove this use of "Integer"; it is deprecated.(Å¯Œ£

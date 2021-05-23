@@ -1,15 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬íü×
-]squid:S1192)"GDefine a constant instead of duplicating this literal "value" 17 times.(³€›Y
-hsquid:S1192ä"KDefine a constant instead of duplicating this literal "OpaqueTile" 3 times.(ö¨¸Œÿÿÿÿÿ
-fsquid:S1192¨"IDefine a constant instead of duplicating this literal "Document" 5 times.(Â¡†ïüÿÿÿÿ
-isquid:S1192‹"LDefine a constant instead of duplicating this literal "Compression" 5 times.(»§ª¢øÿÿÿÿ
-hsquid:S1192‚"PDefine a constant instead of duplicating this literal "BackgroundColor" 4 times.(‰—Ë¡
-ssquid:S1192î"VDefine a constant instead of duplicating this literal "ImageModificationTime" 7 times.(ç¶îÏıÿÿÿÿ
-jsquid:S1192Ì"RDefine a constant instead of duplicating this literal "ImageCreationTime" 7 times.(‚Úøª
-esquid:S1192³"MDefine a constant instead of duplicating this literal "Transparency" 6 times.(Ü­Å
-isquid:S1192p"MDefine a constant instead of duplicating this literal "PaletteEntry" 6 times.(ÿå¨ñùÿÿÿÿ
-csquid:S1192Ù"KDefine a constant instead of duplicating this literal "Dimension" 13 times.(¨Ú‘ï
-hsquid:S1192Ô"PDefine a constant instead of duplicating this literal "TransparentTile" 3 times.(åÊíÏ
-bsquid:S1192”"JDefine a constant instead of duplicating this literal "TextEntry" 6 times.(ŞŒ’
-^squid:S11921"GDefine a constant instead of duplicating this literal "Chroma" 8 times.(’ß™à

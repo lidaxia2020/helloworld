@@ -1,32 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê Ş’
-Msquid:S1172"0Remove this unused method parameter "className".(‘ÒıÛûÿÿÿÿ
-Csquid:S1172š"+Remove this unused method parameter "name".(¾à ¶
-Å%squid:RedundantThrowsDeclarationCheckÓ"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(Şçì«
-Å%squid:RedundantThrowsDeclarationCheckí"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(Şçì«
-Usquid:S1197é"8Move the array designator from the variable to the type.(¯”Î¥úÿÿÿÿ
-Usquid:S1197é"8Move the array designator from the variable to the type.(¯”Î¥úÿÿÿÿ
-Å%squid:RedundantThrowsDeclarationCheck‹"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(Şçì«
-Å%squid:RedundantThrowsDeclarationCheckª"’Remove the declaration of thrown exception 'javax.management.MBeanRegistrationException' which is a subclass of 'javax.management.MBeanException'.(Şçì«
-Usquid:S1197¥"8Move the array designator from the variable to the type.(ßğ«úÿÿÿÿ
-Psquid:S1197¦"8Move the array designator from the variable to the type.(‘ˆÛÂ
-Î%squid:RedundantThrowsDeclarationCheckÆ"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(¸ß™üÿÿÿÿ
-Rsquid:S1133Å"5Do not forget to remove this deprecated code someday.(ìîı†ûÿÿÿÿ
-Vsquid:MissingDeprecatedCheckÅ"(Add the missing @deprecated Javadoc tag.(ìîı†ûÿÿÿÿ
-Wsquid:S1161Å":Add the "@Override" annotation above this method signature(ìîı†ûÿÿÿÿ
-Lsquid:S1133Ó"5Do not forget to remove this deprecated code someday.(ÅÁª
-
-Psquid:MissingDeprecatedCheckÓ"(Add the missing @deprecated Javadoc tag.(ÅÁª
-
-Qsquid:S1161Ó":Add the "@Override" annotation above this method signature(ÅÁª
-
-É%squid:RedundantThrowsDeclarationCheckå"–Remove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(……­
-Msquid:S1133á"5Do not forget to remove this deprecated code someday.(ÈúÖ
-Qsquid:MissingDeprecatedChecká"(Add the missing @deprecated Javadoc tag.(ÈúÖ
-Rsquid:S1161á":Add the "@Override" annotation above this method signature(ÈúÖ
-Usquid:S1197†"8Move the array designator from the variable to the type.(ßğ«úÿÿÿÿ
-Psquid:S1197‡"8Move the array designator from the variable to the type.(‘ˆÛÂ
-Usquid:S1197¢"8Move the array designator from the variable to the type.(¯”Î¥úÿÿÿÿ
-Usquid:S1197¢"8Move the array designator from the variable to the type.(¯”Î¥úÿÿÿÿ
-Usquid:S1197±"8Move the array designator from the variable to the type.(¯”Î¥úÿÿÿÿ
-Usquid:S1197±"8Move the array designator from the variable to the type.(¯”Î¥úÿÿÿÿ

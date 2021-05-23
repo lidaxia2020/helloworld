@@ -1,12 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
-^$squid:AssignmentInSubExpressionCheckJ".Extract the assignment out of this expression.(ùÐð
-jsquid:MaximumInheritanceDepth>"<This class has 6 parents which is greater than 5 authorized.(¤´ðàüÿÿÿÿ
-msquid:S00116@"PRename this field "_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÊ¥Ïÿÿÿÿÿ
-nsquid:S00116A"QRename this field "_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÑÍÑþÿÿÿÿ
-msquid:S00116B"PRename this field "_loop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢â„þÿÿÿÿ
-Qsquid:S1161T":Add the "@Override" annotation above this method signature(­Ž‘“
-Vsquid:S1161i":Add the "@Override" annotation above this method signature(šžíïÿÿÿÿÿ
-Qsquid:S1161p":Add the "@Override" annotation above this method signature(†“‹Ø
-Rsquid:S1161É":Add the "@Override" annotation above this method signature(Á»›ê
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

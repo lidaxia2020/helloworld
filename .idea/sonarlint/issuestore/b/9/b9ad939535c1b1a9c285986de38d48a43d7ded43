@@ -1,56 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÎÚ¶…øÿÿÿÿ
-rsquid:S1488é"[Immediately return this expression instead of assigning it to the temporary variable "del".(‡×µr
-vsquid:S1488û"^Immediately return this expression instead of assigning it to the temporary variable "result".(—ßÒ
-@squid:S1604û"(Make this anonymous inner class a lambda(—ßÒ
-zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ùàíşüÿÿÿÿ
-Vsquid:UselessImportCheck'"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-Ssquid:UselessImportCheck("*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
-Ssquid:UselessImportCheck+"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
-csquid:UselessImportCheckB":Remove this unused import 'org.omg.CORBA.DATA_CONVERSION'.(®˜Ù‘øÿÿÿÿ
-Tsquid:UselessImportCheck&"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-Usquid:UselessImportCheck3"1Remove this unused import 'java.util.Properties'.(¬µ²
-Xsquid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Field'.(„‡Áú
-\squid:UselessImportCheck*"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊşÿÿÿÿ
-isquid:UselessImportCheckO"@Remove this unused import 'com.sun.corba.se.spi.orb.ORBVersion'.(·›â‰ùÿÿÿÿ
-^squid:UselessImportCheck"5Remove this unused import 'java.lang.reflect.Method'.(Í“¯äüÿÿÿÿ
-_squid:UselessImportCheck4"6Remove this unused import 'java.util.IdentityHashMap'.(¨Ô‡Óşÿÿÿÿ
-Ysquid:UselessImportCheck,"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ
-dsquid:UselessImportCheck ";Remove this unused import 'java.rmi.NoSuchObjectException'.(òÇô›ûÿÿÿÿ
-Wsquid:UselessImportCheck.".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
-Qsquid:UselessImportCheck/".Remove this unused import 'java.util.HashSet'.(Ê‚êX
-Ssquid:UselessImportCheck1"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-nsquid:S1149—"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(îµúÙ
-nsquid:S1149˜"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¨°Êù
-bsquid:S2147Š"ECombine this catch with the one at line 136, which has the same body.(ØŸÎşÿÿÿÿ
-Wsquid:S1854Ü":Remove this useless assignment to local variable "offset".(¤ÊçÉúÿÿÿÿ
-=squid:S1659×" Declare "b2" on a separate line.(ùìÃ»üÿÿÿÿ
-=squid:S1659×" Declare "b3" on a separate line.(ùìÃ»üÿÿÿÿ
-=squid:S1659×" Declare "b4" on a separate line.(ùìÃ»üÿÿÿÿ
-Wsquid:S1854ñ":Remove this useless assignment to local variable "offset".(³¨ë“şÿÿÿÿ
-^squid:S1126×"AReplace this if-then-else statement by a single return statement.(‘Ê¹Áÿÿÿÿÿ
-Bsquid:S00108ˆ")Either remove or fill this block of code.(ÛÈë
-osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÈßÑûÿÿÿÿ
-[squid:S3358ø"DExtract this nested ternary operation into an independent statement.(Ñ‘ûT
-[squid:S3358ú"DExtract this nested ternary operation into an independent statement.(ÈŞ€J
-U
-squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(Á£ºïıÿÿÿÿ
-U
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(›Äæ÷üÿÿÿÿ
-P
-squid:S106„"9Replace this use of System.out or System.err by a logger.(õå¢
-P
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ÆÀûı
-P
-squid:S106’"9Replace this use of System.out or System.err by a logger.(ÆÀûı
-P
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(ÆÀûı
-qsquid:S3012³"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•ãÔù
-Q"squid:SwitchLastCaseIsDefaultCheckã""Add a default case to this switch.(ƒş®ü
-asquid:S1871å"IThis case's code block is the same as the block for the case on line 868.(åÅÏ¯
-fsquid:S1871æ"IThis case's code block is the same as the block for the case on line 868.(„­˜âúÿÿÿÿ
-asquid:S1871è"IThis case's code block is the same as the block for the case on line 868.(ËÄå
-fsquid:S1871ç"IThis case's code block is the same as the block for the case on line 868.(ùˆŠûÿÿÿÿ
-asquid:S1871é"IThis case's code block is the same as the block for the case on line 868.(—‘º
-|squid:S1149ı"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥ŸÎ¸ùÿÿÿÿ
-csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ËÄå

@@ -1,11 +1,0 @@
-
-Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‰ŒÒş
-Ksquid:EmptyStatementUsageChecks"Remove this empty statement.(ôŸìúÿÿÿÿ
-]squid:S2147”"ECombine this catch with the one at line 146, which has the same body.(Å¡ß
-\squid:CallToDeprecatedMethod‘"3Remove this use of "newInstance"; it is deprecated.(€›Ğ
-esquid:CallToDeprecatedMethod“"<Remove this use of "KeyResolverException"; it is deprecated.(ÄıĞ‘
-esquid:CallToDeprecatedMethod•"<Remove this use of "KeyResolverException"; it is deprecated.(ÄıĞ‘
-Lsquid:EmptyStatementUsageCheck­"Remove this empty statement.(ôŸìúÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckÙ"Remove this empty statement.(ôŸìúÿÿÿÿ
->squid:S1172‚"&Remove these unused method parameters.(ù³£”
-vsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(–öëäøÿÿÿÿ

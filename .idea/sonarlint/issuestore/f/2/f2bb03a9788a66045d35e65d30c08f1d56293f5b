@@ -1,11 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Â¹åÂ
-Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µ²
-rsquid:S001159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸úëŠ
-jsquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(¸úëŠ
-Tsquid:S1197;"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
-Tsquid:S1197A"8Move the array designator from the variable to the type.(Îã¯Ëıÿÿÿÿ
-T
-squid:S106`"9Replace this use of System.out or System.err by a logger.(àÏÎÛúÿÿÿÿ
-O
-squid:S106g"9Replace this use of System.out or System.err by a logger.(Ç¡«…

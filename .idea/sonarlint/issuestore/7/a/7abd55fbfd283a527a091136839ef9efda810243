@@ -1,5 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ƒ·¸ëúÿÿÿÿ
-wsquid:S001159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ÏÃıÿÿÿÿ
-Psquid:S1161H":Add the "@Override" annotation above this method signature(¸É
-isquid:CallToDeprecatedMethodl"ARemove this use of "CanonicalizationException"; it is deprecated.(˜éà¡

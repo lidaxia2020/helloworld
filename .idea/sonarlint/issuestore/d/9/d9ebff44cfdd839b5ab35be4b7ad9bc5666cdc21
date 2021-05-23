@@ -1,51 +1,0 @@
-
-Ksquid:S1191""5Use classes from the Java API instead of Sun classes.(”c
-fsquid:S1192ğ"NDefine a constant instead of duplicating this literal "Socket Closed" 5 times.(¨ Çá
-Gsquid:S1066Ê"/Merge this if statement with the enclosing one.(æ¤“®
-?squid:S1604["(Make this anonymous inner class a lambda(’­Ûü
-‚squid:S1845»"eRename field "SHUT_RD" to prevent any misunderstanding/clash with field "shut_rd" defined on line 56.(Í÷Æ¬şÿÿÿÿ
-‚squid:S1845¼"eRename field "SHUT_WR" to prevent any misunderstanding/clash with field "shut_wr" defined on line 57.(¹ÂĞôøÿÿÿÿ
-isquid:S001168"RRename this field "shut_rd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÎ¡ 
-osquid:S001169"RRename this field "shut_wr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÈÄ¿ıÿÿÿÿ
-wsquid:S00116H"_Rename this field "CONNECTION_NOT_RESET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¼—
-€squid:S00116I"cRename this field "CONNECTION_RESET_PENDING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûâøøÿÿÿÿ
-xsquid:S00116J"[Rename this field "CONNECTION_RESET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆëÌ½ùÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheckŒ"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ˆ¨Šûÿÿÿÿ
-3squid:S3626´"Remove this redundant jump.(ûÁİ…
-fsquid:S4201Î"IRemove this unnecessary null check; "instanceof" returns false for nulls.(­»Øşÿÿÿÿ
-jsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(öı
-fsquid:S4201„"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ˆ¿œÓüÿÿÿÿ
-asquid:S4201Œ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ü°½
-asquid:S4201”"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¨ÓºÊ
-asquid:S4201š"IRemove this unnecessary null check; "instanceof" returns false for nulls.(õÇ‘ó
-Fsquid:S1940›")Use the opposite operator ("<=") instead.(ºÊšùüÿÿÿÿ
-asquid:S4201¡"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¨ÓºÊ
-asquid:S4201¦"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¨ÓºÊ
-asquid:S4201«"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¨ÓºÊ
-Tsquid:S1854Ö"7Remove this useless assignment to local variable "ret".(›¼ûÿÿÿÿ
->squid:S2129¹"!Remove this "Integer" constructor(´»èÿÿÿÿÿ
-]squid:CallToDeprecatedMethod¹"/Remove this use of "Integer"; it is deprecated.(´»èÿÿÿÿÿ
-`squid:S1871ã"IThis case's code block is the same as the block for the case on line 328.(­¾Ô
-`squid:S1871Ë"IThis case's code block is the same as the block for the case on line 328.(•Îñ!
-`squid:S1871Ñ"IThis case's code block is the same as the block for the case on line 328.(øìè
-9squid:S2129Ğ"!Remove this "Integer" constructor(«Ö
-Xsquid:CallToDeprecatedMethodĞ"/Remove this use of "Integer"; it is deprecated.(«Ö
->squid:S2129Û"!Remove this "Integer" constructor(¼½Îçıÿÿÿÿ
-]squid:CallToDeprecatedMethodÛ"/Remove this use of "Integer"; it is deprecated.(¼½Îçıÿÿÿÿ
->squid:S2129ß"!Remove this "Integer" constructor(ßÁ¤ıûÿÿÿÿ
-]squid:CallToDeprecatedMethodß"/Remove this use of "Integer"; it is deprecated.(ßÁ¤ıûÿÿÿÿ
->squid:S2129á"!Remove this "Integer" constructor(¼½Îçıÿÿÿÿ
-]squid:CallToDeprecatedMethodá"/Remove this use of "Integer"; it is deprecated.(¼½Îçıÿÿÿÿ
-fsquid:S2886İ"ISynchronize this method to match the synchronization on "getInputStream".(ÉŠìœùÿÿÿÿ
-Bsquid:S00108²")Either remove or fill this block of code.(ƒóö
-3squid:S3626Ú"Remove this redundant jump.(ûÁİ…
-Rsquid:S1161ï":Add the "@Override" annotation above this method signature(÷æÔø
-Wsquid:S1161ş":Add the "@Override" annotation above this method signature(«€§äÿÿÿÿÿ
-Qsquid:S1161":Add the "@Override" annotation above this method signature(­…ÆO
-Rsquid:S1161•":Add the "@Override" annotation above this method signature(ÿ¸øĞ
-ssquid:CallToDeprecatedMethod¦"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÏæÉå
-\"squid:ObjectFinalizeOverridenCheck¦"-Do not override the Object.finalize() method.(ÏæÉå
-Bsquid:S00108Í")Either remove or fill this block of code.(ï­£Ä
-Ysquid:S1126€"AReplace this if-then-else statement by a single return statement.(Â³š‹
-psquid:ModifiersOrderCheck»"EReorder the modifiers to comply with the Java Language Specification.(Í÷Æ¬şÿÿÿÿ
-psquid:ModifiersOrderCheck¼"EReorder the modifiers to comply with the Java Language Specification.(¹ÂĞôøÿÿÿÿ

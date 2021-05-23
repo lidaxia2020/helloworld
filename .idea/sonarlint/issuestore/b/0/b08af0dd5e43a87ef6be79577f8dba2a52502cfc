@@ -1,31 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÓÕ®•ıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck«".Extract the assignment out of this expression.(ù Áıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(ù Áıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckŸ".Extract the assignment out of this expression.(éûˆ¥ÿÿÿÿÿ
-asquid:S2583Ã"DChange this condition so that it does not always evaluate to "false"(Ó¯ß½úÿÿÿÿ
-asquid:S2583Õ"DChange this condition so that it does not always evaluate to "false"(Ó¯ß½úÿÿÿÿ
-asquid:S2583³"DChange this condition so that it does not always evaluate to "false"(Ó¯ß½úÿÿÿÿ
-asquid:S2583à"DChange this condition so that it does not always evaluate to "false"(Ó¯ß½úÿÿÿÿ
-asquid:S2583›"DChange this condition so that it does not always evaluate to "false"(Ó¯ß½úÿÿÿÿ
-Tsquid:S2589Ò"7Remove this expression which always evaluates to "true"(÷ª»îúÿÿÿÿ
-Tsquid:S2589«"7Remove this expression which always evaluates to "true"(÷ª»îúÿÿÿÿ
-Osquid:S2589˜"7Remove this expression which always evaluates to "true"(¢ìÃî
-Dsquid:S1948~"-Make "elementData" transient or serializable.(‹—Á•
-ksquid:S2975à"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(˜øãô
-Esquid:S1185Î"(Remove this method to simply inherit it.(°†ûşÿÿÿÿ
-@squid:S1185ƒ	"(Remove this method to simply inherit it.(°«Ğ•
-Esquid:S1185	"(Remove this method to simply inherit it.(‹˜©§úÿÿÿÿ
-Rsquid:S1161ñ	":Add the "@Override" annotation above this method signature(µ™¬ù
-Wsquid:S1161µ
-":Add the "@Override" annotation above this method signature(¯œ˜ùÿÿÿÿ
-Wsquid:S1161¯":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-hsquid:HiddenFieldCheckÅ"@Rename "elementData" which hides the field declared at line 126.(’½âûÿÿÿÿ
-hsquid:HiddenFieldCheck–"@Rename "elementData" which hides the field declared at line 126.(Şç·…øÿÿÿÿ
-isquid:HiddenFieldCheck—"ARename "elementCount" which hides the field declared at line 139.(Â×¢üÿÿÿÿ
-=squid:S1659" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
->squid:S1659"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
-vsquid:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(éûˆ¥ÿÿÿÿÿ
-Qsquid:S1161³":Add the "@Override" annotation above this method signature(ºˆ¡
-8squid:S1659´" Declare "hi" on a separate line.(†Ã…–
-7squid:S1659µ"Declare "a" on a separate line.(œÙí±

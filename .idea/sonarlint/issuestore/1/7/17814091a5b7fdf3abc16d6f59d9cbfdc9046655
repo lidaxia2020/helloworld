@@ -1,120 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheckÕ"XRefactor the code in order to not assign to this loop counter from within the loop body.(×ÃıÀùÿÿÿÿ
-psquid:S1192ê"SDefine a constant instead of duplicating this literal "Attempt to insert " 4 times.(³«•¹ıÿÿÿÿ
-`squid:S1192Ğ("HDefine a constant instead of duplicating this literal "Index: " 3 times.(ÚÏäÑ
-d$squid:AssignmentInSubExpressionCheck–".Extract the assignment out of this expression.(áÎ­îûÿÿÿÿ
-squid:S1319¿/"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(™øÆıÿÿÿÿ
-5squid:S2386ó&"Make this member "protected".(Ä´ññ
-:squid:S2386Š("Make this member "protected".(ğÉ§ªüÿÿÿÿ
-:squid:S2386€)"Make this member "protected".(íÙ§Éûÿÿÿÿ
-Psquid:S1197­"8Move the array designator from the variable to the type.(·ô©
-osquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(é…¯ıÿÿÿÿ
-osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ş™çÏùÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheckÍ";Refactor the code to remove this label and the need for it.(±À¼–úÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheckÖ";Refactor the code to remove this label and the need for it.(±À¼–úÿÿÿÿ
-jsquid:S3776ƒ	"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(‹Ôª¶
-m squid:LabelsShouldNotBeUsedCheckŠ	";Refactor the code to remove this label and the need for it.(±À¼–úÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheck•	";Refactor the code to remove this label and the need for it.(±À¼–úÿÿÿÿ
-;squid:S1948Ø	"#Make "c" transient or serializable.(ñÖû£
-Wsquid:S1161í	":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Hsquid:S2160ó
-"+Override the "equals" method in this class.(ëúŠÅüÿÿÿÿ
-Asquid:S1948÷
-"$Make "ss" transient or serializable.(ñèË¡ıÿÿÿÿ
-Csquid:S2160´"+Override the "equals" method in this class.(Ôò’å
-Jsquid:S2390Ñ"-Remove this reference to "EmptyNavigableSet".(Û—„ùÿÿÿÿ
-<squid:S1948Ù"$Make "ns" transient or serializable.(›øî˜
-Csquid:S1948"&Make "list" transient or serializable.(©ĞíŒşÿÿÿÿ
-bsquid:S2062÷"EMake this class "private" or elevate the visibility of "readResolve".(ŒÇ«Óüÿÿÿÿ
-Rsquid:S1161Š":Add the "@Override" annotation above this method signature(¾ 
-@squid:S1948Ã"#Make "m" transient or serializable.(á¾£Íşÿÿÿÿ
-msquid:S1206ä"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
-Rsquid:S1161Ï":Add the "@Override" annotation above this method signature(¹ÈÈâ
-Rsquid:S1161‹":Add the "@Override" annotation above this method signature(°‘éé
-Wsquid:S1161¤":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-\squid:S2175Ñ"DA "Collection<? extends Entry>" cannot contain a "UnmodifiableEntry"(¼•¢‹
-Wsquid:S1161ä":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
-Hsquid:S2160¸"+Override the "equals" method in this class.(¥ÿÎöøÿÿÿÿ
-Asquid:S1948½"$Make "sm" transient or serializable.(Ğôûıúÿÿÿÿ
-Csquid:S2160ğ"+Override the "equals" method in this class.(ÙÈåà
-Esquid:S2390•"-Remove this reference to "EmptyNavigableMap".(Ñï•Ö
-<squid:S1948"$Make "nm" transient or serializable.(£¥í
-;squid:S1948±"#Make "c" transient or serializable.(†¸Š
-?squid:S1948²"'Make "mutex" transient or serializable.(®üŞË
-Hsquid:S2160"+Override the "equals" method in this class.(íŠşÿÿÿÿ
-Asquid:S1948–"$Make "ss" transient or serializable.(ñèË¡ıÿÿÿÿ
-Hsquid:S2160‚"+Override the "equals" method in this class.(ñ‹îœüÿÿÿÿ
-<squid:S1948ˆ"$Make "ns" transient or serializable.(›øî˜
-Csquid:S1948ƒ"&Make "list" transient or serializable.(ó½µ”ÿÿÿÿÿ
-bsquid:S2062Ú"EMake this class "private" or elevate the visibility of "readResolve".(ŒÇ«Óüÿÿÿÿ
-Rsquid:S1161ò":Add the "@Override" annotation above this method signature(¾ 
-;squid:S1948Á"#Make "m" transient or serializable.(‹·Şé
-?squid:S1948Â"'Make "mutex" transient or serializable.(®üŞË
-Csquid:S2160’"+Override the "equals" method in this class.(ùæ§Î
-<squid:S1948˜"$Make "sm" transient or serializable.(Şİ—Ó
-Hsquid:S2160"+Override the "equals" method in this class.(ŸôÈùÿÿÿÿ
-Asquid:S1948•"$Make "nm" transient or serializable.(ÄÃ¤ùÿÿÿÿ
-@squid:S1948ß"#Make "c" transient or serializable.(µ¨ş×øÿÿÿÿ
-Psquid:S1948’"8Make "zeroLengthElementArray" transient or serializable.(ì€Åû
-Wsquid:S1161":Add the "@Override" annotation above this method signature(œüÑ‹ÿÿÿÿÿ
-?squid:S1948û"'Make "queue" transient or serializable.(üÛ²
-Csquid:S2160ö"+Override the "equals" method in this class.(Šì©¸
-Asquid:S1948û"$Make "ss" transient or serializable.(ñèË¡ıÿÿÿÿ
-Hsquid:S2160Â"+Override the "equals" method in this class.(¯ãŞ‹ıÿÿÿÿ
-<squid:S1948Ç"$Make "ns" transient or serializable.(›øî˜
-Csquid:S1948¦"&Make "list" transient or serializable.(ó½µ”ÿÿÿÿÿ
-Rsquid:S1161† ":Add the "@Override" annotation above this method signature(¾ 
-;squid:S1948Ğ "#Make "m" transient or serializable.(ü†ú
-gsquid:HiddenFieldCheck""?Rename "valueType" which hides the field declared at line 4343.(úÆ¸®ûÿÿÿÿ
-Wsquid:S1161‘"":Add the "@Override" annotation above this method signature(ŒÆÖÃÿÿÿÿÿ
-Ssquid:S2175ä""6A "Set<Entry>" cannot contain a "SimpleImmutableEntry"(õûé²úÿÿÿÿ
-Hsquid:S2160ø#"+Override the "equals" method in this class.(Â‡üÇşÿÿÿÿ
-<squid:S1948ı#"$Make "sm" transient or serializable.(Şİ—Ó
-Hsquid:S2160Ó$"+Override the "equals" method in this class.(‘„ğÃÿÿÿÿÿ
-Asquid:S1948Ø$"$Make "nm" transient or serializable.(ÄÃ¤ùÿÿÿÿ
-Rsquid:S1161ı%":Add the "@Override" annotation above this method signature(å„Ø
-Hsquid:S1150á&"+Implement Iterator rather than Enumeration.(ã¢®˜ıÿÿÿÿ
-™squid:S1186ã("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é±Şâ
-Qsquid:S1161º(":Add the "@Override" annotation above this method signature(¹æá5
-Rsquid:S1161½(":Add the "@Override" annotation above this method signature(¥÷Ğ¥
-Wsquid:S1161Ó(":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
-Wsquid:S1161×(":Add the "@Override" annotation above this method signature(Ñ°ßĞùÿÿÿÿ
-Wsquid:S1161ê)":Add the "@Override" annotation above this method signature(î˜Ïúÿÿÿÿ
-Wsquid:S1161ë)":Add the "@Override" annotation above this method signature(ªğÛÃøÿÿÿÿ
-Wsquid:S1161ì)":Add the "@Override" annotation above this method signature(Í÷Ãèúÿÿÿÿ
-Wsquid:S1161í)":Add the "@Override" annotation above this method signature(«È¢şûÿÿÿÿ
-Wsquid:S1161î)":Add the "@Override" annotation above this method signature(›°Áüùÿÿÿÿ
-Rsquid:S1161ï)":Add the "@Override" annotation above this method signature(©©ÁĞ
-Rsquid:S1161ğ)":Add the "@Override" annotation above this method signature(ş³Ä
-Wsquid:S1161ó)":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
-Wsquid:S1161÷)":Add the "@Override" annotation above this method signature(™ìôÿÿÿÿÿ
-Wsquid:S1161Û*":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Csquid:S2160 +"+Override the "equals" method in this class.(…È­
-Fsquid:S1948¦+")Make "element" transient or serializable.(ò•õ¯ÿÿÿÿÿ
-Hsquid:S2160×+"+Override the "equals" method in this class.(˜Ş”÷úÿÿÿÿ
-™squid:S1186ı+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é±Şâ
-Fsquid:S1948İ+")Make "element" transient or serializable.(ò•õ¯ÿÿÿÿÿ
-Qsquid:S1161á+":Add the "@Override" annotation above this method signature(¹æá5
-Csquid:S2160,"+Override the "equals" method in this class.(¹óğÖ
-Nsquid:S2387±,"1"keySet" is the name of a field in "AbstractMap".(ôœ”üûÿÿÿÿ
-Isquid:S2387³,"1"values" is the name of a field in "AbstractMap".(™ò™ã
-@squid:S1948£,"#Make "k" transient or serializable.(°·œÅıÿÿÿÿ
-;squid:S1948¤,"#Make "v" transient or serializable.(­™øŞ
-Rsquid:S1161«,":Add the "@Override" annotation above this method signature(ºì¯Ê
-Rsquid:S1161¬,":Add the "@Override" annotation above this method signature(êÈ°ÿ
-Rsquid:S1161­,":Add the "@Override" annotation above this method signature(›åÜÉ
-Rsquid:S1161®,":Add the "@Override" annotation above this method signature(ô¢Æµ
-Rsquid:S1161¯,":Add the "@Override" annotation above this method signature(§ÒŸù
-Rsquid:S1161µ,":Add the "@Override" annotation above this method signature(æËÊ
-Rsquid:S1161Â,":Add the "@Override" annotation above this method signature(±ì½Ş
-Csquid:S2160¨-"+Override the "equals" method in this class.(æÕ³
-Asquid:S1948¯-")Make "element" transient or serializable.(‡“Õß
-Wsquid:S1161¿-":Add the "@Override" annotation above this method signature(«ÚÖİüÿÿÿÿ
-Wsquid:S1161Ã-":Add the "@Override" annotation above this method signature(ì¦Æıûÿÿÿÿ
-_squid:HiddenFieldCheck×-"7Rename "n" which hides the field declared at line 5806.(‡Îà©úÿÿÿÿ
-Rsquid:S1161å-":Add the "@Override" annotation above this method signature(¾ 
-Bsquid:S1948ô."%Make "cmp" transient or serializable.(‡Ô‘Ùúÿÿÿÿ
-@squid:S1948À1"#Make "m" transient or serializable.(òÓ°¬ûÿÿÿÿ
-Qsquid:S1161Ó1":Add the "@Override" annotation above this method signature(½üğc
-@squid:S1948š2"#Make "q" transient or serializable.(¤åƒüÿÿÿÿ
-Wsquid:S1161ª2":Add the "@Override" annotation above this method signature(Êçíõıÿÿÿÿ

@@ -1,19 +1,0 @@
-
-Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(Ç”Å§
-]squid:S1192ø"FDefine a constant instead of duplicating this literal "empty" 3 times.(´ðïQ
-ysquid:S1488Å"\Immediately return this expression instead of assigning it to the temporary variable "cert".(¤Øé¥ÿÿÿÿÿ
-gsquid:S2259“"J"NullPointerException" will be thrown when invoking method "resolveKey()".(¾¬ÅÝþÿÿÿÿ
-isquid:S2259Ý"R"NullPointerException" will be thrown when invoking method "resolveCertificate()".(Ížò
-nsquid:S3776g"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ïÿòñúÿÿÿÿ
-Vsquid:S1161g":Add the "@Override" annotation above this method signature(ïÿòñúÿÿÿÿ
-jsquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(èÄíÅ
-Rsquid:S1161·":Add the "@Override" annotation above this method signature(èÄíÅ
-Psquid:S1197µ"8Move the array designator from the variable to the type.(¸²æ’
-Psquid:S1197Á"8Move the array designator from the variable to the type.(¸²æ’
-]squid:S2147ù"ECombine this catch with the one at line 375, which has the same body.(Ãôþ•
-]squid:S2147û"ECombine this catch with the one at line 375, which has the same body.(‚°„–
-dsquid:CallToDeprecatedMethodø"<Remove this use of "KeyResolverException"; it is deprecated.(´ðïQ
-dsquid:CallToDeprecatedMethodú"<Remove this use of "KeyResolverException"; it is deprecated.(´ðïQ
-dsquid:CallToDeprecatedMethodü"<Remove this use of "KeyResolverException"; it is deprecated.(´ðïQ
-Rsquid:S1161Š":Add the "@Override" annotation above this method signature(©í»¼
-qsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ž·‰

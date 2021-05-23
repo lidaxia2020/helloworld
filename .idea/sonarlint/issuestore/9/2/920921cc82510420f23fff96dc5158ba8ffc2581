@@ -1,16 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-[squid:S1155¦">Use isEmpty() to check whether the collection is empty or not.(ÁÏ´«ıÿÿÿÿ
-[squid:S1155³">Use isEmpty() to check whether the collection is empty or not.(ÁÏ´«ıÿÿÿÿ
-osquid:S00116A"RRename this field "_select" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê÷¬çşÿÿÿÿ
-msquid:S00116B"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¼ş„ÿÿÿÿÿ
-lsquid:S00116C"TRename this field "_modeName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èŞ®
-usquid:S00116D"XRename this field "_functionName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Õñ¢şÿÿÿÿ
-‚squid:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ûÛ¡ßüÿÿÿÿ
-Vsquid:S1161F":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-Qsquid:S1161U":Add the "@Override" annotation above this method signature(ÁØ’›
-Vsquid:S1161l":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-jsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(†“‹Ø
-Rsquid:S1161„":Add the "@Override" annotation above this method signature(†“‹Ø
-asquid:S4201¤"IRemove this unnecessary null check; "instanceof" returns false for nulls.(âƒĞœ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,29 +1,0 @@
-
-Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(°¿”Œúÿÿÿÿ
-xsquid:S1192ÿ"`Define a constant instead of duplicating this literal "Unable to create temporary file" 3 times.(Š¢³Û
-osquid:S1192è"RDefine a constant instead of duplicating this literal "Invalid file path" 3 times.(¢°øÛúÿÿÿÿ
-usquid:S1192ˆ"XDefine a constant instead of duplicating this literal "getFileSystemAttributes" 3 times.(¹ŸÈÿÿÿÿÿ
-dsquid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(åÇóèşÿÿÿÿ
-_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-Fsquid:S3077˜".Remove the "volatile" keyword from this field.(İˆ²‹
-Psquid:S2675õ"3Remove the "synchronized" keyword from this method.(¤ğ¹òÿÿÿÿÿ
-ssquid:S00115×"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÓªğ
-xsquid:S00115Ş"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§†æ§üÿÿÿÿ
-xsquid:S00115ê"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’½½Âûÿÿÿÿ
-ssquid:S00115ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘÷½á
-Fsquid:S2786ª")Remove this redundant "static" qualifier.(…á£¥ıÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckª"Remove this empty statement.(…á£¥ıÿÿÿÿ
-Msquid:S1133ª"5Do not forget to remove this deprecated code someday.(ØÚÏ
->squid:S1168à"&Return an empty array instead of null.(¥¹ï
-Psquid:S1197ƒ	"8Move the array designator from the variable to the type.(¨ùï¥
-Csquid:S1168¸	"&Return an empty array instead of null.(½ëÂüÿÿÿÿ
-_squid:HiddenFieldCheckº	"7Rename "fs" which hides the field declared at line 156.(”¾™’ıÿÿÿÿ
-Psquid:S1197à	"8Move the array designator from the variable to the type.(À¿¬¨
-Csquid:S1168á	"&Return an empty array instead of null.(½ëÂüÿÿÿÿ
-Psquid:S1197†
-"8Move the array designator from the variable to the type.(À¿¬¨
-Csquid:S1168‡
-"&Return an empty array instead of null.(½ëÂüÿÿÿÿ
-`squid:S4201¿"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Û…àY
-\squid:HiddenFieldCheckı"9Rename "path" which hides the field declared at line 165.(ş»¯Š
-ksquid:ModifiersOrderCheck˜"EReorder the modifiers to comply with the Java Language Specification.(İˆ²‹

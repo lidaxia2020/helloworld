@@ -1,22 +1,0 @@
-
-^squid:S2184–"FCast one of the operands of this multiplication operation to a "long".(öÙÙ¤
-]squid:S2184—"FCast one of the operands of this multiplication operation to a "long".(‚ì…}
-csquid:S2184˜"FCast one of the operands of this multiplication operation to a "long".(«±¹šùÿÿÿÿ
-csquid:S2184™"FCast one of the operands of this multiplication operation to a "long".(½âÔ¥üÿÿÿÿ
-^squid:S2184š"FCast one of the operands of this multiplication operation to a "long".(Ü ı
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
-psquid:S1192ë"SDefine a constant instead of duplicating this literal "' has wrong format" 3 times.(Òƒä²ıÿÿÿÿ
-Osquid:S2589 "7Remove this expression which always evaluates to "true"(“ïî©
-|squid:S1149ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ªÙÆîøÿÿÿÿ
-isquid:ModifiersOrderCheckD"EReorder the modifiers to comply with the Java Language Specification.(ğ×„$
-Ç%squid:RedundantThrowsDeclarationCheck^"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDateTimeException' which is a runtime exception.(‰’íÅıÿÿÿÿ
-nsquid:S3776^"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(‰’íÅıÿÿÿÿ
-Ssquid:S1854í";Remove this useless assignment to local variable "resultB".(ÁÆ¼Ñ
-Wsquid:S1161æ":Add the "@Override" annotation above this method signature(«ĞÑÌøÿÿÿÿ
-=squid:S1659í"%Declare "resultB" on a separate line.(ÁÆ¼Ñ
-¡%squid:RedundantThrowsDeclarationCheckä"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(İë¯ûÿÿÿÿ
-Rsquid:S1161ã":Add the "@Override" annotation above this method signature(´ñƒÑ
-Wsquid:S1161÷":Add the "@Override" annotation above this method signature(Ïş‡şÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(÷Ï¹ÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(£ä™¤

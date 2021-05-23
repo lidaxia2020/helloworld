@@ -1,10 +1,0 @@
-
->squid:S1214?""Move constants to a class or enum.(ªÊóîÿÿÿÿÿ
-xsquid:S00115Ø"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•¦ŞÉûÿÿÿÿ
-ssquid:S00115à"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„Û´
-xsquid:S00115è"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•¿¼µşÿÿÿÿ
-xsquid:S00115ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•ÃÚøÿÿÿÿ
-psquid:ModifiersOrderCheckØ"EReorder the modifiers to comply with the Java Language Specification.(•¦ŞÉûÿÿÿÿ
-ksquid:ModifiersOrderCheckà"EReorder the modifiers to comply with the Java Language Specification.(„Û´
-psquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(•¿¼µşÿÿÿÿ
-psquid:ModifiersOrderCheckï"EReorder the modifiers to comply with the Java Language Specification.(•ÃÚøÿÿÿÿ

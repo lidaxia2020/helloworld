@@ -1,16 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Å´Ş¥
-Ysquid:S00107¢"AConstructor has 9 parameters, which is greater than 7 authorized.(ÁªÏ4
-Zsquid:S00107Ã"BConstructor has 12 parameters, which is greater than 7 authorized.(ÁªÏ4
-Vsquid:S00107†"=Method has 11 parameters, which is greater than 7 authorized.(ûşÁÇ
-qsquid:S3008"YRename this field "EMPTY_MONITORS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¨Óã
-nsquid:S3008"VRename this field "EMPTY_SYNCS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì½å¢
-fsquid:HiddenFieldCheckË"CRename "lockedMonitors" which hides the field declared at line 139.(µÓÛ–
-\squid:HiddenFieldCheckÑ"9Rename "lock" which hides the field declared at line 131.(íìÎÏ
-ksquid:HiddenFieldCheckß"HRename "lockedSynchronizers" which hides the field declared at line 140.(ÒÛÿÆ
-\squid:HiddenFieldCheckå"9Rename "lock" which hides the field declared at line 131.(ªØó—
-Osquid:S1197Ñ"8Move the array designator from the variable to the type.(°íİ
-jsquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Á»›ê
-asquid:S1871ğ"IThis case's code block is the same as the block for the case on line 748.(ÿ¬šŞ
-Ysquid:UnusedPrivateMethod¢"4Remove this unused private "ThreadInfo" constructor.(ÁªÏ4
-Ysquid:UnusedPrivateMethodÃ"4Remove this unused private "ThreadInfo" constructor.(ÁªÏ4

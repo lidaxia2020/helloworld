@@ -1,8 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
-zsquid:S1488k"^Immediately return this expression instead of assigning it to the temporary variable "result".(œí×ıÿÿÿÿ
-{squid:S1488Œ"^Immediately return this expression instead of assigning it to the temporary variable "result".(œí×ıÿÿÿÿ
-nsquid:S00116<"QRename this field "m_orig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ëŸşÿÿÿÿ
-nsquid:S00116D"VRename this field "m_freeStack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢À¢–
-Dsquid:S1948<"(Make "m_orig" transient or serializable.(³ëŸşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

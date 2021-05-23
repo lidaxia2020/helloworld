@@ -1,11 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
-†squid:S1192¹"iDefine a constant instead of duplicating this literal "(annotation?, (all | choice | sequence))" 4 times.(óÿÑ±ûÿÿÿÿ
-fsquid:S1192¬"ODefine a constant instead of duplicating this literal "group (global)" 5 times.(íØ¿ 
-qsquid:S1192r"UDefine a constant instead of duplicating this literal "s4s-elt-must-match.1" 3 times.(¾Ù œüÿÿÿÿ
-`squid:S2583"CChange this condition so that it does not always evaluate to "true"(ˆŸ¿ëûÿÿÿÿ
-jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹˜Ğ¡
-nsquid:S3776M"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ãÃ•Óıÿÿÿÿ
-Jsquid:S1172O".Remove this unused method parameter "grammar".(ïÛÅ›şÿÿÿÿ
-jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(­ûÖ§
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

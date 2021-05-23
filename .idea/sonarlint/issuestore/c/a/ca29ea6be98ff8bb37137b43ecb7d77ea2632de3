@@ -1,11 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-dsquid:S00112º"FDefine and throw a dedicated exception instead of using a generic one.(Ïáó„øÿÿÿÿ
-dsquid:S00112Ä"FDefine and throw a dedicated exception instead of using a generic one.(Ïáó„øÿÿÿÿ
-Wsquid:S1161‰":Add the "@Override" annotation above this method signature(Ğœáõüÿÿÿÿ
-Wsquid:S1161˜":Add the "@Override" annotation above this method signature(®”‚šùÿÿÿÿ
-Rsquid:S1161£":Add the "@Override" annotation above this method signature(­åì…
-7squid:S2129´"Remove this "Float" constructor(š€ñ
-Vsquid:CallToDeprecatedMethod´"-Remove this use of "Float"; it is deprecated.(š€ñ
-8squid:S2129·"!Remove this "Integer" constructor(‰¸™"
-Wsquid:CallToDeprecatedMethod·"/Remove this use of "Integer"; it is deprecated.(‰¸™"

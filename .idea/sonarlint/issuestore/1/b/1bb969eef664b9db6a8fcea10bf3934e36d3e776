@@ -1,16 +1,0 @@
-
-Tsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(¤¸û™
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(»žšŠÿÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ØÁ´ò
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(è×½¶
-Dsquid:S2201"*The return value of "equals" must be used.(Ï’àïûÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(êî¿ß
-Hsquid:S1481".Remove this unused "formatter" local variable.(¤®ß†þÿÿÿÿ
-:squid:S1068"%Remove this unused "f" private field.(ñí±ñ

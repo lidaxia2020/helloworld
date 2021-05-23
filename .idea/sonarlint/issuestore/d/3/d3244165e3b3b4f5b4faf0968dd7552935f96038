@@ -1,16 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
-Lsquid:S1066ù"/Merge this if statement with the enclosing one.(Âß˜ÿÿÿÿÿ
-tsquid:S00116…"[Rename this field "m_lastUsedWalker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¯¡Ê
-qsquid:S00116‹"XRename this field "m_firstWalker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ı‚
-}squid:S1149ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Vsquid:S1161t":Add the "@Override" annotation above this method signature(ì¦³»ùÿÿÿÿ
-psquid:S2975‘"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
-Rsquid:S1161¦":Add the "@Override" annotation above this method signature(Øû¬¯
-Wsquid:S1161¿":Add the "@Override" annotation above this method signature(òÚèˆşÿÿÿÿ
-Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(¶ÕŠ¹
-Qsquid:S1161õ":Add the "@Override" annotation above this method signature(¤¼ú<
-Wsquid:S1161§":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
-Ysquid:S1126¶"AReplace this if-then-else statement by a single return statement.(ŠÆŠË
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(‘¸·ÿÿÿÿÿ

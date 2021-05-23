@@ -1,28 +1,0 @@
-
-u
-squid:S135¼"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
-u
-squid:S135Õ"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
-u
-squid:S135¾"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
-u
-squid:S135×"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
-asquid:S3358Æ"DExtract this nested ternary operation into an independent statement.(ú™Ûüÿÿÿÿ
-\squid:S3358Ç"DExtract this nested ternary operation into an independent statement.(õÅ†Â
-h
-squid:S128Ú"LEnd this switch case with an unconditional break, return or throw statement.(Î¥ËÂÿÿÿÿÿ
-jsquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(İÜÖñ
-jsquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(€ŞËœ
-jsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ÎŸÆ
-]squid:HiddenFieldCheck›"5Rename "a" which hides the field declared at line 85.(Œôîãûÿÿÿÿ
-`squid:HiddenFieldCheckœ"8Rename "tmp" which hides the field declared at line 128.(Ş’ı›øÿÿÿÿ
-asquid:HiddenFieldCheck¯">Rename "minGallop" which hides the field declared at line 104.(äûˆ×
-g squid:LabelsShouldNotBeUsedCheck°";Refactor the code to remove this label and the need for it.(àÏÅ)
-6squid:S2178ñ"Correct this "|" to "||".(ïãÓŞûÿÿÿÿ
-jsquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(‚½åß
-]squid:HiddenFieldCheckš"5Rename "a" which hides the field declared at line 85.(Œôîãûÿÿÿÿ
-[squid:HiddenFieldCheck›"8Rename "tmp" which hides the field declared at line 128.(±ûŸ¬
-_squid:HiddenFieldCheckœ"<Rename "tmpBase" which hides the field declared at line 129.(™¨÷Î
-asquid:HiddenFieldCheck±">Rename "minGallop" which hides the field declared at line 104.(äûˆ×
-g squid:LabelsShouldNotBeUsedCheck²";Refactor the code to remove this label and the need for it.(àÏÅ)
-6squid:S2178ó"Correct this "|" to "||".(ïãÓŞûÿÿÿÿ

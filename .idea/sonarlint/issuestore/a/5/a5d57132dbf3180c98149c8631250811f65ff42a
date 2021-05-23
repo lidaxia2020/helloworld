@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
-Tsquid:UselessImportCheck"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ
-Ssquid:UselessImportCheck""/Remove this unused import 'java.awt.Rectangle'.(¾ª¸û
-Usquid:UselessImportCheck!",Remove this unused import 'java.awt.Insets'.(šôÇ³ûÿÿÿÿ
-Ssquid:UselessImportCheck"/Remove this unused import 'java.awt.Dimension'.(˜‚º·
-Wsquid:UselessImportCheck ".Remove this unused import 'java.awt.Graphics'.(ÂŸÏ§ùÿÿÿÿ
-?squid:S1172<"(Remove this unused method parameter "c".(¼Å¹š

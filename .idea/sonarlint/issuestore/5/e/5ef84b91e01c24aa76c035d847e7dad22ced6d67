@@ -1,13 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-nsquid:S001164"VRename this field "m_blocksize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ş¢Ï
-msquid:S00116:"PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ñ‰ıÿÿÿÿ
-psquid:S00116@"SRename this field "m_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áùû´ÿÿÿÿÿ
-ssquid:S00116C"VRename this field "m_firstFree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ôûªıÿÿÿÿ
-qsquid:S00116F"TRename this field "m_mapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÙ½óùÿÿÿÿ
-Tsquid:S1197:"8Move the array designator from the variable to the type.(­ñ‰ıÿÿÿÿ
-Tsquid:S1197@"8Move the array designator from the variable to the type.(Áùû´ÿÿÿÿÿ
-Usquid:S1197‰"8Move the array designator from the variable to the type.(ò½¾•ùÿÿÿÿ
-Psquid:S1197"8Move the array designator from the variable to the type.(¬‰Ó
-qsquid:S3012ó"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÔÜ‘
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

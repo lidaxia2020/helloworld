@@ -1,30 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
-msquid:S00116>"PRename this field "_line" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¶Óùÿÿÿÿ
-hsquid:S00116I"PRename this field "_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛîÎ”
-jsquid:S00116T"RRename this field "_spaces" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı²†
-ssquid:S00116^"VRename this field "_thisIndent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÒ‡ãşÿÿÿÿ
-nsquid:S00116h"VRename this field "_nextIndent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø·ç
-{squid:S1149>"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(î¶Óùÿÿÿÿ
-vsquid:S1149I"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÛîÎ”
-Wsquid:CallToDeprecatedMethod3"/Remove this use of "Printer"; it is deprecated.(Œ¨˜µ
-asquid:CallToDeprecatedMethodk"4Remove this use of "OutputFormat"; it is deprecated.(ÍÄË«ıÿÿÿÿ
-Wsquid:CallToDeprecatedMethodm"/Remove this use of "Printer"; it is deprecated.(·Ô©º
-Rsquid:S1161‚":Add the "@Override" annotation above this method signature(ø®íÜ
-Wsquid:S1161™":Add the "@Override" annotation above this method signature(É™’‹ıÿÿÿÿ
-Rsquid:S1161´":Add the "@Override" annotation above this method signature(÷ïşå
-Rsquid:S1161º":Add the "@Override" annotation above this method signature(ö°ıÓ
-Rsquid:S1161À":Add the "@Override" annotation above this method signature(íõÍŠ
-Wsquid:S1161Æ":Add the "@Override" annotation above this method signature(Ñéº±ÿÿÿÿÿ
-Rsquid:S1161Ø":Add the "@Override" annotation above this method signature(©âÃÓ
-Wsquid:S1161”":Add the "@Override" annotation above this method signature(ıÛ’øÿÿÿÿ
-Wsquid:S1161š":Add the "@Override" annotation above this method signature(Àÿµüÿÿÿÿ
-osquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(à®›–úÿÿÿÿ
-Wsquid:S1161½":Add the "@Override" annotation above this method signature(à®›–úÿÿÿÿ
-Wsquid:S1161ê":Add the "@Override" annotation above this method signature(åóõìùÿÿÿÿ
-Qsquid:S1161ÿ":Add the "@Override" annotation above this method signature(Õ¬ë;
-Rsquid:S1161Š":Add the "@Override" annotation above this method signature(ìùÈ¿
-Qsquid:S1161–":Add the "@Override" annotation above this method signature(ÿß–%
-Rsquid:S1161œ":Add the "@Override" annotation above this method signature(«¡æ”
-Wsquid:S1161¢":Add the "@Override" annotation above this method signature(ÄÃğğûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

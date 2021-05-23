@@ -1,19 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
-Fsquid:S1172O"/Remove this unused method parameter "javaName".(“ï†£
-Usquid:S4719s"9Replace charset name argument with StandardCharsets.UTF_8(Í•Ûşÿÿÿÿ
-osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(»‚‹šúÿÿÿÿ
-@squid:S2129­"#Remove this "Character" constructor(ïÆıíûÿÿÿÿ
-_squid:CallToDeprecatedMethod­"1Remove this use of "Character"; it is deprecated.(ïÆıíûÿÿÿÿ
-@squid:S2129Î"#Remove this "Character" constructor(ïÆıíûÿÿÿÿ
-_squid:CallToDeprecatedMethodÎ"1Remove this use of "Character"; it is deprecated.(ïÆıíûÿÿÿÿ
-Rsquid:S1854Ş"5Remove this useless assignment to local variable "s".(…¬Ã…ùÿÿÿÿ
-Ysquid:S3878ÿ"ADisambiguate this call by either casting as "Class" or "Class[]".(åùÂ
-^squid:S3878€"ADisambiguate this call by either casting as "Class" or "Class[]".(Ä°‡Úûÿÿÿÿ
-Ysquid:S3878"ADisambiguate this call by either casting as "Class" or "Class[]".(÷æ’À
-Ysquid:S3878‚"ADisambiguate this call by either casting as "Class" or "Class[]".(ª Š
-^squid:S3878§"ADisambiguate this call by either casting as "Class" or "Class[]".(çı­“ûÿÿÿÿ
-Ysquid:S3878¨"ADisambiguate this call by either casting as "Class" or "Class[]".(ÒÖ÷
-Csquid:S1481Ş"&Remove this unused "s" local variable.(…¬Ã…ùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(‘Š‘ı

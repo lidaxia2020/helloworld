@@ -1,9 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
-vsquid:S001167"^Rename this field "m_hasPositionalPred" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éû
-ssquid:S001168"VRename this field "m_predDepth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ğ“›úÿÿÿÿ
-Vsquid:S1161W":Add the "@Override" annotation above this method signature(‚¼¹ªÿÿÿÿÿ
-Qsquid:S1161}":Add the "@Override" annotation above this method signature(ıÊ¼
-Ysquid:CallToDeprecatedMethod‰"+Remove this use of "Quo"; it is deprecated.(†ªÏ²øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Ú°à¬

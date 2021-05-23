@@ -1,9 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡âÍÎ
-Vsquid:S1118?":Add a private constructor to hide the implicit public one.(òŒä°ûÿÿÿÿ
-Rsquid:S1610?"6Convert the abstract class "Doclet" into an interface.(òŒä°ûÿÿÿÿ
-Gsquid:S1172K"+Remove this unused method parameter "root".(®êìµÿÿÿÿÿ
-Usquid:S3400c"9Remove this method and declare a constant for this value.(ðö¬¸ýÿÿÿÿ
-Dsquid:S1172b"-Remove this unused method parameter "option".(Ð²ºÞ
-=squid:S1172{"&Remove these unused method parameters.(ü˜¼²
-Osquid:S1197{"8Move the array designator from the variable to the type.(ü˜¼²

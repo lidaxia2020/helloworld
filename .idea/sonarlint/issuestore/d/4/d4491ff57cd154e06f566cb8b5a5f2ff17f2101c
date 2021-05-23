@@ -1,8 +1,0 @@
-
-Msquid:S1191É"5Use classes from the Java API instead of Sun classes.(Ü¡›î
-Esquid:S1604Ÿ"(Make this anonymous inner class a lambda(‰¾Á¡ûÿÿÿÿ
-Msquid:S1133Æ"5Do not forget to remove this deprecated code someday.(¢‘õ
-%squid:RedundantThrowsDeclarationCheckÃ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(Æø‘şÿÿÿÿ
-Rsquid:S1133Ç"5Do not forget to remove this deprecated code someday.(éê¶¯ıÿÿÿÿ
-asquid:CallToDeprecatedMethod™"3Remove this use of "newInstance"; it is deprecated.(ˆ«–êúÿÿÿÿ
-\squid:S3398…"?Move this method into the anonymous class declared at line 159.(ÅâƒÒüÿÿÿÿ

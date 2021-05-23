@@ -1,12 +1,0 @@
-
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
-;squid:S11651"Make this "_error" field final.(ıĞèıÿÿÿÿ
-:squid:S11652"Make this "_node" field final.(­ÊÑ øÿÿÿÿ
-nsquid:S001161"QRename this field "_error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıĞèıÿÿÿÿ
-msquid:S001162"PRename this field "_node" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÊÑ øÿÿÿÿ
-Dsquid:S19481"(Make "_error" transient or serializable.(ıĞèıÿÿÿÿ
-Csquid:S19482"'Make "_node" transient or serializable.(­ÊÑ øÿÿÿÿ
-Nsquid:S1161L":Add the "@Override" annotation above this method signature(‡+
-Qsquid:S1161P":Add the "@Override" annotation above this method signature(Á»›ê
-Bsquid:S1481Q"+Remove this unused "result" local variable.(ıï‚
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

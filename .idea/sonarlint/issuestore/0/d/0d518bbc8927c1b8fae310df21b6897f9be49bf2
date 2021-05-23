@@ -1,10 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-vsquid:S11499"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(­ş˜
-Vsquid:S1161|":Add the "@Override" annotation above this method signature(ÿñùÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ÍŞ×ˆıÿÿÿÿ
-Rsquid:S1161›":Add the "@Override" annotation above this method signature(¶ı¯Ú
-Wsquid:S1161¢":Add the "@Override" annotation above this method signature(‰İõ½şÿÿÿÿ
-Wsquid:S1161§":Add the "@Override" annotation above this method signature(©Éº†üÿÿÿÿ
-Rsquid:S1161²":Add the "@Override" annotation above this method signature(Ö§† 
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

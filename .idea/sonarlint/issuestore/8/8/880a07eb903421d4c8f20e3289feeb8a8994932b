@@ -1,10 +1,0 @@
-
-=squid:S1659c"!Declare "len" on a separate line.(ð€Ýêùÿÿÿÿ
-xsquid:CallToDeprecatedMethodè"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
-a"squid:ObjectFinalizeOverridenCheckè"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
-psquid:ModifiersOrderCheckø"EReorder the modifiers to comply with the Java Language Specification.(òÜí‹ýÿÿÿÿ
-psquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(¼¬ª“ùÿÿÿÿ
-ksquid:ModifiersOrderCheckú"EReorder the modifiers to comply with the Java Language Specification.(Ý£½¡
-psquid:ModifiersOrderCheckþ"EReorder the modifiers to comply with the Java Language Specification.(Š•±Éùÿÿÿÿ
-ksquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(ªÖÓŸ
-psquid:ModifiersOrderCheck€"EReorder the modifiers to comply with the Java Language Specification.(Šù µúÿÿÿÿ

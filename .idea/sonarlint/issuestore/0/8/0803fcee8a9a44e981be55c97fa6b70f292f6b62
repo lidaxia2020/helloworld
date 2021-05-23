@@ -1,92 +1,0 @@
-
-Zsquid:S2184F"CCast one of the operands of this subtraction operation to a "long".(Ë¥Ë»
-~squid:S1192Ş
-"aDefine a constant instead of duplicating this literal "Accept exceeded fixed size of %d" 4 times.(÷Îíıÿÿÿÿ
-isquid:S1192€"QDefine a constant instead of duplicating this literal "during building" 20 times.(–¼Ÿ
-nsquid:S1192›"QDefine a constant instead of duplicating this literal "was not building" 4 times.(êıÃ§ÿÿÿÿÿ
-„squid:S1192æ
-"gDefine a constant instead of duplicating this literal "End size %d is less than fixed size %d" 4 times.(ˆÚëµüÿÿÿÿ
-msquid:S1192"UDefine a constant instead of duplicating this literal "was already building" 4 times.(ã¦úÅ
-jsquid:S1192•"MDefine a constant instead of duplicating this literal "not building" 4 times.(˜ï’³şÿÿÿÿ
-‰squid:S1192Ô
-"lDefine a constant instead of duplicating this literal "Begin size %d is not equal to fixed size %d" 4 times.(®Ç—êùÿÿÿÿ
-ˆsquid:S1192Ì
-"kDefine a constant instead of duplicating this literal "Current size %d is less than fixed size %d" 4 times.(éşÅ¼ûÿÿÿÿ
-csquid:S00112="FDefine and throw a dedicated exception instead of using a generic one.(ÅçË…ûÿÿÿÿ
-Tsquid:UselessImportCheck "+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-gsquid:S00119–"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ñÍ”Àûÿÿÿÿ
-gsquid:S00119–"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ñÍ”Àûÿÿÿÿ
-gsquid:S00119Ä"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(³ôêÉøÿÿÿÿ
-bsquid:S00119ò"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(õ«£¦
-bsquid:S00119 "IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¯™¦Ë
-ksquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(Ã°ê¤
-bsquid:S00119·"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ã°ê¤
-bsquid:S00119·"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ã°ê¤
-*squid:S2176Ó"Rename this class.(ÂÊô¤
-*squid:S2176ä"Rename this class.(Å…ÊÙ
-/squid:S2176õ"Rename this class.(µ¿¾Äşÿÿÿÿ
-ksquid:ModifiersOrderCheckö"EReorder the modifiers to comply with the Java Language Specification.(·ŸèÀ
-bsquid:S00119ö"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(·ŸèÀ
-/squid:S2176Õ"Rename this class.(²¼ÚÑüÿÿÿÿ
-gsquid:S00119Õ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²¼ÚÑüÿÿÿÿ
-gsquid:S00119Õ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²¼ÚÑüÿÿÿÿ
-gsquid:S00119Ö"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(–ªÓúÿÿÿÿ
-bsquid:S00119×"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(îü·¤
-*squid:S2176€"Rename this class.(¨°øô
-*squid:S2176"Rename this class.(ş 
-/squid:S2176œ"Rename this class.(öôôùÿÿÿÿ
-psquid:ModifiersOrderCheck¬"EReorder the modifiers to comply with the Java Language Specification.(Õ¸×¨ıÿÿÿÿ
-Bsquid:S00108ä	")Either remove or fill this block of code.(ä•ë±
-*squid:S2176è	"Rename this class.( öÂ€
-ksquid:ModifiersOrderCheckè	"EReorder the modifiers to comply with the Java Language Specification.( öÂ€
-bsquid:S00119è	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.( öÂ€
-bsquid:S00119è	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.( öÂ€
-gsquid:S00119é	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ä¾ÂÎøÿÿÿÿ
-Bsquid:S00108š
-")Either remove or fill this block of code.(ä•ë±
-*squid:S2176
-"Rename this class.(ÂÊô¤
-*squid:S2176§
-"Rename this class.(Å…ÊÙ
-/squid:S2176°
-"Rename this class.(µ¿¾Äşÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck©"nRemove the declaration of thrown exception 'java.lang.IndexOutOfBoundsException' which is a runtime exception.(¿Òœ
-@squid:S1659Ã"#Declare "fence" on a separate line.(Ëò…œûÿÿÿÿ
-Jsquid:S1948½"-Make "spliterator" transient or serializable.(ıèß÷şÿÿÿÿ
-@squid:S1948¾"(Make "helper" transient or serializable.(…à¾—
-psquid:ModifiersOrderCheck¹"EReorder the modifiers to comply with the Java Language Specification.(ª¸Áüÿÿÿÿ
-gsquid:S00119¹"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª¸Áüÿÿÿÿ
-gsquid:S00119¹"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª¸Áüÿÿÿÿ
-gsquid:S00119¹"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª¸Áüÿÿÿÿ
-Dsquid:S1659ä"'Declare "leftSplit" on a separate line.(ŞÓÆ®ÿÿÿÿÿ
-?squid:S1948†"'Make "array" transient or serializable.(Î¾
-bsquid:S00119ƒ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(åÕ•«
-bsquid:S00119ƒ"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(åÕ•«
-*squid:S2176£"Rename this class.(ÌÔ
-bsquid:S00119£"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÌÔ
-)squid:S2176Ã"Rename this class.(ıÓ¸
-asquid:S00119Ã"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ıÓ¸
-*squid:S2176ã"Rename this class.(êÖÄ
-bsquid:S00119ã"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(êÖÄ
-Csquid:S1948‡"&Make "node" transient or serializable.(¦„ä¸şÿÿÿÿ
-psquid:ModifiersOrderCheck„"EReorder the modifiers to comply with the Java Language Specification.(ˆ…¬®ıÿÿÿÿ
-gsquid:S00119„"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ˆ…¬®ıÿÿÿÿ
-?squid:S1948´"'Make "array" transient or serializable.(ø˜„Õ
-?squid:S1948Ğ"'Make "array" transient or serializable.(ù‡ˆ
-gsquid:S00119Ì"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ë§²øÿÿÿÿ
-gsquid:S00119Ì"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ë§²øÿÿÿÿ
-gsquid:S00119Í"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ä¾ÂÎøÿÿÿÿ
-gsquid:S00119Î"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ã¦§ïÿÿÿÿÿ
-Jsquid:S2387ƒ"2"helper" is the name of a field in "AbstractTask".(…à¾—
-@squid:S1948ƒ"(Make "helper" transient or serializable.(…à¾—
-Hsquid:S1948„"0Make "builderFactory" transient or serializable.(·µœÏ
-Esquid:S1948…"-Make "concFactory" transient or serializable.(ú©
-gsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª´©àùÿÿÿÿ
-gsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª´©àùÿÿÿÿ
-gsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª´©àùÿÿÿÿ
-gsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª´©àùÿÿÿÿ
-bsquid:S00119­"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(”˜Ï¦
-bsquid:S00119­"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(”˜Ï¦
-bsquid:S00119·"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.( ·
-gsquid:S00119¿"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¹§¨£şÿÿÿÿ
-gsquid:S00119Ç"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ç›×”úÿÿÿÿ

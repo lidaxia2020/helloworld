@@ -1,11 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
-]squid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(ÑÃ¯o
-jsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñêâ¾
-jsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²šùã
-Usquid:UselessImportCheck"1Remove this unused import 'org.omg.CORBA.TCKind'.(ŞâƒÅ
-Zsquid:UselessImportCheck "6Remove this unused import 'org.omg.CORBA.LocalObject'.(øöè
-nsquid:S00116Ä"PRename this field "__ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëöÖøÿÿÿÿÿ
-ysquid:S1221¾"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(²šùã
-Hsquid:S1905Ç"+Remove this unnecessary cast to "String[]".(È«çéúÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûø¢…üÿÿÿÿ

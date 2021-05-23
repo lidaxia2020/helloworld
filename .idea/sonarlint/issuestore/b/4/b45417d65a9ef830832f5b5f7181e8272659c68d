@@ -1,12 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äÝÐùÿÿÿÿ
-_squid:UselessImportCheck"";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-_squid:UselessImportCheck!";Remove this unused import 'org.omg.CORBA.OBJECT_NOT_EXIST'.(îÈ›±
-^squid:UselessImportCheck":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
-[squid:UselessImportCheck "7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
-Tsquid:UselessImportCheck"0Remove this unused import 'javax.rmi.CORBA.Tie'.(üñÿ¸
-;squid:S2390A"Remove this reference to "IsA".(úŠ©Ðÿÿÿÿÿ
->squid:S2390B"(Remove this reference to "GetInterface".(³ãÎL
-Csquid:S2390C"'Remove this reference to "NonExistent".(£®¾ÿÿÿÿÿ
->squid:S2390D"'Remove this reference to "NotExistent".(åÇß×
-Qsquid:S1161`":Add the "@Override" annotation above this method signature(Û…¥Ù

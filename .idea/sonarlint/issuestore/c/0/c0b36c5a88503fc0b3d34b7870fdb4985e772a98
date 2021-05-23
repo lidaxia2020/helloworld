@@ -1,12 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(†õ„§øÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck‘".Extract the assignment out of this expression.(Ñ³óÿÿÿÿÿÿ
-psquid:S00116A"SRename this field "m_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÚáÓüÿÿÿÿ
-wsquid:S00116D"ZRename this field "m_allocatedSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ–å·úÿÿÿÿ
-osquid:S00116G"RRename this field "m_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Û®ûÿÿÿÿ
-Tsquid:S1197A"8Move the array designator from the variable to the type.(‡ÚáÓüÿÿÿÿ
-Asquid:S1125´")Remove the literal "false" boolean value.(Ûøü
-Fsquid:S1125â")Remove the literal "false" boolean value.( Ô±Ûùÿÿÿÿ
-Esquid:S1125ñ"(Remove the literal "true" boolean value.(Š«Ã®øÿÿÿÿ
-Usquid:S1197"8Move the array designator from the variable to the type.(ÜŒ½Éûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

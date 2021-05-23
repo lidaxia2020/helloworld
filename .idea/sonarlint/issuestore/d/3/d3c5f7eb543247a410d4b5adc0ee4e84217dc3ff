@@ -1,6 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
-psquid:UselessImportCheck-"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
-rsquid:UselessImportCheck&"IRemove this unused import 'com.sun.corba.se.spi.oa.ObjectAdapterFactory'.(Ë§‚·şÿÿÿÿ
-msquid:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(¤İ¢Øıÿÿÿÿ
-„squid:S00116:"gRename this field "LocalClientRequestDispatcher" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼³–½ÿÿÿÿÿ

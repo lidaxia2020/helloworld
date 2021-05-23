@@ -1,12 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Ç­ìŞşÿÿÿÿ
-Vsquid:S11188":Add a private constructor to hide the implicit public one.(êÑ÷Òşÿÿÿÿ
-O
-squid:S106G"9Replace this use of System.out or System.err by a logger.(‚Ş¦µ
-isquid:S3776R"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(â„Òâ
-\squid:CallToDeprecatedMethod«"3Remove this use of "newInstance"; it is deprecated.(–ß¡Ú
-jsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ı øÇ
-osquid:S2737à"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
-bsquid:S3027Ù"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(±¨ÅÎ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(÷öĞÀÿÿÿÿÿ

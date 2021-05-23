@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(“ÀÝ¬
-Dsquid:S1604C"(Make this anonymous inner class a lambda(ö©‰±øÿÿÿÿ
-Lsquid:S1133;"5Do not forget to remove this deprecated code someday.(Ø‡íé
-;squid:S2129Š"Remove this "Long" constructor(ŒÃÈ²ýÿÿÿÿ
-Psquid:UselessParenthesesCheckØ"!Remove these useless parentheses.(ŠØ‹«ûÿÿÿÿ
-Ysquid:S1126‚"AReplace this if-then-else statement by a single return statement.(£§¥ˆ

@@ -1,20 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(áÈà®şÿÿÿÿ
-rsquid:S1488S"[Immediately return this expression instead of assigning it to the temporary variable "cls".(–‡±Ù
-?squid:S1604i"(Make this anonymous inner class a lambda(º¬ÄÍ
->squid:S1604w"(Make this anonymous inner class a lambda(ŠÑ‚
-
-?squid:S1604"(Make this anonymous inner class a lambda(Ã‡¯3
-?squid:S1604—"(Make this anonymous inner class a lambda(Ã‡¯3
-Esquid:S1604Î"(Make this anonymous inner class a lambda(†ÜÀüøÿÿÿÿ
-?squid:S1604ø"(Make this anonymous inner class a lambda(Ã‡¯3
-Vsquid:S1161B":Add the "@Override" annotation above this method signature(ÁòÛäúÿÿÿÿ
-Qsquid:S1161Q":Add the "@Override" annotation above this method signature(ÔıÇ­
-Qsquid:S1161]":Add the "@Override" annotation above this method signature(¼•¡
-Qsquid:S1161g":Add the "@Override" annotation above this method signature(şê¥ï
-Vsquid:S1161u":Add the "@Override" annotation above this method signature(‡ëÍ¼ûÿÿÿÿ
->squid:S1168‚"&Return an empty array instead of null.(¥¹ï
-Wsquid:S1161‹":Add the "@Override" annotation above this method signature(»ØÊ®üÿÿÿÿ
-Wsquid:S1161©":Add the "@Override" annotation above this method signature(Ì¢ÆÔøÿÿÿÿ
-Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(¹Æ€ô
-squid:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—µ±şıÿÿÿÿ

@@ -1,15 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(İóÁ•úÿÿÿÿ
-:squid:S1165i"Make this "msgID" field final.(ÁîëÇıÿÿÿÿ
-Usquid:S1197‘"8Move the array designator from the variable to the type.(”øš£ÿÿÿÿÿ
-Psquid:S1197Å"8Move the array designator from the variable to the type.(¯§¿Î
-Rsquid:S1161Ü":Add the "@Override" annotation above this method signature(Á»›ê
-Wsquid:S1161ô":Add the "@Override" annotation above this method signature(â«üåşÿÿÿÿ
-P
-squid:S106õ"9Replace this use of System.out or System.err by a logger.(Å«ß«
-P
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(©¸È¥
-Esquid:S1185ƒ"(Remove this method to simply inherit it.(åšòµüÿÿÿÿ
-Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(åšòµüÿÿÿÿ
-Esquid:S1185"(Remove this method to simply inherit it.(å‹ßşÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(å‹ßşÿÿÿÿ

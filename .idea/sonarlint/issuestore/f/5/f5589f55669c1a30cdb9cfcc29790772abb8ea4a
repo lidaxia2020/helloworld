@@ -1,4 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ü©¬Øýÿÿÿÿ
->squid:S1214%""Move constants to a class or enum.(Ç½Ð­ÿÿÿÿÿ
-wsquid:S00115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€é­Ÿúÿÿÿÿ

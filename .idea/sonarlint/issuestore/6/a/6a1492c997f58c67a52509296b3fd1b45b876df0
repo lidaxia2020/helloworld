@@ -1,31 +1,0 @@
-
-Msquid:S1191˜"5Use classes from the Java API instead of Sun classes.(¾…¸•
-usquid:S1192Ü"XDefine a constant instead of duplicating this literal "Socket is not connected" 4 times.(‡ºé¿üÿÿÿÿ
-jsquid:S1192µ"RDefine a constant instead of duplicating this literal "Socket is closed" 23 times.(°áëŞ
-@squid:S1604Æ"(Make this anonymous inner class a lambda(ñòÚ
-jsquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ŞíëÎ
-¯%squid:RedundantThrowsDeclarationCheck€"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ˆ¨Šûÿÿÿÿ
-Msquid:S1133Ô"5Do not forget to remove this deprecated code someday.(ÇÔ¢â
-Rsquid:S1133Œ"5Do not forget to remove this deprecated code someday.(ô¶æÔûÿÿÿÿ
-osquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ãüİµûÿÿÿÿ
-Bsquid:S00108Æ")Either remove or fill this block of code.(»ªÁ¥
-Msquid:S1854ß"5Remove this useless assignment to local variable "s".(äÜ½
-Msquid:S1854	"5Remove this useless assignment to local variable "s".(äÜ½
-9squid:S2129ä	"!Remove this "Boolean" constructor(šñèÕ
-Xsquid:CallToDeprecatedMethodä	"/Remove this use of "Boolean"; it is deprecated.(šñèÕ
->squid:S2129ë	"!Remove this "Integer" constructor(Ü£şºıÿÿÿÿ
-]squid:CallToDeprecatedMethodë	"/Remove this use of "Integer"; it is deprecated.(Ü£şºıÿÿÿÿ
->squid:S2129ü
-"!Remove this "Integer" constructor(›óìÜûÿÿÿÿ
-]squid:CallToDeprecatedMethodü
-"/Remove this use of "Integer"; it is deprecated.(›óìÜûÿÿÿÿ
-Asquid:S1940»")Use the opposite operator ("<=") instead.(ÏŸÓµ
->squid:S2129À"!Remove this "Integer" constructor(Éûšüúÿÿÿÿ
-]squid:CallToDeprecatedMethodÀ"/Remove this use of "Integer"; it is deprecated.(Éûšüúÿÿÿÿ
-9squid:S2129"!Remove this "Integer" constructor(©ñÔ
-Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(©ñÔ
-9squid:S2129¬"!Remove this "Integer" constructor(Æœ–°
-Xsquid:CallToDeprecatedMethod¬"/Remove this use of "Integer"; it is deprecated.(Æœ–°
-Bsquid:S00108˜")Either remove or fill this block of code.(»ªÁ¥
->squid:S1481ß"&Remove this unused "s" local variable.(äÜ½
->squid:S1481	"&Remove this unused "s" local variable.(äÜ½

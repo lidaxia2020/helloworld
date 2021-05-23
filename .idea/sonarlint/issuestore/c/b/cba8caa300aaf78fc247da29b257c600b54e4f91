@@ -1,15 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-_squid:S00112’"FDefine and throw a dedicated exception instead of using a generic one.(şùæ‚
-xsquid:UselessImportCheckZ"ORemove this unused import 'com.sun.org.apache.bcel.internal.classfile.Utility'.(ğ¿È›ûÿÿÿÿ
-msquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ï«¡Ïüÿÿÿÿ
-Asquid:S1172³")Remove this unused method parameter "cp".(‹¢ºï
-U
-squid:S106Í"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
-\squid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(ÿ¬¶
-9squid:S1659§"!Declare "ch2" on a separate line.(¨½¹½
-P
-squid:S106®"9Replace this use of System.out or System.err by a logger.( „ï©
-Gsquid:S1172¾"*Remove this unused method parameter "cpg".(Ó‘ÚÎıÿÿÿÿ
-Gsquid:S1172Í"*Remove this unused method parameter "cpg".(Ç‰ø®ÿÿÿÿÿ
-Fsquid:S1125‘")Remove the literal "false" boolean value.(¯è­”ùÿÿÿÿ

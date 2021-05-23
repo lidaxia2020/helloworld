@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(“ÀÝ¬
-|squid:S1192e"`Define a constant instead of duplicating this literal "sun.security.util.AuthResources" 3 times.(²ýø°ûÿÿÿÿ
-;squid:S2129‚"Remove this "Long" constructor(ŒÃÈ²ýÿÿÿÿ
-Zsquid:CallToDeprecatedMethod‚",Remove this use of "Long"; it is deprecated.(ŒÃÈ²ýÿÿÿÿ
-Usquid:CallToDeprecatedMethod©",Remove this use of "Long"; it is deprecated.(œ‘Ûˆ
-Ysquid:S1126…"AReplace this if-then-else statement by a single return statement.(£§¥ˆ

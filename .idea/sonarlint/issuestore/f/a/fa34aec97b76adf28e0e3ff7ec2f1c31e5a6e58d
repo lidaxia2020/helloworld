@@ -1,27 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ùİ‚Ë
-_$squid:AssignmentInSubExpressionCheck‚".Extract the assignment out of this expression.(ëÂê‡
-_$squid:AssignmentInSubExpressionCheckÃ".Extract the assignment out of this expression.(ëÂê‡
-_$squid:AssignmentInSubExpressionCheckŸ".Extract the assignment out of this expression.(ëÂê‡
-_$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(ëÂê‡
-xsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "val".(ÅÏ…Úüÿÿÿÿ
-jsquid:S3008Ü"RRename this field "m_nulls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûî¦»
-osquid:S00116m"WRename this field "_stackFrames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÚ
-ksquid:S00116w"TRename this field "_frameTop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÁŒ
-wsquid:S00116"^Rename this field "_currentFrameBottom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£“ê–
-jsquid:S00116"QRename this field "_links" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á ÄĞ
-msquid:S00116—"TRename this field "_linksTop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÄ‚â
-osquid:S2975Y"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(æ¹×ªøÿÿÿÿ
-Hsquid:S1905_",Remove this unnecessary cast to "XObject[]".(¬»¢Ôşÿÿÿÿ
-Psquid:S1197Š"8Move the array designator from the variable to the type.(æœ«¤
-Usquid:S1197“"8Move the array designator from the variable to the type.(°ÒøÑüÿÿÿÿ
-~squid:S3252ü"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(şÛå
-´%squid:RedundantThrowsDeclarationCheck˜"Remove the declaration of thrown exception 'javax.xml.transform.TransformerException', as it cannot be thrown from method's body.(®ø£
-~squid:S3252½"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(şÛå
-¹%squid:RedundantThrowsDeclarationCheckÖ"Remove the declaration of thrown exception 'javax.xml.transform.TransformerException', as it cannot be thrown from method's body.(Ùé¶¡ıÿÿÿÿ
-ƒsquid:S3252•"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¯Çò°úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(ƒ³ùæ
-csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(ƒ³ùæ
-csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(Ä¥¾»
-hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(¯Çò°úÿÿÿÿ

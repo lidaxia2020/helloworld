@@ -1,9 +1,0 @@
-
-zsquid:S1192Ù"bDefine a constant instead of duplicating this literal "Text cannot be parsed to a Period" 3 times.(À‹¯®
-Gsquid:S1066ö"/Merge this if statement with the enclosing one.(£ı¸
-Asquid:S1125ö")Remove the literal "false" boolean value.(£ı¸
-Wsquid:S1161‘":Add the "@Override" annotation above this method signature(¦€Üéúÿÿÿÿ
-Rsquid:S1161¢":Add the "@Override" annotation above this method signature(‹ÂÂœ
-Wsquid:S1161ä":Add the "@Override" annotation above this method signature(åÒá‡ÿÿÿÿÿ
-Fsquid:S1125»
-")Remove the literal "false" boolean value.(‰œîùÿÿÿÿ

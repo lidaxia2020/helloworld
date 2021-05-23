@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(â’Öåüÿÿÿÿ
-ysquid:S4144x"]Update this method so that its implementation is not identical to "getException" on line 116.(á»±àÿÿÿÿÿ
-9squid:S1165@"#Make this "fException" field final.( ‹~
-esquid:S3551x"IMake this method "synchronized" to match the parent class implementation.(á»±àÿÿÿÿÿ
-Vsquid:S1161x":Add the "@Override" annotation above this method signature(á»±àÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

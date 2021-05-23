@@ -1,71 +1,0 @@
-
-Qsquid:S1191-"5Use classes from the Java API instead of Sun classes.(©î¹ÿûÿÿÿÿ
-asquid:S1192‚"IDefine a constant instead of duplicating this literal "hostName" 3 times.(¬‡í‰
-dsquid:S1192„"GDefine a constant instead of duplicating this literal "family" 3 times.(¨ôÂùÿÿÿÿ
-psquid:S1192Ğ"YDefine a constant instead of duplicating this literal "in your properties file." 3 times.(šá÷N
-msquid:S1192é"UDefine a constant instead of duplicating this literal "invalid address type" 3 times.(¯½£
-|squid:S1192Ï"_Define a constant instead of duplicating this literal ":\ncheck impl.prefix property " 3 times.(«Ãçäüÿÿÿÿ
-`squid:S1192ƒ"HDefine a constant instead of duplicating this literal "address" 3 times.(™ã¢
-Lsquid:S1066©"/Merge this if statement with the enclosing one.(˜íÎùÿÿÿÿ
-Lsquid:S1066ï	"/Merge this if statement with the enclosing one.(øŠÎ¾ÿÿÿÿÿ
-p
-squid:S135‘"YReduce the total number of break and continue statements in this loop to use at most one.(ÁëÅí
-p
-squid:S135À"YReduce the total number of break and continue statements in this loop to use at most one.(ÁëÅí
-Rsquid:S1141Œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Usquid:S2589ô"8Remove this expression which always evaluates to "false"(¤ä½Úûÿÿÿÿ
-esquid:S2259—"HA "NullPointerException" could be thrown; "localAddrs" is nullable here.(¡‹Ç©ıÿÿÿÿ
-_squid:S2259Ÿ"GA "NullPointerException" could be thrown; "addresses" is nullable here.(¦¤µ
-_squid:S2259Ş"GA "NullPointerException" could be thrown; "addresses" is nullable here.(ØÉÎø
-@squid:S1604ñ"(Make this anonymous inner class a lambda(’­Ûü
-@squid:S1604	"(Make this anonymous inner class a lambda(Ü÷˜é
-dsquid:S00112ß"FDefine and throw a dedicated exception instead of using a generic one.(ÙÙôşÿÿÿÿ
-_squid:S00112ø"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
-@squid:S1148œ	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-,squid:S1700Í"Rename field "cache"(–«—Ş
-[squid:S1155Æ	">Use isEmpty() to check whether the collection is empty or not.(„ƒËÇşÿÿÿÿ
-osquid:S3008®"XRename this field "unknown_array" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı´•8
-xsquid:S00115—"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨¡ä²ùÿÿÿÿ
-ssquid:S00115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦Öı”
-xsquid:S00115Ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( İ‡ùÿÿÿÿ
-]squid:S2062“"EMake this class "private" or elevate the visibility of "readResolve".(ù”Ú¿
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(üÜÑÈ
->squid:S1168Ô"&Return an empty array instead of null.(¥¹ï
-ssquid:S00115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Şˆ«ú
-ssquid:S00115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Şˆ«ú
-Gsquid:EmptyStatementUsageCheckĞ"Remove this empty statement.(Şˆ«ú
-qsquid:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿
-Qsquid:S2864û"4Iterate over the "entrySet" instead of the "keySet".(£¸åÃüÿÿÿÿ
->squid:S1168÷"&Return an empty array instead of null.(¥¹ï
-jsquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ö¢©†
-U
-squid:S106	"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-Asquid:S00108¨	")Either remove or fill this block of code.(É’‘8
-Gsquid:EmptyStatementUsageCheck´	"Remove this empty statement.(ŠÆ§¿
-psquid:S2293·	"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Ä¸/
-jsquid:S3776õ
-"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ˆ—ßĞ
-csquid:S3027–"FPut single-quotes around '%' to use the faster "indexOf(char)" method.(Ï÷¡ùÿÿÿÿ
-¨%squid:RedundantThrowsDeclarationCheckÙ"vRemove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from method's body.(ÜŒè½
-:squid:S1659Ü""Declare "zone" on a separate line.(Ä™¸®
-osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ë€í¿şÿÿÿÿ
-:squid:S1659è""Declare "tmp2" on a separate line.(şÍ‡ì
-Fsquid:S1125‡")Remove the literal "false" boolean value.(ÎÅÇœùÿÿÿÿ
->squid:S1168‰"&Return an empty array instead of null.(¥¹ï
-^squid:S2142’"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Bsquid:S00108’")Either remove or fill this block of code.(ä ¹€
->squid:S1168Ÿ"&Return an empty array instead of null.(¥¹ï
-\squid:CallToDeprecatedMethodÌ"3Remove this use of "newInstance"; it is deprecated.(ŠØ–
-P
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(ãö­
-U
-squid:S106Ò"9Replace this use of System.out or System.err by a logger.(º®Îƒûÿÿÿÿ
-P
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(¾ØËŠ
-\squid:CallToDeprecatedMethodİ"3Remove this use of "newInstance"; it is deprecated.(ÆªšÁ
-@squid:S1172æ"(Remove this unused method parameter "s".(åä»Ë
-Rsquid:S1118ª":Add a private constructor to hide the implicit public one.(æ£ã¹
-Tsquid:UnusedPrivateMethod´
-".Remove this unused private "getByName" method.(íò ï
-]squid:UnusedPrivateMethodñ"2Remove this unused private "getAllByName0" method.(¶³ãÙÿÿÿÿÿ

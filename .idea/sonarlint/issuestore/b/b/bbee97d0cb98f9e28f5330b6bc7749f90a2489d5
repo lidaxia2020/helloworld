@@ -1,26 +1,0 @@
-
-]squid:S2184Š"FCast one of the operands of this multiplication operation to a "long".(ıÅÎ
-Xsquid:S2184¥"@Cast one of the operands of this addition operation to a "long".(ÇŸ¨
-4squid:S1643ç"Use a StringBuilder instead.(…šİ­
-9squid:S1643î"Use a StringBuilder instead.(©¤­óüÿÿÿÿ
-9squid:S1643õ"Use a StringBuilder instead.(çÎéÿüÿÿÿÿ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬íü×
-csquid:S1192²"KDefine a constant instead of duplicating this literal "ImageUtil0" 4 times.(ÜªñÌ
-\squid:UselessImportCheck7"3Remove this unused import 'javax.imageio.IIOImage'.(¡ÛÜ—ÿÿÿÿÿ
-Vsquid:UselessImportCheck2"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-Tsquid:UselessImportCheck"+Remove this unused import 'java.awt.Point'.(îŞ˜Úüÿÿÿÿ
-Qsquid:S1118<":Add a private constructor to hide the implicit public one.(Æë…
-osquid:S3776°"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(™Æôãúÿÿÿÿ
-jsquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 96 to the 15 allowed.(á°‹‘
-jsquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(œ»¦İ
-ksquid:S3776Á"SRefactor this method to reduce its Cognitive Complexity from 114 to the 15 allowed.(ãİ–­
-Msquid:S1854ú"5Remove this useless assignment to local variable "i".(·ğÑı
-Csquid:S1905‡"&Remove this unnecessary cast to "int".(¹à²¯üÿÿÿÿ
->squid:S1905"&Remove this unnecessary cast to "int".(ƒìÀü
-jsquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¦¢÷
->squid:S1905ÿ"&Remove this unnecessary cast to "int".(€ò×‰
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Â›úÿÿÿÿ
-gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(»‰’ñşÿÿÿÿ
-bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(Çµí‘
-csquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ûÑîÅ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õå‡ˆùÿÿÿÿ

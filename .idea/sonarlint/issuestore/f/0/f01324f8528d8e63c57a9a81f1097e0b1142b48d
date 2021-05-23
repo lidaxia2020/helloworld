@@ -1,12 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
-Rsquid:S1141º"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-osquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹öÏËøÿÿÿÿ
-osquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹öÏËøÿÿÿÿ
-}squid:UselessImportCheckE"TRemove this unnecessary import: same package classes are always implicitly imported.(§äÛÑùÿÿÿÿ
-}squid:UselessImportCheck9"TRemove this unused import 'com.sun.corba.se.pept.transport.ContactInfoListIterator'.(ú¢£úÿÿÿÿ
-~squid:UselessImportCheckF"URemove this unused import 'com.sun.corba.se.impl.transport.CorbaContactInfoListImpl'.(ÉíŸâúÿÿÿÿ
-Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
-Wsquid:UselessImportCheck)"3Remove this unused import 'org.omg.CORBA.TypeCode'.(æŠŠÕ
-Tsquid:UselessImportCheck "0Remove this unused import 'javax.rmi.CORBA.Tie'.(üñÿ¸
-msquid:S1206Ã"PThis class overrides "hashCode()" and should therefore also override "equals()".(êì²³ÿÿÿÿÿ

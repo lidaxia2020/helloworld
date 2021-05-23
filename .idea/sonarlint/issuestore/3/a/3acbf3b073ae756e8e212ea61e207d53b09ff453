@@ -1,7 +1,0 @@
-
-Gsquid:S1066½"/Merge this if statement with the enclosing one.(ëˆ‘™
-hsquid:S1206·"PThis class overrides "hashCode()" and should therefore also override "equals()".(ðÜþŠ
-osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(µ‹›€øÿÿÿÿ
-Tsquid:S1854Ü"7Remove this useless assignment to local variable "sz0".(Çæ«Éùÿÿÿÿ
-`squid:HiddenFieldCheckÌ"8Rename "flag" which hides the field declared at line 57.(ý¤”¿þÿÿÿÿ
-ksquid:S2975À"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ

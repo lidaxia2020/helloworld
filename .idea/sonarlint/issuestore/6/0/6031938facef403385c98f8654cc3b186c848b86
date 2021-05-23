@@ -1,29 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
-squid:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷İšÂûÿÿÿÿ
-squid:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜ßÑÇúÿÿÿÿ
-Vsquid:S1161\":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
-Fsquid:S00108s")Either remove or fill this block of code.(òõ‡åüÿÿÿÿ
-Csquid:S1172…"+Remove this unused method parameter "type".(á¿ï
-Hsquid:S1172¦"+Remove this unused method parameter "type".(§Æò€ùÿÿÿÿ
-Hsquid:S1172½"+Remove this unused method parameter "type".(×˜ªîúÿÿÿÿ
-Csquid:S1172Ò"+Remove this unused method parameter "type".(À«Ù
-Hsquid:S1172ú"+Remove this unused method parameter "type".(Á±ƒ¡úÿÿÿÿ
-Csquid:S1172‹"&Remove these unused method parameters.(˜©Ì¡üÿÿÿÿ
-osquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(˜©Ì¡üÿÿÿÿ
-Wsquid:S1161–":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
-Dsquid:S1872¥"'Use an "instanceof" comparison instead.(îõµ½ÿÿÿÿÿ
-?squid:S1872«"'Use an "instanceof" comparison instead.( ÷ûâ
-Dsquid:S1872³"'Use an "instanceof" comparison instead.(õ¹”Óûÿÿÿÿ
-Dsquid:S1872½"'Use an "instanceof" comparison instead.(ùåÆşÿÿÿÿ
-Dsquid:S1872Ç"'Use an "instanceof" comparison instead.(‡ëœ‚øÿÿÿÿ
-Dsquid:S1872Ñ"'Use an "instanceof" comparison instead.(¢ÃÍûşÿÿÿÿ
-Dsquid:S1872í"'Use an "instanceof" comparison instead.(Ù„…Ôùÿÿÿÿ
-Rsquid:S1161ÿ":Add the "@Override" annotation above this method signature(Éä®†
-Dsquid:S1872"'Use an "instanceof" comparison instead.(îõµ½ÿÿÿÿÿ
-Qsquid:S1161–":Add the "@Override" annotation above this method signature(¼–Ä=
-Wsquid:S1161¤":Add the "@Override" annotation above this method signature(÷İšÂûÿÿÿÿ
-Wsquid:S1161­":Add the "@Override" annotation above this method signature(˜ßÑÇúÿÿÿÿ
-Rsquid:S1161²":Add the "@Override" annotation above this method signature(Ó¤ÍŞ
-Wsquid:S1161¶":Add the "@Override" annotation above this method signature(‚İ±¹ÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

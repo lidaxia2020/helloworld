@@ -1,6 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ú˜í°
-xsquid:UselessImportCheck#"TRemove this unnecessary import: same package classes are always implicitly imported.(…àË
-xsquid:UselessImportCheck$"TRemove this unnecessary import: same package classes are always implicitly imported.(ş‚°é
-jsquid:S2272X"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¹ÉËøıÿÿÿÿ
-Psquid:S1161_":Add the "@Override" annotation above this method signature(ğ¨“

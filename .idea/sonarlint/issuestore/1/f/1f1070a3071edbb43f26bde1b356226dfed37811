@@ -1,21 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
-N
-squid:S106^"9Replace this use of System.out or System.err by a logger.(¦çÜm
-N
-squid:S106_"9Replace this use of System.out or System.err by a logger.(ß€„l
-O
-squid:S106`"9Replace this use of System.out or System.err by a logger.(âé®
-N
-squid:S106c"9Replace this use of System.out or System.err by a logger.(ÑêŸY
-O
-squid:S106f"9Replace this use of System.out or System.err by a logger.(”¶¼§
-T
-squid:S106g"9Replace this use of System.out or System.err by a logger.(ö»Óÿÿÿÿÿ
-T
-squid:S106i"9Replace this use of System.out or System.err by a logger.(ùÄùıÿÿÿÿ
-O
-squid:S106l"9Replace this use of System.out or System.err by a logger.(ëÒìì
-T
-squid:S106m"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,67 +1,0 @@
-
-ksquid:S3824»"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(´ÁÈùÿÿÿÿ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
-esquid:S1192İ"MDefine a constant instead of duplicating this literal "endRowAction" 8 times.(°†Ñ”
-lsquid:S1192²"ODefine a constant instead of duplicating this literal "beginRowAction" 8 times.(Ååï“şÿÿÿÿ
-csquid:S1192Á"FDefine a constant instead of duplicating this literal "check" 3 times.(Šà¶üÿÿÿÿ
-\squid:S2583è"DChange this condition so that it does not always evaluate to "false"(¤€
-squid:S1488ú"bImmediately return this expression instead of assigning it to the temporary variable "notifsInfo".(¥¿Š†şÿÿÿÿ
-Rsquid:S1141Ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Tsquid:S2589¬"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
-Tsquid:S2589 "7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
-Osquid:S2589®"7Remove this expression which always evaluates to "true"(³ Êª
-Osquid:S2589¾"7Remove this expression which always evaluates to "true"(³ Êª
-Osquid:S2589¢"7Remove this expression which always evaluates to "true"(³ Êª
-Tsquid:S2589„"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
-Osquid:S2589¦"7Remove this expression which always evaluates to "true"(­Ê¬
-Tsquid:S2589¼"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
-Tsquid:S2589 "7Remove this expression which always evaluates to "true"(Ó¡ëøÿÿÿÿ
-Osquid:S2589†"7Remove this expression which always evaluates to "true"(³ Êª
-Tsquid:S2589÷"7Remove this expression which always evaluates to "true"(²ÿöàùÿÿÿÿ
-Osquid:S2589ù"7Remove this expression which always evaluates to "true"(³ Êª
-Zsquid:S00107›"<Method has 8 parameters, which is greater than 7 authorized.(İìîÂùÿÿÿÿ
-ssquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡·Åì
-‚squid:S1149»"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(´ÁÈùÿÿÿÿ
-‚squid:S1149¼"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŒÔ©ıÿÿÿÿ
-}squid:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿ‹”Î
-}squid:S1149¹"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿ‹”Î
-‚squid:S1149º"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰ÖàÜüÿÿÿÿ
-‚squid:S1149­"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şĞø†øÿÿÿÿ
-‚squid:S1149·"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œ–°µüÿÿÿÿ
-msquid:S1149Ç"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(£ãÎ
-ssquid:S1149Ğ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(“èêÙÿÿÿÿÿ
-Fsquid:S1948­")Make "entries" transient or serializable.(şĞø†øÿÿÿÿ
-Fsquid:S1948Ç"/Make "handbackTable" transient or serializable.(£ãÎ
-Esquid:S1948Ñ"-Make "filterTable" transient or serializable.(¤á²À
-jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(‰¼•í
-Esquid:S1125ğ"(Remove the literal "true" boolean value.(‘ÚÈÏøÿÿÿÿ
-Bsquid:S00108±")Either remove or fill this block of code.(ÃÁò’
-jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(úÖæĞ
-osquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(µ”€ùûÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ìİ«º
-psquid:ModifiersOrderCheck©"EReorder the modifiers to comply with the Java Language Specification.(üÛ©­ùÿÿÿÿ
-ksquid:ModifiersOrderCheckÄ"EReorder the modifiers to comply with the Java Language Specification.(âéâ¨
-psquid:ModifiersOrderCheckÏ"EReorder the modifiers to comply with the Java Language Specification.(»Ó·šûÿÿÿÿ
-ksquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(ñÿ‰
-psquid:ModifiersOrderCheckå"EReorder the modifiers to comply with the Java Language Specification.(ƒËƒ—úÿÿÿÿ
-Gsquid:S1172œ"*Remove this unused method parameter "oid".(›Áı–üÿÿÿÿ
-Esquid:S1125»"(Remove the literal "true" boolean value.(äˆ£¬ıÿÿÿÿ
-ksquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(‡·Åì
-Osquid:S1197£"8Move the array designator from the variable to the type.(¦†©9
-csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(ó±ò¬
-hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(Ô‹¼¹ÿÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô‹¼¹ÿÿÿÿÿ
-hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(å£Öêøÿÿÿÿ
-csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(©‘üä
-hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(‘úøÿÿÿÿ
-bsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(òóİ
-csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ßü«Û
-csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(Èø‰†
-bsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(è¯ğI
-csquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(Š˜Ô×
-hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(âªß§şÿÿÿÿ
-csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(Üßç
-hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(âªß§şÿÿÿÿ
-csquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(šèß«
-csquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(úŸíĞ
-csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(óŞó

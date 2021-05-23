@@ -1,54 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
-qsquid:S1192â"TDefine a constant instead of duplicating this literal "s4s-att-must-appear" 3 times.(ñ¯õøÿÿÿÿ
-xsquid:S1192®"[Define a constant instead of duplicating this literal "s4s-elt-invalid-content.1" 15 times.(ÊÏ€şÿÿÿÿÿ
-Gsquid:S1066ó"/Merge this if statement with the enclosing one.(ÍÑæÂ
-Gsquid:S1066ù"/Merge this if statement with the enclosing one.(¨ùı
-Lsquid:S1066Ú"/Merge this if statement with the enclosing one.(ØğÌıÿÿÿÿ
-€squid:UselessImportCheck!"WRemove this unused import 'com.sun.org.apache.xerces.internal.impl.dv.SchemaDVFactory'.(­âŠšÿÿÿÿÿ
-™squid:S1186œ	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßóÔÈ
-squid:S1186Ÿ	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏÖşüÿÿÿÿ
-wsquid:S1149¯	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×Æ¹†
-osquid:ModifiersOrderCheck]"EReorder the modifiers to comply with the Java Language Specification.(İ ôÉüÿÿÿÿ
-msquid:S3252w"XUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_SKIP".( ã
-Œsquid:S3252ƒ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_EMPTY".(Ä½’Ôıÿÿÿÿ
-Dsquid:S1165œ"'Make this "errorSubstText" field final.(¾ïƒÕøÿÿÿÿ
-?squid:S1165""Make this "errorElem" field final.(Íâˆ†şÿÿÿÿ
-Msquid:S1948œ"0Make "errorSubstText" transient or serializable.(¾ïƒÕøÿÿÿÿ
-Hsquid:S1948"+Make "errorElem" transient or serializable.(Íâˆ†şÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ù³»Ûùÿÿÿÿ
-esquid:S1871á"MThis branch's code block is the same as the block for the branch on line 316.(á¢–¬
-U
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(¿ŒÇŞúÿÿÿÿ
-jsquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(İÅ—ˆ
-ˆsquid:S3252Œ"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(à”Âà
-squid:S3252Ş"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(™¨›Æùÿÿÿÿ
-‡squid:S3252ã"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(¦Â¡
-Bsquid:S00108ä")Either remove or fill this block of code.(‚ğÀÏ
-isquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(ÇŞŞ<
-Œsquid:S3252õ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(ÑÙü‰øÿÿÿÿ
-Œsquid:S3252ö"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(‡Ò™Êøÿÿÿÿ
-Œsquid:S3252œ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_EMPTY".(¢ÛŸêùÿÿÿÿ
-Gsquid:S00108œ")Either remove or fill this block of code.(¢ÛŸêùÿÿÿÿ
-squid:S3252¢"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_ELEMENT".(âÅ—÷úÿÿÿÿ
-squid:S3252£"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_ELEMENT".(ŞÖ‚ëûÿÿÿÿ
-‡squid:S3252©"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(€ÎñÙ
-Œsquid:S3252ª"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(‡Ò™Êøÿÿÿÿ
-Psquid:UselessParenthesesCheckµ"!Remove these useless parentheses.(ìîÌÌúÿÿÿÿ
-jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(”ÇÅâ
-isquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Ò¹ú]
-‡squid:S3252î"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_EMPTY".(¨ò‘
-‡squid:S3252ğ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(—¦£ã
-‰squid:S3252ò"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_ELEMENT".(ĞĞœÒ
-^squid:S1126”	"AReplace this if-then-else statement by a single return statement.(œÖµèşÿÿÿÿ
-Psquid:S1172œ	"8Remove this unused method parameter "simpleContentDecl".(ßóÔÈ
-Csquid:S1172Ÿ	"&Remove these unused method parameters.(ÏÖşüÿÿÿÿ
-3squid:S3626Ì	"Remove this redundant jump.(ûÁİ…
-‡squid:S3252Å	"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(—¦£ã
->squid:S2129ß	"!Remove this "Integer" constructor(åÉ“Ëÿÿÿÿÿ
-]squid:CallToDeprecatedMethodß	"/Remove this use of "Integer"; it is deprecated.(åÉ“Ëÿÿÿÿÿ
->squid:S2129à	"!Remove this "Integer" constructor(Ş«Ùùşÿÿÿÿ
-]squid:CallToDeprecatedMethodà	"/Remove this use of "Integer"; it is deprecated.(Ş«Ùùşÿÿÿÿ
-dsquid:UnusedPrivateMethodœ	">Remove this unused private "traverseSimpleContentDecl" method.(ßóÔÈ
-jsquid:UnusedPrivateMethodŸ	"?Remove this unused private "traverseComplexContentDecl" method.(ÏÖşüÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

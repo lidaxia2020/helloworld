@@ -1,6 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(äªŒ­
-Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-Bsquid:S2160 "+Override the "equals" method in this class.(¼¼‚í
-Qsquid:S1161=":Add the "@Override" annotation above this method signature(š–¥ñ
-Qsquid:S1161F":Add the "@Override" annotation above this method signature(§Í‘È

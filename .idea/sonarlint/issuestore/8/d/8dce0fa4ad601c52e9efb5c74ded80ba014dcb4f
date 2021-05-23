@@ -1,7 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊÐ·Îûÿÿÿÿ
-Bsquid:S21608"+Override the "equals" method in this class.(öÕÂ×
-vsquid:S001169"YRename this field "_aloadTranslet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑË•¬øÿÿÿÿ
-Qsquid:S1161X":Add the "@Override" annotation above this method signature(×š¤Æ
-Qsquid:S1161b":Add the "@Override" annotation above this method signature(áÃõ™
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

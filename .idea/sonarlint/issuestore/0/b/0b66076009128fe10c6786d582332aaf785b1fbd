@@ -1,6 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(© ±ºûÿÿÿÿ
-Lsquid:S11331"5Do not forget to remove this deprecated code someday.(ì­îù
-Osquid:MissingDeprecatedCheck1"'Add the missing @Deprecated annotation.(ì­îù
-Psquid:S1161E":Add the "@Override" annotation above this method signature(À’N
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

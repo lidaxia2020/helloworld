@@ -1,14 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-]squid:UselessImportCheck%"4Remove this unused import 'sun.swing.DefaultLookup'.(à»¹£úÿÿÿÿ
-_squid:UselessImportCheck";Remove this unused import 'java.beans.PropertyChangeEvent'.(’¢œ§
-Dsquid:S1172["(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
-Dsquid:S1185k"(Remove this method to simply inherit it.(§Äç×øÿÿÿÿ
-Vsquid:S1161k":Add the "@Override" annotation above this method signature(§Äç×øÿÿÿÿ
-Vsquid:S1161x":Add the "@Override" annotation above this method signature(°¤ºçûÿÿÿÿ
-Qsquid:S1161’":Add the "@Override" annotation above this method signature(Í­‚G
-Wsquid:S1161":Add the "@Override" annotation above this method signature(Ã”ù’ûÿÿÿÿ
-asquid:CallToDeprecatedMethod±"3Remove this use of "modelToView"; it is deprecated.(ÓšÂ©ÿÿÿÿÿ
-Bsquid:S00108²")Either remove or fill this block of code.(î¾ŸŞ
-\squid:CallToDeprecatedMethodÄ"3Remove this use of "modelToView"; it is deprecated.(ØŸÅí
-Bsquid:S00108È")Either remove or fill this block of code.(î¾ŸŞ

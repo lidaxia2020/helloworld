@@ -1,15 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-ssquid:S00116:"VRename this field "m_blocksize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì™œüÿÿÿÿ
-hsquid:S00116="PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ñ¤‘
-ssquid:S00116@"VRename this field "m_firstFree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½—ºµùÿÿÿÿ
-qsquid:S00116C"TRename this field "m_mapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÑ‘¶şÿÿÿÿ
-Osquid:S1197="8Move the array designator from the variable to the type.(”ñ¤‘
-Usquid:S1197µ"8Move the array designator from the variable to the type.(¤½É×üÿÿÿÿ
-Usquid:S1197Ñ"8Move the array designator from the variable to the type.(¤½É×üÿÿÿÿ
-Usquid:S1197ï"8Move the array designator from the variable to the type.(¤½É×üÿÿÿÿ
-Usquid:S1197"8Move the array designator from the variable to the type.(¤½É×üÿÿÿÿ
-Psquid:S1197"8Move the array designator from the variable to the type.(¾¸
-psquid:S2975’"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
-esquid:S1182’"HUse super.clone() to create and seed the cloned instance to be returned.(¯ÔÚ“ùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

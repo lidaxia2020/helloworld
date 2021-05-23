@@ -1,57 +1,0 @@
-
-Msquid:S1191ë"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
-_$squid:AssignmentInSubExpressionCheckÇ".Extract the assignment out of this expression.(Â”İ‰
-d$squid:AssignmentInSubExpressionCheckÔ".Extract the assignment out of this expression.(ĞõÓ¢úÿÿÿÿ
-p
-squid:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-p
-squid:S135±"YReduce the total number of break and continue statements in this loop to use at most one.( Ëı 
-_squid:S00112ø"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-_squid:S00112ü"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-_squid:S00112Î"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-_squid:S00112é"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-jsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÉãÜ
-lsquid:S1450Š"TRemove the "qlock" field and declare it as a local variable in the relevant methods.(Ÿ–¥é
-wsquid:S1450Œ"_Remove the "waitingConsumers" field and declare it as a local variable in the relevant methods.(†êÿ
-Ksquid:S3077ø".Remove the "volatile" keyword from this field.(ç“Æûÿÿÿÿÿ
-squid:S1186µ	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ
-xsquid:S00115‚"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(•–Ã°ıÿÿÿÿ
-ssquid:S00115Œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢´ü
-ssquid:S00115•"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñê€Ô
-Wsquid:S1610à":Convert the abstract class "Transferer" into an interface.(–Ô´Şüÿÿÿÿ
-Ksquid:S3077ş".Remove the "volatile" keyword from this field.(ÙÇ°çüÿÿÿÿ
-ssquid:S00115ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš
-Fsquid:S3077±".Remove the "volatile" keyword from this field.(×Ìœ
-Ksquid:S3077²".Remove the "volatile" keyword from this field.(¡¶Èıÿÿÿÿ
-Fsquid:S3077³".Remove the "volatile" keyword from this field.(˜¸ÑÎ
-ssquid:S00115ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©¹üş
-xsquid:S00115í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(èüøÅûÿÿÿÿ
-osquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(²‡øöûÿÿÿÿ
-asquid:S3358¡"DExtract this nested ternary operation into an independent statement.(Ò¹›»ûÿÿÿÿ
-Msquid:S2065Ô"0Remove the "transient" modifier from this field.(Ù–ÅÑûÿÿÿÿ
-Hsquid:S2065Ö"0Remove the "transient" modifier from this field.(¦¡Ê÷
-Hsquid:S2065ß"0Remove the "transient" modifier from this field.(Û¾´£
-Ksquid:S3077Ô".Remove the "volatile" keyword from this field.(Ù–ÅÑûÿÿÿÿ
-Fsquid:S3077Ö".Remove the "volatile" keyword from this field.(¦¡Ê÷
-Fsquid:S3077ß".Remove the "volatile" keyword from this field.(Û¾´£
-ssquid:S00115Û"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš
-rsquid:S00115Ü"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø¢
-xsquid:S00115İ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äÊô§ÿÿÿÿÿ
-Ksquid:S3077’".Remove the "volatile" keyword from this field.(¹İ—öùÿÿÿÿ
-Ksquid:S3077“".Remove the "volatile" keyword from this field.( äŸúÿÿÿÿ
-Fsquid:S3077”".Remove the "volatile" keyword from this field.(˜¸ÑÎ
-xsquid:S00115Â"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú¸³Èúÿÿÿÿ
-xsquid:S00115Ã"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
-osquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(èüøÅûÿÿÿÿ
-jsquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(–Ìôª
-asquid:S3358„"DExtract this nested ternary operation into an independent statement.(Ò¹›»ûÿÿÿÿ
-osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ã‚çÀûÿÿÿÿ
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(îæƒá
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(îæƒá
-Wsquid:S1161«
-":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
-vsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÀÏîøÿÿÿÿ
-qsquid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÓ®
-Asquid:S1068Š")Remove this unused "qlock" private field.(Ÿ–¥é
-Lsquid:S1068Œ"4Remove this unused "waitingConsumers" private field.(†êÿ

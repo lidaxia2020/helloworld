@@ -1,18 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÌÓÓúÿÿÿÿ
-osquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê§ÏÛıÿÿÿÿ
-jsquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
-jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ò
-osquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‰õ‚şÿÿÿÿ
-osquid:S00117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´áºãûÿÿÿÿ
-jsquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆë¬
-isquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ø0
-{squid:S00116j"cRename this field "line_number_table_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¿ÿâ
-ysquid:S00116k"\Rename this field "line_number_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸôÊšüÿÿÿÿ
-|squid:S1149Ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-|squid:S1149Ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ĞµÎúùÿÿÿÿ
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(¼çØıùÿÿÿÿ
-Wsquid:S1161×":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ
-<squid:S1659ø"Declare "r" on a separate line.(ÈÊâùÿÿÿÿ
-9squid:S1659ı"!Declare "min" on a separate line.(Óˆë¬

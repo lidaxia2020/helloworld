@@ -1,44 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-hsquid:S1192İ"QDefine a constant instead of duplicating this literal "Invalid operand " 4 times.(îÍŞQ
-psquid:S1192ä"XDefine a constant instead of duplicating this literal "java.lang.StringBuffer" 10 times.(ßôÊ­
-fsquid:S1192š"NDefine a constant instead of duplicating this literal "Invalid type " 5 times.(Á¬äñ
-`squid:S1192ä"HDefine a constant instead of duplicating this literal "append" 10 times.(ßôÊ­
-^squid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(»â¹X
-dsquid:S00112”"FDefine and throw a dedicated exception instead of using a generic one.(¦Ù¼Öşÿÿÿÿ
-dsquid:S00112¯"FDefine and throw a dedicated exception instead of using a generic one.(ò«ÉÔùÿÿÿÿ
-_squid:S00112Ì"FDefine and throw a dedicated exception instead of using a generic one.(Éä¥ç
-^squid:S00112İ"FDefine and throw a dedicated exception instead of using a generic one.(îÍŞQ
-^squid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(îÍŞQ
-^squid:S00112ø"FDefine and throw a dedicated exception instead of using a generic one.(îÍŞQ
-^squid:S00112‚"FDefine and throw a dedicated exception instead of using a generic one.(îÍŞQ
-_squid:S00112š"FDefine and throw a dedicated exception instead of using a generic one.(Á¬äñ
-_squid:S00112×"FDefine and throw a dedicated exception instead of using a generic one.(Á¬äñ
-_squid:S00112ì"FDefine and throw a dedicated exception instead of using a generic one.(Á¬äñ
-_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Á¬äñ
-_squid:S00112–"FDefine and throw a dedicated exception instead of using a generic one.(Á¬äñ
-_squid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(Ûş©®
-dsquid:S00112¾"FDefine and throw a dedicated exception instead of using a generic one.(‰§Œ¹ıÿÿÿÿ
-_squid:S00112’"FDefine and throw a dedicated exception instead of using a generic one.(Éä¥ç
-_squid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(çÓÒ
-osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¾Âşüÿÿÿÿ
-osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¾Âşüÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÏøùÿÿÿÿ
-jsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å“Å¤
-jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÛÏ–
-jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÛÏ–
-jsquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ü–
-jsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¬‹¸
-osquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á„Œ©úÿÿÿÿ
-osquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ıòÿÿÿÿÿ
-osquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°š³Æûÿÿÿÿ
-rsquid:S3008ã"URename this field "append_mos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆØŸîÿÿÿÿÿ
-@squid:S1948j"$Make "cg" transient or serializable.(îŠûøÿÿÿÿ
-@squid:S1948k"$Make "cp" transient or serializable.(ˆê’äüÿÿÿÿ
-msquid:S00116Ï"TRename this field "arg_types" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÁªÓ
-tsquid:S00116Ğ"VRename this field "result_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÅÏÿÿÿÿÿ
-msquid:S00116Ñ"TRename this field "arg_names" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÂÄ”
-ssquid:S00116Ò"URename this field "class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¬’Äÿÿÿÿÿ
-lsquid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¼“ıÿÿÿÿ
-lsquid:S00100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÄùûÿÿÿÿ
-asquid:CallToDeprecatedMethod±"3Remove this use of "newInstance"; it is deprecated.(£Œş×ûÿÿÿÿ

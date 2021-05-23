@@ -1,7 +1,0 @@
-
-Ysquid:S47194"=Replace Charset.forName() call with StandardCharsets.US_ASCII(ª‚¦Áÿÿÿÿÿ
-[squid:S4719;"?Replace Charset.forName() call with StandardCharsets.ISO_8859_1(²ØÊşÿÿÿÿ
-Vsquid:S4719B":Replace Charset.forName() call with StandardCharsets.UTF_8(ÄõÂ´ıÿÿÿÿ
-Tsquid:S4719I"=Replace Charset.forName() call with StandardCharsets.UTF_16BE(ºÛ •
-Tsquid:S4719P"=Replace Charset.forName() call with StandardCharsets.UTF_16LE(ˆì² 
-Rsquid:S4719W";Replace Charset.forName() call with StandardCharsets.UTF_16(àÓ±˜

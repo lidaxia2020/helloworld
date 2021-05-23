@@ -1,13 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
-vsquid:S1488Š"^Immediately return this expression instead of assigning it to the temporary variable "result".(¢é¤é
-Qsquid:S4973ü"9Use the "equals" method if value comparison was intended.(åÿ¼§
-_squid:S00112£"FDefine and throw a dedicated exception instead of using a generic one.(üÍØØ
-tsquid:UselessImportCheckD"KRemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputObject'.(Àä­®øÿÿÿÿ
-Bsquid:S1181¦"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-osquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(š€½’þÿÿÿÿ
-`squid:HiddenFieldCheckÔ"=Rename "hostname" which hides the field declared at line 106.(¡«žü
-Bsquid:S1181Ð"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-P
-squid:S106Ý"9Replace this use of System.out or System.err by a logger.(Ç­ï³
-hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ

@@ -1,13 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ˆ¨
-Qsquid:S4973Ö"9Use the "equals" method if value comparison was intended.(Ó¾µò
-Qsquid:S4973’"9Use the "equals" method if value comparison was intended.(Ó¾µò
-osquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‡¬°ıÿÿÿÿ
-Wsquid:S1161¶":Add the "@Override" annotation above this method signature(‡¬°ıÿÿÿÿ
-jsquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ş¢
-Rsquid:S1161ò":Add the "@Override" annotation above this method signature(ş¢
-Ê%squid:RedundantThrowsDeclarationCheck¯"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Rsquid:S1161®":Add the "@Override" annotation above this method signature(‰ Çâ
-Ê%squid:RedundantThrowsDeclarationCheck»"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Wsquid:S1161º":Add the "@Override" annotation above this method signature(°‘òŞşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

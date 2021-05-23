@@ -1,10 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-tsquid:S1450;"XRemove the "_langType" field and declare it as a local variable in the relevant methods.(‘ÖÛŸşÿÿÿÿ
-msquid:S00116:"PRename this field "_lang" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œóèèùÿÿÿÿ
-qsquid:S00116;"TRename this field "_langType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÖÛŸşÿÿÿÿ
-squid:S1149D"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Àù÷âÿÿÿÿÿ
-Vsquid:S1161M":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Vsquid:S1161Y":Add the "@Override" annotation above this method signature(óù¬Úüÿÿÿÿ
-Qsquid:S1161c":Add the "@Override" annotation above this method signature(£û×û
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,38 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-dsquid:S1192¬"GDefine a constant instead of duplicating this literal "<init>" 6 times.(œ¦˜Îşÿÿÿÿ
-usquid:UselessImportCheck5"LRemove this unused import 'com.sun.org.apache.bcel.internal.generic.ICONST'.(ÅŠĞÛÿÿÿÿÿ
-_squid:UselessImportCheck*"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
-vsquid:UselessImportCheck:"SRemove this unused import 'com.sun.org.apache.bcel.internal.generic.INVOKEVIRTUAL'.(©ë„e
-fsquid:UselessImportCheck)"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿéúÿÿÿÿ
-Ssquid:UselessImportCheck'"/Remove this unused import 'java.text.Collator'.(Á¬ÓË
-rsquid:UselessImportCheck."NRemove this unused import 'com.sun.org.apache.bcel.internal.classfile.Method'.(ÄÎŠš
-{squid:UselessImportCheck9"RRemove this unused import 'com.sun.org.apache.bcel.internal.generic.INVOKESTATIC'.(öü¼’øÿÿÿÿ
-osquid:S00116Z"RRename this field "_select" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê÷¬çşÿÿÿÿ
-isquid:S00116["QRename this field "_order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØšŒ¹
-rsquid:S00116\"URename this field "_caseOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç„‹øÿÿÿÿ
-qsquid:S00116]"TRename this field "_dataType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬äªæşÿÿÿÿ
-hsquid:S00116^"PRename this field "_lang" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦÷Ê
-hsquid:S00116`"PRename this field "_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à•Äá
-rsquid:S00116c"URename this field "_className" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©µá®ûÿÿÿÿ
-osquid:S00116d"WRename this field "_closureVars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯³Ò°
-squid:S00116e"bRename this field "_needsSortRecordFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¼×·øÿÿÿÿ
-‚squid:S1149¦"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¨ëÚúşÿÿÿÿ
-}squid:S1149ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ò¹¹Ú
-‚squid:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ËÒ£çûÿÿÿÿ
-‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(È Úÿÿÿÿÿ
-‚squid:S1149Í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰½üÿÿÿÿ
-‚squid:S1149ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(›¡½²üÿÿÿÿ
-Rsquid:S1161§":Add the "@Override" annotation above this method signature(ÁØ’›
-Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Rsquid:S1161—":Add the "@Override" annotation above this method signature(†“‹Ø
-Gsquid:S1172û"0Remove this unused method parameter "methodGen".(È¥†7
-Msquid:S1172"0Remove this unused method parameter "methodGen".(ÌÙùûÿÿÿÿ
-Csquid:S1172Í"&Remove these unused method parameters.(‰½üÿÿÿÿ
-Osquid:S1197†"8Move the array designator from the variable to the type.(Ê«Ñ
-Usquid:S1197‡"8Move the array designator from the variable to the type.(¨Ã›ÿÿÿÿÿ
-@squid:S1068`")Remove this unused "_data" private field.(à•Äá
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(Ş„£üÿÿÿÿ
-bsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(ğ¹¨2
-csquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(½ëó²

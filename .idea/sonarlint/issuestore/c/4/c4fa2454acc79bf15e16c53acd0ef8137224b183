@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ØÃµ
-Qsquid:S1141H"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Qsquid:S1141S"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Qsquid:S1141f"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Í£Ñ–ûÿÿÿÿ
-nsquid:S37769"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÄÁ¹ûÿÿÿÿ
-<squid:S1181q"%Catch Exception instead of Throwable.(âÂéî

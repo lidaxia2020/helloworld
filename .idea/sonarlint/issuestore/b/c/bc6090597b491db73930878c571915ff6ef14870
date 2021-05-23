@@ -1,26 +1,0 @@
-
-fsquid:S3824ä"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ê¨
-Š squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(Áªƒÿÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(Áªƒÿÿÿÿÿ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
-Usquid:S4973L"9Use the "equals" method if value comparison was intended.(¯£îşÿÿÿÿ
-Psquid:S4973M"9Use the "equals" method if value comparison was intended.(ïÜ—Ú
-nsquid:S1149Æ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(àŠÔà
-nsquid:S1149É"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(“å¯
-‚squid:S1149Ş"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(É—å±şÿÿÿÿ
-}squid:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ØÂ›ï
-}squid:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ØÂ›ï
-osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(”›äüÿÿÿÿ
-Jsquid:S1659ˆ"-Declare "blockConstraint" on a separate line.(¤„ğÑÿÿÿÿÿ
-^squid:S1126¯"AReplace this if-then-else statement by a single return statement.(²·Ğ´şÿÿÿÿ
-=squid:S1659İ"%Declare "element" on a separate line.(ø¢÷
-?squid:S1659ˆ""Declare "rlen" on a separate line.(á‡ç¥ùÿÿÿÿ
->squid:S1659«"&Declare "newGroup" on a separate line.(ØÂ›ï
-=squid:S1659¯"%Declare "bMethod" on a separate line.(±ßìè
-@squid:S1659¯"(Declare "dSubMethod" on a separate line.(±ßìè
-@squid:S1659¯"(Declare "bSubMethod" on a separate line.(±ßìè
-=squid:S1659Ó"%Declare "bMethod" on a separate line.(Ï×œ¤
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(İ®ÑÇ
-hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(äÕ¢ëÿÿÿÿÿ
-csquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.( È ¼

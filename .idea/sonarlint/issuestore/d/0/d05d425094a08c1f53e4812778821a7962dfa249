@@ -1,17 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö²‰ô
-jsquid:S001018"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢ËûÓûÿÿÿÿ
-isquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‡×ş
-isquid:S00117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔĞª„
-isquid:S00117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔĞª„
-isquid:S00117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔĞª„
-Gsquid:UselessImportCheck)"Remove this duplicated import.(èÂâıÿÿÿÿ
-Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-ssquid:S00116?"[Rename this field "service_contexts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»òå
-rsquid:S00116@"URename this field "request_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ²Öÿÿÿÿÿ
-osquid:S00116A"WRename this field "reply_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†®ÿÔ
-Bsquid:S1905@"&Remove this unnecessary cast to "int".(µ²Öÿÿÿÿÿ
-=squid:S1905A"&Remove this unnecessary cast to "int".(†®ÿÔ
-=squid:S1905D"&Remove this unnecessary cast to "int".(Šï¶©
->squid:S2129"!Remove this "Integer" constructor(ãÙÂÿÿÿÿÿ
-]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ãÙÂÿÿÿÿÿ

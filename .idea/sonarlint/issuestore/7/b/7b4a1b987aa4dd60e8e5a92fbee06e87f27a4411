@@ -1,14 +1,0 @@
-
-Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒğw
-_squid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ®´ã
-Nsquid:S1135D"2Complete the task associated to this TODO comment.(¥€‘ ûÿÿÿÿ
-qsquid:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸‚³ö
-qsquid:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(èƒñ
-vsquid:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÇŞúÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckÇ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(õÉ”D
-bsquid:S2147’"ECombine this catch with the one at line 528, which has the same body.(ƒø³¿ûÿÿÿÿ
->squid:S1168¦"&Return an empty array instead of null.(¥¹ï
-Qsquid:S4719ç"9Replace charset name argument with StandardCharsets.UTF_8(óğú’
-Qsquid:S4719é"9Replace charset name argument with StandardCharsets.UTF_8(ßıßĞ
-Usquid:S1197ë"8Move the array designator from the variable to the type.(Æˆüÿÿÿÿ
-Gsquid:S2093Ş"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

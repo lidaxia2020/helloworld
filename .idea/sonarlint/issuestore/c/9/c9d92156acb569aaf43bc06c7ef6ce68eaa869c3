@@ -1,60 +1,0 @@
-
-p
-squid:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-Ssquid:S2222¡";Unlock this lock along all executions paths of this method.(¥ğ‡
-_squid:S00112ü"FDefine and throw a dedicated exception instead of using a generic one.(Ç¬™
-Ksquid:S3077ü".Remove the "volatile" keyword from this field.(§Ó¾±şÿÿÿÿ
-Fsquid:S3077".Remove the "volatile" keyword from this field.(¥—Ä
-squid:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œçû†şÿÿÿÿ
-™squid:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ä”ŸÕ
-squid:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(òÕ…ûÿÿÿÿ
-˜squid:S1186Í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üã¦%
-Bsquid:S00108®")Either remove or fill this block of code.(Ì¿Ôñ
-vsquid:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ÅºÈüÿÿÿÿ
-Esquid:S1948×"(Make "thread" transient or serializable.(õ×Íùøÿÿÿÿ
-Csquid:S1948Ù"+Make "firstTask" transient or serializable.(…İÑÑ
-Wsquid:S1161ñ":Add the "@Override" annotation above this method signature(€’øûÿÿÿÿ
-Rsquid:S1161õ":Add the "@Override" annotation above this method signature(ÿ†çö
-Wsquid:S1161ı":Add the "@Override" annotation above this method signature(Æ· íùÿÿÿÿ
-Gsquid:S00108")Either remove or fill this block of code.(¦ñ¾›úÿÿÿÿ
-3squid:S3626Ç"Remove this redundant jump.(ûÁİ…
-`squid:HiddenFieldCheck½"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheckà"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheckğ"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheck"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-Gsquid:S00108–")Either remove or fill this block of code.(¦ñ¾›úÿÿÿÿ
-qsquid:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ Ã¿
-jsquid:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÑµºË
-m squid:LabelsShouldNotBeUsedCheckÿ";Refactor the code to remove this label and the need for it.(ÙÑÏ§şÿÿÿÿ
-`squid:HiddenFieldCheck "=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheckÉ"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheckæ"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¡Š¢‚ÿÿÿÿÿ
-^squid:S2142¯"FEither re-interrupt this method or rethrow the "InterruptedException".(Ì‡Ã
->squid:S1181ù"!Catch Exception instead of Error.(ìéÏ¶úÿÿÿÿ
-Bsquid:S1181û"%Catch Exception instead of Throwable.(€çØıÿÿÿÿÿ
-csquid:S2147ù"FCombine this catch with the one at line 1143, which has the same body.(ìéÏ¶úÿÿÿÿ
-Vsquid:S3078‚	">Use an "AtomicLong" for this field; its operations are atomic.(ì£ÇÙ
-`squid:HiddenFieldCheckè
-"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheckˆ"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheck±"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-xsquid:CallToDeprecatedMethodÄ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
-a"squid:ObjectFinalizeOverridenCheckÄ"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
-jsquid:HiddenFieldCheck£"BRename "keepAliveTime" which hides the field declared at line 521.(şáøòûÿÿÿÿ
-W
-squid:S899ô";Do something with the "boolean" value returned by "remove".(×à¡Ñûÿÿÿÿ
-`squid:HiddenFieldCheck‚"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheck•"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheck©"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheck»"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-`squid:HiddenFieldCheckÔ"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-Bsquid:S1659é"%Declare "nactive" on a separate line.(šÄ¸Ùıÿÿÿÿ
-`squid:HiddenFieldCheckê"=Rename "mainLock" which hides the field declared at line 459.( ô®Õ
-\squid:S3358ú"DExtract this nested ternary operation into an independent statement.(ƒ©ÖÆ
-™squid:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥ı¿À
-™squid:S1186ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æ›ó¶
-squid:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ¸À¶ûÿÿÿÿ
-™squid:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áâò•
-squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿáæ˜ıÿÿÿÿ
-csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(ÔüŒõ

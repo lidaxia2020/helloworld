@@ -1,8 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ü©¬Øýÿÿÿÿ
-Osquid:S2589:"8Remove this expression which always evaluates to "false"(–ËÔþ
-Msquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ð¥Å
-Qsquid:S1118&":Add a private constructor to hide the implicit public one.(À›°™
-@squid:S19408")Use the opposite operator ("!=") instead.(¿òí¶
-@squid:S1125:")Remove the literal "false" boolean value.(–ËÔþ
-gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(Ä‡ßýÿÿÿÿ

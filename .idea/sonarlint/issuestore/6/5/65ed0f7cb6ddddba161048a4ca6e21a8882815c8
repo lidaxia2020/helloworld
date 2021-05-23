@@ -1,39 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.( Šİ¹ıÿÿÿÿ
-osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¦ãùÿÿÿÿ
-osquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
-jsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ‹“
-osquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¦ãùÿÿÿÿ
-osquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
-jsquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ‹“
-osquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
-jsquid:S00117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¿ˆØ
-osquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡å¬çùÿÿÿÿ
-osquid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’ëúÿÿÿÿ
-osquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ
-psquid:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(«‚ôÂ
-usquid:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(è—¡®ıÿÿÿÿ
-Ksquid:EmptyStatementUsageCheckW"Remove this empty statement.(ôŸìúÿÿÿÿ
-usquid:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÒèùÿÿÿÿ
-nsquid:S3776y"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(»é½Şúÿÿÿÿ
-qsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÍŒ×
-vsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦„øùÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckÈ"Remove this empty statement.(ôŸìúÿÿÿÿ
-osquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(×ØÚ¼úÿÿÿÿ
-]squid:HiddenFieldCheckš":Rename "result" which hides the field declared at line 78.(İäî–
-Psquid:S1197²"8Move the array designator from the variable to the type.(Ë‡÷É
-osquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(”˜Êüÿÿÿÿ
-]squid:HiddenFieldChecká":Rename "result" which hides the field declared at line 78.(İäî–
-Psquid:S1197"8Move the array designator from the variable to the type.(Ë‡÷É
-osquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’ÅÂíşÿÿÿÿ
-Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(’ÅÂíşÿÿÿÿ
-jsquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ê‰ú­
-Esquid:S1659ƒ"(Declare "tauthority" on a separate line.(ã‹ùœÿÿÿÿÿ
-@squid:S1659ƒ"#Declare "tpath" on a separate line.(ã‹ùœÿÿÿÿÿ
-Asquid:S1659ƒ"$Declare "tquery" on a separate line.(ã‹ùœÿÿÿÿÿ
->squid:S1075"&Remove this hard-coded path-delimiter.(Åô’
-osquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(×´í–úÿÿÿÿ
-`squid:S5361¼"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ù»ïë
-asquid:S1134ã"DTake the required action to fix the issue indicated by this comment.(ğ¼öÜÿÿÿÿÿ
-asquid:S1134…"DTake the required action to fix the issue indicated by this comment.(ğ¼öÜÿÿÿÿÿ
-=squid:S3398ë"%Move this method into "XmlAttrStack".(ê‰ú­

@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ðÔñ¯ýÿÿÿÿ
-Ssquid:UselessImportCheckZ"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
-qsquid:S3008y"URename this field "_instances" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª“ƒÊøÿÿÿÿ
-msquid:S00116{"PRename this field "_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‚È¶ûÿÿÿÿ
-qsquid:S00116|"YRename this field "_loadedClasses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß±ðø
-Lsquid:S1068w"0Remove this unused "DEFAULT_PATH" private field.(ùà«óúÿÿÿÿ

@@ -1,92 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
-ssquid:S1192¢"[Define a constant instead of duplicating this literal "Error in parsing time zone" 6 times.(êİÙŠ
-gsquid:S1192¬"JDefine a constant instead of duplicating this literal "tempDate=" 3 times.(“¦Àüıÿÿÿÿ
-qsquid:S1192è"TDefine a constant instead of duplicating this literal "' has wrong format" 10 times.(Òƒä²ıÿÿÿÿ
-`squid:S00107”"BConstructor has 10 parameters, which is greater than 7 authorized.(óÿ§˜ıÿÿÿÿ
-_squid:S00112¢"FDefine and throw a dedicated exception instead of using a generic one.(êİÙŠ
-_squid:S00112ª"FDefine and throw a dedicated exception instead of using a generic one.(êİÙŠ
-_squid:S00112Í"FDefine and throw a dedicated exception instead of using a generic one.(÷„·’
-^squid:S00112ë"FDefine and throw a dedicated exception instead of using a generic one.(â”ãk
-dsquid:S00112ï"FDefine and throw a dedicated exception instead of using a generic one.(şò°‹øÿÿÿÿ
-^squid:S00112ñ"FDefine and throw a dedicated exception instead of using a generic one.(ƒ÷¨@
-dsquid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(îĞ—ôÿÿÿÿÿ
-_squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(àå“¼
-_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(âäß
-_squid:S00112¦"FDefine and throw a dedicated exception instead of using a generic one.(êİÙŠ
-_squid:S00112±"FDefine and throw a dedicated exception instead of using a generic one.(êİÙŠ
-_squid:S00112¸"FDefine and throw a dedicated exception instead of using a generic one.(êİÙŠ
-_squid:S00112¾"FDefine and throw a dedicated exception instead of using a generic one.(êİÙŠ
-_squid:S00112¡"FDefine and throw a dedicated exception instead of using a generic one.(÷³ßè
-dsquid:S00112ğ"FDefine and throw a dedicated exception instead of using a generic one.(üñ‘Íùÿÿÿÿ
-_squid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(ï·ç
-_squid:S00112û"FDefine and throw a dedicated exception instead of using a generic one.(ÖÙÕË
-dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(û‚—†úÿÿÿÿ
-_squid:S00112”"FDefine and throw a dedicated exception instead of using a generic one.(İ÷Õğ
-_squid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(Ùãì
-dsquid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ıìÄëûÿÿÿÿ
-dsquid:S00112¢"FDefine and throw a dedicated exception instead of using a generic one.(ıìÄëûÿÿÿÿ
-_squid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(İ÷Õğ
-jsquid:S00117…
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¹Ûê
-wsquid:S1149Ê"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ã¿ÙÒ
-wsquid:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•›ÉØ
-|squid:S1149ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹Ä§Ëıÿÿÿÿ
-wsquid:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùÍÔÎ
-|squid:S1149Œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Óˆ‚øÿÿÿÿ
-wsquid:S1149ı	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(†Íä÷
-jsquid:ModifiersOrderCheckM"EReorder the modifiers to comply with the Java Language Specification.(œ©å¯
-osquid:ModifiersOrderCheckN"EReorder the modifiers to comply with the Java Language Specification.(Îã›øÿÿÿÿ
-jsquid:ModifiersOrderCheckO"EReorder the modifiers to comply with the Java Language Specification.(©¿¤²
-squid:S3252T"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(øƒ…
-„squid:S3252T"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(øƒ…
-…squid:S3252T"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(øƒ…
-†squid:S3252T"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(øƒ…
-†squid:S3252T"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(øƒ…
-†squid:S3252T"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXEXCLUSIVE".(øƒ…
-†squid:S3252T"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINEXCLUSIVE".(øƒ…
-osquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(«ĞÑÌøÿÿÿÿ
-Jsquid:S1172€"-Remove this unused method parameter "strict".(«ĞÑÌøÿÿÿÿ
-8squid:S1659„" Declare "c2" on a separate line.(˜ÔÃ
-U
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(“¦Àüıÿÿÿÿ
-U
-squid:S106±"9Replace this use of System.out or System.err by a logger.(‹œ¤İÿÿÿÿÿ
-U
-squid:S106²"9Replace this use of System.out or System.err by a logger.(“¦Àüıÿÿÿÿ
-U
-squid:S106Á"9Replace this use of System.out or System.err by a logger.(“¦Àüıÿÿÿÿ
-osquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(»«‘®üÿÿÿÿ
-—%squid:RedundantThrowsDeclarationCheck˜"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(éäë
-œ%squid:RedundantThrowsDeclarationCheckÈ"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(³¹á¢ûÿÿÿÿ
-—%squid:RedundantThrowsDeclarationChecká"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(àå“¼
-—%squid:RedundantThrowsDeclarationCheck‰"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(ŸƒŸü
-—%squid:RedundantThrowsDeclarationCheck¡"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(÷³ßè
-U
-squid:S106Á"9Replace this use of System.out or System.err by a logger.(´¹¬»ùÿÿÿÿ
-osquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ì—‘şÿÿÿÿ
-¡%squid:RedundantThrowsDeclarationCheckİ"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(İë¯ûÿÿÿÿ
-O
-squid:S106¸"9Replace this use of System.out or System.err by a logger.(ñòæ
-U
-squid:S106¹"9Replace this use of System.out or System.err by a logger.(³—‡‘ùÿÿÿÿ
-U
-squid:S106À"9Replace this use of System.out or System.err by a logger.(õ†‚óşÿÿÿÿ
-P
-squid:S106Ç"9Replace this use of System.out or System.err by a logger.(ß—©‡
-U
-squid:S106È"9Replace this use of System.out or System.err by a logger.(õ†‚óşÿÿÿÿ
-osquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Óˆ‚øÿÿÿÿ
-¡%squid:RedundantThrowsDeclarationCheckĞ"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(İë¯ûÿÿÿÿ
-;squid:S1659û"#Declare "month" on a separate line.( ¶“¿
-9squid:S1659û"!Declare "day" on a separate line.( ¶“¿
-:squid:S1659û""Declare "hour" on a separate line.( ¶“¿
-<squid:S1659û"$Declare "minute" on a separate line.( ¶“¿
-9squid:S1659û"!Declare "utc" on a separate line.( ¶“¿
-Fsquid:S1659ı")Declare "timezoneMin" on a separate line.(‘’Èÿÿÿÿÿ
-Hsquid:S1172•"1Remove this unused method parameter "normalized".(ƒ”Ìb
-ksquid:S2975Ï	"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-`squid:S1182Ï	"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
-Hsquid:S1172ô	"+Remove this unused method parameter "data".(ßæô™ÿÿÿÿÿ
-Csquid:S1172ø	"+Remove this unused method parameter "data".(šç” 
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

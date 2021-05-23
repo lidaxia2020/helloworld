@@ -1,77 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(²úğÿÿÿÿÿ
-Gsquid:S1066´"/Merge this if statement with the enclosing one.(ÈÒšå
-Lsquid:S1066·"/Merge this if statement with the enclosing one.(ıšı°ÿÿÿÿÿ
-Lsquid:S1066Ë"/Merge this if statement with the enclosing one.(ıøÔ¾ùÿÿÿÿ
-Gsquid:S1066Ã"/Merge this if statement with the enclosing one.(çŸä‹
-Lsquid:S1066"/Merge this if statement with the enclosing one.(•ıô™úÿÿÿÿ
-Jsquid:S1199‰"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Ê"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199İ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199œ	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Í	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Ù	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199
-"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199è"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckã".Extract the assignment out of this expression.(İõáíøÿÿÿÿ
-{squid:S1157»"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ê‚€Ô
-Fsquid:S2065h"0Remove the "transient" modifier from this field.(ŸÚñW
-Lsquid:S2065x"0Remove the "transient" modifier from this field.(ã¤Ÿ•ùÿÿÿÿ
-Hsquid:S2065‡"0Remove the "transient" modifier from this field.(Å¦à§
-squid:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(šøµ“ıÿÿÿÿ
-™squid:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹‚Ãş
-gsquid:S00116h"PRename this field "m_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÚñW
-usquid:S00116j"XRename this field "m_last_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«È›èùÿÿÿÿ
-msquid:S00116o"URename this field "m_last_kid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õûä
-nsquid:S00116x"QRename this field "m_root" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¤Ÿ•ùÿÿÿÿ
-zsquid:S00116~"bRename this field "m_processedFirstElement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÚÔ¢
-wsquid:S00116‡"^Rename this field "m_nodesAreProcessed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¦à§
-psquid:S00116“"RRename this field "m_nodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çœ¾ûÿÿÿÿ
-qsquid:S00116"SRename this field "m_walker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ÿ»Ãıÿÿÿÿ
-‚squid:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(çœ¾ûÿÿÿÿ
-isquid:ModifiersOrderCheckh"EReorder the modifiers to comply with the Java Language Specification.(ŸÚñW
-osquid:ModifiersOrderCheckx"EReorder the modifiers to comply with the Java Language Specification.(ã¤Ÿ•ùÿÿÿÿ
-ksquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(Å¦à§
-jsquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(”””
-ksquid:S3776€"SRefactor this method to reduce its Cognitive Complexity from 125 to the 15 allowed.(ìÎÂñ
-U
-squid:S106Í"9Replace this use of System.out or System.err by a logger.(§øúŠüÿÿÿÿ
-P
-squid:S106Ù"9Replace this use of System.out or System.err by a logger.(¶â¾Ï
-P
-squid:S106€"9Replace this use of System.out or System.err by a logger.(Ñå‡÷
-P
-squid:S106‚"9Replace this use of System.out or System.err by a logger.(èâ…ê
-Wsquid:S1161™":Add the "@Override" annotation above this method signature(İÍ’‚şÿÿÿÿ
-osquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÃìˆËøÿÿÿÿ
-osquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(àî• şÿÿÿÿ
-Wsquid:S1161Á":Add the "@Override" annotation above this method signature(Éßò¨ÿÿÿÿÿ
-jsquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ìĞô
-jsquid:S3776®
-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ã¸ÚÎ
-osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¡¡˜Ïıÿÿÿÿ
-jsquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(õ†íš
-Jsquid:S1135‘"2Complete the task associated to this TODO comment.(Ğ­²
-Jsquid:S1135™"2Complete the task associated to this TODO comment.(öØúü
-Osquid:S1135¤"2Complete the task associated to this TODO comment.(ˆ·ïıÿÿÿÿ
-Jsquid:S1135§"2Complete the task associated to this TODO comment.(ã²ì¦
-h
-squid:S128ñ"LEnd this switch case with an unconditional break, return or throw statement.(”İğ»ûÿÿÿÿ
-Wsquid:UnusedPrivateMethod",Remove this unused private "isSpace" method.(Ê–ğúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(†ş»
-hsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(¨¾¦´ÿÿÿÿÿ
-hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.( ÿüÿÿÿÿ
-csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(…ƒß
-csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(À›®Ÿ
-csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ËŞâ
-csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(—ù¾Ë
-hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(ìïÛşÿÿÿÿ
-csquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(†ş»
-hsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(¨¾¦´ÿÿÿÿÿ
-csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(ÛİúË
-hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(º¸Øüÿÿÿÿÿ
-hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ÚÒ¾˜øÿÿÿÿ
-hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ÌÙ‚øÿÿÿÿ
-hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(‰Óçùÿÿÿÿ

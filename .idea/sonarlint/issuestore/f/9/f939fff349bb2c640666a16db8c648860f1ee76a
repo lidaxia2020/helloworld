@@ -1,39 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ôªº©şÿÿÿÿ
-Qsquid:S1118>":Add a private constructor to hide the implicit public one.(ÎŸÂş
-osquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(œ¯’áùÿÿÿÿ
-gsquid:CallToDeprecatedMethod½"9Remove this use of "AppletInitializer"; it is deprecated.(œ¯’áùÿÿÿÿ
-\squid:CallToDeprecatedMethod‹"3Remove this use of "newInstance"; it is deprecated.(õàäù
-Zsquid:CallToDeprecatedMethod—"2Remove this use of "AppletStub"; it is deprecated.(ÖÁ§^
-\squid:CallToDeprecatedMethod™".Remove this use of "Applet"; it is deprecated.(‡—‡Ùûÿÿÿÿ
-Wsquid:CallToDeprecatedMethodš".Remove this use of "Applet"; it is deprecated.(Óéûë
-Wsquid:CallToDeprecatedMethodš".Remove this use of "Applet"; it is deprecated.(Óéûë
-Jsquid:S1905×"-Remove this unnecessary cast to "AppletStub".(Œ¤…Äûÿÿÿÿ
-`squid:CallToDeprecatedMethod×"2Remove this use of "AppletStub"; it is deprecated.(Œ¤…Äûÿÿÿÿ
-Isquid:S1172–"1Remove this unused method parameter "targetType".(©Îã
-˜%squid:RedundantThrowsDeclarationCheckë"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(²ßôÊ
-˜%squid:RedundantThrowsDeclarationCheckŒ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(²ßôÊ
-²%squid:RedundantThrowsDeclarationCheck©"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(é‘Ìªùÿÿÿÿ
-Wsquid:S1161¹":Add the "@Override" annotation above this method signature(ÛŞ‰şÿÿÿÿ
-ssquid:S1149Ë"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ó€ ıÿÿÿÿ
-|squid:S1149ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰Èš)
-csquid:CallToDeprecatedMethodÉ"5Remove this use of "AppletContext"; it is deprecated.(æÚŠ¸úÿÿÿÿ
-Wsquid:CallToDeprecatedMethodÊ".Remove this use of "Applet"; it is deprecated.(ÍıŒÅ
-7squid:S2112Ë"Use the URI class instead.(Ó€ ıÿÿÿÿ
-Vsquid:CallToDeprecatedMethodÍ".Remove this use of "Applet"; it is deprecated.(úŒæ)
-_squid:CallToDeprecatedMethodÑ"1Remove this use of "AudioClip"; it is deprecated.(ŸÀØÍÿÿÿÿÿ
-_squid:CallToDeprecatedMethodÖ"1Remove this use of "AudioClip"; it is deprecated.(Œ¶¤³ûÿÿÿÿ
-Wsquid:CallToDeprecatedMethodô".Remove this use of "Applet"; it is deprecated.( şÏã
-\squid:CallToDeprecatedMethodø".Remove this use of "Applet"; it is deprecated.(Í¸¸Éşÿÿÿÿ
-Vsquid:CallToDeprecatedMethodù".Remove this use of "Applet"; it is deprecated.(‰Èš)
-Msquid:S2065 "0Remove the "transient" modifier from this field.(”ö‰øÿÿÿÿ
-Hsquid:S2065¡"0Remove the "transient" modifier from this field.(Œ¿Úí
-Hsquid:S2065¢"0Remove the "transient" modifier from this field.(ˆšŸÜ
-Hsquid:S2065£"0Remove the "transient" modifier from this field.(œŸ‹
-Hsquid:S2065¤"0Remove the "transient" modifier from this field.(§‘ï¢
-`squid:CallToDeprecatedMethodŸ"2Remove this use of "AppletStub"; it is deprecated.(üÈÄôüÿÿÿÿ
-Wsquid:CallToDeprecatedMethod¡".Remove this use of "Applet"; it is deprecated.(Œ¿Úí
-^squid:CallToDeprecatedMethod¢"5Remove this use of "AppletContext"; it is deprecated.(ˆšŸÜ
-\squid:CallToDeprecatedMethod¦".Remove this use of "Applet"; it is deprecated.(šüğÖşÿÿÿÿ
-csquid:CallToDeprecatedMethod§"5Remove this use of "AppletContext"; it is deprecated.(Ğ±ŒŸÿÿÿÿÿ
-^squid:CallToDeprecatedMethodÁ"5Remove this use of "AppletContext"; it is deprecated.(şğÖ²

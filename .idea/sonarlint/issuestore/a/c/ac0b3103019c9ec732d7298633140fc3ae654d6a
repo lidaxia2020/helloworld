@@ -1,209 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ˆ¨
-asquid:S1192œ"IDefine a constant instead of duplicating this literal "xml:base" 4 times.(ËÂ¦â
-csquid:S1192›"LDefine a constant instead of duplicating this literal "   baseURI:" 7 times.(·Ã°>
-nsquid:S1192ƒ"VDefine a constant instead of duplicating this literal "   expandedSystemId: " 3 times.(ÃıáÌ
-‚squid:S1192™"eDefine a constant instead of duplicating this literal "http://www.w3.org/XML/1998/namespace" 3 times.(ºûô×ÿÿÿÿÿ
-asquid:S1192¢"JDefine a constant instead of duplicating this literal "<!ENTITY " 3 times.(ª§ôM
-Lsquid:S1066‡"/Merge this if statement with the enclosing one.(÷ƒê úÿÿÿÿ
-Lsquid:S1066³"/Merge this if statement with the enclosing one.(ÁŠÀŞÿÿÿÿÿ
-Lsquid:S1066½"/Merge this if statement with the enclosing one.(ÁŠÀŞÿÿÿÿÿ
-Gsquid:S1066®"/Merge this if statement with the enclosing one.(ÂÏ¾
-Lsquid:S1066Î"/Merge this if statement with the enclosing one.(åÊëüÿÿÿÿ
-Gsquid:S1066€"/Merge this if statement with the enclosing one.(õÏï
-Esquid:S1199ª"-Extract this nested code block into a method.(òºËÌ
-Jsquid:S1199­"-Extract this nested code block into a method.(âçê—ıÿÿÿÿ
-Esquid:S1199³"-Extract this nested code block into a method.(ëÈõñ
-Jsquid:S1199¼"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Esquid:S1199‚"-Extract this nested code block into a method.(òºËÌ
-Jsquid:S1199…"-Extract this nested code block into a method.(âçê—ıÿÿÿÿ
-Esquid:S1199ˆ"-Extract this nested code block into a method.(ëÈõñ
-Jsquid:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Jsquid:S1199×"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Û"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199á"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199ì"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Esquid:S1199"-Extract this nested code block into a method.(òºËÌ
-Jsquid:S1199’"-Extract this nested code block into a method.(âçê—ıÿÿÿÿ
-Esquid:S1199˜"-Extract this nested code block into a method.(ëÈõñ
-Jsquid:S1199®"-Extract this nested code block into a method.(÷ìéªıÿÿÿÿ
-Esquid:S1199€"-Extract this nested code block into a method.(òºËÌ
-Jsquid:S1199ƒ"-Extract this nested code block into a method.(âçê—ıÿÿÿÿ
-Esquid:S1199†"-Extract this nested code block into a method.(ëÈõñ
-Jsquid:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Esquid:S1199ƒ"-Extract this nested code block into a method.(òºËÌ
-Jsquid:S1199†"-Extract this nested code block into a method.(âçê—ıÿÿÿÿ
-Esquid:S1199"-Extract this nested code block into a method.(ëÈõñ
-Jsquid:S1199”"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Esquid:S1199„"-Extract this nested code block into a method.(òºËÌ
-Jsquid:S1199‡"-Extract this nested code block into a method.(âçê—ıÿÿÿÿ
-Esquid:S1199Š"-Extract this nested code block into a method.(ëÈõñ
-Jsquid:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Psquid:S4973‡"9Use the "equals" method if value comparison was intended.(÷³És
-_squid:S00112÷"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-jsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãó©ˆ
-™squid:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ¸£è
-squid:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş†êäûÿÿÿÿ
-™squid:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãââ
-™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–ªŸ
-squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø»üËøÿÿÿÿ
-\squid:S2387Í"?"fInDTD" is the name of a field in "AbstractXMLDocumentParser".(ç’‹¡üÿÿÿÿ
-hsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Şµ–
-hsquid:S1149¤"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(™’·Û
-fsquid:S3551»"IMake this method "synchronized" to match the parent class implementation.(ÈÒÄøÿÿÿÿ
-Wsquid:S1161»":Add the "@Override" annotation above this method signature(ÈÒÄøÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck·"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ø¿ï÷üÿÿÿÿ
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(Ø¿ï÷üÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck–"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-osquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Û¶Àãúÿÿÿÿ
-Wsquid:S1161“":Add the "@Override" annotation above this method signature(Û¶Àãúÿÿÿÿ
-U
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(Âçœµûÿÿÿÿ
-P
-squid:S106š"9Replace this use of System.out or System.err by a logger.(±—ÚÂ
-O
-squid:S106›"9Replace this use of System.out or System.err by a logger.(·Ã°>
-°%squid:RedundantThrowsDeclarationCheckõ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ıİªò
-Rsquid:S1161õ":Add the "@Override" annotation above this method signature(ıİªò
-°%squid:RedundantThrowsDeclarationCheck“"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ƒ­¨„
-3squid:S3626¹"Remove this redundant jump.(ûÁİ…
-jsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ƒ­¨„
-Rsquid:S1161“":Add the "@Override" annotation above this method signature(ƒ­¨„
-µ%squid:RedundantThrowsDeclarationCheckã"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-3squid:S3626"Remove this redundant jump.(ûÁİ…
-osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†µğ§ıÿÿÿÿ
-Wsquid:S1161â":Add the "@Override" annotation above this method signature(†µğ§ıÿÿÿÿ
-P
-squid:S106ò"9Replace this use of System.out or System.err by a logger.(§©ƒ
-Gsquid:S00108")Either remove or fill this block of code.(Î—­Šşÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¹"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-osquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ï‘ Äøÿÿÿÿ
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(Ï‘ Äøÿÿÿÿ
-asquid:CallToDeprecatedMethodÚ"3Remove this use of "newInstance"; it is deprecated.(–¾Š›ùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¤"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Qsquid:S1161¢":Add the "@Override" annotation above this method signature(ëÑT
-µ%squid:RedundantThrowsDeclarationCheckÉ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(Š±Ïúÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckê"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-osquid:S3776é"RRefactor this method to reduce its Cognitive Complexity from 97 to the 15 allowed.(óÅ‰¾ıÿÿÿÿ
-Wsquid:S1161é":Add the "@Override" annotation above this method signature(óÅ‰¾ıÿÿÿÿ
-P
-squid:S106ì"9Replace this use of System.out or System.err by a logger.(í…û
-µ%squid:RedundantThrowsDeclarationCheckÁ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Qsquid:S1161À	":Add the "@Override" annotation above this method signature(ƒë–y
-°%squid:RedundantThrowsDeclarationCheckÔ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Â¸¶¼
-jsquid:S3776Ô	"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(Â¸¶¼
-Rsquid:S1161Ô	":Add the "@Override" annotation above this method signature(Â¸¶¼
-P
-squid:S106×	"9Replace this use of System.out or System.err by a logger.(¶´ÒÓ
-°%squid:RedundantThrowsDeclarationCheck»
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¦š¬ö
-Rsquid:S1161»
-":Add the "@Override" annotation above this method signature(¦š¬ö
-µ%squid:RedundantThrowsDeclarationCheckå
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(×¯”şÿÿÿÿ
-osquid:S3776å
-"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(×¯”şÿÿÿÿ
-Wsquid:S1161å
-":Add the "@Override" annotation above this method signature(×¯”şÿÿÿÿ
-P
-squid:S106ç
-"9Replace this use of System.out or System.err by a logger.(¡µÙ¡
-Gsquid:S00108®")Either remove or fill this block of code.(÷ìéªıÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÚ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÚ ı
-Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(äÚ ı
-µ%squid:RedundantThrowsDeclarationCheckñ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Åş†ÿÿÿÿÿ
-osquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Åş†ÿÿÿÿÿ
-Wsquid:S1161ñ":Add the "@Override" annotation above this method signature(Åş†ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck«"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ª¢ïÃ
-jsquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ª¢ïÃ
-Rsquid:S1161«":Add the "@Override" annotation above this method signature(ª¢ïÃ
-°%squid:RedundantThrowsDeclarationCheck×"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Œ£¯Å
-jsquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 80 to the 15 allowed.(Œ£¯Å
-Rsquid:S1161×":Add the "@Override" annotation above this method signature(Œ£¯Å
-P
-squid:S106Ù"9Replace this use of System.out or System.err by a logger.(¼­èÃ
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(±äùµ
-°%squid:RedundantThrowsDeclarationCheckÿ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¸şÌ‡
-Rsquid:S1161ÿ":Add the "@Override" annotation above this method signature(¸şÌ‡
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ôŠÎØøÿÿÿÿ
-P
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÃıáÌ
-P
-squid:S106„"9Replace this use of System.out or System.err by a logger.(ÇÉ£Ÿ
-°%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(’«‹Í
-Rsquid:S1161":Add the "@Override" annotation above this method signature(’«‹Í
-P
-squid:S106 "9Replace this use of System.out or System.err by a logger.(§¨ù
-°%squid:RedundantThrowsDeclarationCheckÅ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Õ¸£è
-Rsquid:S1161Å":Add the "@Override" annotation above this method signature(Õ¸£è
-µ%squid:RedundantThrowsDeclarationCheckÔ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ş†êäûÿÿÿÿ
-Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(Ş†êäûÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckå"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Rsquid:S1161ä":Add the "@Override" annotation above this method signature(¡–ÆÎ
-P
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(Ç„»
-U
-squid:S106é"9Replace this use of System.out or System.err by a logger.(Ú“ŸÂıÿÿÿÿ
-O
-squid:S106ê"9Replace this use of System.out or System.err by a logger.(·Ã°>
-°%squid:RedundantThrowsDeclarationCheckı"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÍ¨´
-Rsquid:S1161ı":Add the "@Override" annotation above this method signature(äÍ¨´
-µ%squid:RedundantThrowsDeclarationCheck˜"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-osquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(æã˜°ùÿÿÿÿ
-Wsquid:S1161–":Add the "@Override" annotation above this method signature(æã˜°ùÿÿÿÿ
-P
-squid:S106›"9Replace this use of System.out or System.err by a logger.(íèè
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûó¯şúÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckï"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-jsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ˆé–“
-Rsquid:S1161î":Add the "@Override" annotation above this method signature(ˆé–“
-P
-squid:S106ó"9Replace this use of System.out or System.err by a logger.(½øä“
-U
-squid:S106õ"9Replace this use of System.out or System.err by a logger.(Ú“ŸÂıÿÿÿÿ
-O
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(·Ã°>
-µ%squid:RedundantThrowsDeclarationCheckÕ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Rsquid:S1161Ò":Add the "@Override" annotation above this method signature(²œä
-U
-squid:S106×"9Replace this use of System.out or System.err by a logger.(ªïÖ­ûÿÿÿÿ
-U
-squid:S106Ù"9Replace this use of System.out or System.err by a logger.(Ú“ŸÂıÿÿÿÿ
-O
-squid:S106Ú"9Replace this use of System.out or System.err by a logger.(·Ã°>
-°%squid:RedundantThrowsDeclarationCheckô"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(°ı¿Í
-Rsquid:S1161ô":Add the "@Override" annotation above this method signature(°ı¿Í
-P
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(·¼ÜÛ
-µ%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-isquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Œ»Ä5
-Qsquid:S1161Œ":Add the "@Override" annotation above this method signature(Œ»Ä5
-P
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(»Ÿ‡¨
-U
-squid:S106“"9Replace this use of System.out or System.err by a logger.(Ú“ŸÂıÿÿÿÿ
-O
-squid:S106”"9Replace this use of System.out or System.err by a logger.(·Ã°>
-µ%squid:RedundantThrowsDeclarationChecké"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-jsquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ò•¸
-Rsquid:S1161è":Add the "@Override" annotation above this method signature(ò•¸
-°%squid:RedundantThrowsDeclarationCheckµ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ãââ
-Rsquid:S1161µ":Add the "@Override" annotation above this method signature(ãââ
-µ%squid:RedundantThrowsDeclarationCheckÈ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(µ–Åùøÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckõ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¼ûĞñ
-osquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(œ»Âúÿÿÿÿ
-Wsquid:S1161ò":Add the "@Override" annotation above this method signature(œ»Âúÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(–ªŸ
-Rsquid:S1161":Add the "@Override" annotation above this method signature(–ªŸ
-µ%squid:RedundantThrowsDeclarationCheck "~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ø»üËøÿÿÿÿ
-Wsquid:S1161 ":Add the "@Override" annotation above this method signature(ø»üËøÿÿÿÿ
-3squid:S3626Œ"Remove this redundant jump.(ûÁİ…
-isquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(óŸŠA
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶íÓ¢
-hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(Àõıÿÿÿÿ
-hsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(¼Êéøÿÿÿÿ

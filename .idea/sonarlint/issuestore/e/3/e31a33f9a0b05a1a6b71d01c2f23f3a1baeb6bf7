@@ -1,12 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-ssquid:S1450="WRemove the "_message" field and declare it as a local variable in the relevant methods.(˜€Î‘şÿÿÿÿ
-rsquid:S00116<"URename this field "_fallbacks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ï’Ôøÿÿÿÿ
-psquid:S00116="SRename this field "_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜€Î‘şÿÿÿÿ
-osquid:S00116>"WRename this field "_isExtension" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú€Øâ
-squid:S1149<"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¦ï’Ôøÿÿÿÿ
-|squid:S1149r"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼Ó¿®
-Vsquid:S1161b":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-Rsquid:S1161Š":Add the "@Override" annotation above this method signature(ÁØ’›
-Hsquid:S1068=",Remove this unused "_message" private field.(˜€Î‘şÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

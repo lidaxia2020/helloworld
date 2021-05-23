@@ -1,23 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
-[squid:UselessImportCheck"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’
-Qsquid:S1161N":Add the "@Override" annotation above this method signature(ÀÅÎ›
-Nsquid:S1172X"2Remove this unused method parameter "fromScratch".(£‚âÁùÿÿÿÿ
-Qsquid:S1161s":Add the "@Override" annotation above this method signature(ÊÉ„ã
-Rsquid:S1161ƒ":Add the "@Override" annotation above this method signature(è§©¯
-P
-squid:S106…"9Replace this use of System.out or System.err by a logger.(ñ«ñŽ
-U
-squid:S106†"9Replace this use of System.out or System.err by a logger.(Ûß«¹ýÿÿÿÿ
-O
-squid:S106‡"9Replace this use of System.out or System.err by a logger.(“üíM
-P
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(¸Íƒ”
-P
-squid:S106‰"9Replace this use of System.out or System.err by a logger.(¡žûÅ
-U
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(Å§ŒÔøÿÿÿÿ
-U
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(ÝÁ¯—üÿÿÿÿ
-U
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ø“ŽÈûÿÿÿÿ

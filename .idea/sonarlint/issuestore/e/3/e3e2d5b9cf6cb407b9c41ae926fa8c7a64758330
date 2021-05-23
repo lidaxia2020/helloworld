@@ -1,18 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-…squid:S1488?"iImmediately return this expression instead of assigning it to the temporary variable "progressBarBorder".(ÈÏœéùÿÿÿÿ
-|squid:S1488T"eImmediately return this expression instead of assigning it to the temporary variable "toolBarBorder".(ÌÈ¿í
-…squid:S1488k"iImmediately return this expression instead of assigning it to the temporary variable "tableHeaderBorder".(Ô”µŸüÿÿÿÿ
-squid:S1488w"kImmediately return this expression instead of assigning it to the temporary variable "internalFrameBorder".(¾°Ëa
-Qsquid:S11183":Add a private constructor to hide the implicit public one.(ÀËß¶
-Wsquid:S1161":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
-Wsquid:S1161™":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
-osquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(“ ˆûÿÿÿÿÿ
-Wsquid:S1161±":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
-=squid:S1659Å" Declare "dy" on a separate line.(ƒõÓŒıÿÿÿÿ
-=squid:S1659Å" Declare "dw" on a separate line.(ƒõÓŒıÿÿÿÿ
-=squid:S1659Å" Declare "dh" on a separate line.(ƒõÓŒıÿÿÿÿ
-Wsquid:S1161ö":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
-Rsquid:S1161œ":Add the "@Override" annotation above this method signature(ƒ¹—”
-Rsquid:S1161·":Add the "@Override" annotation above this method signature(ƒ¹—”
-Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ

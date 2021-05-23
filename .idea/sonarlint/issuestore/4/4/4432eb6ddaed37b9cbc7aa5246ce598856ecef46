@@ -1,32 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ô½ğøÿÿÿÿ
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Í¯Ş
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯’İ³
-d$squid:AssignmentInSubExpressionCheck‹	".Extract the assignment out of this expression.(§†¡ÿÿÿÿÿ
-tsquid:S4144Š
-"\Update this method so that its implementation is not identical to "writeShort" on line 1272.(Õôøá
-|squid:S1149†	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Éë”Ÿşÿÿÿÿ
-jsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ò—“˜
-Usquid:S1197®"8Move the array designator from the variable to the type.(»âĞ»ùÿÿÿÿ
-Psquid:S1197Ï"8Move the array designator from the variable to the type.(§ìî·
-Psquid:S1197í"8Move the array designator from the variable to the type.(®úæ
-Usquid:S1197"8Move the array designator from the variable to the type.(ñã‡ûÿÿÿÿ
-Psquid:S1197—"8Move the array designator from the variable to the type.(ªÎß«
-Psquid:S1197ì"8Move the array designator from the variable to the type.(©îÄú
-Usquid:S1197ù"8Move the array designator from the variable to the type.(—‚ÄÙûÿÿÿÿ
-Usquid:S1197Š"8Move the array designator from the variable to the type.(èöò¡şÿÿÿÿ
-Xsquid:CallToDeprecatedMethodô
-"0Remove this use of "getBytes"; it is deprecated.(ªŒ·%
-1squid:S2183„"Remove this useless shift(Å¨ªè
-1squid:S2183©"Remove this useless shift(ÑÄÓã
-6squid:S2183Î"Remove this useless shift(Ïºñûúÿÿÿÿ
-1squid:S2183õ"Remove this useless shift(Ã•®ç
-hsquid:CommentedOutCodeLineÚ	"<This block of commented-out lines of code should be removed.(¨Ñ§‘øÿÿÿÿ
-hsquid:CommentedOutCodeLineê	"<This block of commented-out lines of code should be removed.(¨Ñ§‘øÿÿÿÿ
-hsquid:CommentedOutCodeLineû	"<This block of commented-out lines of code should be removed.(õãÛâúÿÿÿÿ
-hsquid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(õãÛâúÿÿÿÿ
-hsquid:CommentedOutCodeLine 
-"<This block of commented-out lines of code should be removed.(óÌÊÔøÿÿÿÿ
-hsquid:CommentedOutCodeLine·
-"<This block of commented-out lines of code should be removed.(ÇÑ…×şÿÿÿÿ

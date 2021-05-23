@@ -1,121 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckø"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheck€"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheckƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheck±"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß«±¿
-… squid:ForLoopCounterChangedCheck€"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheckğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(öëñ¥
-… squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(öëñ¥
-Š squid:ForLoopCounterChangedCheckÅ"XRefactor the code in order to not assign to this loop counter from within the loop body.(§ ûëúÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÅ"XRefactor the code in order to not assign to this loop counter from within the loop body.(§ ûëúÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(öëñ¥
-Lsquid:S1191*"5Use classes from the Java API instead of Sun classes.(¼½¨
-isquid:S1192·"LDefine a constant instead of duplicating this literal "scheme name" 3 times.(Ššı€øÿÿÿÿ
-{squid:S1192 "^Define a constant instead of duplicating this literal "Illegal character in hostname" 3 times.(÷èß¸üÿÿÿÿ
-^squid:S1192²"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(íÕ”
-Fsquid:S1066ë"/Merge this if statement with the enclosing one.(‹”Q
-Lsquid:S1066à"/Merge this if statement with the enclosing one.(ÈàÌØûÿÿÿÿ
-p
-squid:S135ï"YReduce the total number of break and continue statements in this loop to use at most one.(¶ˆßì
-p
-squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¶ˆßì
-u
-squid:S135ğ"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
-p
-squid:S135Ã"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-p
-squid:S135³"YReduce the total number of break and continue statements in this loop to use at most one.(Öáşˆ
-o
-squid:S135ƒ"YReduce the total number of break and continue statements in this loop to use at most one.(µ¶ª=
-p
-squid:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-u
-squid:S135ö"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
-o
-squid:S135’!"YReduce the total number of break and continue statements in this loop to use at most one.(µ¶ª=
-wsquid:S1488½"ZImmediately return this expression instead of assigning it to the temporary variable "np".(¤¸–ıûÿÿÿÿ
-Osquid:S2589ü"7Remove this expression which always evaluates to "true"(‡üÀ
-“squid:S2681³"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(•Á´Š
-“squid:S2681´"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(óÜ»¤
-“squid:S2681µ"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(•Á´Š
-“squid:S2681¶"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(óÜ»¤
-“squid:S2681·"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(•Á´Š
-“squid:S2681¸"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(óÜ»¤
-“squid:S2681¹"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(•Á´Š
-Vsquid:S4973ë"9Use the "equals" method if value comparison was intended.(¾¹‰¢ùÿÿÿÿ
-Vsquid:S4973Œ"9Use the "equals" method if value comparison was intended.(¾¹‰¢ùÿÿÿÿ
-Qsquid:S4973Â"9Use the "equals" method if value comparison was intended.(™ï—¼
-Qsquid:S4973Ï"9Use the "equals" method if value comparison was intended.(™ï—¼
-Qsquid:S4973"9Use the "equals" method if value comparison was intended.(èš·‡
-Usquid:S00107¤"<Method has 8 parameters, which is greater than 7 authorized.(ÂõÎ¾
-Tsquid:S00107×"<Method has 9 parameters, which is greater than 7 authorized.(üîH
-usquid:UselessImportCheck,"QRemove this unnecessary import: java.lang classes are always implicitly imported.(—¾“ã
-usquid:UselessImportCheck-"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ã¡˜à
-esquid:UselessImportCheck%"<Remove this unused import 'java.nio.charset.CharsetEncoder'.(‘›šıøÿÿÿÿ
-|squid:S1149ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¼ÎÖøÿÿÿÿÿ
-wsquid:S1149¤"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÂõÎ¾
-|squid:S1149Ğ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ğ½Ÿùÿÿÿÿ
-wsquid:S1149á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-wsquid:S1149ï"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-wsquid:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-wsquid:S1149³"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Çª—È
-wsquid:S1149©"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¢ĞÚĞ
-vsquid:S1149¯"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(òøÖ;
-|squid:S1149Å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ê¶ïÄıÿÿÿÿ
-wsquid:S1149ı"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-|squid:S1149¨"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(öÜ˜ğûÿÿÿÿ
-psquid:ModifiersOrderChecká"EReorder the modifiers to comply with the Java Language Specification.(¼ú£Öùÿÿÿÿ
-ksquid:ModifiersOrderCheckâ"EReorder the modifiers to comply with the Java Language Specification.(öşŠ²
-psquid:ModifiersOrderCheckä"EReorder the modifiers to comply with the Java Language Specification.(ØÅ‡üÿÿÿÿ
-psquid:ModifiersOrderCheckå"EReorder the modifiers to comply with the Java Language Specification.(âµı•ÿÿÿÿÿ
-ksquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(€î½¦
-jsquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(“ æo
-psquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(Œ±“úÿÿÿÿ
-psquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(ŸŒ§®øÿÿÿÿ
-jsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ïêëø
-jsquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ÿ²
-~squid:S1221ê"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(ÅŞ”…øÿÿÿÿ
-osquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÅŞ”…øÿÿÿÿ
-osquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¼ÎÖøÿÿÿÿÿ
-Dsquid:S1659"'Declare "dontquote" on a separate line.(âå­¯ÿÿÿÿÿ
-]squid:S3027Œ"FPut single-quotes around ']' to use the faster "indexOf(char)" method.(ö¢Œ
-csquid:S3027"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(ƒ½¬ùøÿÿÿÿ
-jsquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÂõÎ¾
-csquid:S3027µ"FPut single-quotes around ']' to use the faster "indexOf(char)" method.(¼ñÕÿúÿÿÿÿ
-^squid:S3027¶"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(ã¡³ğ
-Dsquid:S1659·"'Declare "dontquote" on a separate line.(ËˆÅŸüÿÿÿÿ
-osquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ğÿØøøÿÿÿÿ
-Gsquid:S1172¨"/Remove this unused method parameter "absolute".(ù°›ª
-osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÖÙä“şÿÿÿÿ
-jsquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(áÜ¨—
-ksquid:ModifiersOrderCheckÓ"EReorder the modifiers to comply with the Java Language Specification.(áÜ¨—
-osquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÅÀ¤šùÿÿÿÿ
-psquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(ÅÀ¤šùÿÿÿÿ
-jsquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(µ§°”
-ksquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(µ§°”
-osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(œ†İÂøÿÿÿÿ
-ksquid:S1871ö"NThis branch's code block is the same as the block for the branch on line 3059.(¡ê§Ôøÿÿÿÿ
-ksquid:ModifiersOrderCheck¤"EReorder the modifiers to comply with the Java Language Specification.(ÛœÁ
-jsquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(î Ø 
-Rsquid:S1854Ä"5Remove this useless assignment to local variable "n".(å¢ÏÌşÿÿÿÿ
-osquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÇøÅéşÿÿÿÿ
-Ssquid:S1854Â"6Remove this useless assignment to local variable "ui".(ÊÅÿßùÿÿÿÿ
-osquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ë‚Šˆşÿÿÿÿ
-jsquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(«Ó®Å
-osquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ñòÔôøÿÿÿÿ
-Msquid:S1854¹"5Remove this useless assignment to local variable "p".(•Á´Š
-csquid:S2147Ø"FCombine this catch with the one at line 4054, which has the same body.(éÍ¢øÿÿÿÿ
-osquid:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¡ª¯ƒûÿÿÿÿ
-Csquid:S1481Ä"&Remove this unused "n" local variable.(å¢ÏÌşÿÿÿÿ
-Dsquid:S1481Â"'Remove this unused "ui" local variable.(ÊÅÿßùÿÿÿÿ
-Xsquid:UnusedPrivateMethodú"2Remove this unused private "failExpecting" method.(…ÑÉ¼
-Osquid:S1068“"2Remove this unused "L_LEFT_BRACKET" private field.(¥ÆÉÇúÿÿÿÿ
-Osquid:S1068”"2Remove this unused "H_LEFT_BRACKET" private field.(“¼ıÿÿÿÿ
-Jsquid:S1068œ"3Remove this unused "L_URIC_NO_SLASH" private field.(ñ½§2
-Ksquid:S1068"3Remove this unused "H_URIC_NO_SLASH" private field.(†çÓ©
-csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¦ÉØ—
-csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(†ïåá
-hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ÑŠöÌıÿÿÿÿ
-hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(ÑŠöÌıÿÿÿÿ
-hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ÑŠöÌıÿÿÿÿ

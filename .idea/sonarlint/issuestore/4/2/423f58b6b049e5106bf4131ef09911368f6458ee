@@ -1,35 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
-}squid:UselessImportCheck>"TRemove this unnecessary import: same package classes are always implicitly imported.(°Š ÿÿÿÿÿ
-}squid:UselessImportCheck?"TRemove this unnecessary import: same package classes are always implicitly imported.(¡Ÿ©µÿÿÿÿÿ
-}squid:UselessImportCheck@"TRemove this unnecessary import: same package classes are always implicitly imported.(å éşÿÿÿÿ
-xsquid:UselessImportCheckA"TRemove this unnecessary import: same package classes are always implicitly imported.(³ş¾˜
-}squid:UselessImportCheckB"TRemove this unnecessary import: same package classes are always implicitly imported.(ÁĞ˜Úÿÿÿÿÿ
-Wsquid:UselessImportCheck3"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-[squid:UselessImportCheck*"7Remove this unused import 'org.omg.CORBA.StructMember'.(ÒğÊˆ
-Usquid:UselessImportCheck&"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
-fsquid:UselessImportCheck6"BRemove this unused import 'org.omg.CORBA.TypeCodePackage.BadKind'.(ÍË‹‘
-Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
-Usquid:UselessImportCheck'"1Remove this unused import 'java.math.BigInteger'.(»Çâ€
-jsquid:UselessImportCheck;"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.GIOPVersion'.(Å¯›ë
-Tsquid:UselessImportCheck "+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-msquid:UselessImportCheck9"DRemove this unused import 'org.omg.CORBA_2_3.portable.OutputStream'.(©éµ¿üÿÿÿÿ
-_squid:UselessImportCheck,"6Remove this unused import 'org.omg.CORBA.ValueMember'.(¸ŠÙÈúÿÿÿÿ
-Wsquid:UselessImportCheck.".Remove this unused import 'org.omg.CORBA.Any'.(ÑÔĞåşÿÿÿÿ
-[squid:UselessImportCheck4"2Remove this unused import 'org.omg.CORBA.MARSHAL'.(Éªõºùÿÿÿÿ
-]squid:UselessImportCheck%":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È
-Xsquid:UselessImportCheck/"4Remove this unused import 'org.omg.CORBA.Principal'.(Ğ¢Áš
-[squid:UselessImportCheck2"8Remove this unused import 'org.omg.CORBA.BAD_OPERATION'.(äŸË
-Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
-Wsquid:UselessImportCheck)"3Remove this unused import 'org.omg.CORBA.TypeCode'.(æŠŠÕ
-Tsquid:UselessImportCheck""0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-Tsquid:UselessImportCheck$"0Remove this unused import 'java.io.PrintStream'.(×ê’
-]squid:UselessImportCheck1"4Remove this unused import 'org.omg.CORBA.BAD_PARAM'.(Š¡ë±ûÿÿÿÿ
-Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-Ysquid:UselessImportCheck#"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
-bsquid:UselessImportCheck="9Remove this unused import 'com.sun.corba.se.spi.orb.ORB'.(¯Ñ‰“ùÿÿÿÿ
-_squid:UselessImportCheck+"6Remove this unused import 'org.omg.CORBA.UnionMember'.(©ìóüÿÿÿÿ
-Usquid:UselessImportCheck-"1Remove this unused import 'org.omg.CORBA.TCKind'.(ŞâƒÅ
-[squid:UselessImportCheck0"7Remove this unused import 'org.omg.CORBA.BAD_TYPECODE'.(˜ÍÂ¤
-[squid:UselessImportCheck!"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
-gsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(³†Ïøÿÿÿÿ

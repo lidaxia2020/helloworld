@@ -1,21 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.( ¸¤
-Psquid:S4973E"9Use the "equals" method if value comparison was intended.(ªó•­
-Psquid:S4973F"9Use the "equals" method if value comparison was intended.(áË÷¹
-Psquid:S4973J"9Use the "equals" method if value comparison was intended.(˜Óª
-Psquid:S4973M"9Use the "equals" method if value comparison was intended.(îÄ³Š
-vsquid:UselessImportCheck%"SRemove this unused import 'com.sun.java.swing.plaf.gtk.GTKConstants.ExpanderStyle'.(Œø8
-ysquid:UselessImportCheck'"PRemove this unused import 'com.sun.java.swing.plaf.gtk.GTKConstants.ShadowType'.(²³Øîüÿÿÿÿ
-bsquid:UselessImportCheck"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ
-Psquid:S1118,":Add a private constructor to hide the implicit public one.(»­„X
-Rsquid:S1161ñ":Add the "@Override" annotation above this method signature(ñêäù
-Wsquid:S1161ù":Add the "@Override" annotation above this method signature(áî¼Øÿÿÿÿÿ
-Qsquid:S1161–":Add the "@Override" annotation above this method signature(Äè„o
-Rsquid:S1161š":Add the "@Override" annotation above this method signature(ñêäù
-bsquid:S3252Ÿ"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(¶ó½›şÿÿÿÿ
-Wsquid:S1161®":Add the "@Override" annotation above this method signature(ó‘°²şÿÿÿÿ
-bsquid:S3252³"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(é¸®ıÿÿÿÿ
-Wsquid:S1161º":Add the "@Override" annotation above this method signature(­íƒøÿÿÿÿÿ
-bsquid:S3252¿"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(é¸®ıÿÿÿÿ
-Qsquid:S1161Ñ":Add the "@Override" annotation above this method signature(Äè„o
-Rsquid:S1161Õ":Add the "@Override" annotation above this method signature(ñêäù

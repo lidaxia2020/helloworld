@@ -1,44 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ıäÌİûÿÿÿÿ
-Xsquid:UselessImportCheck,"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
-csquid:UselessImportCheck-":Remove this unused import 'java.lang.reflect.Constructor'.(¿ã–şúÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheck^"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-£%squid:RedundantThrowsDeclarationChecki"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckv"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck„"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck’"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck "mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck®"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck¼"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckÊ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck×"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚèøÿÿÿÿ
-¬%squid:RedundantThrowsDeclarationChecké"uRemove the declaration of thrown exception 'java.io.NotActiveException' which is a subclass of 'java.io.IOException'.(úÙğ¤ÿÿÿÿÿ
-Wsquid:S1161è":Add the "@Override" annotation above this method signature(üê–Èıÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheckõ"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(¾ü¢ÿÿÿÿÿ
-²%squid:RedundantThrowsDeclarationCheckõ"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(¾ü¢ÿÿÿÿÿ
-¬%squid:RedundantThrowsDeclarationCheckı"uRemove the declaration of thrown exception 'java.io.NotActiveException' which is a subclass of 'java.io.IOException'.(âØÂ˜ÿÿÿÿÿ
-Wsquid:S1161ü":Add the "@Override" annotation above this method signature(ŠÿÃÅùÿÿÿÿ
-squid:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â÷¤€ıÿÿÿÿ
-squid:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›÷«ğıÿÿÿÿ
-™squid:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ñ
-squid:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œıèƒşÿÿÿÿ
-™squid:S1186¯"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²Òİï
-Wsquid:S1161Å":Add the "@Override" annotation above this method signature(â÷¤€ıÿÿÿÿ
-Wsquid:S1161ë":Add the "@Override" annotation above this method signature(â÷¤€ıÿÿÿÿ
-Qsquid:S1161ò":Add the "@Override" annotation above this method signature(µ™œH
-Rsquid:S1161ö":Add the "@Override" annotation above this method signature(ÕúÅÃ
-Wsquid:S1161ı":Add the "@Override" annotation above this method signature(â÷¤€ıÿÿÿÿ
-Rsquid:S1161„":Add the "@Override" annotation above this method signature(é“ÆÊ
-Rsquid:S1161‹":Add the "@Override" annotation above this method signature(ÕúÅÃ
-Wsquid:S1161˜":Add the "@Override" annotation above this method signature(â÷¤€ıÿÿÿÿ
-Rsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(¬±ûÈ
-Wsquid:S1161­":Add the "@Override" annotation above this method signature(¤ÔÎ…ûÿÿÿÿ
-Rsquid:S1161¶":Add the "@Override" annotation above this method signature(ñ‹úÛ
-asquid:S4201¸"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ìçø
-Wsquid:S1161Î":Add the "@Override" annotation above this method signature(â÷¤€ıÿÿÿÿ
-Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(Õçüÿÿÿÿÿ
-Rsquid:S1161Ş":Add the "@Override" annotation above this method signature(é“ÆÊ
-Rsquid:S1161ê":Add the "@Override" annotation above this method signature(ñ‹úÛ
-Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(ğíáÓùÿÿÿÿ
-bsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(¸‚óv
-csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(œŠÌ

@@ -1,10 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¥λοψϊÿÿÿÿ
-isquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ξª›©
-Nsquid:S1197:"8Move the array designator from the variable to the type.(‘έx
-bsquid:S2147¨"ECombine this catch with the one at line 166, which has the same body.(½ε€ωϋÿÿÿÿ
-bsquid:S2147ΐ"ECombine this catch with the one at line 189, which has the same body.(½ε€ωϋÿÿÿÿ
-Psquid:S1197Ύ"8Move the array designator from the variable to the type.(θ‹“Τ
-esquid:CallToDeprecatedMethodΏ"<Remove this use of "XMLSecurityException"; it is deprecated.(Θαµ
-Psquid:S1197Α"8Move the array designator from the variable to the type.(θ‹“Τ
-esquid:CallToDeprecatedMethodΒ"<Remove this use of "XMLSecurityException"; it is deprecated.(Θαµ

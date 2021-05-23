@@ -1,34 +1,0 @@
-
-Lsquid:S1191-"5Use classes from the Java API instead of Sun classes.(éª‚€
-bsquid:S1192"JDefine a constant instead of duplicating this literal "Not owner" 3 times.(‚š€
-p
-squid:S135Ù"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-u
-squid:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(ã˜×Ğúÿÿÿÿ
-u
-squid:S135Î"YReduce the total number of break and continue statements in this loop to use at most one.(ã˜×Ğúÿÿÿÿ
-u
-squid:S135€"YReduce the total number of break and continue statements in this loop to use at most one.(ã˜×Ğúÿÿÿÿ
-dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
-Ksquid:S3077‡".Remove the "volatile" keyword from this field.(‘ø‹¯úÿÿÿÿ
-Esquid:S3077".Remove the "volatile" keyword from this field.(“£™L
-ssquid:S00115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñê€Ô
-xsquid:S00115ı"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ãŸÅøÿÿÿÿ
-ssquid:S00115ş"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×§Úš
-rsquid:S00115ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø¢
-ssquid:S00115€"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²í¨
-xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞÔ—¸üÿÿÿÿ
-Fsquid:S3077¤".Remove the "volatile" keyword from this field.(Ïâ¾
-Fsquid:S3077¸".Remove the "volatile" keyword from this field.(–¤Á
-Fsquid:S3077Á".Remove the "volatile" keyword from this field.(«ùä´
-›%squid:RedundantThrowsDeclarationCheckè"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(µºŸ
-bsquid:S1764’"KCorrect one of the identical sub-expressions on both sides of operator "||"(’ŞŒ4
-7squid:S1659Õ"Declare "s" on a separate line.(ÍÈ”ğ
-bsquid:S1764Ù"KCorrect one of the identical sub-expressions on both sides of operator "||"(Œ¢Æp
-7squid:S1659›"Declare "s" on a separate line.(ÍÈ”ğ
-vsquid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÂã¼ıÿÿÿÿ
-vsquid:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÂã¼ıÿÿÿÿ
-vsquid:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÂã¼ıÿÿÿÿ
-squid:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉÃâ…úÿÿÿÿ
-asquid:S3358Å"DExtract this nested ternary operation into an independent statement.(ÀÕôıÿÿÿÿ
-vsquid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÂã¼ıÿÿÿÿ

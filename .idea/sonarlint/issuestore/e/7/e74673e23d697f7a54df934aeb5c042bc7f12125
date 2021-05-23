@@ -1,769 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck²
-"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
-… squid:ForLoopCounterChangedCheck¹
-"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
-Š squid:ForLoopCounterChangedCheckË
-"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÂ·Ëıÿÿÿÿ
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
-… squid:ForLoopCounterChangedCheck·"XRefactor the code in order to not assign to this loop counter from within the loop body.(é£¨
-… squid:ForLoopCounterChangedCheck¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡†±¦
-… squid:ForLoopCounterChangedCheck’"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
-… squid:ForLoopCounterChangedCheck¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
-Š squid:ForLoopCounterChangedCheckµ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÂ·Ëıÿÿÿÿ
-… squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
-… squid:ForLoopCounterChangedCheck™"XRefactor the code in order to not assign to this loop counter from within the loop body.(é£¨
-… squid:ForLoopCounterChangedCheckš"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡†±¦
-… squid:ForLoopCounterChangedCheckİ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
-… squid:ForLoopCounterChangedCheckò"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
-… squid:ForLoopCounterChangedCheckŠ"XRefactor the code in order to not assign to this loop counter from within the loop body.(é£¨
-Š squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÂ·Ëıÿÿÿÿ
-… squid:ForLoopCounterChangedCheckß"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
-… squid:ForLoopCounterChangedCheckè"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
-… squid:ForLoopCounterChangedCheck€"XRefactor the code in order to not assign to this loop counter from within the loop body.(é£¨
-Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÂ·Ëıÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÙ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÛìÆÔıÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ß—úÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÂ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¹½¯
-Š squid:ForLoopCounterChangedCheckÉ"XRefactor the code in order to not assign to this loop counter from within the loop body.(È¥ßóøÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckÊ"XRefactor the code in order to not assign to this loop counter from within the loop body.(“–î
-Š squid:ForLoopCounterChangedCheckÚ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÉÓ‹¥úÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÁ"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ÆãÛıÿÿÿÿ
-… squid:ForLoopCounterChangedCheckØ"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª
-… squid:ForLoopCounterChangedCheck†"XRefactor the code in order to not assign to this loop counter from within the loop body.(É“±Ó
-Š squid:ForLoopCounterChangedCheck¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÉÚ×ûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckä"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª
-Š squid:ForLoopCounterChangedCheck—"XRefactor the code in order to not assign to this loop counter from within the loop body.(û©¡ÿúÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck›"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘–Ø‚úÿÿÿÿ
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(šåÅ­
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Õ‘‹­
-… squid:ForLoopCounterChangedCheck§"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
-… squid:ForLoopCounterChangedCheck§"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
-… squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
-… squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
-… squid:ForLoopCounterChangedCheckÏ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁÆ±Ã
-… squid:ForLoopCounterChangedCheck×"XRefactor the code in order to not assign to this loop counter from within the loop body.(å˜’á
-Š squid:ForLoopCounterChangedCheckØ"XRefactor the code in order to not assign to this loop counter from within the loop body.(òæ®úÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÜ"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÜ"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌŞùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌŞùÿÿÿÿ
-… squid:ForLoopCounterChangedCheck‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ
-… squid:ForLoopCounterChangedCheck‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ
-Š squid:ForLoopCounterChangedCheck“"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìşÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck“"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìşÿÿÿÿ
-Msquid:S1191µ"5Use classes from the Java API instead of Sun classes.(«ƒÓû
-d$squid:AssignmentInSubExpressionCheckŞ".Extract the assignment out of this expression.(èıøüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck´".Extract the assignment out of this expression.(£ëÜüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckµ".Extract the assignment out of this expression.(åˆ»·ùÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheck³
-".Extract the assignment out of this expression.(•½
-_$squid:AssignmentInSubExpressionCheckš".Extract the assignment out of this expression.(Ş·—¸
-_$squid:AssignmentInSubExpressionCheck¢".Extract the assignment out of this expression.(¸¢ÅÀ
-d$squid:AssignmentInSubExpressionCheckÄ".Extract the assignment out of this expression.(’ÕÄËûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckæ".Extract the assignment out of this expression.(ÿÍíÎùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck“".Extract the assignment out of this expression.(ıâ°ıûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckş".Extract the assignment out of this expression.(æ¼½ûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckŞ".Extract the assignment out of this expression.(ıâ°ıûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckà".Extract the assignment out of this expression.(ıâ°ıûÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck±".Extract the assignment out of this expression.(‚åÎ—
-_$squid:AssignmentInSubExpressionCheck±".Extract the assignment out of this expression.(‚åÎ—
-d$squid:AssignmentInSubExpressionCheck·".Extract the assignment out of this expression.(áÄš¬şÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck¶".Extract the assignment out of this expression.(è£…
-d$squid:AssignmentInSubExpressionCheckÇ".Extract the assignment out of this expression.(ì‹âÇùÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÖ".Extract the assignment out of this expression.(½»é¿
-d$squid:AssignmentInSubExpressionCheckÜ".Extract the assignment out of this expression.(–ÜÊŠûÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheckì".Extract the assignment out of this expression.(ĞÒG
-_$squid:AssignmentInSubExpressionCheck“".Extract the assignment out of this expression.(ˆìÏú
-_$squid:AssignmentInSubExpressionCheck†".Extract the assignment out of this expression.(É“±Ó
-_$squid:AssignmentInSubExpressionCheck¤".Extract the assignment out of this expression.(‘Â•ã
-d$squid:AssignmentInSubExpressionCheckó".Extract the assignment out of this expression.(»ëñûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckõ".Extract the assignment out of this expression.(˜ö–ğøÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckö".Extract the assignment out of this expression.(ÌÉÒÃüÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck…".Extract the assignment out of this expression.(Ê–á¨
-_$squid:AssignmentInSubExpressionCheck‡".Extract the assignment out of this expression.(ğÃÜê
-d$squid:AssignmentInSubExpressionCheckˆ".Extract the assignment out of this expression.(Ùÿ÷°øÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck¦".Extract the assignment out of this expression.(€¬¡‘
-d$squid:AssignmentInSubExpressionCheck»".Extract the assignment out of this expression.(ùõ©‡ûÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(á¡Ì
-d$squid:AssignmentInSubExpressionCheck ".Extract the assignment out of this expression.(œÏ’üÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÜ".Extract the assignment out of this expression.(ğµÍ‘ùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckĞ".Extract the assignment out of this expression.(èıøüÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckö".Extract the assignment out of this expression.(®•°ˆ
-_$squid:AssignmentInSubExpressionCheckö".Extract the assignment out of this expression.(®•°ˆ
-_$squid:AssignmentInSubExpressionCheck÷".Extract the assignment out of this expression.(•µÄå
-d$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(íäÔşÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck ".Extract the assignment out of this expression.(®•°ˆ
-_$squid:AssignmentInSubExpressionCheck ".Extract the assignment out of this expression.(®•°ˆ
-_$squid:AssignmentInSubExpressionCheck ".Extract the assignment out of this expression.(¡Û
-d$squid:AssignmentInSubExpressionCheckŸ ".Extract the assignment out of this expression.(íäÔşÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÅ ".Extract the assignment out of this expression.(®•°ˆ
-_$squid:AssignmentInSubExpressionCheckÅ ".Extract the assignment out of this expression.(®•°ˆ
-d$squid:AssignmentInSubExpressionCheckÆ ".Extract the assignment out of this expression.(´á¢‚ùÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÇ ".Extract the assignment out of this expression.(íŠÈÇ
-d$squid:AssignmentInSubExpressionCheckó ".Extract the assignment out of this expression.(ÄÉÕÚşÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckã*".Extract the assignment out of this expression.(èıøüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckì*".Extract the assignment out of this expression.(èıøüÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckà+".Extract the assignment out of this expression.(á¡Ì
-d$squid:AssignmentInSubExpressionCheckã+".Extract the assignment out of this expression.(œÏ’üÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck,".Extract the assignment out of this expression.(ğµÍ‘ùÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck­,".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck°,".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck°,".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÈ,".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckË,".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckË,".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckã,".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckæ,".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckæ,".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckş,".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck-".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck-".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckœ-".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckŸ-".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckŸ-".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck½-".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckÀ-".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÀ-".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckŞ-".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionChecká-".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionChecká-".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck€.".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckƒ.".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckƒ.".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck£.".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck¨.".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck¨.".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÏ.".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckÔ.".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÔ.".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckû.".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck€/".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck€/".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck§/".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck¬/".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck¬/".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÒ/".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckÕ/".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÕ/".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheckÔ/".Extract the assignment out of this expression.(Õ¼µ¢úÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck‚0".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck…0".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck…0".Extract the assignment out of this expression.(ş¼ÂØ
-^$squid:AssignmentInSubExpressionCheck„0".Extract the assignment out of this expression.(„¿ñ
-_$squid:AssignmentInSubExpressionCheck²0".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckµ0".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckµ0".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheck´0".Extract the assignment out of this expression.(Ì™ÀŞıÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckå0".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckè0".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckè0".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckç0".Extract the assignment out of this expression.(‡ò¹´
-_$squid:AssignmentInSubExpressionCheck›1".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck1".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck1".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheck1".Extract the assignment out of this expression.(äÊÚïşÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÑ1".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckÔ1".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÔ1".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheckÓ1".Extract the assignment out of this expression.(†Á€şÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck‡2".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckŠ2".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckŠ2".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck‰2".Extract the assignment out of this expression.(Âşíº
-_$squid:AssignmentInSubExpressionCheckÀ2".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckÃ2".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÃ2".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÂ2".Extract the assignment out of this expression.(ËÌ¿¨
-_$squid:AssignmentInSubExpressionCheckò2".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckõ2".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckõ2".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheckô2".Extract the assignment out of this expression.(ê™³ úÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck¤3".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck§3".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck§3".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck¦3".Extract the assignment out of this expression.(ü´º¯
-_$squid:AssignmentInSubExpressionCheckÖ3".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckÙ3".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÙ3".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheckØ3".Extract the assignment out of this expression.(÷ñš¯ûÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckˆ4".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck‹4".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck‹4".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheckŠ4".Extract the assignment out of this expression.(ÔÃù¼ûÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckº4".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck½4".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck½4".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheck¼4".Extract the assignment out of this expression.(§ÌÂúÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckì4".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckï4".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckï4".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckî4".Extract the assignment out of this expression.(—ÅÊ
-_$squid:AssignmentInSubExpressionCheck5".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck¡5".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck¡5".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheck 5".Extract the assignment out of this expression.(Ş¡Åìùÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckĞ5".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheckÓ5".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÓ5".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheckÒ5".Extract the assignment out of this expression.(Ô¥Ç¼
-_$squid:AssignmentInSubExpressionCheck‚6".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck…6".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck…6".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheck„6".Extract the assignment out of this expression.(ÅÉ½Õøÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck´6".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionCheck·6".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionCheck·6".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheck¶6".Extract the assignment out of this expression.(‡‘‚Ôûÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckæ6".Extract the assignment out of this expression.(©€Ş­
-_$squid:AssignmentInSubExpressionChecké6".Extract the assignment out of this expression.(ş¼ÂØ
-_$squid:AssignmentInSubExpressionChecké6".Extract the assignment out of this expression.(ş¼ÂØ
-d$squid:AssignmentInSubExpressionCheckè6".Extract the assignment out of this expression.(Óç ªÿÿÿÿÿ
-p
-squid:S135À
-"YReduce the total number of break and continue statements in this loop to use at most one.(º†ø¸
-p
-squid:S135¯
-"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
-u
-squid:S135¥"YReduce the total number of break and continue statements in this loop to use at most one.(à£Àüÿÿÿÿ
-p
-squid:S135—"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
-p
-squid:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(º†ø¸
-p
-squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
-p
-squid:S135‡"YReduce the total number of break and continue statements in this loop to use at most one.(£Ê²Ë
-p
-squid:S135ú"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
-p
-squid:S135ø"YReduce the total number of break and continue statements in this loop to use at most one.(£Ê²Ë
-p
-squid:S135Ú"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
-p
-squid:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(£Ê²Ë
-p
-squid:S135Ü"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
-u
-squid:S135ß"YReduce the total number of break and continue statements in this loop to use at most one.(•ë÷³ıÿÿÿÿ
-o
-squid:S135û"YReduce the total number of break and continue statements in this loop to use at most one.(ã¥È
-p
-squid:S135Ï"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-u
-squid:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(±Ó¸úÿÿÿÿ
-p
-squid:S135«."YReduce the total number of break and continue statements in this loop to use at most one.(Öó¨¢
-p
-squid:S135×."YReduce the total number of break and continue statements in this loop to use at most one.(Öó¨¢
-p
-squid:S135¯/"YReduce the total number of break and continue statements in this loop to use at most one.(Öó¨¢
-Ÿsquid:S1319İ'"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ÇÅõ§ÿÿÿÿÿ
-¤squid:S2681×"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(•íëÆûÿÿÿÿ
-Zsquid:S00107Õ0"AConstructor has 8 parameters, which is greater than 7 authorized.(ÁŠ‘ç
-_squid:S00107‹1"AConstructor has 8 parameters, which is greater than 7 authorized.(ëŸù×şÿÿÿÿ
-Zsquid:S00107Á1"AConstructor has 8 parameters, which is greater than 7 authorized.(“’Æ¬
-Zsquid:S00107÷1"AConstructor has 8 parameters, which is greater than 7 authorized.(ÁĞÙ
-_squid:S00107®2"AConstructor has 9 parameters, which is greater than 7 authorized.(‹õª‰úÿÿÿÿ
-Zsquid:S00107à2"AConstructor has 9 parameters, which is greater than 7 authorized.(‹í„È
-_squid:S00107’3"AConstructor has 9 parameters, which is greater than 7 authorized.(ÚİªŞüÿÿÿÿ
-_squid:S00107Ä3"AConstructor has 9 parameters, which is greater than 7 authorized.(Ì›ø›ıÿÿÿÿ
-Ysquid:S00107ö3"AConstructor has 9 parameters, which is greater than 7 authorized.(¶Èö
-Zsquid:S00107¨4"AConstructor has 9 parameters, which is greater than 7 authorized.(áŞş¿
-Zsquid:S00107Ú4"AConstructor has 9 parameters, which is greater than 7 authorized.(“Ã©
-_squid:S00107Œ5"AConstructor has 9 parameters, which is greater than 7 authorized.(ÂÂÛ›ùÿÿÿÿ
-_squid:S00107¾5"AConstructor has 9 parameters, which is greater than 7 authorized.(ûˆËßøÿÿÿÿ
-_squid:S00107ğ5"AConstructor has 9 parameters, which is greater than 7 authorized.(ñ£â‹ûÿÿÿÿ
-_squid:S00107¢6"AConstructor has 9 parameters, which is greater than 7 authorized.(Š¿æ¡ùÿÿÿÿ
-_squid:S00107Ô6"AConstructor has 9 parameters, which is greater than 7 authorized.(ş¹öÄÿÿÿÿÿ
-_squid:S00112Ë"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-_squid:S00112›7"FDefine and throw a dedicated exception instead of using a generic one.(­§äç
-_squid:S001127"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-}squid:UselessImportCheck:"TRemove this unnecessary import: same package classes are always implicitly imported.(˜ˆ¶úÿÿÿÿ
-}squid:UselessImportCheck;"TRemove this unnecessary import: same package classes are always implicitly imported.(†¿ŞÖûÿÿÿÿ
-gsquid:UselessImportCheckA">Remove this unused import 'java.util.function.BinaryOperator'.(º÷ùÿÿÿÿ
-Usquid:UselessImportCheck1"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
-tsquid:S3008"\Rename this field "RESIZE_STAMP_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŠÿ
-Csquid:S3077ü"&Use an "AtomicReferenceArray" instead.(ÎŞæâùÿÿÿÿ
-Csquid:S3077„"&Use an "AtomicReferenceArray" instead.(İØïõùÿÿÿÿ
->squid:S3077´"&Use an "AtomicReferenceArray" instead.(ãöê
-„squid:S1845€7"gRename field "SIZECTL" to prevent any misunderstanding/clash with field "sizeCtl" defined on line 1052.(×ôúÿÿÿÿ
-squid:S18457"sRename field "TRANSFERINDEX" to prevent any misunderstanding/clash with field "transferIndex" defined on line 1060.(—¤ê×úÿÿÿÿ
-ƒsquid:S1845‚7"kRename field "BASECOUNT" to prevent any misunderstanding/clash with field "baseCount" defined on line 1038.(™òÑ³
-ƒsquid:S1845ƒ7"kRename field "CELLSBUSY" to prevent any misunderstanding/clash with field "cellsBusy" defined on line 1068.(°‚¿‚
-Nsquid:S2387·"1"keySet" is the name of a field in "AbstractMap".(˜›ì“ıÿÿÿÿ
-Isquid:S2387¸"1"values" is the name of a field in "AbstractMap".(ëì×¥
-Ksquid:S3077É".Remove the "volatile" keyword from this field.(ğËåˆıÿÿÿÿ
-Ksquid:S3077Ê".Remove the "volatile" keyword from this field.(»¥¥–ÿÿÿÿÿ
-7squid:S1659Ü"Declare "v" on a separate line.(ó‘°Ç
-7squid:S1659Ü"Declare "u" on a separate line.(ó‘°Ç
-7squid:S1659Ü"Declare "e" on a separate line.(ó‘°Ç
-asquid:S3358£"DExtract this nested ternary operation into an independent statement.(†ÁŸüÿÿÿÿ
-=squid:S1659¯" Declare "ts" on a separate line.(ĞµÃĞüÿÿÿÿ
-=squid:S1659¯" Declare "as" on a separate line.(ĞµÃĞüÿÿÿÿ
-<squid:S1659¯"Declare "t" on a separate line.(ĞµÃĞüÿÿÿÿ
-<squid:S1659¯"Declare "p" on a separate line.(ĞµÃĞüÿÿÿÿ
-Asquid:S1940œ	")Use the opposite operator ("<=") instead.(æ¶î’
-\squid:S3358±	"DExtract this nested ternary operation into an independent statement.(°…Î›
-osquid:S3776Ñ	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(É±»ûÿÿÿÿ
-7squid:S1659Ò	"Declare "e" on a separate line.(‘¨
-7squid:S1659Ò	"Declare "p" on a separate line.(‘¨
-7squid:S1659Ò	"Declare "n" on a separate line.(‘¨
-8squid:S1659Ò	" Declare "eh" on a separate line.(‘¨
-8squid:S1659Ò	" Declare "ek" on a separate line.(‘¨
-vsquid:S2293‰
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-osquid:S3776«
-"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(¢—¸†şÿÿÿÿ
-7squid:S1659°
-"Declare "n" on a separate line.(ĞÀîŞ
-7squid:S1659°
-"Declare "i" on a separate line.(ĞÀîŞ
-8squid:S1659°
-" Declare "fh" on a separate line.(ĞÀîŞ
-vsquid:S2293Ì
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(å‚’Òşÿÿÿÿ
-jsquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 87 to the 15 allowed.(øä’ò
-7squid:S1659˜"Declare "n" on a separate line.(ĞÀîŞ
-7squid:S1659˜"Declare "i" on a separate line.(ĞÀîŞ
-8squid:S1659˜" Declare "fh" on a separate line.(ĞÀîŞ
-7squid:S1659¿"Declare "p" on a separate line.(×÷¿Ğ
-osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ş‚ÄÔıÿÿÿÿ
-\squid:S3358ó"DExtract this nested ternary operation into an independent statement.(„»ù¯
-qsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸¢ÅÀ
-vsquid:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ÕÄËûÿÿÿÿ
-vsquid:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÍíÎùÿÿÿÿ
-vsquid:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-Rsquid:S1161":Add the "@Override" annotation above this method signature(Á»›ê
-qsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷µ¹†
-osquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İ¢êÍıÿÿÿÿ
-qsquid:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷µ¹†
-=squid:S1659Â" Declare "mv" on a separate line.(åğŒÆÿÿÿÿÿ
-<squid:S1659Â"Declare "v" on a separate line.(åğŒÆÿÿÿÿÿ
-8squid:S2326Ô"K is not used in the class.(º¾õ˜ùÿÿÿÿ
-8squid:S2326Ô"V is not used in the class.(º¾õ˜ùÿÿÿÿ
-Ysquid:S1854ˆ"<Remove this useless assignment to local variable "segments".(·Ö–¦şÿÿÿÿ
-vsquid:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¹îııÿÿÿÿ
-vsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-jsquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(Ïù°Å
-qsquid:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÕ¹Í
-@squid:S1659Â"#Declare "first" on a separate line.(ö­Ë‰ıÿÿÿÿ
-7squid:S1659Ã"Declare "j" on a separate line.(‚òë–
-8squid:S1659Ñ" Declare "qk" on a separate line.(Ã«û¾
-=squid:S1659ß" Declare "tl" on a separate line.(Àùù¤üÿÿÿÿ
-vsquid:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ä×ûÿÿÿÿ
-Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(àœçœıÿÿÿÿ
-Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(ÂìÎ‚øÿÿÿÿ
-vsquid:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-isquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‡æ­$
-Qsquid:S1161Û":Add the "@Override" annotation above this method signature(‡æ­$
-vsquid:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-jsquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(í£¨Û
-Rsquid:S1161‰":Add the "@Override" annotation above this method signature(í£¨Û
-7squid:S1659"Declare "n" on a separate line.(ĞÀîŞ
-7squid:S1659"Declare "i" on a separate line.(ĞÀîŞ
-8squid:S1659" Declare "fh" on a separate line.(ĞÀîŞ
-qsquid:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÁúª
-vsquid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ç™æøÿÿÿÿ
-=squid:S1659­" Declare "ev" on a separate line.(“‡ëœøÿÿÿÿ
-vsquid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(êíÇ«øÿÿÿÿ
-7squid:S1659Á"Declare "p" on a separate line.(×÷¿Ğ
-jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(¯ĞÙÁ
-Rsquid:S1161ó":Add the "@Override" annotation above this method signature(¯ĞÙÁ
-7squid:S1659û"Declare "n" on a separate line.(ĞÀîŞ
-7squid:S1659û"Declare "i" on a separate line.(ĞÀîŞ
-8squid:S1659û" Declare "fh" on a separate line.(ĞÀîŞ
-7squid:S1659¡"Declare "p" on a separate line.(×÷¿Ğ
-psquid:S3776Ò"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(²‘šÂÿÿÿÿÿ
-Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(²‘šÂÿÿÿÿÿ
-7squid:S1659Û"Declare "n" on a separate line.(ĞÀîŞ
-7squid:S1659Û"Declare "i" on a separate line.(ĞÀîŞ
-8squid:S1659Û" Declare "fh" on a separate line.(ĞÀîŞ
-qsquid:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÁúª
-vsquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ç™æøÿÿÿÿ
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª™¥Â
-7squid:S1659™"Declare "p" on a separate line.(×÷¿Ğ
-jsquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(Ø§Äå
-Rsquid:S1161Õ":Add the "@Override" annotation above this method signature(Ø§Äå
-7squid:S1659İ"Declare "n" on a separate line.(ĞÀîŞ
-7squid:S1659İ"Declare "i" on a separate line.(ĞÀîŞ
-8squid:S1659İ" Declare "fh" on a separate line.(ĞÀîŞ
-qsquid:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª™¥Â
-qsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û‚ÓŞ
-qsquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÚäÿ
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–€âÊ
-qsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(–€âÊ
-vsquid:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿæ­ºùÿÿÿÿ
-jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(à ¯
-Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(à ¯
-h squid:LabelsShouldNotBeUsedCheckÍ";Refactor the code to remove this label and the need for it.(Ğüôı
-7squid:S1659Î"Declare "n" on a separate line.(İ÷¬İ
-=squid:S1659Ó" Declare "ek" on a separate line.(ë‡â‹ùÿÿÿÿ
-Rsquid:S1161ñ":Add the "@Override" annotation above this method signature(à ¯
-=squid:S1659Š" Declare "sc" on a separate line.(¤éßûÿÿÿÿ
-jsquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(†Ó»Ç
-7squid:S1659¯"Declare "b" on a separate line.(²€ŸÆ
-7squid:S1659¯"Declare "s" on a separate line.(²€ŸÆ
-7squid:S1659²"Declare "v" on a separate line.(ú¬Ö¿
-7squid:S1659²"Declare "m" on a separate line.(ú¬Ö¿
-8squid:S1659À" Declare "nt" on a separate line.(©ÙÜÓ
-7squid:S1659À"Declare "n" on a separate line.(©ÙÜÓ
-8squid:S1659À" Declare "sc" on a separate line.(©ÙÜÓ
-8squid:S1659Û" Declare "sc" on a separate line.(‰¢™Ø
-osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(­ì†…ıÿÿÿÿ
-7squid:S1659ü"Declare "n" on a separate line.(Ê·•¬
-ksquid:S3776§"SRefactor this method to reduce its Cognitive Complexity from 120 to the 15 allowed.(§Ôâ
-<squid:S1659¨"$Declare "stride" on a separate line.(¢¤Ò
-=squid:S1181°"%Catch Exception instead of Throwable.(ßå•¿
-qsquid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¿æÕ
-=squid:S1659¼" Declare "fh" on a separate line.(ÑÏ‘™üÿÿÿÿ
-?squid:S1659¾"'Declare "nextBound" on a separate line.( ªñä
-8squid:S1659ä" Declare "hn" on a separate line.(ÖÑØ
-=squid:S1659ø" Declare "pk" on a separate line.(¹ª£ñÿÿÿÿÿ
-=squid:S1659ø" Declare "pv" on a separate line.(¹ª£ñÿÿÿÿÿ
-qsquid:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤şœğ
-qsquid:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(è¿ªÈ
-<squid:S1659…"$Declare "loTail" on a separate line.(Éâ³Û
-<squid:S1659†"$Declare "hiTail" on a separate line.(ÒÔ é
-=squid:S1659‡" Declare "hc" on a separate line.(…ÃÁüÿÿÿÿ
-vsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(«¡¯»üÿÿÿÿ
-\squid:S3358"DExtract this nested ternary operation into an independent statement.(¢¶¥Ì
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¶¥Ì
-asquid:S3358 "DExtract this nested ternary operation into an independent statement.(´»ü™ÿÿÿÿÿ
-vsquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(´»ü™ÿÿÿÿÿ
-<squid:S1659»"Declare "a" on a separate line.(üõ¦Âøÿÿÿÿ
-osquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(Š´ßğúÿÿÿÿ
-7squid:S1659Ğ"Declare "a" on a separate line.(Ïè¸™
-7squid:S1659Ğ"Declare "n" on a separate line.(Ïè¸™
-7squid:S1659Ğ"Declare "v" on a separate line.(Ïè¸™
-<squid:S1659Ù"Declare "m" on a separate line.(Ìöá»ûÿÿÿÿ
-<squid:S1659Ù"Declare "j" on a separate line.(Ìöá»ûÿÿÿÿ
-qsquid:S3012ø"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Š«á
-jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾ÿ·«
-<squid:S1659¢"Declare "n" on a separate line.(ü±÷Òşÿÿÿÿ
-=squid:S1659¢" Declare "sc" on a separate line.(ü±÷Òşÿÿÿÿ
-=squid:S1659©" Declare "tl" on a separate line.(Àùù¤üÿÿÿÿ
-qsquid:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÀ„ì
-=squid:S1659Â" Declare "tl" on a separate line.(¾Õ”Ìûÿÿÿÿ
-qsquid:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß¦ïÄ
-Rsquid:S1161ã":Add the "@Override" annotation above this method signature(à ¯
-jsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ìÄÿÅ
->squid:S1659ò"!Declare "dir" on a separate line.(İÂ”‡ıÿÿÿÿ
-=squid:S1659ò" Declare "pk" on a separate line.(İÂ”‡ıÿÿÿÿ
-<squid:S1659ò"Declare "q" on a separate line.(İÂ”‡ıÿÿÿÿ
-8squid:S1659ó" Declare "pr" on a separate line.(ó§îâ
-Fsquid:S3077š".Remove the "volatile" keyword from this field.(§Ç¶í
-Fsquid:S3077›".Remove the "volatile" keyword from this field.(ù¨¨İ
-‚squid:S1845Ÿ"eRename field "WAITER" to prevent any misunderstanding/clash with field "waiter" defined on line 3227.(¤ã°…øÿÿÿÿ
-‚squid:S1845Ã"kRename field "LOCKSTATE" to prevent any misunderstanding/clash with field "lockState" defined on line 3228.(«™
-isquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÀÂ™B
-=squid:S1659Í" Declare "ph" on a separate line.(Î’­ùÿÿÿÿ
-jsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(’¿Ê«
-Rsquid:S1161 ":Add the "@Override" annotation above this method signature(’¿Ê«
-8squid:S1659£" Declare "ek" on a separate line.(ÃÄ¨
-7squid:S1659¬"Declare "p" on a separate line.(×÷¿Ğ
-jsquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Œ¶å
-8squid:S1659É" Declare "ph" on a separate line.(Ç€Ñ˜
-8squid:S1659É" Declare "pk" on a separate line.(Ç€Ñ˜
-vsquid:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Ë…ûÿÿÿÿ
-=squid:S1659Ø" Declare "ch" on a separate line.(©ß¹‰øÿÿÿÿ
-<squid:S1659å"Declare "f" on a separate line.(›Üé¥øÿÿÿÿ
-vsquid:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Íç®ÿÿÿÿÿ
-osquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(µ‚„§şÿÿÿÿ
-=squid:S1659" Declare "rl" on a separate line.(§×óÕúÿÿÿÿ
-=squid:S1659£" Declare "sl" on a separate line.(‰ñÈİúÿÿÿÿ
-=squid:S1659ñ" Declare "pp" on a separate line.(ê¾ˆùûÿÿÿÿ
-=squid:S1659ñ" Declare "rl" on a separate line.(ê¾ˆùûÿÿÿÿ
-8squid:S1659ƒ" Declare "pp" on a separate line.(Ú»Òâ
-8squid:S1659ƒ" Declare "lr" on a separate line.(Ú»Òâ
-osquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(”Ñ¯Âşÿÿÿÿ
-psquid:S3776Ê"SRefactor this method to reduce its Cognitive Complexity from 128 to the 15 allowed.(Öú“¡ıÿÿÿÿ
-8squid:S1659á" Declare "sr" on a separate line.(ñÁ™
-Asquid:S1125ñ")Remove the literal "false" boolean value.(°™à
-8squid:S1659‡" Declare "sr" on a separate line.(ã•±û
-Asquid:S1125—")Remove the literal "false" boolean value.(›Ó·Î
-isquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÉêŸ*
-=squid:S1659­" Declare "tl" on a separate line.(‹ç¯Åûÿÿÿÿ
-=squid:S1659­" Declare "tr" on a separate line.(‹ç¯Åûÿÿÿÿ
-=squid:S1659®" Declare "tb" on a separate line.(ÂİÅ‡úÿÿÿÿ
-=squid:S1659®" Declare "tn" on a separate line.(ÂİÅ‡úÿÿÿÿ
-Ysquid:S1126½"AReplace this if-then-else statement by a single return statement.(Ï¸ÁÖ
-;squid:S1659‚"#Declare "spare" on a separate line.(ß¸”›
-jsquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€Ü­„
-6squid:S1659›"Declare "i" on a separate line.(ˆ²˜.
-6squid:S1659›"Declare "n" on a separate line.(ˆ²˜.
-qsquid:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(íú
->squid:S1659Ñ"!Declare "len" on a separate line.(§õ†úÿÿÿÿ
-bsquid:HiddenFieldCheck×":Rename "next" which hides the field declared at line 3841.(É£ê®úÿÿÿÿ
-Hsquid:S1150ÿ"+Implement Iterator rather than Enumeration.(ÖŞªÿÿÿÿÿ
-Csquid:S1150“"+Implement Iterator rather than Enumeration.(íÖÔ¦
-vsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ù¾²üÿÿÿÿ
-<squid:S1659Î"Declare "v" on a separate line.(“”ûÿÿÿÿ
-<squid:S1659Î"Declare "e" on a separate line.(“”ûÿÿÿÿ
-7squid:S1659õ"Declare "f" on a separate line.(ªÿÒ
-7squid:S1659õ"Declare "h" on a separate line.(ªÿÒ
-qsquid:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(•µÄå
-Rsquid:S1161û":Add the "@Override" annotation above this method signature(÷ƒµ—
-7squid:S1659œ "Declare "f" on a separate line.(ªÿÒ
-7squid:S1659œ "Declare "h" on a separate line.(ªÿÒ
-qsquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¡Û
-Rsquid:S1161¢ ":Add the "@Override" annotation above this method signature(ğ¸¯¡
-7squid:S1659Ä "Declare "f" on a separate line.(ªÿÒ
-7squid:S1659Ä "Declare "h" on a separate line.(ªÿÒ
-vsquid:S2293Æ "YReplace the type specification in this constructor call with the diamond operator ("<>").(´á¢‚ùÿÿÿÿ
-Wsquid:S1161Ê ":Add the "@Override" annotation above this method signature(ˆ¶÷ºşÿÿÿÿ
-xsquid:S00115ş'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù İØüÿÿÿÿ
-Bsquid:S1948Ñ'"%Make "map" transient or serializable.(³¸ç™ùÿÿÿÿ
-tsquid:S3038ú'"W"iterator" is defined in the "Collection" interface and can be removed from this class.(£õÕ—ûÿÿÿÿ
-osquid:S3038û'"W"contains" is defined in the "Collection" interface and can be removed from this class.(¼Å…¾
-rsquid:S3038ü'"U"remove" is defined in the "Collection" interface and can be removed from this class.(¢º¤µøÿÿÿÿ
-Dsquid:S1948)"'Make "value" transient or serializable.(Š¥²şÿÿÿÿ
-vsquid:S2293Â)"YReplace the type specification in this constructor call with the diamond operator ("<>").(µŒóÉıÿÿÿÿ
-Rsquid:S1161ƒ*":Add the "@Override" annotation above this method signature(«À¡’
-vsquid:S2293ˆ*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÜ×‹şÿÿÿÿ
-Wsquid:S1161‹*":Add the "@Override" annotation above this method signature(õÂ°©úÿÿÿÿ
-vsquid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-qsquid:S2293¶*"YReplace the type specification in this constructor call with the diamond operator ("<>").(œìğŒ
-Wsquid:S1161À*":Add the "@Override" annotation above this method signature(ù¢İ­ÿÿÿÿÿ
-qsquid:S2293Å*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îë˜Å
-Rsquid:S1161È*":Add the "@Override" annotation above this method signature(ß“°µ
-vsquid:S2293Ì*"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-<squid:S1659á*"Declare "v" on a separate line.(²øÉŞùÿÿÿÿ
-<squid:S1659á*"Declare "r" on a separate line.(²øÉŞùÿÿÿÿ
-<squid:S1659á*"Declare "e" on a separate line.(²øÉŞùÿÿÿÿ
-<squid:S1659ê*"Declare "v" on a separate line.(“”ûÿÿÿÿ
-<squid:S1659ê*"Declare "e" on a separate line.(“”ûÿÿÿÿ
-qsquid:S2293ú*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ››®
-vsquid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-Rsquid:S1161+":Add the "@Override" annotation above this method signature(¶•ãü
-vsquid:S2293¢+"YReplace the type specification in this constructor call with the diamond operator ("<>").(£¥™şÿÿÿÿ
-Rsquid:S1161¥+":Add the "@Override" annotation above this method signature(ıÎ–¾
-vsquid:S2293©+"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
-@squid:S1659¾+"#Declare "spare" on a separate line.(³è¬Üıÿÿÿÿ
-=squid:S1948¼+"%Make "tab" transient or serializable.(ÁìñÄ
-Csquid:S1948½+"&Make "next" transient or serializable.(§õú¡øÿÿÿÿ
-Dsquid:S1948¾+"'Make "stack" transient or serializable.(³è¬Üıÿÿÿÿ
-Dsquid:S1948¾+"'Make "spare" transient or serializable.(³è¬Üıÿÿÿÿ
-jsquid:S3776Ù+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€Ü­„
-<squid:S1659Ş+"Declare "i" on a separate line.(š®Ãøÿÿÿÿ
-<squid:S1659Ş+"Declare "n" on a separate line.(š®Ãøÿÿÿÿ
-qsquid:S2293ü+"YReplace the type specification in this constructor call with the diamond operator ("<>").(íú
->squid:S1659…,"!Declare "len" on a separate line.(§õ†úÿÿÿÿ
-bsquid:HiddenFieldCheck‹,":Rename "next" which hides the field declared at line 5565.(É£ê®úÿÿÿÿ
-@squid:S1948¢,"(Make "action" transient or serializable.(é¯ü¡
-_squid:HiddenFieldCheckª,"<Rename "action" which hides the field declared at line 5666.(é¯ü¡
-@squid:S1948½,"(Make "action" transient or serializable.(¢ŠÖ
-_squid:HiddenFieldCheckÅ,"<Rename "action" which hides the field declared at line 5693.(¢ŠÖ
-Esquid:S1948Ø,"(Make "action" transient or serializable.(õõïØøÿÿÿÿ
-dsquid:HiddenFieldCheckà,"<Rename "action" which hides the field declared at line 5720.(õõïØøÿÿÿÿ
-@squid:S1948ó,"(Make "action" transient or serializable.(ÃÎØ
-_squid:HiddenFieldCheckû,"<Rename "action" which hides the field declared at line 5747.(ÃÎØ
-Jsquid:S1948-"-Make "transformer" transient or serializable.(Ï¨–ıÿÿÿÿ
-@squid:S1948-"(Make "action" transient or serializable.(¶£‰‡
-isquid:HiddenFieldCheck—-"ARename "transformer" which hides the field declared at line 5774.(Ï¨–ıÿÿÿÿ
-_squid:HiddenFieldCheck˜-"<Rename "action" which hides the field declared at line 5775.(¶£‰‡
-Jsquid:S1948¯-"-Make "transformer" transient or serializable.(×„Šşüÿÿÿÿ
-@squid:S1948°-"(Make "action" transient or serializable.(¶£‰‡
-isquid:HiddenFieldCheck¸-"ARename "transformer" which hides the field declared at line 5807.(×„Šşüÿÿÿÿ
-_squid:HiddenFieldCheck¹-"<Rename "action" which hides the field declared at line 5808.(¶£‰‡
-Esquid:S1948Ğ-"-Make "transformer" transient or serializable.(¬”é»
-@squid:S1948Ñ-"(Make "action" transient or serializable.(¶£‰‡
-dsquid:HiddenFieldCheckÙ-"ARename "transformer" which hides the field declared at line 5840.(¬”é»
-_squid:HiddenFieldCheckÚ-"<Rename "action" which hides the field declared at line 5841.(¶£‰‡
-Esquid:S1948ñ-"-Make "transformer" transient or serializable.(ˆáŸò
-@squid:S1948ò-"(Make "action" transient or serializable.(¶£‰‡
-dsquid:HiddenFieldCheckû-"ARename "transformer" which hides the field declared at line 5873.(ˆáŸò
-_squid:HiddenFieldCheckü-"<Rename "action" which hides the field declared at line 5874.(¶£‰‡
-Hsquid:S1948“."0Make "searchFunction" transient or serializable.(±¾ìô
-Wsquid:S1161œ.":Add the "@Override" annotation above this method signature(šÆËÅÿÿÿÿÿ
-osquid:S3776."RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-gsquid:HiddenFieldCheck."DRename "searchFunction" which hides the field declared at line 5907.(±¾ìô
-_squid:HiddenFieldCheckŸ."<Rename "result" which hides the field declared at line 5908.(ÿĞ„
-Msquid:S1948¿."0Make "searchFunction" transient or serializable.(–ÍñÎÿÿÿÿÿ
-Wsquid:S1161È.":Add the "@Override" annotation above this method signature(šÆËÅÿÿÿÿÿ
-osquid:S3776É."RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-lsquid:HiddenFieldCheckÊ."DRename "searchFunction" which hides the field declared at line 5951.(–ÍñÎÿÿÿÿÿ
-_squid:HiddenFieldCheckË."<Rename "result" which hides the field declared at line 5952.(ÿĞ„
-Hsquid:S1948ë."0Make "searchFunction" transient or serializable.(ĞÓĞ
-Wsquid:S1161ô.":Add the "@Override" annotation above this method signature(šÆËÅÿÿÿÿÿ
-osquid:S3776õ."RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-gsquid:HiddenFieldCheckö."DRename "searchFunction" which hides the field declared at line 5995.(ĞÓĞ
-_squid:HiddenFieldCheck÷."<Rename "result" which hides the field declared at line 5996.(ÿĞ„
-Hsquid:S1948—/"0Make "searchFunction" transient or serializable.(äø 
-Wsquid:S1161 /":Add the "@Override" annotation above this method signature(šÆËÅÿÿÿÿÿ
-osquid:S3776¡/"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-gsquid:HiddenFieldCheck¢/"DRename "searchFunction" which hides the field declared at line 6039.(äø 
-_squid:HiddenFieldCheck£/"<Rename "result" which hides the field declared at line 6040.(ÿĞ„
-?squid:S1659Å/"'Declare "nextRight" on a separate line.(·Ì„ë
-Asquid:S1948Ã/")Make "reducer" transient or serializable.(ÑíÎ
-@squid:S1948Ä/"(Make "result" transient or serializable.(‡Á³Ó
-Wsquid:S1161Í/":Add the "@Override" annotation above this method signature(œ²¥şÿÿÿÿ
-osquid:S3776Î/"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-`squid:HiddenFieldCheckÏ/"=Rename "reducer" which hides the field declared at line 6083.(ÑíÎ
-vsquid:S2293Ô/"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ¼µ¢úÿÿÿÿ
-asquid:S3358Û/"DExtract this nested ternary operation into an independent statement.(¢Ö¡Œşÿÿÿÿ
-<squid:S1659ã/"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-=squid:S1659å/" Declare "sr" on a separate line.(ÙÇÕèøÿÿÿÿ
-Dsquid:S1659õ/"'Declare "nextRight" on a separate line.(¬¶°öûÿÿÿÿ
-Fsquid:S1948ó/")Make "reducer" transient or serializable.(Í®¯Ğüÿÿÿÿ
-Esquid:S1948ô/"(Make "result" transient or serializable.(üâúƒşÿÿÿÿ
-Rsquid:S1161ı/":Add the "@Override" annotation above this method signature(¹ßÒÙ
-osquid:S3776ş/"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-esquid:HiddenFieldCheckÿ/"=Rename "reducer" which hides the field declared at line 6131.(Í®¯Ğüÿÿÿÿ
-psquid:S2293„0"YReplace the type specification in this constructor call with the diamond operator ("<>").(„¿ñ
-<squid:S1659“0"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-7squid:S1659•0" Declare "sr" on a separate line.(¡îûf
-?squid:S1659¥0"'Declare "nextRight" on a separate line.(ÒöÏ¦
-Fsquid:S1948£0")Make "reducer" transient or serializable.(ßæŞäüÿÿÿÿ
-@squid:S1948¤0"(Make "result" transient or serializable.(¦îõã
-Wsquid:S1161­0":Add the "@Override" annotation above this method signature(¼®èıÿÿÿÿ
-osquid:S3776®0"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-esquid:HiddenFieldCheck¯0"=Rename "reducer" which hides the field declared at line 6179.(ßæŞäüÿÿÿÿ
-vsquid:S2293´0"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì™ÀŞıÿÿÿÿ
-<squid:S1659Á0"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-=squid:S1659Ã0" Declare "sr" on a separate line.(Ó·óûÿÿÿÿ
-Dsquid:S1659Ô0"'Declare "nextRight" on a separate line.(„‘ªÑøÿÿÿÿ
-Jsquid:S1948Ñ0"-Make "transformer" transient or serializable.(Ï¨–ıÿÿÿÿ
-Asquid:S1948Ò0")Make "reducer" transient or serializable.(Ä”†‘
-@squid:S1948Ó0"(Make "result" transient or serializable.(äÔ¬’
-Rsquid:S1161Ş0":Add the "@Override" annotation above this method signature(Áúê„
-osquid:S3776ß0"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-isquid:HiddenFieldCheckà0"ARename "transformer" which hides the field declared at line 6225.(Ï¨–ıÿÿÿÿ
-`squid:HiddenFieldChecká0"=Rename "reducer" which hides the field declared at line 6226.(Ä”†‘
-qsquid:S2293ç0"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ò¹´
-<squid:S1659÷0"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-=squid:S1659ù0" Declare "sr" on a separate line.(½Óº“ùÿÿÿÿ
-?squid:S1659Š1"'Declare "nextRight" on a separate line.(øâ±ø
-Jsquid:S1948‡1"-Make "transformer" transient or serializable.(×„Šşüÿÿÿÿ
-Asquid:S1948ˆ1")Make "reducer" transient or serializable.(Ä”†‘
-@squid:S1948‰1"(Make "result" transient or serializable.(äÔ¬’
-Rsquid:S1161”1":Add the "@Override" annotation above this method signature(Áúê„
-osquid:S3776•1"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-isquid:HiddenFieldCheck–1"ARename "transformer" which hides the field declared at line 6279.(×„Šşüÿÿÿÿ
-`squid:HiddenFieldCheck—1"=Rename "reducer" which hides the field declared at line 6280.(Ä”†‘
-vsquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÊÚïşÿÿÿÿ
-<squid:S1659­1"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-=squid:S1659¯1" Declare "sr" on a separate line.(½Óº“ùÿÿÿÿ
-?squid:S1659À1"'Declare "nextRight" on a separate line.(ŸÛ‚¬
-Esquid:S1948½1"-Make "transformer" transient or serializable.(¬”é»
-Asquid:S1948¾1")Make "reducer" transient or serializable.(Ä”†‘
-@squid:S1948¿1"(Make "result" transient or serializable.(äÔ¬’
-Rsquid:S1161Ê1":Add the "@Override" annotation above this method signature(Áúê„
-osquid:S3776Ë1"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-dsquid:HiddenFieldCheckÌ1"ARename "transformer" which hides the field declared at line 6333.(¬”é»
-`squid:HiddenFieldCheckÍ1"=Rename "reducer" which hides the field declared at line 6334.(Ä”†‘
-vsquid:S2293Ó1"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Á€şÿÿÿÿ
-<squid:S1659ã1"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-=squid:S1659å1" Declare "sr" on a separate line.(½Óº“ùÿÿÿÿ
->squid:S1659ö1"'Declare "nextRight" on a separate line.(¶Ëú)
-Esquid:S1948ó1"-Make "transformer" transient or serializable.(ˆáŸò
-Asquid:S1948ô1")Make "reducer" transient or serializable.(Ä”†‘
-@squid:S1948õ1"(Make "result" transient or serializable.(äÔ¬’
-Rsquid:S1161€2":Add the "@Override" annotation above this method signature(Áúê„
-osquid:S37762"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-dsquid:HiddenFieldCheck‚2"ARename "transformer" which hides the field declared at line 6387.(ˆáŸò
-`squid:HiddenFieldCheckƒ2"=Rename "reducer" which hides the field declared at line 6388.(Ä”†‘
-qsquid:S2293‰2"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âşíº
-<squid:S1659™2"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-=squid:S1659›2" Declare "sr" on a separate line.(½Óº“ùÿÿÿÿ
-Dsquid:S1659­2"'Declare "nextRight" on a separate line.(â„èªıÿÿÿÿ
-Esquid:S1948©2"-Make "transformer" transient or serializable.(–Ø®ÿ
-Fsquid:S1948ª2")Make "reducer" transient or serializable.(Õ†Œïùÿÿÿÿ
-Wsquid:S1161¸2":Add the "@Override" annotation above this method signature(€üíÏøÿÿÿÿ
-dsquid:HiddenFieldCheckº2"ARename "transformer" which hides the field declared at line 6441.(–Ø®ÿ
-esquid:HiddenFieldCheck»2"=Rename "reducer" which hides the field declared at line 6442.(Õ†Œïùÿÿÿÿ
-qsquid:S2293Â2"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÌ¿¨
-<squid:S1659Î2"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
->squid:S1659ß2"'Declare "nextRight" on a separate line.(ÇÁè
-Jsquid:S1948Û2"-Make "transformer" transient or serializable.(²‚éûûÿÿÿÿ
-Fsquid:S1948Ü2")Make "reducer" transient or serializable.(Õ†Œïùÿÿÿÿ
-Wsquid:S1161ê2":Add the "@Override" annotation above this method signature(€üíÏøÿÿÿÿ
-isquid:HiddenFieldCheckì2"ARename "transformer" which hides the field declared at line 6491.(²‚éûûÿÿÿÿ
-esquid:HiddenFieldCheckí2"=Rename "reducer" which hides the field declared at line 6492.(Õ†Œïùÿÿÿÿ
-vsquid:S2293ô2"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê™³ úÿÿÿÿ
-<squid:S1659€3"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-?squid:S1659‘3"'Declare "nextRight" on a separate line.(¦Û•£
-Jsquid:S19483"-Make "transformer" transient or serializable.(ßğà¿ùÿÿÿÿ
-Fsquid:S19483")Make "reducer" transient or serializable.(Õ†Œïùÿÿÿÿ
-Wsquid:S1161œ3":Add the "@Override" annotation above this method signature(€üíÏøÿÿÿÿ
-isquid:HiddenFieldCheck3"ARename "transformer" which hides the field declared at line 6541.(ßğà¿ùÿÿÿÿ
-esquid:HiddenFieldCheckŸ3"=Rename "reducer" which hides the field declared at line 6542.(Õ†Œïùÿÿÿÿ
-qsquid:S2293¦3"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü´º¯
-<squid:S1659²3"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1659Ã3"'Declare "nextRight" on a separate line.(Íõåúÿÿÿÿ
-Esquid:S1948¿3"-Make "transformer" transient or serializable.(±Ü­Ó
-Fsquid:S1948À3")Make "reducer" transient or serializable.(Õ†Œïùÿÿÿÿ
-Wsquid:S1161Î3":Add the "@Override" annotation above this method signature(€üíÏøÿÿÿÿ
-dsquid:HiddenFieldCheckĞ3"ARename "transformer" which hides the field declared at line 6591.(±Ü­Ó
-esquid:HiddenFieldCheckÑ3"=Rename "reducer" which hides the field declared at line 6592.(Õ†Œïùÿÿÿÿ
-vsquid:S2293Ø3"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ñš¯ûÿÿÿÿ
-<squid:S1659ä3"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1659õ3"'Declare "nextRight" on a separate line.(ÒÉ†ãùÿÿÿÿ
-Jsquid:S1948ñ3"-Make "transformer" transient or serializable.(£€µæùÿÿÿÿ
-Fsquid:S1948ò3")Make "reducer" transient or serializable.(Œ¬¤üÿÿÿÿ
-Wsquid:S1161€4":Add the "@Override" annotation above this method signature(Æ İ²ùÿÿÿÿ
-isquid:HiddenFieldCheck‚4"ARename "transformer" which hides the field declared at line 6641.(£€µæùÿÿÿÿ
-esquid:HiddenFieldCheckƒ4"=Rename "reducer" which hides the field declared at line 6642.(Œ¬¤üÿÿÿÿ
-vsquid:S2293Š4"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔÃù¼ûÿÿÿÿ
-<squid:S1659–4"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1659§4"'Declare "nextRight" on a separate line.(Î¨¦úûÿÿÿÿ
-Jsquid:S1948£4"-Make "transformer" transient or serializable.(Í›»ëøÿÿÿÿ
-Fsquid:S1948¤4")Make "reducer" transient or serializable.(Œ¬¤üÿÿÿÿ
-Wsquid:S1161²4":Add the "@Override" annotation above this method signature(Æ İ²ùÿÿÿÿ
-isquid:HiddenFieldCheck´4"ARename "transformer" which hides the field declared at line 6691.(Í›»ëøÿÿÿÿ
-esquid:HiddenFieldCheckµ4"=Rename "reducer" which hides the field declared at line 6692.(Œ¬¤üÿÿÿÿ
-vsquid:S2293¼4"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ÌÂúÿÿÿÿ
-<squid:S1659È4"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1659Ù4"'Declare "nextRight" on a separate line.(ó¡ûÿÿÿÿ
-Jsquid:S1948Õ4"-Make "transformer" transient or serializable.(Ò¢Äûùÿÿÿÿ
-Fsquid:S1948Ö4")Make "reducer" transient or serializable.(Œ¬¤üÿÿÿÿ
-Wsquid:S1161ä4":Add the "@Override" annotation above this method signature(Æ İ²ùÿÿÿÿ
-isquid:HiddenFieldCheckæ4"ARename "transformer" which hides the field declared at line 6741.(Ò¢Äûùÿÿÿÿ
-esquid:HiddenFieldCheckç4"=Rename "reducer" which hides the field declared at line 6742.(Œ¬¤üÿÿÿÿ
-qsquid:S2293î4"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ÅÊ
-<squid:S1659ú4"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1659‹5"'Declare "nextRight" on a separate line.(‰öÊíøÿÿÿÿ
-Esquid:S1948‡5"-Make "transformer" transient or serializable.(øŸÈ
-Fsquid:S1948ˆ5")Make "reducer" transient or serializable.(Œ¬¤üÿÿÿÿ
-Wsquid:S1161–5":Add the "@Override" annotation above this method signature(Æ İ²ùÿÿÿÿ
-dsquid:HiddenFieldCheck˜5"ARename "transformer" which hides the field declared at line 6791.(øŸÈ
-esquid:HiddenFieldCheck™5"=Rename "reducer" which hides the field declared at line 6792.(Œ¬¤üÿÿÿÿ
-vsquid:S2293 5"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş¡Åìùÿÿÿÿ
-<squid:S1659¬5"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
->squid:S1659½5"'Declare "nextRight" on a separate line.(Ì‹ÅL
-Esquid:S1948¹5"-Make "transformer" transient or serializable.(ü¦»
-Fsquid:S1948º5")Make "reducer" transient or serializable.(¼üÎ”şÿÿÿÿ
-Qsquid:S1161È5":Add the "@Override" annotation above this method signature(ç®¸>
-dsquid:HiddenFieldCheckÊ5"ARename "transformer" which hides the field declared at line 6841.(ü¦»
-esquid:HiddenFieldCheckË5"=Rename "reducer" which hides the field declared at line 6842.(¼üÎ”şÿÿÿÿ
-qsquid:S2293Ò5"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¥Ç¼
-<squid:S1659Ş5"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1659ï5"'Declare "nextRight" on a separate line.(Ç§ÅÅüÿÿÿÿ
-Esquid:S1948ë5"-Make "transformer" transient or serializable.(ÈòáÑ
-Fsquid:S1948ì5")Make "reducer" transient or serializable.(¼üÎ”şÿÿÿÿ
-Qsquid:S1161ú5":Add the "@Override" annotation above this method signature(ç®¸>
-dsquid:HiddenFieldCheckü5"ARename "transformer" which hides the field declared at line 6891.(ÈòáÑ
-esquid:HiddenFieldCheckı5"=Rename "reducer" which hides the field declared at line 6892.(¼üÎ”şÿÿÿÿ
-vsquid:S2293„6"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÉ½Õøÿÿÿÿ
-<squid:S16596"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1659¡6"'Declare "nextRight" on a separate line.(’ò»°ÿÿÿÿÿ
-Esquid:S19486"-Make "transformer" transient or serializable.(¶ğËŠ
-Fsquid:S19486")Make "reducer" transient or serializable.(¼üÎ”şÿÿÿÿ
-Qsquid:S1161¬6":Add the "@Override" annotation above this method signature(ç®¸>
-dsquid:HiddenFieldCheck®6"ARename "transformer" which hides the field declared at line 6941.(¶ğËŠ
-esquid:HiddenFieldCheck¯6"=Rename "reducer" which hides the field declared at line 6942.(¼üÎ”şÿÿÿÿ
-vsquid:S2293¶6"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡‘‚Ôûÿÿÿÿ
-<squid:S1659Â6"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1659Ó6"'Declare "nextRight" on a separate line.(åäŸèıÿÿÿÿ
-Esquid:S1948Ï6"-Make "transformer" transient or serializable.(£îƒ¨
-Fsquid:S1948Ğ6")Make "reducer" transient or serializable.(¼üÎ”şÿÿÿÿ
-Qsquid:S1161Ş6":Add the "@Override" annotation above this method signature(ç®¸>
-dsquid:HiddenFieldCheckà6"ARename "transformer" which hides the field declared at line 6991.(£îƒ¨
-esquid:HiddenFieldChecká6"=Rename "reducer" which hides the field declared at line 6992.(¼üÎ”şÿÿÿÿ
-vsquid:S2293è6"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óç ªÿÿÿÿÿ
-<squid:S1659ô6"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
-Dsquid:S1481­"'Remove this unused "ev" local variable.(“‡ëœøÿÿÿÿ
-Dsquid:S1481¢"'Remove this unused "sc" local variable.(ü±÷Òşÿÿÿÿ
-Wsquid:S1068²":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ

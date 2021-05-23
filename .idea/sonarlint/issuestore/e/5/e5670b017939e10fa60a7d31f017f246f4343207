@@ -1,14 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-^$squid:AssignmentInSubExpressionCheckb".Extract the assignment out of this expression.(˜±¢±
-nsquid:S00116="QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Æçúÿÿÿÿ
-osquid:S00116>"RRename this field "_format" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ…Åµÿÿÿÿÿ
-msquid:S00116?"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¯È™úÿÿÿÿ
-vsquid:S00116@"YRename this field "_resolvedQName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¡»şÿÿÿÿ
-|squid:S1149B"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŞâÓ©
-Vsquid:S1161I":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-@squid:S1125O")Remove the literal "false" boolean value.(à§îÏ
-@squid:S1125S")Remove the literal "false" boolean value.(´øˆ
-@squid:S1125^")Remove the literal "false" boolean value.(Ëø’™
-Qsquid:S1161e":Add the "@Override" annotation above this method signature(†“‹Ø
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

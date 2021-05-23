@@ -1,23 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
-Lsquid:S1066œ"/Merge this if statement with the enclosing one.(ëÍìÂúÿÿÿÿ
-dsquid:MaximumInheritanceDepth1"<This class has 6 parents which is greater than 5 authorized.(”œV
-ysquid:S00116<"aRename this field "m_inNaturalOrderStatic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹éñÇ
-}squid:S1149ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Qsquid:S1161q":Add the "@Override" annotation above this method signature(áı¼ü
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¹Œúâ
-Csquid:S1481Š"&Remove this unused "i" local variable.(ƒ­‡øÿÿÿÿ
-Esquid:S1481‡"-Remove this unused "prevAxis" local variable.(µ”“à
-Qsquid:S1481ˆ"9Remove this unused "prevIsSimpleDownAxis" local variable.(è£Å
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(ÿà·
-csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(Ú°à¬
-hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(¯§˜òüÿÿÿÿ
-csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(şŞÎ
-hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(…ó¥îıÿÿÿÿ
-csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(ãÖÊ
-csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(°Ÿšæ
-csquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(Ú°à¬
-csquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(­Œ±İ
-csquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(ŞÎÂÚ
-csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Õ£¥¾

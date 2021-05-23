@@ -1,5 +1,0 @@
-
-Lsquid:S1191S"5Use classes from the Java API instead of Sun classes.(™ã£ü
-qsquid:S1450ß"YRemove the "fFollowPos" field and declare it as a local variable in the relevant methods.(×÷ÂÝ
-Lsquid:EmptyStatementUsageCheckã"Remove this empty statement.(ôŸŽìúÿÿÿÿ
-Fsquid:S1068ß".Remove this unused "fFollowPos" private field.(×÷ÂÝ

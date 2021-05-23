@@ -1,21 +1,0 @@
-
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
-zsquid:S001160"bRename this field "_cdata_section_elements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ç‘
-wsquid:S001161"ZRename this field "_doctype_public" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬±Ö²ûÿÿÿÿ
-lsquid:S001162"TRename this field "_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïñ¬„
-jsquid:S001163"RRename this field "_indent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Îãş
-ssquid:S001164"VRename this field "_media_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾ü¶ÿÿÿÿÿ
-jsquid:S001165"RRename this field "_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş±Ô¢
-xsquid:S001166"`Rename this field "_omit_xml_declaration" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ºÔ
-ssquid:S001167"VRename this field "_standalone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿…©ûÿÿÿÿ
-ksquid:S001168"SRename this field "_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÑšÑ
-Rsquid:S10680";Remove this unused "_cdata_section_elements" private field.(³ç‘
-Osquid:S10681"3Remove this unused "_doctype_public" private field.(¬±Ö²ûÿÿÿÿ
-Dsquid:S10682"-Remove this unused "_encoding" private field.(Ïñ¬„
-Bsquid:S10683"+Remove this unused "_indent" private field.(¡Îãş
-Ksquid:S10684"/Remove this unused "_media_type" private field.(ß¾ü¶ÿÿÿÿÿ
-Bsquid:S10685"+Remove this unused "_method" private field.(ş±Ô¢
-Psquid:S10686"9Remove this unused "_omit_xml_declaration" private field.( ºÔ
-Ksquid:S10687"/Remove this unused "_standalone" private field.(¿…©ûÿÿÿÿ
-Csquid:S10688",Remove this unused "_version" private field.(ìÑšÑ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

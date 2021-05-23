@@ -1,5 +1,0 @@
-
-Vsquid:UselessImportCheck "-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-Tsquid:S1197;"8Move the array designator from the variable to the type.(ÜÅÃïÿÿÿÿÿ
-Osquid:UselessParenthesesCheckH"!Remove these useless parentheses.(´—…üÿÿÿÿ
-Asquid:S00108\")Either remove or fill this block of code.(Ì²¾Õ

@@ -1,18 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
-Qsquid:S1161d":Add the "@Override" annotation above this method signature(æ”Âó
-Vsquid:S1161s":Add the "@Override" annotation above this method signature(ÂëÀıùÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(øâ²¨şÿÿÿÿ
-Gsquid:S00108º")Either remove or fill this block of code.(¿åÓúÿÿÿÿ
-Rsquid:S1161É":Add the "@Override" annotation above this method signature(«›‹
-Rsquid:S1161×":Add the "@Override" annotation above this method signature(ËĞÁ
-Wsquid:S1161å":Add the "@Override" annotation above this method signature(¡‰‚”şÿÿÿÿ
-Wsquid:S1161õ":Add the "@Override" annotation above this method signature(ü†ê¾úÿÿÿÿ
-Usquid:S1197ì"8Move the array designator from the variable to the type.(·ñ¾üùÿÿÿÿ
-Rsquid:S1161ş":Add the "@Override" annotation above this method signature(¯¢…Ò
-isquid:S3776
-"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(©è»
-Qsquid:S1161ì
-":Add the "@Override" annotation above this method signature(¤¼ú<
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(á›ó³

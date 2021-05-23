@@ -1,39 +1,0 @@
-
-ksquid:S3824»"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(êƒÂµùÿÿÿÿ
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ßÆ©ºÿÿÿÿÿ
-nsquid:S1192Û"VDefine a constant instead of duplicating this literal "processEntry caught: " 4 times.(²ÀÜ
-jsquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹İã‘
-Esquid:S3077]".Remove the "volatile" keyword from this field.(½Ã½Ù
-msquid:S11499"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(”êÏŸ
-rsquid:S1149?"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(íë¸£úÿÿÿÿ
-msquid:S1149B"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÂŞ‚®
-Tsquid:S1197`"8Move the array designator from the variable to the type.(èº¢ùÿÿÿÿ
-Osquid:S1197k"8Move the array designator from the variable to the type.(÷Ç“Ê
-3squid:S3626Ò"Remove this redundant jump.(ûÁİ…
-isquid:S3776}"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(„«¹ª
-Bsquid:S1172ñ"*Remove this unused method parameter "len".(İ²¿ó
-osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(ä›òÃûÿÿÿÿ
-Psquid:S1197"8Move the array designator from the variable to the type.(Ï‘¡˜
-bsquid:S3027´"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(±››ó
-msquid:S2445º"V"manifestRawBytes" is not "private final", and should not be used for synchronization.(óü¡
-Msquid:S1133ô"5Do not forget to remove this deprecated code someday.(÷£¤¯
-Bsquid:S00108")Either remove or fill this block of code.(ï­£Ä
->squid:S1168¹"&Return an empty array instead of null.(¥¹ï
-Fsquid:S1125Æ")Remove the literal "false" boolean value.(±Ÿïûÿÿÿÿ
-Rsquid:S1161†":Add the "@Override" annotation above this method signature(§ìî·
-Psquid:S1197†"8Move the array designator from the variable to the type.(§ìî·
-Wsquid:S1161—":Add the "@Override" annotation above this method signature(´Ôùíûÿÿÿÿ
-Wsquid:S1161¡":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
-2squid:S2112©"Use the URI class instead.(ÉªÌá
-qsquid:S3012ğ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ü™´ã
->squid:S1168û"&Return an empty array instead of null.(¥¹ï
-hsquid:S1206¥"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
-Bsquid:S1948‹"*Make "csdomain" transient or serializable.(ÃğĞ¹
-Rsquid:S1161¥":Add the "@Override" annotation above this method signature(ÜÑã
-2squid:S2112º"Use the URI class instead.(„Åø
-7squid:S2112¼"Use the URI class instead.(ÃÒ¢êşÿÿÿÿ
-jsquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ª²ô•
-Dsquid:S1481”",Remove this unused "signers" local variable.(¾ïºº
-Dsquid:S1481¬",Remove this unused "signers" local variable.(¾ïºº
-asquid:UnusedPrivateMethodÍ";Remove this unused private "getPrivateCertificates" method.(÷ÍÜ‘
-hsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(Úóıóüÿÿÿÿ

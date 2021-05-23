@@ -1,8 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
-usquid:S3252i"^Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDATION_NONE".(Ÿ«Éö
-|squid:S3252l"`Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_NOTKNOWN".(µş‡øÿÿÿÿ
-csquid:CallToDeprecatedMethod‰":Remove this use of "getConstraintValue"; it is deprecated.(€ı§í
-vsquid:S3252Ú"^Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDATION_NONE".(Ú÷Áÿ
-}squid:S3252Û"`Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_NOTKNOWN".(»¹ò¥úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

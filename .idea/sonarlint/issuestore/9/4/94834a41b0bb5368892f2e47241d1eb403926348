@@ -1,4 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê Ş’
-Vsquid:S1161;":Add the "@Override" annotation above this method signature(øŠÔıÿÿÿÿ
-psquid:S3012J"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(á¬¬«

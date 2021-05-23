@@ -1,12 +1,0 @@
-
-msquid:S1206è"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
-<squid:S1948€"$Make "al" transient or serializable.(å„äá
-vsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(“õãûÿÿÿÿ
-vsquid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ­‘Ôùÿÿÿÿ
-vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“õãûÿÿÿÿ
-Wsquid:S1161œ":Add the "@Override" annotation above this method signature(‚Õ°ªÿÿÿÿÿ
-Wsquid:S1161è":Add the "@Override" annotation above this method signature(İ¢êÍıÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckù";Refactor the code to remove this label and the need for it.(è±ê¤
-Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(µ³‹¬
-Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(ïåê
-Wsquid:S1161¦":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ

@@ -1,16 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
-Fsquid:S23909"*Remove this reference to "XBooleanStatic".(ÖÃ‡“úÿÿÿÿ
-Fsquid:S2390B"*Remove this reference to "XBooleanStatic".(ïÓõ™ÿÿÿÿÿ
-hsquid:S00116H"PRename this field "m_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÉ€‡
-Qsquid:S1161w":Add the "@Override" annotation above this method signature(æ”Âó
-Wsquid:S1161†":Add the "@Override" annotation above this method signature(ÂëÀýùÿÿÿÿ
-Wsquid:S1161”":Add the "@Override" annotation above this method signature(øâ²¨þÿÿÿÿ
-Rsquid:S1161¢":Add the "@Override" annotation above this method signature(«›‹
-Wsquid:S1161°":Add the "@Override" annotation above this method signature(¡‰‚”þÿÿÿÿ
-Rsquid:S1161¿":Add the "@Override" annotation above this method signature(ï¸šÎ
->squid:S2129Â"!Remove this "Boolean" constructor(¯Û„¥ýÿÿÿÿ
-]squid:CallToDeprecatedMethodÂ"/Remove this use of "Boolean"; it is deprecated.(¯Û„¥ýÿÿÿÿ
-msquid:S1201Ò"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¯¢…Ò
-Rsquid:S1161Ò":Add the "@Override" annotation above this method signature(¯¢…Ò
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

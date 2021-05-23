@@ -1,34 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
-Dsquid:S1905b"-Remove this unnecessary cast to "SymbolHash".(ß¡óø
-‚squid:S3252É"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_FALSE".(é»ÏÒ
-‚squid:S3252Ë"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_FALSE".(üÎŞ–
-‚squid:S3252Ì"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_TOTAL".(Ëª“È
-‡squid:S3252Ï"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_FALSE".(„ïĞüÿÿÿÿ
-‡squid:S3252Ğ"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_FALSE".(³ºŞüúÿÿÿÿ
-‰squid:S3252Ñ"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(Ë’Ş¦ùÿÿÿÿ
-„squid:S3252Ò"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(÷úóŸ
-‰squid:S3252Ó"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(•œÍÌşÿÿÿÿ
-„squid:S3252Ô"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(®Òı
-„squid:S3252Õ"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(úê¹
-‰squid:S3252Ö"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(‹¨´éıÿÿÿÿ
-ƒsquid:S3252×"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(“»‚
-‰squid:S3252Ø"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(ÁÜ‰ùÿÿÿÿ
-‡squid:S3252Ú"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_TOTAL".(¹±ìıÿÿÿÿ
-Œsquid:S3252ß"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(Ï®İşÿÿÿÿ
-‡squid:S3252ä"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(İÒíÂ
-Œsquid:S3252ê"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(úÂîÛúÿÿÿÿ
-Œsquid:S3252ê"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(úÂîÛúÿÿÿÿ
-Œsquid:S3252ñ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(­¶ÄÏúÿÿÿÿ
-Œsquid:S3252ñ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(­¶ÄÏúÿÿÿÿ
-‡squid:S3252÷"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(ü¨âŞ
-‡squid:S3252÷"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(ü¨âŞ
-‡squid:S3252ı"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(™Ğ¯Ã
-‡squid:S3252ı"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(™Ğ¯Ã
-‡squid:S3252‚"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(•´ˆà
-Œsquid:S3252‡"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(»­ÇÏùÿÿÿÿ
-†squid:S3252Œ"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(’ïÁ]
-‡squid:S3252‘"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(‚¸²
-‡squid:S3252–"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXINCLUSIVE".(œˆ¼²
-‡squid:S3252›"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MININCLUSIVE".(ãü¸º
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

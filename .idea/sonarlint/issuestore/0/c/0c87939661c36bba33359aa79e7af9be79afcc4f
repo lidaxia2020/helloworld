@@ -1,12 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(£ÿõ•ûÿÿÿÿ
-Ysquid:UselessImportCheck"5Remove this unused import 'org.omg.CORBA.INITIALIZE'.(ÅË‘‡
-lsquid:UselessImportCheck*"HRemove this unused import 'com.sun.corba.se.impl.orbutil.ObjectUtility'.(¨«û—
-<squid:S1181c"%Catch Exception instead of Throwable.(âÂéî
-=squid:S2129f"!Remove this "Integer" constructor(£óÒ»úÿÿÿÿ
-\squid:CallToDeprecatedMethodf"/Remove this use of "Integer"; it is deprecated.(£óÒ»úÿÿÿÿ
-<squid:S1181p"%Catch Exception instead of Throwable.(âÂéî
-8squid:S2129r"!Remove this "Integer" constructor(Ü…ä³
-Wsquid:CallToDeprecatedMethodr"/Remove this use of "Integer"; it is deprecated.(Ü…ä³
-=squid:S2129s"!Remove this "Integer" constructor(÷§óùÿÿÿÿ
-\squid:CallToDeprecatedMethods"/Remove this use of "Integer"; it is deprecated.(÷§óùÿÿÿÿ

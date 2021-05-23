@@ -1,9 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-ssquid:S00115æ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€ËÃÉ
-P"squid:SwitchLastCaseIsDefaultCheckm""Add a default case to this switch.(¹ŠÒÓ
-ksquid:ModifiersOrderCheck”"EReorder the modifiers to comply with the Java Language Specification.(¥¼…¹
-ksquid:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(–ïêã
-ksquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(–ïêã
-psquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(êÙëšşÿÿÿÿ
-ksquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(€ËÃÉ

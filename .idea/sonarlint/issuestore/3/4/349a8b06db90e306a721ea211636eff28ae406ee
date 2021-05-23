@@ -1,13 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(áóš
-Wsquid:UselessImportCheck+"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-Vsquid:UselessImportCheck5"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
-^squid:UselessImportCheck&":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
-\squid:UselessImportCheck("8Remove this unused import 'org.omg.CORBA.UserException'.(é½î–
-_squid:UselessImportCheck'";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-[squid:UselessImportCheck,"7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
-fsquid:UselessImportCheck6"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿéúÿÿÿÿ
-Ysquid:UselessImportCheck4"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
-[squid:UselessImportCheck*"2Remove this unused import 'org.omg.CORBA.UNKNOWN'.(œœõ–ùÿÿÿÿ
-Vsquid:S1118D":Add a private constructor to hide the implicit public one.(Õ¡æ‹üÿÿÿÿ
-^squid:S1126h"BReplace this if-then-else statement by a single method invocation.(ïŠÌ øÿÿÿÿ

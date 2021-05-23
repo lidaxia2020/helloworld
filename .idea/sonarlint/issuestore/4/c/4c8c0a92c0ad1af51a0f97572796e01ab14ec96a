@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(†ƒî
-_squid:UselessImportCheck";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-_squid:UselessImportCheck"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñþÿÿÿÿ
-osquid:ModifiersOrderCheck5"EReorder the modifiers to comply with the Java Language Specification.(ûäØ°þÿÿÿÿ
-Dsquid:S1125>"(Remove the literal "true" boolean value.(¡§ÚÒýÿÿÿÿ
-Dsquid:S1125@"(Remove the literal "true" boolean value.(¼×û‘øÿÿÿÿ

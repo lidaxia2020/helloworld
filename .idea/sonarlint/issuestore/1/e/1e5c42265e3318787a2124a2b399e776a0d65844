@@ -1,26 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(üçºˆ¸ˇˇˇˇ
-osquid:ModifiersOrderCheck^"EReorder the modifiers to comply with the Java Language Specification.(ﬂ≤¶˛ˇˇˇˇˇ
-Rsquid:S1161É":Add the "@Override" annotation above this method signature(ÿ˚¨Ø
-Rsquid:S1161£":Add the "@Override" annotation above this method signature(òâÂæ
-Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(π∂ÿÃ¯ˇˇˇˇ
-Wsquid:S1161Ü":Add the "@Override" annotation above this method signature(˛°÷¿¸ˇˇˇˇ
-Qsquid:S1161∆":Add the "@Override" annotation above this method signature(Ù¡ú]
->squid:S1168À"&Return an empty array instead of null.(•πÔç
-Wsquid:S1161Ê":Add the "@Override" annotation above this method signature( ±†˛˘ˇˇˇˇ
-Rsquid:S1161ˇ":Add the "@Override" annotation above this method signature(Âñ¢≤
-Wsquid:S1161ü":Add the "@Override" annotation above this method signature(»ƒã»¸ˇˇˇˇ
-Wsquid:S1161√":Add the "@Override" annotation above this method signature(˚Î´•˛ˇˇˇˇ
-Wsquid:S1161Â":Add the "@Override" annotation above this method signature(ÓŸﬁ¶ˇˇˇˇˇ
-Csquid:S1150˝"+Implement Iterator rather than Enumeration.(—±ò∂
-msquid:S1149 "VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÄÄî?
-ssquid:S1149À"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÊÄ◊∆ˇˇˇˇˇ
-nsquid:S1149Ã"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ˆ‡ªß
-nsquid:S1149Õ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(∞ÂÚ∂
-Çsquid:S1149‘"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˛¬∂«¸ˇˇˇˇ
-nsquid:S1149”"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(òËÙà
-psquid:ModifiersOrderCheck√"EReorder the modifiers to comply with the Java Language Specification.(ìΩÊê¯ˇˇˇˇ
-isquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(≥ÓŒ_
-Usquid:S1197“"8Move the array designator from the variable to the type.(Â¸¯«ˇˇˇˇˇ
->squid:S1168Ñ"&Return an empty array instead of null.(•πÔç
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

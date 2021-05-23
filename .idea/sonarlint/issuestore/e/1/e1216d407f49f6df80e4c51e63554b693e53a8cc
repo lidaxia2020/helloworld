@@ -1,90 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‹µ›äûÿÿÿÿ
-dsquid:S1192ß"LDefine a constant instead of duplicating this literal "xml:isSpace" 4 times.(ÂòÚß
-nsquid:S1192ç"VDefine a constant instead of duplicating this literal "xml:isInitialNameChar" 4 times.(‡¥õÅ
-csquid:S1192Û"KDefine a constant instead of duplicating this literal "xml:isWord" 4 times.(»°¯Ó
-lsquid:S1192ã"ODefine a constant instead of duplicating this literal "xml:isNameChar" 4 times.(Ì¢Í£ıÿÿÿÿ
-dsquid:S1192×"LDefine a constant instead of duplicating this literal "xml:isDigit" 5 times.(®¶˜Å
-nsquid:S1192D"RDefine a constant instead of duplicating this literal "parser.process.1" 20 times.(Šò¬ıÿÿÿÿ
-isquid:S1192“"LDefine a constant instead of duplicating this literal "parser.cc.8" 3 times.(è¿Šœşÿÿÿÿ
-p
-squid:S135Ô"YReduce the total number of break and continue statements in this loop to use at most one.(ü±¿ç
-ssquid:S1488¯"[Immediately return this expression instead of assigning it to the temporary variable "tok".(ÆæÂ
-dsquid:S00112ë"FDefine and throw a dedicated exception instead of using a generic one.(ÎÙ½éúÿÿÿÿ
-nsquid:S1149Š"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(íöÆô
-msquid:S1149‹"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ªÌú"
-Ä%squid:RedundantThrowsDeclarationCheck;"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¥¯Êûÿÿÿÿ
-Vsquid:S1161;":Add the "@Override" annotation above this method signature(¥¯Êûÿÿÿÿ
-¿%squid:RedundantThrowsDeclarationCheck?"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¾ôõô
-Qsquid:S1161?":Add the "@Override" annotation above this method signature(¾ôõô
-¿%squid:RedundantThrowsDeclarationCheckC"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ùŸ¬·
-Qsquid:S1161C":Add the "@Override" annotation above this method signature(ùŸ¬·
-Ä%squid:RedundantThrowsDeclarationCheckF"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(šÚ«¥úÿÿÿÿ
-Vsquid:S1161F":Add the "@Override" annotation above this method signature(šÚ«¥úÿÿÿÿ
-Ä%squid:RedundantThrowsDeclarationCheckI"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(™Ş ûÿÿÿÿ
-Vsquid:S1161I":Add the "@Override" annotation above this method signature(™Ş ûÿÿÿÿ
-¾%squid:RedundantThrowsDeclarationCheckL"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(†Ê¬-
-Psquid:S1161L":Add the "@Override" annotation above this method signature(†Ê¬-
-¾%squid:RedundantThrowsDeclarationCheckO"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¥˜A
-Psquid:S1161O":Add the "@Override" annotation above this method signature(¥˜A
-¿%squid:RedundantThrowsDeclarationCheckR"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ÄÏ‘Í
-Qsquid:S1161R":Add the "@Override" annotation above this method signature(ÄÏ‘Í
-¿%squid:RedundantThrowsDeclarationCheckU"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(æÙ‚½
-Qsquid:S1161U":Add the "@Override" annotation above this method signature(æÙ‚½
-Ä%squid:RedundantThrowsDeclarationCheckX"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¸¸û‹øÿÿÿÿ
-Vsquid:S1161X":Add the "@Override" annotation above this method signature(¸¸û‹øÿÿÿÿ
-¾%squid:RedundantThrowsDeclarationCheck["Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(‘Õœs
-Psquid:S1161[":Add the "@Override" annotation above this method signature(‘Õœs
-¿%squid:RedundantThrowsDeclarationCheck^"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(½¸ºê
-Qsquid:S1161^":Add the "@Override" annotation above this method signature(½¸ºê
-Ä%squid:RedundantThrowsDeclarationChecka"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(™÷Ü©ûÿÿÿÿ
-Vsquid:S1161a":Add the "@Override" annotation above this method signature(™÷Ü©ûÿÿÿÿ
-¿%squid:RedundantThrowsDeclarationCheckd"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(œû³ò
-Qsquid:S1161d":Add the "@Override" annotation above this method signature(œû³ò
-Ä%squid:RedundantThrowsDeclarationCheckh"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(Ä¹±Šùÿÿÿÿ
-Vsquid:S1161h":Add the "@Override" annotation above this method signature(Ä¹±Šùÿÿÿÿ
-¿%squid:RedundantThrowsDeclarationCheckm"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ë¦êˆ
-Qsquid:S1161m":Add the "@Override" annotation above this method signature(ë¦êˆ
-Vsquid:S1161u":Add the "@Override" annotation above this method signature(ô…éßüÿÿÿÿ
-¿%squid:RedundantThrowsDeclarationCheckx"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(³ğ…
-Qsquid:S1161x":Add the "@Override" annotation above this method signature(³ğ…
-¿%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(Ã—Ã
-Qsquid:S1161":Add the "@Override" annotation above this method signature(Ã—Ã
-À%squid:RedundantThrowsDeclarationCheck‚"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(«õûá
-Rsquid:S1161‚":Add the "@Override" annotation above this method signature(«õûá
-À%squid:RedundantThrowsDeclarationCheck…"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(…®ªğ
-Rsquid:S1161…":Add the "@Override" annotation above this method signature(…®ªğ
-Å%squid:RedundantThrowsDeclarationCheckˆ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(šÏú¸ıÿÿÿÿ
-Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(šÏú¸ıÿÿÿÿ
-Å%squid:RedundantThrowsDeclarationCheck‹"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ÚéÂûÿÿÿÿ
-Wsquid:S1161‹":Add the "@Override" annotation above this method signature(ÚéÂûÿÿÿÿ
-À%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(Ÿæ«Ì
-Rsquid:S1161":Add the "@Override" annotation above this method signature(Ÿæ«Ì
-À%squid:RedundantThrowsDeclarationCheck“"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(º´‘¯
-Rsquid:S1161“":Add the "@Override" annotation above this method signature(º´‘¯
-À%squid:RedundantThrowsDeclarationCheck—"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ê‚»
-Rsquid:S1161—":Add the "@Override" annotation above this method signature(ê‚»
-Å%squid:RedundantThrowsDeclarationCheck›"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(—Ù„’ùÿÿÿÿ
-Wsquid:S1161›":Add the "@Override" annotation above this method signature(—Ù„’ùÿÿÿÿ
-Å%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ª—Çüÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ª—Çüÿÿÿÿ
-Å%squid:RedundantThrowsDeclarationCheck¡"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(£Ôúùÿÿÿÿ
-Wsquid:S1161¡":Add the "@Override" annotation above this method signature(£Ôúùÿÿÿÿ
-Wsquid:S1161¥":Add the "@Override" annotation above this method signature(ÿÅ€¤ıÿÿÿÿ
-Å%squid:RedundantThrowsDeclarationCheckÂ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¡™‰åıÿÿÿÿ
-psquid:S3776Â"SRefactor this method to reduce its Cognitive Complexity from 118 to the 15 allowed.(¡™‰åıÿÿÿÿ
-Vsquid:S1854Ö">Remove this useless assignment to local variable "wasDecoded".(–“­Š
-Vsquid:S1854û">Remove this useless assignment to local variable "wasDecoded".(ÏÜõ´
-Wsquid:S1161Â":Add the "@Override" annotation above this method signature(¡™‰åıÿÿÿÿ
-Å%squid:RedundantThrowsDeclarationCheckĞ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(ƒÕ”èùÿÿÿÿ
-Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(ƒÕ”èùÿÿÿÿ
-Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(ä÷ù‚ıÿÿÿÿ
-¿%squid:RedundantThrowsDeclarationCheckî"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(£Ëúh
-Qsquid:S1161î":Add the "@Override" annotation above this method signature(£Ëúh
-ksquid:ModifiersOrderCheckŠ"EReorder the modifiers to comply with the Java Language Specification.(íöÆô
-jsquid:ModifiersOrderCheck‹"EReorder the modifiers to comply with the Java Language Specification.(ªÌú"
-ksquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(ÚŠ§©
-Lsquid:S1481Æ"/Remove this unused "wasDecoded" local variable.(‚ôâÏşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ñ«‹Ãúÿÿÿÿ
-bsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(º¢

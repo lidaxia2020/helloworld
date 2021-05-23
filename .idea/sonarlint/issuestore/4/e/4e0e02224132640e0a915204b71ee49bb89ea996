@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯¼Š«
-„"squid:ClassVariableVisibilityCheck*"VMake theBinding a static final constant or non-public and provide accessors if needed.(¨‰¬ì
-‹"squid:ClassVariableVisibilityCheck+"XMake strObjectRef a static final constant or non-public and provide accessors if needed.(ãÎàÿÿÿÿÿ
-‹"squid:ClassVariableVisibilityCheck,"XMake theObjectRef a static final constant or non-public and provide accessors if needed.(Àı’»üÿÿÿÿ
-`squid:UselessImportCheck"<Remove this unused import 'org.omg.CosNaming.NameComponent'.(úËâ
-Usquid:UselessImportCheck"1Remove this unused import 'org.omg.CORBA.Object'.(£À£ö

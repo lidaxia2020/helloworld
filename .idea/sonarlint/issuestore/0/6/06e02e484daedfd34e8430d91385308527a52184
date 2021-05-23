@@ -1,14 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-_$squid:AssignmentInSubExpressionCheck•".Extract the assignment out of this expression.(ˆ¢Ç³
-{squid:UselessImportCheck/"RRemove this unused import 'com.sun.org.apache.bcel.internal.generic.INVOKESTATIC'.(öü¼’øÿÿÿÿ
-ysquid:UselessImportCheck-"URemove this unused import 'com.sun.org.apache.bcel.internal.generic.INVOKEINTERFACE'.(…†”ª
-psquid:S00116K"SRename this field "_primary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ²öÿÿÿÿÿ
-nsquid:S00116S"VRename this field "_predicates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÌ’ø
-|squid:S1149S"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(úÌ’ø
-|squid:S1149U"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÀË¿
-Qsquid:S1161b":Add the "@Override" annotation above this method signature(­‘“
-Vsquid:S1161~":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Fsquid:S1125‚")Remove the literal "false" boolean value.( ˜êÄıÿÿÿÿ
-Rsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(†“‹Ø
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

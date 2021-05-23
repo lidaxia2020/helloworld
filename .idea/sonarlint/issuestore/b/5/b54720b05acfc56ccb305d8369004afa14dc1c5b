@@ -1,9 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-9squid:S1214*""Move constants to a class or enum.(€¦í¯
-£%squid:RedundantThrowsDeclarationCheckG"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(½îÍüşÿÿÿÿ
-ksquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½îÍüşÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckT"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ãöİ»
-£%squid:RedundantThrowsDeclarationCheckc"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(–Ç·ğşÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckr"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¹¦Çª
-¤%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(§Ü™ºşÿÿÿÿ

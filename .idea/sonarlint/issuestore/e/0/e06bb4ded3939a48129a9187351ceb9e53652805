@@ -1,23 +1,0 @@
-
-9squid:S1643‡"Use a StringBuilder instead.(óÜŠùÿÿÿÿ
-Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-Rsquid:S1141„"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-}squid:S1845Ï"fRename method "tobyte" to prevent any misunderstanding/clash with method "toByte" defined on line 293.(±Îû
-xsquid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ü£¨ãûÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckn"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Äï›Š
-Esquid:S1125q")Remove the literal "false" boolean value.(¦ÙëÛûÿÿÿÿ
-Gsquid:S00108‡")Either remove or fill this block of code.(€„‘ıÿÿÿÿ
-;squid:S2129é"Remove this "Long" constructor(ˆıÿ³øÿÿÿÿ
-Zsquid:CallToDeprecatedMethodé",Remove this use of "Long"; it is deprecated.(ˆıÿ³øÿÿÿÿ
-9squid:S2129ø"!Remove this "Integer" constructor(á÷ş‡
-Xsquid:CallToDeprecatedMethodø"/Remove this use of "Integer"; it is deprecated.(á÷ş‡
-6squid:S2129«"Remove this "Byte" constructor(Ò®Êß
-Usquid:CallToDeprecatedMethod«",Remove this use of "Byte"; it is deprecated.(Ò®Êß
-psquid:S3012»"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(®¡Ï
-ksquid:ModifiersOrderCheck•"EReorder the modifiers to comply with the Java Language Specification.(¥¼…¹
-ksquid:S2975¡"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-Gsquid:S00108ö")Either remove or fill this block of code.(¿åÓúÿÿÿÿ
-vsquid:S3012í"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(í²òûÿÿÿÿ
-œ%squid:RedundantThrowsDeclarationCheckõ"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(««¾Ù
-Psquid:S1197"8Move the array designator from the variable to the type.(”ì‰°
-psquid:ModifiersOrderCheckŸ"EReorder the modifiers to comply with the Java Language Specification.(Ü£¨ãûÿÿÿÿ

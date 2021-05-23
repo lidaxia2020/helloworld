@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ôŠ×©
-Asquid:S21604"+Override the "equals" method in this class.(³Ä…r
-¬%squid:RedundantThrowsDeclarationChecko"|Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xs.XSException' which is a runtime exception.(­Åýq
-5squid:S2129"Remove this "Byte" constructor(–ý‡â
-Tsquid:CallToDeprecatedMethod",Remove this use of "Byte"; it is deprecated.(–ý‡â
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

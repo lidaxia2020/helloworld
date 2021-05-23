@@ -1,17 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾È¹§üÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾È¹§üÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾È¹§üÿÿÿÿ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ñò
-osquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ğİ¥øÿÿÿÿ
-jsquid:S00117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Çå©
-jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëìì
-osquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•úüÿÿÿÿ
-Asquid:S2157f"%Add a "clone()" method to this class.(¸¹ğÓûÿÿÿÿ
-_squid:S2166f"CRename this class to remove "Exception" or correct its inheritance.(¸¹ğÓûÿÿÿÿ
-ksquid:S00116i"SRename this field "start_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÈÆù
-isquid:S00116j"QRename this field "end_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æà™„
-msquid:S00116k"URename this field "handler_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ñ›¹
-rsquid:S00116q"URename this field "catch_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª»Í—øÿÿÿÿ
-Gsquid:S00108¯")Either remove or fill this block of code.(³›åùşÿÿÿÿ

@@ -1,25 +1,0 @@
-
-jsquid:S1192Δ"RDefine a constant instead of duplicating this literal "Socket is closed" 14 times.(°αλή
-Gsquid:S1066Α"/Merge this if statement with the enclosing one.(ώΨυμ
-u
-squid:S135€"YReduce the total number of break and continue statements in this loop to use at most one.(οÿÿÿÿÿ
-_squid:S00112­"FDefine and throw a dedicated exception instead of using a generic one.(Εω
-jsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(€Μζ
-Esquid:S1125"(Remove the literal "true" boolean value.(½›Ίμωÿÿÿÿ
-^squid:S2445¨"F"p" is a method parameter, and should not be used for synchronization.(Μ—ξα
-3squid:S3626"Remove this redundant jump.(Ι©ƒ
-jsquid:S3776ψ"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(τίΤÒ
-^squid:S2445ω"F"p" is a method parameter, and should not be used for synchronization.(Μ—ξα
->squid:S2129¶"!Remove this "Integer" constructor(›σμάϋÿÿÿÿ
-]squid:CallToDeprecatedMethod¶"/Remove this use of "Integer"; it is deprecated.(›σμάϋÿÿÿÿ
-Asquid:S1940ώ")Use the opposite operator ("<=") instead.(ΟΣµ
->squid:S2129ƒ	"!Remove this "Integer" constructor(Ιϋόϊÿÿÿÿ
-]squid:CallToDeprecatedMethodƒ	"/Remove this use of "Integer"; it is deprecated.(Ιϋόϊÿÿÿÿ
-9squid:S2129Μ	"!Remove this "Integer" constructor(©ρΤ
-Xsquid:CallToDeprecatedMethodΜ	"/Remove this use of "Integer"; it is deprecated.(©ρΤ
-9squid:S2129
-"!Remove this "Integer" constructor(®Ϊ”Ά
-Xsquid:CallToDeprecatedMethod
-"/Remove this use of "Integer"; it is deprecated.(®Ϊ”Ά
-9squid:S2129΅"!Remove this "Integer" constructor(Ζ–°
-Xsquid:CallToDeprecatedMethod΅"/Remove this use of "Integer"; it is deprecated.(Ζ–°

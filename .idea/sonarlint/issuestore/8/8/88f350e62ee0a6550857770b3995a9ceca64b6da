@@ -1,215 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
-squid:S1192è"gDefine a constant instead of duplicating this literal "Current state is not among the states " 9 times.(¬Ÿı
-lsquid:S1192Ğ"ODefine a constant instead of duplicating this literal "Current state " 3 times.(ä³Ìšüÿÿÿÿ
-isquid:S1192¸"QDefine a constant instead of duplicating this literal "Current state = " 3 times.(ï×ôœ
-rsquid:S1192¹"ZDefine a constant instead of duplicating this literal " is not among the states " 6 times.(í…Éİ
-Nsquid:S1153Ò"1Directly append the argument of String.valueOf().(Î¹Á²şÿÿÿÿ
-}squid:UselessImportCheck?"TRemove this unnecessary import: same package classes are always implicitly imported.(şìêòùÿÿÿÿ
-nsquid:UselessImportCheckA"KRemove this unused import 'com.sun.xml.internal.stream.dtd.DTDGrammarUtil'.(ÑØØG
-Ysquid:UselessImportCheck4"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
-squid:UselessImportCheck@"VRemove this unused import 'com.sun.org.apache.xerces.internal.xni.XMLDocumentHandler'.(İ¡ƒıÿÿÿÿ
-zsquid:S1450{"^Remove the "fBindNamespaces" field and declare it as a local variable in the relevant methods.(åÕ”ñûÿÿÿÿ
-|squid:S1149²"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï„Š¡şÿÿÿÿ
-vsquid:S1149ô"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÚÎ—
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(îèË†ıÿÿÿÿ
-®%squid:RedundantThrowsDeclarationCheckğ"|Remove the declaration of thrown exception 'javax.xml.stream.XMLStreamException', as it cannot be thrown from method's body.(ÒÙû
-U
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(ØıÍšùÿÿÿÿ
-P
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(™õõş
-Ksquid:S1905¢"3Remove this unnecessary cast to "XMLEntityScanner".(Éœ‚ê
-nsquid:S3252ç"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(¦†Ğ×ûÿÿÿÿ
-lsquid:S3252ç"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(¦†Ğ×ûÿÿÿÿ
-qsquid:S3252ë"TUse static access with "javax.xml.stream.XMLStreamConstants" for "ENTITY_REFERENCE".(ú†Ü¢úÿÿÿÿ
-nsquid:S3252ù"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(¦†Ğ×ûÿÿÿÿ
-lsquid:S3252ù"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(¦†Ğ×ûÿÿÿÿ
-rsquid:S3252†"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(®Üşğ
-rsquid:S3252Š"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(ß÷÷Ê
-rsquid:S3252”"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(®Üşğ
-rsquid:S3252˜"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(ß÷÷Ê
-nsquid:S3252¥"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(¦†Ğ×ûÿÿÿÿ
-lsquid:S3252¥"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(¦†Ğ×ûÿÿÿÿ
-fsquid:S3252´"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(ïê Ì
-csquid:S3252´"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(ïê Ì
-fsquid:S3252µ"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(Œëô½üÿÿÿÿ
-fsquid:S3252µ"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(Œëô½üÿÿÿÿ
-fsquid:S3252¹"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(í…Éİ
-csquid:S3252º"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(–ëš
-asquid:S3252º"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(–ëš
-`squid:S3252»"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(ì‚×	
-fsquid:S3252Å"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(ïê Ì
-csquid:S3252Å"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(ïê Ì
-fsquid:S3252Æ"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(Œëô½üÿÿÿÿ
-fsquid:S3252Æ"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(Œëô½üÿÿÿÿ
-fsquid:S3252Ê"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(í…Éİ
-csquid:S3252Ë"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(–ëš
-asquid:S3252Ë"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(–ëš
-fsquid:S3252Ì"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(šáÇ¡üÿÿÿÿ
-ksquid:S3252×"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(‹É’½ÿÿÿÿÿ
-hsquid:S3252×"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(‹É’½ÿÿÿÿÿ
-fsquid:S3252×"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(‹É’½ÿÿÿÿÿ
-fsquid:S3252×"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(‹É’½ÿÿÿÿÿ
-fsquid:S3252Û"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(í…Éİ
-csquid:S3252Ü"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(–ëš
-asquid:S3252Ü"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(–ëš
-fsquid:S3252İ"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(ÄË‡ıÿÿÿÿ
-rsquid:S3252ç"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(®Üşğ
-csquid:S3252é"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(§ñÜŞ
-hsquid:S3252ë"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(‰¾´
-fsquid:S3252ë"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(‰¾´
-ksquid:S3252í"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(°È·«şÿÿÿÿ
-Esquid:S1125„"(Remove the literal "true" boolean value.(°¶Ñ¤üÿÿÿÿ
-^squid:S1126‰"AReplace this if-then-else statement by a single return statement.(¦†Ğ×ûÿÿÿÿ
-nsquid:S3252‰"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(¦†Ğ×ûÿÿÿÿ
-lsquid:S3252‰"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(¦†Ğ×ûÿÿÿÿ
-msquid:S3252›"PUse static access with "javax.xml.stream.XMLStreamConstants" for "END_DOCUMENT".(šÂû–úÿÿÿÿ
-^squid:S1126¤"AReplace this if-then-else statement by a single return statement.(ßÄ›‚ıÿÿÿÿ
-nsquid:S3252¤"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(ßÄ›‚ıÿÿÿÿ
-lsquid:S3252¤"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(ßÄ›‚ıÿÿÿÿ
-lsquid:S3252¥"TUse static access with "javax.xml.stream.XMLStreamConstants" for "ENTITY_REFERENCE".(¤šØŠ
-rsquid:S3252¥"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(¤šØŠ
-hsquid:S3252¦"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(ÑªÉıÿÿÿÿ
-ksquid:S3252¦"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(ÑªÉıÿÿÿÿ
-lsquid:S3252´"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(Ö¤±¥ùÿÿÿÿ
-hsquid:S3252Æ"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Œ÷·b
-jsquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(êÍÀş
-Rsquid:S2209ƒ"5Change this instance-reference to a static reference.(èˆÒëøÿÿÿÿ
-_squid:S3252‰"GUse static access with "javax.xml.stream.XMLStreamConstants" for "DTD".(ƒÀŠ›
-Rsquid:S2209Š"5Change this instance-reference to a static reference.(Ò‰•—ûÿÿÿÿ
-_squid:S3252”"GUse static access with "javax.xml.stream.XMLStreamConstants" for "DTD".(’Î–«
-Ksquid:S1905¬"3Remove this unnecessary cast to "XMLEntityScanner".(Éœ‚ê
-osquid:S3252®"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(ÉÉ›“şÿÿÿÿ
-psquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(¾Ï¼›şÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck¸""Add a default case to this switch.(İµß¶
-isquid:S3252¹"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(ï‹ 
-lsquid:S3252»"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(äïô¦øÿÿÿÿ
-rsquid:S3252½"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(¹ü„Ò
-ksquid:S3252¿"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(İÖ—óÿÿÿÿÿ
-bsquid:S3252Á"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(Ä÷-
-jsquid:S3252Ã"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(¯ã„
-msquid:S3252Å"PUse static access with "javax.xml.stream.XMLStreamConstants" for "END_DOCUMENT".(üÂ ‰ıÿÿÿÿ
-lsquid:S3252Ç"TUse static access with "javax.xml.stream.XMLStreamConstants" for "ENTITY_REFERENCE".(ÔŞŠğ
-esquid:S3252É"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(±¿ş™
-_squid:S3252Ë"GUse static access with "javax.xml.stream.XMLStreamConstants" for "DTD".(ìšØ¬
-fsquid:S3252Í"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(ß×€Áıÿÿÿÿ
-fsquid:S3252Ï"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(Æ¤íÚşÿÿÿÿ
-nsquid:S3252å"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252å"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-isquid:S3252é"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252ê"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-nsquid:S3252û"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252û"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-isquid:S3252ÿ"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252€"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-nsquid:S3252"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-nsquid:S3252 "QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252 "MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-isquid:S3252¤"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252¥"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-nsquid:S3252·"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252·"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-isquid:S3252»"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252¼"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-nsquid:S3252Ë"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252Ë"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-isquid:S3252Ò"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252Ó"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-nsquid:S3252ä"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252ä"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-isquid:S3252è"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252é"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-nsquid:S3252û"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252û"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-isquid:S3252ÿ"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252€"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-nsquid:S3252"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Â•Õõúÿÿÿÿ
-jsquid:S3252"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(Â•Õõúÿÿÿÿ
-isquid:S3252š"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252›"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-rsquid:S00116Ö"TRename this field "_systemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆêÑşÿÿÿÿ
-rsquid:S00116×"TRename this field "_publicId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‘õÿÿÿÿÿ
-ksquid:S00116Ø"RRename this field "_offset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’®›ü
-psquid:S00116Ù"XRename this field "_columnNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¼2
-osquid:S00116Ú"VRename this field "_lineNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûª‹“
-vsquid:S1149ô"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÚÎ—
-nsquid:S3252"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(³ªÍûÿÿÿÿ
-lsquid:S3252"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(³ªÍûÿÿÿÿ
-nsquid:S3252’"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(àŒ¶£øÿÿÿÿ
-gsquid:S3252“"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(°Ëœ÷
-nsquid:S3252²"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Ö„‘ÿÿÿÿÿ
-lsquid:S3252²"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(Ö„‘ÿÿÿÿÿ
-jsquid:S3252²"MUse static access with "javax.xml.stream.XMLStreamConstants" for "NAMESPACE".(Ö„‘ÿÿÿÿÿ
-nsquid:S3252¶"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Ë² çÿÿÿÿÿ
-lsquid:S3252·"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(á¨®ìıÿÿÿÿ
-esquid:S3252¸"MUse static access with "javax.xml.stream.XMLStreamConstants" for "NAMESPACE".(£ÕÁÓ
-nsquid:S3252Ê"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Ö„‘ÿÿÿÿÿ
-lsquid:S3252Ê"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(Ö„‘ÿÿÿÿÿ
-jsquid:S3252Ê"MUse static access with "javax.xml.stream.XMLStreamConstants" for "NAMESPACE".(Ö„‘ÿÿÿÿÿ
-nsquid:S3252Ñ"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Ë² çÿÿÿÿÿ
-lsquid:S3252Ò"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(á¨®ìıÿÿÿÿ
-esquid:S3252Ó"MUse static access with "javax.xml.stream.XMLStreamConstants" for "NAMESPACE".(£ÕÁÓ
-nsquid:S3252ä"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Ö„‘ÿÿÿÿÿ
-lsquid:S3252ä"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(Ö„‘ÿÿÿÿÿ
-jsquid:S3252ä"MUse static access with "javax.xml.stream.XMLStreamConstants" for "NAMESPACE".(Ö„‘ÿÿÿÿÿ
-nsquid:S3252ê"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(Ë² çÿÿÿÿÿ
-lsquid:S3252ë"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(á¨®ìıÿÿÿÿ
-esquid:S3252ì"MUse static access with "javax.xml.stream.XMLStreamConstants" for "NAMESPACE".(£ÕÁÓ
-Ÿ%squid:RedundantThrowsDeclarationCheckù"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ùËéœ
-Lsquid:S2209ü"5Change this instance-reference to a static reference.(Å»öl
-Rsquid:S2209ş"5Change this instance-reference to a static reference.(ª…Šøÿÿÿÿ
-jsquid:S3776“	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ü¦Ùš
-fsquid:S3252”	"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(ïê Ì
-csquid:S3252”	"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(ïê Ì
-fsquid:S3252•	"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(Œëô½üÿÿÿÿ
-fsquid:S3252•	"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(Œëô½üÿÿÿÿ
-lsquid:S3252™	"TUse static access with "javax.xml.stream.XMLStreamConstants" for "ENTITY_REFERENCE".(Úü¼
-dsquid:S3252ª	"GUse static access with "javax.xml.stream.XMLStreamConstants" for "DTD".(ÑöúËüÿÿÿÿ
-fsquid:S3252³	"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(í…Éİ
-hsquid:S3252´	"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(Š‹²˜üÿÿÿÿ
-fsquid:S3252µ	"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(‚¹ß¿úÿÿÿÿ
-fsquid:S3252¶	"IUse static access with "javax.xml.stream.XMLStreamConstants" for "SPACE".(ß…ÿØüÿÿÿÿ
-qsquid:S3252·	"TUse static access with "javax.xml.stream.XMLStreamConstants" for "ENTITY_REFERENCE".(øÍÇéÿÿÿÿÿ
-dsquid:S3252¸	"GUse static access with "javax.xml.stream.XMLStreamConstants" for "DTD".(Æ–ùÿÿÿÿ
-3squid:S3626Ò	"Remove this redundant jump.(ûÁİ…
-jsquid:S3776¯
-"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(›ÒÜ‘
-ksquid:S3252±
-"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(©„ÏÒşÿÿÿÿ
-hsquid:S3252±
-"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(©„ÏÒşÿÿÿÿ
-fsquid:S3252±
-"IUse static access with "javax.xml.stream.XMLStreamConstants" for "CDATA".(©„ÏÒşÿÿÿÿ
-Esquid:S1125²
-"(Remove the literal "true" boolean value.(ÌŒæ³ÿÿÿÿÿ
-lsquid:S3252³
-"TUse static access with "javax.xml.stream.XMLStreamConstants" for "ENTITY_REFERENCE".(Úü¼
-?squid:S1125¾
-"(Remove the literal "true" boolean value.(¡¶«^
-Esquid:S1125À
-"(Remove the literal "true" boolean value.(®¶£âşÿÿÿÿ
-dsquid:S3252Å
-"GUse static access with "javax.xml.stream.XMLStreamConstants" for "DTD".(„Ëû›üÿÿÿÿ
-nsquid:S3252×
-"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(ûÌŠ¥ùÿÿÿÿ
-jsquid:S3252×
-"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(ûÌŠ¥ùÿÿÿÿ
-isquid:S3252Û
-"QUse static access with "javax.xml.stream.XMLStreamConstants" for "START_ELEMENT".(„“¼Ã
-jsquid:S3252Ü
-"MUse static access with "javax.xml.stream.XMLStreamConstants" for "ATTRIBUTE".(šíĞ±ıÿÿÿÿ
-fsquid:S3252ç
-"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(¦œˆ˜
-O
-squid:S106Û"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-Fsquid:S1905è")Remove this unnecessary cast to "Entity".(ğæ„ÿúÿÿÿÿ
-Csquid:S1168ö"+Return an empty collection instead of null.(¥¹ï
-Csquid:S1168û"+Return an empty collection instead of null.(úÙ°ñ
-Hsquid:S1168ı"+Return an empty collection instead of null.(ÁÏ­Èÿÿÿÿÿ
-Csquid:S1168Š"+Return an empty collection instead of null.(¥¹ï
-Osquid:S1068{"3Remove this unused "fBindNamespaces" private field.(åÕ”ñûÿÿÿÿ
-csquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(¶êİæ
-hsquid:CommentedOutCodeLine˜
-"<This block of commented-out lines of code should be removed.(àß³Ãşÿÿÿÿ

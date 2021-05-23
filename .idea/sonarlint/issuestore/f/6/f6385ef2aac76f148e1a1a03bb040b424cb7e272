@@ -1,142 +1,0 @@
-
-fsquid:S3824œ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Á—¤Ç
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-jsquid:S1192›"RDefine a constant instead of duplicating this literal "NOT_SUPPORTED_ERR" 6 times.(•ì¥
-fsquid:S1192²	"NDefine a constant instead of duplicating this literal "NAMESPACE_ERR" 5 times.(Õ¨›ì
-jsquid:S1192Ñ"SDefine a constant instead of duplicating this literal "WRONG_DOCUMENT_ERR" 3 times.(¾«Ø
-ssquid:S1192"VDefine a constant instead of duplicating this literal "INVALID_CHARACTER_ERR" 9 times.(Ä—µ•ùÿÿÿÿ
-Gsquid:S1066¸"/Merge this if statement with the enclosing one.(áœä­
-Lsquid:S1066Ë"/Merge this if statement with the enclosing one.(ÀİÛÕøÿÿÿÿ
-Esquid:S1199¢	"-Extract this nested code block into a method.(›¼Àæ
-Jsquid:S1199ñ	"-Extract this nested code block into a method.(à½§¦şÿÿÿÿ
-Jsquid:S1199²
-"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Esquid:S1199¦"-Extract this nested code block into a method.(›¼Àæ
-Jsquid:S1199Ú"-Extract this nested code block into a method.(à½§¦şÿÿÿÿ
-Jsquid:S1199„"-Extract this nested code block into a method.(‹õèöûÿÿÿÿ
-Esquid:S1199‰"-Extract this nested code block into a method.(åÇşá
-Jsquid:S1199"-Extract this nested code block into a method.(ÇÀïòùÿÿÿÿ
-Jsquid:S1199–"-Extract this nested code block into a method.(Ï“—‘ùÿÿÿÿ
-Esquid:S1199¤"-Extract this nested code block into a method.(ı³ú¤
-Esquid:S1199ª"-Extract this nested code block into a method.(ºËãŸ
-Esquid:S1199¯"-Extract this nested code block into a method.(¹°ÂÜ
-Jsquid:S1199Ö"-Extract this nested code block into a method.(ãÜá©şÿÿÿÿ
-Jsquid:S1199Ü"-Extract this nested code block into a method.(ï•¤´ûÿÿÿÿ
-Dsquid:S1199è"-Extract this nested code block into a method.(ãˆ¿
-Jsquid:S1199²"-Extract this nested code block into a method.(à½§¦şÿÿÿÿ
-Jsquid:S1199Æ"-Extract this nested code block into a method.(ï•¤´ûÿÿÿÿ
-Esquid:S1199Î"-Extract this nested code block into a method.(¹°ÂÜ
-Jsquid:S1199Ò"-Extract this nested code block into a method.(ÇÀïòùÿÿÿÿ
-Esquid:S1199ò"-Extract this nested code block into a method.(›¼Àæ
-Jsquid:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-p
-squid:S135´"YReduce the total number of break and continue statements in this loop to use at most one.(¾°¦¾
-Nsquid:S2589š"7Remove this expression which always evaluates to "true"(İ‡à!
-™squid:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“³
-squid:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£Èƒÿÿÿÿÿ
-squid:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²Õşûÿÿÿÿ
-™squid:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€÷ğ¹
-™squid:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿¸äÍ
-™squid:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£Ñô›
-™squid:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎØ´
-™squid:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•…
-™squid:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Úúú»
-™squid:S1186É"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú­ìÎ
-squid:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©ñüøÿÿÿÿ
-squid:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä„ËÅşÿÿÿÿ
-™squid:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜ÿ‚‹
-squid:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñóŸûÿÿÿÿ
-˜squid:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(è‡ò
-™squid:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ…ï
-squid:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•İçõøÿÿÿÿ
-squid:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬Êé™ÿÿÿÿÿ
-squid:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“ŸëÃüÿÿÿÿ
-ssquid:S1149£"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÕŸÚüüÿÿÿÿ
-ssquid:S1149§"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¬°¯ùúÿÿÿÿ
-ssquid:S1149ş"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÕØ¯şÿÿÿÿ
-nsquid:S1149”"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ö¹¸Ì
-ssquid:S1149Í	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ˆÍ°Œûÿÿÿÿ
-nsquid:S1149–
-"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ìÃºß
-nsquid:S1149’"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¬¾­­
-nsquid:S1149•"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‹¯“
-nsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‹¯“
-nsquid:S1149‰"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ã‚Ğ
-nsquid:S1149•"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‹Ç”
-nsquid:S1149¾"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ã‚Ğ
-ssquid:S1149Ê"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(­áÏˆüÿÿÿÿ
-nsquid:S1149Î"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ã‚Ğ
-msquid:S1149Ş"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(³áûk
-nsquid:S1149î"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ãËÎ
-nsquid:S1149†"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ë¹»¨
-ssquid:S1149™"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¡ëßıÿÿÿÿ
-Bsquid:S1948£"%Make "userData" private or transient.(ÕŸÚüüÿÿÿÿ
-Esquid:S1948§"(Make "identifiers" private or transient.(¬°¯ùúÿÿÿÿ
-Nsquid:S1135q"2Complete the task associated to this TODO comment.(®”°Ñşÿÿÿÿ
-psquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(¬¸ûšøÿÿÿÿ
-ksquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(¿˜ÖÜ
-š%squid:RedundantThrowsDeclarationCheckÆ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckğ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(áŞ¦èüÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-”%squid:RedundantThrowsDeclarationCheckµ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(”İ…
-š%squid:RedundantThrowsDeclarationCheckÂ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-Ysquid:S3878á"ADisambiguate this call by either casting as "Class" or "Class[]".(á‡Ñ
-Usquid:S1197å"8Move the array designator from the variable to the type.(ûôõ—üÿÿÿÿ
-?squid:S1872ç"'Use an "instanceof" comparison instead.(ì‡µ¦
-Usquid:S3878é"8Remove this array creation and simply pass the elements.(²à”Œùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckŠ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck¦"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÓ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckì"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck‰"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-Lsquid:S1133ê"5Do not forget to remove this deprecated code someday.(¬ˆ 
-Osquid:MissingDeprecatedCheckê"'Add the missing @Deprecated annotation.(¬ˆ 
-Rsquid:S1133€"5Do not forget to remove this deprecated code someday.( ÖÊÏøÿÿÿÿ
-Usquid:MissingDeprecatedCheck€"'Add the missing @Deprecated annotation.( ÖÊÏøÿÿÿÿ
-Rsquid:S1133®"5Do not forget to remove this deprecated code someday.(ÁıĞßşÿÿÿÿ
-Usquid:MissingDeprecatedCheck®"'Add the missing @Deprecated annotation.(ÁıĞßşÿÿÿÿ
-Rsquid:S1133Å"5Do not forget to remove this deprecated code someday.(°ÕĞ°ûÿÿÿÿ
-Usquid:MissingDeprecatedCheckÅ"'Add the missing @Deprecated annotation.(°ÕĞ°ûÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÚ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-Rsquid:S1133å"5Do not forget to remove this deprecated code someday.(ñĞø¹şÿÿÿÿ
-Usquid:MissingDeprecatedCheckå"'Add the missing @Deprecated annotation.(ñĞø¹şÿÿÿÿ
-Rsquid:S1133ü"5Do not forget to remove this deprecated code someday.(·´×ÿÿÿÿÿ
-Usquid:MissingDeprecatedCheckü"'Add the missing @Deprecated annotation.(·´×ÿÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckš	"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-jsquid:S3776™	"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(åıİ÷
-š%squid:RedundantThrowsDeclarationCheck²"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckì"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckƒ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckŸ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck±"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(ÅÕ×Ó
-9squid:S2129Ş"!Remove this "Integer" constructor(´â‹¥
-Xsquid:CallToDeprecatedMethodŞ"/Remove this use of "Integer"; it is deprecated.(´â‹¥
-9squid:S2129ä"!Remove this "Integer" constructor(´â‹¥
-Xsquid:CallToDeprecatedMethodä"/Remove this use of "Integer"; it is deprecated.(´â‹¥
-š%squid:RedundantThrowsDeclarationCheckû"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck“"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-osquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(è¦ïÖúÿÿÿÿ
-`squid:HiddenFieldCheck•"=Rename "userData" which hides the field declared at line 163.(‹¯“
-Fsquid:S1125ª")Remove the literal "false" boolean value.(ä´¹Ùüÿÿÿÿ
-Fsquid:S1125Á")Remove the literal "false" boolean value.(³›¶İÿÿÿÿÿ
-jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ıÿ»î
-`squid:HiddenFieldCheck"=Rename "userData" which hides the field declared at line 163.(‹¯“
-jsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¸¾…Ë
-š%squid:RedundantThrowsDeclarationCheck÷"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck«"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÄ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-ksquid:S2975æ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
-Rsquid:S1161»":Add the "@Override" annotation above this method signature(Ï£†…
-Rsquid:S1161Å":Add the "@Override" annotation above this method signature(Á°Ëô
-osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¶°âıÿÿÿÿ
-fsquid:S1871ş"NThis branch's code block is the same as the block for the branch on line 2921.(…‰¶Ù
-fsquid:S1871ò"NThis branch's code block is the same as the block for the branch on line 2921.(˜Òı÷
-Csquid:S1172ñ"&Remove these unused method parameters.(û¾ûùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(³Óú‰
-csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(Ú°à¬
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òë£Á
-hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(»‡§îÿÿÿÿÿ
-hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(õš™úşÿÿÿÿ

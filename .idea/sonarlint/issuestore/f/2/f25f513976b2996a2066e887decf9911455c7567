@@ -1,155 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
-Fsquid:S1066ä"/Merge this if statement with the enclosing one.(æÏ³+
-asquid:S2583ë"DChange this condition so that it does not always evaluate to "false"(òŒØ‘øÿÿÿÿ
-€squid:S1488Ş"cImmediately return this expression instead of assigning it to the temporary variable "cachedValue".(‹Úø«ûÿÿÿÿ
-zsquid:S1488±"cImmediately return this expression instead of assigning it to the temporary variable "cachedValue".(¾Ë’
-zsquid:S1488›	"cImmediately return this expression instead of assigning it to the temporary variable "cachedValue".(¾Ë’
-vsquid:S1488ƒ
-"^Immediately return this expression instead of assigning it to the temporary variable "result".(üÎÕÇ
-Rsquid:S1141À
-"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Nsquid:S2589æ"7Remove this expression which always evaluates to "true"(Ğº÷D
-fsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­‘óÎ
-[squid:S2259·
-"CA "NullPointerException" could be thrown; "clazz" is nullable here.(øÑ”ï
-osquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÛÊòùÿÿÿÿ
-osquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÛÊòùÿÿÿÿ
-osquid:S00117¬	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÛÊòùÿÿÿÿ
-Gsquid:UselessImportCheck+"Remove this duplicated import.(ªº»Úıÿÿÿÿ
-Gsquid:UselessImportCheck."Remove this duplicated import.(ªº»Úıÿÿÿÿ
-Bsquid:UselessImportCheckO"Remove this duplicated import.(æŠŠÕ
-Bsquid:UselessImportCheckP"Remove this duplicated import.(Ğ¢Áš
-Gsquid:UselessImportCheckQ"Remove this duplicated import.(ÑÔĞåşÿÿÿÿ
-}squid:UselessImportCheckz"TRemove this unnecessary import: same package classes are always implicitly imported.(Àä­®øÿÿÿÿ
-}squid:UselessImportCheck{"TRemove this unnecessary import: same package classes are always implicitly imported.(å éşÿÿÿÿ
-Zsquid:UselessImportCheck*"6Remove this unused import 'java.io.ObjectInputStream'.(Éæéœ
-bsquid:UselessImportCheck)"9Remove this unused import 'java.io.ByteArrayInputStream'.(Ëôæ±ûÿÿÿÿ
-isquid:UselessImportCheckj"@Remove this unused import 'com.sun.corba.se.spi.orb.ORBVersion'.(·›â‰ùÿÿÿÿ
-`squid:UselessImportCheckH"<Remove this unused import 'org.omg.CORBA.portable.Delegate'.(ß¦¸‰
-dsquid:UselessImportCheck=";Remove this unused import 'java.rmi.StubNotFoundException'.(Úºà²úÿÿÿÿ
-fsquid:UselessImportCheck,"=Remove this unused import 'java.io.StreamCorruptedException'.(’‡µ¿ÿÿÿÿÿ
-dsquid:UselessImportCheckY";Remove this unused import 'javax.rmi.PortableRemoteObject'.(ş¤¥±øÿÿÿÿ
-xsquid:UselessImportChecka"TRemove this unused import 'com.sun.corba.se.spi.protocol.RequestDispatcherRegistry'.(ÔƒºÒ
-Psquid:UselessImportCheck<",Remove this unused import 'java.rmi.Remote'.(Ô¤ÈÓ
-csquid:UselessImportCheck-":Remove this unused import 'java.io.OptionalDataException'.(á´œ·ûÿÿÿÿ
-xsquid:UselessImportCheckl"ORemove this unused import 'com.sun.corba.se.spi.protocol.CorbaMessageMediator'.(üƒóíûÿÿÿÿ
-@squid:S1148¬"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
-@squid:S1148ì"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
-‹squid:S1845ô"nRename method "read_Value" to prevent any misunderstanding/clash with method "read_value" defined on line 852.(Öé¦óúÿÿÿÿ
-qsquid:S00116°"SRename this field "end_flag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕıñÈüÿÿÿÿ
-ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íÖ
-xsquid:S00115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°Îµ·ÿÿÿÿÿ
-ssquid:S00115ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğ¶ŠÖ
-wsquid:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¯’Ô¯
-wsquid:S1149Â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ì‘ ”
-wsquid:S1149Ã"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÍÔœÆ
-|squid:S1149ô"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í—ãüÿÿÿÿ
-8squid:S1659½" Declare "b2" on a separate line.(ş¦È·
-8squid:S1659Û" Declare "b2" on a separate line.(ş¦È·
-=squid:S1659ó" Declare "b2" on a separate line.(ùìÃ»üÿÿÿÿ
-=squid:S1659ó" Declare "b3" on a separate line.(ùìÃ»üÿÿÿÿ
-=squid:S1659ó" Declare "b4" on a separate line.(ùìÃ»üÿÿÿÿ
-=squid:S1659" Declare "i2" on a separate line.(ŸŒœ–ıÿÿÿÿ
->squid:S2129«"!Remove this "Integer" constructor(µ×ÁÙıÿÿÿÿ
-]squid:CallToDeprecatedMethod«"/Remove this use of "Integer"; it is deprecated.(µ×ÁÙıÿÿÿÿ
-8squid:S2129É" Remove this "String" constructor(ÅË®ñ
-8squid:S2129é" Remove this "String" constructor(ÅË®ñ
-Bsquid:S1181µ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
-Xsquid:S1193¸"@Replace the usage of the "instanceof" operator by a catch block.(§û—­
-osquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(µ Ôáùÿÿÿÿ
->squid:S1181ƒ"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-isquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿŸã5
-Esquid:S1659Ò	"(Declare "classRepId" on a separate line.(Åõàäşÿÿÿÿ
-Psquid:S1197ÿ	"8Move the array designator from the variable to the type.(Ô€—
-Psquid:S1197¦
-"8Move the array designator from the variable to the type.(¥¶£Û
-Psquid:S1197»
-"8Move the array designator from the variable to the type.(à™“ö
-Psquid:S1197Í
-"8Move the array designator from the variable to the type.(´˜²
-osquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(×ñÕıÿÿÿÿ
->squid:S2129¢"!Remove this "Integer" constructor(‹Ã¼˜üÿÿÿÿ
-]squid:CallToDeprecatedMethod¢"/Remove this use of "Integer"; it is deprecated.(‹Ã¼˜üÿÿÿÿ
->squid:S2129¢"!Remove this "Integer" constructor(‹Ã¼˜üÿÿÿÿ
-]squid:CallToDeprecatedMethod¢"/Remove this use of "Integer"; it is deprecated.(‹Ã¼˜üÿÿÿÿ
-9squid:S2129²"!Remove this "Integer" constructor(ß°¼ù
-Xsquid:CallToDeprecatedMethod²"/Remove this use of "Integer"; it is deprecated.(ß°¼ù
->squid:S2129³"!Remove this "Integer" constructor(”–çÌÿÿÿÿÿ
-]squid:CallToDeprecatedMethod³"/Remove this use of "Integer"; it is deprecated.(”–çÌÿÿÿÿÿ
-gsquid:S00100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¢çº
->squid:S2129¯"!Remove this "Integer" constructor(É¶‰§ùÿÿÿÿ
-]squid:CallToDeprecatedMethod¯"/Remove this use of "Integer"; it is deprecated.(É¶‰§ùÿÿÿÿ
->squid:S2129¯"!Remove this "Integer" constructor(É¶‰§ùÿÿÿÿ
-]squid:CallToDeprecatedMethod¯"/Remove this use of "Integer"; it is deprecated.(É¶‰§ùÿÿÿÿ
-gsquid:S00100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßõéØ
-9squid:S2129À"!Remove this "Integer" constructor(ÎÕÛ¸
-Xsquid:CallToDeprecatedMethodÀ"/Remove this use of "Integer"; it is deprecated.(ÎÕÛ¸
-9squid:S2129Á"!Remove this "Integer" constructor(¯µÖÇ
-Xsquid:CallToDeprecatedMethodÁ"/Remove this use of "Integer"; it is deprecated.(¯µÖÇ
-lsquid:S00100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®»×Éùÿÿÿÿ
->squid:S2129¯"!Remove this "Integer" constructor(¼ö­ïşÿÿÿÿ
-]squid:CallToDeprecatedMethod¯"/Remove this use of "Integer"; it is deprecated.(¼ö­ïşÿÿÿÿ
-lsquid:S00100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ²¯…şÿÿÿÿ
-lsquid:S00100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆúâ¨şÿÿÿÿ
->squid:S2129°"!Remove this "Integer" constructor(Í”ıùÿÿÿÿÿ
-]squid:CallToDeprecatedMethod°"/Remove this use of "Integer"; it is deprecated.(Í”ıùÿÿÿÿÿ
->squid:S2129±"!Remove this "Integer" constructor(ºØ™Ñıÿÿÿÿ
-]squid:CallToDeprecatedMethod±"/Remove this use of "Integer"; it is deprecated.(ºØ™Ñıÿÿÿÿ
-gsquid:S00100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‘ ”
-Csquid:S1905Ë"&Remove this unnecessary cast to "int".(îŸÅÿÿÿÿÿ
->squid:S1905Ì"&Remove this unnecessary cast to "int".(ââÊò
-ksquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(ğ¶ŠÖ
-ksquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(êÁ„ø
->squid:S1168ì"&Return an empty array instead of null.(¥¹ï
-Hsquid:S1905î"+Remove this unnecessary cast to "String[]".(ìşä„ıÿÿÿÿ
-jsquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(–Üæ†
-U
-squid:S106ù"9Replace this use of System.out or System.err by a logger.(â€ıõøÿÿÿÿ
-U
-squid:S106ú"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-U
-squid:S106û"9Replace this use of System.out or System.err by a logger.(¢Àˆÿÿÿÿÿ
-P
-squid:S106ü"9Replace this use of System.out or System.err by a logger.(üÁú
-U
-squid:S106ı"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Bsquid:S1181«"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-U
-squid:S106’"9Replace this use of System.out or System.err by a logger.(¨Üƒ¤úÿÿÿÿ
-P
-squid:S106š"9Replace this use of System.out or System.err by a logger.(×•œ²
-P
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(ÀÜïÍ
-U
-squid:S106¯"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
-usquid:S00116"WRename this field "blockLength_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÎÔûÿÿÿÿ
-rsquid:S00116‚"TRename this field "end_flag_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Êìïüÿÿÿÿ
-‚squid:S00116ƒ"dRename this field "chunkedValueNestingLevel_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¬ºÏıÿÿÿÿ
-zsquid:S00116„"\Rename this field "valueIndirection_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆéœÊùÿÿÿÿ
-vsquid:S00116…"]Rename this field "stringIndirection_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îí£ü
-nsquid:S00116†"URename this field "isChunked_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ôƒ™
-vsquid:S00116‡"XRename this field "valueHandler_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÏ…ùÿÿÿÿ
-nsquid:S00116ˆ"PRename this field "bbwi_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¡“×ıÿÿÿÿ
-„squid:S00116‰"fRename this field "specialNoOptionalDataState_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÄÌ†øÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck‹""Add a default case to this switch.(¿ø¨¥
-]squid:UnusedPrivateMethod"7Remove this unused private "getClassFromString" method.(†  ¶
-6squid:S2183Í"Remove this useless shift(Ñ¨Ñºÿÿÿÿÿ
-6squid:S2183à"Remove this useless shift(´¡ƒäùÿÿÿÿ
-6squid:S2183ç"Remove this useless shift(´¡ƒäùÿÿÿÿ
-hsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(Â’Îóüÿÿÿÿ
-csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ŠÒ’µ
-hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(„•ñ¹ûÿÿÿÿ
-csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ûÈŠ
-hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(¦˜û…ıÿÿÿÿ
-bsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(ßè–-
-csquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(†±ò
-bsquid:CommentedOutCodeLine¥	"<This block of commented-out lines of code should be removed.(ßè–-
-hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(’Í¼Ÿÿÿÿÿÿ
-hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(¬§Îõıÿÿÿÿ
-hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(Œ¸ıãúÿÿÿÿ
-csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(ùÊ¹ø
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ğšã
-hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(¯Ú¦¬ûÿÿÿÿ

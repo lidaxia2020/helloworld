@@ -1,10 +1,0 @@
-
-Lsquid:S1191N"5Use classes from the Java API instead of Sun classes.(ú¹ç²
-‰squid:S4165w"mRemove this useless assignment; "fXPointerSchema" already holds the assigned value along all execution paths.(Ž”Ô®ûÿÿÿÿ
-_squid:S3973¦"GUse indentation to denote the code conditionally executed by this "if".(¢¸“›
-jsquid:S00117Þ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŽž®
-}squid:UselessImportCheckQ"TRemove this unnecessary import: same package classes are always implicitly imported.(ÁÈˆúùÿÿÿÿ
-lsquid:S1149g"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ñ¥À¥úÿÿÿÿ
-Isquid:S1135V"2Complete the task associated to this TODO comment.(¯¹üÀ
-?squid:S1659¶"'Declare "lastindex" on a separate line.(™ò‘ÿ
-Ksquid:S1659·"3Declare "schemapointerURIindex" on a separate line.(ØÈéð

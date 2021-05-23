@@ -1,18 +1,0 @@
-
-gsquid:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(îÇËúÿÿÿÿ
-Tsquid:S2589´"7Remove this expression which always evaluates to "true"(Ê§ò÷ÿÿÿÿÿ
-Qsquid:S1133<"5Do not forget to remove this deprecated code someday.(É”Àıÿÿÿÿ
-Qsquid:S1161p":Add the "@Override" annotation above this method signature(Ä…©
-U"squid:SwitchLastCaseIsDefaultChecky""Add a default case to this switch.(îÇËúÿÿÿÿ
-g
-squid:S128z"LEnd this switch case with an unconditional break, return or throw statement.(Œ‰şÿÿÿÿ
-Rsquid:S1161":Add the "@Override" annotation above this method signature(§ìî·
-Psquid:S1197"8Move the array designator from the variable to the type.(§ìî·
-Gsquid:S00108¸")Either remove or fill this block of code.(óñÒ­şÿÿÿÿ
-Wsquid:S1161Õ":Add the "@Override" annotation above this method signature(ÀÅ¿İùÿÿÿÿ
-Psquid:S1197Ø"8Move the array designator from the variable to the type.(ÍÏÏö
-Wsquid:S1161¡":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
-asquid:S3551º"IMake this method "synchronized" to match the parent class implementation.(İ—ºÌ
-Rsquid:S1161º":Add the "@Override" annotation above this method signature(İ—ºÌ
-`squid:S3551İ"IMake this method "synchronized" to match the parent class implementation.(”ŸÀ8
-Qsquid:S1161İ":Add the "@Override" annotation above this method signature(”ŸÀ8

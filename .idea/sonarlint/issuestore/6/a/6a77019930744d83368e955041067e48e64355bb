@@ -1,7 +1,0 @@
-
-Lsquid:S1191&"5Use classes from the Java API instead of Sun classes.(áŽóš
-jsquid:S3008*"NRename this field "_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”£ÞŠúÿÿÿÿ
-qsquid:S30089"URename this field "__typeCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ô”Çýÿÿÿÿ
-Qsquid:S1118(":Add a private constructor to hide the implicit public one.(§ó»Ÿ
-jsquid:ModifiersOrderCheck("EReorder the modifiers to comply with the Java Language Specification.(§ó»Ÿ
-isquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(ÇÚÅ

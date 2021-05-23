@@ -1,8 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
-^$squid:AssignmentInSubExpressionChecka".Extract the assignment out of this expression.(ˆ¢Ç³
-msquid:S00116="PRename this field "_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‰Ð¯ÿÿÿÿÿ
-Qsquid:S1161J":Add the "@Override" annotation above this method signature(­Ž‘“
-Vsquid:S1161Z":Add the "@Override" annotation above this method signature(šžíïÿÿÿÿÿ
-Qsquid:S1161d":Add the "@Override" annotation above this method signature(†“‹Ø
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

@@ -1,61 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(„·Ìú
-ssquid:S1192~"WDefine a constant instead of duplicating this literal "to register ServerDef " 3 times.(¦Ñ¨ ıÿÿÿÿ
-ƒsquid:S1192}"gDefine a constant instead of duplicating this literal "RepositoryImpl: registerServer called " 3 times.(ı»®óùÿÿÿÿ
-msquid:S2095·"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ
-ksquid:S2095¶"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ööÀĞÿÿÿÿÿ
-ksquid:S2095X"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ
-dsquid:S2095W"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(öª†—
-osquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÌÒĞúÿÿÿÿ
-Wsquid:UselessImportCheck*"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-^squid:UselessImportCheck+":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
-_squid:UselessImportCheck(";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-Ysquid:UselessImportCheck)"5Remove this unused import 'org.omg.CORBA.INITIALIZE'.(ÅË‘‡
-;squid:S1148Œ"#Use a logger to log this exception.(Ç’Çê
-ssquid:S00115’"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û²Ù´
-wsquid:S1149¡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-}squid:S1149Ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
-wsquid:S1149â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-nsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(õíõ“
-nsquid:S3776n"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(È°¤Íıÿÿÿÿ
-O
-squid:S106|"9Replace this use of System.out or System.err by a logger.(ÆÀûı
->squid:S2129"!Remove this "Integer" constructor(İÃÒÿÿÿÿÿ
-]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(İÃÒÿÿÿÿÿ
-Nsquid:S5261˜"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
-P
-squid:S106•"9Replace this use of System.out or System.err by a logger.(ÑÎôÜ
-P
-squid:S106™"9Replace this use of System.out or System.err by a logger.(ÑÎôÜ
->squid:S2129À"!Remove this "Integer" constructor(şÏÛçùÿÿÿÿ
-]squid:CallToDeprecatedMethodÀ"/Remove this use of "Integer"; it is deprecated.(şÏÛçùÿÿÿÿ
-P
-squid:S106È"9Replace this use of System.out or System.err by a logger.(ÆÀûı
-P
-squid:S106Õ"9Replace this use of System.out or System.err by a logger.(ÆÀûı
->squid:S2129Ü"!Remove this "Integer" constructor(şÏÛçùÿÿÿÿ
-]squid:CallToDeprecatedMethodÜ"/Remove this use of "Integer"; it is deprecated.(şÏÛçùÿÿÿÿ
-P
-squid:S106í"9Replace this use of System.out or System.err by a logger.(ÆÀûı
-Psquid:S1197—"8Move the array designator from the variable to the type.(©Ÿ±™
-P
-squid:S106§"9Replace this use of System.out or System.err by a logger.(ÆÀûı
-U
-squid:S106Â"9Replace this use of System.out or System.err by a logger.(çß©Ûÿÿÿÿÿ
-U
-squid:S106è"9Replace this use of System.out or System.err by a logger.(¨üÅÿÿÿÿÿ
-Vsquid:S1854†">Remove this useless assignment to local variable "repository".(şöÁ
-Usquid:S1197õ"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¬Éùµ
-ksquid:ModifiersOrderCheck’"EReorder the modifiers to comply with the Java Language Specification.(û²Ù´
-ksquid:ModifiersOrderCheck”"EReorder the modifiers to comply with the Java Language Specification.(ä Õ¿
-nsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(õíõ“
-@squid:S1948"(Make "serverTable" private or transient.(õíõ“
->squid:S2129§"!Remove this "Integer" constructor(ˆÊ¿¦ûÿÿÿÿ
-]squid:CallToDeprecatedMethod§"/Remove this use of "Integer"; it is deprecated.(ˆÊ¿¦ûÿÿÿÿ
-9squid:S2129­"!Remove this "Integer" constructor(˜à¿ş
-Xsquid:CallToDeprecatedMethod­"/Remove this use of "Integer"; it is deprecated.(˜à¿ş
-`squid:S4042µ"IUse "java.nio.Files#delete" here for better messages on error conditions.(™»¢
-Q
-squid:S899µ";Do something with the "boolean" value returned by "delete".(™»¢
-Gsquid:S1481†"/Remove this unused "repository" local variable.(şöÁ

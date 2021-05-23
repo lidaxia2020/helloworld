@@ -1,17 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-[squid:S1155€">Use isEmpty() to check whether the collection is empty or not.(ÁÏ´«ıÿÿÿÿ
-[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÁÏ´«ıÿÿÿÿ
-osquid:S00116D"RRename this field "_select" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê÷¬çşÿÿÿÿ
-msquid:S00116E"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿•Ñúÿÿÿÿ
-squid:S1149r"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ûÛ¡ßüÿÿÿÿ
-Vsquid:S1161G":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-Qsquid:S1161O":Add the "@Override" annotation above this method signature(ÁØ’›
-Vsquid:S1161Z":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Nsquid:S1854j"7Remove this useless assignment to local variable "cpg".(„àü
-Qsquid:S1161i":Add the "@Override" annotation above this method signature(†“‹Ø
-`squid:S4201{"IRemove this unnecessary null check; "instanceof" returns false for nulls.(âƒĞœ
-Fsquid:S1125—")Remove the literal "false" boolean value.(µ››øÿÿÿÿ
-asquid:S4201°"IRemove this unnecessary null check; "instanceof" returns false for nulls.(âƒĞœ
-?squid:S1481j"(Remove this unused "cpg" local variable.(„àü
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

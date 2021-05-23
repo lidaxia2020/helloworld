@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(à˜êÒ
-—squid:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…‹B
-Qsquid:S1161l":Add the "@Override" annotation above this method signature( ÌÚÁ
-Wsquid:S1161‡":Add the "@Override" annotation above this method signature(âº‘Áşÿÿÿÿ
-ksquid:ModifiersOrderCheck¬"EReorder the modifiers to comply with the Java Language Specification.(ñö 
-psquid:ModifiersOrderCheck­"EReorder the modifiers to comply with the Java Language Specification.(ïú©ƒüÿÿÿÿ
-ksquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(·ò—Ì

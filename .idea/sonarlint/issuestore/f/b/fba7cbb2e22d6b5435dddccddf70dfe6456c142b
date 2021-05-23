@@ -1,26 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(›Âış
-esquid:S1192W"NDefine a constant instead of duplicating this literal "WBMPMetadata1" 3 times.(ÔÔŠÖ
-‡"squid:ClassVariableVisibilityCheck0"TMake wbmpType a static final constant or non-public and provide accessors if needed.(éÊà øÿÿÿÿ
-"squid:ClassVariableVisibilityCheck2"QMake width a static final constant or non-public and provide accessors if needed.(øÂ½
-€"squid:ClassVariableVisibilityCheck3"RMake height a static final constant or non-public and provide accessors if needed.(ñ½
-nsquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß³™úÿÿÿÿ
-fsquid:UselessImportCheck!"=Remove this unused import 'javax.imageio.ImageTypeSpecifier'.(ıÒ´½ÿÿÿÿÿ
-Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-Tsquid:UselessImportCheck "+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-esquid:UselessImportCheck"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“
-nsquid:UselessImportCheck$"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
-Ysquid:S2387-"C"nativeMetadataFormatName" is the name of a field in "IIOMetadata".(ÅòÛ
-
-qsquid:S00115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÅòÛ
-
-=squid:S2129O"!Remove this "Integer" constructor(š¢Æ§şÿÿÿÿ
-\squid:CallToDeprecatedMethodO"/Remove this use of "Integer"; it is deprecated.(š¢Æ§şÿÿÿÿ
-8squid:S2129P"!Remove this "Integer" constructor(ääĞ‚
-Wsquid:CallToDeprecatedMethodP"/Remove this use of "Integer"; it is deprecated.(ääĞ‚
-7squid:S2129Q"!Remove this "Integer" constructor(Ñ÷üq
-Vsquid:CallToDeprecatedMethodQ"/Remove this use of "Integer"; it is deprecated.(Ñ÷üq
-Qsquid:S1161V":Add the "@Override" annotation above this method signature(íÏò€
-Vsquid:S1161o":Add the "@Override" annotation above this method signature(íˆ˜ïşÿÿÿÿ
-Vsquid:S1161z":Add the "@Override" annotation above this method signature(ú§¾êÿÿÿÿÿ

@@ -1,13 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-Esquid:S1199"-Extract this nested code block into a method.(¸®¾×
-Jsquid:S1199’"-Extract this nested code block into a method.(Ş”©Íûÿÿÿÿ
-}squid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(´º¡ÿÿÿÿÿ
-xsquid:UselessImportCheck&"TRemove this unnecessary import: same package classes are always implicitly imported.(†åâ
-}squid:UselessImportCheck'"TRemove this unnecessary import: same package classes are always implicitly imported.(ë¶œÿÿÿÿÿ
-xsquid:UselessImportCheck("TRemove this unnecessary import: same package classes are always implicitly imported.(‘©î‚
-xsquid:UselessImportCheck)"TRemove this unnecessary import: same package classes are always implicitly imported.(Ç”­ˆ
-xsquid:UselessImportCheck*"TRemove this unnecessary import: same package classes are always implicitly imported.(‰¨„Õ
-wsquid:UselessImportCheck+"TRemove this unnecessary import: same package classes are always implicitly imported.(ŠÀëG
-}squid:UselessImportCheck,"TRemove this unnecessary import: same package classes are always implicitly imported.(‘³ˆçûÿÿÿÿ
-wsquid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(·„÷z

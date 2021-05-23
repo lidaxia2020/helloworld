@@ -1,92 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÃêØ»ùÿÿÿÿ
-osquid:S1192æ"WDefine a constant instead of duplicating this literal "\t\t[Krb5LoginModule] " 6 times.(³â£Â
-qsquid:S1192å"TDefine a constant instead of duplicating this literal "Configuration Error" 3 times.(È‡¾ûÿÿÿÿ
-Lsquid:S1066Ç"/Merge this if statement with the enclosing one.(øü¹Âøÿÿÿÿ
-Gsquid:S1066Ö"/Merge this if statement with the enclosing one.(Æ›ä
-Gsquid:S1066“"/Merge this if statement with the enclosing one.(È¥ÔÀ
-Gsquid:S1066€	"/Merge this if statement with the enclosing one.(ôè·
-Fsquid:S1066—
-"/Merge this if statement with the enclosing one.(¹“å}
-Osquid:S2589Ø
-"7Remove this expression which always evaluates to "true"(±ªœ¦
-Osquid:S2589ï"7Remove this expression which always evaluates to "true"(ÕĞ”¾
-Esquid:S1604¢"(Make this anonymous inner class a lambda(•„òíıÿÿÿÿ
-nsquid:S1450ó"VRemove the "options" field and declare it as a local variable in the relevant methods.(ØÌŸ¼
-|squid:S1149›"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì¥·íøÿÿÿÿ
-hsquid:S2068 "Q'PWD' detected in this expression, review this potentially hard-coded credential.(÷õ¹)
-P
-squid:S106 "9Replace this use of System.out or System.err by a logger.(Ù—ûô
-osquid:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ß™“øÿÿÿÿ
-U
-squid:S106É"9Replace this use of System.out or System.err by a logger.(È„¯’øÿÿÿÿ
-P
-squid:S106æ"9Replace this use of System.out or System.err by a logger.(³â£Â
-P
-squid:S106ï"9Replace this use of System.out or System.err by a logger.(³â£Â
-P
-squid:S106ı"9Replace this use of System.out or System.err by a logger.(³â£Â
-P
-squid:S106’"9Replace this use of System.out or System.err by a logger.(³â£Â
-osquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(Ú ¹èıÿÿÿÿ
-P
-squid:S106Á"9Replace this use of System.out or System.err by a logger.(Û†œÃ
-U
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(ÉŞ¸›úÿÿÿÿ
-P
-squid:S106Û"9Replace this use of System.out or System.err by a logger.(ø§í
-U
-squid:S106İ"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-U
-squid:S106—"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-U
-squid:S106»"9Replace this use of System.out or System.err by a logger.(ìâš‹øÿÿÿÿ
-P
-squid:S106¾"9Replace this use of System.out or System.err by a logger.(İè§ò
-U
-squid:S106Á"9Replace this use of System.out or System.err by a logger.(Û’Íøÿÿÿÿ
-jsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Úğ¿ò
-U
-squid:S106â"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-U
-squid:S106æ"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-U
-squid:S106ì"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-jsquid:S3776™"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÚÁÂÄ
-\squid:S1854Ï"?Remove this useless assignment to local variable "tmpPassword".(ı­ğÀşÿÿÿÿ
-U
-squid:S106¡"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-U
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-P
-squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(³â£Â
-U
-squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-6squid:S2178ğ"Correct this "&" to "&&".(·Ÿøúÿÿÿÿ
-O
-squid:S106	"9Replace this use of System.out or System.err by a logger.(¼“†b
-U
-squid:S106¡	"9Replace this use of System.out or System.err by a logger.(ãÂĞŠúÿÿÿÿ
-jsquid:S3776Ê	"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(›¶§ş
-Fsquid:S1125Ú	")Remove the literal "false" boolean value.(ç§åÏûÿÿÿÿ
-P
-squid:S106­
-"9Replace this use of System.out or System.err by a logger.(êùÎÿ
-P
-squid:S106¯
-"9Replace this use of System.out or System.err by a logger.(³â£Â
-U
-squid:S106º
-"9Replace this use of System.out or System.err by a logger.( ‚‘•øÿÿÿÿ
-Fsquid:S1125Ö
-")Remove the literal "false" boolean value.(ç§åÏûÿÿÿÿ
-@squid:S1125Ø
-"(Remove the literal "true" boolean value.(±ªœ¦
-Asquid:S1125Ø
-")Remove the literal "false" boolean value.(±ªœ¦
-P
-squid:S106ı
-"9Replace this use of System.out or System.err by a logger.(ÚºÜ®
-P
-squid:S106—"9Replace this use of System.out or System.err by a logger.(ÚºÜ®
-Csquid:S1068ó"+Remove this unused "options" private field.(ØÌŸ¼

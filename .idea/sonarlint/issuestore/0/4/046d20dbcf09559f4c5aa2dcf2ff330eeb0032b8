@@ -1,5 +1,0 @@
-
-"squid:ClassVariableVisibilityChecka"RMake length a static final constant or non-public and provide accessors if needed.(ÇÈÕ[
-‚"squid:ClassVariableVisibilityCheckk"OMake eof a static final constant or non-public and provide accessors if needed.(‚¦¦ëýÿÿÿÿ
-5squid:S1165a"Make this "length" field final.(ÇÈÕ[
-8squid:S1165k"Make this "eof" field final.(‚¦¦ëýÿÿÿÿ

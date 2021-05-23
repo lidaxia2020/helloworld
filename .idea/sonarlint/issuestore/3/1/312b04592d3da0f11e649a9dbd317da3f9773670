@@ -1,35 +1,0 @@
-
-… squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼£äâ
-Š squid:ForLoopCounterChangedCheckó"XRefactor the code in order to not assign to this loop counter from within the loop body.(ƒé€¦ıÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ƒé€¦ıÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(ƒé€¦ıÿÿÿÿ
-Lsquid:S1191("5Use classes from the Java API instead of Sun classes.(¹ïÉà
-Osquid:S2589¶"7Remove this expression which always evaluates to "true"(Â©éî
-Esquid:S1604ä
-"(Make this anonymous inner class a lambda(»Üëùÿÿÿÿ
-xsquid:UselessImportCheck'"TRemove this unnecessary import: same package classes are always implicitly imported.(ì“Ä
-squid:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê½± úÿÿÿÿ
-™squid:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ÈÒş
-˜squid:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ¾›7
-xsquid:S00115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊÅÃïúÿÿÿÿ
-˜%squid:RedundantThrowsDeclarationCheckß"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(şÂ£
-Wsquid:S1854È":Remove this useless assignment to local variable "curObj".(½åËåıÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¤ìÉÖşÿÿÿÿ
-Usquid:S1610ğ"8Convert the abstract class "PutField" into an interface.(ì¹´øüÿÿÿÿ
-psquid:ModifiersOrderCheckğ"EReorder the modifiers to comply with the Java Language Specification.(ì¹´øüÿÿÿÿ
-Rsquid:S1133š
-"5Do not forget to remove this deprecated code someday.(·ç§»úÿÿÿÿ
-Psquid:S3878ì
-"8Remove this array creation and simply pass the elements.(ğ³×Ü
-Gsquid:S00108î
-")Either remove or fill this block of code.(ª¤Ùºûÿÿÿÿ
-Gsquid:S00108ó
-")Either remove or fill this block of code.(ª¤Ùºûÿÿÿÿ
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ò´ó®
-jsquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(×á©Ò
-Rsquid:S1161²":Add the "@Override" annotation above this method signature(æ¯åµ
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
-osquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(’³ãÅúÿÿÿÿ
-Hsquid:S1481È"+Remove this unused "curObj" local variable.(½åËåıÿÿÿÿ
-Fsquid:S3398¢".Move this method into "BlockDataOutputStream".(§¡çí
-Fsquid:S3398­".Move this method into "BlockDataOutputStream".(çÀï

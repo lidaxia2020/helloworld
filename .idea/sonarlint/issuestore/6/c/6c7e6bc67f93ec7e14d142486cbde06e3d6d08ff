@@ -1,64 +1,0 @@
-
-„ squid:ForLoopCounterChangedCheck”"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(©÷Éêúÿÿÿÿ
-lsquid:S1192š"TDefine a constant instead of duplicating this literal "Bad character class" 4 times.(Êı£Ê
-Jsquid:S1199ã"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199‘"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199î"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Á"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Î"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199±"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199©	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck”".Extract the assignment out of this expression.(…£¡±
-u
-squid:S135ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(Ù°ù“øÿÿÿÿ
-_squid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(¿ÌÅù
-dsquid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(• œÂùÿÿÿÿ
-osquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷†èıÿÿÿÿ
-osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íÿ¢ôùÿÿÿÿ
-jsquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù§§Ì
-osquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÍáúÿÿÿÿ
-jsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ŒÂ
-osquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şµ¹æşÿÿÿÿ
-xsquid:UselessImportCheck!"TRemove this unnecessary import: same package classes are always implicitly imported.(÷—•–
-wsquid:S00115O"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÕ›“üÿÿÿÿ
-msquid:S1149W"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Å‚ù
-wsquid:S1149â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ß¿õÃ
-asquid:S1134Ò"DTake the required action to fix the issue indicated by this comment.(Ş­í‡ùÿÿÿÿ
-osquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÜŠ‹¦úÿÿÿÿ
-osquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Áˆğîÿÿÿÿÿ
-osquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(ˆßòÀşÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck‚";Refactor the code to remove this label and the need for it.(ë±Ô
-b
-squid:S128—"LEnd this switch case with an unconditional break, return or throw statement.(âàÈ
-V"squid:SwitchLastCaseIsDefaultCheck¥""Add a default case to this switch.(ñÈ‚¼ıÿÿÿÿ
-b
-squid:S128©"LEnd this switch case with an unconditional break, return or throw statement.(Ø»ë
-osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÛÆ€Êùÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck¬";Refactor the code to remove this label and the need for it.(Ë¥ùä
-V"squid:SwitchLastCaseIsDefaultCheckÂ""Add a default case to this switch.(Ë¡‰Áøÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck¡""Add a default case to this switch.(Ú³ê™
-h
-squid:S128½"LEnd this switch case with an unconditional break, return or throw statement.(ÛŞíûÿÿÿÿ
-h
-squid:S128·"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
-c
-squid:S128´"LEnd this switch case with an unconditional break, return or throw statement.(›ô·
-h
-squid:S128±"LEnd this switch case with an unconditional break, return or throw statement.(ó×¦¦ÿÿÿÿÿ
-c
-squid:S128®"LEnd this switch case with an unconditional break, return or throw statement.(ş¬×à
-jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(ş“¹
-V"squid:SwitchLastCaseIsDefaultCheckˆ""Add a default case to this switch.(Å¶Ûóÿÿÿÿÿ
-h
-squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(Ùàæ˜ùÿÿÿÿ
-h
-squid:S128‹"LEnd this switch case with an unconditional break, return or throw statement.(ÛŞíûÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck®""Add a default case to this switch.(Å¶Ûóÿÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck»	""Add a default case to this switch.(Å¶Ûóÿÿÿÿÿ
-osquid:S3776
-"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(³¨üøÿÿÿÿ
-osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(©ˆäáøÿÿÿÿ
-Lsquid:S1854”"5Remove this useless assignment to local variable "i".(¨…ÄK
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(ğ€ïE

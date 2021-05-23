@@ -1,24 +1,0 @@
-
-Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
-squid:S1186n"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İííúıÿÿÿÿ
-osquid:S00116S"XRename this field "_xsltcFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò×
-usquid:S00116T"XRename this field "_xalanFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡­¸ûúÿÿÿÿ
-tsquid:S00116U"WRename this field "_currFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÁéªûÿÿÿÿ
-vsquid:S00116V"YRename this field "_errorlistener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úø™Œøÿÿÿÿ
-osquid:S00116W"WRename this field "_uriresolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‹ı
-bsquid:S2147…"ECombine this catch with the one at line 130, which has the same body.(ÌæÄıÿÿÿÿ
-]squid:S2147ˆ"ECombine this catch with the one at line 130, which has the same body.(™è“î
-asquid:CallToDeprecatedMethod€"3Remove this use of "newInstance"; it is deprecated.(—˜œ“ÿÿÿÿÿ
-U
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(³ıúâúÿÿÿÿ
-U
-squid:S106†"9Replace this use of System.out or System.err by a logger.(³ıúâúÿÿÿÿ
-U
-squid:S106‰"9Replace this use of System.out or System.err by a logger.(³ıúâúÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-Ÿ%squid:RedundantThrowsDeclarationCheck™"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-¤%squid:RedundantThrowsDeclarationCheck«"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-3squid:S3626ë"Remove this redundant jump.(ûÁİ…
-Lsquid:S3984’"5Throw this exception or remove this useless statement(ø¬ÂO
-Esquid:S1068Q".Remove this unused "CLASS_NAME" private field.(»è³É
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

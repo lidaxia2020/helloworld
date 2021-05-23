@@ -1,18 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-^$squid:AssignmentInSubExpressionCheckM".Extract the assignment out of this expression.(®†£Ö
-^$squid:AssignmentInSubExpressionCheckN".Extract the assignment out of this expression.(ùĞğ
-d$squid:AssignmentInSubExpressionCheck½".Extract the assignment out of this expression.(äÓÿÖÿÿÿÿÿ
-ksquid:S00116<"NRename this field "_op" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûİ«ûÿÿÿÿ
-gsquid:S00116="PRename this field "_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÉZ
-nsquid:S00116>"QRename this field "_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛøÚ‰ıÿÿÿÿ
-Qsquid:S1161X":Add the "@Override" annotation above this method signature(–ğ±Ø
-Vsquid:S1161b":Add the "@Override" annotation above this method signature(ªß­¦ùÿÿÿÿ
-Vsquid:S1161n":Add the "@Override" annotation above this method signature(´Ó•ûÿÿÿÿ
-Rsquid:S1161“":Add the "@Override" annotation above this method signature(­‘“
-Wsquid:S1161©":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Rsquid:S1161È":Add the "@Override" annotation above this method signature(†“‹Ø
-Wsquid:S1854Ö":Remove this useless assignment to local variable "parent".(²‚İñøÿÿÿÿ
-Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(‚Šéƒùÿÿÿÿ
-Hsquid:S1481Ö"+Remove this unused "parent" local variable.(²‚İñøÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

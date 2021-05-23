@@ -1,17 +1,0 @@
-
-psquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(¸á¶âøÿÿÿÿ
-*squid:S2176İ"Rename this class.(ÏĞœ¢
-/squid:S2176ò"Rename this class.(ìœ‡´ÿÿÿÿÿ
-/squid:S2176‡"Rename this class.(Ëİ®ôşÿÿÿÿ
-Jsquid:S1948Ÿ"-Make "spliterator" transient or serializable.(‹Ñ©€üÿÿÿÿ
-Csquid:S1948 "&Make "sink" transient or serializable.(­óÊûÿÿÿÿ
-Esquid:S1948¡"(Make "helper" transient or serializable.(ëĞ©ÿÿÿÿÿÿ
-Dsquid:S1659¸"'Declare "leftSplit" on a separate line.(Óşñ‘üÿÿÿÿ
-Hsquid:S1659¹"+Declare "sizeThreshold" on a separate line.(ƒ²ú­ÿÿÿÿÿ
-Esquid:S1948Ÿ"(Make "helper" transient or serializable.(ëĞ©ÿÿÿÿÿÿ
-Jsquid:S1948 "-Make "spliterator" transient or serializable.(‹Ñ©€üÿÿÿÿ
-Esquid:S1948£"(Make "action" transient or serializable.(êªñàùÿÿÿÿ
->squid:S1948¥"&Make "node" transient or serializable.(ïÄÍ
-Dsquid:S1659Æ"'Declare "leftSplit" on a separate line.(õ‚¢ÿÿÿÿÿ
-bsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(åÔŸ;
-csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(É”ˆ“

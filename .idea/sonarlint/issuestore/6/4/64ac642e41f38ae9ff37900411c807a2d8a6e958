@@ -1,10 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
-ksquid:S1192E"TDefine a constant instead of duplicating this literal "identity constraint" 5 times.(³›”
-wsquid:S1192E"`Define a constant instead of duplicating this literal "(annotation?, selector, field+)" 5 times.(³›”
-jsquid:S1192m"NDefine a constant instead of duplicating this literal "(annotation?)" 3 times.(ÊšÕÿÿÿÿÿ
-ksquid:S1192D"UDefine a constant instead of duplicating this literal "s4s-elt-must-match.2" 3 times.(¿¹M
-lsquid:S1192^"UDefine a constant instead of duplicating this literal "s4s-elt-must-match.1" 5 times.(¦Ê²½
-Gsquid:S1066¦"/Merge this if statement with the enclosing one.(—Û¿‚
-isquid:S3776<"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(”¶Ûı
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,24 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(æí§Şûÿÿÿÿ
-?squid:S1604L"(Make this anonymous inner class a lambda(Ùš±¬
-?squid:S1604Y"(Make this anonymous inner class a lambda(Ùš±¬
-?squid:S1604f"(Make this anonymous inner class a lambda(Ùš±¬
-?squid:S1604v"(Make this anonymous inner class a lambda(Ùš±¬
-@squid:S1604"(Make this anonymous inner class a lambda(Ùš±¬
-Esquid:S1604Ã"(Make this anonymous inner class a lambda(¡“·ûÿÿÿÿ
-@squid:S1604Õ"(Make this anonymous inner class a lambda(Ùš±¬
-@squid:S1604Ş"(Make this anonymous inner class a lambda(Ùš±¬
-Fsquid:S00108Q")Either remove or fill this block of code.(Ô˜’Çıÿÿÿÿ
-Fsquid:S00108^")Either remove or fill this block of code.(Ô˜’Çıÿÿÿÿ
-Fsquid:S00108k")Either remove or fill this block of code.(Ô˜’Çıÿÿÿÿ
-_squid:S3252Æ"BUse static access with "java.util.ResourceBundle" for "getBundle".(×éÁ®úÿÿÿÿ
-_squid:S3252É"BUse static access with "java.util.ResourceBundle" for "getBundle".(ß±ÜÂûÿÿÿÿ
-6squid:S2129à"Remove this "Long" constructor(Ã”½¸
-Usquid:CallToDeprecatedMethodà",Remove this use of "Long"; it is deprecated.(Ã”½¸
-gsquid:S3027ó"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(ôÓ¢àşÿÿÿÿ
-csquid:S3027"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ãş®Ïùÿÿÿÿ
-]squid:S3027”"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ú«ø|
-Psquid:S1197°"8Move the array designator from the variable to the type.(ûäşœ
-Gsquid:S00108í")Either remove or fill this block of code.(ô¯ãŸşÿÿÿÿ
-Gsquid:S00108ò")Either remove or fill this block of code.(˜œÛıÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

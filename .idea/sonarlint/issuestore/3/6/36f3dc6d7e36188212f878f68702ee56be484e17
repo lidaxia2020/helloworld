@@ -1,9 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-_$squid:AssignmentInSubExpressionCheck—".Extract the assignment out of this expression.(”àç†
-Bsquid:S2160b"+Override the "equals" method in this class.(ÒØÎ…
-Wsquid:S1161‡":Add the "@Override" annotation above this method signature(Ğœáõüÿÿÿÿ
-Rsquid:S1161¤":Add the "@Override" annotation above this method signature(š†šø
-Rsquid:S1161º":Add the "@Override" annotation above this method signature(¹Û‚æ
-Wsquid:S1161Â":Add the "@Override" annotation above this method signature(åäæŠüÿÿÿÿ
-Wsquid:S1161á":Add the "@Override" annotation above this method signature(ÿÿ¾Şøÿÿÿÿ

@@ -1,82 +1,0 @@
-
-Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheck"OMake oid a static final constant or non-public and provide accessors if needed.(¦×ÙŞøÿÿÿÿ
-…"squid:ClassVariableVisibilityCheckœ"QMake value a static final constant or non-public and provide accessors if needed.(¾·¸¼şÿÿÿÿ
-"squid:ClassVariableVisibilityCheck¦"RMake status a static final constant or non-public and provide accessors if needed.(Å¯°«
-wsquid:S00115="ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰—„Ûüÿÿÿÿ
-wsquid:S00115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨©Ïÿÿÿÿÿ
-rsquid:S00115O"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½Ù‹ï
-wsquid:S00115\"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛØ’øÿÿÿÿ
-wsquid:S00115h"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥Ğ ¬úÿÿÿÿ
-Osquid:S11973"8Move the array designator from the variable to the type.(“ö…Ó
-jsquid:ModifiersOrderCheck3"EReorder the modifiers to comply with the Java Language Specification.(“ö…Ó
-osquid:ModifiersOrderCheck="EReorder the modifiers to comply with the Java Language Specification.(‰—„Ûüÿÿÿÿ
-osquid:ModifiersOrderCheckE"EReorder the modifiers to comply with the Java Language Specification.(¨©Ïÿÿÿÿÿ
-jsquid:ModifiersOrderCheckO"EReorder the modifiers to comply with the Java Language Specification.(½Ù‹ï
-osquid:ModifiersOrderCheck\"EReorder the modifiers to comply with the Java Language Specification.(ÛØ’øÿÿÿÿ
-osquid:ModifiersOrderCheckh"EReorder the modifiers to comply with the Java Language Specification.(¥Ğ ¬úÿÿÿÿ
-osquid:ModifiersOrderCheckt"EReorder the modifiers to comply with the Java Language Specification.(ê·©óûÿÿÿÿ
-jsquid:ModifiersOrderCheck|"EReorder the modifiers to comply with the Java Language Specification.(¿‰èŞ
-ksquid:ModifiersOrderCheck„"EReorder the modifiers to comply with the Java Language Specification.(Úøİ¼
-psquid:ModifiersOrderCheckş"EReorder the modifiers to comply with the Java Language Specification.(‚ğæøÿÿÿÿ
-psquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(ˆŒ„‘ùÿÿÿÿ
-dsquid:S2886¦"GSynchronize this method to match the synchronization on "getSnmpValue".(ñÅ­ıÿÿÿÿ
-ksquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(æ§Í‘
-psquid:ModifiersOrderCheck¦"EReorder the modifiers to comply with the Java Language Specification.(ñÅ­ıÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckµ"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(õ¡ûÊúÿÿÿÿ
-psquid:ModifiersOrderCheckµ"EReorder the modifiers to comply with the Java Language Specification.(õ¡ûÊúÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheckÅ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ôç£¸
-ksquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(Ôç£¸
-˜%squid:RedundantThrowsDeclarationCheckÕ"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(ÓÔ†3
-jsquid:ModifiersOrderCheckÕ"EReorder the modifiers to comply with the Java Language Specification.(ÓÔ†3
-Ÿ%squid:RedundantThrowsDeclarationCheckæ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(õï
-ksquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(õï
-™%squid:RedundantThrowsDeclarationCheckö"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(Œá§Ë
-ksquid:ModifiersOrderCheckö"EReorder the modifiers to comply with the Java Language Specification.(Œá§Ë
-Ÿ%squid:RedundantThrowsDeclarationCheck‡"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(†»íë
-ksquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(†»íë
-™%squid:RedundantThrowsDeclarationCheck—"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(ÊãØ
-ksquid:ModifiersOrderCheck—"EReorder the modifiers to comply with the Java Language Specification.(ÊãØ
-Ÿ%squid:RedundantThrowsDeclarationCheck¨"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(æéì’
-ksquid:ModifiersOrderCheck¨"EReorder the modifiers to comply with the Java Language Specification.(æéì’
-%squid:RedundantThrowsDeclarationCheck¸"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(áçÏöøÿÿÿÿ
-psquid:ModifiersOrderCheck¸"EReorder the modifiers to comply with the Java Language Specification.(áçÏöøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckÉ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ãØïúÿÿÿÿ
-psquid:ModifiersOrderCheckÉ"EReorder the modifiers to comply with the Java Language Specification.(ãØïúÿÿÿÿ
-™%squid:RedundantThrowsDeclarationCheckÙ"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(µÓ±
-ksquid:ModifiersOrderCheckÙ"EReorder the modifiers to comply with the Java Language Specification.(µÓ±
-¤%squid:RedundantThrowsDeclarationCheckê"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¼ÇËÛûÿÿÿÿ
-psquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(¼ÇËÛûÿÿÿÿ
-™%squid:RedundantThrowsDeclarationCheckú"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(”³²Û
-ksquid:ModifiersOrderCheckú"EReorder the modifiers to comply with the Java Language Specification.(”³²Û
-Ÿ%squid:RedundantThrowsDeclarationCheckŠ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Á™â
-ksquid:ModifiersOrderCheckŠ"EReorder the modifiers to comply with the Java Language Specification.(Á™â
-˜%squid:RedundantThrowsDeclarationCheckš"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.( ÿ¨W
-jsquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.( ÿ¨W
-ksquid:ModifiersOrderCheck©"EReorder the modifiers to comply with the Java Language Specification.(¹†«›
-%squid:RedundantThrowsDeclarationCheck¹"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(êñ”åıÿÿÿÿ
-psquid:ModifiersOrderCheck¹"EReorder the modifiers to comply with the Java Language Specification.(êñ”åıÿÿÿÿ
-psquid:ModifiersOrderCheckÈ"EReorder the modifiers to comply with the Java Language Specification.(èò§¹üÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckØ"gRemove the declaration of thrown exception 'java.lang.ClassCastException' which is a runtime exception.(Àèà†øÿÿÿÿ
-psquid:ModifiersOrderCheckØ"EReorder the modifiers to comply with the Java Language Specification.(Àèà†øÿÿÿÿ
-ksquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(äşµŠ
-psquid:ModifiersOrderCheck“"EReorder the modifiers to comply with the Java Language Specification.(ñùßìûÿÿÿÿ
-ksquid:ModifiersOrderCheck£"EReorder the modifiers to comply with the Java Language Specification.(éÙ¦
-ksquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(ÜÇƒÁ
-ksquid:ModifiersOrderCheck»"EReorder the modifiers to comply with the Java Language Specification.(½ñµ
-ksquid:ModifiersOrderCheckÆ"EReorder the modifiers to comply with the Java Language Specification.(ñàîñ
-psquid:ModifiersOrderCheckÕ"EReorder the modifiers to comply with the Java Language Specification.(ÒĞÇÿÿÿÿÿ
-jsquid:ModifiersOrderCheckä"EReorder the modifiers to comply with the Java Language Specification.(‘ÙñA
-psquid:ModifiersOrderCheckô"EReorder the modifiers to comply with the Java Language Specification.(Á°ƒÛúÿÿÿÿ
-3squid:S3626ˆ"Remove this redundant jump.(ûÁİ…
-ksquid:ModifiersOrderCheck„"EReorder the modifiers to comply with the Java Language Specification.(¦µáª
-ksquid:ModifiersOrderCheck­"EReorder the modifiers to comply with the Java Language Specification.(®£ƒ
-V"squid:SwitchLastCaseIsDefaultCheck®""Add a default case to this switch.(²‹›Øüÿÿÿÿ
-ksquid:S2975ï"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(·¬²Å
-`squid:S1182ï"HUse super.clone() to create and seed the cloned instance to be returned.(·¬²Å
-psquid:ModifiersOrderCheck€"EReorder the modifiers to comply with the Java Language Specification.(£÷­¼ÿÿÿÿÿ
-psquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(‘ÖÂ§ÿÿÿÿÿ
-ksquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(ğÙØ¤
-psquid:ModifiersOrderCheck¦"EReorder the modifiers to comply with the Java Language Specification.(Ÿ¼×üÿÿÿÿ
-psquid:ModifiersOrderCheck´"EReorder the modifiers to comply with the Java Language Specification.(­òüìùÿÿÿÿ
-œ%squid:RedundantThrowsDeclarationCheckÑ"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(¿»Ö

@@ -1,55 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
-jsquid:S001168"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ€¤Ä
-psquid:S00116;"SRename this field "m_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×€äâıÿÿÿÿ
-rsquid:S00116>"URename this field "m_strCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹ê”ûÿÿÿÿ
-hsquid:S00116A"QRename this field "m_hash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âµ¬
-‚squid:S3252X"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(£úññøÿÿÿÿ
-‚squid:S3252j"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(·Š§Òşÿÿÿÿ
-Wsquid:S1161„":Add the "@Override" annotation above this method signature(ËÉÖüùÿÿÿÿ
-Rsquid:S1161“":Add the "@Override" annotation above this method signature(™ëĞ¾
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(ï¸šÎ
-Wsquid:S1161¶":Add the "@Override" annotation above this method signature(¡‰‚”şÿÿÿÿ
-Rsquid:S1161ç":Add the "@Override" annotation above this method signature(Ö×Ì
-Rsquid:S1161ú":Add the "@Override" annotation above this method signature(Øä«‹
-Wsquid:S1161Š":Add the "@Override" annotation above this method signature(­¨÷èÿÿÿÿÿ
-Wsquid:S1161¡":Add the "@Override" annotation above this method signature(‚§Í²ûÿÿÿÿ
-Wsquid:S1161¿":Add the "@Override" annotation above this method signature(·ñ¾üùÿÿÿÿ
-Usquid:S1197¿"8Move the array designator from the variable to the type.(·ñ¾üùÿÿÿÿ
-Wsquid:S1161é":Add the "@Override" annotation above this method signature(öÃ­­ûÿÿÿÿ
-Rsquid:S1161—":Add the "@Override" annotation above this method signature(¯¢…Ò
-Rsquid:S1161È":Add the "@Override" annotation above this method signature(ÍÅğ
-Rsquid:S1161÷":Add the "@Override" annotation above this method signature(Öëı
-Rsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(àØÿ
-Asquid:S1125¢")Remove the literal "false" boolean value.(°«¶—
-Qsquid:S1161¶":Add the "@Override" annotation above this method signature(àØ®
-Qsquid:S1161ë":Add the "@Override" annotation above this method signature(êûÅ-
-Wsquid:S1161œ":Add the "@Override" annotation above this method signature(êì²³ÿÿÿÿÿ
-Usquid:S1854â"8Remove this useless assignment to local variable "tlim".(ıŞµşÿÿÿÿ
-Rsquid:S1161İ":Add the "@Override" annotation above this method signature(ÕÃôú
-Rsquid:S1161":Add the "@Override" annotation above this method signature(¾œÕ¢
-Wsquid:S1161ª":Add the "@Override" annotation above this method signature(©Ô¤…ıÿÿÿÿ
-Wsquid:S1161×":Add the "@Override" annotation above this method signature(»÷¸æøÿÿÿÿ
-Wsquid:S1161‹":Add the "@Override" annotation above this method signature(ÒÔˆıûÿÿÿÿ
-Rsquid:S1161¯":Add the "@Override" annotation above this method signature(¢ÆÀ
-Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(ôˆä¹ÿÿÿÿÿ
-Wsquid:S1161ß":Add the "@Override" annotation above this method signature(®ã´°ÿÿÿÿÿ
-isquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(©è»
-Qsquid:S1161ˆ":Add the "@Override" annotation above this method signature(©è»
-isquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¡³¼;
-Qsquid:S1161ë":Add the "@Override" annotation above this method signature(¡³¼;
-Fsquid:S1481â")Remove this unused "tlim" local variable.(ıŞµşÿÿÿÿ
-asquid:UnusedPrivateMethodd"7Remove this unused private "XStringForFSB" constructor.(ƒ—ş™ıÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(·Š§Òşÿÿÿÿ
-csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(†°‹÷
-hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(ãöÑùÿÿÿÿ
-bsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(Œ½
-hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(¦»à¨ûÿÿÿÿ
-csquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(²ÁÓ¦
-hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(ïËİÒüÿÿÿÿ
-csquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(Õãœ
-csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(ÇÈ¤¿
-csquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(ø¿ëó
-hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(£Ÿ†Šøÿÿÿÿ
-csquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(¥©áÉ

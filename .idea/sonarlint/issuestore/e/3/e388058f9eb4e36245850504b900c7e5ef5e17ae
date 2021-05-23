@@ -1,58 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€
-d$squid:AssignmentInSubExpressionCheck‚".Extract the assignment out of this expression.(Á²üÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck„".Extract the assignment out of this expression.(ŠÆå£
-_$squid:AssignmentInSubExpressionCheck†".Extract the assignment out of this expression.(¸Ù“Í
-_$squid:AssignmentInSubExpressionCheckˆ".Extract the assignment out of this expression.(º†¦
-d$squid:AssignmentInSubExpressionCheckŠ".Extract the assignment out of this expression.(¾ˆŸûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckŒ".Extract the assignment out of this expression.(—‚«ƒıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ˆ›èúÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ıäüîüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck’".Extract the assignment out of this expression.(Ñå‰ìøÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheck”".Extract the assignment out of this expression.(Õ†¢o
-Asquid:S1659Ì")Declare "AF_PUTFIELD" on a separate line.(ŠŠÅÜ
-Gsquid:S1659Í"*Declare "AF_GETSTATIC" on a separate line.(¬‹êĞùÿÿÿÿ
-Gsquid:S1659Î"*Declare "AF_PUTSTATIC" on a separate line.(Ú¥›Åûÿÿÿÿ
-Gsquid:S1659Ï"/Declare "AF_GETSTATIC_INIT" on a separate line.(Îÿ²€
-Lsquid:S1659Ğ"/Declare "AF_PUTSTATIC_INIT" on a separate line.(ÇŠÓ«ıÿÿÿÿ
->squid:S1659Ñ"&Declare "AF_LIMIT" on a separate line.(Õš‰¯
-Fsquid:S1659Ö".Declare "FT_UNCHECKED_REF" on a separate line.(Ì¹‹ì
-Dsquid:S1659×",Declare "FT_CHECKED_REF" on a separate line.(×ŸÓØ
-Csquid:S1659Ø"&Declare "FT_LIMIT" on a separate line.(È¨¸òıÿÿÿÿ
-ssquid:S3008Ë"VRename this field "AF_GETFIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñğÿ•øÿÿÿÿ
-nsquid:S3008Ì"VRename this field "AF_PUTFIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŠÅÜ
-tsquid:S3008Í"WRename this field "AF_GETSTATIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‹êĞùÿÿÿÿ
-tsquid:S3008Î"WRename this field "AF_PUTSTATIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¥›Åûÿÿÿÿ
-tsquid:S3008Ï"\Rename this field "AF_GETSTATIC_INIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îÿ²€
-ysquid:S3008Ğ"\Rename this field "AF_PUTSTATIC_INIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠÓ«ıÿÿÿÿ
-ksquid:S3008Ñ"SRename this field "AF_LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õš‰¯
-wsquid:S3008Õ"ZRename this field "FT_LAST_WRAPPER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ú®™øÿÿÿÿ
-ssquid:S3008Ö"[Rename this field "FT_UNCHECKED_REF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¹‹ì
-qsquid:S3008×"YRename this field "FT_CHECKED_REF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ŸÓØ
-psquid:S3008Ø"SRename this field "FT_LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¨¸òıÿÿÿÿ
-rsquid:S4144Ÿ"ZUpdate this method so that its implementation is not identical to "checkBase" on line 500.(¼âÉ
-Esquid:S1659Ë"(Declare "lambdaName" on a separate line.(ÿ­Ó»şÿÿÿÿ
-µsquid:S1845Ô"—Rename field "fieldOffset" to prevent any misunderstanding/clash with method "fieldOffset" defined in superclass "java.lang.invoke.DirectMethodHandle".(¸¾è¼şÿÿÿÿ
-psquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(øüÕõıÿÿÿÿ
-psquid:ModifiersOrderCheckŠ"EReorder the modifiers to comply with the Java Language Specification.(ìš“úÿÿÿÿ
-psquid:ModifiersOrderCheck‹"EReorder the modifiers to comply with the Java Language Specification.(ÂÜ¿—ûÿÿÿÿ
-osquid:S3776š"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(„¯¡ûşÿÿÿÿ
-Zsquid:S1659ö"=Declare "NF_internalMemberNameEnsureInit" on a separate line.(ôÒğèûÿÿÿÿ
-Jsquid:S1659÷"2Declare "NF_ensureInitialized" on a separate line.(½¾ÅÆ
-Dsquid:S1659ø",Declare "NF_fieldOffset" on a separate line.(Òï°’
-Bsquid:S1659ù"*Declare "NF_checkBase" on a separate line.(ø³Ğ
-Csquid:S1659ú"+Declare "NF_staticBase" on a separate line.(é¥¾Ö
-Esquid:S1659û"-Declare "NF_staticOffset" on a separate line.(Ù…í 
-Bsquid:S1659ü"*Declare "NF_checkCast" on a separate line.(ì—ò²
-Nsquid:S1659ı"1Declare "NF_allocateInstance" on a separate line.(Ë×µÁşÿÿÿÿ
-Osquid:S1659ş"2Declare "NF_constructorMethod" on a separate line.(—’áÿÿÿÿÿ
-Psquid:S1197"8Move the array designator from the variable to the type.(‰½ûŸ
-csquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(¥¹ŠÃ
-hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(±¤šˆûÿÿÿÿ
-hsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(›ÚÕ¯úÿÿÿÿ
-hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(Ñå›øùÿÿÿÿ
-hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(¶¾›úÿÿÿÿ
-csquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(ÎŸÌ
-csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(¬ğã‘
-hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(éÓáıÿÿÿÿ
-hsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(ªÿÒ¾øÿÿÿÿ

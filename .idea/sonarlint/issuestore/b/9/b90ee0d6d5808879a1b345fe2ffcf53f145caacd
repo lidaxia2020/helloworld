@@ -1,21 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
-Gsquid:S1066ö"/Merge this if statement with the enclosing one.(•Ô…ó
-p
-squid:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(Ö»•
-xsquid:S1488ô"[Immediately return this expression instead of assigning it to the temporary variable "lpi".(½”á’ùÿÿÿÿ
-fsquid:S00101¾"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤ ´Æ
-psquid:S00116Ÿ"RRename this field "m_exprs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÂ„µüÿÿÿÿ
-tsquid:S00116¬"VRename this field "m_iterators" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÆ¶™ûÿÿÿÿ
-}squid:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Jsquid:S1948¬"-Make "m_iterators" transient or serializable.(ÉÆ¶™ûÿÿÿÿ
-Tsquid:S1197g"8Move the array designator from the variable to the type.(…İ˜®üÿÿÿÿ
-psquid:S2975Î"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æşÿÿÿÿ
-Osquid:S1135Œ"2Complete the task associated to this TODO comment.(µÄ‰ùÿÿÿÿ
-3squid:S3626Ô"Remove this redundant jump.(ÉŠ©ƒ
-jsquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ê´æ
-ksquid:S00116À"RRename this field "m_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§¾°
-Qsquid:S1161ò":Add the "@Override" annotation above this method signature(¤¼ú<
-Wsquid:S1161†":Add the "@Override" annotation above this method signature(ôİè¬ıÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(‹Ñ°

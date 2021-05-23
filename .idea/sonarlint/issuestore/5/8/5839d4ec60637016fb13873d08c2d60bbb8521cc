@@ -1,10 +1,0 @@
-
-isquid:S1192Ί"QDefine a constant instead of duplicating this literal "Socket is closed" 8 times.(°αλή
-]squid:S2147­"ECombine this catch with the one at line 298, which has the same body.(ο­£Δ
-]squid:S2147Π"ECombine this catch with the one at line 461, which has the same body.(ο­£Δ
-bsquid:S2147¥"ECombine this catch with the one at line 672, which has the same body.(ÿλΫίϊÿÿÿÿ
->squid:S2129Ά"!Remove this "Integer" constructor(›σμάϋÿÿÿÿ
-]squid:CallToDeprecatedMethodΆ"/Remove this use of "Integer"; it is deprecated.(›σμάϋÿÿÿÿ
-Asquid:S1940")Use the opposite operator ("<=") instead.(ΟΣµ
-9squid:S2129"!Remove this "Integer" constructor(©ρΤ
-Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(©ρΤ

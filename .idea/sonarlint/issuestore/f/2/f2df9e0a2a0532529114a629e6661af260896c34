@@ -1,59 +1,0 @@
-
-„ squid:ForLoopCounterChangedCheckÂ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ž–©
-Š squid:ForLoopCounterChangedCheckÉ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Éâºæÿÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÐ"XRefactor the code in order to not assign to this loop counter from within the loop body.(óËÓ°
-… squid:ForLoopCounterChangedCheck×"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰üŽ×
-… squid:ForLoopCounterChangedCheckÞ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ¦ÍÏ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(„·Ìú
-csquid:S1192¶"KDefine a constant instead of duplicating this literal "orbd.usage" 6 times.(£«ç›
-_squid:S00112’"FDefine and throw a dedicated exception instead of using a generic one.(ÂÌ»ù
-Wsquid:UselessImportCheck#"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-_squid:UselessImportCheck%"<Remove this unused import 'org.omg.CosNaming.NamingContext'.(œÂžS
-}squid:UselessImportCheck0"TRemove this unused import 'com.sun.corba.se.spi.activation.ServerAlreadyRegistered'.(ÓÌ¥ëûÿÿÿÿ
-`squid:UselessImportCheck&"7Remove this unused import 'org.omg.PortableServer.POA'.(µÀÜ„ùÿÿÿÿ
-Ysquid:UselessImportCheck""5Remove this unused import 'org.omg.CORBA.INITIALIZE'.(ÅË‘‡
-_squid:UselessImportCheck$";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-;squid:S1148¸"#Use a logger to log this exception.(Ç’Çê
-vsquid:S1450E"ZRemove the "initSvcPort" field and declare it as a local variable in the relevant methods.(ñÍæ¤ùÿÿÿÿ
-P
-squid:S106€"9Replace this use of System.out or System.err by a logger.(›ÉáÉ
-P
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(ËâíÆ
-U
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(ï—ŠÖùÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(Šù‡Ò
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(åÁ¢¹
-P
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(¢¾Õ
-P
-squid:S106¡"9Replace this use of System.out or System.err by a logger.(æùßÒ
-U
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(×ŽÛùÿÿÿÿ
-P
-squid:S106­"9Replace this use of System.out or System.err by a logger.(ûðäç
-U
-squid:S106°"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-P
-squid:S106²"9Replace this use of System.out or System.err by a logger.(§Àô±
-U
-squid:S106µ"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-P
-squid:S106·"9Replace this use of System.out or System.err by a logger.(ö¬
-jsquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÞãÊ
-U
-squid:S106Ä"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-U
-squid:S106Ë"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-U
-squid:S106Ò"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-U
-squid:S106Ù"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-U
-squid:S106à"9Replace this use of System.out or System.err by a logger.(í ‘ûÿÿÿÿ
-Vsquid:S1854ª"?Remove this useless assignment to local variable "nameService".(£‡‚c
-Vsquid:S2130Ô"9Use "Integer.parseInt" for this string-to-int conversion.(ÌÞÀýÿÿÿÿ
-Bsquid:S00108Ú")Either remove or fill this block of code.(±•å•
-Gsquid:S1481ª"0Remove this unused "nameService" local variable.(£‡‚c
-bsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(ÖÎâ©

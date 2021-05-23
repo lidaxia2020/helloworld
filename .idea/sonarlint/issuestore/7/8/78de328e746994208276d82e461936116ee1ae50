@@ -1,4 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Πµλώÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ρέγώϋÿÿÿÿ
-^squid:S1126‡"AReplace this if-then-else statement by a single return statement.(υΔΎψÿÿÿÿ

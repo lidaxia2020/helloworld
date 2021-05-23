@@ -1,17 +1,0 @@
-
-Qsquid:S1191!"5Use classes from the Java API instead of Sun classes.(÷ıá…ÿÿÿÿÿ
-Vsquid:S1161F":Add the "@Override" annotation above this method signature(‘¯äŠøÿÿÿÿ
-T
-squid:S106M"9Replace this use of System.out or System.err by a logger.(šÈ—´úÿÿÿÿ
-Vsquid:S1161V":Add the "@Override" annotation above this method signature(Ğòšøÿÿÿÿ
-Psquid:S1161]":Add the "@Override" annotation above this method signature(û–»
-Qsquid:S1161d":Add the "@Override" annotation above this method signature(ìĞ‡
-Qsquid:S1161k":Add the "@Override" annotation above this method signature(ÅšŞ
-Qsquid:S1161r":Add the "@Override" annotation above this method signature(³•–¤
-Qsquid:S1161y":Add the "@Override" annotation above this method signature(ï±´
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(ú‹ùıÿÿÿÿ
-Rsquid:S1161†":Add the "@Override" annotation above this method signature(ò—–³
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ßÄ™¦ÿÿÿÿÿ
-Wsquid:S1161”":Add the "@Override" annotation above this method signature(™ÊÀŞÿÿÿÿÿ
-Qsquid:S1161œ":Add the "@Override" annotation above this method signature(ŒÈZ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

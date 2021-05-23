@@ -1,6 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬è‹«ûÿÿÿÿ
-squid:S1319”"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­˜àèüÿÿÿÿ
-9squid:S12147""Move constants to a class or enum.(ò¾áû
-‚squid:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆ´çøûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

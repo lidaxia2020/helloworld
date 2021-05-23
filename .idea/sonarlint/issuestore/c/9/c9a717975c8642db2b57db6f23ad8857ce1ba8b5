@@ -1,8 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬è‹«ûÿÿÿÿ
-Usquid:S3516j"9Refactor this method to not always return the same value.(‡¡ã¤ùÿÿÿÿ
-squid:S1149E"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(±»âşÿÿÿÿ
-Ysquid:S1126ˆ"AReplace this if-then-else statement by a single return statement.(şä÷è
-Csquid:S1168¯"+Return an empty collection instead of null.(¥¹ï
-Csquid:S1481‚",Remove this unused "isFinal" local variable.(‚½‰	
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,142 +1,0 @@
-
-9squid:S1643í"Use a StringBuilder instead.(¸²¥Øøÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckš
-"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ÿ…ô…ÿÿÿÿÿ
-Qsquid:S1191/"5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
-hsquid:S1192
-"PDefine a constant instead of duplicating this literal "The character '" 5 times.(î©Š
-fsquid:S1192ı"IDefine a constant instead of duplicating this literal "preserve" 3 times.(ÎùŒËûÿÿÿÿ
-vsquid:S1192
-"^Define a constant instead of duplicating this literal "' is an invalid XML character" 5 times.(î©Š
-rsquid:S1192±"UDefine a constant instead of duplicating this literal "SerializationStopped" 3 times.(¥”éùÿÿÿÿ
-bsquid:S1192ü"JDefine a constant instead of duplicating this literal "xml:space" 3 times.(ñ„ª¬
-jsquid:S1192¾"RDefine a constant instead of duplicating this literal "==>serializeNode(" 3 times.(ñ“±À
-Lsquid:S1066‡"/Merge this if statement with the enclosing one.(é•Äüÿÿÿÿ
-Esquid:S1199¾	"-Extract this nested code block into a method.(›œïĞ
-Jsquid:S1199Á	"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-_squid:S3973ò
-"GUse indentation to denote the code conditionally executed by this "if".( ÷¿»
-u
-squid:S135š"YReduce the total number of break and continue statements in this loop to use at most one.(‹µ›Çûÿÿÿÿ
-u
-squid:S135¾"YReduce the total number of break and continue statements in this loop to use at most one.(‹µ›Çûÿÿÿÿ
-Vsquid:S4973¹"9Use the "equals" method if value comparison was intended.(áÆ›–şÿÿÿÿ
-Qsquid:S4973‡"9Use the "equals" method if value comparison was intended.(Ûûªª
-Vsquid:S4973å"9Use the "equals" method if value comparison was intended.(áÆ›–şÿÿÿÿ
-Qsquid:S4973–"9Use the "equals" method if value comparison was intended.(è¹—÷
-Qsquid:S4973–"9Use the "equals" method if value comparison was intended.(è¹—÷
-Vsquid:S4973¢"9Use the "equals" method if value comparison was intended.(£âÂõüÿÿÿÿ
-Qsquid:S4973«"9Use the "equals" method if value comparison was intended.(”á†×
-Vsquid:S4973—	"9Use the "equals" method if value comparison was intended.(–ûşÛûÿÿÿÿ
-`squid:S2259ª"CA "NullPointerException" could be thrown; "value" is nullable here.(ÎùŒËûÿÿÿÿ
-Zsquid:S2259ü"BA "NullPointerException" could be thrown; "name" is nullable here.(ñ„ª¬
-_squid:S00112®"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-_squid:S00112£"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-_squid:S00112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-jsquid:S00117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”Æ
-wsquid:S1149ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôœÀ
-isquid:CallToDeprecatedMethodx"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(ü¢‡•üÿÿÿÿ
-ksquid:ModifiersOrderCheck‘"EReorder the modifiers to comply with the Java Language Specification.(Ò±œ§
-jsquid:CallToDeprecatedMethod·"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(ª„ó§üÿÿÿÿ
-bsquid:CallToDeprecatedMethod·"4Remove this use of "OutputFormat"; it is deprecated.(ª„ó§üÿÿÿÿ
-\squid:CallToDeprecatedMethod·".Remove this use of "Method"; it is deprecated.(ª„ó§üÿÿÿÿ
-]squid:CallToDeprecatedMethodÃ"4Remove this use of "OutputFormat"; it is deprecated.(Ê¸Œà
-esquid:CallToDeprecatedMethodÄ"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(úõ´ı
-]squid:CallToDeprecatedMethodÄ"4Remove this use of "OutputFormat"; it is deprecated.(úõ´ı
-Wsquid:CallToDeprecatedMethodÄ".Remove this use of "Method"; it is deprecated.(úõ´ı
-\squid:CallToDeprecatedMethodÅ".Remove this use of "Method"; it is deprecated.(Ëë†¸ûÿÿÿÿ
-bsquid:CallToDeprecatedMethodÕ"4Remove this use of "OutputFormat"; it is deprecated.(¿ÈÊĞÿÿÿÿÿ
-esquid:CallToDeprecatedMethodÖ"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(úõ´ı
-]squid:CallToDeprecatedMethodÖ"4Remove this use of "OutputFormat"; it is deprecated.(úõ´ı
-Wsquid:CallToDeprecatedMethodÖ".Remove this use of "Method"; it is deprecated.(úõ´ı
-\squid:CallToDeprecatedMethod×".Remove this use of "Method"; it is deprecated.(Ëë†¸ûÿÿÿÿ
-\squid:CallToDeprecatedMethodè"4Remove this use of "OutputFormat"; it is deprecated.(Ê³ä8
-esquid:CallToDeprecatedMethodé"<Remove this use of "BaseMarkupSerializer"; it is deprecated.(úõ´ı
-]squid:CallToDeprecatedMethodé"4Remove this use of "OutputFormat"; it is deprecated.(úõ´ı
-Wsquid:CallToDeprecatedMethodé".Remove this use of "Method"; it is deprecated.(úõ´ı
-\squid:CallToDeprecatedMethodê".Remove this use of "Method"; it is deprecated.(Ëë†¸ûÿÿÿÿ
-Rsquid:S1161ï":Add the "@Override" annotation above this method signature(Õ›õ¾
-]squid:CallToDeprecatedMethodï"4Remove this use of "OutputFormat"; it is deprecated.(Õ›õ¾
-bsquid:CallToDeprecatedMethodğ"4Remove this use of "OutputFormat"; it is deprecated.(¢ğ¶—ıÿÿÿÿ
-\squid:CallToDeprecatedMethodğ".Remove this use of "Method"; it is deprecated.(¢ğ¶—ıÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(™ÊÀŞÿÿÿÿÿ
-Zsquid:S1854Ó"=Remove this useless assignment to local variable "addNSAttr".(™×È ûÿÿÿÿ
-\squid:CallToDeprecatedMethod“"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-P
-squid:S106™"9Replace this use of System.out or System.err by a logger.(æ³ïº
-Asquid:S1905Œ")Remove this unnecessary cast to "String".(Øø™É
-Csquid:S1172´"&Remove these unused method parameters.(ºö—øÿÿÿÿ
-\squid:CallToDeprecatedMethod¸"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-P
-squid:S106º"9Replace this use of System.out or System.err by a logger.(¡›–ö
-jsquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÿ‚Á
-^squid:CallToDeprecatedMethodà"5Remove this use of "AttributeList"; it is deprecated.(ÿ‚Á
-\squid:CallToDeprecatedMethodå"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-P
-squid:S106ë"9Replace this use of System.out or System.err by a logger.(ÕúÖ–
-jsquid:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(²ß”Ş
-3squid:S3626Â"Remove this redundant jump.(ÉŠ©ƒ
-3squid:S3626È"Remove this redundant jump.(ÉŠ©ƒ
-psquid:S3776·"SRefactor this method to reduce its Cognitive Complexity from 252 to the 15 allowed.(ğ²ˆçÿÿÿÿÿ
-Osquid:S1854‚"7Remove this useless assignment to local variable "uri".(ÑşÙ
-Csquid:S1659Ã"&Declare "localUri" on a separate line.(êƒâ¦ùÿÿÿÿ
-\squid:CallToDeprecatedMethod¾"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-U
-squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(Ò¾·æùÿÿÿÿ
-U
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(™Íë‰ÿÿÿÿÿ
-U
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(Éäóüüÿÿÿÿ
-U
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(ˆÏÚ«ÿÿÿÿÿ
-P
-squid:S106™	"9Replace this use of System.out or System.err by a logger.(†µéğ
-U
-squid:S106	"9Replace this use of System.out or System.err by a logger.(ÏÃìşÿÿÿÿ
-bsquid:CallToDeprecatedMethod¸	"9Remove this use of "DOMSerializerImpl"; it is deprecated.(İç‚ô
-V"squid:SwitchLastCaseIsDefaultCheckÛ	""Add a default case to this switch.(Œ¹ÿÿÿÿÿ
-jsquid:S3776•
-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿¸¡
-Rsquid:S1161•
-":Add the "@Override" annotation above this method signature(¿¸¡
-osquid:S3776Æ
-"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ğ¬‚¿ûÿÿÿÿ
-Wsquid:S1161Æ
-":Add the "@Override" annotation above this method signature(ğ¬‚¿ûÿÿÿÿ
-?squid:S1905×
-"'Remove this unnecessary cast to "char".(î©Š
-?squid:S1905í
-"'Remove this unnecessary cast to "char".(î©Š
-osquid:S3776ü
-"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÀƒÃùÿÿÿÿ
-Wsquid:S1161ü
-":Add the "@Override" annotation above this method signature(ÀƒÃùÿÿÿÿ
-ssquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ò°öû
-?squid:S1905"'Remove this unnecessary cast to "char".(î©Š
-?squid:S1905£"'Remove this unnecessary cast to "char".(î©Š
-osquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(àë£½şÿÿÿÿ
-Wsquid:S1161¹":Add the "@Override" annotation above this method signature(àë£½şÿÿÿÿ
-:squid:S1659Ç""Declare "next" on a separate line.(İ‰ëÿ
-P
-squid:S106¾"9Replace this use of System.out or System.err by a logger.(ñ“±À
-U
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(°ğÍ÷ÿÿÿÿÿ
-U
-squid:S106À"9Replace this use of System.out or System.err by a logger.(¾ø„äùÿÿÿÿ
-U
-squid:S106Á"9Replace this use of System.out or System.err by a logger.(ÑÀ¼–úÿÿÿÿ
-U
-squid:S106Â"9Replace this use of System.out or System.err by a logger.(¹«Ä¥úÿÿÿÿ
-P
-squid:S106Ã"9Replace this use of System.out or System.err by a logger.(Ğ»Ãº
-O
-squid:S106Ë"9Replace this use of System.out or System.err by a logger.(‹†œr
-P
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(íË¹¾
-Wsquid:S1161ü":Add the "@Override" annotation above this method signature(Æ”Šãùÿÿÿÿ
-Ksquid:S1481–".Remove this unused "addNSAttr" local variable.(ÓÙß¯úÿÿÿÿ
-Lsquid:S1481õ	"/Remove this unused "indexColon" local variable.(ÌÏã­üÿÿÿÿ
-Csquid:S1481ö	"+Remove this unused "prefix" local variable.(åèİ€
-Bsquid:S1481ş
-"*Remove this unused "index" local variable.(Î‚í„
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

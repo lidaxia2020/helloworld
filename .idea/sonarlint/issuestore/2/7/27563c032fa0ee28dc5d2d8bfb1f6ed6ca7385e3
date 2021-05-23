@@ -1,5 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(α…Τ”
-jsquid:ModifiersOrderCheck."EReorder the modifiers to comply with the Java Language Specification.(ÿΉα
-8squid:S21296"!Remove this "Integer" constructor(•Ξέα
-Wsquid:CallToDeprecatedMethod6"/Remove this use of "Integer"; it is deprecated.(•Ξέα

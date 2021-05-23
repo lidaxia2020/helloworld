@@ -1,28 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck÷"XRefactor the code in order to not assign to this loop counter from within the loop body.(øá›ÿ
-„ squid:ForLoopCounterChangedCheckø"XRefactor the code in order to not assign to this loop counter from within the loop body.( Å?
-… squid:ForLoopCounterChangedCheckù"XRefactor the code in order to not assign to this loop counter from within the loop body.(–ç¼É
-Š squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(×¿”Àüÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckû"XRefactor the code in order to not assign to this loop counter from within the loop body.(„ ó3
-… squid:ForLoopCounterChangedCheckü"XRefactor the code in order to not assign to this loop counter from within the loop body.(ıß©
-Š squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(ãÔéïúÿÿÿÿ
-nsquid:S1192²"QDefine a constant instead of duplicating this literal "Stream is closed" 3 times.(€ƒŸ±ÿÿÿÿÿ
-u
-squid:S135Ğ"YReduce the total number of break and continue statements in this loop to use at most one.(˜öÜıûÿÿÿÿ
-p
-squid:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(ßĞŒ
-\squid:CallToDeprecatedMethod".Remove this use of "String"; it is deprecated.(í†ûÿÿÿÿÿ
-jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÁğÂÈ
-Ssquid:S1854’"6Remove this useless assignment to local variable "sp".(œÕÔèûÿÿÿÿ
-8squid:S1659õ" Declare "sl" on a separate line.(³…Â
-jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¢ƒÆ¿
-Msquid:S1854»"5Remove this useless assignment to local variable "b".(­ç
-jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ÿ‘ î
-8squid:S1659" Declare "b1" on a separate line.(øÂª²
-8squid:S1659" Declare "b2" on a separate line.(øÂª²
-isquid:S1450"QRemove the "b2" field and declare it as a local variable in the relevant methods.(øÂª²
-Osquid:S1854×"7Remove this useless assignment to local variable "off".(Ã»âˆ
-Osquid:S1854Ú"7Remove this useless assignment to local variable "off".( Ü¥ƒ
-jsquid:S3776š"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(ÂãíÕ
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(®Æ¯„üÿÿÿÿ
-csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(•Êô×

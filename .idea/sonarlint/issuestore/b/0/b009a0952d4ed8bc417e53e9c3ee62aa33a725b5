@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
-?squid:S1604ˆ"(Make this anonymous inner class a lambda(ÆÞÖ
-xsquid:UselessImportCheck&"TRemove this unused import 'com.sun.corba.se.spi.presentation.rmi.IDLNameTranslator'.(ŽàíÚ
-osquid:S3012B"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ê×£
-
-8squid:S2066G"Make this inner class static(ô°ùïúÿÿÿÿ

@@ -1,13 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
-Dsquid:S1185J"(Remove this method to simply inherit it.(À‘‹¬üÿÿÿÿ
-Vsquid:S1161J":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
-Qsquid:S1161P":Add the "@Override" annotation above this method signature(éĞŠ
-Qsquid:S1161Y":Add the "@Override" annotation above this method signature(àÛ‚Í
-6squid:S3010v"Remove this assignment of "bg".(·¤·Ü
-;squid:S3010w"Remove this assignment of "fg".(üæïâûÿÿÿÿ
-=squid:S3010x"&Remove this assignment of "highlight".(¶Ã‘‰
-?squid:S3010y"#Remove this assignment of "shadow".(âËÔÉúÿÿÿÿ
-Rsquid:S1161©":Add the "@Override" annotation above this method signature(»€ıÎ
-Esquid:S1172°"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
-Rsquid:S1161º":Add the "@Override" annotation above this method signature(áô€æ

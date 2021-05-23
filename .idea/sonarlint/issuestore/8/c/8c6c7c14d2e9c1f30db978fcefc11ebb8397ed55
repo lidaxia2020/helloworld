@@ -1,4 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
-qsquid:S1488O"ZImmediately return this expression instead of assigning it to the temporary variable "sf".(ìÕÄ­
-€squid:UselessImportCheck'"WRemove this unused import 'com.sun.corba.se.spi.presentation.rmi.PresentationDefaults'.(£¼²úùÿÿÿÿ

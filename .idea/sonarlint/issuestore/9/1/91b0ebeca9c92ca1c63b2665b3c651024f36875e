@@ -1,9 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
-dsquid:S00112°"FDefine and throw a dedicated exception instead of using a generic one.(¸‘şÿÿÿÿÿ
-jsquid:MaximumInheritanceDepth3"<This class has 7 parents which is greater than 5 authorized.(ÉÄÖßûÿÿÿÿ
-nsquid:S00116?"VRename this field "m_nodeTests" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìô‡î
-|squid:S1149~"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Wsquid:S1161”":Add the "@Override" annotation above this method signature(ãö¶™ıÿÿÿÿ
-Jsquid:S1135¯"2Complete the task associated to this TODO comment.(÷çºš
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

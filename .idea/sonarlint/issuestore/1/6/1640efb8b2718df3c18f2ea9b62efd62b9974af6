@@ -1,5 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(‘æì
-osquid:S00116."RRename this field "_buffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšÆÚùÿÿÿÿ
-{squid:S1149."_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÂšÆÚùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

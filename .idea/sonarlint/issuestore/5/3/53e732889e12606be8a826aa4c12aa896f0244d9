@@ -1,4 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ä◊çÎ
-òsquid:S11865"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã®≤ø
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

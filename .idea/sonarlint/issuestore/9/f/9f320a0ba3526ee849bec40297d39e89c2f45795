@@ -1,17 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Šæƒ¼
-jsquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡üÖ¬
-gsquid:UselessImportCheck)">Remove this unused import 'javax.xml.parsers.DocumentBuilder'.(ƒ”¯¹ùÿÿÿÿ
-nsquid:S1149ˆ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(÷µâ”
-nsquid:S1149²"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Îê„
-Nsquid:S1172x"2Remove this unused method parameter "myProcessor".(Ì§òûşÿÿÿÿ
-Vsquid:S1854‹">Remove this useless assignment to local variable "envChecker".(œí½
-Msquid:S1172¡"0Remove this unused method parameter "myContext".(˜¹Î¥ûÿÿÿÿ
-\squid:S1854¶"?Remove this useless assignment to local variable "returnValue".(Øöàüÿÿÿÿ
-Psquid:S1197¦"8Move the array designator from the variable to the type.(‡üÖ¬
-=squid:S1181¿"%Catch Exception instead of Throwable.(Ñ´¯
-Esquid:S2755Ò"-Disable XML external entity (XXE) processing.(îÄ·ú
-Jsquid:S2755Ô"-Disable XML external entity (XXE) processing.(ˆèÓœüÿÿÿÿ
-Msquid:S1481¶"0Remove this unused "returnValue" local variable.(Øöàüÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ò¿±O

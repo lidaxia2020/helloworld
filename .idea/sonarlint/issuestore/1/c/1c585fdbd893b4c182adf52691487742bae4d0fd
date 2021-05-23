@@ -1,13 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(îóä·ûÿÿÿÿ
-?squid:S1165?"#Make this "fFormatter" field final.(§­Üðûÿÿÿÿ
-7squid:S1165B" Make this "fLocale" field final.(ïš°®
-7squid:S1165E" Make this "fDomain" field final.(Öâ½Ó
-9squid:S1165H"Make this "fKey" field final.(™¿•–øÿÿÿÿ
-:squid:S1165K"#Make this "fArguments" field final.(èÓºª
-8squid:S1165N"!Make this "fMessage" field final.(‘‘‘Ñ
-Hsquid:S1948?",Make "fFormatter" transient or serializable.(§­Üðûÿÿÿÿ
-Csquid:S1948K",Make "fArguments" transient or serializable.(èÓºª
-Osquid:S1161£":Add the "@Override" annotation above this method signature(‡+
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(œ‰§å

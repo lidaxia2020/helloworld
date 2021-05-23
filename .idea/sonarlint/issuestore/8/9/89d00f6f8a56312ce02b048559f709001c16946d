@@ -1,9 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(÷ıá…ÿÿÿÿÿ
-Rsquid:S1141ƒ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-squid:S1149h"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Àå‹§ıÿÿÿÿ
-‚squid:S1149†"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‘ÓŠ‚üÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheck`"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀŞ÷øÿÿÿÿ
-nsquid:S3776_"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(à¦¼œÿÿÿÿÿ
-\squid:S1854q"@Remove this useless assignment to local variable "unknownEntry".(“µ¶ûÿÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

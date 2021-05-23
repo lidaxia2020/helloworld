@@ -1,17 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
-ssquid:S001162"VRename this field "CDATABuffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óü•Éÿÿÿÿÿ
-{squid:S11492"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Óü•Éÿÿÿÿÿ
-|squid:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®Ë¶
-Vsquid:S1161E":Add the "@Override" annotation above this method signature(ú‹ùıÿÿÿÿ
-Vsquid:S1161S":Add the "@Override" annotation above this method signature(©øåÄıÿÿÿÿ
-Vsquid:S1161W":Add the "@Override" annotation above this method signature(Ù×‰Õûÿÿÿÿ
-Psquid:S1161[":Add the "@Override" annotation above this method signature(ëšî
-Vsquid:S1161_":Add the "@Override" annotation above this method signature(Ÿ®…ëşÿÿÿÿ
-Qsquid:S1161c":Add the "@Override" annotation above this method signature(¶ÌÑ±
-Vsquid:S1161g":Add the "@Override" annotation above this method signature(èÂá­ıÿÿÿÿ
-Vsquid:S1161l":Add the "@Override" annotation above this method signature(àİ³ÿıÿÿÿÿ
-Psquid:S1161q":Add the "@Override" annotation above this method signature(ŒÈZ
-Rsquid:S1161‚":Add the "@Override" annotation above this method signature(«»Ë
-Wsquid:S1161":Add the "@Override" annotation above this method signature(Ğòšøÿÿÿÿ
-@squid:S1659Ì"#Declare "local" on a separate line.(ó­ø¦ÿÿÿÿÿ

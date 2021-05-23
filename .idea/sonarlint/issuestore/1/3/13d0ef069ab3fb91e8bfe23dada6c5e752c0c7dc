@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
-isquid:S3776}"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‹ÃÄŠ
-wsquid:S4435†"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(æÏ¼’ıÿÿÿÿ
-osquid:S3252†"RUse static access with "javax.xml.transform.TransformerFactory" for "newInstance".(æÏ¼’ıÿÿÿÿ
-wsquid:S4435‡"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(ÓÁ•Ìüÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

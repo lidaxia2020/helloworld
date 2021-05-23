@@ -1,10 +1,0 @@
-
-ksquid:S3824ú"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(öóİèşÿÿÿÿ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
-dsquid:S00112ª"FDefine and throw a dedicated exception instead of using a generic one.(é­ËŸøÿÿÿÿ
-gsquid:UselessImportCheck,"DRemove this unused import 'javax.management.IntrospectionException'.(çö¼
-vsquid:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(·­¤˜üÿÿÿÿ
-qsquid:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âõ’‚
-qsquid:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÈ£˜
->squid:S1168"&Return an empty array instead of null.(¥¹ï
->squid:S1168“"&Return an empty array instead of null.(¥¹ï

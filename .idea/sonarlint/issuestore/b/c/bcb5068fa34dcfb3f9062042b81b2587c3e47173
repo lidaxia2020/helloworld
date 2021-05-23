@@ -1,2 +1,0 @@
-
-ž%squid:RedundantThrowsDeclarationCheckž"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(÷æÔø

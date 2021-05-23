@@ -1,105 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
-lsquid:S1192‚"TDefine a constant instead of duplicating this literal "VersionInfoRequired" 3 times.(ÀÁ°„
-msquid:S1192"UDefine a constant instead of duplicating this literal "EncodingDeclRequired" 3 times.(¥¯ôú
-Gsquid:S1066Å"/Merge this if statement with the enclosing one.(Ú¼Ş”
-Jsquid:S1199é"-Extract this nested code block into a method.(Ñ£…ïûÿÿÿÿ
-Esquid:S1199•"-Extract this nested code block into a method.(¯úÖê
-Jsquid:S1199°"-Extract this nested code block into a method.(Ò¾Üõùÿÿÿÿ
-Jsquid:S1199À"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Vsquid:S4973Ø"9Use the "equals" method if value comparison was intended.(‹ŸÄûşÿÿÿÿ
-Qsquid:S4973ß"9Use the "equals" method if value comparison was intended.(ò§óŒ
-Vsquid:S4973æ"9Use the "equals" method if value comparison was intended.(ÂşÎòûÿÿÿÿ
-Vsquid:S4973í"9Use the "equals" method if value comparison was intended.(”é½Òüÿÿÿÿ
-Qsquid:S4973ô"9Use the "equals" method if value comparison was intended.(¹îÛÙ
-ssquid:S00115Ş"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡âë
-ssquid:S00115á"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾Ùê
-xsquid:S00115ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôˆàÁüÿÿÿÿ
-xsquid:S00115ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö¬ƒ¸şÿÿÿÿ
-ssquid:S00115ê"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(êÅİ°
-xsquid:S00115í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç‡µİùÿÿÿÿ
-xsquid:S00115ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ßšûÿÿÿÿ
-xsquid:S00115ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îùÄˆÿÿÿÿÿ
-wsquid:S1149£"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Â¹Å
-wsquid:S1149¬"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Â¹Å
-ksquid:ModifiersOrderCheckŞ"EReorder the modifiers to comply with the Java Language Specification.(‡âë
-ksquid:ModifiersOrderChecká"EReorder the modifiers to comply with the Java Language Specification.(¾Ùê
-psquid:ModifiersOrderCheckä"EReorder the modifiers to comply with the Java Language Specification.(ôˆàÁüÿÿÿÿ
-psquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(ö¬ƒ¸şÿÿÿÿ
-ksquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(êÅİ°
-psquid:ModifiersOrderCheckí"EReorder the modifiers to comply with the Java Language Specification.(ç‡µİùÿÿÿÿ
-psquid:ModifiersOrderCheckğ"EReorder the modifiers to comply with the Java Language Specification.(‰ßšûÿÿÿÿ
-psquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(îùÄˆÿÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheck›"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckÆ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Osquid:S1135Ú"2Complete the task associated to this TODO comment.(ÎæÑŞıÿÿÿÿ
-Isquid:S1135İ"2Complete the task associated to this TODO comment.(Š“H
-Ê%squid:RedundantThrowsDeclarationCheckë"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckû"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ksquid:S1905œ"3Remove this unnecessary cast to "XMLEntityScanner".(Éœ‚ê
-¯%squid:RedundantThrowsDeclarationCheckË"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-ksquid:S3776É"SRefactor this method to reduce its Cognitive Complexity from 108 to the 15 allowed.(ıæ¼¼
-Jsquid:S1135Ÿ"2Complete the task associated to this TODO comment.(ä¨»Ò
-¯%squid:RedundantThrowsDeclarationCheck€"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-jsquid:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(µ„Ôñ
-µ%squid:RedundantThrowsDeclarationCheckÁ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¼Îğºúÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÃ""Add a default case to this switch.(Œ¹ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckì"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(™ê”Ê
-¯%squid:RedundantThrowsDeclarationCheck”"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-isquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ç–Ş3
-¯%squid:RedundantThrowsDeclarationCheck×"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-¯%squid:RedundantThrowsDeclarationCheck‘"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-psquid:S3776Œ"SRefactor this method to reduce its Cognitive Complexity from 194 to the 15 allowed.(àü¸ßûÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(î¦Êïşÿÿÿÿ
-U
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(¬§îšøÿÿÿÿ
-U
-squid:S106²"9Replace this use of System.out or System.err by a logger.(Â¹¦æùÿÿÿÿ
-U
-squid:S106Æ"9Replace this use of System.out or System.err by a logger.(ßÈÑÄùÿÿÿÿ
-P
-squid:S106Û"9Replace this use of System.out or System.err by a logger.(ûáşÉ
-P
-squid:S106â"9Replace this use of System.out or System.err by a logger.(ï‡…
-P
-squid:S106é"9Replace this use of System.out or System.err by a logger.(ùì—ÿ
-U
-squid:S106ğ"9Replace this use of System.out or System.err by a logger.(µ¿Ìşûÿÿÿÿ
-U
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(ÛĞ³ıÿÿÿÿ
-U
-squid:S106 "9Replace this use of System.out or System.err by a logger.(Ù¿‹úıÿÿÿÿ
-U
-squid:S106°"9Replace this use of System.out or System.err by a logger.(ìÑ¶­şÿÿÿÿ
-Osquid:S1135Ã"2Complete the task associated to this TODO comment.(ÿå‘úÿÿÿÿ
-P
-squid:S106È"9Replace this use of System.out or System.err by a logger.(ş®–´
-¯%squid:RedundantThrowsDeclarationChecké"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-jsquid:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ø©‚Î
-¯%squid:RedundantThrowsDeclarationCheckÄ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-osquid:S3776Ã	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅµÈ³ùÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(»•İÍ
-Csquid:S1172
-"+Remove this unused method parameter "augs".(»•İÍ
-%squid:RedundantThrowsDeclarationCheckµ
-"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¾Á‰
-°%squid:RedundantThrowsDeclarationCheckµ
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¾Á‰
-Csquid:S1172µ
-"+Remove this unused method parameter "augs".(¾Á‰
-¯%squid:RedundantThrowsDeclarationCheckÙ
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-osquid:S3776Ø
-"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(¥ç—şÿÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheckù"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-µ%squid:RedundantThrowsDeclarationCheck "~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(û•†ö
-hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(³Æç×úÿÿÿÿ
-hsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(×Úç¾úÿÿÿÿ
-hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(¶ßÔ§øÿÿÿÿ
-csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(Âƒ©Ğ
-hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(ª²£Ùûÿÿÿÿ
-hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(™’ù¦ùÿÿÿÿ

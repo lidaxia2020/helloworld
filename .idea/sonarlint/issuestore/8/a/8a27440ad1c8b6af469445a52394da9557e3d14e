@@ -1,21 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-Wsquid:S2259Æ"?A "NullPointerException" could be thrown; "c" is nullable here.(Å¢åÂ
-dsquid:S00112é"FDefine and throw a dedicated exception instead of using a generic one.(øØ“»ıÿÿÿÿ
-dsquid:S00112‰"FDefine and throw a dedicated exception instead of using a generic one.(ğ“ÜŒüÿÿÿÿ
-nsquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÖÚ¹ıÿÿÿÿ
-osquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞİÙöùÿÿÿÿ
-;squid:S2157k"%Add a "clone()" method to this class.(©Öê{
-{squid:S00116l"^Rename this field "constant_pool_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŞ¦Éùÿÿÿÿ
-psquid:S00116m"XRename this field "constant_pool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÕÑ§
-|squid:S1149ñ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤¼¶ûıÿÿÿÿ
-|squid:S1149²"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-Fsquid:S1948m"/Make "constant_pool" transient or serializable.(ÎÕÑ§
-Â%squid:RedundantThrowsDeclarationCheck„"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(Ù÷ÒØÿÿÿÿÿ
-¼%squid:RedundantThrowsDeclarationCheckÀ"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
-¼%squid:RedundantThrowsDeclarationCheck"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
-¼%squid:RedundantThrowsDeclarationCheckË"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
-¼%squid:RedundantThrowsDeclarationCheckô"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(è[
-Gsquid:S00108Ä")Either remove or fill this block of code.(³›åùşÿÿÿÿ
-hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(ƒÉµşÿÿÿÿ

@@ -1,26 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.( Šİ¹ıÿÿÿÿ
-osquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¦ãùÿÿÿÿ
-osquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
-jsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ‹“
-osquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙ¦ãùÿÿÿÿ
-osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
-jsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÃ‹“
-osquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞµÒ”ıÿÿÿÿ
-jsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¿ˆØ
-osquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡å¬çùÿÿÿÿ
-osquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’ëúÿÿÿÿ
-osquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ
-psquid:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(«‚ôÂ
-usquid:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(è—¡®ıÿÿÿÿ
-Ksquid:EmptyStatementUsageCheckQ"Remove this empty statement.(ôŸìúÿÿÿÿ
-usquid:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÒèùÿÿÿÿ
-qsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÍŒ×
-Isquid:S1135»"2Complete the task associated to this TODO comment.(¯“¦R
-Isquid:S1135Î"2Complete the task associated to this TODO comment.(¯“¦R
-osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(×ØÚ¼úÿÿÿÿ
-]squid:HiddenFieldCheckî":Rename "result" which hides the field declared at line 74.(İäî–
-Psquid:S1197†"8Move the array designator from the variable to the type.(Ë‡÷É
-osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(”˜Êüÿÿÿÿ
-]squid:HiddenFieldCheck´":Rename "result" which hides the field declared at line 74.(İäî–
-Psquid:S1197×"8Move the array designator from the variable to the type.(Ë‡÷É

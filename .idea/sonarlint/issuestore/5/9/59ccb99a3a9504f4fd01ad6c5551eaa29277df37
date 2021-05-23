@@ -1,9 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ûË¯
-Xsquid:UselessImportCheck"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶
-_squid:UselessImportCheck""6Remove this unused import 'java.rmi.MarshalException'.(­Ğ„¦ùÿÿÿÿ
-Zsquid:UselessImportCheck%"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
-Ysquid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš
-Zsquid:UselessImportCheck "1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ
-O
-squid:S106I"9Replace this use of System.out or System.err by a logger.(öñ Û

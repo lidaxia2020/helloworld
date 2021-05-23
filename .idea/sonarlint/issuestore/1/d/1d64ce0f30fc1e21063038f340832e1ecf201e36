@@ -1,22 +1,0 @@
-
-Qsquid:S1191+"5Use classes from the Java API instead of Sun classes.(«ª§Ûüÿÿÿÿ
-ksquid:S1192ä
-"SDefine a constant instead of duplicating this literal "host can't be null" 3 times.(¿Óª²
-xsquid:UselessImportCheck#"TRemove this unnecessary import: same package classes are always implicitly imported.(Óû¥ó
-Ysquid:UselessImportCheck&"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
-Rsquid:S1133Ã"5Do not forget to remove this deprecated code someday.(™Ü¸®ûÿÿÿÿ
-Msquid:S1133ï"5Do not forget to remove this deprecated code someday.(ñ±Ñ¸
-Msquid:S1133á"5Do not forget to remove this deprecated code someday.(åËŸ²
->squid:S1452¡"&Remove usage of generic wildcard type.(°ê¸Í
-Msquid:S1133¡"5Do not forget to remove this deprecated code someday.(°ê¸Í
-Rsquid:S1133¹"5Do not forget to remove this deprecated code someday.(ºÖºàüÿÿÿÿ
-Msquid:S1133ð"5Do not forget to remove this deprecated code someday.(Õ’ü¥
-Rsquid:S1133Ž"5Do not forget to remove this deprecated code someday.(ûÉ¶²ûÿÿÿÿ
-Rsquid:S1133£"5Do not forget to remove this deprecated code someday.(­–ÒŠùÿÿÿÿ
-Msquid:S1133Ö"5Do not forget to remove this deprecated code someday.(ÙÊãè
-Rsquid:S1133ë"5Do not forget to remove this deprecated code someday.(ÌÔ”±ûÿÿÿÿ
-Rsquid:S1133Ã"5Do not forget to remove this deprecated code someday.(©ë¤öüÿÿÿÿ
-Rsquid:S1133ó"5Do not forget to remove this deprecated code someday.(Ë¡›°ûÿÿÿÿ
-Usquid:S1197œ"8Move the array designator from the variable to the type.(¥éø•üÿÿÿÿ
-Rsquid:S1133º"5Do not forget to remove this deprecated code someday.(Ò¢Ü‹ýÿÿÿÿ
-Usquid:S1197¿"8Move the array designator from the variable to the type.(½íÅ“ûÿÿÿÿ

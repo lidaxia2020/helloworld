@@ -1,8 +1,0 @@
-
-_squid:S00112Ç"FDefine and throw a dedicated exception instead of using a generic one.(’÷ÈË
-Jsquid:S3077o".Remove the "volatile" keyword from this field.(¯ğ¬Šüÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheck·"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(òëüûÿÿÿÿ
-%squid:RedundantThrowsDeclarationChecká"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¾‘Àøÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckÓ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¶Íıÿÿÿÿ
-˜%squid:RedundantThrowsDeclarationCheckø"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¿®âà
-hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(©‰Ô®şÿÿÿÿ

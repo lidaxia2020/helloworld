@@ -1,19 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
-Esquid:S1066Y"/Merge this if statement with the enclosing one.(ÀİÌv
->squid:S2129‰"!Remove this "Boolean" constructor(•×À¥úÿÿÿÿ
-]squid:CallToDeprecatedMethod‰"/Remove this use of "Boolean"; it is deprecated.(•×À¥úÿÿÿÿ
-6squid:S2129˜"Remove this "Byte" constructor(¾øãÂ
-Usquid:CallToDeprecatedMethod˜",Remove this use of "Byte"; it is deprecated.(¾øãÂ
-:squid:S2129§"#Remove this "Character" constructor(şïºM
-Ysquid:CallToDeprecatedMethod§"1Remove this use of "Character"; it is deprecated.(şïºM
-7squid:S2129¶"Remove this "Short" constructor(é¹ê‘
-Vsquid:CallToDeprecatedMethod¶"-Remove this use of "Short"; it is deprecated.(é¹ê‘
->squid:S2129Å"!Remove this "Integer" constructor(¡©şÿÿÿÿ
-]squid:CallToDeprecatedMethodÅ"/Remove this use of "Integer"; it is deprecated.(¡©şÿÿÿÿ
-5squid:S2129Ô"Remove this "Long" constructor(£”ÈD
-Tsquid:CallToDeprecatedMethodÔ",Remove this use of "Long"; it is deprecated.(£”ÈD
-6squid:S2129ã"Remove this "Float" constructor(²ê»	
-Usquid:CallToDeprecatedMethodã"-Remove this use of "Float"; it is deprecated.(²ê»	
-8squid:S2129ò" Remove this "Double" constructor(´€é
-Wsquid:CallToDeprecatedMethodò".Remove this use of "Double"; it is deprecated.(´€é

@@ -1,15 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ğÔñ¯ıÿÿÿÿ
-nsquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‘Äúüÿÿÿÿ
-nsquid:S00117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ç°üÿÿÿÿ
-nsquid:S00117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ç°üÿÿÿÿ
-osquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÍÅ€üÿÿÿÿ
-jsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£˜Âş
-osquid:S00117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÊ€×ûÿÿÿÿ
-rsquid:S00116e"URename this field "class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À°¤üÿÿÿÿÿ
-osquid:S00116g"XRename this field "constant_html" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÂû}
-qsquid:S00116h"YRename this field "attribute_html" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸÷Ñ„
-%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ñ¸éÄ
-£%squid:RedundantThrowsDeclarationCheck¯"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ŠÍÅ€üÿÿÿÿ
-osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŠÍÅ€üÿÿÿÿ
-?squid:S1659·"'Declare "html_name" on a separate line.(£˜Âş

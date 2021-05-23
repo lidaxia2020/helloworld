@@ -1,70 +1,0 @@
-
-Lsquid:S1191""5Use classes from the Java API instead of Sun classes.(ñÜ¸†
-Rsquid:S1141ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-€"squid:ClassVariableVisibilityCheckœ"QMake debug a static final constant or non-public and provide accessors if needed.(‰Ä•–
-;squid:S1148ú"#Use a logger to log this exception.(Ç’Çê
-‚squid:S1149ƒ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(òÀÎÊùÿÿÿÿ
-‚squid:S1149‰"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ï½¡Ùşÿÿÿÿ
-|squid:S1149´"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰í÷"
-P
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(üÀúè
-U
-squid:S106Õ"9Replace this use of System.out or System.err by a logger.(•¥†Äşÿÿÿÿ
-U
-squid:S106Ù"9Replace this use of System.out or System.err by a logger.(‡ÇÕºşÿÿÿÿ
->squid:S2129å"!Remove this "Integer" constructor(ÅŸ®ùÿÿÿÿ
-]squid:CallToDeprecatedMethodå"/Remove this use of "Integer"; it is deprecated.(ÅŸ®ùÿÿÿÿ
-Rsquid:S1133¦"5Do not forget to remove this deprecated code someday.(×ö‚©üÿÿÿÿ
-Usquid:MissingDeprecatedCheck¦"'Add the missing @Deprecated annotation.(×ö‚©üÿÿÿÿ
-P
-squid:S106Ë"9Replace this use of System.out or System.err by a logger.(¬Ñ´·
->squid:S2129Ó"!Remove this "Integer" constructor(ÅŸ®ùÿÿÿÿ
-]squid:CallToDeprecatedMethodÓ"/Remove this use of "Integer"; it is deprecated.(ÅŸ®ùÿÿÿÿ
->squid:S2129á"!Remove this "Integer" constructor(ŠáÈÆıÿÿÿÿ
-]squid:CallToDeprecatedMethodá"/Remove this use of "Integer"; it is deprecated.(ŠáÈÆıÿÿÿÿ
->squid:S2129î"!Remove this "Integer" constructor(úĞÄŸùÿÿÿÿ
-]squid:CallToDeprecatedMethodî"/Remove this use of "Integer"; it is deprecated.(úĞÄŸùÿÿÿÿ
-Msquid:S1133û"5Do not forget to remove this deprecated code someday.(£Âöâ
-Psquid:MissingDeprecatedCheckû"'Add the missing @Deprecated annotation.(£Âöâ
-9squid:S2129¸"!Remove this "Boolean" constructor(®•ïƒ
-Xsquid:CallToDeprecatedMethod¸"/Remove this use of "Boolean"; it is deprecated.(®•ïƒ
-9squid:S2129È"!Remove this "Boolean" constructor(€‘ñö
-Xsquid:CallToDeprecatedMethodÈ"/Remove this use of "Boolean"; it is deprecated.(€‘ñö
-Rsquid:S1133Ô"5Do not forget to remove this deprecated code someday.(íæ€ùøÿÿÿÿ
-Usquid:MissingDeprecatedCheckÔ"'Add the missing @Deprecated annotation.(íæ€ùøÿÿÿÿ
-P
-squid:S106ì"9Replace this use of System.out or System.err by a logger.(ÑÖß±
-Rsquid:S1854“":Remove this useless assignment to local variable "absURI".(øÔäí
-Lsquid:S1133´"5Do not forget to remove this deprecated code someday.(‰í÷"
-Osquid:MissingDeprecatedCheck´"'Add the missing @Deprecated annotation.(‰í÷"
-9squid:S2129æ"!Remove this "Boolean" constructor(¯­ù«
-Xsquid:CallToDeprecatedMethodæ"/Remove this use of "Boolean"; it is deprecated.(¯­ù«
->squid:S2129ò"!Remove this "Boolean" constructor(Ü´îúÿÿÿÿÿ
-]squid:CallToDeprecatedMethodò"/Remove this use of "Boolean"; it is deprecated.(Ü´îúÿÿÿÿÿ
-Rsquid:S1133€"5Do not forget to remove this deprecated code someday.(õ¶ïúÿÿÿÿ
-Usquid:MissingDeprecatedCheck€"'Add the missing @Deprecated annotation.(õ¶ïúÿÿÿÿ
-jsquid:HiddenFieldCheck”"BRename "staticCatalog" which hides the field declared at line 250.(ÀšØüÿÿÿÿ
->squid:S2129±"!Remove this "Boolean" constructor(õ‚å¾ûÿÿÿÿ
-]squid:CallToDeprecatedMethod±"/Remove this use of "Boolean"; it is deprecated.(õ‚å¾ûÿÿÿÿ
->squid:S2129¾"!Remove this "Boolean" constructor(¯…ü³ûÿÿÿÿ
-]squid:CallToDeprecatedMethod¾"/Remove this use of "Boolean"; it is deprecated.(¯…ü³ûÿÿÿÿ
-Msquid:S1133Ê"5Do not forget to remove this deprecated code someday.(æ‹ø•
-Psquid:MissingDeprecatedCheckÊ"'Add the missing @Deprecated annotation.(æ‹ø•
-isquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(«Ä•s
-9squid:S2129Ü"!Remove this "Boolean" constructor(Öã£Æ
-Xsquid:CallToDeprecatedMethodÜ"/Remove this use of "Boolean"; it is deprecated.(Öã£Æ
-hsquid:HiddenFieldCheckâ"ERename "catalogClassName" which hides the field declared at line 265.(ÔÌ€¿
-asquid:CallToDeprecatedMethodè"3Remove this use of "newInstance"; it is deprecated.(··õÿÿÿÿÿ
-Ssquid:S2696ş"6Make the enclosing method "static" or remove this set.(ÍúÆ™øÿÿÿÿ
-9squid:S2129”"!Remove this "Boolean" constructor(Öã£Æ
-Xsquid:CallToDeprecatedMethod”"/Remove this use of "Boolean"; it is deprecated.(Öã£Æ
-Ssquid:S2696š"6Make the enclosing method "static" or remove this set.(ÍúÆ™øÿÿÿÿ
->squid:S2129Î"!Remove this "Boolean" constructor(°°°Óüÿÿÿÿ
-]squid:CallToDeprecatedMethodÎ"/Remove this use of "Boolean"; it is deprecated.(°°°Óüÿÿÿÿ
->squid:S2129Ş"!Remove this "Boolean" constructor(ÎáÚĞÿÿÿÿÿ
-]squid:CallToDeprecatedMethodŞ"/Remove this use of "Boolean"; it is deprecated.(ÎáÚĞÿÿÿÿÿ
-Msquid:S1133ê"5Do not forget to remove this deprecated code someday.(•ÃèŠ
-Psquid:MissingDeprecatedCheckê"'Add the missing @Deprecated annotation.(•ÃèŠ
-Rsquid:S1133¥"5Do not forget to remove this deprecated code someday.(±˜’øÿÿÿÿ
-Usquid:MissingDeprecatedCheck¥"'Add the missing @Deprecated annotation.(±˜’øÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

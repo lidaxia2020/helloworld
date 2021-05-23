@@ -1,9 +1,0 @@
-
-Lsquid:S1191+"5Use classes from the Java API instead of Sun classes.(éª‚€
-csquid:S00112`"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
-rsquid:S00115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãñÁÒ
-ksquid:S00100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüºõûÿÿÿÿ
-?squid:S1659¸""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
-?squid:S1659Ï""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
-?squid:S1659ì""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ
-?squid:S1659‰""Declare "next" on a separate line.(Ä±‚Îøÿÿÿÿ

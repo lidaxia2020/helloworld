@@ -1,58 +1,0 @@
-
-9squid:S1643Ù"Use a StringBuilder instead.(ô‚÷‹øÿÿÿÿ
-9squid:S1643Û"Use a StringBuilder instead.(¥¸×‡üÿÿÿÿ
-9squid:S1643İ"Use a StringBuilder instead.(ÚìÑşÿÿÿÿ
-9squid:S1643ß"Use a StringBuilder instead.(·ô—¼ûÿÿÿÿ
-9squid:S1643á"Use a StringBuilder instead.(Éï„¡şÿÿÿÿ
-9squid:S1643ã"Use a StringBuilder instead.(åÀÑ‘üÿÿÿÿ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‹µ›äûÿÿÿÿ
-u
-squid:S135œ"YReduce the total number of break and continue statements in this loop to use at most one.(Ûõ±øÿÿÿÿ
-p
-squid:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(Ê¼Ì±
-@squid:S1148ø"#Use a logger to log this exception.(¡ªÃ—ÿÿÿÿÿ
-@squid:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-vsquid:S1149~"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÂÔˆ‘
-wsquid:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«˜Œé
-wsquid:S1149Ğ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(şİ¼Ø
-¿%squid:RedundantThrowsDeclarationCheckq"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(±ÿ€
-jsquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(—˜­¥
-jsquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(…ú®š
-P
-squid:S106Í"9Replace this use of System.out or System.err by a logger.(½„¤
-P
-squid:S106×"9Replace this use of System.out or System.err by a logger.(‘™üÊ
-U
-squid:S106å"9Replace this use of System.out or System.err by a logger.(Óæ˜şÿÿÿÿ
-U
-squid:S106é"9Replace this use of System.out or System.err by a logger.(û£ªŒüÿÿÿÿ
-P
-squid:S106í"9Replace this use of System.out or System.err by a logger.(£Ù¨
-P
-squid:S106î"9Replace this use of System.out or System.err by a logger.(’†Àû
-U
-squid:S106ğ"9Replace this use of System.out or System.err by a logger.(¾ùê¤üÿÿÿÿ
-U
-squid:S106ò"9Replace this use of System.out or System.err by a logger.(±«§¢ùÿÿÿÿ
-P
-squid:S106ó"9Replace this use of System.out or System.err by a logger.(Å´³Ù
-U
-squid:S106ú"9Replace this use of System.out or System.err by a logger.(îÖ³›øÿÿÿÿ
-P
-squid:S106ü"9Replace this use of System.out or System.err by a logger.(£æÊƒ
-P
-squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(ÿ¨©ğ
-U
-squid:S106€"9Replace this use of System.out or System.err by a logger.(§î÷²ıÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(­‡Æáşÿÿÿÿ
-À%squid:RedundantThrowsDeclarationCheck–"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¼Š³Â
-À%squid:RedundantThrowsDeclarationCheckº"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(Éİõì
-Å%squid:RedundantThrowsDeclarationCheckÄ"Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException' which is a runtime exception.(¤Œ·æûÿÿÿÿ
-U
-squid:S106ä"9Replace this use of System.out or System.err by a logger.(ï»ˆÑıÿÿÿÿ
-P
-squid:S106å"9Replace this use of System.out or System.err by a logger.(×•œ²
-U
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

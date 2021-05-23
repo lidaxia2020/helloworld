@@ -1,11 +1,0 @@
-
-Lsquid:S1191R"5Use classes from the Java API instead of Sun classes.(Ç¬‘
-~"squid:ClassVariableVisibilityCheckf"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
-‚"squid:ClassVariableVisibilityChecki"TMake publicId a static final constant or non-public and provide accessors if needed.(ÀºÂñ
-‡"squid:ClassVariableVisibilityCheckl"TMake systemId a static final constant or non-public and provide accessors if needed.(ÈÿÆµùÿÿÿÿ
-‹"squid:ClassVariableVisibilityChecko"XMake baseSystemId a static final constant or non-public and provide accessors if needed.(‰‹şÿÿÿÿ
-‚"squid:ClassVariableVisibilityCheckr"TMake notation a static final constant or non-public and provide accessors if needed.(³¢Ü¼
-~"squid:ClassVariableVisibilityChecku"PMake isPE a static final constant or non-public and provide accessors if needed.(¬àÈ˜
-‰"squid:ClassVariableVisibilityChecky"VMake inExternal a static final constant or non-public and provide accessors if needed.(ò¦‚Äúÿÿÿÿ
-"squid:ClassVariableVisibilityCheck|"QMake value a static final constant or non-public and provide accessors if needed.(çªÆà
-Usquid:S00107¥"<Method has 8 parameters, which is greater than 7 authorized.(çˆò©

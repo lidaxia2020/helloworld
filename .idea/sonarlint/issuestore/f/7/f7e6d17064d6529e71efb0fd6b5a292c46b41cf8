@@ -1,5 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ðá
-msquid:S1206ƒ"PThis class overrides "hashCode()" and should therefore also override "equals()".(êì²³ÿÿÿÿÿ
-rsquid:S1201’"UEither override Object.equals(Object), or rename the method to prevent any confusion.(óºÙ¤ÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

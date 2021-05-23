@@ -1,20 +1,0 @@
-
-Qsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
-Jsquid:S1199š"-Extract this nested code block into a method.(„Ú„£ıÿÿÿÿ
-Esquid:S1199"-Extract this nested code block into a method.(Â«®Í
-Jsquid:S1199¢"-Extract this nested code block into a method.(›¬¥îûÿÿÿÿ
-nsquid:S1149ı"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ïÒˆç
-wsquid:S1149û"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
-°%squid:RedundantThrowsDeclarationCheck¢"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÇöÍÖ
-µ%squid:RedundantThrowsDeclarationCheck¼"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ìƒúïøÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÕ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÇöÍÖ
-µ%squid:RedundantThrowsDeclarationCheckï"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ìƒúïøÿÿÿÿ
-jsquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ñÏ¯Á
-Q"squid:SwitchLastCaseIsDefaultCheck™""Add a default case to this switch.(×Ë³Ğ
-µ%squid:RedundantThrowsDeclarationCheckÅ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Csquid:S1905Ø"+Remove this unnecessary cast to "String[]".(ó¶Ïª
-Ê%squid:RedundantThrowsDeclarationCheckñ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheck‰"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Hsquid:S1905©"+Remove this unnecessary cast to "String[]".(§ğ×öÿÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckÂ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Esquid:S2447æ"-Null is returned but a "Boolean" is expected.(¥¹ï

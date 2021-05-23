@@ -1,7 +1,0 @@
-
-Qsquid:S1191/"5Use classes from the Java API instead of Sun classes.(¸…Áçøÿÿÿÿ
-jsquid:S00116¦"QRename this field "inuse_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¡ü¶
-Msquid:S2446°"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-Msquid:S2446¸"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-jsquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ûÒŒ‘
-Msquid:S2446×"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ

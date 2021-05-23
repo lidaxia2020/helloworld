@@ -1,15 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
-ssquid:S00116Ä"URename this field "m_iterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»µ‘Éşÿÿÿÿ
-Isquid:S1948Ä",Make "m_iterator" transient or serializable.(»µ‘Éşÿÿÿÿ
-Qsquid:S1161N":Add the "@Override" annotation above this method signature(Ê–Ï™
-Qsquid:S1161]":Add the "@Override" annotation above this method signature(¶ÕŠ¹
-Qsquid:S1161l":Add the "@Override" annotation above this method signature(ˆ­¶Ê
-Rsquid:S1161†":Add the "@Override" annotation above this method signature(¿‚­
-Wsquid:S1161¨":Add the "@Override" annotation above this method signature(’” úşÿÿÿÿ
-Rsquid:S1161ò":Add the "@Override" annotation above this method signature(åàœ‘
-Rsquid:S1161‹":Add the "@Override" annotation above this method signature(ÁòÙÃ
-Rsquid:S1161¾":Add the "@Override" annotation above this method signature(áı¼ü
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(Ú°à¬
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Üµ›

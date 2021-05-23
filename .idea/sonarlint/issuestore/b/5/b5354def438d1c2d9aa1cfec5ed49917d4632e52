@@ -1,10 +1,0 @@
-
-Xsquid:S2184Æ"@Cast one of the operands of this addition operation to a "long".(Ù¨æé
-Fsquid:S1125Ù")Remove the literal "false" boolean value.(†ï’úÿÿÿÿ
-"squid:SwitchLastCaseIsDefaultCheck£"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶Ô‡´ÿÿÿÿÿ
-"squid:SwitchLastCaseIsDefaultCheck¾"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÍÂŠºøÿÿÿÿ
-ˆ"squid:SwitchLastCaseIsDefaultCheckå"YComplete cases by adding the missing enum constants or add a default case to this switch.(°åÎğ
-Csquid:S1905Ÿ	"&Remove this unnecessary cast to "int".(Œäïùÿÿÿÿ
-Fsquid:S1125ã
-")Remove the literal "false" boolean value.(í—ÿûÿÿÿÿ
-ˆ"squid:SwitchLastCaseIsDefaultCheckµ"YComplete cases by adding the missing enum constants or add a default case to this switch.(°åÎğ

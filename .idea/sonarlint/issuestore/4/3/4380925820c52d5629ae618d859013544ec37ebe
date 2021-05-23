@@ -1,7 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-Tsquid:S1197s"8Move the array designator from the variable to the type.(…Şıÿÿÿÿ
-psquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(¯ÔÚ“ùÿÿÿÿ
-Csquid:S1905“"+Remove this unnecessary cast to "IntStack".(üÿ“·
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

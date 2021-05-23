@@ -1,16 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckŽ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÂÉüè
-Š squid:ForLoopCounterChangedCheck’"XRefactor the code in order to not assign to this loop counter from within the loop body.(Üñ¨’úÿÿÿÿ
-Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-^$squid:AssignmentInSubExpressionCheckz".Extract the assignment out of this expression.(¬½æÝ
-osquid:S00116G"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÙ©óùÿÿÿÿ
-lsquid:S00116O"TRename this field "_iterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò’×½
-lsquid:S00116V"ORename this field "_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â’“Ðùÿÿÿÿ
-Vsquid:S1161`":Add the "@Override" annotation above this method signature(¿çß¤ÿÿÿÿÿ
-Qsquid:S1161f":Add the "@Override" annotation above this method signature(À÷ÖÚ
-Rsquid:S1161„":Add the "@Override" annotation above this method signature(üÿÆ‰
-Dsquid:S1068V"(Remove this unused "_pos" private field.(Â’“Ðùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-bsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(ð×¼ë
-csquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(§”€Š
-bsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(Þ±ÝF

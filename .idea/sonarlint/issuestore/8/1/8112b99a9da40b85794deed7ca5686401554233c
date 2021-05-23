@@ -1,43 +1,0 @@
-
-Msquid:S1191Å	"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
-d$squid:AssignmentInSubExpressionCheckğ".Extract the assignment out of this expression.(Å…‘Šúÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck„".Extract the assignment out of this expression.(Å…‘Šúÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck‚	".Extract the assignment out of this expression.(ÀˆÀ¨
-_$squid:AssignmentInSubExpressionCheck‰	".Extract the assignment out of this expression.(¥²ª
-_$squid:AssignmentInSubExpressionCheck’	".Extract the assignment out of this expression.(ƒàµ¿
-Tsquid:S2589‰"7Remove this expression which always evaluates to "true"(’¯Ö³ùÿÿÿÿ
-Rsquid:S2222É";Unlock this lock along all executions paths of this method.(¤­k
-_squid:S00112Î	"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-xsquid:S00115Æ	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Úš›Ğıÿÿÿÿ
-Dsquid:S1905È"-Remove this unnecessary cast to "Comparator".(²Ò­
-Jsquid:S1905Î"-Remove this unnecessary cast to "Comparator".(ŒÍÉûıÿÿÿÿ
-jsquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(—§¼¿
->squid:S1659Ê"!Declare "cap" on a separate line.(µäûµÿÿÿÿÿ
-\squid:HiddenFieldCheckÈ"9Rename "lock" which hides the field declared at line 216.(º·úã
-P
-squid:S899ë":Do something with the "boolean" value returned by "offer".(ÕÅ
-\squid:HiddenFieldCheck†"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheck"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheck"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheck«"9Rename "lock" which hides the field declared at line 216.(º·úã
-Csquid:S1452Á"&Remove usage of generic wildcard type.(âäıÿÿÿÿ
-\squid:HiddenFieldCheckÆ"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheck•"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheck©"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheckÅ"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheckä"9Rename "lock" which hides the field declared at line 216.(º·úã
-Rsquid:S1161í":Add the "@Override" annotation above this method signature(Á»›ê
-\squid:HiddenFieldCheckî"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheck"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheck³"9Rename "lock" which hides the field declared at line 216.(º·úã
-\squid:HiddenFieldCheckô"9Rename "lock" which hides the field declared at line 216.(º·úã
-Wsquid:S1161²":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-qsquid:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÎà¢
-=squid:S1659‡	" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ
->squid:S1659‡	"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ
-qsquid:S2293‰	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥²ª
-Qsquid:S1161	":Add the "@Override" annotation above this method signature(ºˆ¡
-<squid:S1659	"Declare "i" on a separate line.(šÌÕ°øÿÿÿÿ
-=squid:S1659	" Declare "hi" on a separate line.(šÌÕ°øÿÿÿÿ
-Wsquid:S1161À	":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
-vsquid:S2293Á	"YReplace the type specification in this constructor call with the diamond operator ("<>").(£€şøÿÿÿÿ

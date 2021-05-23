@@ -1,14 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰ÛˆÙøÿÿÿÿ
-esquid:S2259Ÿ"HA "NullPointerException" could be thrown; "javaMethod" is nullable here.(òŸ§˜ûÿÿÿÿ
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¹Â"
-bsquid:UselessImportCheck,">Remove this unused import 'org.omg.PortableServer.POAManager'.(¼Í
-xsquid:UselessImportCheck/"TRemove this unused import 'com.sun.corba.se.spi.presentation.rmi.IDLNameTranslator'.(àíÚ
-qsquid:UselessImportCheck6"HRemove this unused import 'com.sun.corba.se.impl.oa.poa.POAManagerImpl'.(­Â÷ûÿÿÿÿ
-^squid:UselessImportCheck"5Remove this unused import 'java.rmi.RemoteException'.(Ä÷àÿÿÿÿÿ
-`squid:UselessImportCheck+"7Remove this unused import 'org.omg.PortableServer.POA'.(µÀÜ„ùÿÿÿÿ
-asquid:S2147k"ECombine this catch with the one at line 105, which has the same body.(ø–ìóùÿÿÿÿ
-asquid:S2147m"ECombine this catch with the one at line 105, which has the same body.(Êù–•ûÿÿÿÿ
-Psquid:S1854x"9Remove this useless assignment to local variable "myORB".(§”ÁĞ
-bsquid:S2147"ECombine this catch with the one at line 153, which has the same body.(«ÇÕúÿÿÿÿ
-Asquid:S1481x"*Remove this unused "myORB" local variable.(§”ÁĞ

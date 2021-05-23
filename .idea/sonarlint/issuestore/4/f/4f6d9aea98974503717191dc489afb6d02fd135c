@@ -1,36 +1,0 @@
-
-Msquid:S1191ˆ"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
-_$squid:AssignmentInSubExpressionCheck…".Extract the assignment out of this expression.(îÀ«Š
-d$squid:AssignmentInSubExpressionCheckã".Extract the assignment out of this expression.(ëÙ¶Õúÿÿÿÿ
-p
-squid:S135±"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-_squid:S00112‘"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-xsquid:UselessImportCheck*"TRemove this unnecessary import: same package classes are always implicitly imported.(Æ™ş
-xsquid:UselessImportCheck+"TRemove this unnecessary import: same package classes are always implicitly imported.(£‡Ì
-xsquid:S00115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ãŸÅøÿÿÿÿ
-jsquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Óµ®ç
-asquid:HiddenFieldCheckû"9Rename "root" which hides the field declared at line 453.(ç¨ı’ûÿÿÿÿ
-osquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ËÊ”Áúÿÿÿÿ
-csquid:HiddenFieldCheck¯";Rename "parent" which hides the field declared at line 445.(ğÄâ·ûÿÿÿÿ
-asquid:HiddenFieldCheckğ"9Rename "root" which hides the field declared at line 453.(ç¨ı’ûÿÿÿÿ
-7squid:S1659ó"Declare "p" on a separate line.(‹–Ï¢
-asquid:S3358û"DExtract this nested ternary operation into an independent statement.(ø×òúÿÿÿÿ
-\squid:HiddenFieldCheckÂ"9Rename "root" which hides the field declared at line 453.(¾ÄÚ¾
-vsquid:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÎı´ûÿÿÿÿ
-vsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºµéŞûÿÿÿÿ
-osquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(«Ûïêùÿÿÿÿ
-asquid:HiddenFieldCheckØ"9Rename "root" which hides the field declared at line 453.(ç¨ı’ûÿÿÿÿ
-asquid:HiddenFieldCheck‹"9Rename "root" which hides the field declared at line 453.(ç¨ı’ûÿÿÿÿ
-asquid:HiddenFieldCheckª"9Rename "root" which hides the field declared at line 453.(ç¨ı’ûÿÿÿÿ
-asquid:HiddenFieldCheckÔ"9Rename "root" which hides the field declared at line 453.(ç¨ı’ûÿÿÿÿ
-asquid:HiddenFieldCheckó"9Rename "root" which hides the field declared at line 453.(ç¨ı’ûÿÿÿÿ
-jsquid:S3776•
-"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(‡ÌîÒ
-csquid:S2142µ
-"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
-Fsquid:S3077Ô
-".Remove the "volatile" keyword from this field.(¤¦ßŒ
-Xsquid:UnusedPrivateMethodÓ"-Remove this unused private "queueFor" method.(³ÔÓÿüÿÿÿÿ
-bsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(„Ú¡
-bsquid:CommentedOutCodeLine–
-"<This block of commented-out lines of code should be removed.(ìµı

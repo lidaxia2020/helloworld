@@ -1,34 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-_squid:S1192å"GDefine a constant instead of duplicating this literal "<init>" 3 times.(ŒåƒÉ
-Gsquid:S1066û"/Merge this if statement with the enclosing one.(‘Ô”µ
-Ysquid:S2259“"BA "NullPointerException" could be thrown; "name" is nullable here.(Œ÷Ïy
-Ysquid:S2259‘"BA "NullPointerException" could be thrown; "name" is nullable here.(´–¿"
-Vsquid:S1155Ú">Use isEmpty() to check whether the collection is empty or not.(ö­ÿ£
-msquid:S00116N"PRename this field "_axis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºí‹ıÿÿÿÿ
-ssquid:S00116V"VRename this field "_predicates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ìà•ıÿÿÿÿ
-qsquid:S00116`"YRename this field "_hadPredicates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø’ç„
-lsquid:S00116h"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­½¾
-squid:S1149V"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‹ìà•ıÿÿÿÿ
-|squid:S1149j"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­ğ“ş
-}squid:S1149¦"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÜËè”
-}squid:S1149°"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥–À±
-‚squid:S1149Ä"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºÕÂ‘şÿÿÿÿ
-|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ê¦…Òøÿÿÿÿ
-Qsquid:S1161v":Add the "@Override" annotation above this method signature(­‘“
-Wsquid:S1161‰":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Rsquid:S1161²":Add the "@Override" annotation above this method signature(†“‹Ø
-osquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ôº½¦úÿÿÿÿ
-h
-squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(İ–Ò˜ÿÿÿÿÿ
-h
-squid:S128‚"LEnd this switch case with an unconditional break, return or throw statement.(±³Ğùÿÿÿÿ
-Hsquid:S4524"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
-osquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(˜Õ–•şÿÿÿÿ
-Bsquid:S00108ô")Either remove or fill this block of code.(ºÆ’¼
-[squid:UnusedPrivateMethodã"0Remove this unused private "isPredicate" method.(æ’±øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(‰¥ößúÿÿÿÿ
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(‰¥ößúÿÿÿÿ
-bsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Å›«
-hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(§„ã“úÿÿÿÿ

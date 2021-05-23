@@ -1,15 +1,0 @@
-
-3squid:S2326Y"T is not used in the method.(øÏœ¹
-8squid:S2326g"T is not used in the method.(Óû¼ãÿÿÿÿÿ
-8squid:S2326u"T is not used in the method.(¼ òöıÿÿÿÿ
-Esquid:S1905–"-Remove this unnecessary cast to "Comparator".(®Òóª
-bsquid:S00119¹"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÂŸ¾Ş
-gsquid:S00119ã"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¯…„êùÿÿÿÿ
-gsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ö—…Õøÿÿÿÿ
-gsquid:S00119·"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(®Ù«˜ùÿÿÿÿ
-ksquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(éŠùÚ
-vsquid:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏŠò”üÿÿÿÿ
-vsquid:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏŠò”üÿÿÿÿ
-psquid:ModifiersOrderCheckã"EReorder the modifiers to comply with the Java Language Specification.(ê àÒşÿÿÿÿ
-jsquid:ModifiersOrderCheckÎ"EReorder the modifiers to comply with the Java Language Specification.(âØÂ-
-psquid:ModifiersOrderCheck¹"EReorder the modifiers to comply with the Java Language Specification.(ù·Ï¾øÿÿÿÿ

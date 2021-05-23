@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÍÊÛ³
-Qsquid:S1141m"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-dsquid:S2259€"GA "NullPointerException" could be thrown; "arguments" is nullable here.(É×„Íúÿÿÿÿ
-wsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½ˆŸ‰
-£%squid:RedundantThrowsDeclarationCheck\"mRemove the declaration of thrown exception 'java.util.MissingResourceException' which is a runtime exception.(¥˜‹—úÿÿÿÿ
-nsquid:S3776["RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(íÏ©¤úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

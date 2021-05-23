@@ -1,17 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-lsquid:S1192»"UDefine a constant instead of duplicating this literal "InetAddress is null." 3 times.(÷İ†x
-Rsquid:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ğ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141ù"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÉˆÓÿÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheck|"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ÕŒùˆ
-¤%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ºßÈŒıÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck¢"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ßóÓ¯
-Ÿ%squid:RedundantThrowsDeclarationCheck“"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ĞéúÇ
-Ÿ%squid:RedundantThrowsDeclarationCheck´"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ĞéúÇ
-osquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ØŞ÷áùÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck¸"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-Isquid:S1481±",Remove this unused "address" local variable.(ßö…Åıÿÿÿÿ

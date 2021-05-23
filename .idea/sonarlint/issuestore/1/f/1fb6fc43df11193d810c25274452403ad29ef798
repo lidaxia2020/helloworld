@@ -1,8 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(áŽóš
-gsquid:S001168"ORename this field "_req" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®†±þ
-lsquid:S001169"ORename this field "_orb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿôë‰ýÿÿÿÿ
-rsquid:S00116:"URename this field "_notifyORB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õøÂøüÿÿÿÿ
-Ksquid:EmptyStatementUsageCheckA"Remove this empty statement.(ôŸŽìúÿÿÿÿ
-Dsquid:S1125^"(Remove the literal "true" boolean value.(ã»¡€øÿÿÿÿ
-Ksquid:EmptyStatementUsageCheckc"Remove this empty statement.(ôŸŽìúÿÿÿÿ

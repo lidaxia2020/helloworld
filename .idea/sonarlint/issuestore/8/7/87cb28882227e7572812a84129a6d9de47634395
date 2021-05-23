@@ -1,104 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
-esquid:S1192¸"NDefine a constant instead of duplicating this literal ": !!ERROR!!: " 7 times.(Ø˜
-isquid:S1192Ş"QDefine a constant instead of duplicating this literal ".handleRequest: " 4 times.(“Á©Ã
-{squid:S1192"^Define a constant instead of duplicating this literal ".getServiceContextsForReply: " 3 times.(‘£­Ëÿÿÿÿÿ
-csquid:S1301¸"KReplace this "switch" statement by "if" statements to increase readability.(â’·“
-[squid:S2583å"DChange this condition so that it does not always evaluate to "false"(ï›¥A
-Rsquid:S1141ª"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-_squid:S00107®"AConstructor has 9 parameters, which is greater than 7 authorized.(À¦ò§øÿÿÿÿ
-dsquid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(¶¶‰äşÿÿÿÿ
-dsquid:S00112’"FDefine and throw a dedicated exception instead of using a generic one.(•½•Àúÿÿÿÿ
-isquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¤¬
-}squid:UselessImportChecke"TRemove this unnecessary import: same package classes are always implicitly imported.(–ö€ùÿÿÿÿ
-}squid:UselessImportCheckf"TRemove this unnecessary import: same package classes are always implicitly imported.(ÙÉöÔûÿÿÿÿ
-Xsquid:UselessImportCheck)"4Remove this unused import 'org.omg.CORBA.Principal'.(Ğ¢Áš
-}squid:UselessImportCheckP"TRemove this unused import 'com.sun.corba.se.spi.transport.CorbaResponseWaitingRoom'.(”ûğ˜üÿÿÿÿ
-Wsquid:UselessImportCheck("3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-squid:UselessImportCheckd"VRemove this unused import 'com.sun.corba.se.impl.ior.iiop.JavaSerializationComponent'.(ÃÖàïùÿÿÿÿ
-jsquid:UselessImportCheckD"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.IIOPProfile'.(ÍˆÌ
-<squid:S2131‡"Use "Integer.toString" instead.(×ƒÄçşÿÿÿÿ
-<squid:S2131‹"Use "Integer.toString" instead.(Êóğõıÿÿÿÿ
-<squid:S2131"Use "Integer.toString" instead.(š…—½ıÿÿÿÿ
-“squid:S00116¦"uRename this field "_executeReturnServantInResponseConstructor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã·›×ùÿÿÿÿ
-–squid:S00116§"xRename this field "_executeRemoveThreadInfoInResponseConstructor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»íòïıÿÿÿÿ
-ˆsquid:S00116¨"jRename this field "_executePIInResponseConstructor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Şº²úÿÿÿÿ
-wsquid:S1149Ó"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-Bsquid:S1172¢"*Remove this unused method parameter "ior".(§ÎÆ
-Lsquid:EmptyStatementUsageCheckÓ"Remove this empty statement.(Åñ­õşÿÿÿÿ
-›squid:S1158‡"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(×ƒÄçşÿÿÿÿ
-›squid:S1158‹"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(Êóğõıÿÿÿÿ
-›squid:S1158"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(š…—½ıÿÿÿÿ
-Bsquid:S1181÷"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181Œ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181µ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181Õ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181…"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181£"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181½"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181Ô"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181ô"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181‘	"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181¨	"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181Å	"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181‹
-"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-csquid:HiddenFieldCheckß	"@Rename "inputObject" which hides the field declared at line 149.(ŒòÔ
-Bsquid:S1181Ù
-"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-csquid:HiddenFieldCheck©
-"@Rename "inputObject" which hides the field declared at line 149.(ŸŞÆ…
-Bsquid:S1181ü
-"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-P
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(Ç­ï³
-Zsquid:S1854„"=Remove this useless assignment to local variable "requestId".(“÷çôşÿÿÿÿ
-Bsquid:S1181·"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181¯"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181Ê"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Bsquid:S1181Å"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-[squid:HiddenFieldCheckÓ"8Rename "orb" which hides the field declared at line 142.(š£Ùƒ
-isquid:HiddenFieldCheckî"ARename "outputObject" which hides the field declared at line 148.(†„Á†üÿÿÿÿ
-[squid:HiddenFieldCheckø"8Rename "orb" which hides the field declared at line 142.(š£Ùƒ
-[squid:HiddenFieldCheck™"8Rename "orb" which hides the field declared at line 142.(š£Ùƒ
-[squid:HiddenFieldCheckÁ"8Rename "orb" which hides the field declared at line 142.(š£Ùƒ
-isquid:HiddenFieldCheck‚"ARename "outputObject" which hides the field declared at line 148.( ÊÊ™ÿÿÿÿÿ
-isquid:HiddenFieldCheck–"ARename "outputObject" which hides the field declared at line 148.(äììøÿÿÿÿ
-3squid:S3626ü"Remove this redundant jump.(ûÁİ…
-3squid:S3626ˆ"Remove this redundant jump.(ûÁİ…
-Bsquid:S1181ş"%Catch Exception instead of Throwable.(¥‹êüÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck¸""Add a default case to this switch.(â’·“
-hsquid:HiddenFieldCheckº"@Rename "replyHeader" which hides the field declared at line 152.(šÌ„“ıÿÿÿÿ
-isquid:HiddenFieldCheckÂ"ARename "outputObject" which hides the field declared at line 148.( ÊÊ™ÿÿÿÿÿ
-[squid:HiddenFieldCheckÖ"8Rename "orb" which hides the field declared at line 142.(è«âÆ
-=squid:S1181è"%Catch Exception instead of Throwable.(âÂéî
-Xsquid:S1193ë"@Replace the usage of the "instanceof" operator by a catch block.(«ëâ
-]squid:S1193í"@Replace the usage of the "instanceof" operator by a catch block.(Ğıç‚ÿÿÿÿÿ
-^squid:UnusedPrivateMethodŠ"8Remove this unused private "throwNotImplemented" method.(©³¼Ì
-hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(úóóĞıÿÿÿÿ
-bsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š¸Àn
-csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(Ì¢ùÂ
-bsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine”	"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine«	"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLineË	"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(š¸Àn
-hsquid:CommentedOutCodeLineÌ
-"<This block of commented-out lines of code should be removed.(üº–¾ıÿÿÿÿ
-bsquid:CommentedOutCodeLineß
-"<This block of commented-out lines of code should be removed.(š¸Àn
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š¸Àn
-csquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(©…Şõ
-hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(Àì‹¹şÿÿÿÿ
-csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(ã´ü°
-csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(òÆö²

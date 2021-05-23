@@ -1,185 +1,0 @@
-
-Lsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(Ç¬‘
-esquid:S1192û"HDefine a constant instead of duplicating this literal "#PCDATA" 5 times.(ºıœåÿÿÿÿÿ
-^squid:S1192¥"FDefine a constant instead of duplicating this literal "##any" 5 times.(àü…
-hsquid:S1192¢"KDefine a constant instead of duplicating this literal "##any:uri=" 3 times.(ŸÄÍ—ûÿÿÿÿ
-Esquid:S1199÷"-Extract this nested code block into a method.(É»Ï
-Esquid:S1199‚"-Extract this nested code block into a method.(çİè˜
-Jsquid:S1199˜"-Extract this nested code block into a method.(°¨ğ¾ùÿÿÿÿ
-Esquid:S1199º"-Extract this nested code block into a method.(…¿“Õ
-Jsquid:S1199Ü"-Extract this nested code block into a method.(§Ê­ùÿÿÿÿ
-Jsquid:S1199á"-Extract this nested code block into a method.(¡…µÆÿÿÿÿÿ
-Jsquid:S1199é"-Extract this nested code block into a method.(Å·¨ıÿÿÿÿ
-Jsquid:S1199î"-Extract this nested code block into a method.(ÉŞáüÿÿÿÿ
-Jsquid:S1199ò"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Esquid:S1199¹"-Extract this nested code block into a method.(É»Ï
-Esquid:S1199È"-Extract this nested code block into a method.(çİè˜
-Jsquid:S1199Ø"-Extract this nested code block into a method.(°¨ğ¾ùÿÿÿÿ
-Esquid:S1199è"-Extract this nested code block into a method.(…¿“Õ
-Jsquid:S1199ú"-Extract this nested code block into a method.(§Ê­ùÿÿÿÿ
-Jsquid:S1199"-Extract this nested code block into a method.(¡…µÆÿÿÿÿÿ
-Jsquid:S1199—"-Extract this nested code block into a method.(Å·¨ıÿÿÿÿ
-Jsquid:S1199œ"-Extract this nested code block into a method.(ÉŞáüÿÿÿÿ
-Jsquid:S1199 "-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-|squid:S1488ˆ"_Immediately return this expression instead of assigning it to the temporary variable "mapping".(Ô¢Şèÿÿÿÿÿ
-†"squid:ClassVariableVisibilityCheckù"RMake length a static final constant or non-public and provide accessors if needed.(‰´Íüÿÿÿÿ
-€"squid:ClassVariableVisibilityCheck€"QMake qname a static final constant or non-public and provide accessors if needed.(é™®
-"squid:ClassVariableVisibilityCheckƒ"PMake type a static final constant or non-public and provide accessors if needed.(—ŸóÑ
-Vsquid:S4973¿"9Use the "equals" method if value comparison was intended.(ö»íÈúÿÿÿÿ
-Vsquid:S4973Í"9Use the "equals" method if value comparison was intended.(¿È±éüÿÿÿÿ
-Vsquid:S4973ì"9Use the "equals" method if value comparison was intended.(¿È±éüÿÿÿÿ
-dsquid:S00112ú"FDefine and throw a dedicated exception instead of using a generic one.(êÛËıÿÿÿÿ
-^squid:S00112×"FDefine and throw a dedicated exception instead of using a generic one.(ÆÙÜA
-^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ß§ı
-^squid:S00112İ"FDefine and throw a dedicated exception instead of using a generic one.(ß§ı
-_squid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(ìáÃ
-™squid:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùÈ¢â
-˜squid:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õÖË
-™squid:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥áÃÊ
-˜squid:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õˆí,
-™squid:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ùšüó
-squid:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘È ®úÿÿÿÿ
-™squid:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë±ŸÎ
-™squid:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İœ–
-™squid:S1186±
-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øÑíş
-™squid:S1186Á
-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŞÛ·ı
-™squid:S1186Î
-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Œ³
-™squid:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(è”’ø
-ssquid:S1149Ö"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(®›Íùÿÿÿÿ
-wsquid:S1149ó"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
-|squid:S1149´"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡»—Íşÿÿÿÿ
-Usquid:S1197Ë"8Move the array designator from the variable to the type.(€º˜¯ûÿÿÿÿ
-Usquid:S1197Õ"8Move the array designator from the variable to the type.(¶Ëü©ÿÿÿÿÿ
-Psquid:S1197Ş"8Move the array designator from the variable to the type.(Åí¹
-Usquid:S1197ç"8Move the array designator from the variable to the type.(–òøÿÿÿÿ
-Usquid:S1197ê"8Move the array designator from the variable to the type.(ı–ıÄşÿÿÿÿ
-Psquid:S1197í"8Move the array designator from the variable to the type.(‘ŠùÅ
-Psquid:S1197õ"8Move the array designator from the variable to the type.(Å›¢
-Usquid:S1197‚"8Move the array designator from the variable to the type.(ÀúÂàûÿÿÿÿ
-Osquid:S1197…"8Move the array designator from the variable to the type.(æ¾Í
-Usquid:S1197†"8Move the array designator from the variable to the type.(ÑãÂÿÿÿÿÿ
-Usquid:S1197‡"8Move the array designator from the variable to the type.(±¨ß•øÿÿÿÿ
-Osquid:S1197ˆ"8Move the array designator from the variable to the type.(º‚Ä
-Usquid:S1197‰"8Move the array designator from the variable to the type.(‰“Æıÿÿÿÿ
-Usquid:S1197Š"8Move the array designator from the variable to the type.(§§Õ–ÿÿÿÿÿ
-Psquid:S1197“"8Move the array designator from the variable to the type.(¯³Í³
-Psquid:S1197”"8Move the array designator from the variable to the type.(€ƒı¥
-Psquid:S1197•"8Move the array designator from the variable to the type.(«¶¿Á
-Psquid:S1197š"8Move the array designator from the variable to the type.(˜Ö€
-Psquid:S1197¦"8Move the array designator from the variable to the type.(‘„¨
-Psquid:S1197ë"8Move the array designator from the variable to the type.(£‹ò
-Usquid:S1197ñ"8Move the array designator from the variable to the type.(‘áÔ¨ıÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckŞ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¸şÌ‡
-µ%squid:RedundantThrowsDeclarationCheckƒ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckµ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(°ı¿Í
-°%squid:RedundantThrowsDeclarationCheckÈ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÍ¨´
-µ%squid:RedundantThrowsDeclarationCheckÚ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Nsquid:S2692û"10 is a valid index, but is ignored by this check.(ºıœåÿÿÿÿÿ
-P
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(®Ø“÷
-U
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(À²ÛÎúÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck¸"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¼ûĞñ
-osquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(œ»Âúÿÿÿÿ
-U
-squid:S106ä"9Replace this use of System.out or System.err by a logger.(ÊÑÁåÿÿÿÿÿ
-Nsquid:S2692ò"10 is a valid index, but is ignored by this check.(Å¹êúÿÿÿÿ
-csquid:S3027ò"FPut single-quotes around 'S' to use the faster "indexOf(char)" method.(Å¹êúÿÿÿÿ
-P
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ßÖ¡Í
-µ%squid:RedundantThrowsDeclarationCheck³"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÕ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck÷"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck—"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck¯"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(’«‹Í
-@squid:S1659´"#Declare "index" on a separate line.(ü¬”èüÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckã"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
-¯%squid:RedundantThrowsDeclarationCheckñ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(õÖË
-°%squid:RedundantThrowsDeclarationCheck‹"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ü©Í–
-°%squid:RedundantThrowsDeclarationCheck›"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
-°%squid:RedundantThrowsDeclarationCheck§"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ùšüó
-°%squid:RedundantThrowsDeclarationCheckº"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
-°%squid:RedundantThrowsDeclarationCheckÈ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Î£›ğ
-°%squid:RedundantThrowsDeclarationCheckÔ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(İœ–
-µ%squid:RedundantThrowsDeclarationCheckó"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Û‹«
-µ%squid:RedundantThrowsDeclarationCheck¥	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(³Æ¯åúÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck¶	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ëñ¶„úÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÖ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ŒäÉ˜
-°%squid:RedundantThrowsDeclarationCheckü	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(˜€…
-µ%squid:RedundantThrowsDeclarationCheck•
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ƒ­ıÿÿÿÿ
-fsquid:HiddenFieldCheck›
-">Rename "nodeIndex" which hides the field declared at line 375.(à‚Ãîşÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck±
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(øÑíş
-°%squid:RedundantThrowsDeclarationCheckÁ
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ŞÛ·ı
-°%squid:RedundantThrowsDeclarationCheckÎ
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¹Œ³
-Xsquid:S1126Ã"AReplace this if-then-else statement by a single return statement.(˜Âî#
-Asquid:S1125÷")Remove the literal "false" boolean value.(ÿ–¥œ
-Asquid:S1125ø")Remove the literal "false" boolean value.(ÕÎ¡ï
-jsquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(çà’‡
-U
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(’¡«ˆÿÿÿÿÿ
-U
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(“öœùÿÿÿÿ
-U
-squid:S106’"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ
-P
-squid:S106”"9Replace this use of System.out or System.err by a logger.(”¶¼§
-P
-squid:S106•"9Replace this use of System.out or System.err by a logger.(Äş­·
-U
-squid:S106™"9Replace this use of System.out or System.err by a logger.(Ø–ªùÿÿÿÿ
-P
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(Û®÷â
-Esquid:S1125"(Remove the literal "true" boolean value.(¸»Ñşÿÿÿÿ
-osquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÈøºÜøÿÿÿÿ
-U
-squid:S106¯"9Replace this use of System.out or System.err by a logger.(–µé›ıÿÿÿÿ
-P
-squid:S106°"9Replace this use of System.out or System.err by a logger.(ÆİÓï
-P
-squid:S106±"9Replace this use of System.out or System.err by a logger.(ëÒìì
-isquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ò©Ô3
-3squid:S3626È"Remove this redundant jump.(ûÁİ…
-3squid:S3626æ"Remove this redundant jump.(ûÁİ…
-3squid:S3626€"Remove this redundant jump.(ûÁİ…
-3squid:S3626’"Remove this redundant jump.(ûÁİ…
-3squid:S3626¢"Remove this redundant jump.(ûÁİ…
-Psquid:S1197«"8Move the array designator from the variable to the type.(»íàë
-Psquid:S1197¬"8Move the array designator from the variable to the type.(úğÑÔ
-Usquid:S1197±"8Move the array designator from the variable to the type.(¿€É”øÿÿÿÿ
-Psquid:S1197²"8Move the array designator from the variable to the type.(©öÁÓ
-Usquid:S1197·"8Move the array designator from the variable to the type.(‹¡È‘ÿÿÿÿÿ
-Usquid:S1197¸"8Move the array designator from the variable to the type.(¯…¡ÿÿÿÿÿ
-Usquid:S1197½"8Move the array designator from the variable to the type.(ÎŞè§ıÿÿÿÿ
-Usquid:S1197¾"8Move the array designator from the variable to the type.(ë¸Çæøÿÿÿÿ
-Usquid:S1197Ã"8Move the array designator from the variable to the type.(‡¹èİùÿÿÿÿ
-Usquid:S1197Ä"8Move the array designator from the variable to the type.(µ¹™¹úÿÿÿÿ
-Psquid:S1197É"8Move the array designator from the variable to the type.(¢¨
-Psquid:S1197Ê"8Move the array designator from the variable to the type.(®ö…Ê
-Psquid:S1197Ï"8Move the array designator from the variable to the type.(õËÙî
-Psquid:S1197Ğ"8Move the array designator from the variable to the type.(¹ğ§¢
-Usquid:S1197Õ"8Move the array designator from the variable to the type.(”¹¥—úÿÿÿÿ
-Usquid:S1197Ö"8Move the array designator from the variable to the type.(Ç­·Öüÿÿÿÿ
-Usquid:S1197Û"8Move the array designator from the variable to the type.(‰ÅÊÃøÿÿÿÿ
-Usquid:S1197Ü"8Move the array designator from the variable to the type.(ñ—Ôıÿÿÿÿ
-™squid:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øüÕ§
-@squid:S1125û"(Remove the literal "true" boolean value.(”şÆ
-@squid:S1125„"(Remove the literal "true" boolean value.(úŞ
-Nsquid:S1068Ç"1Remove this unused "fEpsilonIndex" private field.(Àş„«ıÿÿÿÿ
-Lsquid:S1068Í"/Remove this unused "fEntityDecl" private field.(ƒÄÿŞÿÿÿÿÿ
-hsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(Ü³ûÔøÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öØ¸‡
-hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(Î§ŒÅşÿÿÿÿ
-csquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(±¸¸è
-hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(Ûºóæÿÿÿÿÿ
-hsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(Ûê¢€øÿÿÿÿ
-bsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(ßÌö~

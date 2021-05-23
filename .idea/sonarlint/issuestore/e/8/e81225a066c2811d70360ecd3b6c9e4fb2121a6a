@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
-Qsquid:S4973Ô"9Use the "equals" method if value comparison was intended.(¹ÄÄ³
-Qsquid:S4973Ù"9Use the "equals" method if value comparison was intended.(‹¸˜°
-˜squid:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È¾Ï
-isquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Í÷ÿ/
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

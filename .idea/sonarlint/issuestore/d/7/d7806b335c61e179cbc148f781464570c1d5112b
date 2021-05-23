@@ -1,13 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
-Qsquid:S1141q"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-‚squid:UselessImportCheck'"^Remove this unused import 'com.sun.corba.se.spi.protocol.LocalClientRequestDispatcherFactory'.(£€ìö
-_squid:UselessImportCheck ";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-_squid:UselessImportCheck"6Remove this unused import 'org.omg.CORBA.OBJ_ADAPTER'.(Çğ¯¹øÿÿÿÿ
-{squid:UselessImportCheck&"WRemove this unused import 'com.sun.corba.se.spi.protocol.LocalClientRequestDispatcher'.(ğµ£Ã
-[squid:UselessImportCheck"2Remove this unused import 'org.omg.CORBA.UNKNOWN'.(œœõ–ùÿÿÿÿ
-Zsquid:S2142ˆ"=Either re-interrupt this method or rethrow the "ThreadDeath".(ö¤êùÿÿÿÿ
-Bsquid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-<squid:S1181u"%Catch Exception instead of Throwable.(âÂéî
-]squid:S1193‘"@Replace the usage of the "instanceof" operator by a catch block.(³êíÃúÿÿÿÿ
-bsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(óˆË‚

@@ -1,6 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÎÚ¶…øÿÿÿÿ
-Osquid:S1197."8Move the array designator from the variable to the type.(ÅçÆŠ
-jsquid:ModifiersOrderCheck."EReorder the modifiers to comply with the Java Language Specification.(ÅçÆŠ
-Qsquid:S1161Q":Add the "@Override" annotation above this method signature(ß›‘‰
-Qsquid:S1161U":Add the "@Override" annotation above this method signature(¿Æüè

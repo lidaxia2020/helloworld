@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-asquid:S3973Ï"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
-isquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¨ãÚ
-msquid:S00116c"URename this field "basic_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß—ºê
-|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-Rsquid:S1161Æ":Add the "@Override" annotation above this method signature(ûû¦ø
-Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(’äÖúÿÿÿÿ

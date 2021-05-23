@@ -1,15 +1,0 @@
-
-[squid:S2184·"CCast one of the operands of this subtraction operation to a "long".(ŸšĞ®
-Qsquid:S1191C"5Use classes from the Java API instead of Sun classes.(¸±ôöüÿÿÿÿ
-esquid:S1192·"HDefine a constant instead of duplicating this literal " bytes)" 3 times.(êÂçøÿÿÿÿ
-gsquid:S1192·"JDefine a constant instead of duplicating this literal " but got " 3 times.(êÂçøÿÿÿÿ
-xsquid:S1192É"[Define a constant instead of duplicating this literal "invalid compression method" 3 times.(¿ ·õÿÿÿÿÿ
-wsquid:S00115@"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰âúÿÿÿÿ
-|squid:S1149Q"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ºÓ­±
-jsquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ëŠ‡¤
-jsquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(­í§·
-Rsquid:S1161ğ":Add the "@Override" annotation above this method signature(¿Æüè
-Qsquid:S1161›":Add the "@Override" annotation above this method signature(›¬¯`
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
-jsquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ØĞ÷Ó
-jsquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(üŞê»

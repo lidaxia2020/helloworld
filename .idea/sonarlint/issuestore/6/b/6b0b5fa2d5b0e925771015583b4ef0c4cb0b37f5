@@ -1,39 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckÔ"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÃ¯ú
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ì—ğá
-Qsquid:S4973Ú"9Use the "equals" method if value comparison was intended.(¯é
-jsquid:S00101E"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®–›‡şÿÿÿÿ
-@squid:S1148ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-asquid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(Ü÷ÿıÿÿÿÿ
-jsquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(¥§¿x
-psquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(Ñ’‚»ûÿÿÿÿ
-Isquid:S1905ƒ",Remove this unnecessary cast to "XMLReader".(¯Èø¸ıÿÿÿÿ
-\squid:S2147•"ECombine this catch with the one at line 273, which has the same body.(Ù›Û[
-Dsquid:S1905",Remove this unnecessary cast to "XMLReader".(óŞøÖ
-Dsquid:S1905 ",Remove this unnecessary cast to "XMLReader".(ø×ùÌ
-]squid:S2147ã"ECombine this catch with the one at line 353, which has the same body.(Ãôş•
-_squid:HiddenFieldCheck‚"<Rename "noparms" which hides the field declared at line 403.(µù¿³
-£%squid:RedundantThrowsDeclarationCheck–"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ıëÀô
-%squid:RedundantThrowsDeclarationCheck–"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıëÀô
-Gsquid:S1905œ"*Remove this unnecessary cast to "Boolean".(ÿÚ‹Ìúÿÿÿÿ
-lsquid:S00100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Õğüÿÿÿÿ
-Usquid:S1197­"8Move the array designator from the variable to the type.(†Õğüÿÿÿÿ
-P
-squid:S106¯"9Replace this use of System.out or System.err by a logger.(ÜÜÀ¥
-U
-squid:S106µ"9Replace this use of System.out or System.err by a logger.(‡µîÒüÿÿÿÿ
-^squid:CallToDeprecatedMethod¼"5Remove this use of "XMLSerializer"; it is deprecated.(‚İ¼ë
-csquid:CallToDeprecatedMethod½"5Remove this use of "XMLSerializer"; it is deprecated.(ö™¢øÿÿÿÿ
-U
-squid:S106½"9Replace this use of System.out or System.err by a logger.(ö™¢øÿÿÿÿ
-U
-squid:S106Ï"9Replace this use of System.out or System.err by a logger.(…‡µîøÿÿÿÿ
-P
-squid:S106Ü"9Replace this use of System.out or System.err by a logger.(¯¬ş´
-U
-squid:S106ß"9Replace this use of System.out or System.err by a logger.(™å³’şÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(½ÔÚÆúÿÿÿÿ
-hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(—µšıøÿÿÿÿ
-csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(ÄáŒ
-hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ØÁÙ¹şÿÿÿÿ

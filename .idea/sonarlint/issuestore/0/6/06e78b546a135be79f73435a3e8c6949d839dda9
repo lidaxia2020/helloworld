@@ -1,12 +1,0 @@
-
-Lsquid:S1191	"5Use classes from the Java API instead of Sun classes.(ŞÄÿá
-rsquid:S1192r"VDefine a constant instead of duplicating this literal "prepareAndSendRequest" 3 times.(·àù·ûÿÿÿÿ
-xsquid:S1488º"[Immediately return this expression instead of assigning it to the temporary variable "str".(«ô¸Úúÿÿÿÿ
-squid:S1149""eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ü¢¹øÿÿÿÿ
-}squid:S1149¤"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ó©åì
-}squid:S1149®"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñÇğÿ
-]squid:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-isquid:S3776C"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“–ış
-=squid:S1181b"!Catch Exception instead of Error.(Â¯¸êûÿÿÿÿ
-?squid:S1125M"(Remove the literal "true" boolean value.(öà•ß
-?squid:S1125u"(Remove the literal "true" boolean value.(²øºÂ

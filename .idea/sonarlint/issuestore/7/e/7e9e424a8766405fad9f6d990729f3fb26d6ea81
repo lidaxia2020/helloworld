@@ -1,17 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
-u
-squid:S135Ö"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-Qsquid:S1118.":Add a private constructor to hide the implicit public one.(×¼­Æ
-usquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ÃÖ¶ûÿÿÿÿ
-psquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(äïì
-usquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(åœáóøÿÿÿÿ
-osquid:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(½×À
-usquid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‡‡İûÿÿÿÿ
-psquid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÉËÀ
-usquid:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç°¿¡şÿÿÿÿ
-usquid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åè™Ìøÿÿÿÿ
-usquid:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÎçĞÿÿÿÿÿ
-jsquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ãù‹Ü
-bsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(¶ÍÄÛ
-hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ÜàÖèùÿÿÿÿ

@@ -1,17 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ú¹ç²
-?squid:S1604D"(Make this anonymous inner class a lambda(Ùš±¬
-?squid:S1604Q"(Make this anonymous inner class a lambda(Ùš±¬
-?squid:S1604^"(Make this anonymous inner class a lambda(Ùš±¬
-?squid:S1604n"(Make this anonymous inner class a lambda(Ùš±¬
-@squid:S1604ˆ"(Make this anonymous inner class a lambda(Ùš±¬
-@squid:S1604—"(Make this anonymous inner class a lambda(Ùš±¬
-@squid:S1604 "(Make this anonymous inner class a lambda(Ùš±¬
-Fsquid:S00108I")Either remove or fill this block of code.(Ô˜’Çýÿÿÿÿ
-Fsquid:S00108V")Either remove or fill this block of code.(Ô˜’Çýÿÿÿÿ
-Fsquid:S00108c")Either remove or fill this block of code.(Ô˜’Çýÿÿÿÿ
-9squid:S2129™"!Remove this "Boolean" constructor(‰Õ‹Â
-Xsquid:CallToDeprecatedMethod™"/Remove this use of "Boolean"; it is deprecated.(‰Õ‹Â
-6squid:S2129¢"Remove this "Long" constructor(Ã”½¸
-Usquid:CallToDeprecatedMethod¢",Remove this use of "Long"; it is deprecated.(Ã”½¸
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

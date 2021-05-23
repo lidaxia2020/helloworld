@@ -1,14 +1,0 @@
-
-‰ squid:ForLoopCounterChangedCheckj"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ…¿¥úÿÿÿÿ
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199¢"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Â"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-isquid:S001168"QRename this field "m_Root" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‹ß­
-nsquid:S00116;"WRename this field "m_charBuffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş	
-nsquid:S00116î"URename this field "m_nextChar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‚‰§
-jsquid:S00116ñ"RRename this field "m_Value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‘=
-Psquid:S1197î"8Move the array designator from the variable to the type.(ƒ‚‰§
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(Ú°à¬
-csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(ƒäòº

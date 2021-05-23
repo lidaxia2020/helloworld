@@ -1,25 +1,0 @@
-
-Lsquid:S11915"5Use classes from the Java API instead of Sun classes.(Ìôéœ
-Fsquid:S1066ó"/Merge this if statement with the enclosing one.(ñÆ!
-ssquid:S1488Ğ"[Immediately return this expression instead of assigning it to the temporary variable "ucl".(Ù à§
-ssquid:S1488î"[Immediately return this expression instead of assigning it to the temporary variable "ucl".(Ù à§
-Esquid:S1604"(Make this anonymous inner class a lambda(åâÄ®ûÿÿÿÿ
-Esquid:S1604±"(Make this anonymous inner class a lambda(åâÄ®ûÿÿÿÿ
-?squid:S1604Ñ"(Make this anonymous inner class a lambda(¦”Î
-?squid:S1604ï"(Make this anonymous inner class a lambda(¦”Î
-Rsquid:UselessImportCheck.".Remove this unused import 'java.util.Objects'.(¼¸õ›
-Wsquid:S1161“":Add the "@Override" annotation above this method signature(šÅ†øûÿÿÿÿ
-Rsquid:S1161¦":Add the "@Override" annotation above this method signature(õïìØ
-`squid:CallToDeprecatedMethodÎ"2Remove this use of "getPackage"; it is deprecated.(õ±İíøÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck³"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-osquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­•’Òúÿÿÿÿ
-Fsquid:S1659¶")Declare "specVersion" on a separate line.(‹ë ©úÿÿÿÿ
-Esquid:S1659¶"(Declare "specVendor" on a separate line.(‹ë ©úÿÿÿÿ
-Asquid:S1659·")Declare "implVersion" on a separate line.(›ûÈÀ
-@squid:S1659·"(Declare "implVendor" on a separate line.(›ûÈÀ
-Rsquid:S1161…":Add the "@Override" annotation above this method signature(‚´‘Í
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(ã€ı†ûÿÿÿÿ
-osquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(»ş¾¼üÿÿÿÿ
-Wsquid:S1161ñ":Add the "@Override" annotation above this method signature(»ş¾¼üÿÿÿÿ
-˜%squid:RedundantThrowsDeclarationCheck¬"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ßŠ›…
-Wsquid:S1161’":Add the "@Override" annotation above this method signature(ï›Œ³øÿÿÿÿ

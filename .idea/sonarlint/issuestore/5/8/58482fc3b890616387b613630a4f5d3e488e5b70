@@ -1,16 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
-Vsquid:S11187":Add a private constructor to hide the implicit public one.(¹¬Ò“ùÿÿÿÿ
-ssquid:S00115¹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç—úë
-Vsquid:S1161f":Add the "@Override" annotation above this method signature(¿˜œÔşÿÿÿÿ
-Qsquid:S1161w":Add the "@Override" annotation above this method signature(›™¥…
-fsquid:S3551ˆ"IMake this method "synchronized" to match the parent class implementation.(ˆÂ¤áÿÿÿÿÿ
-Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(ˆÂ¤áÿÿÿÿÿ
-Rsquid:S1161¡":Add the "@Override" annotation above this method signature(¶øÂÁ
-\squid:CallToDeprecatedMethod©"3Remove this use of "modelToView"; it is deprecated.(À¡ÑË
-Zsquid:CallToDeprecatedMethodÂ"1Remove this use of "CTRL_MASK"; it is deprecated.(ûÀıé
-[squid:CallToDeprecatedMethodÅ"2Remove this use of "SHIFT_MASK"; it is deprecated.(åÛö
-[squid:CallToDeprecatedMethodÈ"2Remove this use of "SHIFT_MASK"; it is deprecated.(åÛö
-[squid:CallToDeprecatedMethodË"2Remove this use of "SHIFT_MASK"; it is deprecated.(åÛö
-[squid:CallToDeprecatedMethodÎ"2Remove this use of "SHIFT_MASK"; it is deprecated.(åÛö
-hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ø´æËıÿÿÿÿ

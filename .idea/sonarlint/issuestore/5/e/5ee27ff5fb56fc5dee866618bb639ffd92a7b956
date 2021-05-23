@@ -1,111 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬è‹«ûÿÿÿÿ
-gsquid:S1192¶"JDefine a constant instead of duplicating this literal "firstPos=" 4 times.(Æ—ºèÿÿÿÿÿ
-bsquid:S1192¸"JDefine a constant instead of duplicating this literal " lastPos=" 4 times.(¢Ä¢Ö
-Fsquid:S1066ş"/Merge this if statement with the enclosing one.(ûë…$
-Gsquid:S1066İ"/Merge this if statement with the enclosing one.(ûóÑ
-Fsquid:S1066÷"/Merge this if statement with the enclosing one.(ûë…$
-Lsquid:S1066Ş"/Merge this if statement with the enclosing one.(Àä­ˆûÿÿÿÿ
-Gsquid:S1066¿	"/Merge this if statement with the enclosing one.(º¾‡ƒ
-Jsquid:S1199­"-Extract this nested code block into a method.(‚ÔÄ—ùÿÿÿÿ
-Jsquid:S1199Á"-Extract this nested code block into a method.(÷Ğóûÿÿÿÿ
-Jsquid:S1199Ï"-Extract this nested code block into a method.(éÀ‹‘ûÿÿÿÿ
-Jsquid:S1199ë"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-u
-squid:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(ä…àëÿÿÿÿÿ
-u
-squid:S135ë"YReduce the total number of break and continue statements in this loop to use at most one.(ÂÜÈ›şÿÿÿÿ
-p
-squid:S135Œ
-"YReduce the total number of break and continue statements in this loop to use at most one.(µÁÇ¡
-dsquid:S00112ì"FDefine and throw a dedicated exception instead of using a generic one.(ÍÒ÷Ïøÿÿÿÿ
-dsquid:S00112¤	"FDefine and throw a dedicated exception instead of using a generic one.(ÍÒ÷Ïøÿÿÿÿ
-osquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŠÒ‰ÿÿÿÿÿ
-usquid:S1450q"YRemove the "fElemMapId" field and declare it as a local variable in the relevant methods.(…Óç‚øÿÿÿÿ
-psquid:S1450“"XRemove the "fHeadNode" field and declare it as a local variable in the relevant methods.(œÉé›
-‚squid:S1149‹
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ú•ş¨ùÿÿÿÿ
-Nsquid:S1197`"8Move the array designator from the variable to the type.(¶ÃÂ
-Osquid:S1197i"8Move the array designator from the variable to the type.(˜úê£
-Tsquid:S1197q"8Move the array designator from the variable to the type.(…Óç‚øÿÿÿÿ
-Osquid:S1197~"8Move the array designator from the variable to the type.(‡óŞä
-Psquid:S1197ˆ"8Move the array designator from the variable to the type.(Œ‡Šä
-Psquid:S1197¥"8Move the array designator from the variable to the type.(ëÂäí
-Psquid:S1197¨"8Move the array designator from the variable to the type.(Äö†¦
-Usquid:S1197¼"8Move the array designator from the variable to the type.(÷©ÄÓüÿÿÿÿ
-Usquid:S1197é"8Move the array designator from the variable to the type.(×èñÚüÿÿÿÿ
-Usquid:S1197ô"8Move the array designator from the variable to the type.(Ä ¸«øÿÿÿÿ
-Osquid:S1197€"8Move the array designator from the variable to the type.(ÜÔ·g
-9squid:S3010«"!Remove this assignment of "time".(‹ºŸ
->squid:S3010±"!Remove this assignment of "time".(íä‘øÿÿÿÿ
-P
-squid:S106²"9Replace this use of System.out or System.err by a logger.(²ØÃä
-Asquid:S1125È")Remove the literal "false" boolean value.(İ†À¦
-osquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(ã©¡¼şÿÿÿÿ
-isquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ã˜·{
-jsquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(¦Ôü·
-U
-squid:S106ß"9Replace this use of System.out or System.err by a logger.(ÆÁ‚Íùÿÿÿÿ
-9squid:S2129‚"!Remove this "Integer" constructor(ß–©
-Xsquid:CallToDeprecatedMethod‚"/Remove this use of "Integer"; it is deprecated.(ß–©
-P
-squid:S106¦"9Replace this use of System.out or System.err by a logger.(×•œ²
-U
-squid:S106¯"9Replace this use of System.out or System.err by a logger.(€›Ğÿÿÿÿÿ
-U
-squid:S106±"9Replace this use of System.out or System.err by a logger.(ï¿íÚÿÿÿÿÿ
-U
-squid:S106´"9Replace this use of System.out or System.err by a logger.(”Ø×şûÿÿÿÿ
-U
-squid:S106¶"9Replace this use of System.out or System.err by a logger.(Æ—ºèÿÿÿÿÿ
-U
-squid:S106·"9Replace this use of System.out or System.err by a logger.(Ï•äºÿÿÿÿÿ
-P
-squid:S106¸"9Replace this use of System.out or System.err by a logger.(¢Ä¢Ö
-P
-squid:S106¹"9Replace this use of System.out or System.err by a logger.(ƒ£«í
-U
-squid:S106Â"9Replace this use of System.out or System.err by a logger.(ôÅÌèÿÿÿÿÿ
-U
-squid:S106Å"9Replace this use of System.out or System.err by a logger.(”Ø×şûÿÿÿÿ
-U
-squid:S106Ç"9Replace this use of System.out or System.err by a logger.(Æ—ºèÿÿÿÿÿ
-U
-squid:S106È"9Replace this use of System.out or System.err by a logger.(Ï•äºÿÿÿÿÿ
-P
-squid:S106É"9Replace this use of System.out or System.err by a logger.(¢Ä¢Ö
-P
-squid:S106Ê"9Replace this use of System.out or System.err by a logger.(ƒ£«í
-O
-squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(¢ø¨L
-U
-squid:S106Û"9Replace this use of System.out or System.err by a logger.(”Ø×şûÿÿÿÿ
-U
-squid:S106İ"9Replace this use of System.out or System.err by a logger.(Æ—ºèÿÿÿÿÿ
-U
-squid:S106Ş"9Replace this use of System.out or System.err by a logger.(Ï•äºÿÿÿÿÿ
-P
-squid:S106ß"9Replace this use of System.out or System.err by a logger.(¢Ä¢Ö
-P
-squid:S106à"9Replace this use of System.out or System.err by a logger.(ƒ£«í
-P
-squid:S106ä"9Replace this use of System.out or System.err by a logger.(æ±‹
-U
-squid:S106æ"9Replace this use of System.out or System.err by a logger.(Æ—ºèÿÿÿÿÿ
-U
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(Ï•äºÿÿÿÿÿ
-P
-squid:S106è"9Replace this use of System.out or System.err by a logger.(¢Ä¢Ö
-P
-squid:S106é"9Replace this use of System.out or System.err by a logger.(ƒ£«í
-—%squid:RedundantThrowsDeclarationCheck„	"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(ô•œ£
-jsquid:S3776²	"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Ä¨ßû
-Usquid:S1197·	"8Move the array designator from the variable to the type.(„™‡˜şÿÿÿÿ
-squid:S3252ì	"bUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "NSCONSTRAINT_LIST".(ŒŒçµúÿÿÿÿ
-~squid:S3252í	"aUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "NSCONSTRAINT_NOT".(ˆÅØ°ùÿÿÿÿ
-osquid:S3776ƒ
-"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(÷„éíøÿÿÿÿ
-Psquid:S1068İ"3Remove this unused "fTransTableSize" private field.(º­Èıÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(±š‡£
-hsquid:CommentedOutCodeLineß	"<This block of commented-out lines of code should be removed.(—ó†•ùÿÿÿÿ

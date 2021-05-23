@@ -1,6 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(…çº
-Ø%squid:RedundantThrowsDeclarationCheckL"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ÿ‘À¿
-Ø%squid:RedundantThrowsDeclarationCheckc"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ÿ‘À¿
-∞%squid:RedundantThrowsDeclarationCheckÉ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ÿ‘À¿
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

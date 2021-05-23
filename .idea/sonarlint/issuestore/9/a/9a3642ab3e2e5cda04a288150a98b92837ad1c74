@@ -1,4 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ƒúÇö
-"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(Ú¥à™
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒúÇö

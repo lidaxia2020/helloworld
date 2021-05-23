@@ -1,18 +1,0 @@
-
-u
-squid:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(ê©Äùÿÿÿÿ
-@squid:S1125õ")Remove the literal "false" boolean value.(ÃŞ
-jsquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(Øı
-g squid:LabelsShouldNotBeUsedCheckÆ";Refactor the code to remove this label and the need for it.(àÏÅ)
-Fsquid:S1125Ğ")Remove the literal "false" boolean value.(¬©£Íıÿÿÿÿ
-Fsquid:S1125è")Remove the literal "false" boolean value.(©Äøûÿÿÿÿ
-Asquid:S1125¢")Remove the literal "false" boolean value.(¿¹ß½
-Asquid:S1125¦")Remove the literal "false" boolean value.(øº¤¿
-osquid:S3776®"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(òóÂÏüÿÿÿÿ
-osquid:S3776™"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(î³Ùúÿÿÿÿ
-bsquid:HiddenFieldCheckÜ"?Rename "excessDays" which hides the field declared at line 210.(Ş¦öÒ
-Fsquid:S1125ï")Remove the literal "false" boolean value.(º‚¥ùÿÿÿÿ
-@squid:S1125›")Remove the literal "false" boolean value.(ª²ù/
-Fsquid:S1125")Remove the literal "false" boolean value.(…¡ğ«øÿÿÿÿ
-Fsquid:S1125")Remove the literal "false" boolean value.(…¡ğ«øÿÿÿÿ
-Fsquid:S1125")Remove the literal "false" boolean value.(…¡ğ«øÿÿÿÿ

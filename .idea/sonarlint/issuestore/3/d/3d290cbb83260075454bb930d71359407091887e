@@ -1,7 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(è©ª
-Š squid:ForLoopCounterChangedCheck©"XRefactor the code in order to not assign to this loop counter from within the loop body.( ²«Öùÿÿÿÿ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(–èœıÿÿÿÿ
-Esquid:S1604ö"(Make this anonymous inner class a lambda(ã‰ùÁûÿÿÿÿ
-?squid:S1604í"(Make this anonymous inner class a lambda(ÆŞÖ
-¶%squid:RedundantThrowsDeclarationCheck®"ƒRemove the declaration of thrown exception 'java.lang.invoke.LambdaConversionException', as it cannot be thrown from method's body.(œí¸Ì

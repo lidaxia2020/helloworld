@@ -1,27 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-€"squid:ClassVariableVisibilityCheck@"SMake version a static final constant or non-public and provide accessors if needed.(“™•*
-ƒ"squid:ClassVariableVisibilityCheckM"PMake data a static final constant or non-public and provide accessors if needed.(–òÍŞûÿÿÿÿ
-‰"squid:ClassVariableVisibilityCheckU"VMake dataLength a static final constant or non-public and provide accessors if needed.(æé»ÿûÿÿÿÿ
-†"squid:ClassVariableVisibilityCheck_"SMake address a static final constant or non-public and provide accessors if needed.(ÏÜíııÿÿÿÿ
-~"squid:ClassVariableVisibilityChecki"PMake port a static final constant or non-public and provide accessors if needed.(ô‚‚ğ
-‘"squid:ClassVariableVisibilityCheckp"^Make securityParameters a static final constant or non-public and provide accessors if needed.(ª¾üÿÿÿÿ
-}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ñ°ÒÉşÿÿÿÿ
-xsquid:UselessImportCheck$"TRemove this unnecessary import: same package classes are always implicitly imported.(‰¨„Õ
-wsquid:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ı™š
-wsquid:S1149“"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-|squid:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÑÊ®(
-Gsquid:S00108‰")Either remove or fill this block of code.(È¾¤¯øÿÿÿÿ
-osquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ï›–¤ÿÿÿÿÿ
-psquid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÊ®(
-osquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¼‚Ğ¬ùÿÿÿÿ
-csquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(Ù±
-csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(Ùşä’
-hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(Ã–ûÿÿÿÿ
-bsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(—Ä¯z
-csquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(Ñ‚˜®
-csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(şêÆ
-hsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(ÃËºÕøÿÿÿÿ
-csquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(ÉÆ¿ú
-hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(³ÈŒ¡şÿÿÿÿ
-hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ÿø’óüÿÿÿÿ

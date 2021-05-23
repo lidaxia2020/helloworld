@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(úÊÛí
-¿%squid:RedundantThrowsDeclarationCheckP"ˆRemove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.dv.DVFactoryException' which is a runtime exception.(Ëõ…­ûÿÿÿÿ
-osquid:ModifiersOrderCheckP"EReorder the modifiers to comply with the Java Language Specification.(Ëõ…­ûÿÿÿÿ
-¹%squid:RedundantThrowsDeclarationChecka"ˆRemove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.dv.DVFactoryException' which is a runtime exception.(à¤‘y
-isquid:ModifiersOrderChecka"EReorder the modifiers to comply with the Java Language Specification.(à¤‘y
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

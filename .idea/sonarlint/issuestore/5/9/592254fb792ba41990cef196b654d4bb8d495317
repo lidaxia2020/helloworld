@@ -1,38 +1,0 @@
-
-Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒğw
-csquid:S1192†"FDefine a constant instead of duplicating this literal "empty" 9 times.(—Äœ‡ûÿÿÿÿ
-Rsquid:S1141©"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141·"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-jsquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿô…Š
-Osquid:S1197W"8Move the array designator from the variable to the type.(£İÏ¥
-psquid:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò¸í
-Usquid:S1197 "8Move the array designator from the variable to the type.(éÄ§¦üÿÿÿÿ
-Psquid:S1197§"8Move the array designator from the variable to the type.(ˆ”ÂÑ
-qsquid:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(îåÛú
-–%squid:RedundantThrowsDeclarationCheckò"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException'.(ºÊñí
-•%squid:RedundantThrowsDeclarationCheckØ"âRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.MissingResourceFailureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(äÛİş
-•%squid:RedundantThrowsDeclarationCheckù"âRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.MissingResourceFailureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(äÛİş
-osquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(üŠ³µûÿÿÿÿ
-Usquid:S1197‰"8Move the array designator from the variable to the type.(ÙÙÂ…şÿÿÿÿ
-]squid:S2147İ"ECombine this catch with the one at line 475, which has the same body.(‚°„–
-]squid:S2147ß"ECombine this catch with the one at line 475, which has the same body.(¶ùø
-m squid:LabelsShouldNotBeUsedCheck°";Refactor the code to remove this label and the need for it.(Äıöâøÿÿÿÿ
-psquid:CallToDeprecatedMethodÉ"GRemove this use of "MissingResourceFailureException"; it is deprecated.(ˆ¦ÑÛ
-vsquid:CallToDeprecatedMethodÜ"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-vsquid:CallToDeprecatedMethodŞ"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-vsquid:CallToDeprecatedMethodà"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-Usquid:S1197ä"8Move the array designator from the variable to the type.(±éŸ½ùÿÿÿÿ
-psquid:CallToDeprecatedMethodæ"GRemove this use of "MissingResourceFailureException"; it is deprecated.( ã‚ÿ
-Usquid:S1197‘"8Move the array designator from the variable to the type.(õ„´úÿÿÿÿ
-jsquid:CallToDeprecatedMethod—"<Remove this use of "XMLSecurityException"; it is deprecated.(æ”Şìúÿÿÿÿ
-jsquid:CallToDeprecatedMethod"<Remove this use of "XMLSecurityException"; it is deprecated.(ÿ¶ù“úÿÿÿÿ
-vsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸—ñşÿÿÿÿ
-vsquid:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸—ñşÿÿÿÿ
-qsquid:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎòóÙ
-]squid:S2147˜"ECombine this catch with the one at line 662, which has the same body.(€àÈ„
-]squid:S2147š"ECombine this catch with the one at line 662, which has the same body.(¹ƒ›×
-bsquid:S2147œ"ECombine this catch with the one at line 662, which has the same body.(µç‡Šúÿÿÿÿ
-fsquid:CallToDeprecatedMethod—"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethod™"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethod›"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethod"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜

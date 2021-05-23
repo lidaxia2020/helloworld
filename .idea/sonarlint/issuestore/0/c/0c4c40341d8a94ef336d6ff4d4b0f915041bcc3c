@@ -1,19 +1,0 @@
-
-ksquid:S1192£"NDefine a constant instead of duplicating this literal "allPermission" 3 times.(Ÿúí¡ûÿÿÿÿ
-csquid:S1192¢"FDefine a constant instead of duplicating this literal "perms" 6 times.(­’Ôøÿÿÿÿ
-nsquid:S1149·"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ø¡è
-nsquid:S1149Ú"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ø¡è
-vsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶öè–ûÿÿÿÿ
-jsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(áÇ¬à
-Usquid:S1197í"8Move the array designator from the variable to the type.(¿‡†¯üÿÿÿÿ
-Psquid:S1197ï"8Move the array designator from the variable to the type.(¸ô°Ô
-qsquid:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(Şí˜ô
-Hsquid:S1150æ"+Implement Iterator rather than Enumeration.(ñ˜£Ûüÿÿÿÿ
-ssquid:S1149§"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°õ¤Òüÿÿÿÿ
-ssquid:S1149Ä"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°õ¤Òüÿÿÿÿ
-qsquid:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ’
-vsquid:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡õ£¿ûÿÿÿÿ
-Wsquid:S1068¡":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ
-Wsquid:S1068“":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ
-csquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(Êİ€ä
-csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(Êİ€ä

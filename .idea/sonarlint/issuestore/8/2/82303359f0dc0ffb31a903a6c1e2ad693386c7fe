@@ -1,27 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
-ssquid:S00116@"VRename this field "_methodName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßçñ¸üÿÿÿÿ
-Qsquid:S1161^":Add the "@Override" annotation above this method signature(·Áæ
-Vsquid:S1161p":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
-Hsquid:S1172™"+Remove this unused method parameter "type".(×˜ªîúÿÿÿÿ
-Osquid:S1854œ"7Remove this useless assignment to local variable "cpg".(„àü
-Csquid:S1172¯"+Remove this unused method parameter "type".(á¿ï
-Xsquid:S1854»";Remove this useless assignment to local variable "current".(ÿëó¹şÿÿÿÿ
-Hsquid:S1172ğ"+Remove this unused method parameter "type".(§Æò€ùÿÿÿÿ
-Csquid:S1172ƒ"+Remove this unused method parameter "type".(ç¾÷˜
-Xsquid:S1854";Remove this useless assignment to local variable "current".(ÿëó¹şÿÿÿÿ
-Asquid:S1659‹"$Declare "newDom" on a separate line.(³¹¾‰şÿÿÿÿ
-Csquid:S1172ç"+Remove this unused method parameter "type".(À«Ù
-Csquid:S1172›"&Remove these unused method parameters.(˜©Ì¡üÿÿÿÿ
-Qsquid:S1161®":Add the "@Override" annotation above this method signature(¼–Ä=
-Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(˜©Ì¡üÿÿÿÿ
-Wsquid:S1161î":Add the "@Override" annotation above this method signature(÷İšÂûÿÿÿÿ
-Wsquid:S1161ù":Add the "@Override" annotation above this method signature(˜ßÑÇúÿÿÿÿ
-Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(×ãíéûÿÿÿÿ
-Rsquid:S1161‡":Add the "@Override" annotation above this method signature(Ó¤ÍŞ
-Wsquid:S1161‹":Add the "@Override" annotation above this method signature(‚İ±¹ÿÿÿÿÿ
-@squid:S1481œ"(Remove this unused "cpg" local variable.(„àü
-Isquid:S1481»",Remove this unused "current" local variable.(ÿëó¹şÿÿÿÿ
-Isquid:S1481",Remove this unused "current" local variable.(ÿëó¹şÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(èÃ²Ÿøÿÿÿÿ

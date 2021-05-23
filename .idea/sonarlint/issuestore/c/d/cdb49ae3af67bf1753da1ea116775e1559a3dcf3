@@ -1,10 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-zsquid:UselessImportCheck""QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckf"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(–’«Îùÿÿÿÿ
-psquid:S3012m"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¬à¬Š
-£%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ùµ«¤üÿÿÿÿ
-=squid:S2153†" Remove the unboxing from "Byte".(ÿ·Å©ıÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck˜"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ùêßç
-qsquid:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¬à¬Š
-Esquid:S1172ç"(Remove this unused method parameter "l".(ïÇ€ûÿÿÿÿ

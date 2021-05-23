@@ -1,12 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-^$squid:AssignmentInSubExpressionCheckg".Extract the assignment out of this expression.(ãöˆÕ
-Gsquid:S21602"+Override the "equals" method in this class.(Êÿşúÿÿÿÿ
-usquid:S001164"XRename this field "_variableName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¨†ıÿÿÿÿ
-lsquid:S001165"ORename this field "_ref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éõÕÉûÿÿÿÿ
-Ssquid:S1854c"7Remove this useless assignment to local variable "err".(‘Ü•úÿÿÿÿ
-Vsquid:S1161`":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Qsquid:S1161l":Add the "@Override" annotation above this method signature(†“‹Ø
-Qsquid:S1161s":Add the "@Override" annotation above this method signature(Á»›ê
-Dsquid:S1481c"(Remove this unused "err" local variable.(‘Ü•úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

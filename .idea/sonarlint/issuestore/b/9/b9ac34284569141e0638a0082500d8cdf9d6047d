@@ -1,20 +1,0 @@
-
-psquid:S1192ù"XDefine a constant instead of duplicating this literal "Node has been removed." 12 times.(¼¬î
-qsquid:S1192"YDefine a constant instead of duplicating this literal "Listener not registered." 4 times.(Š­Ò³
-Esquid:S1604"(Make this anonymous inner class a lambda(»Üëùÿÿÿÿ
-zsquid:UselessImportCheck!"QRemove this unnecessary import: java.lang classes are always implicitly imported.(šÆ¿ˆıÿÿÿÿ
-usquid:UselessImportCheck""QRemove this unnecessary import: java.lang classes are always implicitly imported.(ÒÖêœ
-usquid:UselessImportCheck#"QRemove this unnecessary import: java.lang classes are always implicitly imported.(˜Ìñ
-zsquid:UselessImportCheck$"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ç…‚ûÿÿÿÿ
->squid:S1075Õ"&Remove this hard-coded path-delimiter.(à÷õ¾
->squid:S1075Ö"&Remove this hard-coded path-delimiter.(ª†¶
-vsquid:S3012Ï"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÖİšÑüÿÿÿÿ
-Bsquid:S00108Ì")Either remove or fill this block of code.(·»û
-jsquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(“–ış
-Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(“–ış
-^squid:S2142Ì"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Msquid:S2446“"0"notify" may not wake up the appropriate thread.(£‚¥®ıÿÿÿÿ
-Msquid:S2446¡"0"notify" may not wake up the appropriate thread.(£‚¥®ıÿÿÿÿ
-Msquid:S2446¯"0"notify" may not wake up the appropriate thread.(£‚¥®ıÿÿÿÿ
-hsquid:CommentedOutCodeLineê	"<This block of commented-out lines of code should be removed.(º¨æÿÿÿÿÿ
-csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(¡·¦»

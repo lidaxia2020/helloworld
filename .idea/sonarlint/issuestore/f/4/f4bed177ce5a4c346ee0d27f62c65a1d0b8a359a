@@ -1,12 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.( Šİ¹ıÿÿÿÿ
-@squid:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-usquid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯™¡Üøÿÿÿÿ
-ksquid:S2975í"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-1squid:S2225ñ"Return a non null object.(¥¹ï
-Lsquid:EmptyStatementUsageCheckô"Remove this empty statement.(ôŸìúÿÿÿÿ
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î­Óë
-Psquid:S1197²"8Move the array designator from the variable to the type.(ı”âğ
-Psquid:S1197³"8Move the array designator from the variable to the type.(Í¡îŸ
-jsquid:S2975Æ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
-1squid:S2225Ò"Return a non null object.(¥¹ï

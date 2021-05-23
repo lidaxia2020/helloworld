@@ -1,18 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-ysquid:S1488ù"aImmediately return this expression instead of assigning it to the temporary variable "codePoint".(ÇìÛã
-ysquid:S1488Œ"aImmediately return this expression instead of assigning it to the temporary variable "codePoint".(¡ë¼
-wsquid:S00115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õàßµøÿÿÿÿ
-ksquid:ModifiersOrderCheckÔ"EReorder the modifiers to comply with the Java Language Specification.(ÊÊÑ…
-ysquid:S00116ë"`Rename this field "_encodingTableKeyJava" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä€µ÷
-~squid:S00116ì"`Rename this field "_encodingTableKeyMime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à³Øáıÿÿÿÿ
-~squid:S00116ñ"`Rename this field "_encodingDynamicTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âå–£úÿÿÿÿ
-psquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(‰Ø‡ùøÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckú"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÎĞŒÿÿÿÿÿ
-Gsquid:S00108€")Either remove or fill this block of code.(ÿëÛßúÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck‘"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(Şİ‚›ùÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¸Î
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(ë¯Ã
-hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ª„åÍúÿÿÿÿ
-csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(¾••ë

@@ -1,256 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‹µ›äûÿÿÿÿ
-dsquid:S1192Û"GDefine a constant instead of duplicating this literal "IsWord" 4 times.(¯œ•ºıÿÿÿÿ
-`squid:S1192ô"HDefine a constant instead of duplicating this literal "IsDigit" 3 times.(úÒ©È
-asquid:S1192ğ"IDefine a constant instead of duplicating this literal "IsXDigit" 4 times.(ª¸ÓÄ
-gsquid:S1192Ø"ODefine a constant instead of duplicating this literal "Not supported." 7 times.(ĞÄ”
-fsquid:S1192¸"IDefine a constant instead of duplicating this literal "ASSIGNED" 3 times.(Ÿéìùÿÿÿÿ
-_squid:S1192Æ"HDefine a constant instead of duplicating this literal "IsAlpha" 4 times.(“Æß*
-esquid:S1192Ô"HDefine a constant instead of duplicating this literal "IsSpace" 4 times.(¼úôşÿÿÿÿ
-`squid:S1192÷"HDefine a constant instead of duplicating this literal "IsCntrl" 3 times.(æ”şÕ
-esquid:S1192ø"HDefine a constant instead of duplicating this literal "IsPrint" 3 times.(´Ú¥±şÿÿÿÿ
-esquid:S1192á"HDefine a constant instead of duplicating this literal "IsASCII" 4 times.(¦Óÿùÿÿÿÿ
-esquid:S1192ù"HDefine a constant instead of duplicating this literal "IsPunct" 3 times.(šè‡ôøÿÿÿÿ
-esquid:S1192Í"HDefine a constant instead of duplicating this literal "IsAlnum" 4 times.(¢ÁÏùÿÿÿÿ
-esquid:S1192õ"HDefine a constant instead of duplicating this literal "IsUpper" 3 times.(¹õ«ıüÿÿÿÿ
-esquid:S1192ö"HDefine a constant instead of duplicating this literal "IsLower" 3 times.(İ×Ê–ÿÿÿÿÿ
-esquid:S1192è"HDefine a constant instead of duplicating this literal "IsGraph" 4 times.(áßï™ÿÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckò".Extract the assignment out of this expression.(çËŸ›
-xsquid:S1488	"[Immediately return this expression instead of assigning it to the temporary variable "tok".(ƒ¨ô‚üÿÿÿÿ
-_squid:S00112Ø"FDefine and throw a dedicated exception instead of using a generic one.(ĞÄ”
-_squid:S00112İ"FDefine and throw a dedicated exception instead of using a generic one.(ĞÄ”
-_squid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(ĞÄ”
-_squid:S00112ã"FDefine and throw a dedicated exception instead of using a generic one.(ĞÄ”
-_squid:S00112æ"FDefine and throw a dedicated exception instead of using a generic one.(ĞÄ”
-_squid:S00112é"FDefine and throw a dedicated exception instead of using a generic one.(ĞÄ”
-_squid:S00112ì"FDefine and throw a dedicated exception instead of using a generic one.(ĞÄ”
-dsquid:S00112Í"FDefine and throw a dedicated exception instead of using a generic one.(Ä¼ûûÿÿÿÿ
-dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(èÜÊçøÿÿÿÿ
-dsquid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(Îìíûÿÿÿÿ
-dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.( ›©Óÿÿÿÿÿ
-dsquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(òÉø¡ıÿÿÿÿ
-_squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(Ïï¶Æ
-dsquid:S00112æ"FDefine and throw a dedicated exception instead of using a generic one.(Ë’ ÿÿÿÿÿ
-_squid:S00112ş"FDefine and throw a dedicated exception instead of using a generic one.(—§Ôî
-dsquid:S00112æ"FDefine and throw a dedicated exception instead of using a generic one.(Ë’ ÿÿÿÿÿ
-dsquid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ÖÆåûÿÿÿÿ
-dsquid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(»äÂûÿÿÿÿ
-_squid:S00112Š"FDefine and throw a dedicated exception instead of using a generic one.(Ç®Ö
-osquid:S00117”
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€–ÙÄıÿÿÿÿ
-jsquid:S00117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ª”²
-psquid:S3008Q"TRename this field "token_dot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ°Êşÿÿÿÿ
-lsquid:S3008R"URename this field "token_0to9" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ«Ò÷
-qsquid:S3008S"ZRename this field "token_wordchars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛİÉÑ
-psquid:S3008T"YRename this field "token_not_0to9" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÇî‚
-usquid:S3008U"^Rename this field "token_not_wordchars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äË“Ÿ
-nsquid:S3008V"WRename this field "token_spaces" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÕŞ
-wsquid:S3008W"[Rename this field "token_not_spaces" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÁñ×ùÿÿÿÿ
-msquid:S3008X"VRename this field "token_empty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÉÿˆ
-zsquid:S3008Y"^Rename this field "token_linebeginning" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®·Îúüÿÿÿÿ
-{squid:S3008Z"_Rename this field "token_linebeginning2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èˆıÃúÿÿÿÿ
-osquid:S3008["XRename this field "token_lineend" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿåö˜
-|squid:S3008\"`Rename this field "token_stringbeginning" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¨îŒüÿÿÿÿ
-qsquid:S3008]"ZRename this field "token_stringend" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ñøô
-rsquid:S3008^"[Rename this field "token_stringend2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‹¯
-psquid:S3008_"YRename this field "token_wordedge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È‡„Ğ
-ysquid:S3008`"]Rename this field "token_not_wordedge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¦æïûÿÿÿÿ
-tsquid:S3008a"^Rename this field "token_wordbeginning" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å ¥d
-osquid:S3008b"XRename this field "token_wordend" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßêåû
-qsquid:S3008
-"YRename this field "token_grapheme" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şË¿
-qsquid:S3008Ó
-"TRename this field "token_ccs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À©šØüÿÿÿÿ
-<squid:S2390f"%Remove this reference to "CharToken".(µãüı
-Asquid:S2390g"%Remove this reference to "CharToken".(Ğ‘Ö×øÿÿÿÿ
-<squid:S2390h"%Remove this reference to "CharToken".(Ÿ§ÏĞ
-Asquid:S2390i"%Remove this reference to "CharToken".(…¨­Şúÿÿÿÿ
-Asquid:S2390j"%Remove this reference to "CharToken".(±éÑ¯ÿÿÿÿÿ
-;squid:S2390k"%Remove this reference to "CharToken".(Ìä¡-
-<squid:S2390l"%Remove this reference to "CharToken".(µÿÀ¹
-<squid:S2390m"%Remove this reference to "CharToken".(— ĞÙ
-Asquid:S2390n"%Remove this reference to "CharToken".(·«€ÿÿÿÿÿ
-Asquid:S2390o"%Remove this reference to "CharToken".(‘¬ªûÿÿÿÿ
-Bsquid:S2390s"&Remove this reference to "RangeToken".(—…Üîøÿÿÿÿ
-Bsquid:S2390u"&Remove this reference to "RangeToken".(ö†Ü·øÿÿÿÿ
-Bsquid:S2390z"&Remove this reference to "RangeToken".(ë¤ŞÂúÿÿÿÿ
-xsquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±¨¨Ãúÿÿÿÿ
-ssquid:S00115‚
-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£¶œã
-ssquid:S1149ê"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‰–ôãûÿÿÿÿ
-ssquid:S1149ë"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(“¹Ğ´ùÿÿÿÿ
-|squid:S1149‘"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½›¡ÿÿÿÿÿ
-ssquid:S1149©	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(õÓ¯¥ıÿÿÿÿ
-‚squid:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(…ÆÁÎÿÿÿÿÿ
-wsquid:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôœÀ
-wsquid:S1149ª"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-wsquid:S1149¸"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-psquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(¯¿ÖÃşÿÿÿÿ
-Qsquid:S3400Ò"9Remove this method and declare a constant for this value.(”·³›
-Dsquid:S1172Ô",Remove this unused method parameter "index".(êÉá
-Qsquid:S3400ş"9Remove this method and declare a constant for this value.(”·³›
-Qsquid:S3400…"9Remove this method and declare a constant for this value.(”·³›
-Fsquid:S1172".Remove this unused method parameter "options".(ô¦Š
-osquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(™üåıùÿÿÿÿ
-jsquid:S3776š"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(‘ê¸³
-fsquid:S1871Ì"IThis case's code block is the same as the block for the case on line 571.(ƒäŒŞşÿÿÿÿ
-psquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(‰–ôãûÿÿÿÿ
-psquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(“¹Ğ´ùÿÿÿÿ
-jsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(Ğæ¦
-ksquid:ModifiersOrderCheck¹"EReorder the modifiers to comply with the Java Language Specification.(Ğæ¦
-psquid:ModifiersOrderCheck¢	"EReorder the modifiers to comply with the Java Language Specification.(”öùÏüÿÿÿÿ
-ksquid:ModifiersOrderCheckç	"EReorder the modifiers to comply with the Java Language Specification.(—İø¡
-psquid:ModifiersOrderCheckì	"EReorder the modifiers to comply with the Java Language Specification.(ñæŸÇÿÿÿÿÿ
-ksquid:ModifiersOrderCheck
-"EReorder the modifiers to comply with the Java Language Specification.(şË¿
-psquid:ModifiersOrderCheckÓ
-"EReorder the modifiers to comply with the Java Language Specification.(À©šØüÿÿÿÿ
-»squid:S1845é
-"¢Rename field "string" to prevent any misunderstanding/clash with field "STRING" defined in superclass "com.sun.org.apache.xerces.internal.impl.xpath.regex.Token".(°û×Õ
-Rsquid:S1161ò
-":Add the "@Override" annotation above this method signature(–èí²
-Wsquid:S1161õ
-":Add the "@Override" annotation above this method signature(ÓÜŸØÿÿÿÿÿ
-Rsquid:S1161ù
-":Add the "@Override" annotation above this method signature(ô¦Š
-Wsquid:S1161”":Add the "@Override" annotation above this method signature(£Óà¥üÿÿÿÿ
-Rsquid:S1161—":Add the "@Override" annotation above this method signature(êÉá
-Rsquid:S1161›":Add the "@Override" annotation above this method signature(ô¦Š
-Wsquid:S1161¸":Add the "@Override" annotation above this method signature(“Úæ¤ıÿÿÿÿ
-Rsquid:S1161¼":Add the "@Override" annotation above this method signature(ô¦Š
-Wsquid:S1161â":Add the "@Override" annotation above this method signature(œ¤ë¤ıÿÿÿÿ
-Wsquid:S1161ÿ":Add the "@Override" annotation above this method signature(£Óà¥üÿÿÿÿ
-Rsquid:S1161‚":Add the "@Override" annotation above this method signature(êÉá
-Wsquid:S1161†":Add the "@Override" annotation above this method signature(ªêòšüÿÿÿÿ
-Wsquid:S1161‰":Add the "@Override" annotation above this method signature(®¾ùİúÿÿÿÿ
-Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(‰îô
-Rsquid:S1161":Add the "@Override" annotation above this method signature(Éâ°ú
-jsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ô¦Š
-Rsquid:S1161“":Add the "@Override" annotation above this method signature(ô¦Š
-Wsquid:S1161Å":Add the "@Override" annotation above this method signature(£Óà¥üÿÿÿÿ
-Rsquid:S1161È":Add the "@Override" annotation above this method signature(êÉá
-Qsquid:S1161Ì":Add the "@Override" annotation above this method signature(®®µ'
-Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(ô¦Š
-Q"squid:SwitchLastCaseIsDefaultCheckÒ""Add a default case to this switch.(Š‘Œ
-Ásquid:S1845ú"¨Rename field "condition" to prevent any misunderstanding/clash with field "CONDITION" defined in superclass "com.sun.org.apache.xerces.internal.impl.xpath.regex.Token".(½±Ñ¦
-Wsquid:S1161„":Add the "@Override" annotation above this method signature(£Óà¥üÿÿÿÿ
-Rsquid:S1161‡":Add the "@Override" annotation above this method signature(êÉá
-Rsquid:S1161":Add the "@Override" annotation above this method signature(ô¦Š
-Wsquid:S1161µ":Add the "@Override" annotation above this method signature(£Óà¥üÿÿÿÿ
-Rsquid:S1161¸":Add the "@Override" annotation above this method signature(êÉá
-Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(ô¦Š
-‚squid:S1149Ø"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(…ÆÁÎÿÿÿÿÿ
-wsquid:S1149ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôœÀ
-wsquid:S1149ª"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-wsquid:S1149¸"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-Bsquid:S1948Ø"%Make "children" private or transient.(…ÆÁÎÿÿÿÿÿ
-osquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÎÇ¯ùÿÿÿÿ
-Wsquid:S1161Ş":Add the "@Override" annotation above this method signature(ÎÇ¯ùÿÿÿÿ
-Wsquid:S1161–":Add the "@Override" annotation above this method signature(£Óà¥üÿÿÿÿ
-Rsquid:S1161™":Add the "@Override" annotation above this method signature(êÉá
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ô¦Š
-Rsquid:S1161":Add the "@Override" annotation above this method signature(ô¦Š
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(“Çˆıÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôáÊ×
-hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(“‚§Šşÿÿÿÿ
-csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ÜÒŞô
-bsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(Üà 
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â¾éùıÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶Øìµøÿÿÿÿ
-csquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(Â¼š
-hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(ú¾ùçùÿÿÿÿ
-hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(¯À£éşÿÿÿÿ
-csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(š—¸
-hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(Ü»Ô¨üÿÿÿÿ
-hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(¹‘Áæúÿÿÿÿ
-hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(¼ËŠäûÿÿÿÿ
-csquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(£¨Ş®
-csquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(¨àîÔ
-hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(ßæËíøÿÿÿÿ
-csquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(°±¾
-csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(–‹şè
-csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(‚ÇÓ
-csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(Ÿˆûğ
-hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(‚°öãûÿÿÿÿ
-csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(€ªè
-csquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(Ã¾îª
-csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(Íµ”Ü
-hsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(ôß¼äøÿÿÿÿ
-hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(Èƒ¡ñúÿÿÿÿ
-hsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(‹ÚÇúÿÿÿÿ
-csquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(ÏÏ»˜
-hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(•äê™úÿÿÿÿ
-hsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(ğì×ßúÿÿÿÿ
-hsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(ïÊ­¥øÿÿÿÿ
-hsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(á„ùÿÿÿÿ
-hsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(æ”âîÿÿÿÿÿ
-csquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(Ûí—
-hsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Ïæ©´ûÿÿÿÿ
-hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(”§ûÛûÿÿÿÿ
-hsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(œŒ¸ïÿÿÿÿÿ
-csquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ÂÈú¬
-hsquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(ÿŸãÿÿÿÿÿ
-hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÆËÓ×ûÿÿÿÿ
-bsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(«¤Z
-csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(š¹
-bsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ÌÄã%
-csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(® ˆó
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(´˜¶úÿÿÿÿ
-csquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(„¥Ÿ
-csquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Ùò˜î
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Æ”˜ˆøÿÿÿÿ
-csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(•ŸüÉ
-csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Á™ş¤
-csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ÄÖÒ‚
-hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(Ù´£óøÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹‡ûøÿÿÿÿ
-csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(±§Ææ
-hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ôØº¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(ÅÒÍ‘øÿÿÿÿ
-csquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.( Œ¥î
-hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(Ó¶‰Òûÿÿÿÿ
-csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(­€ÍÌ
-hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ºà…´üÿÿÿÿ
-hsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(Òº½™şÿÿÿÿ
-csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(ƒ‰ì
-hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(£Şğéıÿÿÿÿ
-csquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(İÊ€Ñ
-csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(¹×“Ç
-hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(ƒ’´‘ûÿÿÿÿ
-hsquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(Öµ…Ëúÿÿÿÿ
-csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.( “‚Ó
-csquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(´Áµ
-bsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(åÇÜ
-
-hsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(®ï´ıÿÿÿÿÿ
-csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(å™äó
-csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(š¯ÔÄ
-csquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(¯ãÜ‹
-hsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(Ş¡å¿şÿÿÿÿ
-csquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(¡²Â£
-hsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(‘…•şÿÿÿÿ
-csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(‚‡í
-bsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(ŸÕş\
-bsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(Öº]
-csquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(Ë¼Ù†
-csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(¬¹¤‘
-hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(Ò»œ©øÿÿÿÿ
-csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(¥½û 
-hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ãß‡Ñşÿÿÿÿ
-csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ğ¢¶³
-hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(âŠÚüúÿÿÿÿ
-hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(Õ¸•Ûşÿÿÿÿ
-csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ñƒÂô
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿãÍ­
-csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(²™µ
-csquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.( ºÅÌ
-csquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ÛÃŒõ
-hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(æ±É‚ÿÿÿÿÿ
-csquid:CommentedOutCodeLineŸ	"<This block of commented-out lines of code should be removed.(âèŠÏ
-hsquid:CommentedOutCodeLineğ	"<This block of commented-out lines of code should be removed.(ğ¹‹Ïıÿÿÿÿ
-csquid:CommentedOutCodeLineƒ
-"<This block of commented-out lines of code should be removed.(¤Ğ‚È
-hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(üòµĞûÿÿÿÿ
-bsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(Åë

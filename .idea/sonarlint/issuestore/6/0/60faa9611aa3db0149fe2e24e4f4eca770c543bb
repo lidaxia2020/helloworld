@@ -1,10 +1,0 @@
-
-Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(±°ê
-qsquid:S00120$"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±°ê
-^squid:UselessImportCheck-":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
-hsquid:UselessImportCheck3"?Remove this unused import 'org.omg.CORBA.portable.InputStream'.(ÂÆ±–úÿÿÿÿ
-dsquid:UselessImportCheck2"@Remove this unused import 'org.omg.CORBA.portable.OutputStream'.(‹˜´Å
-Tsquid:UselessImportCheck*"0Remove this unused import 'javax.rmi.CORBA.Tie'.(üñÿ¸
-csquid:UselessImportCheck9"?Remove this unused import 'com.sun.corba.se.impl.util.Utility'.(…Ú³–
-\squid:UselessImportCheck/"8Remove this unused import 'org.omg.CORBA.BAD_INV_ORDER'.(äÓìæ
-wsquid:UselessImportCheck5"NRemove this unused import 'com.sun.corba.se.spi.presentation.rmi.StubAdapter'.(¸¼ûµþÿÿÿÿ

@@ -1,5 +1,0 @@
-
-|squid:S1149–"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
-Tsquid:S1197D"8Move the array designator from the variable to the type.(ıœœ˜üÿÿÿÿ
-Lsquid:S1133g"5Do not forget to remove this deprecated code someday.(òµŸœ
-isquid:S3776|"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÜÑã

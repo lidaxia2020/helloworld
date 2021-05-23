@@ -1,5 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ùİ‚Ë
-squid:S1149N"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ñéñÿÿÿÿÿ
-|squid:S1149W"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æ†ÖÀ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

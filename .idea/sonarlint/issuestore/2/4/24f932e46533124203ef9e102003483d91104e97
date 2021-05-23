@@ -1,23 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ªµÎ×üÿÿÿÿ
-csquid:S1192å"KDefine a constant instead of duplicating this literal "Attribute " 3 times.(—™¡ƒ
-psquid:S1192ß"SDefine a constant instead of duplicating this literal "getNotifBufferSize" 4 times.(‰‡ŞÌşÿÿÿÿ
-lsquid:S1192¥"TDefine a constant instead of duplicating this literal "purgeUnserializable" 4 times.(Æ®°
-msquid:S2095µ"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(²Òå«üÿÿÿÿ
-‡squid:S1319ï"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(úùŒÃ
-Vsquid:S11188":Add a private constructor to hide the implicit public one.(ŞÃáÌıÿÿÿÿ
-nsquid:S1149ï"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(úùŒÃ
-qsquid:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÄíŞ
-jsquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ç¡Ô˜
-vsquid:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îƒ–äÿÿÿÿÿ
-vsquid:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îƒ–äÿÿÿÿÿ
-osquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÆÖø¨şÿÿÿÿ
-vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œûôøüÿÿÿÿ
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÛ™
-h squid:LabelsShouldNotBeUsedCheck¹";Refactor the code to remove this label and the need for it.(­î³Ì
-qsquid:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(óôœ—
-psquid:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹şÙ
-squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ‘–Ôÿÿÿÿÿ
-˜squid:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ÇçN
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ÿ‘–Ôÿÿÿÿÿ
-Csquid:S1481§"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ

@@ -1,14 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
-xsquid:UselessImportCheck!"TRemove this unnecessary import: same package classes are always implicitly imported.(ÀôõÏ
-}squid:UselessImportCheck""TRemove this unnecessary import: same package classes are always implicitly imported.(ş™ºßùÿÿÿÿ
-xsquid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(óë³“
-}squid:UselessImportCheck)"TRemove this unnecessary import: same package classes are always implicitly imported.(Àä­®øÿÿÿÿ
-psquid:UselessImportCheck#"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
-fsquid:UselessImportCheck"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿéúÿÿÿÿ
-Tsquid:UselessImportCheck"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
-|squid:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í—ãüÿÿÿÿ
-|squid:S1149É"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í—ãüÿÿÿÿ
-Usquid:S1854Ñ"8Remove this useless assignment to local variable "bbwi".(«æí«ûÿÿÿÿ
-ksquid:S2272ç"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¹ÉËøıÿÿÿÿ
-Qsquid:S1161ì":Add the "@Override" annotation above this method signature(ğ¨“

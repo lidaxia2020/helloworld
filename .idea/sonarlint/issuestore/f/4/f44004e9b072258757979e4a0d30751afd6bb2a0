@@ -1,9 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-?squid:S1604q"(Make this anonymous inner class a lambda(÷ØÇ
-hsquid:UselessImportCheck'"?Remove this unused import 'java.awt.event.WindowStateListener'.(ÿÄ­›ùÿÿÿÿ
-Dsquid:S1172E"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
-Rsquid:S1161‚":Add the "@Override" annotation above this method signature(˜ˆßË
-Psquid:S1197š"8Move the array designator from the variable to the type.(õ„ÓĞ
-Fsquid:S1905›".Remove this unnecessary cast to "MenuElement".(‘–ñ
-Ksquid:S1905œ".Remove this unnecessary cast to "MenuElement".(Š‡ôçúÿÿÿÿ

@@ -1,96 +1,0 @@
-
-Lsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(™ã£ü
-bsquid:S1192˜"JDefine a constant instead of duplicating this literal " lastPos=" 3 times.(¢Ä¢Ö
-gsquid:S1192–"JDefine a constant instead of duplicating this literal "firstPos=" 3 times.(Æ—ºèÿÿÿÿÿ
-Gsquid:S1066Â"/Merge this if statement with the enclosing one.(¸ÎÅ£
-u
-squid:S135­"YReduce the total number of break and continue statements in this loop to use at most one.(üß¡›ıÿÿÿÿ
-Vsquid:S4973²"9Use the "equals" method if value comparison was intended.(İõóœúÿÿÿÿ
-Psquid:S4973¸"9Use the "equals" method if value comparison was intended.(ŠŠßZ
-Qsquid:S4973Â"9Use the "equals" method if value comparison was intended.(¸ÎÅ£
-Vsquid:S4973‰"9Use the "equals" method if value comparison was intended.(­˜êøÿÿÿÿ
-Psquid:S4973¯"9Use the "equals" method if value comparison was intended.(Ã»w
-Vsquid:S4973û"9Use the "equals" method if value comparison was intended.(±Ó¥şÿÿÿÿ
-dsquid:S00112Ã"FDefine and throw a dedicated exception instead of using a generic one.(ÍÒ÷Ïøÿÿÿÿ
-_squid:S00112ƒ	"FDefine and throw a dedicated exception instead of using a generic one.(­ÿ‹
-nsquid:S1450¶"VRemove the "fEOCPos" field and declare it as a local variable in the relevant methods.(†£‡
-psquid:S1450Ö"XRemove the "fHeadNode" field and declare it as a local variable in the relevant methods.(œÉé›
-Psquid:S1197"8Move the array designator from the variable to the type.(³®Ÿ
-Psquid:S1197§"8Move the array designator from the variable to the type.(˜úê£
-Psquid:S1197Á"8Move the array designator from the variable to the type.(‡óŞä
-Psquid:S1197Ë"8Move the array designator from the variable to the type.(Œ‡Šä
-Usquid:S1197è"8Move the array designator from the variable to the type.(ŠÛ§ˆşÿÿÿÿ
-Psquid:S1197ë"8Move the array designator from the variable to the type.(Äö†¦
-Usquid:S1197Š"8Move the array designator from the variable to the type.(÷©ÄÓüÿÿÿÿ
-osquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(¶¥ÓÍÿÿÿÿÿ
-U
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(º·É²üÿÿÿÿ
-O
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Üôñ@
-P
-squid:S106‰"9Replace this use of System.out or System.err by a logger.(©®ÜÆ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÓçùÿÿÿÿ
-U
-squid:S106•"9Replace this use of System.out or System.err by a logger.(Ÿ°˜€ÿÿÿÿÿ
-P
-squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ïÛ™¦
-P
-squid:S106Í"9Replace this use of System.out or System.err by a logger.(ñ§×˜
-P
-squid:S106Ï"9Replace this use of System.out or System.err by a logger.(êÑƒÙ
-P
-squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(ãˆïÊ
-P
-squid:S106à"9Replace this use of System.out or System.err by a logger.(‡Ì»Ê
-P
-squid:S106ë"9Replace this use of System.out or System.err by a logger.(ÎãëÉ
-osquid:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ìé‰ùÿÿÿÿ
-9squid:S2129Ä"!Remove this "Integer" constructor(ß–©
-Xsquid:CallToDeprecatedMethodÄ"/Remove this use of "Integer"; it is deprecated.(ß–©
-P
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(×•œ²
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(€›Ğÿÿÿÿÿ
-U
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(ï¿íÚÿÿÿÿÿ
-U
-squid:S106”"9Replace this use of System.out or System.err by a logger.(”Ø×şûÿÿÿÿ
-U
-squid:S106–"9Replace this use of System.out or System.err by a logger.(Æ—ºèÿÿÿÿÿ
-U
-squid:S106—"9Replace this use of System.out or System.err by a logger.(Ï•äºÿÿÿÿÿ
-P
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(¢Ä¢Ö
-P
-squid:S106™"9Replace this use of System.out or System.err by a logger.(ƒ£«í
-U
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ôÅÌèÿÿÿÿÿ
-U
-squid:S106£"9Replace this use of System.out or System.err by a logger.(”Ø×şûÿÿÿÿ
-U
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(Æ—ºèÿÿÿÿÿ
-U
-squid:S106¦"9Replace this use of System.out or System.err by a logger.(Ï•äºÿÿÿÿÿ
-P
-squid:S106§"9Replace this use of System.out or System.err by a logger.(¢Ä¢Ö
-P
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(ƒ£«í
-O
-squid:S106®"9Replace this use of System.out or System.err by a logger.(¢ø¨L
-U
-squid:S106º"9Replace this use of System.out or System.err by a logger.(”Ø×şûÿÿÿÿ
-U
-squid:S106¼"9Replace this use of System.out or System.err by a logger.(Æ—ºèÿÿÿÿÿ
-U
-squid:S106½"9Replace this use of System.out or System.err by a logger.(Ï•äºÿÿÿÿÿ
-P
-squid:S106¾"9Replace this use of System.out or System.err by a logger.(¢Ä¢Ö
-P
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(ƒ£«í
-Psquid:S1068“"3Remove this unused "fTransTableSize" private field.(º­Èıÿÿÿÿ
-bsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(›öÑh
-hsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(ê‰¡×ÿÿÿÿÿ
-hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÁÓäşÿÿÿÿ
-hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(üş©Äúÿÿÿÿ
-hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(„¡Ãşøÿÿÿÿ

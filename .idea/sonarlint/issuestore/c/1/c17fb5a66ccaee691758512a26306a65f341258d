@@ -1,14 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µð×øÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheck0"PMake list a static final constant or non-public and provide accessors if needed.(¹åÅ·ûÿÿÿÿ
-…"squid:ClassVariableVisibilityCheck7"RMake status a static final constant or non-public and provide accessors if needed.(¼¨Ôøÿÿÿÿ
-€"squid:ClassVariableVisibilityCheck>"RMake params a static final constant or non-public and provide accessors if needed.(Ö·þä
-Ž"squid:ClassVariableVisibilityCheckE"[Make contextEngineId a static final constant or non-public and provide accessors if needed.(ÂÈðƒùÿÿÿÿ
-…"squid:ClassVariableVisibilityCheckL"WMake contextName a static final constant or non-public and provide accessors if needed.(±ÿØÍ
-„"squid:ClassVariableVisibilityCheckS"QMake flags a static final constant or non-public and provide accessors if needed.(ˆƒ®¥üÿÿÿÿ
-9squid:S11650"Make this "list" field final.(¹åÅ·ûÿÿÿÿ
-;squid:S11657"Make this "status" field final.(¼¨Ôøÿÿÿÿ
-6squid:S1165>"Make this "params" field final.(Ö·þä
-Dsquid:S1165E"(Make this "contextEngineId" field final.(ÂÈðƒùÿÿÿÿ
-;squid:S1165L"$Make this "contextName" field final.(±ÿØÍ
-:squid:S1165S"Make this "flags" field final.(ˆƒ®¥üÿÿÿÿ

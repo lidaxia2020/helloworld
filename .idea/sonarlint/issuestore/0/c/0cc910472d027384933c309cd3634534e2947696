@@ -1,23 +1,0 @@
-
-Rsquid:S1161£":Add the "@Override" annotation above this method signature(³”§ñ
-Rsquid:S1161È":Add the "@Override" annotation above this method signature(Ì°¢ú
-Qsquid:S1161Õ":Add the "@Override" annotation above this method signature(¹…¹&
-gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬É‘„
-lsquid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÈõÃùÿÿÿÿ
-Esquid:S1905±"-Remove this unnecessary cast to "CharBuffer".(Ï÷Í
-Esquid:S1905·"-Remove this unnecessary cast to "CharBuffer".(Î‚
-Ksquid:S1905ä".Remove this unnecessary cast to "ShortBuffer".(°‡ÊÈúÿÿÿÿ
-Fsquid:S1905ê".Remove this unnecessary cast to "ShortBuffer".(£é–˜
-Dsquid:S1905—",Remove this unnecessary cast to "IntBuffer".(˜•«Ô
-Isquid:S1905",Remove this unnecessary cast to "IntBuffer".(¬¼‡Äúÿÿÿÿ
-Esquid:S1905Ê"-Remove this unnecessary cast to "LongBuffer".(ã˜Ô°
-Jsquid:S1905Ğ"-Remove this unnecessary cast to "LongBuffer".(çîğııÿÿÿÿ
-Ksquid:S1905ı".Remove this unnecessary cast to "FloatBuffer".(äŒá·ûÿÿÿÿ
-Ksquid:S1905ƒ".Remove this unnecessary cast to "FloatBuffer".(™‹Â¶ÿÿÿÿÿ
-Gsquid:S1905°"/Remove this unnecessary cast to "DoubleBuffer".(‡ø¡
-Lsquid:S1905¶"/Remove this unnecessary cast to "DoubleBuffer".(×ªíÙøÿÿÿÿ
-gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(‘ªôŞûÿÿÿÿ
-bsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(¸ƒ¾ÿ
-bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(¹€……
-gsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(ç®Ëßûÿÿÿÿ
-gsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(ç®Ëßûÿÿÿÿ

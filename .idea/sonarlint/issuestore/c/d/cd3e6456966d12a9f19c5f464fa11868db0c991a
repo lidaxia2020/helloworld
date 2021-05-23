@@ -1,15 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¼¤êµ
-]squid:S2259¤"@A "NullPointerException" could be thrown; "nl" is nullable here.(½Ùˆşÿÿÿÿ
-psquid:S00116c"YRename this field "m_functionExpr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙØR
-|squid:S1149s"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Vsquid:S1161R":Add the "@Override" annotation above this method signature(Á°û¸úÿÿÿÿ
-Rsquid:S1854œ";Remove this useless assignment to local variable "context".(ğƒ›y
-Wsquid:S1161‹":Add the "@Override" annotation above this method signature(™Õğøÿÿÿÿ
-Rsquid:S1854Ì";Remove this useless assignment to local variable "context".(ğƒ›y
-Wsquid:S1161º":Add the "@Override" annotation above this method signature(ÿœ²ïÿÿÿÿÿ
-Rsquid:S1854û";Remove this useless assignment to local variable "context".(ğƒ›y
-Rsquid:S1161é":Add the "@Override" annotation above this method signature(Îé¯Õ
-Rsquid:S1161¥":Add the "@Override" annotation above this method signature(¸„ÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(†ùÒÍ

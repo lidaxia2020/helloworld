@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¤™‡‘ùÿÿÿÿ
-xsquid:UselessImportCheck$"TRemove this unnecessary import: same package classes are always implicitly imported.(Å¯›ë
-Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-bsquid:UselessImportCheck%"9Remove this unused import 'com.sun.corba.se.spi.orb.ORB'.(¯Ñ‰“ùÿÿÿÿ
-Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-msquid:UselessImportCheck "DRemove this unused import 'org.omg.CORBA_2_3.portable.OutputStream'.(©éµ¿üÿÿÿÿ

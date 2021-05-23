@@ -1,140 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
-csquid:S1192Î"FDefine a constant instead of duplicating this literal "[xml]" 3 times.(ªöÍ”ûÿÿÿÿ
-rsquid:S1192ë"ZDefine a constant instead of duplicating this literal "MarkupNotRecognizedInMisc" 3 times.(İ’ˆÈ
-esquid:S1192İ"MDefine a constant instead of duplicating this literal "PrematureEOF" 5 times.(şÕ×†
-Lsquid:S1066ö"/Merge this if statement with the enclosing one.(ÎÏªÊûÿÿÿÿ
-Gsquid:S1066Ğ"/Merge this if statement with the enclosing one.(¶ÓŞŞ
-Lsquid:S1066˜"/Merge this if statement with the enclosing one.(¬Üıšıÿÿÿÿ
-Jsquid:S1199’"-Extract this nested code block into a method.(™¡ÁÅøÿÿÿÿ
-Jsquid:S1199"-Extract this nested code block into a method.(¼™©øÿÿÿÿ
-Jsquid:S1199Ö"-Extract this nested code block into a method.(ÚÙİ’úÿÿÿÿ
-Jsquid:S1199Ş"-Extract this nested code block into a method.(Èïùúÿÿÿÿ
-Esquid:S1199å"-Extract this nested code block into a method.(µšÊ
-Esquid:S1199¶"-Extract this nested code block into a method.(¸ ê—
-Dsquid:S1199º"-Extract this nested code block into a method.(í½õ
-Jsquid:S1199¥	"-Extract this nested code block into a method.(¯§Üøÿÿÿÿ
-Esquid:S1199Ï	"-Extract this nested code block into a method.(¼„×Ñ
-Esquid:S1199ö	"-Extract this nested code block into a method.(õ É
-Jsquid:S1199
-"-Extract this nested code block into a method.(™¡ÁÅøÿÿÿÿ
-Jsquid:S1199†
-"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Esquid:S1199Õ"-Extract this nested code block into a method.(Ò’ŞÇ
-Jsquid:S1199ä"-Extract this nested code block into a method.(¼™©øÿÿÿÿ
-Jsquid:S1199ş"-Extract this nested code block into a method.(Èïùúÿÿÿÿ
-Jsquid:S1199„"-Extract this nested code block into a method.(ÚÙİ’úÿÿÿÿ
-Esquid:S1199Œ"-Extract this nested code block into a method.(¸ ê—
-Dsquid:S1199š"-Extract this nested code block into a method.(í½õ
-Jsquid:S1199 "-Extract this nested code block into a method.(¡Êäùÿÿÿÿ
-Jsquid:S1199§"-Extract this nested code block into a method.(¹…ÊÆÿÿÿÿÿ
-hsquid:S1301‘"KReplace this "switch" statement by "if" statements to increase readability.(·ó†§øÿÿÿÿ
-hsquid:S1301Ô"KReplace this "switch" statement by "if" statements to increase readability.(·ó†§øÿÿÿÿ
-asquid:S3973š	"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
-@squid:S1148
-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-squid:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åï–÷ıÿÿÿÿ
-Rsquid:S1161’":Add the "@Override" annotation above this method signature(ò¿ÑÚ
-isquid:S3252—"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(Ÿ›ÿS
-Wsquid:S1161¤":Add the "@Override" annotation above this method signature(Œ¹Ê®úÿÿÿÿ
-isquid:S3252°"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(Ÿ›ÿS
-Ê%squid:RedundantThrowsDeclarationCheckÑ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(±æ‚ö
-Bsquid:S00108ë")Either remove or fill this block of code.(íƒÕ
-Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(¯²¨Òøÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheck©"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-3squid:S3626´"Remove this redundant jump.(ûÁİ…
-3squid:S3626¹"Remove this redundant jump.(ûÁİ…
-Wsquid:S1161¨":Add the "@Override" annotation above this method signature(°‘òŞşÿÿÿÿ
-Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(õ´Ÿ…
-Ê%squid:RedundantThrowsDeclarationCheckè"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-3squid:S3626û"Remove this redundant jump.(ûÁİ…
-Rsquid:S1161ç":Add the "@Override" annotation above this method signature(šıšº
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ç„ì“ıÿÿÿÿ
-Rsquid:S1161¤":Add the "@Override" annotation above this method signature(ø±èä
-°%squid:RedundantThrowsDeclarationCheckÆ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(»•İÍ
-Wsquid:S1161Ä":Add the "@Override" annotation above this method signature(¦™£ıÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckë"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¾Á‰
-Rsquid:S1161ë":Add the "@Override" annotation above this method signature(¾Á‰
-µ%squid:RedundantThrowsDeclarationCheck™"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(öıĞáıÿÿÿÿ
-Wsquid:S1161™":Add the "@Override" annotation above this method signature(öıĞáıÿÿÿÿ
-Rsquid:S1161«":Add the "@Override" annotation above this method signature(‚³ğ½
-°%squid:RedundantThrowsDeclarationCheck²"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Œ«“÷
-Wsquid:S1161û":Add the "@Override" annotation above this method signature( ëòùùÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckı""Add a default case to this switch.(ş™ÅŞ
-µ%squid:RedundantThrowsDeclarationCheck¦"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(öıĞáıÿÿÿÿ
-U
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(÷õôüÿÿÿÿ
-wsquid:S3252Ä"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(Èçõ˜ùÿÿÿÿ
-osquid:S3252Ë"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(×ğé¸üÿÿÿÿ
-osquid:S3252Ò"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(×ğé¸üÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck‰"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(öıĞáıÿÿÿÿ
-osquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 88 to the 15 allowed.(öıĞáıÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÄ„ùÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck‘""Add a default case to this switch.(·ó†§øÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÈ""Add a default case to this switch.(·ó†§øÿÿÿÿ
-c
-squid:S128¶"LEnd this switch case with an unconditional break, return or throw statement.(¸ ê—
-hsquid:S3252Ú"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(Šù€ƒıÿÿÿÿ
-wsquid:S3252â"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(Èçõ˜ùÿÿÿÿ
-_squid:S3252³"GUse static access with "javax.xml.stream.XMLStreamConstants" for "DTD".(’Î–«
-µ%squid:RedundantThrowsDeclarationCheckë"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(öıĞáıÿÿÿÿ
-U
-squid:S106î"9Replace this use of System.out or System.err by a logger.(Õ¾ñŞıÿÿÿÿ
-P
-squid:S106ô"9Replace this use of System.out or System.err by a logger.(Áüˆ
-_squid:S3252ı"GUse static access with "javax.xml.stream.XMLStreamConstants" for "DTD".(’Î–«
-¯%squid:RedundantThrowsDeclarationCheck‘	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-osquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(‹Â¦Åùÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheckÅ
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-Wsquid:S1161Ä
-":Add the "@Override" annotation above this method signature(ŠÄ­›ÿÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheckã
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-Rsquid:S1161â
-":Add the "@Override" annotation above this method signature(Ÿğ¬å
-¯%squid:RedundantThrowsDeclarationCheckü
-"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-Wsquid:S1161û
-":Add the "@Override" annotation above this method signature(Ç·Àóøÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheck’"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-Rsquid:S1161‘":Add the "@Override" annotation above this method signature(è¨âò
-¯%squid:RedundantThrowsDeclarationCheck›"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-µ%squid:RedundantThrowsDeclarationCheckÈ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(öıĞáıÿÿÿÿ
-osquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(öıĞáıÿÿÿÿ
-lsquid:S3252Í"OUse static access with "javax.xml.stream.XMLStreamConstants" for "END_ELEMENT".(—Å¾¶øÿÿÿÿ
-hsquid:S3252Ò"PUse static access with "javax.xml.stream.XMLStreamConstants" for "END_DOCUMENT".(ğÛÍ»
-V"squid:SwitchLastCaseIsDefaultCheckÔ""Add a default case to this switch.(·ó†§øÿÿÿÿ
-msquid:S3252Û"PUse static access with "javax.xml.stream.XMLStreamConstants" for "END_DOCUMENT".(ıâÒ»şÿÿÿÿ
-P
-squid:S106û"9Replace this use of System.out or System.err by a logger.(•³ª
-wsquid:S3252‚"ZUse static access with "javax.xml.stream.XMLStreamConstants" for "PROCESSING_INSTRUCTION".(Èçõ˜ùÿÿÿÿ
-hsquid:S3252Š"KUse static access with "javax.xml.stream.XMLStreamConstants" for "COMMENT".(Šù€ƒıÿÿÿÿ
-msquid:S3252"PUse static access with "javax.xml.stream.XMLStreamConstants" for "END_DOCUMENT".(ıâÒ»şÿÿÿÿ
-fsquid:S3252–"NUse static access with "javax.xml.stream.XMLStreamConstants" for "CHARACTERS".(•ÆÃˆ
-lsquid:S3252"TUse static access with "javax.xml.stream.XMLStreamConstants" for "ENTITY_REFERENCE".(Ë»Ğ±
-msquid:S3252¥"PUse static access with "javax.xml.stream.XMLStreamConstants" for "END_DOCUMENT".(ıâÒ»şÿÿÿÿ
-msquid:S3252º"PUse static access with "javax.xml.stream.XMLStreamConstants" for "END_DOCUMENT".(ıâÒ»şÿÿÿÿ
-Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(Î¹Ôšøÿÿÿÿ
-Bsquid:S1068õ"+Remove this unused "fString" private field.(ÃÑ¼b
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(‡·›ùÿÿÿÿ
-csquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(•¨Æß
-csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(·¯œ¶
-hsquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(Áß€ˆıÿÿÿÿ
-hsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(Óü•€üÿÿÿÿ
-csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ùí´Ì
-csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(ø¿ëó
-csquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(–ñ²Û
-csquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(ÄíÎº
-csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(ø¿ëó
-bsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(€¶W
-csquid:CommentedOutCodeLine’
-"<This block of commented-out lines of code should be removed.(ø¿ëó
-csquid:CommentedOutCodeLineÉ
-"<This block of commented-out lines of code should be removed.(’Ï»ß
-csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(ø¿ëó
-csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ø¿ëó
-hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(Í¨Û³şÿÿÿÿ

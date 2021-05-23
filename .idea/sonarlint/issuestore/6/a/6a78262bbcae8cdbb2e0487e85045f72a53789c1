@@ -1,39 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
-psquid:S1192Ê"SDefine a constant instead of duplicating this literal ".processResponse: " 6 times.(¬ø€âüÿÿÿÿ
-jsquid:S1192»"SDefine a constant instead of duplicating this literal ".beginRequest: op/" 3 times.(×¯Æ*
-msquid:S1192÷"PDefine a constant instead of duplicating this literal ".beginRequest: " 4 times.(ÚÃ©üÿÿÿÿ
-Lsquid:S1066"/Merge this if statement with the enclosing one.(Ïğ’”şÿÿÿÿ
-^squid:S2259ş"AA "NullPointerException" could be thrown; "orb" is nullable here.(Ÿ û½üÿÿÿÿ
-Bsquid:UselessImportChecke"Remove this duplicated import.(›Êñâ
-jsquid:UselessImportCheck<"ARemove this unused import 'org.omg.CORBA.portable.ServantObject'.(Ñ÷Áıûÿÿÿÿ
-squid:UselessImportChecks"VRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.ProfileAddr'.(ÌÓ±ùúÿÿÿÿ
-tsquid:UselessImportCheckY"PRemove this unused import 'com.sun.corba.se.spi.transport.CorbaContactInfoList'.(øöŠŸ
-squid:UselessImportChecku"]Remove this unused import 'com.sun.corba.se.impl.transport.CorbaContactInfoListIteratorImpl'.(íË¥•
-hsquid:UselessImportCheckB"DRemove this unused import 'com.sun.org.omg.SendingContext.CodeBase'.(¹ØÙï
-wsquid:UselessImportCheckm"NRemove this unused import 'com.sun.corba.se.impl.encoding.MarshalInputStream'.(¡Ÿ©µÿÿÿÿÿ
-msquid:UselessImportCheck:"DRemove this unused import 'org.omg.CORBA_2_3.portable.OutputStream'.(©éµ¿üÿÿÿÿ
-xsquid:UselessImportCheckl"ORemove this unused import 'com.sun.corba.se.impl.encoding.MarshalOutputStream'.(£íãÂûÿÿÿÿ
-squid:UselessImportCheckt"XRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.ReferenceAddr'.(ì—áışÿÿÿÿ
-usquid:UselessImportCheckr"RRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.KeyAddr'.(àšÚD
-xsquid:UselessImportCheckW"TRemove this unused import 'com.sun.corba.se.spi.protocol.RequestDispatcherRegistry'.(ÔƒºÒ
-^squid:UselessImportCheck2"5Remove this unused import 'org.omg.CORBA.NamedValue'.(ç§Ò¹şÿÿÿÿ
-nsquid:UselessImportCheckQ"ERemove this unused import 'com.sun.corba.se.spi.oa.OAInvocationInfo'.(¥‹Ìûÿÿÿÿ
-esquid:UselessImportCheckv"ARemove this unused import 'com.sun.corba.se.impl.util.JDKBridge'.(ƒ×µ°
-Wsquid:UselessImportCheck/"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-psquid:UselessImportCheckp"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
-_squid:UselessImportCheck5"6Remove this unused import 'org.omg.CORBA.ContextList'.(Ù²ºòÿÿÿÿÿ
-^squid:UselessImportCheck)"5Remove this unused import 'java.rmi.RemoteException'.(Ä÷àÿÿÿÿÿ
-Zsquid:UselessImportCheck3"1Remove this unused import 'org.omg.CORBA.NVList'.(´‚à¾øÿÿÿÿ
-Wsquid:UselessImportCheck7"3Remove this unused import 'org.omg.CORBA.TypeCode'.(æŠŠÕ
-\squid:UselessImportCheck6"8Remove this unused import 'org.omg.CORBA.ExceptionList'.(‚İùÜ
-Usquid:UselessImportCheck+"1Remove this unused import 'javax.rmi.CORBA.Util'.(ïïãù
-rsquid:UselessImportCheckR"IRemove this unused import 'com.sun.corba.se.spi.oa.ObjectAdapterFactory'.(Ë§‚·şÿÿÿÿ
-Tsquid:UselessImportCheck,"0Remove this unused import 'javax.rmi.CORBA.Tie'.(üñÿ¸
-qsquid:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(»ª›
-osquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(ƒ»ÒÇøÿÿÿÿ
-jsquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(İÃö
-Tsquid:S1854…"=Remove this useless assignment to local variable "exception".(ÏùĞr
-Bsquid:S1181·"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-Msquid:S1481"5Remove this unused "corbaContactInfo" local variable.(§ğ®œ
-hsquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(¬‹£úÿÿÿÿ
