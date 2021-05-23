@@ -1,11 +1,0 @@
-
-Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-msquid:S001169"PRename this field "_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É©äşüÿÿÿÿ
-lsquid:S00116B"TRename this field "_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«±¶Œ
-ssquid:S00116J"VRename this field "_markedNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µâì”øÿÿÿÿ
-msquid:S00116R"URename this field "_startNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•é²
-nsquid:S00116Z"WRename this field "_includeSelf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŞ¨Q
-vsquid:S00116b"YRename this field "_isRestartable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇ›ìÿÿÿÿÿ
-tsquid:S3038v"]"setStartNode" is defined in the "NodeIterator" interface and can be removed from this class.(Í¨â·
-jsquid:ModifiersOrderCheckv"EReorder the modifiers to comply with the Java Language Specification.(Í¨â·
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

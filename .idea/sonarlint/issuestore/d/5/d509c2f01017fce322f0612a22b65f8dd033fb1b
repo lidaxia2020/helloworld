@@ -1,63 +1,0 @@
-
-Qsquid:S11914"5Use classes from the Java API instead of Sun classes.(°¿”Œúÿÿÿÿ
-esquid:S1192Ş"HDefine a constant instead of duplicating this literal "country" 3 times.(ì”Ù©üÿÿÿÿ
-csquid:S1192â"KDefine a constant instead of duplicating this literal "extensions" 3 times.(çğú
-fsquid:S1192İ"IDefine a constant instead of duplicating this literal "language" 3 times.(¯™ÀÑşÿÿÿÿ
-esquid:S1192ß"HDefine a constant instead of duplicating this literal "variant" 3 times.(™é™õøÿÿÿÿ
-_squid:S1192á"GDefine a constant instead of duplicating this literal "script" 3 times.(€ÖÏò
-tsquid:S1488ª"\Immediately return this expression instead of assigning it to the temporary variable "that".(î‹¼Ó
-Vsquid:S4973®"9Use the "equals" method if value comparison was intended.(»¤ğ‹şÿÿÿÿ
-Qsquid:S4973°"9Use the "equals" method if value comparison was intended.(ÀÍæ¤
-Qsquid:S4973²"9Use the "equals" method if value comparison was intended.(ğôà
-ysquid:UselessImportCheckA"PRemove this unused import 'sun.util.locale.provider.ResourceBundleBasedAdapter'.(ó›İüÿÿÿÿ
-Csquid:S3077¦"&Use an "AtomicReferenceArray" instead.(«ë¹‡úÿÿÿÿ
->squid:S3077¨"&Use an "AtomicReferenceArray" instead.(¯ÒÊğ
-psquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(©ËßÑøÿÿÿÿ
-ksquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(ßÏ–¸
-ksquid:ModifiersOrderCheckî"EReorder the modifiers to comply with the Java Language Specification.(ô§Œ˜
-psquid:ModifiersOrderCheckò"EReorder the modifiers to comply with the Java Language Specification.(ç×¢êûÿÿÿÿ
-psquid:ModifiersOrderCheckö"EReorder the modifiers to comply with the Java Language Specification.(ı·¾øÿÿÿÿ
-ksquid:ModifiersOrderCheckú"EReorder the modifiers to comply with the Java Language Specification.(‹ßƒ
-psquid:ModifiersOrderCheckş"EReorder the modifiers to comply with the Java Language Specification.(Áê¸ÿÿÿÿÿ
-ksquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(õîß
-psquid:ModifiersOrderCheck†"EReorder the modifiers to comply with the Java Language Specification.(·¸¶…ÿÿÿÿÿ
-psquid:ModifiersOrderCheckŠ"EReorder the modifiers to comply with the Java Language Specification.(ë ¡›ùÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‹Ÿ…üøÿÿÿÿ
-psquid:ModifiersOrderCheck’"EReorder the modifiers to comply with the Java Language Specification.(¾ˆ‡İûÿÿÿÿ
-ksquid:ModifiersOrderCheck–"EReorder the modifiers to comply with the Java Language Specification.(³àÆß
-psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(Ô¦Ãìşÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Äµ·
-psquid:ModifiersOrderCheck¢"EReorder the modifiers to comply with the Java Language Specification.(©‹š½ıÿÿÿÿ
-psquid:ModifiersOrderCheck¦"EReorder the modifiers to comply with the Java Language Specification.(”ı×Ÿşÿÿÿÿ
-psquid:ModifiersOrderCheckª"EReorder the modifiers to comply with the Java Language Specification.(‰öËÆÿÿÿÿÿ
-ksquid:ModifiersOrderCheck®"EReorder the modifiers to comply with the Java Language Specification.(­œ™
-jsquid:ModifiersOrderCheck²"EReorder the modifiers to comply with the Java Language Specification.(„‰Ñ
-psquid:ModifiersOrderCheck¶"EReorder the modifiers to comply with the Java Language Specification.(Ä£ğïÿÿÿÿÿ
-ksquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(üŒÎ˜
-ksquid:ModifiersOrderCheckÄ"EReorder the modifiers to comply with the Java Language Specification.(ö­ÿÏ
-ksquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(§Ş•»
-psquid:ModifiersOrderCheckÖ"EReorder the modifiers to comply with the Java Language Specification.(ğÿĞáüÿÿÿÿ
-<squid:S1659Ş"$Declare "region" on a separate line.(–‚Öı
-<squid:S1659Ş"$Declare "script" on a separate line.(–‚Öı
-=squid:S1659Ş"%Declare "country" on a separate line.(–‚Öı
-=squid:S1659Ş"%Declare "variant" on a separate line.(–‚Öı
-bsquid:S2886­"ESynchronize this method to match the synchronization on "setDefault".(ÁÄô†ıÿÿÿÿ
-osquid:S3776Š
-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Îê‚‡úÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheckº"mRemove the declaration of thrown exception 'java.util.MissingResourceException' which is a runtime exception.(ÔÈã‘
-Ÿ%squid:RedundantThrowsDeclarationCheckÕ"mRemove the declaration of thrown exception 'java.util.MissingResourceException' which is a runtime exception.(âô÷ü
-Psquid:S1197˜"8Move the array designator from the variable to the type.(›íŸ
-osquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(àïÔÃüÿÿÿÿ
->squid:S2129ˆ"!Remove this "Integer" constructor( •Ÿ±ûÿÿÿÿ
-]squid:CallToDeprecatedMethodˆ"/Remove this use of "Integer"; it is deprecated.( •Ÿ±ûÿÿÿÿ
-psquid:S2975§"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
-jsquid:ModifiersOrderCheckæ"EReorder the modifiers to comply with the Java Language Specification.(Â»Á<
-ksquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(öğ™ë
-psquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(ÜŞ²İúÿÿÿÿ
->squid:S2129¢"!Remove this "Integer" constructor(ÏşĞıÿÿÿÿ
-]squid:CallToDeprecatedMethod¢"/Remove this use of "Integer"; it is deprecated.(ÏşĞıÿÿÿÿ
-@squid:S4274Ü"(Replace this assert with a proper check.(óò¿œ
-Fsquid:S2786Ğ")Remove this redundant "static" qualifier.(ºœœ øÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckõ"Remove this empty statement.(ôŸìúÿÿÿÿ
-osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ãŸƒÄøÿÿÿÿ
-Wsquid:S1068Ü":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ

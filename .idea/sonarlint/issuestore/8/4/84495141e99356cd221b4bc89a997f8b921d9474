@@ -1,35 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡ª•çşÿÿÿÿ
-^squid:S00112I"FDefine and throw a dedicated exception instead of using a generic one.(Èâˆ
-ksquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡àïùÿÿÿÿ
-fsquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸŒıÛ
-esquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úğ–F
-ksquid:S00100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¥Š‘üÿÿÿÿ
-ksquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¦•ıÿÿÿÿ
-esquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¨êt
-esquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰×üd
-ksquid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø›ª¸ÿÿÿÿÿ
-esquid:S00100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŸ¢
-ksquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÑµµúÿÿÿÿ
-ksquid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÕŸÄÿÿÿÿÿ
-esquid:S00100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŒ¶5
-ksquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ±Ÿèüÿÿÿÿ
-fsquid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕïÆ‚
-fsquid:S001000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ²ú»
-ksquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éú´¥ÿÿÿÿÿ
-fsquid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é“¢
-fsquid:S001003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯«°ô
-esquid:S001004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŸíp
-fsquid:S001005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö·ù
-ksquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ»†Îøÿÿÿÿ
-ksquid:S001007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÁÏØÿÿÿÿÿ
-esquid:S001008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŒ<
-ksquid:S001009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€„¡Œüÿÿÿÿ
-ksquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÏÚşÿÿÿÿ
-fsquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆèŞ«
-ksquid:S00100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ãåıÿÿÿÿ
-ksquid:S00100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¦´øÿÿÿÿ
-ksquid:S00100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÈÿúıÿÿÿÿ
-ksquid:S00100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……¶‡úÿÿÿÿ
-esquid:S00100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÒ’*
-fsquid:S00100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èâˆ

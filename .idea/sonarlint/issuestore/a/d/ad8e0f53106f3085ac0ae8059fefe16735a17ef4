@@ -1,31 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-ssquid:S1192İ"VDefine a constant instead of duplicating this literal "HIERARCHY_REQUEST_ERR" 3 times.(’áò—úÿÿÿÿ
-ksquid:S1192„"NDefine a constant instead of duplicating this literal "NOT_FOUND_ERR" 3 times.(«ĞÙùÿÿÿÿ
-ysquid:S1192­"\Define a constant instead of duplicating this literal "NO_MODIFICATION_ALLOWED_ERR" 3 times.(Ñ°°ßşÿÿÿÿ
-asquid:S2259 "IA "NullPointerException" could be thrown; "oldInternal" is nullable here.(²Ï™İ
-fsquid:S2259—"IA "NullPointerException" could be thrown; "oldInternal" is nullable here.(•¯çîøÿÿÿÿ
-ysquid:S4144—"\Update this method so that its implementation is not identical to "getNodeName" on line 328.(ú›Šøøÿÿÿÿ
-|squid:S1149ª"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï œĞøÿÿÿÿ
-Rsquid:S1161ö":Add the "@Override" annotation above this method signature(ÔÿöÈ
-š%squid:RedundantThrowsDeclarationCheckÙ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¹Îºñúÿÿÿÿ
-jsquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(´Òçº
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¼ÿ‹‹
-bsquid:HiddenFieldCheckª":Rename "value" which hides the field declared at line 179.(ï œĞøÿÿÿÿ
-Msquid:S1133ä"5Do not forget to remove this deprecated code someday.(¯öÍá
-Psquid:MissingDeprecatedCheckä"'Add the missing @Deprecated annotation.(¯öÍá
-9squid:S1659""Declare "next" on a separate line.(¿ø2
-Rsquid:S1161À":Add the "@Override" annotation above this method signature(Á»›ê
-š%squid:RedundantThrowsDeclarationCheck³"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÁ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-osquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÔáÍ³ûÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckí"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck€"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÛ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-Rsquid:S1161€	":Add the "@Override" annotation above this method signature(èïÊ’
-Wsquid:S1161˜	":Add the "@Override" annotation above this method signature(¯Îùüûÿÿÿÿ
-@squid:S1185º	"(Remove this method to simply inherit it.(Ä¿Ş×
-Wsquid:S1161ê	":Add the "@Override" annotation above this method signature(íïßÿúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(‘ÿö„úÿÿÿÿ
-csquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(İÔ‹Ğ

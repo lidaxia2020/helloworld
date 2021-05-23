@@ -1,9 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-…"squid:ClassVariableVisibilityCheck9"RMake m_next a static final constant or non-public and provide accessors if needed.(×‰ì¼ûÿÿÿÿ
-"squid:ClassVariableVisibilityCheck?"TMake m_prefix a static final constant or non-public and provide accessors if needed.(óøÙv
-"squid:ClassVariableVisibilityCheckE"QMake m_uri a static final constant or non-public and provide accessors if needed.(ŒúÙ
-nsquid:S001169"QRename this field "m_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‰ì¼ûÿÿÿÿ
-jsquid:S00116?"SRename this field "m_prefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óøÙv
-hsquid:S00116E"PRename this field "m_uri" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒúÙ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

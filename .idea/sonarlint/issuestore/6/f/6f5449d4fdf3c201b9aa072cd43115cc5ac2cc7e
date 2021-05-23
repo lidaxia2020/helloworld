@@ -1,6 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-Psquid:S1118.":Add a private constructor to hide the implicit public one.(«¡Š^
-{squid:S1149g"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÙŒêìÿÿÿÿÿ
-Osquid:S1197O"8Move the array designator from the variable to the type.(¤³ş
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

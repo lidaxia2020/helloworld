@@ -1,36 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
-Vsquid:S00107Ø"=Method has 11 parameters, which is greater than 7 authorized.(‚Àø×
-Qsquid:S1118?":Add a private constructor to hide the implicit public one.(ò˜íë
-Vsquid:S1161L":Add the "@Override" annotation above this method signature(Û„ö’ıÿÿÿÿ
-Vsquid:S1161V":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
-?squid:S1172["(Remove this unused method parameter "c".(¶ÆŸ
-Vsquid:S1161k":Add the "@Override" annotation above this method signature(Û„ö’ıÿÿÿÿ
-Vsquid:S1161u":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
-osquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Û„ö’ıÿÿÿÿ
-Wsquid:S1161‰":Add the "@Override" annotation above this method signature(Û„ö’ıÿÿÿÿ
-Wsquid:S1161Â":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
-Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(“ ˆûÿÿÿÿÿ
-Wsquid:S1161å":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
-Rsquid:S1161ñ":Add the "@Override" annotation above this method signature(ƒ¹—”
-@squid:S1125ö"(Remove the literal "true" boolean value.(ŸÙ¶›
-Wsquid:S1161ş":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
-ksquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(°Ïä
-Qsquid:S1161±":Add the "@Override" annotation above this method signature(ıç‘
-Csquid:S1172¹"&Remove these unused method parameters.(êñøäşÿÿÿÿ
->squid:S1172Ü"&Remove these unused method parameters.( ëÜ
-Csquid:S1172ö"&Remove these unused method parameters.(ª–»¢ÿÿÿÿÿ
-@squid:S1172‘"(Remove this unused method parameter "y".(Ş‰â¦
-<squid:S1659”"$Declare "startY" on a separate line.(¥¾İì
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(û¦ØÉøÿÿÿÿ
-psquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(ú¶ÛÆùÿÿÿÿ
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(êñøäşÿÿÿÿ
-Rsquid:S1161”":Add the "@Override" annotation above this method signature( ëÜ
-Wsquid:S1161¨":Add the "@Override" annotation above this method signature(ª–»¢ÿÿÿÿÿ
-Rsquid:S1161½":Add the "@Override" annotation above this method signature(Ş‰â¦
-Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(àÊçèúÿÿÿÿ
-jsquid:ModifiersOrderCheck–"EReorder the modifiers to comply with the Java Language Specification.(œ”Õ,
-psquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(æˆ«¢øÿÿÿÿ
-Rsquid:S1161½":Add the "@Override" annotation above this method signature(ƒ¹—”
-Wsquid:S1161î":Add the "@Override" annotation above this method signature(³Ş–Âÿÿÿÿÿ
-Isquid:S1481”"1Remove this unused "marginHeight" local variable.(¥¾İì

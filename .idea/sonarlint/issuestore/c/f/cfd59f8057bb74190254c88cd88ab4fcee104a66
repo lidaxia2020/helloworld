@@ -1,21 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
-Qsquid:S11184":Add a private constructor to hide the implicit public one.(‡×ÓŞ
-vsquid:S1149p"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆÊı¢
-wsquid:S1149¨"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆÊı¢
-U
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
-P
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ºùÆÉ
-lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï´²ÿÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(¼Àáíüÿÿÿÿ
-gsquid:S00100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºãÃ¸
-U
-squid:S106”"9Replace this use of System.out or System.err by a logger.(ô¹şøÿÿÿÿ
-lsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ûÈÙüÿÿÿÿ
-P
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(Æ¨—¡
-bsquid:S3027Ä"JPut single-quotes around ':' to use the faster "lastIndexOf(char)" method.(´˜­Ö
-bsquid:S3027É"JPut single-quotes around ':' to use the faster "lastIndexOf(char)" method.(´˜­Ö
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

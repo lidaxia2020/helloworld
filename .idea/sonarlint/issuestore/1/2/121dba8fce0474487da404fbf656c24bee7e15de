@@ -1,22 +1,0 @@
-
-ksquid:S3824¢"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÍåØÖøÿÿÿÿ
-ksquid:S3824¹"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(€­†‘ÿÿÿÿÿ
-`squid:S1192Ø"HDefine a constant instead of duplicating this literal " class=" 3 times.(âŒÇä
-"squid:ClassVariableVisibilityCheck£"PMake refs a static final constant or non-public and provide accessors if needed.(îˆé¨
-†"squid:ClassVariableVisibilityCheck¤"RMake marked a static final constant or non-public and provide accessors if needed.(¨Ìƒœøÿÿÿÿ
-„"squid:ClassVariableVisibilityCheck¥"PMake name a static final constant or non-public and provide accessors if needed.(“¤ÙØøÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheck¦"OMake exp a static final constant or non-public and provide accessors if needed.(¸’½ûÿÿÿÿ
-[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(–€øÿÿÿÿ
-Wsquid:S1161¯":Add the "@Override" annotation above this method signature(Øå†¼üÿÿÿÿ
-Wsquid:S1161ù":Add the "@Override" annotation above this method signature(ßîû©ıÿÿÿÿ
-esquid:HiddenFieldCheckû"=Rename "internal" which hides the field declared at line 284.(øŒ…şÿÿÿÿ
-Gsquid:S00108‘")Either remove or fill this block of code.(Ûâ™ƒÿÿÿÿÿ
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(üøúÿÿÿÿ
-esquid:HiddenFieldCheck¸"=Rename "internal" which hides the field declared at line 284.(øŒ…şÿÿÿÿ
-Wsquid:S1161÷":Add the "@Override" annotation above this method signature(“„Õåÿÿÿÿÿ
-@squid:S5413‚")Verify that "remove()" is used correctly.(•‘ê.
-osquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÿàÔªøÿÿÿÿ
-jsquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÿÇì
-Gsquid:S00108×")Either remove or fill this block of code.(Û®‹ôşÿÿÿÿ
-csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(×ñ”‹
-csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Èø­Ï

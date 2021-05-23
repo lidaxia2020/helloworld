@@ -1,21 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-[squid:S2583"CChange this condition so that it does not always evaluate to "true"(šÊáõ
-ssquid:S00116K"VRename this field "m_blocksize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì™œüÿÿÿÿ
-ssquid:S00116N"VRename this field "m_numblocks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¡½¼üÿÿÿÿ
-msquid:S00116Q"PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙØà“úÿÿÿÿ
-ssquid:S00116T"VRename this field "m_firstFree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½—ºµùÿÿÿÿ
-hsquid:S00116W"QRename this field "m_map0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÃà
-Tsquid:S1197Q"8Move the array designator from the variable to the type.(ÙØà“úÿÿÿÿ
-Nsquid:S1197W"8Move the array designator from the variable to the type.(œÃà
-Osquid:S1172"3Remove this unused method parameter "increaseSize".(»ÆÈŒûÿÿÿÿ
-jsquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(”Åİú
-osquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ËÒÑüúÿÿÿÿ
-Wsquid:UnusedPrivateMethod",Remove this unused private "setSize" method.(ü“¿ıÿÿÿÿ
-Vsquid:UnusedPrivateMethodÍ"0Remove this unused private "addElements" method.(”Åİú
-[squid:UnusedPrivateMethodú"0Remove this unused private "addElements" method.(½†¢æıÿÿÿÿ
-_squid:UnusedPrivateMethod˜"4Remove this unused private "insertElementAt" method.(÷‚¯üÿÿÿÿ
-Xsquid:UnusedPrivateMethodæ"2Remove this unused private "removeElement" method.(€Ûı
-Ssquid:UnusedPrivateMethodõ"-Remove this unused private "contains" method.(úÙ¥ä
-[squid:UnusedPrivateMethodÆ"0Remove this unused private "lastIndexOf" method.(Û§¨¨øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

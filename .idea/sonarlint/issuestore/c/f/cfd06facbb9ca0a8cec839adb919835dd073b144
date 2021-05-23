@@ -1,25 +1,0 @@
-
-Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-‡"squid:ClassVariableVisibilityCheck&"TMake identity a static final constant or non-public and provide accessors if needed.(ø¥·Øıÿÿÿÿ
-Bsquid:S2160"+Override the "equals" method in this class.(¿¨»
-|squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¿¨»
-|squid:S1149u"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æ¼¸”
-‚squid:S1149ˆ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".( ¼Á©üÿÿÿÿ
-‚squid:S1149Ş"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(çñáûÿÿÿÿ
-}squid:S1149ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Âæ–
-}squid:S1149è"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(€Şê¢
-‚squid:S1149¤"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸÒíêıÿÿÿÿ
-‚squid:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(×· —ûÿÿÿÿ
-fsquid:S2445ğ"I"list" is a method parameter, and should not be used for synchronization.(Üà¾¸ùÿÿÿÿ
-Usquid:S1197»"8Move the array designator from the variable to the type.(•ğªıÿÿÿÿ
-Osquid:S1197Ï"8Move the array designator from the variable to the type.(”Ù£
-Psquid:S1197ô"8Move the array designator from the variable to the type.(Ïœ ˜
-Usquid:S1197ƒ"8Move the array designator from the variable to the type.(“»şûÿÿÿÿ
-ksquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(€Şê¢
-Asquid:S1125ü")Remove the literal "false" boolean value.(çºÂÕ
-ksquid:S2975”"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(–Î¾Ú
-`squid:S1182”"HUse super.clone() to create and seed the cloned instance to be returned.(–Î¾Ú
-Fsquid:S1125¦")Remove the literal "false" boolean value.(…ĞÙÃøÿÿÿÿ
-xsquid:CallToDeprecatedMethodÛ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
-a"squid:ObjectFinalizeOverridenCheckÛ"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
-hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(£şÎãıÿÿÿÿ

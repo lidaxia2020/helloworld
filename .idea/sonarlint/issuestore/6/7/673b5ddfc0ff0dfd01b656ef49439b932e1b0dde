@@ -1,7 +1,0 @@
-
-Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(öž åÿÿÿÿÿ
-gsquid:S1192°"JDefine a constant instead of duplicating this literal "CertStore" 3 times.(ãÍóÆüÿÿÿÿ
-@squid:S1604Ž"(Make this anonymous inner class a lambda(£‹™Ò
->squid:S1452Ë"&Remove usage of generic wildcard type.(›ï¯“
->squid:S1452ô"&Remove usage of generic wildcard type.(’‚’ü
-psquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(¹§Ôœýÿÿÿÿ

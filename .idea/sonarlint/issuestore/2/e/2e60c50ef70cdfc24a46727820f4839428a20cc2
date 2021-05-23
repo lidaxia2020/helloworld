@@ -1,15 +1,0 @@
-
-psquid:ModifiersOrderCheckÎ"EReorder the modifiers to comply with the Java Language Specification.(üì‘êúÿÿÿÿ
-ksquid:ModifiersOrderCheckÏ"EReorder the modifiers to comply with the Java Language Specification.(ààíÇ
-Bsquid:S00108ë")Either remove or fill this block of code.(ö—¥
-gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(º»Ÿ°ûÿÿÿÿ
-bsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(¯¦Å¨
-gsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(ÂÇª¦ıÿÿÿÿ
-bsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(‹›£
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹›£
-csquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(·´ª£
-csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(¸„ıü
-csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(óÅ
-csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(˜ÂÇì
-bsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(ƒò•s
-csquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(·´ª£

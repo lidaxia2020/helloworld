@@ -1,150 +1,0 @@
-
-ksquid:S1192Ä"SDefine a constant instead of duplicating this literal "toKey out of range" 4 times.(¹›ñÿ
-msquid:S1192Â"UDefine a constant instead of duplicating this literal "fromKey out of range" 4 times.(ÑÃß
-d$squid:AssignmentInSubExpressionCheckä".Extract the assignment out of this expression.(üÑ±ÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck’".Extract the assignment out of this expression.(šÖûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¹".Extract the assignment out of this expression.(é·©½üÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÄ".Extract the assignment out of this expression.(±Âõİıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck´".Extract the assignment out of this expression.(îÄÎìüÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckİ".Extract the assignment out of this expression.(ëôØ±
-_$squid:AssignmentInSubExpressionCheck÷".Extract the assignment out of this expression.(·òÁı
-_$squid:AssignmentInSubExpressionCheck´".Extract the assignment out of this expression.(ëôØ±
-_$squid:AssignmentInSubExpressionCheckÎ".Extract the assignment out of this expression.(¿¬íÑ
-d$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(¾Èùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(¾Èùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÆ".Extract the assignment out of this expression.(¾Èùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÆ".Extract the assignment out of this expression.(¾Èùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¾Èùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¾Èùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck×".Extract the assignment out of this expression.(¾Èùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck×".Extract the assignment out of this expression.(¾Èùÿÿÿÿ
-\squid:S2259ª"?A "NullPointerException" could be thrown; "s" is nullable here.(ë±Âÿÿÿÿÿ
-Zsquid:UselessImportCheck"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ
-Csquid:S2160’"+Override the "equals" method in this class.(Ïİá‡
-]squid:S2147‹"ECombine this catch with the one at line 266, which has the same body.(åãÃÔ
-Asquid:S00108Š")Either remove or fill this block of code.(æ¶…
-Bsquid:S00108‹")Either remove or fill this block of code.(åãÃÔ
-]squid:S2147¢"ECombine this catch with the one at line 417, which has the same body.(åãÃÔ
-Asquid:S00108¡")Either remove or fill this block of code.(æ¶…
-Bsquid:S00108¢")Either remove or fill this block of code.(åãÃÔ
-jsquid:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Á¯Ñœ
-osquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ş†À’üÿÿÿÿ
-osquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÜŒ©¼ûÿÿÿÿ
-osquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Éßùşÿÿÿÿ
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(µ„Ô›
-ksquid:S2975ö"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-Rsquid:S1161ö":Add the "@Override" annotation above this method signature(²ÈŞ
-]squid:S2147Š"ECombine this catch with the one at line 777, which has the same body.(åãÃÔ
-Asquid:S00108‰")Either remove or fill this block of code.(æ¶…
-Bsquid:S00108Š")Either remove or fill this block of code.(åãÃÔ
-Wsquid:S1161Ü	":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ
-Wsquid:S1161à	":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ
-Wsquid:S1161ê	":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
-Wsquid:S1161î	":Add the "@Override" annotation above this method signature(ù¢İ­ÿÿÿÿÿ
-psquid:S2293ï	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÄço
-Rsquid:S1161–
-":Add the "@Override" annotation above this method signature(¶•ãü
-qsquid:S2293—
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(´îğ 
-Hsquid:S2160¯
-"+Override the "equals" method in this class.(Ò‰µÍúÿÿÿÿ
-Wsquid:S1161ñ
-":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
-Wsquid:S1161¡":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-fsquid:S2272³"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó
-fsquid:S2272¼"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Èç•Ê
-fsquid:S2272Å"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³
-fsquid:S2272Î"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³
-Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-=squid:S1659À" Declare "hi" on a separate line.(êôŒ«ıÿÿÿÿ
-;squid:S1659Á"#Declare "toEnd" on a separate line.(½·ŒÈ
-Asquid:S1659Â")Declare "hiInclusive" on a separate line.(ºŸÿ’
-Csquid:S2160©"+Override the "equals" method in this class.(Ò¬”
-Jsquid:S2388Ó"-Prefix this call to "entrySet" with "super.".(Ä†üèùÿÿÿÿ
-Esquid:S2388×"-Prefix this call to "entrySet" with "super.".(¶º«ä
-Osquid:S2388¼"2Prefix this call to "descendingMap" with "super.".(Ó¾Üšûÿÿÿÿ
-Csquid:S2388À"+Prefix this call to "subMap" with "super.".(Ô¤¢
-Isquid:S2388Ä",Prefix this call to "headMap" with "super.".(†â˜èüÿÿÿÿ
-Isquid:S2388È",Prefix this call to "tailMap" with "super.".(’‰î´üÿÿÿÿ
-@squid:S1948²"#Make "m" transient or serializable.(ˆˆŠİÿÿÿÿÿ
-Asquid:S1948À"$Make "lo" transient or serializable.(êôŒ«ıÿÿÿÿ
-Asquid:S1948À"$Make "hi" transient or serializable.(êôŒ«ıÿÿÿÿ
-asquid:S3358‡"DExtract this nested ternary operation into an independent statement.(™›Ö¯úÿÿÿÿ
-\squid:S3358"DExtract this nested ternary operation into an independent statement.(ÎŒã´
-\squid:S3358²"DExtract this nested ternary operation into an independent statement.(ş±—š
-\squid:S3358¹"DExtract this nested ternary operation into an independent statement.(ËÇ‘‘
-Hsquid:S2065Î"0Remove the "transient" modifier from this field.(º‰¨Ä
-Hsquid:S2065Î"0Remove the "transient" modifier from this field.(º‰¨Ä
-Bsquid:S1659Î"*Declare "sizeModCount" on a separate line.(º‰¨Ä
-Csquid:S2160Í"+Override the "equals" method in this class.( ¦¯
-fsquid:S2272Í"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó
-Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-fsquid:S2272Û"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(±Ê¨ó
-Wsquid:S1161Ş":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-fsquid:S2272ê"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³
-Wsquid:S1161í":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Rsquid:S1161ó":Add the "@Override" annotation above this method signature(÷ƒµ—
-Wsquid:S1161…":Add the "@Override" annotation above this method signature(üğÇÂùÿÿÿÿ
-fsquid:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ˆ™³
-Wsquid:S1161“":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Rsquid:S1161™":Add the "@Override" annotation above this method signature(÷ƒµ—
-Csquid:S2160‡"+Override the "equals" method in this class.(ŞÙÑ’
-Ksquid:S1948"3Make "reverseComparator" transient or serializable.(–éˆÇ
-@squid:S1659é"#Declare "toEnd" on a separate line.(¸Æ¬åıÿÿÿÿ
-;squid:S1659ê"#Declare "toKey" on a separate line.(õÀ¡
-Hsquid:S2160æ"+Override the "equals" method in this class.(å™·œıÿÿÿÿ
-Gsquid:S3985æ"*Remove this unused private "SubMap" class.(å™·œıÿÿÿÿ
-Asquid:S1948ê")Make "fromKey" transient or serializable.(õÀ¡
-?squid:S1948ê"'Make "toKey" transient or serializable.(õÀ¡
-*squid:S2176‡"Rename this class.(ÿÅÛ¤
-jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨¢Á©
-jsquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(´Öƒı
-osquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(©¼¬øÿÿÿÿ
-asquid:HiddenFieldCheckÀ"9Rename "size" which hides the field declared at line 170.(Ó•š•øÿÿÿÿ
-^squid:S2147Ğ"FCombine this catch with the one at line 2767, which has the same body.(åãÃÔ
-Asquid:S00108Ï")Either remove or fill this block of code.(æ¶…
-Bsquid:S00108Ğ")Either remove or fill this block of code.(åãÃÔ
-qsquid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(şœ“ÿ
-vsquid:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(³•ó‘úÿÿÿÿ
-7squid:S1659Ï"Declare "t" on a separate line.(Í¬Ù
-<squid:S1659î"Declare "f" on a separate line.(µ„Ìûÿÿÿÿ
-7squid:S1659ï"Declare "s" on a separate line.(Î˜›Ï
-asquid:S3358ğ"DExtract this nested ternary operation into an independent statement.(´Á‘ñüÿÿÿÿ
-asquid:S3358ñ"DExtract this nested ternary operation into an independent statement.(¾€¾Äÿÿÿÿÿ
-asquid:S3358ò"DExtract this nested ternary operation into an independent statement.(”Ë–àøÿÿÿÿ
-jsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷ƒµ—
-Rsquid:S1161ı":Add the "@Override" annotation above this method signature(÷ƒµ—
-<squid:S1659‚"Declare "e" on a separate line.(ÄºŸ¬úÿÿÿÿ
-<squid:S1659‚"Declare "p" on a separate line.(ÄºŸ¬úÿÿÿÿ
-=squid:S1659‚" Declare "pl" on a separate line.(ÄºŸ¬úÿÿÿÿ
-Wsquid:S1161©":Add the "@Override" annotation above this method signature(üğÇÂùÿÿÿÿ
-<squid:S1659¼"Declare "f" on a separate line.(µ„Ìûÿÿÿÿ
-7squid:S1659½"Declare "s" on a separate line.(Î˜›Ï
-asquid:S3358¾"DExtract this nested ternary operation into an independent statement.(´Á‘ñüÿÿÿÿ
-[squid:S3358¿"DExtract this nested ternary operation into an independent statement.(ÅÒÂ|
-asquid:S3358À"DExtract this nested ternary operation into an independent statement.(şËñÜÿÿÿÿÿ
-jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷ƒµ—
-Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(÷ƒµ—
-7squid:S1659Ğ"Declare "e" on a separate line.(µ²òÀ
-7squid:S1659Ğ"Declare "p" on a separate line.(µ²òÀ
-8squid:S1659Ğ" Declare "pr" on a separate line.(µ²òÀ
-<squid:S1659…"Declare "f" on a separate line.(µ„Ìûÿÿÿÿ
-7squid:S1659†"Declare "s" on a separate line.(Î˜›Ï
-asquid:S3358‡"DExtract this nested ternary operation into an independent statement.(´Á‘ñüÿÿÿÿ
-asquid:S3358ˆ"DExtract this nested ternary operation into an independent statement.(¾€¾Äÿÿÿÿÿ
-asquid:S3358‰"DExtract this nested ternary operation into an independent statement.(”Ë–àøÿÿÿÿ
-jsquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ğ¸¯¡
-Rsquid:S1161”":Add the "@Override" annotation above this method signature(ğ¸¯¡
-<squid:S1659™"Declare "e" on a separate line.(ÄºŸ¬úÿÿÿÿ
-<squid:S1659™"Declare "p" on a separate line.(ÄºŸ¬úÿÿÿÿ
-=squid:S1659™" Declare "pl" on a separate line.(ÄºŸ¬úÿÿÿÿ
-<squid:S1659Í"Declare "f" on a separate line.(µ„Ìûÿÿÿÿ
-7squid:S1659Î"Declare "s" on a separate line.(Î˜›Ï
-asquid:S3358Ï"DExtract this nested ternary operation into an independent statement.(´Á‘ñüÿÿÿÿ
-asquid:S3358Ğ"DExtract this nested ternary operation into an independent statement.(¾€¾Äÿÿÿÿÿ
-asquid:S3358Ñ"DExtract this nested ternary operation into an independent statement.(”Ë–àøÿÿÿÿ
-osquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ˆ¶÷ºşÿÿÿÿ
-Wsquid:S1161Ü":Add the "@Override" annotation above this method signature(ˆ¶÷ºşÿÿÿÿ
-<squid:S1659á"Declare "e" on a separate line.(ÄºŸ¬úÿÿÿÿ
-<squid:S1659á"Declare "p" on a separate line.(ÄºŸ¬úÿÿÿÿ
-=squid:S1659á" Declare "pl" on a separate line.(ÄºŸ¬úÿÿÿÿ

@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(†õ„§øÿÿÿÿ
-wsquid:S1488h"`Immediately return this expression instead of assigning it to the temporary variable "contents".(ÆÑÇä
-jsquid:S00101@"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾Öîüÿÿÿÿ
-Vsquid:UselessImportCheck!"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
-hsquid:UselessImportCheck""?Remove this unused import 'java.util.MissingResourceException'.(å—¡Şşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

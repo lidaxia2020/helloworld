@@ -1,206 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckç"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
-Lsquid:S1066¢"/Merge this if statement with the enclosing one.(ÜàÂ¨üÿÿÿÿ
-Gsquid:S1066Ô"/Merge this if statement with the enclosing one.(ı¾°—
-Lsquid:S1066é"/Merge this if statement with the enclosing one.(Öæ÷¸ùÿÿÿÿ
-Lsquid:S1066ó"/Merge this if statement with the enclosing one.(½¢ìÃıÿÿÿÿ
-Lsquid:S1066Ù"/Merge this if statement with the enclosing one.(ïğ…£ıÿÿÿÿ
-Lsquid:S1066ƒ"/Merge this if statement with the enclosing one.(·ù¼’øÿÿÿÿ
-Lsquid:S1066Â"/Merge this if statement with the enclosing one.(¶Æ–Íúÿÿÿÿ
-Gsquid:S1066Ã"/Merge this if statement with the enclosing one.(éó®Ò
-Gsquid:S1066Ò"/Merge this if statement with the enclosing one.(ÿ–šô
-Gsquid:S1066¨"/Merge this if statement with the enclosing one.(ø¶Şö
-Lsquid:S1066ö"/Merge this if statement with the enclosing one.(Ë’ùıÿÿÿÿ
-Lsquid:S1066‹"/Merge this if statement with the enclosing one.(ê×À†øÿÿÿÿ
-Gsquid:S1066¼"/Merge this if statement with the enclosing one.(ÚóÄ
-Gsquid:S1066Ç"/Merge this if statement with the enclosing one.(ÚóÄ
-Lsquid:S1066¬"/Merge this if statement with the enclosing one.(öùÄëøÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheck©".Extract the assignment out of this expression.(‰¥n
-u
-squid:S135ò"YReduce the total number of break and continue statements in this loop to use at most one.(¥¡Âòÿÿÿÿÿ
-p
-squid:S135Ù"YReduce the total number of break and continue statements in this loop to use at most one.(·µ˜
-p
-squid:S135‘"YReduce the total number of break and continue statements in this loop to use at most one.(‚¦™µ
-Rsquid:S1141´"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-†"squid:ClassVariableVisibilityCheck“"WMake fValueTypes a static final constant or non-public and provide accessors if needed.(öÁÎ˜
-"squid:ClassVariableVisibilityCheck”"[Make fItemValueTypes a static final constant or non-public and provide accessors if needed.(²¬ÛÓûÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheckØ""OMake fId a static final constant or non-public and provide accessors if needed.(Ü–š×ıÿÿÿÿ
-†"squid:ClassVariableVisibilityCheckÙ""RMake fDepth a static final constant or non-public and provide accessors if needed.(“ˆì“øÿÿÿÿ
-Vsquid:S4973"9Use the "equals" method if value comparison was intended.(¤Ò¾ôùÿÿÿÿ
-Vsquid:S4973"9Use the "equals" method if value comparison was intended.(àÃ¤¡şÿÿÿÿ
-Vsquid:S4973"9Use the "equals" method if value comparison was intended.(ûÓ¥‰ıÿÿÿÿ
-Qsquid:S4973“"9Use the "equals" method if value comparison was intended.(¬±Ñİ
-Vsquid:S4973—"9Use the "equals" method if value comparison was intended.(¼õÊöÿÿÿÿÿ
-Qsquid:S4973™"9Use the "equals" method if value comparison was intended.(¦ƒ»
-Vsquid:S4973¢"9Use the "equals" method if value comparison was intended.(´¨óşÿÿÿÿ
-Vsquid:S4973³"9Use the "equals" method if value comparison was intended.(˜æÙ­ûÿÿÿÿ
-Qsquid:S4973´"9Use the "equals" method if value comparison was intended.(È˜ˆ£
-Vsquid:S4973·"9Use the "equals" method if value comparison was intended.(¤« ºùÿÿÿÿ
-asquid:S2259Æ"JA "NullPointerException" could be thrown; "defaultValue" is nullable here.(à’ÿ-
-jsquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü„óé
-Bsquid:UselessImportCheck)"Remove this duplicated import.(÷‰îƒ
-Wsquid:UselessImportCheck*"3Remove this unused import 'javax.xml.XMLConstants'.(Ğøš
-Usquid:S1155©">Use isEmpty() to check whether the collection is empty or not.(‰¥n
-squid:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›Ó“¹üÿÿÿÿ
-squid:S1186ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ËØøòúÿÿÿÿ
-ssquid:S1149Î"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ç¿Ãÿÿÿÿÿ
-}squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(×øøˆ
-ssquid:S1149’"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ç÷ó­ÿÿÿÿÿ
-|squid:S1149Æ
-"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÿü÷˜ıÿÿÿÿ
-|squid:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÔŒøO
-ssquid:S1149›"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(–‰¡²üÿÿÿÿ
-}squid:S1149‰"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ßÂÀß
-|squid:S1149Š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ĞÀÒôüÿÿÿÿ
-}squid:S1149’"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Íô§­
-‚squid:S1149”"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(²¬ÛÓûÿÿÿÿ
-|squid:S1149Ÿ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(–Ÿ¶øıÿÿÿÿ
-}squid:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼”Ù
-‚squid:S1149É"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(êŸÏŞüÿÿÿÿ
-wsquid:S1149Ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
-‚squid:S1149ğ "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(çŒÖÑùÿÿÿÿ
-nsquid:S1149ÿ "VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(÷Í ®
-msquid:S1149”!"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(•¿…·ùÿÿÿÿ
-ssquid:S1149•!"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(àÕÚÌıÿÿÿÿ
-nsquid:S1149À!"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Í±ƒÙ
-}squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(×øøˆ
->squid:S1168½"&Return an empty array instead of null.(¥¹ï
->squid:S1168Å"&Return an empty array instead of null.(¥¹ï
->squid:S1168Õ"&Return an empty array instead of null.(¥¹ï
->squid:S1168İ"&Return an empty array instead of null.(¥¹ï
-µ%squid:RedundantThrowsDeclarationChecké"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckö"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Csquid:S1905«"+Remove this unnecessary cast to "String[]".(ó¶Ïª
-Ê%squid:RedundantThrowsDeclarationCheckÃ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(›Ó“¹üÿÿÿÿ
-Hsquid:S1905Ï"+Remove this unnecessary cast to "String[]".(§ğ×öÿÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckç"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(ËØøòúÿÿÿÿ
-Esquid:S2447ı"-Null is returned but a "Boolean" is expected.(¥¹ï
-µ%squid:RedundantThrowsDeclarationCheckÜ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckı"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck›"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck²"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÊ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckï"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Â¸¶¼
-°%squid:RedundantThrowsDeclarationCheck›"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¦š¬ö
-µ%squid:RedundantThrowsDeclarationCheck°"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(×¯”şÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÌ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÚ ı
-µ%squid:RedundantThrowsDeclarationCheckâ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Åş†ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck÷"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ª¢ïÃ
-osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿÍ¿úÿÿÿÿ
-‰squid:S3252£"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_ELEMENT".(¼¢ŠÂ
-µ%squid:RedundantThrowsDeclarationCheckÖ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckú"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ıİªò
-°%squid:RedundantThrowsDeclarationCheck	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ƒ­¨„
-µ%squid:RedundantThrowsDeclarationCheck°	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckË	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Œ£¯Å
-Å%squid:RedundantThrowsDeclarationCheck"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(œ¶œÂ
-Csquid:S1172´"&Remove these unused method parameters.(ßÔøÿÿÿÿ
-osquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ì‰†şÿÿÿÿ
-‰squid:S3252Ú"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_ELEMENT".(¼¢ŠÂ
-osquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ó½Àˆşÿÿÿÿ
-ksquid:S1871¨"NThis branch's code block is the same as the block for the branch on line 1827.(ë¨–åıÿÿÿÿ
-3squid:S3626Ş"Remove this redundant jump.(ûÁİ…
-Hsquid:S1172Û"+Remove this unused method parameter "text".(éâÄÿÿÿÿÿ
-psquid:S3776æ"SRefactor this method to reduce its Cognitive Complexity from 108 to the 15 allowed.(ú‘„«ûÿÿÿÿ
-U
-squid:S106é"9Replace this use of System.out or System.err by a logger.(ÿæËúûÿÿÿÿ
-psquid:S3252Ş"XUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_SKIP".(´ñµİ
-rsquid:S3252¢"ZUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_STRICT".(¢çœ
-ˆsquid:S3252Ò"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(Ç¤ê
-squid:S3252ó"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(½¢ìÃıÿÿÿÿ
-‚squid:S3252ô"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_UNION".(ğŸ¢£
-‚squid:S3252„"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_UNION".(ã¬°™
-osquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(æ£½úÿÿÿÿ
-O
-squid:S106Ù"9Replace this use of System.out or System.err by a logger.(Û¡”Z
-wsquid:S3252®"_Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEYREF".(ªØ•î
-|squid:S3252»"_Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEYREF".(ÂÕëÅıÿÿÿÿ
-{squid:S3252•"^Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDATION_FULL".(ğ§Ğ…ùÿÿÿÿ
-{squid:S3252›"^Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDATION_NONE".(¶Àâÿÿÿÿÿ
-ysquid:S3252Ÿ"aUse static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDATION_PARTIAL".(şËü’
-usquid:S3252·"]Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_VALID".(—µÅ
-wsquid:S3252·"_Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_INVALID".(—µÅ
-}squid:S3252º"`Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_NOTKNOWN".(ËúÏ€üÿÿÿÿ
-osquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Ş§¸¹şÿÿÿÿ
-Gsquid:S00108»")Either remove or fill this block of code.(¾ÿ¼­üÿÿÿÿ
-Gsquid:S00108æ")Either remove or fill this block of code.(¾ÿ¼­üÿÿÿÿ
-osquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(ìµºĞşÿÿÿÿ
-U
-squid:S106×"9Replace this use of System.out or System.err by a logger.(µµÙÉıÿÿÿÿ
-<squid:S1659°"$Declare "oneUse" on a separate line.(ê‹•´
-U
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(Ööéüÿÿÿÿ
-usquid:S3252Ñ"XUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_SKIP".(‡Ç¿Óûÿÿÿÿ
-rsquid:S3252ä"ZUse static access with "com.sun.org.apache.xerces.internal.xs.XSWildcard" for "PC_STRICT".(æÁş¹
-Gsquid:S1905ğ"/Remove this unnecessary cast to "XSSimpleType".(şß´
-osquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‘£•æùÿÿÿÿ
-‚squid:S3252ª"kUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_ATOMIC".(±Å^
-vsquid:S3252ô"^Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDATION_FULL".(«¬‰Ä
-usquid:S3252û"]Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_VALID".(ú¨Í
-wsquid:S3252û"_Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_INVALID".(ú¨Í
-isquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ñˆóQ
-U
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(Æã‘õıÿÿÿÿ
-usquid:S3252Ì"]Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDITY_VALID".(¼×İ
-vsquid:S3252Í"^Use static access with "com.sun.org.apache.xerces.internal.xs.ItemPSVI" for "VALIDATION_FULL".(«¬‰Ä
-jsquid:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ö¹›¯
-Œsquid:S3252°"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".(Ó•üÂıÿÿÿÿ
-ˆsquid:S3252»"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(¤üÎü
-osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(¥ˆÅ‡şÿÿÿÿ
-Œsquid:S3252•"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_EMPTY".(¦õ…õşÿÿÿÿ
-ˆsquid:S3252š"pUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_SIMPLE".(¤üÎü
-‰squid:S3252«"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_ELEMENT".(×ïĞì
-‰squid:S3252±"qUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_ELEMENT".(­¸¡Ï
-‡squid:S3252²"oUse static access with "com.sun.org.apache.xerces.internal.xs.XSComplexTypeDefinition" for "CONTENTTYPE_MIXED".( ¬òò
-U
-squid:S106¶"9Replace this use of System.out or System.err by a logger.(×âõ™üÿÿÿÿ
-osquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‰¦Á÷øÿÿÿÿ
-™squid:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»½îÊ
-}squid:S1149’"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Íô§­
-‚squid:S1149”"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(²¬ÛÓûÿÿÿÿ
-|squid:S1149Ÿ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(–Ÿ¶øıÿÿÿÿ
-}squid:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼”Ù
-‚squid:S1149É"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(êŸÏŞüÿÿÿÿ
-wsquid:S1149Ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
-3squid:S3626õ"Remove this redundant jump.(ûÁİ…
-ysquid:S3252Ş"\Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEY".(Óß–áıÿÿÿÿ
-ysquid:S3252î"\Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEY".(Óß–áıÿÿÿÿ
-jsquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(îÁÙİ
-h squid:LabelsShouldNotBeUsedCheck×";Refactor the code to remove this label and the need for it.(ŠÈ—ï
-jsquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(úå¸µ
-m squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(ÌÎúŞúÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(üÒ¾¾
-Rsquid:S1161Û":Add the "@Override" annotation above this method signature(€›‡å
-Rsquid:S1161ˆ ":Add the "@Override" annotation above this method signature(€›‡å
-Wsquid:S1161¶ ":Add the "@Override" annotation above this method signature(ìÜÔÂúÿÿÿÿ
-@squid:S1185Ô "(Remove this method to simply inherit it.(˜€í½
-Rsquid:S1161Ô ":Add the "@Override" annotation above this method signature(˜€í½
-™squid:S1186œ!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œ·
-‚squid:S1149ğ "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(çŒÖÑùÿÿÿÿ
-nsquid:S1149ÿ "VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(÷Í ®
-msquid:S1149”!"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(•¿…·ùÿÿÿÿ
-ssquid:S1149•!"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(àÕÚÌıÿÿÿÿ
-nsquid:S1149À!"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Í±ƒÙ
-Hsquid:S1172Ş!"0Remove this unused method parameter "activator".(ßúÒç
-Q"squid:SwitchLastCaseIsDefaultCheckã!""Add a default case to this switch.(Ù†Ğ
-wsquid:S3252ä!"_Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_UNIQUE".(éëÜ
-tsquid:S3252ó!"\Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEY".(º¨ñ
-wsquid:S3252‚""_Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEYREF".(¦«ºï
-wsquid:S3252ª""_Use static access with "com.sun.org.apache.xerces.internal.xs.XSIDCDefinition" for "IC_KEYREF".(œ“¦Ò
-@squid:S3398õ"(Move this method into "ValueStoreCache".(õàŠÍ
-Osquid:S1068à	"7Remove this unused "DEBUG_NORMALIZATION" private field.(êÿÜÄ
-Lsquid:S1068ä	"/Remove this unused "BUFFER_SIZE" private field.(ı­âÊùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(’‘¿øÿÿÿÿÿ
-hsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(¼öÈÃøÿÿÿÿ
-hsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(À‹èûÿÿÿÿ
-hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Ù¥Şìùÿÿÿÿ
-bsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(Ã×Ş=
-hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(½äª¹úÿÿÿÿ
-csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(•ÔÇ™
-hsquid:CommentedOutCodeLineƒ!"<This block of commented-out lines of code should be removed.(«Û»óıÿÿÿÿ
-csquid:CommentedOutCodeLine…!"<This block of commented-out lines of code should be removed.(ú¨±Û
-bsquid:CommentedOutCodeLine‹!"<This block of commented-out lines of code should be removed.(¦Ü£O
-csquid:CommentedOutCodeLine‘!"<This block of commented-out lines of code should be removed.(¤Ïİ

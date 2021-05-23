@@ -1,114 +1,0 @@
-
-hsquid:S1301Ê"KReplace this "switch" statement by "if" statements to increase readability.(Ñ’‰ÿÿÿÿÿ
-u
-squid:S135‘"YReduce the total number of break and continue statements in this loop to use at most one.(ó ü£øÿÿÿÿ
-Fsquid:S1659b"/Declare "GC_LAMBDA_SUPPORT" on a separate line.(‰”İ±
-Ksquid:S1659l"/Declare "MN_IS_CONSTRUCTOR" on a separate line.(’º„ñşÿÿÿÿ
-@squid:S1659m")Declare "MN_IS_FIELD" on a separate line.(£ÈÆ€
-?squid:S1659n"(Declare "MN_IS_TYPE" on a separate line.(öµñ‰
-Msquid:S1659o"1Declare "MN_CALLER_SENSITIVE" on a separate line.(¸íµğüÿÿÿÿ
-Qsquid:S1659p"5Declare "MN_REFERENCE_KIND_SHIFT" on a separate line.(ìô˜¥úÿÿÿÿ
-Ksquid:S1659q"4Declare "MN_REFERENCE_KIND_MASK" on a separate line.(ş˜ÀÃ
-Jsquid:S1659s"4Declare "MN_SEARCH_SUPERCLASSES" on a separate line.(ÛË¢
-Nsquid:S1659t"2Declare "MN_SEARCH_INTERFACES" on a separate line.(¢Ñ•çøÿÿÿÿ
-Asquid:S1659€"$Declare "T_CHAR" on a separate line.(½„ùúÿÿÿÿ
-=squid:S1659"%Declare "T_FLOAT" on a separate line.(±ÌÎô
->squid:S1659‚"&Declare "T_DOUBLE" on a separate line.(®¯Ôé
-<squid:S1659ƒ"$Declare "T_BYTE" on a separate line.(î±àÖ
-=squid:S1659„"%Declare "T_SHORT" on a separate line.(óé¤ø
-;squid:S1659…"#Declare "T_INT" on a separate line.(äĞ¬‰
-<squid:S1659†"$Declare "T_LONG" on a separate line.(Èò†ø
-Csquid:S1659‡"&Declare "T_OBJECT" on a separate line.(Ú‡ÿÿÿÿÿ
-<squid:S1659‰"$Declare "T_VOID" on a separate line.(ßÇÄ
-Dsquid:S1659‹"'Declare "T_ILLEGAL" on a separate line.(¦£ŒÆüÿÿÿÿ
-Fsquid:S1659•".Declare "CONSTANT_Integer" on a separate line.(â³à°
-Dsquid:S1659–",Declare "CONSTANT_Float" on a separate line.(ßëùÍ
-Csquid:S1659—"+Declare "CONSTANT_Long" on a separate line.(‘«Çù
-Dsquid:S1659˜"-Declare "CONSTANT_Double" on a separate line.(Ãÿö
-Dsquid:S1659™",Declare "CONSTANT_Class" on a separate line.(İ—áÌ
-Jsquid:S1659š"-Declare "CONSTANT_String" on a separate line.(Î³ûÑúÿÿÿÿ
-Lsquid:S1659›"/Declare "CONSTANT_Fieldref" on a separate line.(©üËøüÿÿÿÿ
-Gsquid:S1659œ"0Declare "CONSTANT_Methodref" on a separate line.(¶ıŠu
-Qsquid:S1659"9Declare "CONSTANT_InterfaceMethodref" on a separate line.(£¥ì¬
-Osquid:S1659"2Declare "CONSTANT_NameAndType" on a separate line.(ˆäğşÿÿÿÿ
-Psquid:S1659Ÿ"3Declare "CONSTANT_MethodHandle" on a separate line.(»‡äÍÿÿÿÿÿ
-Nsquid:S1659 "1Declare "CONSTANT_MethodType" on a separate line.( ‰†“ÿÿÿÿÿ
-Qsquid:S1659¡"4Declare "CONSTANT_InvokeDynamic" on a separate line.(İà×æùÿÿÿÿ
-Isquid:S1659¢",Declare "CONSTANT_LIMIT" on a separate line.(£–°ıÿÿÿÿ
-Fsquid:S1659¬")Declare "ACC_PRIVATE" on a separate line.(ÂşÍ”şÿÿÿÿ
-Hsquid:S1659­"+Declare "ACC_PROTECTED" on a separate line.(×™¨øÿÿÿÿ
-@squid:S1659®"(Declare "ACC_STATIC" on a separate line.(•Ş›
-Dsquid:S1659¯"'Declare "ACC_FINAL" on a separate line.(÷ÄÔ‹üÿÿÿÿ
-Ksquid:S1659°".Declare "ACC_SYNCHRONIZED" on a separate line.(âƒÕ¡ùÿÿÿÿ
-Bsquid:S1659±"*Declare "ACC_VOLATILE" on a separate line.(ÅšìŸ
-Bsquid:S1659²"+Declare "ACC_TRANSIENT" on a separate line.(ëªàj
-@squid:S1659³"(Declare "ACC_NATIVE" on a separate line.(é¥şà
-Hsquid:S1659´"+Declare "ACC_INTERFACE" on a separate line.(ª€¿éşÿÿÿÿ
-@squid:S1659µ"*Declare "ACC_ABSTRACT" on a separate line.(•¦J
-Esquid:S1659¶"(Declare "ACC_STRICT" on a separate line.(¯ÂÖıÿÿÿÿ
-Csquid:S1659·"+Declare "ACC_SYNTHETIC" on a separate line.(‡ƒ¬×
-Isquid:S1659¸",Declare "ACC_ANNOTATION" on a separate line.(¨ı‡¸ùÿÿÿÿ
->squid:S1659¹"&Declare "ACC_ENUM" on a separate line.(ÖÏ³
-?squid:S1659»"'Declare "ACC_SUPER" on a separate line.(Å§¹¬
-Esquid:S1659¼"(Declare "ACC_BRIDGE" on a separate line.(¶€Àıÿÿÿÿ
-Asquid:S1659½")Declare "ACC_VARARGS" on a separate line.(ÛÅ·é
-Gsquid:S1659Ç"*Declare "REF_getField" on a separate line.(”ŞÚÿùÿÿÿÿ
-Hsquid:S1659È"+Declare "REF_getStatic" on a separate line.(‚úÑ»ıÿÿÿÿ
-Bsquid:S1659É"*Declare "REF_putField" on a separate line.(ËÑş
-Hsquid:S1659Ê"+Declare "REF_putStatic" on a separate line.(§³¾×úÿÿÿÿ
-Lsquid:S1659Ë"/Declare "REF_invokeVirtual" on a separate line.(ùÒĞÏıÿÿÿÿ
-Ksquid:S1659Ì".Declare "REF_invokeStatic" on a separate line.(œß¹Ïùÿÿÿÿ
-Lsquid:S1659Í"/Declare "REF_invokeSpecial" on a separate line.(ø±‘¤ûÿÿÿÿ
-Osquid:S1659Î"2Declare "REF_newInvokeSpecial" on a separate line.(ŠÈëøÿÿÿÿ
-Isquid:S1659Ï"1Declare "REF_invokeInterface" on a separate line.(œé 
-Dsquid:S1659Ğ"'Declare "REF_LIMIT" on a separate line.(¶ìêáøÿÿÿÿ
-ssquid:S00115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÌÙ‰ı
-ssquid:S00115•"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â³à°
-ssquid:S00115–"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßëùÍ
-ssquid:S00115—"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘«Çù
-rsquid:S00115˜"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ãÿö
-ssquid:S00115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ—áÌ
-xsquid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Î³ûÑúÿÿÿÿ
-xsquid:S00115›"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©üËøüÿÿÿÿ
-rsquid:S00115œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶ıŠu
-ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£¥ì¬
-xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆäğşÿÿÿÿ
-xsquid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»‡äÍÿÿÿÿÿ
-xsquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ‰†“ÿÿÿÿÿ
-xsquid:S00115¡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İà×æùÿÿÿÿ
-xsquid:S00115Ç"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ŞÚÿùÿÿÿÿ
-xsquid:S00115È"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚úÑ»ıÿÿÿÿ
-ssquid:S00115É"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ËÑş
-xsquid:S00115Ê"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§³¾×úÿÿÿÿ
-xsquid:S00115Ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùÒĞÏıÿÿÿÿ
-xsquid:S00115Ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œß¹Ïùÿÿÿÿ
-xsquid:S00115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ø±‘¤ûÿÿÿÿ
-xsquid:S00115Î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÈëøÿÿÿÿ
-ssquid:S00115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œé 
-3squid:S3626¤"Remove this redundant jump.(ÉŠ©ƒ
-Tsquid:S1854¡"7Remove this useless assignment to local variable "err".(Öøÿÿÿÿ
-P
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(±ÆÜ™
-P
-squid:S106â"9Replace this use of System.out or System.err by a logger.(å”µı
-Bsquid:S1181ê"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-U
-squid:S106è"9Replace this use of System.out or System.err by a logger.(û¡ÈÚıÿÿÿÿ
-P
-squid:S106ë"9Replace this use of System.out or System.err by a logger.(üİÑ
-Bsquid:S1181ß"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-Xsquid:S1193à"@Replace the usage of the "instanceof" operator by a catch block.(øÔªÑ
-P
-squid:S106ñ"9Replace this use of System.out or System.err by a logger.(İİ‹¼
-Bsquid:S1181÷"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-U
-squid:S106õ"9Replace this use of System.out or System.err by a logger.(ø—ä”úÿÿÿÿ
-U
-squid:S106ø"9Replace this use of System.out or System.err by a logger.(í¬¶ûÿÿÿÿ
-psquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(Ãğªùüÿÿÿÿ
-Usquid:S1854É"8Remove this useless assignment to local variable "defc".(¼Ğüëûÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÊ""Add a default case to this switch.(Ñ’‰ÿÿÿÿÿ
-Esquid:S1481¡"(Remove this unused "err" local variable.(Öøÿÿÿÿ
-Fsquid:S1481É")Remove this unused "defc" local variable.(¼Ğüëûÿÿÿÿ
-bsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(œ“¥‰
-csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(”Ù˜ú

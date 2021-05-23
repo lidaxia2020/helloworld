@@ -1,5 +1,0 @@
-
-Ysquid:UselessImportCheck#"0Remove this unused import 'java.util.Map.Entry'.(±þê¾úÿÿÿÿ
-vsquid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕØ‡Ýüÿÿÿÿ
-vsquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡Ä½›øÿÿÿÿ
-ksquid:S2975Ú"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(É­êÎ

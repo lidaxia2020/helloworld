@@ -1,6 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(íØÎàşÿÿÿÿ
-hsquid:S1192Ú"PDefine a constant instead of duplicating this literal "CertPathBuilder" 3 times.(ô»Ì 
-Esquid:S1604Š"(Make this anonymous inner class a lambda(ïäôøÿÿÿÿ
-]squid:UselessImportCheck$"4Remove this unused import 'sun.security.util.Debug'.(íØÎàşÿÿÿÿ
-psquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(¹§Ôœıÿÿÿÿ

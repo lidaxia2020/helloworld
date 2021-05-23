@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-nsquid:S00117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı×ã¬úÿÿÿÿ
-rsquid:S00116d"URename this field "class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü»òûÿÿÿÿ
-Vsquid:S1161z":Add the "@Override" annotation above this method signature(ŞÌÏ«ùÿÿÿÿ
-Vsquid:S1161":Add the "@Override" annotation above this method signature(’äÖúÿÿÿÿ
-Asquid:S1125")Remove the literal "false" boolean value.(°«Ø¨

@@ -1,20 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€
->squid:S1604;"(Make this anonymous inner class a lambda(ÆŞÖ
-0squid:S2178i"Correct this "|" to "||".(õ»ñ’
-5squid:S2178h"Correct this "|" to "||".(Ÿ˜Àöûÿÿÿÿ
-0squid:S2178g"Correct this "|" to "||".(êö˜İ
-Jsquid:S1905‚"-Remove this unnecessary cast to "MethodType".(øî°úÿÿÿÿ
-lsquid:S00100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çöò…ıÿÿÿÿ
-gsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(øñù§øÿÿÿÿ
-csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(´–ÀÍ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õô†êıÿÿÿÿ
-csquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ï·•ç
-csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(Ğì§Î
-csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(Ÿ³µ£
-bsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(Äç¬3
-hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(§êÅùÿÿÿÿ
-bsquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(šö÷\
-hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(Ë–øéúÿÿÿÿ
-hsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(ËĞµÚûÿÿÿÿ
-bsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(¶Ù­

@@ -1,16 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
-Ysquid:S00107q"<Method has 8 parameters, which is greater than 7 authorized.(‡²ÌÝûÿÿÿÿ
-[squid:S00107ç"=Method has 20 parameters, which is greater than 7 authorized.(ƒ´‹ûÿÿÿÿ
-Vsquid:S11184":Add a private constructor to hide the implicit public one.(‘šþ®ýÿÿÿÿ
-@squid:S1659u"$Declare "startX" on a separate line.(úé“™ÿÿÿÿÿ
-@squid:S1659u"$Declare "startY" on a separate line.(úé“™ÿÿÿÿÿ
-?squid:S1659u"#Declare "delta" on a separate line.(úé“™ÿÿÿÿÿ
-osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(ëÝöˆûÿÿÿÿ
-isquid:CallToDeprecatedMethodÒ";Remove this use of "getKeyModifiersText"; it is deprecated.(¬Ù‡Ùüÿÿÿÿ
-fsquid:S4201¯"IRemove this unnecessary null check; "instanceof" returns false for nulls.(»ä×ºøÿÿÿÿ
-`squid:S1854•"CRemove this useless assignment to local variable "acceleratorText".(Äì„Üüÿÿÿÿ
-Xsquid:UnusedPrivateMethodà"2Remove this unused private "drawMenuBezel" method.(††òÄ
-bsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(æ¨¸Š
-gsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(àÂãœøÿÿÿÿ
-csquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(Ú±«„

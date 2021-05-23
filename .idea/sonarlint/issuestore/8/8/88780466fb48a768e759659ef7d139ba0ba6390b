@@ -1,4 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-Vsquid:UselessImportCheck "2Remove this unused import 'java.util.Enumeration'.(»îÜ®
-Zsquid:UselessImportCheck!"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ

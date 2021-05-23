@@ -1,10 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ıŒÇ
-£squid:S2681\"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Â¼›‘ÿÿÿÿÿ
-wsquid:S001168"ZRename this field "m_functionTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®œ¢ªûÿÿÿÿ
-osquid:ModifiersOrderCheck8"EReorder the modifiers to comply with the Java Language Specification.(®œ¢ªûÿÿÿÿ
-Psquid:S1854R":Remove this useless assignment to local variable "prefix".(ü·´-
-Vsquid:S1161F":Add the "@Override" annotation above this method signature(Ú£óùÿÿÿÿ
-wsquid:S3252S"aUse static access with "com.sun.org.apache.xml.internal.utils.Constants" for "S_XSLNAMESPACEURL".(Ò†…
-xsquid:S3252_"aUse static access with "com.sun.org.apache.xml.internal.utils.Constants" for "S_XSLNAMESPACEURL".(ƒ»úü
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

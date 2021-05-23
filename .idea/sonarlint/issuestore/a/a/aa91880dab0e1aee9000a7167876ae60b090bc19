@@ -1,16 +1,0 @@
-
-Lsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(Ç¬‘
-Tsquid:S2589À"7Remove this expression which always evaluates to "true"(ÅŒ®Àúÿÿÿÿ
-Ssquid:S2387à"6"fLocale" is the name of a field in "XMLDTDProcessor".(£šòçøÿÿÿÿ
-|squid:S1149Û"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ü˜İ¤üÿÿÿÿ
-Csquid:S1905œ"+Remove this unnecessary cast to "String[]".(êìéÛ
-Ê%squid:RedundantThrowsDeclarationCheckµ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Hsquid:S1905Ö"+Remove this unnecessary cast to "String[]".(ÚêÙıÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckå"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheck”"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckÃ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheck¤"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-…squid:S3252Á"mUse static access with "com.sun.org.apache.xerces.internal.xni.grammars.XMLGrammarDescription" for "XML_DTD".(ÒŠşÑ
-¯%squid:RedundantThrowsDeclarationCheckÎ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ïş´C
-Gsquid:S2093Õ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-Rsquid:S1161õ":Add the "@Override" annotation above this method signature(ÿ«Û

@@ -1,96 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheckŸ
-"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ˜‡Àúÿÿÿÿ
-… squid:ForLoopCounterChangedChecká"XRefactor the code in order to not assign to this loop counter from within the loop body.(æ„ÞÑ
-… squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(š’‘Ñ
-Š squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ…¿¥úÿÿÿÿ
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-_squid:S1192Â"GDefine a constant instead of duplicating this literal "USEMAP" 3 times.(…®¯±
-fsquid:S1192ˆ"IDefine a constant instead of duplicating this literal "DISABLED" 6 times.(ð­ÎØüÿÿÿÿ
-_squid:S1192º"GDefine a constant instead of duplicating this literal "SCRIPT" 3 times.(óõŒÙ
-_squid:S1192š"GDefine a constant instead of duplicating this literal "NOWRAP" 5 times.(¡ÈøŠ
-esquid:S1192”"HDefine a constant instead of duplicating this literal "COMPACT" 5 times.(®’Šüÿÿÿÿ
-`squid:S1192¨"IDefine a constant instead of duplicating this literal "LONGDESC" 3 times.(´Ë…]
-Gsquid:S1066»"/Merge this if statement with the enclosing one.(æ¶
-Jsquid:S1199»"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199À"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199à"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199É"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Î"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Ù"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-nsquid:S00117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž½Üûÿÿÿÿ
-jsquid:S00116G"RRename this field "m_inDTD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ÿµ¤
-osquid:S00116M"XRename this field "m_inBlockElem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µè+
-wsquid:S00116©"^Rename this field "m_specialEscapeURLs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ ß…
-vsquid:S00116¬"XRename this field "m_omitMetaTag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÚ÷úÿÿÿÿ
-ssquid:S00116¯"URename this field "m_htmlInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÿÖ¾ùÿÿÿÿ
-ksquid:ModifiersOrderCheck¦"EReorder the modifiers to comply with the Java Language Specification.(×’Ù²
-Rsquid:S1161á":Add the "@Override" annotation above this method signature(ÅöÕ¯
-jsquid:S3776Þ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(–•²‡
-Rsquid:S1161Þ":Add the "@Override" annotation above this method signature(–•²‡
-Esquid:S1125ç"(Remove the literal "true" boolean value.(Èù¤„üÿÿÿÿ
-jsquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ò–êë
-Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(ò–êë
-jsquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(íâÓ
-Rsquid:S1161Î":Add the "@Override" annotation above this method signature(íâÓ
-Msquid:S1854¦	"5Remove this useless assignment to local variable "r".(þÁ„Þ
-jsquid:S3776½	"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ø¦ç—
-isquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(áÍåd
-Qsquid:S1161¯":Add the "@Override" annotation above this method signature(áÍåd
-3squid:S3626ê"Remove this redundant jump.(ûÁÝ…
-Wsquid:S1161Ì":Add the "@Override" annotation above this method signature(•…¥ûýÿÿÿÿ
-Usquid:S1197Ì"8Move the array designator from the variable to the type.(•…¥ûýÿÿÿÿ
-Rsquid:S1161¢":Add the "@Override" annotation above this method signature(® ––
-Psquid:S1197¢"8Move the array designator from the variable to the type.(® ––
-jsquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ï±´
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(§Û¥üøÿÿÿÿ
-Qsquid:S1161¸":Add the "@Override" annotation above this method signature(Ëý´
-Wsquid:S1161Ì":Add the "@Override" annotation above this method signature(žœŽ‚ýÿÿÿÿ
-Wsquid:S1161é":Add the "@Override" annotation above this method signature(çí¼üÿÿÿÿ
-Rsquid:S1161¹":Add the "@Override" annotation above this method signature(èàÅ€
-Wsquid:S1161Û":Add the "@Override" annotation above this method signature(•±ŒÍýÿÿÿÿ
-Rsquid:S1161î":Add the "@Override" annotation above this method signature(åë„Ù
-Wsquid:S1161þ":Add the "@Override" annotation above this method signature(Û¢º¸ùÿÿÿÿ
-Wsquid:S1161Ž":Add the "@Override" annotation above this method signature(¿Þ²üøÿÿÿÿ
-Wsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(„©õàùÿÿÿÿ
-Rsquid:S1161©":Add the "@Override" annotation above this method signature(ö¯È›
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(ýúƒÐÿÿÿÿÿ
-Rsquid:S1161ù":Add the "@Override" annotation above this method signature(çê™Ÿ
-Psquid:S1197ù"8Move the array designator from the variable to the type.(çê™Ÿ
-Wsquid:S1161‚":Add the "@Override" annotation above this method signature(–Ó¨Úüÿÿÿÿ
-jsquid:S00116´"QRename this field "m_Root" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£Øí
-osquid:S00116·"WRename this field "m_charBuffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ	
-xsquid:S00116º"ZRename this field "m_lowerCaseOnly" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ëØ°þÿÿÿÿ
-nsquid:S00116Œ"URename this field "m_nextChar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£ßú
-jsquid:S00116"RRename this field "m_Value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‘=
-Psquid:S1197Œ"8Move the array designator from the variable to the type.(ã£ßú
->squid:S1481¦	"&Remove this unused "r" local variable.(þÁ„Þ
-dsquid:UnusedPrivateMethodú"9Remove this unused private "getSpecialEscapeURLs" method.(«™Ëëþÿÿÿÿ
-Ysquid:UnusedPrivateMethodˆ"3Remove this unused private "getOmitMetaTag" method.(ž˜Ïû
-\squid:UnusedPrivateMethodû"1Remove this unused private "isASCIIDigit" method.(­®ÿÈûÿÿÿÿ
-Xsquid:UnusedPrivateMethod¡	"-Remove this unused private "isHHSign" method.(µ‹Ð‘øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-gsquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(¿³õ¦ûÿÿÿÿ
-csquid:CommentedOutCodeLineÐ"<This block of commented-out lines of code should be removed.(ÿ»·‡
-hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Ÿþ€ûÿÿÿÿ
-csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(Ý¯—û
-hsquid:CommentedOutCodeLineï	"<This block of commented-out lines of code should be removed.(®Ý§†üÿÿÿÿ
-csquid:CommentedOutCodeLineä
-"<This block of commented-out lines of code should be removed.(¸•¢Ë
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’÷Ÿäüÿÿÿÿ
-hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(™ÑÖ°ÿÿÿÿÿ
-csquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(Š®üÌ
-hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(÷Ù¡ûÿÿÿÿ
-hsquid:CommentedOutCodeLineŽ"<This block of commented-out lines of code should be removed.(Ûûåãúÿÿÿÿ
-hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(’÷Ÿäüÿÿÿÿ
-csquid:CommentedOutCodeLineÝ"<This block of commented-out lines of code should be removed.(Ð£ÿ
-csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(…áËÌ
-hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(Î¾éšüÿÿÿÿ
-hsquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(µçÇ×ùÿÿÿÿ
-csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(Ïª¡Ž
-hsquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(µçÇ×ùÿÿÿÿ
-csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ŠìŠò
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îàœñþÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù¶èìûÿÿÿÿ
-csquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(Ú°à¬
-csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(ƒäòº

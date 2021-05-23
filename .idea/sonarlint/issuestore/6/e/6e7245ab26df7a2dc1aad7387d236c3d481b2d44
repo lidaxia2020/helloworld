@@ -1,76 +1,0 @@
-
-csquid:S2184õ"FCast one of the operands of this multiplication operation to a "long".(–ÒÇÅúÿÿÿÿ
-csquid:S2184İ
-"FCast one of the operands of this multiplication operation to a "long".(î˜Šòûÿÿÿÿ
-csquid:S2184ç"FCast one of the operands of this multiplication operation to a "long".(×Œ·Ÿùÿÿÿÿ
-Qsquid:S11915"5Use classes from the Java API instead of Sun classes.(ú¸ÿşÿÿÿÿ
-Lsquid:S1066¯"/Merge this if statement with the enclosing one.(Áºùıÿÿÿÿ
-Gsquid:S1066Â"/Merge this if statement with the enclosing one.(óÈ«
-Jsquid:S1199“"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Á"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199â"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199±"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199é"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199ı"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199±"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199˜"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199õ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199è"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199¬"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Î"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199õ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199°"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-jsquid:S00117ƒ
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¹š
-Psquid:S1197ê"8Move the array designator from the variable to the type.(ğ¨œŒ
-Usquid:S1197ì"8Move the array designator from the variable to the type.(¸Ëõßüÿÿÿÿ
-Psquid:S1197›"8Move the array designator from the variable to the type.(ß¶¯¸
-Usquid:S1197®"8Move the array designator from the variable to the type.(Ÿ¹¤±ùÿÿÿÿ
-Psquid:S1197Á"8Move the array designator from the variable to the type.(®öÍÀ
-?squid:S1905‚"'Remove this unnecessary cast to "Date".(´öïÄ
-?squid:S1905Ü"'Remove this unnecessary cast to "Date".(¶è»™
-?squid:S1905†"'Remove this unnecessary cast to "Date".(¶è»™
-Esquid:S1125û"(Remove the literal "true" boolean value.(ÒÑ¦»ıÿÿÿÿ
-jsquid:S3776Û	"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(ï‹¾¤
-V"squid:SwitchLastCaseIsDefaultCheck¸
-""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
-psquid:S3776ó"SRefactor this method to reduce its Cognitive Complexity from 112 to the 15 allowed.(ˆ“×àûÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck„""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
-zsquid:S3252Å"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(ùèå¶ùÿÿÿÿ
-tsquid:S3252£"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(íáë'
-V"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckí""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
-osquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 79 to the 15 allowed.(Ç°†Ìùÿÿÿÿ
-?squid:S1659÷""Declare "dow1" on a separate line.(Ç‡¤îşÿÿÿÿ
-psquid:S2975ó"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
-jsquid:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(„ƒ
-psquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(”»›‘ÿÿÿÿÿ
-psquid:S3776ì"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(¾çæüûÿÿÿÿ
-Vsquid:S1854Š">Remove this useless assignment to local variable "cutoverGap".(ÉÃ•¤
-[squid:S1854¨">Remove this useless assignment to local variable "calForJan1".(Ò´ñúÿÿÿÿ
-Usquid:S1854´">Remove this useless assignment to local variable "calForJan1".(üêäd
-Usquid:S1854æ">Remove this useless assignment to local variable "calForJan1".(üêäd
-Dsquid:S1905¼"'Remove this unnecessary cast to "Date".(Í£±¸ûÿÿÿÿ
-zsquid:S3252È"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(­¸ÉŒüÿÿÿÿ
-zsquid:S3252é"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(­¸ÉŒüÿÿÿÿ
-usquid:S3252‰"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Š¬¸‘
-jsquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 79 to the 15 allowed.(Áìœ
-m squid:LabelsShouldNotBeUsedCheckî";Refactor the code to remove this label and the need for it.(’†ğ¹ùÿÿÿÿ
->squid:S1659ï"!Declare "jfd" on a separate line.(ÏÆâ­şÿÿÿÿ
-osquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(€÷®úÿÿÿÿ
-zsquid:S3252¢"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(¾òõîüÿÿÿÿ
-usquid:S3252ª"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(îÈ¡Ë
-usquid:S3252Â"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(áé
-usquid:S3252É"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(Ô­Áİ
-zsquid:S3252İ"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(¾òõîüÿÿÿÿ
-usquid:S3252ç"]Use static access with "sun.util.calendar.AbstractCalendar" for "getDayOfWeekDateOnOrBefore".(îÈ¡Ë
-Dsquid:S1905Ñ"'Remove this unnecessary cast to "Date".(„¾Éœşÿÿÿÿ
-?squid:S1905¾"'Remove this unnecessary cast to "Date".(¶è»™
-Gsquid:S1481ù"/Remove this unused "cutoverGap" local variable.(…Ü€ó
-Tsquid:UnusedPrivateMethodê"/Remove this unused private "yearLength" method.(ï—Å
-Isquid:S1068ö",Remove this unused "ONE_WEEK" private field.(°ğÉ™ÿÿÿÿÿ
-csquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(˜‹ï³
-hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(­›®˜øÿÿÿÿ

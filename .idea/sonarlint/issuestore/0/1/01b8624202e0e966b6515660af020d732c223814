@@ -1,21 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(íªŠşÿÿÿÿ
-xsquid:S00115ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®–Î†ıÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheck="mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(òê‘èıÿÿÿÿ
-?squid:S1125>")Remove the literal "false" boolean value.(„ˆ˜
-%squid:RedundantThrowsDeclarationCheckN"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(±Â’I
-£%squid:RedundantThrowsDeclarationCheck\"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¿¿Šıÿÿÿÿ
-?squid:S1125]")Remove the literal "false" boolean value.(„ˆ˜
-%squid:RedundantThrowsDeclarationCheckm"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(×¼ÃÔ
-%squid:RedundantThrowsDeclarationCheck|"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(§Ñ‡
-5squid:S2129­"Remove this "Long" constructor(£”ÈD
-Tsquid:CallToDeprecatedMethod­",Remove this use of "Long"; it is deprecated.(£”ÈD
-9squid:S2129Å"!Remove this "Integer" constructor(ÛÙÉÖ
-Xsquid:CallToDeprecatedMethodÅ"/Remove this use of "Integer"; it is deprecated.(ÛÙÉÖ
-ksquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(¥¼…¹
-ksquid:S2975±"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(–ïêã
-ksquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(–ïêã
-^squid:S1126Ğ"AReplace this if-then-else statement by a single return statement.(‘ù¢Íøÿÿÿÿ
-^squid:S1126Ş"AReplace this if-then-else statement by a single return statement.(‘ù¢Íøÿÿÿÿ
-psquid:ModifiersOrderCheckì"EReorder the modifiers to comply with the Java Language Specification.(®–Î†ıÿÿÿÿ

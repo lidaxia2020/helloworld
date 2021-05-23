@@ -1,5 +1,0 @@
-
-^$squid:AssignmentInSubExpressionCheck@".Extract the assignment out of this expression.(ï§Ê£
-Zsquid:S25837"CChange this condition so that it does not always evaluate to "true"(¼‘úŽ
-Usquid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
-8squid:S1659="!Declare "mid" on a separate line.(Ó¸ùÊ

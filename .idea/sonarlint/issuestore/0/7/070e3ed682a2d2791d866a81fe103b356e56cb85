@@ -1,33 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-ˆsquid:S1319Ñ"kThe type of the "h" object should be an interface such as "Map" rather than the implementation "Hashtable".(ÍÕ¹Ûşÿÿÿÿ
-csquid:S00112d"FDefine and throw a dedicated exception instead of using a generic one.(¥ìÚõûÿÿÿÿ
-jsquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¤™¦
-jsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äË ©
-~squid:S4144à"aUpdate this method so that its implementation is not identical to "asContentHandler" on line 118.(ªò…Õıÿÿÿÿ
-}squid:S4144œ"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(¢²œøÿÿÿÿ
-xsquid:S4144¦"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(ÉÇş
-xsquid:S4144"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(À¶Ç°
-xsquid:S4144£"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(³¿‡Ï
-}squid:S4144÷"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(À€•ûøÿÿÿÿ
-}squid:S4144"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(›«¾ùÿÿÿÿ
-}squid:S4144‹"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(åÈªŒùÿÿÿÿ
-wsquid:S4144©"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(ì‰Ì
-xsquid:S4144½"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(€ÎØğ
-}squid:S4144Ç"`Update this method so that its implementation is not identical to "getOutputFormat" on line 146.(ø¥²Íıÿÿÿÿ
-ssquid:S4144•"VUpdate this method so that its implementation is not identical to "reset" on line 176.(’ñÍ‚ıÿÿÿÿ
-nsquid:S4144³"VUpdate this method so that its implementation is not identical to "reset" on line 176.(éãÁÅ
-}squid:S1149Ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»¤™¦
-ssquid:S1149Ñ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÍÕ¹Ûşÿÿÿÿ
-7squid:S3626R"Remove this redundant jump.(Äªòşÿÿÿÿ
-7squid:S3626W"Remove this redundant jump.(Äªòşÿÿÿÿ
-7squid:S3626\"Remove this redundant jump.(Äªòşÿÿÿÿ
-Bsquid:S1172Z"&Remove these unused method parameters.(œèËÅıÿÿÿÿ
-7squid:S3626a"Remove this redundant jump.(Äªòşÿÿÿÿ
-Gsquid:S1172_"0Remove this unused method parameter "elemQName".( á
-7squid:S3626f"Remove this redundant jump.(Äªòşÿÿÿÿ
-2squid:S3626m"Remove this redundant jump.(ûÁİ…
-Qsquid:S1172Ã"9Remove this unused method parameter "URI_and_localNames".(»¤™¦
-Esquid:S1172Ñ"(Remove this unused method parameter "h".(ÍÕ¹Ûşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(¯‘àÆûÿÿÿÿ

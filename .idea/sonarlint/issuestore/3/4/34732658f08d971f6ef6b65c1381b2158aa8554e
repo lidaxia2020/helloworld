@@ -1,19 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
-p
-squid:S135³"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸
-Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-_squid:UselessImportCheck";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-ssquid:UselessImportCheck*"JRemove this unused import 'org.omg.PortableInterceptor.ServerRequestInfo'.(õ ¸’ÿÿÿÿÿ
-`squid:UselessImportCheck"<Remove this unused import 'org.omg.CORBA.portable.Delegate'.(ß¦¸‰
-lsquid:UselessImportCheck#"HRemove this unused import 'org.omg.PortableInterceptor.TRANSPORT_RETRY'.(™Ïé­
-jsquid:UselessImportCheck$"GRemove this unused import 'org.omg.PortableInterceptor.USER_EXCEPTION'.(™²…&
-lsquid:UselessImportCheck!"CRemove this unused import 'org.omg.PortableInterceptor.SUCCESSFUL'.(üÈúéüÿÿÿÿ
-isquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ê®b
-V"squid:SwitchLastCaseIsDefaultCheckı""Add a default case to this switch.(¾ò«úÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck÷""Add a default case to this switch.(¾ò«úÿÿÿÿ
-csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(¿–—µ
-hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ùÑÎÄùÿÿÿÿ
-csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ûåËá
-csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(Õ„«µ
-csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(òúÄ 

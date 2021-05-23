@@ -1,13 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‡ª•çþÿÿÿÿ
-_squid:UselessImportCheck,";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-{squid:S1149n"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ó„Èýøÿÿÿÿ
-wsquid:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(âêþ”
-|squid:S1149å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒÞùÿÿÿÿ
-{squid:S1149n"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ó„Èýøÿÿÿÿ
-rsquid:S00116È"TRename this field "char_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÐÞ¶ýÿÿÿÿ
-nsquid:S00116É"URename this field "wchar_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äí¶
-|squid:S1149å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰©ƒÞùÿÿÿÿ
-Psquid:S1197Â"8Move the array designator from the variable to the type.(ù¦úß
->squid:S2129Ê"!Remove this "Integer" constructor(¦¨¯Ÿûÿÿÿÿ
-]squid:CallToDeprecatedMethodÊ"/Remove this use of "Integer"; it is deprecated.(¦¨¯Ÿûÿÿÿÿ

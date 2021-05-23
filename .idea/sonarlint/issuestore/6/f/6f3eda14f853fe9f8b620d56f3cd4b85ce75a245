@@ -1,19 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ç¬‘
-´%squid:RedundantThrowsDeclarationChecke"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Qsquid:S1161d":Add the "@Override" annotation above this method signature(ÊÑåÖ
-´%squid:RedundantThrowsDeclarationCheck|"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(µÿµşÿÿÿÿ
-Vsquid:S1161|":Add the "@Override" annotation above this method signature(µÿµşÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck’"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¾ÇıÅøÿÿÿÿ
-Wsquid:S1161’":Add the "@Override" annotation above this method signature(¾ÇıÅøÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck£"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¨ïµîùÿÿÿÿ
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(¨ïµîùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck·"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÚÜ†Üüÿÿÿÿ
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(ÚÜ†Üüÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÒ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(œÎ¥Š
-Rsquid:S1161Ò":Add the "@Override" annotation above this method signature(œÎ¥Š
-µ%squid:RedundantThrowsDeclarationCheckì"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ßßµ†ÿÿÿÿÿ
-Wsquid:S1161ì":Add the "@Override" annotation above this method signature(ßßµ†ÿÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheckş"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ú†ÛQ
-Qsquid:S1161ş":Add the "@Override" annotation above this method signature(Ú†ÛQ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ğğèûÿÿÿÿ

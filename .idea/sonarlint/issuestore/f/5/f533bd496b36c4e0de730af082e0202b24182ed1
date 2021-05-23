@@ -1,25 +1,0 @@
-
-Lsquid:S1191+"5Use classes from the Java API instead of Sun classes.(éª‚€
-dsquid:S00112é"FDefine and throw a dedicated exception instead of using a generic one.(†ªĞ¼ıÿÿÿÿ
-dsquid:S00112ë"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
-_squid:S00112Ï"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-esquid:S1610M"IConvert the abstract class "AtomicIntegerFieldUpdater" into an interface.(½½Âøıÿÿÿÿ
-psquid:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ù”
-?squid:S1659ì""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659€""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659•""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659©""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659½""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659Ò""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659ê""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659‚""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659 ""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-?squid:S1659¾""Declare "next" on a separate line.(÷ß–ùÿÿÿÿ
-vsquid:S4144™"^Update this method so that its implementation is not identical to "compareAndSet" on line 532.(ö¸°­
-Wsquid:S1161­":Add the "@Override" annotation above this method signature( ´Ş˜øÿÿÿÿ
-Rsquid:S1161²":Add the "@Override" annotation above this method signature(—¤ñÉ
-Wsquid:S1161¶":Add the "@Override" annotation above this method signature(ÙÏ‡øüÿÿÿÿ
-Rsquid:S1161º":Add the "@Override" annotation above this method signature(®ú÷é
-Rsquid:S1161¿":Add the "@Override" annotation above this method signature(Ó†„‡
-Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(ùûùıÿÿÿÿ
-Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(ÃÈÁÖ

@@ -1,23 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‚ˆ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‚ˆ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™›Ÿ˜øÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™›Ÿ˜øÿÿÿÿ
-jsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÍó
-jsquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¶û
-jsquid:S00117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„é§ø
-osquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¡ñŠøÿÿÿÿ
-osquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ıöİüÿÿÿÿ
-jsquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹„¿Ó
-jsquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹„¿Ó
-jsquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹„¿Ó
-;squid:S2157f"%Add a "clone()" method to this class.(¥†şd
-ssquid:S00116g"\Rename this field "inner_class_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ş¬
-ysquid:S00116h"\Rename this field "outer_class_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°·Ä¾ıÿÿÿÿ
-ssquid:S00116i"[Rename this field "inner_name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅµæÅ
-zsquid:S00116j"]Rename this field "inner_access_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÖÁúÿÿÿÿ
-Fsquid:S1659ş".Declare "outer_class_name" on a separate line.(‹„¿Ó
-@squid:S1659ş"(Declare "inner_name" on a separate line.(‹„¿Ó
-<squid:S1659ş"$Declare "access" on a separate line.(‹„¿Ó
-Gsquid:S00108¡")Either remove or fill this block of code.(³›åùşÿÿÿÿ

@@ -1,10 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-Tsquid:S2589Ü"7Remove this expression which always evaluates to "true"(—ôáÆşÿÿÿÿ
-|squid:S1149’"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÚÎêïøÿÿÿÿ
-jsquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(±¡È¾
-Wsquid:S1161³":Add the "@Override" annotation above this method signature(Àø¸èÿÿÿÿÿ
-Wsquid:S1161Ú":Add the "@Override" annotation above this method signature(íïßÿúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(‰»±¼ıÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µâÉ˜

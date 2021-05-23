@@ -1,16 +1,0 @@
-
-Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(²É“
-_squid:S00112Ä"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-xsquid:S00116;"[Rename this field "m_currentPattern" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÜ¬úÿÿÿÿ
-osquid:S00116q"WRename this field "m_tokenQueue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï»ñİ
-ksquid:S00116±"RRename this field "m_opMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü§ªœ
-ƒsquid:S3252Å"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Û˜®şÿÿÿÿ
-~squid:S3252"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(äÔƒâ
-Fsquid:S1905¼")Remove this unnecessary cast to "String".(†Å§üúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ğ±­„şÿÿÿÿ
-csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ï­Ğå
-csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(óóä
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(—¿Õìøÿÿÿÿ
-csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(¸‘
-csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(¢…¤Ä

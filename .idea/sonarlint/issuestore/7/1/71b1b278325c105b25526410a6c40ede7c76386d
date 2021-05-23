@@ -1,4 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰å½†ıÿÿÿÿ
-=squid:S2129P"!Remove this "Integer" constructor(ÉìîËşÿÿÿÿ
-\squid:CallToDeprecatedMethodP"/Remove this use of "Integer"; it is deprecated.(ÉìîËşÿÿÿÿ

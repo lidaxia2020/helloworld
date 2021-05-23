@@ -1,9 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-nsquid:S001162"VRename this field "m_blocksize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ş¢Ï
-msquid:S001165"PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ñ‰ıÿÿÿÿ
-ssquid:S001168"VRename this field "m_firstFree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ôûªıÿÿÿÿ
-qsquid:S00116;"TRename this field "m_mapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÙ½óùÿÿÿÿ
-Tsquid:S11975"8Move the array designator from the variable to the type.(­ñ‰ıÿÿÿÿ
-Tsquid:S1197~"8Move the array designator from the variable to the type.(ò½¾•ùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

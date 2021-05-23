@@ -1,38 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-qsquid:S1192é"TDefine a constant instead of duplicating this literal "Illegal signature: " 3 times.(ÒÊÏ™ÿÿÿÿÿ
-asquid:S3973´"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
-_squid:S3973¾"GUse indentation to denote the code conditionally executed by this "if".(îÚƒÇ
-dsquid:S00112é"FDefine and throw a dedicated exception instead of using a generic one.(ÒÊÏ™ÿÿÿÿÿ
-dsquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(ÒÊÏ™ÿÿÿÿÿ
-_squid:S00112¿"FDefine and throw a dedicated exception instead of using a generic one.(± ·ı
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¦™›øÿÿÿÿ
-osquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‰õ‚şÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùñ¸ãÿÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùñ¸ãÿÿÿÿÿ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
-isquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÑ´T
-isquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ø0
-rsquid:S00116f"ZRename this field "signature_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûˆ†Ó
-|squid:S1149å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÔìÚ…ÿÿÿÿÿ
-wsquid:S1149ï"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(íì¨´
-wsquid:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(íì¨´
-wsquid:S1149š"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Æü«½
-|squid:S1149Å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-U
-squid:S106 "9Replace this use of System.out or System.err by a logger.(€¨Òúÿÿÿÿ
-Wsquid:S1161®":Add the "@Override" annotation above this method signature(¼çØıùÿÿÿÿ
-Nsquid:S1854ü"6Remove this useless assignment to local variable "ch".(Íšµå
-bsquid:S2674ù"JCheck the return value of the "skip" call to see how many bytes were read.(ß†ğà
-3squid:S3626½"Remove this redundant jump.(ûÁİ…
-Nsquid:S2692Í"10 is a valid index, but is ignored by this check.(ø½Úëøÿÿÿÿ
-Wsquid:S1161Û":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ
-Tsquid:UnusedPrivateMethodá".Remove this unused private "identPart" method.(®ÉºĞ
-hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(¬ÌŒ½şÿÿÿÿ
-csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(ååøû
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ¹ôğúÿÿÿÿ
-hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(·§ƒßÿÿÿÿÿ
-csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(Û­§ê
-csquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(œ¬¨
-hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(úßº†üÿÿÿÿ
-csquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(Â–•Í

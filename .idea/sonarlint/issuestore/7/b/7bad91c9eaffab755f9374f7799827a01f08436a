@@ -1,10 +1,0 @@
-
-Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(‘´¦¸
-dsquid:S2095U"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õÏ¥ƒ
-Zsquid:S2259­"BA "NullPointerException" could be thrown; "baos" is nullable here.(Ë¼‚Ê
-®%squid:RedundantThrowsDeclarationCheckN"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ùàæ ùÿÿÿÿ
-Tsquid:S1197P"8Move the array designator from the variable to the type.(ÚÍœÑûÿÿÿÿ
-Tsquid:S1197W"8Move the array designator from the variable to the type.(È¤İ”úÿÿÿÿ
-Fsquid:S2093T"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-Psquid:S1197¥"8Move the array designator from the variable to the type.(É‰
-Gsquid:S2093£"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

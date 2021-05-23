@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬íü×
-^squid:S00112A"FDefine and throw a dedicated exception instead of using a generic one.(‚×ôô
-nsquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠîÓûÿÿÿÿ
-Rsquid:UselessImportCheck")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
-Vsquid:S11182":Add a private constructor to hide the implicit public one.(Äí”øúÿÿÿÿ
-Asquid:S1181@"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

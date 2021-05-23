@@ -1,6 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-{squid:UselessImportCheckU"RRemove this unused import 'com.sun.org.apache.bcel.internal.classfile.ConstantCP'.(‹¸ıªúÿÿÿÿ
-}squid:UselessImportCheckS"TRemove this unused import 'com.sun.org.apache.bcel.internal.classfile.ConstantUtf8'.(µñ™¨üÿÿÿÿ
-squid:UselessImportCheckT"[Remove this unused import 'com.sun.org.apache.bcel.internal.classfile.ConstantNameAndType'.(½¯Àù
-Rsquid:S1161":Add the "@Override" annotation above this method signature(‹¢ºï

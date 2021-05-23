@@ -1,29 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ğá
-Jsquid:S1199™"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Ó"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199ã"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199ï"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199ø"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199ˆ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199À"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-p
-squid:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(½Ñ–õ
-p
-squid:S135Ø"YReduce the total number of break and continue statements in this loop to use at most one.(½Ñ–õ
-Wsquid:S2259ò"@A "NullPointerException" could be thrown; "lh" is nullable here.(”Í¬7
-Xsquid:S2259ê"@A "NullPointerException" could be thrown; "lh" is nullable here.(Ò’¶
-xsquid:S00116?"[Rename this field "m_contentHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®›–Íşÿÿÿÿ
-hsquid:S00116B"PRename this field "m_dtm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€ÕÈ
-jsquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¨£á¾
-osquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.( ³õ›ùÿÿÿÿ
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¿Ôàì
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(É¨ùªşÿÿÿÿ
-hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ğâ” øÿÿÿÿ
-hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(Ö¤òÆıÿÿÿÿ
-csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(îâå
-hsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(Ÿî¦ÿüÿÿÿÿ
-hsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(¬ù¼ıÿÿÿÿ
-csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(¡ŞÕ•
-csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(£Ù¤ú

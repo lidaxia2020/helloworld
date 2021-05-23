@@ -1,95 +1,0 @@
-
-ksquid:S3824Š"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(³—‡·ûÿÿÿÿ
-… squid:ForLoopCounterChangedCheck¤
-"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-esquid:S1192²	"HDefine a constant instead of duplicating this literal "current" 3 times.(ªÅö«ıÿÿÿÿ
-dsquid:S1192°"GDefine a constant instead of duplicating this literal "<init>" 3 times.(ƒ˜÷ûÿÿÿÿ
-—squid:S1192®	"zDefine a constant instead of duplicating this literal "com.sun.org.apache.xalan.internal.xsltc.TransletException" 3 times.(Æ×½ìùÿÿÿÿ
-Lsquid:S1066Ë"/Merge this if statement with the enclosing one.(İ«ôÄşÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Õ­¨´
-‡"squid:ClassVariableVisibilityCheckÅ"YMake _importedFrom a static final constant or non-public and provide accessors if needed.(¡ ¢#
-ˆ"squid:ClassVariableVisibilityCheckÎ"YMake _includedFrom a static final constant or non-public and provide accessors if needed.(ã¤å€
-[squid:S1155»">Use isEmpty() to check whether the collection is empty or not.(€×ìüÿÿÿÿ
-[squid:S1155ê	">Use isEmpty() to check whether the collection is empty or not.(ªğÅÿÿÿÿÿ
-Usquid:S1155™
-">Use isEmpty() to check whether the collection is empty or not.(œ…ÈP
-[squid:S1155ë">Use isEmpty() to check whether the collection is empty or not.(â¤ˆ‰şÿÿÿÿ
-psquid:S00116["SRename this field "_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ëßâÿÿÿÿÿ
-hsquid:S00116c"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ù™ï
-qsquid:S00116k"TRename this field "_systemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¤šØüÿÿÿÿ
-tsquid:S00116s"\Rename this field "_parentStylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÚ½®
-ksquid:S00116{"SRename this field "_globals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•œÒ¾
-xsquid:S00116ƒ"ZRename this field "_hasLocalParams" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎüŸÚÿÿÿÿÿ
-nsquid:S00116‹"URename this field "_className" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Éô±
-nsquid:S00116“"URename this field "_templates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ„Â
-vsquid:S00116œ"]Rename this field "_allValidTemplates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¨©ã
-xsquid:S00116¤"ZRename this field "_nextModeSerial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©²ôşøÿÿÿÿ
-osquid:S00116¬"QRename this field "_modes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®æóíùÿÿÿÿ
-usquid:S00116´"WRename this field "_defaultMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÓî¢øÿÿÿÿ
-nsquid:S00116¼"VRename this field "_extensions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¡S
-psquid:S00116Å"XRename this field "_importedFrom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ ¢#
-qsquid:S00116Î"XRename this field "_includedFrom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¤å€
-xsquid:S00116Ö"_Rename this field "_includedStylesheets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­È¸Ó
-zsquid:S00116Ş"\Rename this field "_importPrecedence" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ä²ìşÿÿÿÿ
-squid:S00116ç"gRename this field "_minimumDescendantPrecedence" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬öÍp
-isquid:S00116ï"PRename this field "_keys" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¥ß¾
-psquid:S00116ø"RRename this field "_loader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ä•ÿÿÿÿÿ
-~squid:S00116€"`Rename this field "_numberFormattingUsed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‘Ãûÿÿÿÿ
-osquid:S00116‰"VRename this field "_simplified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÁ˜Ü
-rsquid:S00116‘"YRename this field "_multiDocument" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ½€ı
-qsquid:S00116™"XRename this field "_callsNodeset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôê–Ç
-ssquid:S00116¡"URename this field "_hasIdCall" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—åÖèıÿÿÿÿ
-zsquid:S00116«"\Rename this field "_templateInlining" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÉ¤ûÿÿÿÿ
-usquid:S00116³"]Rename this field "_lastOutputElement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÂÂS
-usquid:S00116»"\Rename this field "_outputProperties" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÚÅ
-qsquid:S00116Ä"XRename this field "_outputMethod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ú×ñ
-|squid:S1149{"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•œÒ¾
-}squid:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ñ„Â
-}squid:S1149œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(²¨©ã
-ssquid:S1149¬"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(®æóíùÿÿÿÿ
-msquid:S1149¼"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¹¡S
-}squid:S1149Ö"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­È¸Ó
-nsquid:S1149ï"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ç¥ß¾
-|squid:S1149È"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(±¸Ñ{
-}squid:S1149Ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(›øøâ
-‚squid:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(àÑ’ãûÿÿÿÿ
-|squid:S1149û"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¡²n
-‚squid:S1149Ã	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰€¾÷üÿÿÿÿ
-}squid:S1149Û	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»ğçß
-‚squid:S1149ˆ
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„·‰„úÿÿÿÿ
-‚squid:S1149ˆ
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„·‰„úÿÿÿÿ
-}squid:S1149˜
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ëµş
-‚squid:S1149
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õÕ…¾øÿÿÿÿ
-‚squid:S1149À"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(€¬¢úÿÿÿÿ
-}squid:S1149Ä"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Íü¬¨
-}squid:S1149Ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ï¡„Ó
-Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(Æÿ é
-Rsquid:S1161€":Add the "@Override" annotation above this method signature(­‘“
-Rsquid:S1161â":Add the "@Override" annotation above this method signature(ØÒî¸
-Jsquid:S1172í"-Remove this unused method parameter "stable".(«Š¯•øÿÿÿÿ
-Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(ÁØ’›
-osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(×ê™üøÿÿÿÿ
-isquid:S3252ê"QUse static access with "com.sun.org.apache.bcel.internal.generic.Type" for "INT".(µ³‚Ë
-Osquid:S1854Ê
-"7Remove this useless assignment to local variable "cpg".(„àü
-Rsquid:S1854æ":Remove this useless assignment to local variable "keyIdx".(¦’Êñ
-Osquid:S1135¢"2Complete the task associated to this TODO comment.( à—”ûÿÿÿÿ
-Wsquid:S1161±":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-@squid:S1481Ê
-"(Remove this unused "cpg" local variable.(„àü
-Csquid:S1481æ"+Remove this unused "keyIdx" local variable.(¦’Êñ
-_squid:UnusedPrivateMethod˜"9Remove this unused private "peepHoleOptimization" method.(‘ÍÒê
-Hsquid:S1068[",Remove this unused "_version" private field.(“ëßâÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(öãéê
-hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.( ¤ş­şÿÿÿÿ
-hsquid:CommentedOutCodeLineŠ
-"<This block of commented-out lines of code should be removed.(ï»¾şÿÿÿÿ
-csquid:CommentedOutCodeLine²
-"<This block of commented-out lines of code should be removed.(«”­
-csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(ë¤íÏ

@@ -1,154 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
-usquid:S1192ú"^Define a constant instead of duplicating this literal "Incompatible color conversion" 6 times.(¹÷H
-jsquid:S1192Ü"RDefine a constant instead of duplicating this literal "No such thumbnail" 3 times.(ôÒ¾¢
-Gsquid:S1066Ú"/Merge this if statement with the enclosing one.(ë“³Ì
-Gsquid:S1066ö"/Merge this if statement with the enclosing one.(á…Á
-Lsquid:S1066Ù"/Merge this if statement with the enclosing one.(Â™¿™ıÿÿÿÿ
-Jsquid:S1199Ÿ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199«"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-hsquid:S2259Ü"KA "NullPointerException" could be thrown; "getImageType()" can return null.(àŒÖ¢ùÿÿÿÿ
-Vsquid:S00107ç"=Method has 17 parameters, which is greater than 7 authorized.(–‹¹Ú
-?squid:S1604d"(Make this anonymous inner class a lambda(’­Ûü
-osquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑˆÀùÿÿÿÿ
-osquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑˆÀùÿÿÿÿ
-Rsquid:S1161É":Add the "@Override" annotation above this method signature(­°§é
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(×Ò¹¾
-U
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(’ÖÊ¾ùÿÿÿÿ
-P
-squid:S106’"9Replace this use of System.out or System.err by a logger.(ÒŞÏ
-P
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(¢Å¿„
-U
-squid:S106š"9Replace this use of System.out or System.err by a logger.(Ü­Ì¼şÿÿÿÿ
-Fsquid:S1125")Remove the literal "false" boolean value.(Ã¥˜®øÿÿÿÿ
-U
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-6squid:S2129¬"Remove this "Long" constructor(†Ôÿ–
-Usquid:CallToDeprecatedMethod¬",Remove this use of "Long"; it is deprecated.(†Ôÿ–
-;squid:S2129¯"Remove this "Long" constructor(ïÚˆ†úÿÿÿÿ
-Zsquid:CallToDeprecatedMethod¯",Remove this use of "Long"; it is deprecated.(ïÚˆ†úÿÿÿÿ
-@squid:S1125Í"(Remove the literal "true" boolean value.(÷¤„š
-^squid:HiddenFieldCheckÜ";Rename "buffer" which hides the field declared at line 199.(Õ–ù–
-osquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾µÆ«øÿÿÿÿ
-6squid:S2129²"Remove this "Long" constructor(Ê¤±í
-Usquid:CallToDeprecatedMethod²",Remove this use of "Long"; it is deprecated.(Ê¤±í
-U
-squid:S106Ò"9Replace this use of System.out or System.err by a logger.(÷ç™±ÿÿÿÿÿ
-Esquid:S1125Ù"(Remove the literal "true" boolean value.(ÎéÕŸşÿÿÿÿ
-@squid:S1125Ş"(Remove the literal "true" boolean value.(œËÒ´
-U
-squid:S106í"9Replace this use of System.out or System.err by a logger.(¥µû­ùÿÿÿÿ
-Esquid:S1125õ"(Remove the literal "true" boolean value.(ÎéÕŸşÿÿÿÿ
-P
-squid:S106ù"9Replace this use of System.out or System.err by a logger.(ûåóˆ
-@squid:S1125ş"(Remove the literal "true" boolean value.(œËÒ´
-P
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(äã–
-U
-squid:S106’"9Replace this use of System.out or System.err by a logger.(Í °øÿÿÿÿ
-Rsquid:S1854‘":Remove this useless assignment to local variable "colors".(æÆÊÇ
-Qsquid:S1161Ñ":Add the "@Override" annotation above this method signature(êÆ”=
-vsquid:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¯şèøÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck‡""Add a default case to this switch.(Äµïéÿÿÿÿÿ
-Qsquid:S1161©":Add the "@Override" annotation above this method signature(ºÈ
-jsquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ô×æ
-Wsquid:S1161Æ":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
-^squid:S2147û"FCombine this catch with the one at line 1144, which has the same body.(ï­£Ä
-osquid:S3776ˆ	"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(º‚Ü¾ıÿÿÿÿ
-Asquid:S1125“	")Remove the literal "false" boolean value.(±Áò®
-P
-squid:S106 
-"9Replace this use of System.out or System.err by a logger.(ĞÎ‡÷
-P
-squid:S106¡
-"9Replace this use of System.out or System.err by a logger.(ÿŞ¶
-P
-squid:S106¢
-"9Replace this use of System.out or System.err by a logger.(µŞ Ô
-U
-squid:S106¤
-"9Replace this use of System.out or System.err by a logger.(¯í„œøÿÿÿÿ
-U
-squid:S106¥
-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-P
-squid:S106¦
-"9Replace this use of System.out or System.err by a logger.(®äıç
-P
-squid:S106©
-"9Replace this use of System.out or System.err by a logger.(†»ßô
-U
-squid:S106«
-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-U
-squid:S106­
-"9Replace this use of System.out or System.err by a logger.(Å²ıÿÿÿÿ
-U
-squid:S106®
-"9Replace this use of System.out or System.err by a logger.(ÙÁ‹ğşÿÿÿÿ
-U
-squid:S106¯
-"9Replace this use of System.out or System.err by a logger.(£—ê´ÿÿÿÿÿ
-U
-squid:S106°
-"9Replace this use of System.out or System.err by a logger.(±«¸‹şÿÿÿÿ
-P
-squid:S106±
-"9Replace this use of System.out or System.err by a logger.(èŞ–ö
-U
-squid:S106²
-"9Replace this use of System.out or System.err by a logger.(÷ğÒÜûÿÿÿÿ
-O
-squid:S106³
-"9Replace this use of System.out or System.err by a logger.(¯†à
-jsquid:S3776à
-"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÚµÊÆ
-^squid:HiddenFieldCheckî
-";Rename "height" which hides the field declared at line 163.(€Üâ
-U
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(‰¬¼ãÿÿÿÿÿ
-O
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ÿ‘ŞR
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ƒñ˜Áşÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÔÑé—ûÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(İ‹ôÛşÿÿÿÿ
-P
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(Î¯Â
-U
-squid:S106“"9Replace this use of System.out or System.err by a logger.(°†”Áÿÿÿÿÿ
-P
-squid:S106”"9Replace this use of System.out or System.err by a logger.(×•œ²
-asquid:S3551ö"IMake this method "synchronized" to match the parent class implementation.(“³
-Rsquid:S1161ö":Add the "@Override" annotation above this method signature(“³
-Rsquid:S1161":Add the "@Override" annotation above this method signature(Š«äÜ
-Wsquid:S1161’":Add the "@Override" annotation above this method signature(ïïã şÿÿÿÿ
-^squid:S2147²"FCombine this catch with the one at line 1583, which has the same body.(ï­£Ä
-Rsquid:S1161»":Add the "@Override" annotation above this method signature(ÿÄó’
-Wsquid:S1161¿":Add the "@Override" annotation above this method signature(¯Ö•ëúÿÿÿÿ
-Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(¡àœùÿÿÿÿ
-Wsquid:S1161è":Add the "@Override" annotation above this method signature(¢Øìïùÿÿÿÿ
-Wsquid:S1161ü":Add the "@Override" annotation above this method signature(–Ñ¸ƒşÿÿÿÿ
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(¡ÀØ”
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(¹Ïƒıÿÿÿÿ
-Fsquid:S2786")Remove this redundant "static" qualifier.(º¿¸˜ıÿÿÿÿ
-xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çİæ™øÿÿÿÿ
-xsquid:S00115‘"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”šË®ùÿÿÿÿ
-Wsquid:S1161½":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Bsquid:S1181ã"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
-psquid:ModifiersOrderCheckí"EReorder the modifiers to comply with the Java Language Specification.(Ê‘¯şÿÿÿÿ
-Csquid:S1481‘"+Remove this unused "colors" local variable.(æÆÊÇ
-Xsquid:UnusedPrivateMethodë"2Remove this unused private "readInputData" method.(æ€Ô
-^squid:UnusedPrivateMethod€"3Remove this unused private "skipInputBytes" method.(ûäÑúÿÿÿÿ
-Ssquid:UnusedPrivateMethod"-Remove this unused private "pushBack" method.(°œ¶‚
-\squid:UnusedPrivateMethodÑ"1Remove this unused private "setImageData" method.(ßäòÁúÿÿÿÿ
-Wsquid:UnusedPrivateMethodà
-"1Remove this unused private "acceptPixels" method.(ÚµÊÆ
-Vsquid:UnusedPrivateMethodª"0Remove this unused private "passStarted" method.(§‹î´
-\squid:UnusedPrivateMethod»"1Remove this unused private "passComplete" method.(òúüÿÿÿÿ
-Isquid:S3398Â"1Move this method into "JPEGReaderDisposerRecord".(°ü

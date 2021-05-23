@@ -1,48 +1,0 @@
-
-9squid:S1643–"Use a StringBuilder instead.(Ã‚Å úÿÿÿÿ
-… squid:ForLoopCounterChangedCheckî"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÛãÓ
-Š squid:ForLoopCounterChangedCheckï"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡¸Œ¢ùÿÿÿÿ
-… squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã’ù
-Š squid:ForLoopCounterChangedCheckş"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡¸Œ¢ùÿÿÿÿ
-Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-csquid:S1192›"KDefine a constant instead of duplicating this literal "alphabetic" 3 times.(ãô¥¹
-_squid:S3973ã"GUse indentation to denote the code conditionally executed by this "if".(€ƒªÖ
-msquid:S001168"PRename this field "_node" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©€Î‡ùÿÿÿÿ
-lsquid:S001169"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢êå
-nsquid:S00116:"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ñŠäıÿÿÿÿ
-qsquid:S00116<"TRename this field "_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÿŠùÿÿÿÿ
-qsquid:S00116="TRename this field "_iterator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÂ±€øÿÿÿÿ
-qsquid:S00116>"TRename this field "_translet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ŸïÊÿÿÿÿÿ
-jsquid:S00116@"RRename this field "_format" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÔóï
-hsquid:S00116A"PRename this field "_lang" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ì¾Ó
-osquid:S00116B"WRename this field "_letterValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×†ÒÍ
-qsquid:S00116C"TRename this field "_groupSep" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Õ¾ûÿÿÿÿ
-msquid:S00116D"URename this field "_groupSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š˜±Ç
-nsquid:S00116F"VRename this field "_separFirst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÙãş
-msquid:S00116G"URename this field "_separLast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔøØ®
-rsquid:S00116H"URename this field "_separToks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ŞŞ¤ıÿÿÿÿ
-nsquid:S00116I"VRename this field "_formatToks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¤ÅŒ
-ksquid:S00116J"SRename this field "_nSepars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÈ†Ì
-lsquid:S00116K"TRename this field "_nFormats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÜ”±
-nsquid:S00116V"VRename this field "_tempBuffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôñåº
-ksquid:S00116^"SRename this field "_hasFrom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÃâŞ
-squid:S1149H"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—ŞŞ¤ıÿÿÿÿ
-|squid:S1149I"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ï¤ÅŒ
-osquid:ModifiersOrderCheckM"EReorder the modifiers to comply with the Java Language Specification.(‰ÿ÷°ùÿÿÿÿ
-jsquid:ModifiersOrderCheckO"EReorder the modifiers to comply with the Java Language Specification.(Ñ¢îË
-osquid:ModifiersOrderCheckQ"EReorder the modifiers to comply with the Java Language Specification.(‘‚¦½ıÿÿÿÿ
-osquid:ModifiersOrderCheckS"EReorder the modifiers to comply with the Java Language Specification.(ë£‡Œøÿÿÿÿ
-osquid:ModifiersOrderCheckv"EReorder the modifiers to comply with the Java Language Specification.(Æ´ßÒşÿÿÿÿ
-osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¨º¤²ûÿÿÿÿ
-<squid:S1659©"Declare "i" on a separate line.(ù’…ˆüÿÿÿÿ
->squid:S1659©"!Declare "max" on a separate line.(ù’…ˆüÿÿÿÿ
-=squid:S1659ª"%Declare "multmin" on a separate line.(Ğ¢†ú
-;squid:S1659ª"#Declare "digit" on a separate line.(Ğ¢†ú
-osquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ãƒı×ıÿÿÿÿ
-ksquid:ModifiersOrderCheck¦"EReorder the modifiers to comply with the Java Language Specification.(ÇÛ„ˆ
-Hsquid:S1172É"+Remove this unused method parameter "node".(õÂåÓÿÿÿÿÿ
-jsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÁÔ¤•
-7squid:S1659é"Declare "n" on a separate line.(Œò¬Ä
-7squid:S1659é"Declare "s" on a separate line.(Œò¬Ä
-jsquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ç¸“
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

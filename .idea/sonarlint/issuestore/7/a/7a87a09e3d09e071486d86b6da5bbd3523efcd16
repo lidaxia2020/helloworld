@@ -1,18 +1,0 @@
-
-Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-dsquid:S1192ü"GDefine a constant instead of duplicating this literal "8859_1" 3 times.(Ç³úÿÿÿÿ
-Fsquid:S1066Ï"/Merge this if statement with the enclosing one.(üï
-}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(‘³ˆçûÿÿÿÿ
-xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(‰¨„Õ
-tsquid:S00116˜"[Rename this field "_protocolVersion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×’àü
-wsquid:S00116¡"YRename this field "_readCommunity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–òêŞúÿÿÿÿ
-xsquid:S00116ª"ZRename this field "_writeCommunity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óúÅĞıÿÿÿÿ
-tsquid:S00116³"[Rename this field "_informCommunity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ·«
-ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äÑÙ
-`squid:S2886i"ISynchronize this method to match the synchronization on "setRdCommunity".(ìêçé
-ksquid:S2975á"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(˜øãô
-[squid:S4719ü">Replace charset name argument with StandardCharsets.ISO_8859_1(Ç³úÿÿÿÿ
-[squid:S4719ş">Replace charset name argument with StandardCharsets.ISO_8859_1(øø×öüÿÿÿÿ
-[squid:S4719€">Replace charset name argument with StandardCharsets.ISO_8859_1(•œ±Üúÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(äÑÙ
-csquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(«œ”°

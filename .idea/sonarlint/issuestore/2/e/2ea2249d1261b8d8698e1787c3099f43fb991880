@@ -1,25 +1,0 @@
-
-[squid:S2184å"CCast one of the operands of this subtraction operation to a "long".(ôöŒ÷
-d$squid:AssignmentInSubExpressionCheck›".Extract the assignment out of this expression.(ØşÂøÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheck¦".Extract the assignment out of this expression.(ÕÓê
-@squid:S1604“"(Make this anonymous inner class a lambda(ïÑ¬ 
-@squid:S1604²"(Make this anonymous inner class a lambda(ïÑ¬ 
-csquid:S001126"FDefine and throw a dedicated exception instead of using a generic one.(ÅçË…ûÿÿÿÿ
-jsquid:ModifiersOrderCheckÓ"EReorder the modifiers to comply with the Java Language Specification.(½‰í
-Rsquid:S1161¦":Add the "@Override" annotation above this method signature(àõ†•
-bsquid:S00119ü"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(÷ûíÑ
-*squid:S2176Ó"Rename this class.(³†§×
-ksquid:ModifiersOrderCheckÓ"EReorder the modifiers to comply with the Java Language Specification.(³†§×
-bsquid:S00119Ó"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(³†§×
-bsquid:S00119Ó"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(³†§×
-)squid:S2176ñ"Rename this class.(–ÉE
-/squid:S2176ù"Rename this class.(–Œ¿Íúÿÿÿÿ
-*squid:S2176"Rename this class.(¶ì¦ã
-=squid:S1181™"%Catch Exception instead of Throwable.(óÑ”Æ
-Bsquid:S1181"%Catch Exception instead of Throwable.(İÎ¢õıÿÿÿÿ
-Bsquid:S1181 "%Catch Exception instead of Throwable.(ôÃïåıÿÿÿÿ
-Gsquid:S00108 ")Either remove or fill this block of code.(ôÃïåıÿÿÿÿ
-=squid:S1181¸"%Catch Exception instead of Throwable.(óÑ”Æ
-Bsquid:S1181¼"%Catch Exception instead of Throwable.(İÎ¢õıÿÿÿÿ
-Bsquid:S1181¿"%Catch Exception instead of Throwable.(ôÃïåıÿÿÿÿ
-Gsquid:S00108¿")Either remove or fill this block of code.(ôÃïåıÿÿÿÿ

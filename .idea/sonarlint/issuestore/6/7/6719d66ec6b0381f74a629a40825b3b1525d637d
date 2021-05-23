@@ -1,21 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(ö åÿÿÿÿÿ
-dsquid:S1192ÿ"MDefine a constant instead of duplicating this literal "SecureRandom" 4 times.(ÊÜåX
-_$squid:AssignmentInSubExpressionCheck¸".Extract the assignment out of this expression.(ü€‘œ
-@squid:S1604¨"(Make this anonymous inner class a lambda(º¬ÄÍ
-dsquid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(¿Âˆ¼ûÿÿÿÿ
-Ksquid:S3077«".Remove the "volatile" keyword from this field.(ı•àšøÿÿÿÿ
-ssquid:S00115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÂâã
-@squid:S1948â"(Make "digest" transient or serializable.(îÕÆÊ
-Usquid:S1197‹"8Move the array designator from the variable to the type.(š·Èìøÿÿÿÿ
-psquid:ModifiersOrderCheck®"EReorder the modifiers to comply with the Java Language Specification.(¿ŞÙşøÿÿÿÿ
-fsquid:S3551Æ"IMake this method "synchronized" to match the parent class implementation.(ãñ®°ıÿÿÿÿ
-psquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(¨—µ†ıÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ò¹¯¾
-Usquid:S1197ƒ"8Move the array designator from the variable to the type.(é¥ˆ´ùÿÿÿÿ
-Gsquid:S00108Å")Either remove or fill this block of code.(Ã«¹äúÿÿÿÿ
-Asquid:S1068Ü")Remove this unused "state" private field.(ì¹âÉ
-Bsquid:S1068â"*Remove this unused "digest" private field.(îÕÆÊ
-Lsquid:S1068í"/Remove this unused "randomBytes" private field.(èô¿™øÿÿÿÿ
-Psquid:S1068ó"3Remove this unused "randomBytesUsed" private field.(ò“ˆœúÿÿÿÿ
-Hsquid:S1068ù"+Remove this unused "counter" private field.(§œ¡‰úÿÿÿÿ

@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(â’Öåüÿÿÿÿ
-Vsquid:UselessImportCheck""-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
-9squid:S12147""Move constants to a class or enum.(ËÌ„
-jsquid:ModifiersOrderCheckD"EReorder the modifiers to comply with the Java Language Specification.(›’ºÌ
-jsquid:ModifiersOrderCheckN"EReorder the modifiers to comply with the Java Language Specification.(ÔüÇ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

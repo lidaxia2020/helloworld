@@ -1,7 +1,0 @@
-
-Lsquid:S1191)"5Use classes from the Java API instead of Sun classes.(éª‚€
-dsquid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
-Psquid:UselessImportCheck)",Remove this unused import 'sun.misc.Unsafe'.(éª‚€
-ssquid:S00115£"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯Ğü
-Esquid:S1068¤"(Remove this unused "SEED" private field.(Ğ‚±Äşÿÿÿÿ
-Asquid:S1068¥")Remove this unused "PROBE" private field.(í¤û¿

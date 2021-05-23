@@ -1,6 +1,0 @@
-
-Wsquid:S2184w"@Cast one of the operands of this addition operation to a "long".(ï½¤â
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(›Âýþ
-csquid:UselessImportCheck ":Remove this unused import 'javax.imageio.spi.IIORegistry'.(¦¢ëÛùÿÿÿÿ
-Xsquid:S2387,"<"writerSpiNames" is the name of a field in "ImageReaderSpi".(ò¿íÐÿÿÿÿÿ
-Vsquid:S1161E":Add the "@Override" annotation above this method signature(øŽ€™ÿÿÿÿÿ

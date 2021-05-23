@@ -1,21 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(°¿”Œúÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÌ".Extract the assignment out of this expression.(è±—û
-u
-squid:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(»ğõùÿÿÿÿ
-wsquid:S1488²"ZImmediately return this expression instead of assigning it to the temporary variable "rv".(ª¸Íúÿÿÿÿ
-Usquid:S2589•"8Remove this expression which always evaluates to "false"(‚ŒÅÒûÿÿÿÿ
-Usquid:S2589‘"8Remove this expression which always evaluates to "false"(ÙóµŒùÿÿÿÿ
-vsquid:S1149v"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¹š¨‘
-wsquid:S1149Ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ßÁÏ
-[squid:HiddenFieldCheck\"9Rename "slash" which hides the field declared at line 45.(›êÕ”
-csquid:HiddenFieldCheck]"<Rename "altSlash" which hides the field declared at line 46.(Ó˜Şùÿÿÿÿ
-nsquid:S3776q"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¬¿ÖÔüÿÿÿÿ
-[squid:HiddenFieldChecku"9Rename "slash" which hides the field declared at line 45.(›êÕ”
-\squid:HiddenFieldCheckğ"9Rename "slash" which hides the field declared at line 45.(›êÕ”
-osquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÁûÁŞıÿÿÿÿ
-Ssquid:S2696˜"6Make the enclosing method "static" or remove this set.(Á¨åªûÿÿÿÿ
-osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(æ„ææıÿÿÿÿ
-isquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ßèÏV
-\squid:HiddenFieldCheckş"9Rename "slash" which hides the field declared at line 45.(›êÕ”
-Dsquid:S1481ã"'Remove this unused "np" local variable.(æıô°úÿÿÿÿ

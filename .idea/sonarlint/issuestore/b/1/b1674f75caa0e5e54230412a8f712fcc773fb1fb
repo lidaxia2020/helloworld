@@ -1,35 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
-osquid:UselessImportCheck7"KRemove this unused import 'com.sun.corba.se.spi.protocol.ForwardException'.(ª¾Ï‚
-Ysquid:UselessImportCheck""5Remove this unused import 'org.omg.IOP.CodecFactory'.(ØİÂ
-qsquid:UselessImportCheck."HRemove this unused import 'com.sun.corba.se.pept.encoding.OutputObject'.(Ü‹÷íıÿÿÿÿ
-psquid:UselessImportCheck'"GRemove this unused import 'org.omg.PortableInterceptor.ForwardRequest'.(Ş¨Ûìûÿÿÿÿ
-Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
-squid:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—µ±şıÿÿÿÿ
-squid:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·òşÿÿÿÿ
-squid:S1186R"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶è¤üÿÿÿÿ
-˜squid:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÎ÷æ
-˜squid:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÑ‚î
-—squid:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çñ’
-˜squid:S1186d"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çõ÷
-˜squid:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºÎ…
-˜squid:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø§ı¬
-˜squid:S1186z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Üó‘ø
-squid:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÄû×ıÿÿÿÿ
-squid:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬Òß¬ÿÿÿÿÿ
-™squid:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íïŸ
-squid:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úã¡½şÿÿÿÿ
-squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŞÛƒıÿÿÿÿ
-squid:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–Èçáÿÿÿÿÿ
-™squid:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ê¿•
-squid:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ¥¥úÿÿÿÿ
-™squid:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûŞÌÂ
-squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŞËşêşÿÿÿÿ
-™squid:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş›¼°
-squid:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßÚ»£ıÿÿÿÿ
-™squid:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âºûñ
-™squid:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ˆÚ°
-squid:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–€™ïşÿÿÿÿ
-˜squid:S1186Ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸
-˜squid:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”‡Ş‘
-psquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(úã¡½şÿÿÿÿ

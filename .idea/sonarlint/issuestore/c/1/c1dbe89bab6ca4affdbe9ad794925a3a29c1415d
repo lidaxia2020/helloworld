@@ -1,4 +1,0 @@
-
-Ssquid:UselessImportCheck!"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-ssquid:S00116,"VRename this field "MAX_ENTRIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¹³ãûÿÿÿÿ
-Vsquid:S1161F":Add the "@Override" annotation above this method signature(ÖŸÜÃùÿÿÿÿ

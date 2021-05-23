@@ -1,236 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
-lsquid:S1192¶"TDefine a constant instead of duplicating this literal "sch-props-correct.2" 6 times.(œŒÇ
-dsquid:S1192î"LDefine a constant instead of duplicating this literal "annotation?" 4 times.(¾Íè¢
-lsquid:S1192È"TDefine a constant instead of duplicating this literal "schema_reference.4" 12 times.(ö‹õ€
-gsquid:S1192¾"ODefine a constant instead of duplicating this literal "Internal-Error" 6 times.(Èµ·ö
-osquid:S1192Á"RDefine a constant instead of duplicating this literal "TargetNamespace.1" 4 times.(ñ·éıÿÿÿÿ
-osquid:S1192Á"RDefine a constant instead of duplicating this literal "TargetNamespace.2" 4 times.(ñ·éıÿÿÿÿ
-msquid:S1192î"UDefine a constant instead of duplicating this literal "s4s-elt-must-match.1" 5 times.(¾Íè¢
-Lsquid:S1066¦"/Merge this if statement with the enclosing one.(îî±ãıÿÿÿÿ
-Gsquid:S1066¨"/Merge this if statement with the enclosing one.(Å—î»
-Fsquid:S1066­"/Merge this if statement with the enclosing one.(¶¶Ê;
-Gsquid:S1066Ò"/Merge this if statement with the enclosing one.(âÓäå
-Lsquid:S1066Ü"/Merge this if statement with the enclosing one.(õÏéÀûÿÿÿÿ
-Gsquid:S1066À"/Merge this if statement with the enclosing one.(ã»¬
-Lsquid:S1066Â"/Merge this if statement with the enclosing one.(ù·½äûÿÿÿÿ
-Gsquid:S1066¬"/Merge this if statement with the enclosing one.(¥Ôë
-Gsquid:S1066Â"/Merge this if statement with the enclosing one.(Ê˜Í
-Gsquid:S1066Ë"/Merge this if statement with the enclosing one.(”›á¥
-_$squid:AssignmentInSubExpressionCheck•".Extract the assignment out of this expression.(º¿ö„
-csquid:S1301ı"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
-u
-squid:S135Ï"YReduce the total number of break and continue statements in this loop to use at most one.(‡ €úÿÿÿÿ
-o
-squid:S135µ
-"YReduce the total number of break and continue statements in this loop to use at most one.(ùº
-€squid:S1488Ú "cImmediately return this expression instead of assigning it to the temporary variable "declDocInfo".(ú•÷áûÿÿÿÿ
-Rsquid:S1141™"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ÿ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141§"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141´"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141¾"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Qsquid:S4973à"9Use the "equals" method if value comparison was intended.(Î¼°
-Qsquid:S4973ı"9Use the "equals" method if value comparison was intended.(óï‡Ö
-Vsquid:S4973…"9Use the "equals" method if value comparison was intended.(Ğ øÚûÿÿÿÿ
-Vsquid:S4973ı"9Use the "equals" method if value comparison was intended.(ÛÏÒùúÿÿÿÿ
-Qsquid:S4973Ñ"9Use the "equals" method if value comparison was intended.(—À¹
-Vsquid:S4973‡"9Use the "equals" method if value comparison was intended.(ŒüÍúÿÿÿÿ
-Vsquid:S4973Á"9Use the "equals" method if value comparison was intended.(ŒüÍúÿÿÿÿ
-Qsquid:S4973” "9Use the "equals" method if value comparison was intended.(àÌğ…
-Qsquid:S4973í!"9Use the "equals" method if value comparison was intended.(„€±Ü
-Vsquid:S4973’""9Use the "equals" method if value comparison was intended.(Ñ÷Íıÿÿÿÿ
-`squid:S2259¢"CA "NullPointerException" could be thrown; "table" is nullable here.(ˆ™Óûÿÿÿÿ
-jsquid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ„æ×
-osquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÃÎüÿÿÿÿ
-osquid:S00117Ğ "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï»Šûÿÿÿÿ
-Vsquid:UselessImportCheck$"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
-[squid:S1155ç">Use isEmpty() to check whether the collection is empty or not.(Ÿ§ŠŸùÿÿÿÿ
-Vsquid:S1155“">Use isEmpty() to check whether the collection is empty or not.(ÎÅ«É
-[squid:S1155É">Use isEmpty() to check whether the collection is empty or not.(ÎóŒøûÿÿÿÿ
-squid:S00116Ô"cRename this field "fLocalElementDecl_schema" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ùë°ùÿÿÿÿ
-‚squid:S1149Ó"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(È“¥›ıÿÿÿÿ
-ssquid:S1149Ù"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ƒ„ığùÿÿÿÿ
-}squid:S1149Ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Çê¿—
-}squid:S1149Ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­ö´‡
-}squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Çê¿—
-|squid:S1149å	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(çß›,
-‚squid:S1149„
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÓéÃ†øÿÿÿÿ
-msquid:S1149¦
-"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ü½é×ùÿÿÿÿ
-‚squid:S1149š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·‹Ú¡üÿÿÿÿ
-msquid:S1149³"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ü½é×ùÿÿÿÿ
-‚squid:S1149œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·‹Ú¡üÿÿÿÿ
-‚squid:S1149¥"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÉğÃ„şÿÿÿÿ
-‚squid:S1149Ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(îÕ²ûÿÿÿÿ
-‚squid:S1149Ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Û±É’øÿÿÿÿ
-}squid:S1149å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(«ŸÚ
-‚squid:S1149æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·¬¡Àüÿÿÿÿ
-‚squid:S1149ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌéÃçúÿÿÿÿ
-}squid:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ä´²÷
-‚squid:S1149˜"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ßÇÈÁıÿÿÿÿ
-}squid:S1149Ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’º§œ
-‚squid:S1149•"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÜğÎàüÿÿÿÿ
-‚squid:S1149—"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Áğøˆÿÿÿÿÿ
-‚squid:S1149£"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥÷Áúùÿÿÿÿ
-‚squid:S1149£"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥÷Áúùÿÿÿÿ
-}squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Í½¶Ì
-‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‘·¦ùÿÿÿÿ
-}squid:S1149®"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ø°”
-}squid:S1149Ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’œçÎ
-}squid:S1149Ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(°ÌÒ¨
-}squid:S1149æ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(” ê
-‚squid:S1149ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§ë´…ÿÿÿÿÿ
-‚squid:S1149ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œõ²’ûÿÿÿÿ
-‚squid:S1149ù"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë‚Óûıÿÿÿÿ
-‚squid:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¿††°øÿÿÿÿ
-}squid:S1149š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ú±ˆ²
-}squid:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÈÁÄÄ
-‚squid:S1149§"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(…”ª€ıÿÿÿÿ
-‚squid:S1149¶"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(É˜×Ÿúÿÿÿÿ
-‚squid:S1149¿"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŞÚÚ¡ıÿÿÿÿ
-}squid:S1149Ã"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥—¥º
-}squid:S1149Î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(…Í®‰
-}squid:S1149Ñ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şşÇÆ
-}squid:S1149Û"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œö¥˜
-}squid:S1149Ş"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şşÇÆ
-}squid:S1149è"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©ğÉÍ
-}squid:S1149Ä"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".( Ø”
-‚squid:S1149Ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—“Ÿüÿÿÿÿ
-}squid:S1149Ó"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(••ıÒ
-‚squid:S1149ß"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ğ»íúÿÿÿÿ
-‚squid:S1149ß"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ğ»íúÿÿÿÿ
-‚squid:S1149î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥Ò¨³ûÿÿÿÿ
-‚squid:S1149î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥Ò¨³ûÿÿÿÿ
-}squid:S1149ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(øÙº«
-‚squid:S1149œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ã €™ÿÿÿÿÿ
-‚squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë°û¹ÿÿÿÿÿ
-}squid:S1149¨"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿö â
-}squid:S1149ı "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜€³‹
-psquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(è¿İ°üÿÿÿÿ
-psquid:ModifiersOrderCheck€"EReorder the modifiers to comply with the Java Language Specification.(õ¬öÒùÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¡ñøÛüÿÿÿÿ
-psquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(½¥‹æÿÿÿÿÿ
-psquid:ModifiersOrderCheckƒ"EReorder the modifiers to comply with the Java Language Specification.(äğÖáùÿÿÿÿ
-psquid:ModifiersOrderCheck„"EReorder the modifiers to comply with the Java Language Specification.(ğèÕœûÿÿÿÿ
-ksquid:ModifiersOrderCheck…"EReorder the modifiers to comply with the Java Language Specification.(ƒñÚí
-ksquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(ºïÓÙ
-Usquid:S1197»"8Move the array designator from the variable to the type.(˜¯Ş«şÿÿÿÿ
-osquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(Åùôàÿÿÿÿÿ
-Asquid:S1905Ò")Remove this unnecessary cast to "Vector".(Çê¿—
-Bsquid:S00108ş")Either remove or fill this block of code.(¼…Ÿ¦
-psquid:S3776Ö"SRefactor this method to reduce its Cognitive Complexity from 179 to the 15 allowed.(„†ùüÿÿÿÿ
-Xsquid:S1854Ü";Remove this useless assignment to local variable "refType".(å˜Ğ†ûÿÿÿÿ
-[squid:S1854	"CRemove this useless assignment to local variable "schemaNamespace".(°²¤º
-Asquid:S1905")Remove this unnecessary cast to "Vector".(Çê¿—
-Gsquid:S00108±")Either remove or fill this block of code.(¾ÿ¼­üÿÿÿÿ
-Gsquid:S00108–	")Either remove or fill this block of code.(¾ÿ¼­üÿÿÿÿ
-osquid:S3776ÿ	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼Øçùÿÿÿÿ
-3squid:S3626½
-"Remove this redundant jump.(ÉŠ©ƒ
-osquid:S3776™
-"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(ÁİÒÿúÿÿÿÿ
-Fsquid:S1905š")Remove this unnecessary cast to "Vector".(·‹Ú¡üÿÿÿÿ
-osquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(µ¬€ıÿÿÿÿ
-Fsquid:S1905œ")Remove this unnecessary cast to "Vector".(·‹Ú¡üÿÿÿÿ
-osquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(‘õ·™şÿÿÿÿ
-P
-squid:S106È"9Replace this use of System.out or System.err by a logger.(ĞÃáĞ
-Q"squid:SwitchLastCaseIsDefaultCheckÒ""Add a default case to this switch.(‘Áñë
-Q"squid:SwitchLastCaseIsDefaultCheckğ""Add a default case to this switch.(‘Áñë
-Q"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(‘Áñë
-Q"squid:SwitchLastCaseIsDefaultCheck·""Add a default case to this switch.(‘Áñë
-csquid:S3027ø"FPut single-quotes around ',' to use the faster "indexOf(char)" method.(üÙÿŒÿÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckı""Add a default case to this switch.(ÜŸ•
-gsquid:S00100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷–Õ•
-osquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ß•ùÿÿÿÿ
-jsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(î‹¡¡
-Asquid:S00108œ")Either remove or fill this block of code.(ïõşJ
-Jsquid:S2755 "-Disable XML external entity (XXE) processing.(Å‰ôòøÿÿÿÿ
-fsquid:CallToDeprecatedMethod "8Remove this use of "XMLReaderFactory"; it is deprecated.(Å‰ôòøÿÿÿÿ
-Asquid:S00108²")Either remove or fill this block of code.(ïõşJ
-U
-squid:S106·"9Replace this use of System.out or System.err by a logger.(¨àüÚıÿÿÿÿ
-Bsquid:S00108Ö")Either remove or fill this block of code.(‚Üò
-jsquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¸òËÔ
-jsquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ûØóÈ
-osquid:S3252Ğ"RUse static access with "javax.xml.stream.XMLStreamConstants" for "START_DOCUMENT".(ÿ›×Õùÿÿÿÿ
-jsquid:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÿÕ¨
->squid:S1659ï"!Declare "sg2" on a separate line.(çÈ’Ïûÿÿÿÿ
-=squid:S1659¼"%Declare "dstDecl" on a separate line.(ÍÔ¶
-Osquid:S1135Æ"2Complete the task associated to this TODO comment.(˜„Ê‡ÿÿÿÿÿ
-Osquid:S1135Ú"2Complete the task associated to this TODO comment.(˜„Ê‡ÿÿÿÿÿ
-Bsquid:S1659â"%Declare "dstDecl" on a separate line.(‚šÿÅıÿÿÿÿ
-Bsquid:S00108€")Either remove or fill this block of code.(ñÂÏ
-=squid:S1659ˆ"%Declare "dstDecl" on a separate line.(’œòú
-Bsquid:S00108¦")Either remove or fill this block of code.(ñÂÏ
-=squid:S1659®"%Declare "dstDecl" on a separate line.(ÆãÂÉ
-Bsquid:S00108Ì")Either remove or fill this block of code.(ñÂÏ
-=squid:S1659Ô"%Declare "dstDecl" on a separate line.(­“Ó¶
-Bsquid:S00108ò")Either remove or fill this block of code.(ñÂÏ
-=squid:S1659ú"%Declare "dstDecl" on a separate line.(¯½Ãå
-Bsquid:S00108˜")Either remove or fill this block of code.(ñÂÏ
-c
-squid:S128¼"LEnd this switch case with an unconditional break, return or throw statement.(°†Ï¡
-c
-squid:S128·"LEnd this switch case with an unconditional break, return or throw statement.(ò‘ö¸
-osquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¹İ–ıÿÿÿÿ
-Fsquid:S1172ß")Remove this unused method parameter "sg".(Ğ»íúÿÿÿÿ
-Fsquid:S1172î")Remove this unused method parameter "sg".(¥Ò¨³ûÿÿÿÿ
-osquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‰û½şÿÿÿÿ
-Bsquid:S00108×")Either remove or fill this block of code.(íƒÕ
-Bsquid:S00108â")Either remove or fill this block of code.(·Ş˜á
-Bsquid:S00108é")Either remove or fill this block of code.(·Ş˜á
-Bsquid:S00108ï")Either remove or fill this block of code.(·Ş˜á
-Bsquid:S00108ı")Either remove or fill this block of code.(·Ş˜á
-Bsquid:S00108„")Either remove or fill this block of code.(·Ş˜á
-jsquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(À›’ç
-Isquid:S1905"1Remove this unnecessary cast to "XSDocumentInfo".(¯ˆâÏ
-psquid:S3776î"SRefactor this method to reduce its Cognitive Complexity from 119 to the 15 allowed.(÷ÁÂÊúÿÿÿÿ
->squid:S2129Ş"!Remove this "Integer" constructor(‹®ÒËûÿÿÿÿ
-]squid:CallToDeprecatedMethodŞ"/Remove this use of "Integer"; it is deprecated.(‹®ÒËûÿÿÿÿ
-9squid:S2129î"!Remove this "Integer" constructor(èÎàÏ
-Xsquid:CallToDeprecatedMethodî"/Remove this use of "Integer"; it is deprecated.(èÎàÏ
-osquid:S3776¢ "RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(šõÂòûÿÿÿÿ
-Rsquid:S1854¯ ":Remove this useless assignment to local variable "prefix".(Ñ£öè
-^squid:S3027° "FPut single-quotes around ':' to use the faster "indexOf(char)" method.(ø…İ
-Hsquid:S1172Ğ "+Remove this unused method parameter "decl".(ï»Šûÿÿÿÿ
-P
-squid:S106Ó "9Replace this use of System.out or System.err by a logger.(®Ì§‚
-Asquid:S1905Ó ")Remove this unnecessary cast to "Object".(®Ì§‚
-Asquid:S1905ı ")Remove this unnecessary cast to "Vector".(˜€³‹
-™squid:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ª¾ıİ
-squid:S1186¦""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†è¼âúÿÿÿÿ
-™squid:S1186¨""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”æô
-squid:S1186ª""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©…£ şÿÿÿÿ
-jsquid:S3776ì!"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²Ğ¶
-Ysquid:S1126‡#"AReplace this if-then-else statement by a single return statement.(š¸ÂÉ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(±üı
-csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(¹Õ»‚
-csquid:CommentedOutCodeLineÖ
-"<This block of commented-out lines of code should be removed.(÷ £ó
-csquid:CommentedOutCodeLineß
-"<This block of commented-out lines of code should be removed.(÷ £ó
-csquid:CommentedOutCodeLineí
-"<This block of commented-out lines of code should be removed.(÷ £ó
-hsquid:CommentedOutCodeLineõ
-"<This block of commented-out lines of code should be removed.(»›ğ¾ıÿÿÿÿ
-csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(ì—„Ó
-hsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(Æ¾Øåıÿÿÿÿ
-hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(Çº°¸ÿÿÿÿÿ
-hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(Í ºŞøÿÿÿÿ
-hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(²œ÷Úûÿÿÿÿ
-csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(„§ñ£
-hsquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(Û±‹òşÿÿÿÿ
-hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(–®õÒøÿÿÿÿ
-csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(Í¶Ğã
-hsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(®¾ú‰ûÿÿÿÿ
-csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(‡øâÿ
-csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(Üîæİ
-csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(Üîæİ
-csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(Üîæİ
-csquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(Üîæİ
-csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(ŞÎÂÚ

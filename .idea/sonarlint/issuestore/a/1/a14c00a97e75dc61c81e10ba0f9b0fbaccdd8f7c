@@ -1,96 +1,0 @@
-
-„ squid:ForLoopCounterChangedCheck¤"XRefactor the code in order to not assign to this loop counter from within the loop body.(æÎÓc
-… squid:ForLoopCounterChangedCheck¦"XRefactor the code in order to not assign to this loop counter from within the loop body.(³÷µœ
-Š squid:ForLoopCounterChangedCheck«"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckÛ"XRefactor the code in order to not assign to this loop counter from within the loop body.(æÎÓc
-… squid:ForLoopCounterChangedCheckß"XRefactor the code in order to not assign to this loop counter from within the loop body.(³÷µœ
-Š squid:ForLoopCounterChangedCheckå"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckĞ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì’Øäúÿÿÿÿ
-… squid:ForLoopCounterChangedCheckâ"XRefactor the code in order to not assign to this loop counter from within the loop body.(´ÍÍ
-Š squid:ForLoopCounterChangedCheckê"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì’Øäúÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck÷"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì’Øäúÿÿÿÿ
-… squid:ForLoopCounterChangedCheck‡"XRefactor the code in order to not assign to this loop counter from within the loop body.(£™œ
-… squid:ForLoopCounterChangedCheckä"XRefactor the code in order to not assign to this loop counter from within the loop body.(Äî•˜
-Š squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì’Øäúÿÿÿÿ
-… squid:ForLoopCounterChangedCheckõ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁŞó¢
-… squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁŞó¢
-Lsquid:S1191?"5Use classes from the Java API instead of Sun classes.(§ª›‰
-Fsquid:S1066´"/Merge this if statement with the enclosing one.(ÇàÏ 
-Ssquid:S3518ˆ"<Make sure "number" can't be zero before doing this division.(ÃÌÃy
-_squid:S3518Ç"BMake sure "doubleResult" can't be zero before doing this division.(îİ³üÿÿÿÿ
-p
-squid:S135¸"YReduce the total number of break and continue statements in this loop to use at most one.(ÏÇÓØ
-p
-squid:S135¿"YReduce the total number of break and continue statements in this loop to use at most one.(çÉòÕ
-u
-squid:S135Ã"YReduce the total number of break and continue statements in this loop to use at most one.(È»€úÿÿÿÿ
-Qsquid:S4973°"9Use the "equals" method if value comparison was intended.(ÏøªÁ
-Vsquid:S4973¶"9Use the "equals" method if value comparison was intended.(³ªªÇşÿÿÿÿ
-Zsquid:S00107³"<Method has 8 parameters, which is greater than 7 authorized.(ó¬’›úÿÿÿÿ
-lsquid:UselessImportCheck;"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ
-hsquid:UselessImportCheck<"?Remove this unused import 'java.util.concurrent.ConcurrentMap'.(˜ˆ¶úÿÿÿÿ
-zsquid:S3008ú&"bRename this field "EmptyFieldPositionArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î’¼ª
-ssquid:S00115‚&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬Æ™˜
-osquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¼ÂÌŞüÿÿÿÿ
-osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.( õ¨Ìûÿÿÿÿ
-asquid:S3358Ñ"DExtract this nested ternary operation into an independent statement.(™©ºüÿÿÿÿ
-Bsquid:S1659‰"*Declare "minIntDigits" on a separate line.(ÆŞŞ
-Bsquid:S1659‰"*Declare "maxFraDigits" on a separate line.(ÆŞŞ
-Bsquid:S1659‰"*Declare "minFraDigits" on a separate line.(ÆŞŞ
-Csquid:S1659‰"+Declare "maximumDigits" on a separate line.(ÆŞŞ
-osquid:S3776Ö	"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(–Âƒäúÿÿÿÿ
-Ysquid:S1854°"<Remove this useless assignment to local variable "bVirtual".(«ĞŠŸşÿÿÿÿ
-csquid:S1854¯"FRemove this useless assignment to local variable "fastTwoSumRoundOff".(û¤¬îúÿÿÿÿ
-hsquid:S1854®"KRemove this useless assignment to local variable "fastTwoSumApproximation".(ùÇ’ÿÿÿÿÿ
-Rsquid:S1161…":Add the "@Override" annotation above this method signature(‰ÿ†
-osquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(ó¬’›úÿÿÿÿ
-rsquid:HiddenFieldCheckó"JRename "minimumIntegerDigits" which hides the field declared at line 4735.(‚ä²ìøÿÿÿÿ
-jsquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(‘Üí¨
-=squid:S2129ê" Remove this "Double" constructor(Ñ†şÙøÿÿÿÿ
-\squid:CallToDeprecatedMethodê".Remove this use of "Double"; it is deprecated.(Ñ†şÙøÿÿÿÿ
-8squid:S2129õ" Remove this "Double" constructor(Ø†ã
-Wsquid:CallToDeprecatedMethodõ".Remove this use of "Double"; it is deprecated.(Ø†ã
-=squid:S2129÷" Remove this "Double" constructor(±òÆáûÿÿÿÿ
-\squid:CallToDeprecatedMethod÷".Remove this use of "Double"; it is deprecated.(±òÆáûÿÿÿÿ
-=squid:S2129ı" Remove this "Double" constructor(Ñ†şÙøÿÿÿÿ
-\squid:CallToDeprecatedMethodı".Remove this use of "Double"; it is deprecated.(Ñ†şÙøÿÿÿÿ
-8squid:S2129ÿ" Remove this "Double" constructor(Ø†ã
-Wsquid:CallToDeprecatedMethodÿ".Remove this use of "Double"; it is deprecated.(Ø†ã
-=squid:S2129" Remove this "Double" constructor(±òÆáûÿÿÿÿ
-\squid:CallToDeprecatedMethod".Remove this use of "Double"; it is deprecated.(±òÆáûÿÿÿÿ
-=squid:S2129Ì" Remove this "Double" constructor(öêğŒüÿÿÿÿ
-\squid:CallToDeprecatedMethodÌ".Remove this use of "Double"; it is deprecated.(öêğŒüÿÿÿÿ
-;squid:S2129Ì"Remove this "Long" constructor(öêğŒüÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÌ",Remove this use of "Long"; it is deprecated.(öêğŒüÿÿÿÿ
-jsquid:S3776€"RRefactor this method to reduce its Cognitive Complexity from 85 to the 15 allowed.(œî–
-\squid:S1854’"?Remove this useless assignment to local variable "sawExponent".(÷Äşìÿÿÿÿÿ
-Psquid:S1197ƒ"8Move the array designator from the variable to the type.(ô¿Àø
-Fsquid:S1659‡")Declare "gotNegative" on a separate line.(ÿŸµ‹ùÿÿÿÿ
-ksquid:S2975‚"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-V"squid:SwitchLastCaseIsDefaultCheck§""Add a default case to this switch.(îÇËúÿÿÿÿ
-jsquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(İØØÑ
-Rsquid:S1854ö"5Remove this useless assignment to local variable "c".(º¯êÖûÿÿÿÿ
-Lsquid:S1854û"5Remove this useless assignment to local variable "c".(‰½©.
-Rsquid:S1854€"5Remove this useless assignment to local variable "c".(ü‚Šöÿÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckà""Add a default case to this switch.(îÇËúÿÿÿÿ
-hsquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ŠË2
-V"squid:SwitchLastCaseIsDefaultCheckÆ""Add a default case to this switch.(îÇËúÿÿÿÿ
-jsquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(·¡´£
-asquid:S3358—"DExtract this nested ternary operation into an independent statement.(éî¤úÿÿÿÿ
-asquid:S3358˜"DExtract this nested ternary operation into an independent statement.(İ¯éÛıÿÿÿÿ
-3squid:S3626ö"Remove this redundant jump.(ÉŠ©ƒ
-3squid:S3626ü"Remove this redundant jump.(ÉŠ©ƒ
-psquid:S3776Œ"SRefactor this method to reduce its Cognitive Complexity from 190 to the 15 allowed.(½„µïûÿÿÿÿ
-^squid:S1854à"ARemove this useless assignment to local variable "phaseOneStart".(Ä÷¬ùşÿÿÿÿ
-Dsquid:S1659´",Declare "zeroDigitCount" on a separate line.(‰„³è
-Esquid:S1659´"-Declare "digitRightCount" on a separate line.(‰„³è
-csquid:HiddenFieldCheck³"@Rename "multiplier" which hides the field declared at line 4568.(Š•»
-Q"squid:SwitchLastCaseIsDefaultCheckÅ""Add a default case to this switch.(¹ÌÓÏ
-Osquid:S1481ª"2Remove this unused "phaseOneStart" local variable.(€ğÙ†ÿÿÿÿÿ
-hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(‚Ó¤ÿÿÿÿÿ
-csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(“†ú«
-hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(†À×£úÿÿÿÿ
-hsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ş¸¥áıÿÿÿÿ
-hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(õË ÿÿÿÿÿ
-hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(Üµ‰íøÿÿÿÿ
-csquid:CommentedOutCodeLineš$"<This block of commented-out lines of code should be removed.(ÿ¯Œ–

@@ -1,5 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÎÚ¶…øÿÿÿÿ
-bsquid:UselessImportCheck"9Remove this unused import 'com.sun.corba.se.spi.orb.ORB'.(¯Ñ‰“ùÿÿÿÿ
-isquid:UselessImportCheck"@Remove this unused import 'com.sun.corba.se.spi.orb.ORBVersion'.(·›â‰ùÿÿÿÿ
-Qsquid:S1118 ":Add a private constructor to hide the implicit public one.(‡Ì¡Ê

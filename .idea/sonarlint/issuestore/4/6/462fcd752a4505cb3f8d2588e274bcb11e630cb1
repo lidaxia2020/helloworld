@@ -1,80 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-_$squid:AssignmentInSubExpressionCheck™".Extract the assignment out of this expression.(Í…¬Ò
-d$squid:AssignmentInSubExpressionCheckœ".Extract the assignment out of this expression.(­©ùüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckŸ".Extract the assignment out of this expression.(øöºÍıÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÈ".Extract the assignment out of this expression.(¿µ«½
-asquid:S3973Æ"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
-asquid:S3973Í"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
-asquid:S3973Ğ"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
-rsquid:S1488ó"ZImmediately return this expression instead of assigning it to the temporary variable "bt".(ó–Áì
-Zsquid:S00107 "AConstructor has 8 parameters, which is greater than 7 authorized.(³×ñ
-jsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³×ñ
-jsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³×ñ
-jsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³×ñ
-jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò­ÄÚ
-jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò­ÄÚ
-jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò­ÄÚ
-osquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğí¤©üÿÿÿÿ
-jsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÂıî
-jsquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åş§½
-jsquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÎÙË
-jsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§…’Ú
-osquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âø¹æıÿÿÿÿ
-jsquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çâ–Î
-osquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¹Âşûÿÿÿÿ
-osquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şº×Ôıÿÿÿÿ
-jsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Áªï
-osquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê´¨ªúÿÿÿÿ
-osquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õö“üÿÿÿÿ
-osquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş½òÓÿÿÿÿÿ
-jsquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹üê÷
-jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Õ„Í
-jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹²ú
-osquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹À³åúÿÿÿÿ
-osquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­£êúûÿÿÿÿ
-jsquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÏµ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“”ä
-osquid:S00117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Æ¯‰ÿÿÿÿÿ
-jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¯Èõ
-jsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÌÔ·
-osquid:S00117›	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Œ—´úÿÿÿÿ
-isquid:S00117—
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²×W
-Vsquid:S1155˜">Use isEmpty() to check whether the collection is empty or not.(ê€ö¶
-[squid:S1155›">Use isEmpty() to check whether the collection is empty or not.(Æ¦À„üÿÿÿÿ
-[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ŸÒãüÿÿÿÿ
-[squid:S1155Ç">Use isEmpty() to check whether the collection is empty or not.(±©íÁûÿÿÿÿ
-Vsquid:S1155Œ
-">Use isEmpty() to check whether the collection is empty or not.(–µ¬ã
-msquid:S00116t"URename this field "class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ç©É
-lsquid:S00116u"TRename this field "arg_types" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èì ¬
-ksquid:S00116v"TRename this field "arg_names" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç
-rsquid:S00116w"URename this field "max_locals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(– †şÿÿÿÿ
-lsquid:S00116x"TRename this field "max_stack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øİß‰
-xsquid:S00116z"[Rename this field "strip_attributes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã…æòûÿÿÿÿ
-tsquid:S00116|"WRename this field "variable_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷°²¶üÿÿÿÿ
-psquid:S00116}"SRename this field "type_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–îºúÿÿÿÿ
-wsquid:S00116~"ZRename this field "line_number_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÌ¸ úÿÿÿÿ
-osquid:S00116"XRename this field "exception_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ½Ë4
-nsquid:S00116€"URename this field "throws_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‹İ¾
-rsquid:S00116"YRename this field "code_attrs_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùĞÆ­
-msquid:S1149ç"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ìÎÃêøÿÿÿÿ
-ssquid:S1149è"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(åÙâùÿÿÿÿ
-|squid:S1149Š
-"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¼ä×®ıÿÿÿÿ
-jsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(³×ñ
-jsquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(œÂıî
-<squid:S1659Ø"Declare "j" on a separate line.(µğ“ÿÿÿÿÿ
-Bsquid:S00108¸")Either remove or fill this block of code.(ô¶Ïã
-Gsquid:S00108‡")Either remove or fill this block of code.(’äàĞûÿÿÿÿ
-Gsquid:S00108Ä")Either remove or fill this block of code.(’äàĞûÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¢ıŞºúÿÿÿÿ
-osquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(éĞ÷åùÿÿÿÿ
-Fsquid:S1905–")Remove this unnecessary cast to "Type[]".(†•³üøÿÿÿÿ
-Hsquid:S1905›"+Remove this unnecessary cast to "String[]".(™–Úıÿÿÿÿ
-jsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(’µËÑ
-msquid:S1149ç"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ìÎÃêøÿÿÿÿ
-ssquid:S1149è"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(åÙâùÿÿÿÿ
-isquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(æâ¸P
-Csquid:S1659 	"+Declare "maxStackDepth" on a separate line.(ŸŒĞ‡

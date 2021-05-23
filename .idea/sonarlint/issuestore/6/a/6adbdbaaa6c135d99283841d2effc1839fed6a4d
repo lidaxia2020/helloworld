@@ -1,25 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(˜ÛÂàýÿÿÿÿ
-Lsquid:S11337"5Do not forget to remove this deprecated code someday.(ëù‡÷
-Osquid:MissingDeprecatedCheck7"'Add the missing @Deprecated annotation.(ëù‡÷
-csquid:CallToDeprecatedMethod8"6Remove this use of "HTMLSerializer"; it is deprecated.(×õíµýÿÿÿÿ
-csquid:CallToDeprecatedMethodF"6Remove this use of "HTMLSerializer"; it is deprecated.(ŒåƒÛûÿÿÿÿ
-asquid:CallToDeprecatedMethodF"4Remove this use of "OutputFormat"; it is deprecated.(ŒåƒÛûÿÿÿÿ
-[squid:CallToDeprecatedMethodF".Remove this use of "Method"; it is deprecated.(ŒåƒÛûÿÿÿÿ
-\squid:CallToDeprecatedMethodR"4Remove this use of "OutputFormat"; it is deprecated.( £‹§
-^squid:CallToDeprecatedMethodT"6Remove this use of "HTMLSerializer"; it is deprecated.(ŸÇªÁ
-\squid:CallToDeprecatedMethodT"4Remove this use of "OutputFormat"; it is deprecated.(ŸÇªÁ
-Vsquid:CallToDeprecatedMethodT".Remove this use of "Method"; it is deprecated.(ŸÇªÁ
-asquid:CallToDeprecatedMethodd"4Remove this use of "OutputFormat"; it is deprecated.(Ó Ò°ùÿÿÿÿ
-^squid:CallToDeprecatedMethodf"6Remove this use of "HTMLSerializer"; it is deprecated.(ŸÇªÁ
-\squid:CallToDeprecatedMethodf"4Remove this use of "OutputFormat"; it is deprecated.(ŸÇªÁ
-Vsquid:CallToDeprecatedMethodf".Remove this use of "Method"; it is deprecated.(ŸÇªÁ
-\squid:CallToDeprecatedMethodv"4Remove this use of "OutputFormat"; it is deprecated.(òœ¼ê
-^squid:CallToDeprecatedMethodx"6Remove this use of "HTMLSerializer"; it is deprecated.(ŸÇªÁ
-\squid:CallToDeprecatedMethodx"4Remove this use of "OutputFormat"; it is deprecated.(ŸÇªÁ
-Vsquid:CallToDeprecatedMethodx".Remove this use of "Method"; it is deprecated.(ŸÇªÁ
-Qsquid:S1161}":Add the "@Override" annotation above this method signature(³§ÃÜ
-\squid:CallToDeprecatedMethod}"4Remove this use of "OutputFormat"; it is deprecated.(³§ÃÜ
-asquid:CallToDeprecatedMethod"4Remove this use of "OutputFormat"; it is deprecated.(£çã†ýÿÿÿÿ
-[squid:CallToDeprecatedMethod".Remove this use of "Method"; it is deprecated.(£çã†ýÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

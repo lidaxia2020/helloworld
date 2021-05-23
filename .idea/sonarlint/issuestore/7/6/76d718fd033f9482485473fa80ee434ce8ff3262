@@ -1,32 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡Ó²íùÿÿÿÿ
-Lsquid:S1066¡"/Merge this if statement with the enclosing one.(ÑòŠ«øÿÿÿÿ
-Lsquid:S1066Á"/Merge this if statement with the enclosing one.(Ö¥Ê€úÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
-|squid:S1149B"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡×›â
-}squid:S1149î"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’Æ°ç
-Bsquid:S1948B"+Make "entryList" transient or serializable.(‡×›â
-Ssquid:CallToDeprecatedMethod?"+Remove this use of "Acl"; it is deprecated.(ÇØéÍ
-Xsquid:CallToDeprecatedMethodB"0Remove this use of "AclEntry"; it is deprecated.(‡×›â
-fsquid:CallToDeprecatedMethodf"9Remove this use of "NotOwnerException"; it is deprecated.(ï¸íäûÿÿÿÿ
-asquid:CallToDeprecatedMethodh"9Remove this use of "NotOwnerException"; it is deprecated.(Ñ¥Ÿª
-Ysquid:CallToDeprecatedMethod"0Remove this use of "AclEntry"; it is deprecated.(ŸÁÌ›
-gsquid:CallToDeprecatedMethod‘"9Remove this use of "NotOwnerException"; it is deprecated.(ï¸íäûÿÿÿÿ
-bsquid:CallToDeprecatedMethod“"9Remove this use of "NotOwnerException"; it is deprecated.(Ñ¥Ÿª
-^squid:CallToDeprecatedMethod¸"0Remove this use of "AclEntry"; it is deprecated.(šÆ„Åıÿÿÿÿ
-gsquid:CallToDeprecatedMethod¹"9Remove this use of "NotOwnerException"; it is deprecated.(ï¸íäûÿÿÿÿ
-bsquid:CallToDeprecatedMethod»"9Remove this use of "NotOwnerException"; it is deprecated.(Ñ¥Ÿª
-gsquid:CallToDeprecatedMethodÎ"9Remove this use of "NotOwnerException"; it is deprecated.(ï¸íäûÿÿÿÿ
-bsquid:CallToDeprecatedMethodĞ"9Remove this use of "NotOwnerException"; it is deprecated.(Ñ¥Ÿª
-`squid:CallToDeprecatedMethodí"2Remove this use of "Permission"; it is deprecated.(æŸƒøÿÿÿÿ
-[squid:CallToDeprecatedMethodî"2Remove this use of "Permission"; it is deprecated.(’Æ°ç
-Ysquid:CallToDeprecatedMethodï"0Remove this use of "AclEntry"; it is deprecated.(é®›‹
-^squid:CallToDeprecatedMethodğ"0Remove this use of "AclEntry"; it is deprecated.(ÒÒµÿÿÿÿÿ
-^squid:CallToDeprecatedMethod‚"0Remove this use of "AclEntry"; it is deprecated.(¯§€úÿÿÿÿ
-`squid:CallToDeprecatedMethod"2Remove this use of "Permission"; it is deprecated.(Í¡á¡üÿÿÿÿ
-Ysquid:CallToDeprecatedMethod"0Remove this use of "AclEntry"; it is deprecated.(é®›‹
-^squid:CallToDeprecatedMethodŸ"0Remove this use of "AclEntry"; it is deprecated.(ÒÒµÿÿÿÿÿ
-`squid:CallToDeprecatedMethod½"2Remove this use of "Permission"; it is deprecated.(Í¡á¡üÿÿÿÿ
-Ysquid:CallToDeprecatedMethod¾"0Remove this use of "AclEntry"; it is deprecated.(é®›‹
-Ysquid:CallToDeprecatedMethodÕ"0Remove this use of "AclEntry"; it is deprecated.(é®›‹
-bsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(çÑj

@@ -1,73 +1,0 @@
-
-ssquid:S2629®"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(½ê”~
-tsquid:S2629¯"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ôÏåÄ
-Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(ÊÒğw
-dsquid:S1192—"GDefine a constant instead of duplicating this literal "empty" 21 times.(Áüµöüÿÿÿÿ
-Esquid:S1604®"(Make this anonymous inner class a lambda(Ïâ™àÿÿÿÿÿ
-@squid:S1604õ"(Make this anonymous inner class a lambda(æ®‘Ã
-Qsquid:S1143ş"4Remove this throw statement from this finally block.(Áüµöüÿÿÿÿ
-Zsquid:S1163ş"=Refactor this code to not throw exceptions in finally blocks.(Áüµöüÿÿÿÿ
-Osquid:S1135Ñ"2Complete the task associated to this TODO comment.(Ïô§äıÿÿÿÿ
-Usquid:S1197¦"8Move the array designator from the variable to the type.(Éå¸²ıÿÿÿÿ
-Usquid:S1197É"8Move the array designator from the variable to the type.(ÁÌ†Òøÿÿÿÿ
-^squid:S1126¼"AReplace this if-then-else statement by a single return statement.(¬’÷²ıÿÿÿÿ
-Xsquid:S1126Ó"AReplace this if-then-else statement by a single return statement.(ÔŞÎC
-Wsquid:CallToDeprecatedMethodê".Remove this use of "Base64"; it is deprecated.(š­ÏŒ
-–%squid:RedundantThrowsDeclarationCheckû"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException'.(ºÊñí
-vsquid:CallToDeprecatedMethod—"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-]squid:S2147®"ECombine this catch with the one at line 556, which has the same body.(€àÈ„
-]squid:S2147°"ECombine this catch with the one at line 556, which has the same body.(¹ƒ›×
-bsquid:S2147²"ECombine this catch with the one at line 556, which has the same body.(±ÃÙÿøÿÿÿÿ
-bsquid:S2147´"ECombine this catch with the one at line 556, which has the same body.(µç‡Šúÿÿÿÿ
-gsquid:HiddenFieldCheckŸ"?Rename "transforms" which hides the field declared at line 187.(ä”‰Æøÿÿÿÿ
-fsquid:CallToDeprecatedMethod­"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethod¯"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethod±"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethod³"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethodµ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-]squid:S2147ñ"ECombine this catch with the one at line 623, which has the same body.(×ÓŒ
-]squid:S2147ó"ECombine this catch with the one at line 623, which has the same body.(€àÈ„
-]squid:S2147õ"ECombine this catch with the one at line 623, which has the same body.(¹ƒ›×
-bsquid:S2147÷"ECombine this catch with the one at line 623, which has the same body.(±ÃÙÿøÿÿÿÿ
-bsquid:S2147ù"ECombine this catch with the one at line 623, which has the same body.(µç‡Šúÿÿÿÿ
-gsquid:HiddenFieldCheckÛ"?Rename "transforms" which hides the field declared at line 187.(ä”‰Æøÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckŞ";Refactor the code to remove this label and the need for it.(ªø¦Û
-fsquid:CallToDeprecatedMethodğ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethodò"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethodô"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethodö"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethodø"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethodú"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-bsquid:S2147²"ECombine this catch with the one at line 688, which has the same body.(÷•Ï¥ıÿÿÿÿ
-bsquid:S2147´"ECombine this catch with the one at line 688, which has the same body.(µç‡Šúÿÿÿÿ
-gsquid:HiddenFieldCheck‹"?Rename "transforms" which hides the field declared at line 187.(ä”‰Æøÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(ªø¦Û
-vsquid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Âìëùÿÿÿÿ
-fsquid:CallToDeprecatedMethod±"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethod³"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-fsquid:CallToDeprecatedMethodµ"=Remove this use of "XMLSignatureException"; it is deprecated.(ö˜
-vsquid:CallToDeprecatedMethodç"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckª"ØRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ÍÎ‚†üÿÿÿÿ
-•%squid:RedundantThrowsDeclarationCheckª"İRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ÍÎ‚†üÿÿÿÿ
-“%squid:RedundantThrowsDeclarationCheck«"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.TransformationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(ê‡ìŒüÿÿÿÿ
-Ù%squid:RedundantThrowsDeclarationCheck«"¡Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException', as it cannot be thrown from method's body.(ê‡ìŒüÿÿÿÿ
-›%squid:RedundantThrowsDeclarationCheck»"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException'.(ŠÃ‰Üüÿÿÿÿ
-]squid:S2147Á"ECombine this catch with the one at line 831, which has the same body.(€àÈ„
-vsquid:CallToDeprecatedMethodÀ"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-vsquid:CallToDeprecatedMethodÂ"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-›%squid:RedundantThrowsDeclarationCheckÔ"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.signature.XMLSignatureException'.(ŠÃ‰Üüÿÿÿÿ
-]squid:S2147÷"ECombine this catch with the one at line 885, which has the same body.(Ãôş•
-vsquid:CallToDeprecatedMethodö"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-vsquid:CallToDeprecatedMethodø"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-vsquid:CallToDeprecatedMethodş"HRemove this use of "ReferenceNotInitializedException"; it is deprecated.(Áüµöüÿÿÿÿ
-Gsquid:S2093Ö"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-“%squid:RedundantThrowsDeclarationCheck"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.exceptions.Base64DecodingException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(•ûºûıÿÿÿÿ
-\squid:CallToDeprecatedMethod—".Remove this use of "Base64"; it is deprecated.(ÂæÉ›ıÿÿÿÿ
-›%squid:RedundantThrowsDeclarationCheck§"ãRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.signature.ReferenceNotInitializedException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(œŸ±Ãøÿÿÿÿ
-Vsquid:CallToDeprecatedMethod®".Remove this use of "Base64"; it is deprecated.(½ê”~
-Wsquid:CallToDeprecatedMethod¯".Remove this use of "Base64"; it is deprecated.(ôÏåÄ
-hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ê©Ëôşÿÿÿÿ
-hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(Ò¸şûÿÿÿÿ
-hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(Ëµ¨ÿÿÿÿÿ
-csquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(¹ªë»

@@ -1,88 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
-bsquid:S1192å"JDefine a constant instead of duplicating this literal "ISO8859_7" 9 times.(•îİı
-^squid:S1192‡"FDefine a constant instead of duplicating this literal "CP420" 7 times.(×å‚
-csquid:S1192ó"FDefine a constant instead of duplicating this literal "CP280" 7 times.(‚Óâ÷øÿÿÿÿ
-_squid:S1192è"GDefine a constant instead of duplicating this literal "Cp1140" 4 times.(™Ç
-gsquid:S1192İ"JDefine a constant instead of duplicating this literal "ISO8859_6" 8 times.(¦ºª„ùÿÿÿÿ
-esquid:S1192¢"HDefine a constant instead of duplicating this literal "GB18030" 4 times.(ÁãÄøÿÿÿÿ
-_squid:S1192å"GDefine a constant instead of duplicating this literal "CP1026" 6 times.(Îç»
-_squid:S1192ë"GDefine a constant instead of duplicating this literal "Cp1141" 4 times.(’œÒ¦
-gsquid:S1192×"JDefine a constant instead of duplicating this literal "ISO8859_5" 6 times.(¦†äÉøÿÿÿÿ
-csquid:S1192¬"FDefine a constant instead of duplicating this literal "CP858" 5 times.(ªÉœ÷úÿÿÿÿ
-dsquid:S1192î"GDefine a constant instead of duplicating this literal "Cp1142" 4 times.(—ÿí¹ıÿÿÿÿ
-^squid:S1192ÿ"FDefine a constant instead of duplicating this literal "CP290" 7 times.(‚ç“
-gsquid:S1192Ğ"JDefine a constant instead of duplicating this literal "ISO8859_4" 7 times.(»ùöŞøÿÿÿÿ
-csquid:S1192Ï"FDefine a constant instead of duplicating this literal "CP869" 7 times.(¦öÔÏıÿÿÿÿ
-csquid:S1192¨"FDefine a constant instead of duplicating this literal "CP857" 7 times.(®åØóøÿÿÿÿ
-csquid:S1192æ"FDefine a constant instead of duplicating this literal "CP273" 6 times.(ùºªŠûÿÿÿÿ
-]squid:S1192û"FDefine a constant instead of duplicating this literal "CP285" 7 times.(›–¦C
-_squid:S1192ñ"GDefine a constant instead of duplicating this literal "Cp1143" 4 times.(âşÛĞ
-csquid:S1192ƒ"FDefine a constant instead of duplicating this literal "CP297" 7 times.(„ñ•¡øÿÿÿÿ
-]squid:S1192‹"FDefine a constant instead of duplicating this literal "CP424" 7 times.(¥ĞÑO
-csquid:S1192™"FDefine a constant instead of duplicating this literal "CP775" 6 times.(®¯¥ıûÿÿÿÿ
-csquid:S1192¯"FDefine a constant instead of duplicating this literal "CP860" 7 times.(¨ŒØùÿÿÿÿ
-asquid:S1192É"JDefine a constant instead of duplicating this literal "ISO8859_3" 7 times.(™¢€b
-esquid:S1192“"MDefine a constant instead of duplicating this literal "EBCDIC-CP-CH" 3 times.(ËÏ×œ
-`squid:S1192™"HDefine a constant instead of duplicating this literal "JIS0201" 3 times.(¾“¢–
-dsquid:S1192—"GDefine a constant instead of duplicating this literal "Cp1047" 3 times.(‹ŠÜùÿÿÿÿ
-dsquid:S1192ô"GDefine a constant instead of duplicating this literal "Cp1144" 4 times.(“Ò¬Óşÿÿÿÿ
-^squid:S1192÷"FDefine a constant instead of duplicating this literal "CP284" 7 times.(¡È¹¾
-csquid:S1192Ó"FDefine a constant instead of duplicating this literal "CP870" 8 times.(Ñ¿µèıÿÿÿÿ
-^squid:S1192Ø"FDefine a constant instead of duplicating this literal "CP871" 7 times.(şæ³
-^squid:S1192ª"FDefine a constant instead of duplicating this literal "MS932" 3 times.(´¡›À
-bsquid:S1192Â"JDefine a constant instead of duplicating this literal "ISO8859_2" 7 times.(µŠ©
-^squid:S1192à"FDefine a constant instead of duplicating this literal "CP924" 6 times.(´Î÷¿
-esquid:S1192Ÿ"HDefine a constant instead of duplicating this literal "JIS0212" 4 times.(‡»ˆŒúÿÿÿÿ
-dsquid:S1192÷"GDefine a constant instead of duplicating this literal "Cp1145" 4 times.(¤õ§ñúÿÿÿÿ
-gsquid:S1192•"JDefine a constant instead of duplicating this literal "ISO2022KR" 3 times.(ï˜ğŠûÿÿÿÿ
-_squid:S1192‘"GDefine a constant instead of duplicating this literal "GB2312" 5 times.(Ë­ÁÒ
-hsquid:S1192¹"KDefine a constant instead of duplicating this literal "ISO8859_1" 10 times.(„œ²²şÿÿÿÿ
-dsquid:S1192ú"GDefine a constant instead of duplicating this literal "Cp1146" 4 times.(©óÑ»ÿÿÿÿÿ
-dsquid:S1192ı"GDefine a constant instead of duplicating this literal "Cp1147" 4 times.(ö›Õçûÿÿÿÿ
-csquid:S1192À"FDefine a constant instead of duplicating this literal "CP864" 6 times.(µÍ×Àÿÿÿÿÿ
-^squid:S1192 "FDefine a constant instead of duplicating this literal "CP852" 7 times.(—…Ğ‘
-^squid:S1192î"FDefine a constant instead of duplicating this literal "CP278" 8 times.(Ö­¿
-esquid:S1192‰"HDefine a constant instead of duplicating this literal "KSC5601" 3 times.(ãÙ†ƒúÿÿÿÿ
-^squid:S1192“"FDefine a constant instead of duplicating this literal "CP500" 9 times.(ËÏ×œ
-csquid:S1192¼"FDefine a constant instead of duplicating this literal "CP863" 7 times.(¨øÚåşÿÿÿÿ
-^squid:S1192é"FDefine a constant instead of duplicating this literal "CP277" 8 times.(ÖÔãè
-_squid:S1192€"GDefine a constant instead of duplicating this literal "Cp1148" 4 times.(ıŠˆ°
-fsquid:S1192‹"ODefine a constant instead of duplicating this literal "KS_C_5601-1987" 9 times.(ŠÍå
-csquid:S1192œ"FDefine a constant instead of duplicating this literal "CP850" 7 times.(ßš•®úÿÿÿÿ
-_squid:S1192"GDefine a constant instead of duplicating this literal "UTF-16" 3 times.(¼…Œ
-^squid:S1192¸"FDefine a constant instead of duplicating this literal "CP862" 7 times.(Â—º
-dsquid:S1192ƒ"GDefine a constant instead of duplicating this literal "Cp1149" 4 times.(ø«œıÿÿÿÿ
-]squid:S1192"FDefine a constant instead of duplicating this literal "CP437" 7 times.(´âÎn
-isquid:S1192ş"LDefine a constant instead of duplicating this literal "ISO-8859-15" 3 times.(Ÿõ‡÷ıÿÿÿÿ
-csquid:S1192³"FDefine a constant instead of duplicating this literal "CP861" 8 times.(¿‚ÛŒüÿÿÿÿ
-_squid:S1192„"GDefine a constant instead of duplicating this literal "ASCII" 13 times.(çËİâ
-_squid:S1192†"GDefine a constant instead of duplicating this literal "EUCJIS" 4 times.(ÔÅ÷
-^squid:S1192Ë"FDefine a constant instead of duplicating this literal "CP868" 7 times.(’ÑÚ
-csquid:S1192¤"FDefine a constant instead of duplicating this literal "CP855" 7 times.(ØÑß»ùÿÿÿÿ
-_squid:S1192‚"GDefine a constant instead of duplicating this literal "KOI8_R" 3 times.(Èî±´
-esquid:S1192›"HDefine a constant instead of duplicating this literal "JIS0208" 5 times.(¨—àüÿÿÿÿ
-msquid:S1192ş"PDefine a constant instead of duplicating this literal "ISO8859_15_FDIS" 4 times.(Ÿõ‡÷ıÿÿÿÿ
-gsquid:S1192õ"JDefine a constant instead of duplicating this literal "ISO8859_9" 7 times.(“ïØÿÿÿÿÿ
-csquid:S1192Ç"FDefine a constant instead of duplicating this literal "CP866" 7 times.(Øı¸šùÿÿÿÿ
-csquid:S1192Ã"FDefine a constant instead of duplicating this literal "CP865" 7 times.(áøí±øÿÿÿÿ
-bsquid:S1192î"JDefine a constant instead of duplicating this literal "ISO8859_8" 7 times.(¸éß
-_squid:S1192ß"GDefine a constant instead of duplicating this literal "CP037" 10 times.(÷Ä¦®
-^squid:S1192Ü"FDefine a constant instead of duplicating this literal "CP918" 7 times.(éİş
-:squid:S1118§	"Hide this public constructor.(´Ğßøÿÿÿÿ
-squid:S1186§	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´Ğßøÿÿÿÿ
-ssquid:S1149Ñ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ñĞ”¼ıÿÿÿÿ
-nsquid:S1149Ô"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÙÁ˜Œ
-psquid:ModifiersOrderCheckÑ"EReorder the modifiers to comply with the Java Language Specification.(ñĞ”¼ıÿÿÿÿ
-ksquid:ModifiersOrderCheckÔ"EReorder the modifiers to comply with the Java Language Specification.(ÙÁ˜Œ
-Msquid:S1133¬
-"5Do not forget to remove this deprecated code someday.(Óã’†
-Psquid:MissingDeprecatedCheck¬
-"'Add the missing @Deprecated annotation.(Óã’†
-Msquid:S1133"5Do not forget to remove this deprecated code someday.(Ú²Ú
-Psquid:MissingDeprecatedCheck"'Add the missing @Deprecated annotation.(Ú²Ú
-Rsquid:S1133·"5Do not forget to remove this deprecated code someday.(ÌİÌ§ÿÿÿÿÿ
-Usquid:MissingDeprecatedCheck·"'Add the missing @Deprecated annotation.(ÌİÌ§ÿÿÿÿÿ
-Rsquid:S1133Ö"5Do not forget to remove this deprecated code someday.(óâ¸ÿúÿÿÿÿ
-Usquid:MissingDeprecatedCheckÖ"'Add the missing @Deprecated annotation.(óâ¸ÿúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

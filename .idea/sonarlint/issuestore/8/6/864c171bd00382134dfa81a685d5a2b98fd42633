@@ -1,41 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(„·Ìú
-esquid:S2095d"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(°¦€«
-`squid:S2095f"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(Ó¥Ñ
-esquid:S2095b"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(è…Ê¸
-esquid:S2095g"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(õØèüıÿÿÿÿ
-\squid:S2583ƒ"DChange this condition so that it does not always evaluate to "false"(¸¨Œ«
-Rsquid:S1141í"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-xsquid:S00115¢"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡Ø„Ìùÿÿÿÿ
-osquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(Î¦éûÿÿÿÿ
-Nsquid:S11350"2Complete the task associated to this TODO comment.(Àå·çøÿÿÿÿ
-osquid:ModifiersOrderCheck?"EReorder the modifiers to comply with the Java Language Specification.(ë²ñĞşÿÿÿÿ
-osquid:ModifiersOrderCheck@"EReorder the modifiers to comply with the Java Language Specification.(Ó„±şÿÿÿÿÿ
-jsquid:ModifiersOrderCheckA"EReorder the modifiers to comply with the Java Language Specification.(¥Ö˜‡
-osquid:ModifiersOrderCheckB"EReorder the modifiers to comply with the Java Language Specification.(­÷Êòÿÿÿÿÿ
-osquid:ModifiersOrderCheckC"EReorder the modifiers to comply with the Java Language Specification.(¹âÁĞşÿÿÿÿ
-jsquid:ModifiersOrderCheckD"EReorder the modifiers to comply with the Java Language Specification.(²°„¾
-Qsquid:S1854]":Remove this useless assignment to local variable "logDir".(¿«Œâ
-Asquid:S00108n")Either remove or fill this block of code.(±•å•
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÑËŞÍûÿÿÿÿ
-O
-squid:S106‡"9Replace this use of System.out or System.err by a logger.(Àœ
-U
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Â ¾•üÿÿÿÿ
-U
-squid:S106•"9Replace this use of System.out or System.err by a logger.(ÑËŞÍûÿÿÿÿ
-P
-squid:S106—"9Replace this use of System.out or System.err by a logger.(ØÇ¾
-U
-squid:S106š"9Replace this use of System.out or System.err by a logger.(º‚¥üøÿÿÿÿ
-Usquid:S1197£"8Move the array designator from the variable to the type.(¡™×Óşÿÿÿÿ
-Usquid:S1197Ë"8Move the array designator from the variable to the type.(¿´£Üüÿÿÿÿ
-P
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(«Ç«
-P
-squid:S106‡"9Replace this use of System.out or System.err by a logger.(¼ĞÁâ
-Usquid:S1197"8Move the array designator from the variable to the type.(›”ä÷øÿÿÿÿ
-Usquid:S1197º"8Move the array designator from the variable to the type.(ÃÛíãıÿÿÿÿ
-Osquid:S1197Ô"8Move the array designator from the variable to the type.(Œ³
-Bsquid:S1481]"+Remove this unused "logDir" local variable.(¿«Œâ

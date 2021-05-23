@@ -1,23 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(è¬á¿üÿÿÿÿ
-wsquid:S1192º"ZDefine a constant instead of duplicating this literal "LOCAL ENGINE START TIME: " 3 times.(º‘‰øüÿÿÿÿ
-jsquid:S1192‘"RDefine a constant instead of duplicating this literal "LOCAL ENGINE ID: " 4 times.(½•¯¿
-usquid:S1192¹"XDefine a constant instead of duplicating this literal "LOCAL ENGINE NB BOOTS: " 3 times.(½·Ğüÿÿÿÿ
-Lsquid:S1066 "/Merge this if statement with the enclosing one.(ù·Ãèøÿÿÿÿ
-xsquid:UselessImportCheck)"TRemove this unnecessary import: same package classes are always implicitly imported.(«îÂ’
-ksquid:UselessImportCheck'"GRemove this unused import 'com.sun.jmx.snmp.SnmpUnknownModelException'.(Øƒ™¦
-Ysquid:UselessImportCheck"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
-ssquid:S1450’"VRemove the "factory" field and declare it as a local variable in the relevant methods.(äşâÿÿÿÿÿ
-wsquid:S00115b"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØÀ¨úÿÿÿÿÿ
-wsquid:S00115j"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜ îĞüÿÿÿÿ
-rsquid:S00115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÍ˜¡
-qsquid:S00115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©§²I
-ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿö¢Ş
-ssquid:S00115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓóüÇ
-ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÓÂ
-psquid:ModifiersOrderCheck˜"EReorder the modifiers to comply with the Java Language Specification.(úÅ¤Èúÿÿÿÿ
-psquid:ModifiersOrderCheck™"EReorder the modifiers to comply with the Java Language Specification.(ŒÖï›şÿÿÿÿ
-psquid:ModifiersOrderCheck›"EReorder the modifiers to comply with the Java Language Specification.(ŞŸ’ùÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(“Ù¥×
-psquid:ModifiersOrderCheckŸ"EReorder the modifiers to comply with the Java Language Specification.(€æàİşÿÿÿÿ
-Hsquid:S1068’"+Remove this unused "factory" private field.(äşâÿÿÿÿÿ

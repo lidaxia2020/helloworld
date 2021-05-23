@@ -1,15 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
-usquid:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êçıÿÿÿÿ
-psquid:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óİ›ø
-usquid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì³Îÿÿÿÿÿ
-usquid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºãŸõÿÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckª"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckÑ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckñ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Bsquid:S1905ƒ"*Remove this unnecessary cast to "Boolean".(¢¼õ¨
-Ê%squid:RedundantThrowsDeclarationCheck "’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheckÒ"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Jsquid:S1135Ş"2Complete the task associated to this TODO comment.(Ÿ¥Ş¢
-Ê%squid:RedundantThrowsDeclarationCheckï"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,217 +1,0 @@
-
-„ squid:ForLoopCounterChangedCheckŠ"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ŒŸ
-Š squid:ForLoopCounterChangedCheck•"XRefactor the code in order to not assign to this loop counter from within the loop body.(ë’úËıÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckš"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ŒŸ
-„ squid:ForLoopCounterChangedCheck¥"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ŒŸ
-… squid:ForLoopCounterChangedCheck© "XRefactor the code in order to not assign to this loop counter from within the loop body.(±ÂŞï
-… squid:ForLoopCounterChangedCheck« "XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Rsquid:S1191Ä"5Use classes from the Java API instead of Sun classes.(ß¥“øÿÿÿÿ
-Gsquid:S1066 "/Merge this if statement with the enclosing one.(É”Ì
-Fsquid:S1066œ "/Merge this if statement with the enclosing one.(‹ø¨z
-Gsquid:S1066ª "/Merge this if statement with the enclosing one.(Çõç
-Lsquid:S1066“""/Merge this if statement with the enclosing one.(­€üşúÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckï".Extract the assignment out of this expression.(Æ©ÿ
-p
-squid:S135ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-p
-squid:S135õ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-p
-squid:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-u
-squid:S135ô("YReduce the total number of break and continue statements in this loop to use at most one.(ı›‚éùÿÿÿÿ
-u
-squid:S135¡)"YReduce the total number of break and continue statements in this loop to use at most one.(ÿ‹éÉıÿÿÿÿ
-p
-squid:S135³*"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-p
-squid:S135¥*"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-u
-squid:S135ñ*"YReduce the total number of break and continue statements in this loop to use at most one.(ÿ‹éÉıÿÿÿÿ
-vsquid:S1488Ÿ"YImmediately return this expression instead of assigning it to the temporary variable "m".(‘¸˜Şüÿÿÿÿ
-wsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "ch".(ï¯›ûÿÿÿÿ
-qsquid:S1488§"ZImmediately return this expression instead of assigning it to the temporary variable "ch".(Å—şj
-3squid:S1700À"Rename field "pattern"(½‘‰×ûÿÿÿÿ
-,squid:S1700ª%"Rename field "block"(Ğ¥ÑÄ
-2squid:S1700º%"Rename field "script"(ø§Öâüÿÿÿÿ
-,squid:S1700æ%"Rename field "ctype"(Â‹Ò’
-Ksquid:S3077€".Remove the "volatile" keyword from this field.(¢›Ø´øÿÿÿÿ
-jsquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‘î€´
-Wsquid:S1854­"?Remove this useless assignment to local variable "slashEIndex".(Æõ†ÿ
-jsquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Üş¹¢
-jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Œí®´
-bsquid:HiddenFieldCheckŸ":Rename "temp" which hides the field declared at line 1552.(Ó¹¯–ûÿÿÿÿ
-Psquid:S1197¡"8Move the array designator from the variable to the type.(šªø‰
-h squid:LabelsShouldNotBeUsedCheck­";Refactor the code to remove this label and the need for it.(ÊØœ
-vsquid:S3012¿"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(“Š·øÿÿÿÿ
-osquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(óÖÚŞıÿÿÿÿ
-lsquid:S00100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÖÚŞıÿÿÿÿ
-osquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(É¨«şÿÿÿÿ
-;squid:S1659À"#Declare "count" on a separate line.(È¹Ó÷
-P
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
-P
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(Äî¶
-P
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(´Í¿ùùÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
-P
-squid:S106’"9Replace this use of System.out or System.err by a logger.(î°™ì
-P
-squid:S106”"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
-O
-squid:S106–"9Replace this use of System.out or System.err by a logger.(¹ØÎT
-P
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
-P
-squid:S106™"9Replace this use of System.out or System.err by a logger.(ß¥³§
-P
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ
-P
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ŠŸáµ
-U
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(Ç«‚ùøÿÿÿÿ
-jsquid:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(‹³øû
-osquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(õÖÉşÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckş";Refactor the code to remove this label and the need for it.(àµŸ”
-osquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¬ÚÄúÿÿÿÿ
-nsquid:HiddenFieldCheckó"FRename "hasSupplementary" which hides the field declared at line 1598.(ûÒŒÒûÿÿÿÿ
-jsquid:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 89 to the 15 allowed.(¥äÒŸ
-_squid:S1479…"BReduce the number of non-empty switch cases from 40 to at most 30.(Œ¹ÿÿÿÿÿ
-jsquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 81 to the 15 allowed.(¬İâ
-osquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(äÛ—Øşÿÿÿÿ
-isquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(›è’F
-Gsquid:S00108")Either remove or fill this block of code.(…Â˜”øÿÿÿÿ
-osquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(›·ú¶şÿÿÿÿ
-Usquid:S1854®"8Remove this useless assignment to local variable "temp".(ƒÅÍúıÿÿÿÿ
-Fsquid:S1125Ú")Remove the literal "false" boolean value.(ÙÎ¹ıÿÿÿÿ
-isquid:HiddenFieldCheckŞ"FRename "hasSupplementary" which hides the field declared at line 1598.(ÚãĞÉ
-bsquid:HiddenFieldCheck®":Rename "temp" which hides the field declared at line 1552.(ƒÅÍúıÿÿÿÿ
-bsquid:HiddenFieldCheck¶":Rename "temp" which hides the field declared at line 1552.(Ñ£›üÿÿÿÿÿ
-Ssquid:S1854"6Remove this useless assignment to local variable "ch".(ª†Ã”øÿÿÿÿ
-h
-squid:S128«"LEnd this switch case with an unconditional break, return or throw statement.(ŠƒéÀúÿÿÿÿ
-osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÂŸŒúÿÿÿÿ
-jsquid:S3776€ "RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ó¬˜Ñ
-@squid:S1659Ù "#Declare "upper" on a separate line.(„îâ±ûÿÿÿÿ
-qsquid:S3012!"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÿ´½
-Gsquid:S1172¤!"*Remove this unused method parameter "seq".(Ûªôüÿÿÿÿ
-Wsquid:S1161Â!":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161İ!":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161î!":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161€"":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161§"":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161½"":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161Ğ"":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161ò"":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161#":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-osquid:S3776²#"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ûªôüÿÿÿÿ
-Wsquid:S1161²#":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161à#":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161ò#":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Asquid:S1125ú#")Remove the literal "false" boolean value.(ÉÎ“
-Wsquid:S1161Œ$":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161™$":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161«$":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-psquid:ModifiersOrderCheck¹$"EReorder the modifiers to comply with the Java Language Specification.(¿”Æ¡úÿÿÿÿ
-Wsquid:S1161À$":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161Ê$":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-psquid:ModifiersOrderCheckØ$"EReorder the modifiers to comply with the Java Language Specification.(Ñ…“áùÿÿÿÿ
-Wsquid:S1161Ù$":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161”&":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161¦&":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161À&":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161Ü&":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161ø&":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161›'":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161»'":Add the "@Override" annotation above this method signature(±Œâöıÿÿÿÿ
-Wsquid:S1161 (":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161¯(":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161Ñ(":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-osquid:S3776ä("RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Œ’øÿÿÿÿÿ
-Msquid:S1751†)"6Remove this "return" statement or make it conditional.(¸®Ã'
-Wsquid:S1161ª)":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-1squid:S2178º)"Correct this "&" to "&&".(¬–¢
-osquid:S3776ë)"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ûªôüÿÿÿÿ
-Wsquid:S1161ë)":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-osquid:S3776›*"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(Œ’øÿÿÿÿÿ
-Wsquid:S1161€+":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-1squid:S2178+"Correct this "&" to "&&".(¬–¢
-Lsquid:EmptyStatementUsageCheck®+"Remove this empty statement.(Ï²îûÿÿÿÿ
-Wsquid:S1161¯+":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161²+":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161Ò+":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161Ş+":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-6squid:S2178ë+"Correct this "&" to "&&".(Ù—Øßúÿÿÿÿ
-Wsquid:S1161,":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161¬,":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161°,":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161Ë,":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161ï,":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161ò,":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-?squid:S1659„-""Declare "cmax" on a separate line.(“Œ›Óúÿÿÿÿ
-Wsquid:S1161‰-":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Fsquid:S1125³-")Remove the literal "false" boolean value.(Á¦²©úÿÿÿÿ
-Wsquid:S1161»-":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161Ï-":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Rsquid:S1161ë-":Add the "@Override" annotation above this method signature(Ü‚œÊ
-fsquid:S1871ó-"NThis branch's code block is the same as the block for the branch on line 5870.(úİÑ
-Wsquid:S1161ú-":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161.":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161¤.":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-osquid:S3776²."RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ûªôüÿÿÿÿ
-Wsquid:S1161².":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161Û.":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161ï.":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161€/":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-9squid:S1659‰/"!Declare "yes" on a separate line.(¹€Á‰
-9squid:S1659‰/"!Declare "not" on a separate line.(¹€Á‰
-Wsquid:S1161/":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161–/":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-6squid:S2178¥/"Correct this "&" to "&&".(û˜®øÿÿÿÿ
-6squid:S2178¥/"Correct this "&" to "&&".(û˜®øÿÿÿÿ
-Wsquid:S1161¶/":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161Ò/":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161ò/":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-:squid:S1659ÿ/""Declare "rmin" on a separate line.(©ññ¼
-Wsquid:S1161†0":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161¦0":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-:squid:S1659È0""Declare "rmin" on a separate line.(©ññ¼
-Wsquid:S1161Ï0":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-Wsquid:S1161ï0":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-lsquid:S3008º1"ORename this field "LEFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä²Ÿ†ùÿÿÿÿ
-hsquid:S3008»1"PRename this field "RIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ˆ“
-fsquid:S3008¼1"ORename this field "BOTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŠğ(
-lsquid:S3008½1"ORename this field "NONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ŒşÍşÿÿÿÿ
-[squid:S3358å1"DExtract this nested ternary operation into an independent statement.(Œ†Í@
-Wsquid:S1161ç1":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-<squid:S1659É2"Declare "j" on a separate line.(Æ™‚ùÿÿÿÿ
-<squid:S1659É2"Declare "k" on a separate line.(Æ™‚ùÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckÔ2";Refactor the code to remove this label and the need for it.(ì¨èĞ
-Wsquid:S1161ô2":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckú2";Refactor the code to remove this label and the need for it.(Šâùü
-Wsquid:S1161–3":Add the "@Override" annotation above this method signature(Ã¶ªÉùÿÿÿÿ
-Wsquid:S1161­3":Add the "@Override" annotation above this method signature(Ûªôüÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck³3";Refactor the code to remove this label and the need for it.(Šâùü
-[squid:S1610å3"CConvert the abstract class "CharPropertyFactory" into an interface.(Æâ¾ 
-ksquid:ModifiersOrderCheckå3"EReorder the modifiers to comply with the Java Language Specification.(Æâ¾ 
-jsquid:ModifiersOrderCheckû3"EReorder the modifiers to comply with the Java Language Specification.(¼à—
-ksquid:S2975ş3"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ì…ÑŒ
-jsquid:S3776Ú5"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÌÔÒÙ
-Msquid:S1481ø"0Remove this unused "inCharClass" local variable.(§¸€üÿÿÿÿ
-Asquid:S1481¯")Remove this unused "skip" local variable.(ãşÚ»
->squid:S1481¿"&Remove this unused "d" local variable.(·ÿ¾¾
-Fsquid:S1481®")Remove this unused "temp" local variable.(ƒÅÍúıÿÿÿÿ
-Fsquid:S1481Ç")Remove this unused "atom" local variable.(çßó…şÿÿÿÿ
-Csquid:S1481É2"&Remove this unused "k" local variable.(Æ™‚ùÿÿÿÿ
-Vsquid:UnusedPrivateMethod"0Remove this unused private "readEscaped" method.(éÖøˆ
-]squid:UnusedPrivateMethod½ "2Remove this unused private "BitClass" constructor.(ØÛ¦¢ÿÿÿÿÿ
-;squid:S3398ô1"Move this method into "Bound".(áÌÄÑùÿÿÿÿ
-hsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(‹‹Ïñûÿÿÿÿ
-csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(à«­
-csquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(È÷íŸ
-hsquid:CommentedOutCodeLine‡""<This block of commented-out lines of code should be removed.(­«®£ûÿÿÿÿ
-csquid:CommentedOutCodeLine„$"<This block of commented-out lines of code should be removed.(¾ÂÎÆ
-hsquid:CommentedOutCodeLineÂ2"<This block of commented-out lines of code should be removed.(¸‡–äÿÿÿÿÿ

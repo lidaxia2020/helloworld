@@ -1,11 +1,0 @@
-
-dsquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(‰‘Ğèúÿÿÿÿ
-Lsquid:S11335"5Do not forget to remove this deprecated code someday.(Ÿ•¹
-Ksquid:S1133E"5Do not forget to remove this deprecated code someday.(ëîùw
-Qsquid:S1133T"5Do not forget to remove this deprecated code someday.(…Ø¥üÿÿÿÿ
-Lsquid:S1133d"5Do not forget to remove this deprecated code someday.(Ëåç°
-Qsquid:S1133t"5Do not forget to remove this deprecated code someday.(¹˜¯Œûÿÿÿÿ
-­%squid:RedundantThrowsDeclarationCheck‰"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(¥’Å
-Lsquid:S1133ˆ"5Do not forget to remove this deprecated code someday.(Õ¶Ó
-Rsquid:S1133—"5Do not forget to remove this deprecated code someday.(‰‘Ğèúÿÿÿÿ
-Rsquid:S1133¤"5Do not forget to remove this deprecated code someday.(Şş¢Íşÿÿÿÿ

@@ -1,15 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(³åþ°
-@squid:S1604ß"(Make this anonymous inner class a lambda(àÇ‚Ï
-Esquid:S1604š"(Make this anonymous inner class a lambda(ù¾í‰úÿÿÿÿ
-_squid:S00112¿"FDefine and throw a dedicated exception instead of using a generic one.(Û¬Ö¿
-dsquid:S00112Æ"FDefine and throw a dedicated exception instead of using a generic one.(‚·ÀÔúÿÿÿÿ
-_squid:S00112‘"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý
-dsquid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
-8squid:S3878´"Remove this array creation.(ìö ¡üÿÿÿÿ
-8squid:S3878¸"Remove this array creation.(ìö ¡üÿÿÿÿ
-8squid:S3878»"Remove this array creation.(ƒ«èèþÿÿÿÿ
-[squid:HiddenFieldCheckÛ"8Rename "acc" which hides the field declared at line 414.(Ëìöø
-osquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ôëè‰þÿÿÿÿ
-9squid:S2129ë"!Remove this "Integer" constructor(â—òñ
-Xsquid:CallToDeprecatedMethodë"/Remove this use of "Integer"; it is deprecated.(â—òñ

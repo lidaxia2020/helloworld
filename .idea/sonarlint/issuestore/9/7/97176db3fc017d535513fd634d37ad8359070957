@@ -1,7 +1,0 @@
-
-Lsquid:S1191V"5Use classes from the Java API instead of Sun classes.(™ã£ü
-<squid:S2131Í"Use "Integer.toString" instead.(Íªº¦úÿÿÿÿ
-|squid:S1149Ã"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¯ÉÈØúÿÿÿÿ
-›squid:S1158Í"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(Íªº¦úÿÿÿÿ
->squid:S2129Í"!Remove this "Integer" constructor(Íªº¦úÿÿÿÿ
-]squid:CallToDeprecatedMethodÍ"/Remove this use of "Integer"; it is deprecated.(Íªº¦úÿÿÿÿ

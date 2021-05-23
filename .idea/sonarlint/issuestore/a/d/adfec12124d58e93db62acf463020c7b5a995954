@@ -1,8 +1,0 @@
-
-Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-jsquid:S00116F"RRename this field "_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥‘Ú
-Vsquid:S1161M":Add the "@Override" annotation above this method signature(¿çß¤ÿÿÿÿÿ
-Qsquid:S1161_":Add the "@Override" annotation above this method signature(À÷ÖÚ
-Qsquid:S1161n":Add the "@Override" annotation above this method signature(üÿÆ‰
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-gsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(Îâ¶ïüÿÿÿÿ

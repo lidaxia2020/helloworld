@@ -1,293 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡Ó²íùÿÿÿÿ
-squid:S1192["eDefine a constant instead of duplicating this literal "Missing return statement in function" 5 times.(­È²èşÿÿÿÿ
-Dsquid:S1199G"-Extract this nested code block into a method.(•¤ãù
-Dsquid:S1199U"-Extract this nested code block into a method.(–„æ™
-Csquid:S1199P"-Extract this nested code block into a method.(Ÿ¸µ`
-Isquid:S1199S"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199"-Extract this nested code block into a method.(–„æ™
-Csquid:S1199|"-Extract this nested code block into a method.(Ÿ¸µ`
-Isquid:S1199"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199¡"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199œ"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199Ÿ"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199Á"-Extract this nested code block into a method.(•¤ãù
-Esquid:S1199Ï"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199Ê"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199Í"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199"-Extract this nested code block into a method.(•¤ãù
-Esquid:S1199­"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199¨"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199«"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199ã"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199Ş"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199á"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199¬"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199§"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199ª"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199×"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199Ò"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199Õ"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199ê"-Extract this nested code block into a method.(±¡û
-Esquid:S1199–"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199‘"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199”"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199À"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199»"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199¾"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199ñ"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199ì"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199ï"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199µ"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199°"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199³"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199Ô"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199Ï"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199Ò"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199ç"-Extract this nested code block into a method.(±¡û
-Esquid:S1199“"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199‘"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-Esquid:S1199½"-Extract this nested code block into a method.(–„æ™
-Dsquid:S1199¸"-Extract this nested code block into a method.(Ÿ¸µ`
-Jsquid:S1199»"-Extract this nested code block into a method.(Ú÷Øÿÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÓ".Extract the assignment out of this expression.(ôÍßÅ
-d$squid:AssignmentInSubExpressionCheck	".Extract the assignment out of this expression.(ÍİÎııÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck	".Extract the assignment out of this expression.(ÍİÎııÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck‘	".Extract the assignment out of this expression.(œæì
-_$squid:AssignmentInSubExpressionCheck²	".Extract the assignment out of this expression.(¬´°À
-asquid:S1301,"KReplace this "switch" statement by "if" statements to increase readability.(É
-asquid:S13014"KReplace this "switch" statement by "if" statements to increase readability.(É
-asquid:S1301<"KReplace this "switch" statement by "if" statements to increase readability.(É
-asquid:S1301j"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301´"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301•"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301»"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301õ"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301’"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301À"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301İ"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301”"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301¿"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301ş"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301Ø"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(É
-bsquid:S1301û"KReplace this "switch" statement by "if" statements to increase readability.(É
-[squid:S2583Ë"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583×"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583´"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583•"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583©"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583 "CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583¡"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583±"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583È"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583Ã"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583å"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583‡"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-[squid:S2583Š"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-Zsquid:S2583u"CChange this condition so that it does not always evaluate to "true"(¯ùÕ‹
-‡"squid:ClassVariableVisibilityCheck„"XMake token_source a static final constant or non-public and provide accessors if needed.(„ˆ¶û
-€"squid:ClassVariableVisibilityCheck†"QMake token a static final constant or non-public and provide accessors if needed.(ºˆÜà
-€"squid:ClassVariableVisibilityCheck†"QMake jj_nt a static final constant or non-public and provide accessors if needed.(ºˆÜà
-‡"squid:ClassVariableVisibilityCheckŠ"XMake lookingAhead a static final constant or non-public and provide accessors if needed.(éŒ¡
-Osquid:S2589Í"7Remove this expression which always evaluates to "true"(¯ùÕ‹
-Osquid:S2589Œ"7Remove this expression which always evaluates to "true"(¯ùÕ‹
-Osquid:S2589Ÿ"7Remove this expression which always evaluates to "true"(¯ùÕ‹
-Osquid:S2589‚"7Remove this expression which always evaluates to "true"(¯ùÕ‹
-csquid:S00112["FDefine and throw a dedicated exception instead of using a generic one.(­È²èşÿÿÿÿ
-dsquid:S00112Õ"FDefine and throw a dedicated exception instead of using a generic one.(­È²èşÿÿÿÿ
-dsquid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(­È²èşÿÿÿÿ
-dsquid:S00112ğ"FDefine and throw a dedicated exception instead of using a generic one.(­È²èşÿÿÿÿ
-dsquid:S00112í"FDefine and throw a dedicated exception instead of using a generic one.(­È²èşÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
-;squid:S1659†"#Declare "jj_nt" on a separate line.(ºˆÜà
-Esquid:S1659ˆ"(Declare "jj_lastpos" on a separate line.(úíá¢ùÿÿÿÿ
-™squid:S1186İ	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š†Ï
-squid:S1186à	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò¿€şüÿÿÿÿ
-psquid:S00116„"WRename this field "token_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ˆ¶û
-ssquid:S00116…"ZRename this field "jj_input_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‡Ğ
-isquid:S00116†"PRename this field "jj_nt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºˆÜà
-osquid:S00116‡"QRename this field "jj_ntk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄ©Áúÿÿÿÿ
-ssquid:S00116ˆ"URename this field "jj_scanpos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úíá¢ùÿÿÿÿ
-ssquid:S00116ˆ"URename this field "jj_lastpos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úíá¢ùÿÿÿÿ
-isquid:S00116‰"PRename this field "jj_la" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïâ°Ê
-ksquid:S00116‹"SRename this field "jj_semLA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÃëh
-jsquid:S00116Œ"QRename this field "jj_gen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‡”
-osquid:S00116"QRename this field "jj_la1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€üªùıÿÿÿÿ
-qsquid:S00116"SRename this field "jj_la1_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÛ¼‹ùÿÿÿÿ
-lsquid:S00116"SRename this field "jj_la1_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‡Àè
-msquid:S00116"TRename this field "jj_2_rtns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±è¬
-msquid:S00116‘"TRename this field "jj_rescan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›‰
-isquid:S00116’"PRename this field "jj_gc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ûß
-qsquid:S00116”	"XRename this field "jj_expentries" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†Åƒ
-tsquid:S00116•	"VRename this field "jj_expentry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—°­‡ıÿÿÿÿ
-psquid:S00116–	"RRename this field "jj_kind" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬Ääûÿÿÿÿ
-qsquid:S00116—	"XRename this field "jj_lasttokens" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä»ÛÃ
-rsquid:S00116˜	"TRename this field "jj_endpos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÉ¸Íüÿÿÿÿ
-}squid:S1149”	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©†Åƒ
-nsquid:S3776&"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¬½—›ıÿÿÿÿ
-osquid:ModifiersOrderCheck&"EReorder the modifiers to comply with the Java Language Specification.(¬½—›ıÿÿÿÿ
-Asquid:S1181H"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-Ksquid:EmptyStatementUsageCheck2"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Ksquid:EmptyStatementUsageCheck:"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Ksquid:EmptyStatementUsageCheckB"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Wsquid:S1193O"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-\squid:S1193R"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-nsquid:S3776^"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ô’‰¤şÿÿÿÿ
-osquid:ModifiersOrderCheck^"EReorder the modifiers to comply with the Java Language Specification.(Ô’‰¤şÿÿÿÿ
-Asquid:S1181t"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-f squid:LabelsShouldNotBeUsedCheckg";Refactor the code to remove this label and the need for it.(Àé„X
-Ksquid:EmptyStatementUsageCheckl"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Wsquid:S1193{"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-\squid:S1193~"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-jsquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(è£¨µ
-ksquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(è£¨µ
-Bsquid:S1181”"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-Xsquid:S1193›"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-osquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ï£€Ûùÿÿÿÿ
-psquid:ModifiersOrderCheck©"EReorder the modifiers to comply with the Java Language Specification.(ï£€Ûùÿÿÿÿ
-Bsquid:S1181Â"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheck²";Refactor the code to remove this label and the need for it.(Ï½Ó«ùÿÿÿÿ
-Lsquid:EmptyStatementUsageCheck¶"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Xsquid:S1193É"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193Ì"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-psquid:ModifiersOrderCheckØ"EReorder the modifiers to comply with the Java Language Specification.(Ò³Êóûÿÿÿÿ
-psquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(—µÒøÿÿÿÿ
-jsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Šã£¢
-ksquid:ModifiersOrderCheckŠ"EReorder the modifiers to comply with the Java Language Specification.(Šã£¢
-Bsquid:S1181 "%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheck“";Refactor the code to remove this label and the need for it.(¦ßùûÿÿÿÿ
-Lsquid:EmptyStatementUsageCheck—"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Xsquid:S1193§"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193ª"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-osquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¦–Êÿÿÿÿÿ
-psquid:ModifiersOrderCheckµ"EReorder the modifiers to comply with the Java Language Specification.(¦–Êÿÿÿÿÿ
-Bsquid:S1181Ö"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-Xsquid:S1193İ"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193à"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-psquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(²‰ı†úÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckó";Refactor the code to remove this label and the need for it.(˜¹›‡
-Lsquid:EmptyStatementUsageCheck÷"Remove this empty statement.(Åñ­õşÿÿÿÿ
-ksquid:ModifiersOrderCheckˆ"EReorder the modifiers to comply with the Java Language Specification.(²Úø
-h squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(º¥è
-Lsquid:EmptyStatementUsageCheck”"Remove this empty statement.(Åñ­õşÿÿÿÿ
-psquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(èÔìŒúÿÿÿÿ
-ksquid:ModifiersOrderCheck¶"EReorder the modifiers to comply with the Java Language Specification.(×ôêİ
-m squid:LabelsShouldNotBeUsedCheck¾";Refactor the code to remove this label and the need for it.(âé·Îøÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckÂ"Remove this empty statement.(Åñ­õşÿÿÿÿ
-ksquid:ModifiersOrderCheckÓ"EReorder the modifiers to comply with the Java Language Specification.(ÚŸ÷ø
-h squid:LabelsShouldNotBeUsedCheckÛ";Refactor the code to remove this label and the need for it.(–åÜÆ
-Lsquid:EmptyStatementUsageCheckß"Remove this empty statement.(Åñ­õşÿÿÿÿ
-ksquid:ModifiersOrderCheckõ"EReorder the modifiers to comply with the Java Language Specification.(¤Œ¦Ã
-osquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÌÄ©åúÿÿÿÿ
-psquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(ÌÄ©åúÿÿÿÿ
-Bsquid:S1181Ÿ"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-g squid:LabelsShouldNotBeUsedCheck’";Refactor the code to remove this label and the need for it.(ÇïñR
-Lsquid:EmptyStatementUsageCheck–"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Xsquid:S1193¦"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193©"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-osquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(´§¦ùÿÿÿÿ
-psquid:ModifiersOrderCheck´"EReorder the modifiers to comply with the Java Language Specification.(´§¦ùÿÿÿÿ
-Bsquid:S1181Ê"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheck½";Refactor the code to remove this label and the need for it.(“¬š–ûÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckÁ"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Xsquid:S1193Ñ"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193Ô"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-ksquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(§³
-jsquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ãä°Â
-ksquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(Ãä°Â
-Bsquid:S1181‰"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckü";Refactor the code to remove this label and the need for it.(ù»à
-Lsquid:EmptyStatementUsageCheck€"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Xsquid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193“"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ùâÓ”şÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ùâÓ”şÿÿÿÿ
-Bsquid:S1181³"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-Xsquid:S1193º"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193½"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-osquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‡ÌÈ¬üÿÿÿÿ
-psquid:ModifiersOrderCheckÈ"EReorder the modifiers to comply with the Java Language Specification.(‡ÌÈ¬üÿÿÿÿ
-Bsquid:S1181ä"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheckÖ";Refactor the code to remove this label and the need for it.(öŞ†’ùÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckÚ"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Xsquid:S1193ë"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193î"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-ksquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(©Ùış
-Lsquid:EmptyStatementUsageCheck‰"Remove this empty statement.(Åñ­õşÿÿÿÿ
-osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ìÈúÆüÿÿÿÿ
-psquid:ModifiersOrderCheck’"EReorder the modifiers to comply with the Java Language Specification.(ìÈúÆüÿÿÿÿ
-Bsquid:S1181¨"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheck›";Refactor the code to remove this label and the need for it.(¢—Ëúşÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckŸ"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Xsquid:S1193¯"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193²"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-osquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Å±‘Óûÿÿÿÿ
-psquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(Å±‘Óûÿÿÿÿ
-Bsquid:S1181Ç"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-Xsquid:S1193Î"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193Ñ"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-ksquid:ModifiersOrderCheckÜ"EReorder the modifiers to comply with the Java Language Specification.(¸‚¦Õ
-jsquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÎÃÑ¯
-ksquid:ModifiersOrderCheckğ"EReorder the modifiers to comply with the Java Language Specification.(ÎÃÑ¯
-Bsquid:S1181†"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckù";Refactor the code to remove this label and the need for it.(õîÍË
-Lsquid:EmptyStatementUsageCheckı"Remove this empty statement.(Åñ­õşÿÿÿÿ
-Xsquid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-osquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ú‡ÛÒşÿÿÿÿ
-psquid:ModifiersOrderCheck›"EReorder the modifiers to comply with the Java Language Specification.(ú‡ÛÒşÿÿÿÿ
-Bsquid:S1181°"%Catch Exception instead of Throwable.(õ¡„·şÿÿÿÿ
-Xsquid:S1193·"@Replace the usage of the "instanceof" operator by a catch block.(¶É²´
-]squid:S1193º"@Replace the usage of the "instanceof" operator by a catch block.(ç„­üÿÿÿÿ
-lsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´«×âıÿÿÿÿ
-psquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(´«×âıÿÿÿÿ
-lsquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÛòªúÿÿÿÿ
-psquid:ModifiersOrderCheckÌ"EReorder the modifiers to comply with the Java Language Specification.(áÛòªúÿÿÿÿ
-gsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïùòû
-ksquid:ModifiersOrderCheckÓ"EReorder the modifiers to comply with the Java Language Specification.(ïùòû
-gsquid:S00100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ôıü
-ksquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(©Ôıü
-Ysquid:S1126Ş"AReplace this if-then-else statement by a single return statement.(£”Ûí
-gsquid:S00100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š…Î
-ksquid:ModifiersOrderCheckâ"EReorder the modifiers to comply with the Java Language Specification.(Š…Î
-Ysquid:S1126è"AReplace this if-then-else statement by a single return statement.(£”Ûí
-lsquid:S00100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁĞƒÕüÿÿÿÿ
-psquid:ModifiersOrderCheckì"EReorder the modifiers to comply with the Java Language Specification.(ÁĞƒÕüÿÿÿÿ
-Ysquid:S1126ø"AReplace this if-then-else statement by a single return statement.(£”Ûí
-gsquid:S00100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ØÄ
-ksquid:ModifiersOrderCheckü"EReorder the modifiers to comply with the Java Language Specification.(„ØÄ
-Ysquid:S1126€"AReplace this if-then-else statement by a single return statement.(£”Ûí
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(€üªùıÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÕÛ¼‹ùÿÿÿÿ
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ú‡Àè
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(±è¬
-jsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Œë¶¢
-gsquid:S00100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œë¶¢
-ksquid:ModifiersOrderCheckÑ"EReorder the modifiers to comply with the Java Language Specification.(Œë¶¢
-gsquid:S00100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í²ƒÜ
-ksquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(Í²ƒÜ
->squid:S1659õ"!Declare "tok" on a separate line.(Äò²ıÿÿÿÿ
-psquid:ModifiersOrderCheckü"EReorder the modifiers to comply with the Java Language Specification.(É¦®êùÿÿÿÿ
-psquid:ModifiersOrderCheck„	"EReorder the modifiers to comply with the Java Language Specification.(¤ê½€úÿÿÿÿ
-gsquid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šı«¡
-ksquid:ModifiersOrderCheck	"EReorder the modifiers to comply with the Java Language Specification.(Šı«¡
-jsquid:S3776š	"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ô ªõ
-gsquid:S00100š	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô ªõ
-psquid:S3012¡	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Á­Ä"
-jsquid:S3776¶	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(´š®„
-ksquid:ModifiersOrderCheck¶	"EReorder the modifiers to comply with the Java Language Specification.(´š®„
-ksquid:ModifiersOrderCheckİ	"EReorder the modifiers to comply with the Java Language Specification.(š†Ï
-psquid:ModifiersOrderCheckà	"EReorder the modifiers to comply with the Java Language Specification.(Ò¿€şüÿÿÿÿ
-gsquid:S00100ã	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î•ŠÛ
-ksquid:ModifiersOrderCheckã	"EReorder the modifiers to comply with the Java Language Specification.(î•ŠÛ
-P"squid:SwitchLastCaseIsDefaultCheckê	""Add a default case to this switch.(ìúÇV
-lsquid:S00100ö	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïåÊÕÿÿÿÿÿ
-psquid:ModifiersOrderCheckö	"EReorder the modifiers to comply with the Java Language Specification.(ïåÊÕÿÿÿÿÿ
-Csquid:S1481¹"&Remove this unused "t" local variable.(ïåß†üÿÿÿÿ
-Csquid:S1481¢"&Remove this unused "t" local variable.(ïåß†üÿÿÿÿ
-Csquid:S1481Ÿ"&Remove this unused "t" local variable.(ïåß†üÿÿÿÿ
-Csquid:S1068‹",Remove this unused "jj_semLA" private field.(ÂÃëh

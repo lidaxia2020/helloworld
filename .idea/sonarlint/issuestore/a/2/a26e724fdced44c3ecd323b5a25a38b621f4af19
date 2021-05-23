@@ -1,30 +1,0 @@
-
-Qsquid:S1133H"5Do not forget to remove this deprecated code someday.(×ßëèıÿÿÿÿ
-Dsquid:S1185f"(Remove this method to simply inherit it.(ãû§Áÿÿÿÿÿ
-Vsquid:S1161f":Add the "@Override" annotation above this method signature(ãû§Áÿÿÿÿÿ
-‚squid:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(óàäËøÿÿÿÿ
-5squid:S2178"Correct this "&" to "&&".(óàäËøÿÿÿÿ
-Usquid:CallToDeprecatedMethod‰",Remove this use of "Time"; it is deprecated.(³•¬
-Rsquid:S1161–":Add the "@Override" annotation above this method signature(Á»›ê
-Ysquid:CallToDeprecatedMethod—"0Remove this use of "getHours"; it is deprecated.(ø¬ÑÀ
-[squid:CallToDeprecatedMethod˜"2Remove this use of "getMinutes"; it is deprecated.(—¨ÔÇ
-[squid:CallToDeprecatedMethod™"2Remove this use of "getSeconds"; it is deprecated.(©¦İ¹
-Rsquid:S1133À"5Do not forget to remove this deprecated code someday.(±»—Áùÿÿÿÿ
-Wsquid:S1161À":Add the "@Override" annotation above this method signature(±»—Áùÿÿÿÿ
-Rsquid:S1133Ò"5Do not forget to remove this deprecated code someday.(³Éİûÿÿÿÿ
-Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(³Éİûÿÿÿÿ
-Rsquid:S1133ã"5Do not forget to remove this deprecated code someday.(Ôö¾œûÿÿÿÿ
-Wsquid:S1161ã":Add the "@Override" annotation above this method signature(Ôö¾œûÿÿÿÿ
-Rsquid:S1133õ"5Do not forget to remove this deprecated code someday.(¤Œó¤úÿÿÿÿ
-Wsquid:S1161õ":Add the "@Override" annotation above this method signature(¤Œó¤úÿÿÿÿ
-Rsquid:S1133‡"5Do not forget to remove this deprecated code someday.(Œú®ûÿÿÿÿ
-Wsquid:S1161‡":Add the "@Override" annotation above this method signature(Œú®ûÿÿÿÿ
-Msquid:S1133™"5Do not forget to remove this deprecated code someday.(Ÿ–¸
-Rsquid:S1161™":Add the "@Override" annotation above this method signature(Ÿ–¸
-Rsquid:S1133«"5Do not forget to remove this deprecated code someday.(ûÜƒÉüÿÿÿÿ
-Wsquid:S1161«":Add the "@Override" annotation above this method signature(ûÜƒÉüÿÿÿÿ
-Usquid:CallToDeprecatedMethodÈ",Remove this use of "Time"; it is deprecated.(ÙŸâ’
-Xsquid:CallToDeprecatedMethodÜ"0Remove this use of "getHours"; it is deprecated.(ßàó5
-Zsquid:CallToDeprecatedMethodÜ"2Remove this use of "getMinutes"; it is deprecated.(ßàó5
-Zsquid:CallToDeprecatedMethodÜ"2Remove this use of "getSeconds"; it is deprecated.(ßàó5
-csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ÿİ·É

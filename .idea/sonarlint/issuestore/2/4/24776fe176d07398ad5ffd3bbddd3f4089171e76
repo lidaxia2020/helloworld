@@ -1,9 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘²™Õûÿÿÿÿ
-Vsquid:UselessImportCheck""-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
-Ysquid:UselessImportCheck#"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
-esquid:UselessImportCheck("ARemove this unused import 'com.sun.jmx.snmp.SnmpStatusException'.(‰¨„Õ
-£%squid:RedundantThrowsDeclarationCheckJ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ŽŸ‹™ùÿÿÿÿ
-ž%squid:RedundantThrowsDeclarationCheck["mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(«äºÃ
-ž%squid:RedundantThrowsDeclarationCheckn"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¡Î´Ó
-Ÿ%squid:RedundantThrowsDeclarationCheck‚"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¡Î´Ó

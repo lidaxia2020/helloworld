@@ -1,30 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-`squid:S3973‚"HUse indentation to denote the code conditionally executed by this "for".(Ù â„
-xsquid:S1488œ"[Immediately return this expression instead of assigning it to the temporary variable "ret".(—‹Øıÿÿÿÿ
-xsquid:S1488«"[Immediately return this expression instead of assigning it to the temporary variable "arr".(¡¦Õ¸úÿÿÿÿ
-Rsquid:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141™"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141½"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Ysquid:S2259ˆ"AA "NullPointerException" could be thrown; "obj" is nullable here.(óÄÇ
-_squid:S00112£"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-_squid:S00112ê"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-osquid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å§»øÿÿÿÿ
-zsquid:S3008ƒ"]Rename this field "m_getCharInfoCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤œÅàøÿÿÿÿ
-qsquid:S00116K"YRename this field "m_charToString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÁĞ­
-qsquid:S00116‘"XRename this field "array_of_bits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èÛÑ
-Psquid:S1197‘"8Move the array designator from the variable to the type.(˜èÛÑ
-jsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(¡Æ”á
-Zsquid:S3252ï"BUse static access with "java.util.ResourceBundle" for "getBundle".(µÅş¬
-_squid:S3252ó"BUse static access with "java.util.ResourceBundle" for "getBundle".(ûë¸Åşÿÿÿÿ
-Gsquid:S00108÷")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
-Qsquid:S4719¾"9Replace charset name argument with StandardCharsets.UTF_8(áŞú”
-Gsquid:S00108õ")Either remove or fill this block of code.(Àäéüÿÿÿÿ
-Ksquid:UselessParenthesesCheckƒ"!Remove these useless parentheses.(ÓêÉü
-Gsquid:S00108ï")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
-osquid:S00116Á"QRename this field "m_char" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ÿœ¦ıÿÿÿÿ
-<squid:S2097†"Add a type test to this method.(¾‡şÿÿÿÿ
-Wsquid:UnusedPrivateMethodÙ"2Remove this unused private "CharInfo" constructor.(”Ğ3
-Nsquid:UnusedPrivateMethod›"(Remove this unused private "bit" method.(¼¯Ğé
-]squid:UnusedPrivateMethod"2Remove this unused private "setASCIIclean" method.(åî¬¢øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

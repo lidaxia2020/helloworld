@@ -1,5 +1,0 @@
-
-ksquid:S3824õ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(á·¹Èÿÿÿÿÿ
-Qsquid:S1191!"5Use classes from the Java API instead of Sun classes.(íØÎàþÿÿÿÿ
-Rsquid:UselessImportCheck")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
-Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

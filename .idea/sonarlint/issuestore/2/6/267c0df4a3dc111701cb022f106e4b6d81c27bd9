@@ -1,9 +1,0 @@
-
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
-c$squid:AssignmentInSubExpressionCheck5".Extract the assignment out of this expression.(²…âîüÿÿÿÿ
-rsquid:S11490"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ñ¡å¨úÿÿÿÿ
-|squid:S11493"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¬óÊ
-squid:S1149<"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ë×¥İøÿÿÿÿ
-esquid:S35512"IMake this method "synchronized" to match the parent class implementation.(‡Ê¬±şÿÿÿÿ
-Vsquid:S11612":Add the "@Override" annotation above this method signature(‡Ê¬±şÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

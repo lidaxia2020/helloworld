@@ -1,14 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ˆ¨
-tsquid:UselessImportCheck*"KRemove this unused import 'com.sun.org.apache.xerces.internal.util.Status'.(ĞÎ²Šıÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckü"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(æø»ëşÿÿÿÿ
-xsquid:S3038û"`"parse" is defined in the "XMLParserConfiguration" interface and can be removed from this class.(áËÏ
-Ê%squid:RedundantThrowsDeclarationCheck"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Ê%squid:RedundantThrowsDeclarationCheck¶"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckĞ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ÓòœÍúÿÿÿÿ
-¯%squid:RedundantThrowsDeclarationCheckã"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Âä
-Ê%squid:RedundantThrowsDeclarationCheckü"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Rsquid:S1161û":Add the "@Override" annotation above this method signature(¼³˜É
-Ê%squid:RedundantThrowsDeclarationCheck«"’Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.parser.XMLConfigurationException' which is a runtime exception.(éÕšşùÿÿÿÿ
-Wsquid:S1161ª":Add the "@Override" annotation above this method signature(°²š¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

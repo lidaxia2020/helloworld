@@ -1,5 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-Asquid:S2160b"+Override the "equals" method in this class.(í Å'
-<squid:S2129~" Remove this "Double" constructor(üŠõ©ùÿÿÿÿ
-[squid:CallToDeprecatedMethod~".Remove this use of "Double"; it is deprecated.(üŠõ©ùÿÿÿÿ

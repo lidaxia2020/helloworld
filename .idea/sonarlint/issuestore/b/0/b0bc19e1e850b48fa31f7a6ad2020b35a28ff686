@@ -1,11 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(äªŒ­
-isquid:S1192 "LDefine a constant instead of duplicating this literal "Timeout-run" 6 times.(Ò¾¼„úÿÿÿÿ
-csquid:S1192F"LDefine a constant instead of duplicating this literal "reqIncoming" 3 times.(¦ÈÍø
-u
-squid:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(€Ëáþüÿÿÿÿ
-Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
-Gsquid:S2446i"0"notify" may not wake up the appropriate thread.(ŒâÌ†
-Hsquid:S2446‹"0"notify" may not wake up the appropriate thread.(ŒâÌ†
-jsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(“–ýþ
-^squid:S2142Ì"FEither re-interrupt this method or rethrow the "InterruptedException".(ä³Á€

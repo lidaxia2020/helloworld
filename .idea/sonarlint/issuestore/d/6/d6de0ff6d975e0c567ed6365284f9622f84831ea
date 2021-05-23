@@ -1,31 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-Lsquid:S1066º"/Merge this if statement with the enclosing one.(ÑìĞÿÿÿÿÿ
-\squid:S2583ä"DChange this condition so that it does not always evaluate to "false"(ŒŸá¾
-esquid:UselessImportCheck&"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“
-ssquid:S00116‚"URename this field "m_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à·æÊúÿÿÿÿ
-ssquid:S00116Õ"URename this field "m_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş³ø½ÿÿÿÿÿ
-ksquid:S00116ß"RRename this field "m_first" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÊà
-tsquid:S00116é"VRename this field "m_explFirst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‹úıÿÿÿÿ
-ssquid:S00116ê"URename this field "m_explLast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¥€øûÿÿÿÿ
-osquid:S00116ë"QRename this field "m_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¡™ëşÿÿÿÿ
-qsquid:S00116ö"SRename this field "m_before" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½òƒôüÿÿÿÿ
-psquid:S00116€"RRename this field "m_after" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËîÅ»ùÿÿÿÿ
-wsquid:S00116•"YRename this field "m_alreadyKnown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŒš–ûÿÿÿÿ
-rsquid:S00116"YRename this field "m_isInEncoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°—È†
-psquid:ModifiersOrderCheckÕ"EReorder the modifiers to comply with the Java Language Specification.(Ş³ø½ÿÿÿÿÿ
-ksquid:ModifiersOrderCheckß"EReorder the modifiers to comply with the Java Language Specification.(ÉÊà
-psquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(‡‹úıÿÿÿÿ
-psquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(ã¥€øûÿÿÿÿ
-psquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(‰¡™ëşÿÿÿÿ
-Usquid:S1197•"8Move the array designator from the variable to the type.(ïŒš–ûÿÿÿÿ
-psquid:ModifiersOrderCheck•"EReorder the modifiers to comply with the Java Language Specification.(ïŒš–ûÿÿÿÿ
-Psquid:S1197"8Move the array designator from the variable to the type.(°—È†
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(°—È†
-osquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(È£‰èüÿÿÿÿ
-Psquid:S1197…"8Move the array designator from the variable to the type.(ßß§‚
-Psquid:S1197²"8Move the array designator from the variable to the type.(Ìôà
-Bsquid:S3398‚"%Move this method into "EncodingImpl".(šÆéúÿÿÿÿ
-=squid:S3398¯"%Move this method into "EncodingImpl".(¼¯
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(ŞÂæúÿÿÿÿ

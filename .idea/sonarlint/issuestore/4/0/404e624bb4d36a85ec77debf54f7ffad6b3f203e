@@ -1,18 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
-{squid:S1149x"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ò¶ªõúÿÿÿÿ
-Fsquid:S001087")Either remove or fill this block of code.(÷ïœËùÿÿÿÿ
-squid:S3252="iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_LENGTH".(¦‹‡@
-‚squid:S3252="lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINLENGTH".(¦‹‡@
-‚squid:S3252="lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXLENGTH".(¦‹‡@
-€squid:S3252="jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(¦‹‡@
-„squid:S3252="nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(¦‹‡@
-ƒsquid:S3252="mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(¦‹‡@
-Osquid:S1197V"8Move the array designator from the variable to the type.(ìøö¹
-Tsquid:S1197X"8Move the array designator from the variable to the type.(Ğåûÿÿÿÿ
-Tsquid:S1197Z"8Move the array designator from the variable to the type.(ŞïÁĞüÿÿÿÿ
-nsquid:S3776v"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‡Š•üÿÿÿÿ
-7squid:S1659w" Declare "ch" on a separate line.(Ÿ“íú
-Osquid:S4719‘"9Replace charset name argument with StandardCharsets.UTF_8(¤é	
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(Ğ÷æËùÿÿÿÿ

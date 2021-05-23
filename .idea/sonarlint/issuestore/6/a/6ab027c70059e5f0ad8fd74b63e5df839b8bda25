@@ -1,12 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-hsquid:S00116<"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶°´Ë
-isquid:S00116="QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‹¢İ
-Vsquid:S1161Q":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-Vsquid:S1161V":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Psquid:S1161\":Add the "@Override" annotation above this method signature(ÏÁy
-Qsquid:S1161`":Add the "@Override" annotation above this method signature(†“‹Ø
-‡squid:S3252x"pUse static access with "com.sun.org.apache.xml.internal.serializer.ExtendedContentHandler" for "HTML_ATTREMPTY".(¯ÓØâ
-Šsquid:S3252|"nUse static access with "com.sun.org.apache.xml.internal.serializer.ExtendedContentHandler" for "HTML_ATTRURL".(Œ¡Éıÿÿÿÿ
-†squid:S3252„"nUse static access with "com.sun.org.apache.xml.internal.serializer.ExtendedContentHandler" for "NO_BAD_CHARS".(û½éş
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

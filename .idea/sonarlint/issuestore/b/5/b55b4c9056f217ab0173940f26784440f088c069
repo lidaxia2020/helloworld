@@ -1,36 +1,0 @@
-
-lsquid:S3824±"OReplace this "Map.get()" and condition with a call to "Map.computeIfPresent()".(³ô˜ÿÿÿÿÿ
-ksquid:S3824Ÿ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Š„É¨øÿÿÿÿ
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-_$squid:AssignmentInSubExpressionCheck¡".Extract the assignment out of this expression.(½ÙùÄ
-tsquid:S001168"WRename this field "_stylesheets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÿÿÿÿÿ
-psquid:S001169"SRename this field "_primops" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü÷ğ”øÿÿÿÿ
-rsquid:S00116<"URename this field "_variables" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÓ¾Õûÿÿÿÿ
-msquid:S00116="URename this field "_templates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÉİŸ
-qsquid:S00116>"YRename this field "_attributeSets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì®áÖ
-jsquid:S00116?"SRename this field "_aliases" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êøªK
-tsquid:S00116@"WRename this field "_excludedURI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ±ˆÔøÿÿÿÿ
-tsquid:S00116A"\Rename this field "_excludedURIStack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûá÷Û
-wsquid:S00116B"ZRename this field "_decimalFormats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÔÂ™ùÿÿÿÿ
-hsquid:S00116C"PRename this field "_keys" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°’üİ
-nsquid:S00116¸"URename this field "_nsCounter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÇÍ¸
-qsquid:S00116Ä"SRename this field "_current" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‰«ìÿÿÿÿÿ
-rsquid:S11498"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(§ÿÿÿÿÿ
-rsquid:S11499"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ü÷ğ”øÿÿÿÿ
-rsquid:S1149<"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ŞÓ¾Õûÿÿÿÿ
-msquid:S1149="VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(®ÉİŸ
-msquid:S1149>"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ì®áÖ
-lsquid:S1149?"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(êøªK
-rsquid:S1149@"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Æ±ˆÔøÿÿÿÿ
-gsquid:S1149A"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ûá÷Û
-rsquid:S1149B"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(éÔÂ™ùÿÿÿÿ
-msquid:S1149C"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°’üİ
-‚squid:S1149Ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Š„É¨øÿÿÿÿ
-‚squid:S1149­"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(…Œ¾÷ÿÿÿÿÿ
->squid:S2129ö"!Remove this "Integer" constructor(†”½ıüÿÿÿÿ
-]squid:CallToDeprecatedMethodö"/Remove this use of "Integer"; it is deprecated.(†”½ıüÿÿÿÿ
->squid:S2129ø"!Remove this "Integer" constructor(ûÆ³Ôıÿÿÿÿ
-]squid:CallToDeprecatedMethodø"/Remove this use of "Integer"; it is deprecated.(ûÆ³Ôıÿÿÿÿ
-9squid:S2129³"!Remove this "Integer" constructor(Ëœîı
-Xsquid:CallToDeprecatedMethod³"/Remove this use of "Integer"; it is deprecated.(Ëœîı
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

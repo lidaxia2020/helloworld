@@ -1,13 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(è¬á¿üÿÿÿÿ
-rsquid:S11491"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(º‡—âúÿÿÿÿ
-msquid:S1149C"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(£½ª„
-rsquid:S11491"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(º‡—âúÿÿÿÿ
-osquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔüÆx
-8squid:S21296"!Remove this "Integer" constructor(÷¸á¦
-Wsquid:CallToDeprecatedMethod6"/Remove this use of "Integer"; it is deprecated.(÷¸á¦
-=squid:S2129:"!Remove this "Integer" constructor(å–Â÷ýÿÿÿÿ
-\squid:CallToDeprecatedMethod:"/Remove this use of "Integer"; it is deprecated.(å–Â÷ýÿÿÿÿ
-=squid:S2129>"!Remove this "Integer" constructor(ô—ÍÐüÿÿÿÿ
-\squid:CallToDeprecatedMethod>"/Remove this use of "Integer"; it is deprecated.(ô—ÍÐüÿÿÿÿ
-usquid:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãú³›ûÿÿÿÿ

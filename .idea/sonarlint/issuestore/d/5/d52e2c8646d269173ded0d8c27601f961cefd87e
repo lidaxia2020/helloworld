@@ -1,14 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ĞµŒëşÿÿÿÿ
-bsquid:S1192_"KDefine a constant instead of duplicating this literal " nWaiters=" 4 times.(Åïó
-jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¿ê÷
-osquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øğ¶Çøÿÿÿÿ
-osquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶î˜÷úÿÿÿÿ
-osquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶î˜÷úÿÿÿÿ
-jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò½èê
-Zsquid:UselessImportCheck""6Remove this unused import 'org.omg.CORBA.LocalObject'.(øöè
-[squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
-U"squid:SwitchLastCaseIsDefaultCheckP""Add a default case to this switch.(•©Ê üÿÿÿÿ
-]squid:S2142v"FEither re-interrupt this method or rethrow the "InterruptedException".(£ö–÷
-wsquid:S00116‘"^Rename this field "etherealize_objects" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê»ø‡
-V"squid:SwitchLastCaseIsDefaultCheckÿ""Add a default case to this switch.(•©Ê üÿÿÿÿ

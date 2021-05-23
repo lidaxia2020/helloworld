@@ -1,31 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ĞµŒëşÿÿÿÿ
-csquid:S1192Œ"KDefine a constant instead of duplicating this literal ") on poa " 10 times.(ÔÚî£
-Rsquid:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-jsquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¼Ë¢
-osquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ–‚¡øÿÿÿÿ
-lsquid:UselessImportCheck^"HRemove this unused import 'com.sun.corba.se.spi.ior.iiop.IIOPFactories'.(‡€Ÿ…
-esquid:UselessImportCheckY"ARemove this unused import 'com.sun.corba.se.spi.ior.IORTemplate'.(Ôÿº©
-osquid:UselessImportCheck]"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.IIOPAddress'.(é›¢ùÿÿÿÿ
-]squid:UselessImportCheckJ"9Remove this unused import 'org.omg.IOP.TAG_INTERNET_IOP'.(ñ†º
-wsquid:UselessImportChecka"SRemove this unused import 'com.sun.corba.se.spi.transport.SocketOrChannelAcceptor'.(ëšã‰
-rsquid:UselessImportCheckS"IRemove this unused import 'com.sun.corba.se.spi.oa.ObjectAdapterFactory'.(Ë§‚·şÿÿÿÿ
-jsquid:UselessImportCheck\"FRemove this unused import 'com.sun.corba.se.spi.ior.iiop.IIOPProfile'.(ÍˆÌ
-]squid:S4065ø"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(´îª5
-Wsquid:S1161ù":Add the "@Override" annotation above this method signature(í×¿¹şÿÿÿÿ
-^squid:S2142¹"FEither re-interrupt this method or rethrow the "InterruptedException".(¬Êã®
-}squid:S1217ª"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(÷Úê‰ÿÿÿÿÿ
-Bsquid:S00108¯")Either remove or fill this block of code.(Çó¶
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(ÿŸ¾Ğüÿÿÿÿ
-^squid:S2142æ"FEither re-interrupt this method or rethrow the "InterruptedException".(¬Êã®
-=squid:S1181Î"%Catch Exception instead of Throwable.(âÂéî
-csquid:S2142»"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
-]squid:S1193Ï"@Replace the usage of the "instanceof" operator by a catch block.(ƒîÜåşÿÿÿÿ
-jsquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¹Şñû
-=squid:S1181¨"%Catch Exception instead of Throwable.(âÂéî
-]squid:S1193­"@Replace the usage of the "instanceof" operator by a catch block.(ƒîÜåşÿÿÿÿ
-csquid:S2142•"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
-=squid:S1181•"%Catch Exception instead of Throwable.(âÂéî
-Xsquid:S1193›"@Replace the usage of the "instanceof" operator by a catch block.(«ëâ
-]squid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(Ğıç‚ÿÿÿÿÿ
-hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ş³Ñ»ıÿÿÿÿ

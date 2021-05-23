@@ -1,8 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ıŒÇ
-isquid:S3776M"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(±­œ
-Nsquid:S1854a"7Remove this useless assignment to local variable "ref".(Ú‚‚Ä
-Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(Ú£óùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-asquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(ŸÁå
-csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(éÉ¥û

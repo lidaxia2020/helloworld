@@ -1,207 +1,0 @@
-
-„ squid:ForLoopCounterChangedCheckŞ"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷Ñè}
-Š squid:ForLoopCounterChangedCheckß"XRefactor the code in order to not assign to this loop counter from within the loop body.(Òß¸Éùÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckã"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÂÜˆ
-Š squid:ForLoopCounterChangedCheckè"XRefactor the code in order to not assign to this loop counter from within the loop body.(Òß¸Éùÿÿÿÿ
-… squid:ForLoopCounterChangedCheckê"XRefactor the code in order to not assign to this loop counter from within the loop body.(’…¾ô
-„ squid:ForLoopCounterChangedCheckë"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÂÜˆ
-Msquid:S1191²"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
-_$squid:AssignmentInSubExpressionCheckÌ".Extract the assignment out of this expression.(ïÚÜá
-_$squid:AssignmentInSubExpressionCheckÁ".Extract the assignment out of this expression.(¸üŠó
-^$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(Õ¾ôv
-d$squid:AssignmentInSubExpressionCheck¯".Extract the assignment out of this expression.(ãáıªùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckà".Extract the assignment out of this expression.(Áå’¥ûÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(óü—
-_$squid:AssignmentInSubExpressionCheckÔ".Extract the assignment out of this expression.(¥™ù©
-d$squid:AssignmentInSubExpressionCheckƒ".Extract the assignment out of this expression.(ú‚¸ÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ÿßª½øÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¦	".Extract the assignment out of this expression.(Ç‘õĞøÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¦	".Extract the assignment out of this expression.(Ç‘õĞøÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckí	".Extract the assignment out of this expression.(ˆ
-_$squid:AssignmentInSubExpressionCheckí	".Extract the assignment out of this expression.(ˆ
-d$squid:AssignmentInSubExpressionCheck¶
-".Extract the assignment out of this expression.(ëÛ› ùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¶
-".Extract the assignment out of this expression.(ëÛ› ùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckî
-".Extract the assignment out of this expression.(ïû¥™øÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckî
-".Extract the assignment out of this expression.(ïû¥™øÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(£À®¦
-_$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(£À®¦
-_$squid:AssignmentInSubExpressionCheckş".Extract the assignment out of this expression.(¢—‚
-_$squid:AssignmentInSubExpressionCheckş".Extract the assignment out of this expression.(¢—‚
-_$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(šœ¥·
-_$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(šœ¥·
-_$squid:AssignmentInSubExpressionCheckô".Extract the assignment out of this expression.(ÃÎ•¸
-_$squid:AssignmentInSubExpressionCheckô".Extract the assignment out of this expression.(ÃÎ•¸
-d$squid:AssignmentInSubExpressionCheckÂ".Extract the assignment out of this expression.(ÇôÀ£úÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck×".Extract the assignment out of this expression.(Ğãş›
-dsquid:S00112À"FDefine and throw a dedicated exception instead of using a generic one.(úæœùÿÿÿÿ
-}squid:UselessImportCheck."TRemove this unnecessary import: same package classes are always implicitly imported.(á¬øíıÿÿÿÿ
-xsquid:UselessImportCheck/"TRemove this unnecessary import: same package classes are always implicitly imported.(Æ™ş
-}squid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(†¿ŞÖûÿÿÿÿ
-xsquid:UselessImportCheck1"TRemove this unnecessary import: same package classes are always implicitly imported.(ğ£Úû
-}squid:UselessImportCheck2"TRemove this unnecessary import: same package classes are always implicitly imported.(÷ı¶Œúÿÿÿÿ
-xsquid:UselessImportCheck3"TRemove this unnecessary import: same package classes are always implicitly imported.(¨ÏÙî
-xsquid:UselessImportCheck4"TRemove this unnecessary import: same package classes are always implicitly imported.(¡£ØÍ
-xsquid:UselessImportCheck5"TRemove this unnecessary import: same package classes are always implicitly imported.(£‡Ì
-xsquid:UselessImportCheck6"TRemove this unnecessary import: same package classes are always implicitly imported.(œôŒ®
-}squid:UselessImportCheck7"TRemove this unnecessary import: same package classes are always implicitly imported.(§‰ıÚıÿÿÿÿ
-wsquid:UselessImportCheck8"TRemove this unnecessary import: same package classes are always implicitly imported.(ú©«y
-Fsquid:S3077¦".Remove the "volatile" keyword from this field.(ìİÂ§
-Ksquid:S3077§".Remove the "volatile" keyword from this field.(Ëò–ûÿÿÿÿ
-squid:S1845³"dRename field "RESULT" to prevent any misunderstanding/clash with field "result" defined on line 294.(–¸ˆüÿÿÿÿ
-zsquid:S1845´"bRename field "STACK" to prevent any misunderstanding/clash with field "stack" defined on line 295.(‹­†‘
-ssquid:S00115ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½‘•ú
-Gsquid:S00108º")Either remove or fill this block of code.(ï…ğèşÿÿÿÿ
-asquid:S3358—"DExtract this nested ternary operation into an independent statement.(íˆ¦¿şÿÿÿÿ
-@squid:S1659À"#Declare "cause" on a separate line.(ìš‰¯ıÿÿÿÿ
-Fsquid:S3077".Remove the "volatile" keyword from this field.(¢÷š„
->squid:S1452©"&Remove usage of generic wildcard type.(³Ş²›
-<squid:S1659È"Declare "h" on a separate line.(”êØ¦ùÿÿÿÿ
-<squid:S1659Ë"Declare "t" on a separate line.(‡ğ¾üÿÿÿÿ
-Bsquid:S1948ö"*Make "executor" transient or serializable.(ƒÕ†»
-Bsquid:S1948÷"%Make "dep" transient or serializable.(İ›Ù¡şÿÿÿÿ
-<squid:S1948ø"%Make "src" transient or serializable.(¡÷†=
-<squid:S1948¸"$Make "fn" transient or serializable.(ìÌƒÀ
-<squid:S1659¿"Declare "a" on a separate line.(›±Õıüÿÿÿÿ
-6squid:S1659Ë"Declare "x" on a separate line.(ÔÈŠ
-m squid:LabelsShouldNotBeUsedCheckÎ";Refactor the code to remove this label and the need for it.(ó¸ï–üÿÿÿÿ
-Bsquid:S1181Û"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-qsquid:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄĞçƒ
-qsquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôŒ¸
-<squid:S1948ğ"$Make "fn" transient or serializable.(ŞáğÉ
-<squid:S1659ö"Declare "a" on a separate line.(ƒ®Ï‚úÿÿÿÿ
-6squid:S1659"Declare "x" on a separate line.(ÔÈŠ
-m squid:LabelsShouldNotBeUsedCheck„";Refactor the code to remove this label and the need for it.(ó¸ï–üÿÿÿÿ
-Bsquid:S1181’"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Â´òıÿÿÿÿ
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öÿ¢‰
-<squid:S1948§"$Make "fn" transient or serializable.(Ù ú
-<squid:S1659­"Declare "a" on a separate line.(ƒ®Ï‚úÿÿÿÿ
-6squid:S1659·"Declare "x" on a separate line.(ÔÈŠ
-Bsquid:S1181Ã"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Â´òıÿÿÿÿ
-qsquid:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÌöØ
-Asquid:S1948×"$Make "fn" transient or serializable.(‚Ä´şÿÿÿÿ
-7squid:S1659Ş"Declare "a" on a separate line.(Ğòâ…
-osquid:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ì½–æúÿÿÿÿ
-7squid:S1659ê"Declare "t" on a separate line.(‹²»È
-7squid:S1659ê"Declare "x" on a separate line.(‹²»È
-Bsquid:S1181ı"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÉ®ƒúÿÿÿÿ
-qsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ş¶å
-Asquid:S1948”"$Make "fn" transient or serializable.(ùÛÉåıÿÿÿÿ
-<squid:S1659›"Declare "a" on a separate line.(›±Õıüÿÿÿÿ
-<squid:S1659§"Declare "s" on a separate line.(ù¯ß…ùÿÿÿÿ
-<squid:S1659§"Declare "x" on a separate line.(ù¯ß…ùÿÿÿÿ
-Bsquid:S1181·"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-qsquid:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄĞçƒ
-qsquid:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜¢ì³
-<squid:S1948Ì"$Make "fn" transient or serializable.(½ÄÈŒ
-7squid:S1659Ó"Declare "a" on a separate line.(Ğòâ…
-6squid:S1659Ş"Declare "x" on a separate line.(ÔÈŠ
-Bsquid:S1181é"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÉ®ƒúÿÿÿÿ
-vsquid:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“™—Şûÿÿÿÿ
-7squid:S1659‚"Declare "a" on a separate line.(Ğòâ…
-<squid:S1948•"$Make "fn" transient or serializable.(É½ÑŞ
-<squid:S1659œ"Declare "a" on a separate line.(›±Õıüÿÿÿÿ
-osquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºŞäÕÿÿÿÿÿ
-6squid:S1659©"Declare "x" on a separate line.(ÔÈŠ
-m squid:LabelsShouldNotBeUsedCheck¬";Refactor the code to remove this label and the need for it.(ó¸ï–üÿÿÿÿ
-Bsquid:S1181À"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ëËéÿÿÿÿÿ
-6squid:S1659Ê"Declare "x" on a separate line.(ÔÈŠ
-vsquid:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß²¯ßşÿÿÿÿ
-Bsquid:S1181Ö"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-qsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(çĞèµ
-qsquid:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄĞçƒ
-qsquid:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÏã
-<squid:S1948æ"%Make "snd" transient or serializable.(·âÎJ
-<squid:S1659ó"Declare "d" on a separate line.(¢éãÕıÿÿÿÿ
-;squid:S1948›	"$Make "fn" transient or serializable.(•Ü
-osquid:S3776­	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(š—š„ûÿÿÿÿ
-<squid:S1659±	"Declare "s" on a separate line.(™Í¼øÿÿÿÿ
-<squid:S1659±	"Declare "x" on a separate line.(™Í¼øÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheckµ	";Refactor the code to remove this label and the need for it.(ó¸ï–üÿÿÿÿ
-Bsquid:S1181Ê	"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-qsquid:S2293×	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄĞçƒ
-qsquid:S2293Ù	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¢‰Ì
-Asquid:S1948â	"$Make "fn" transient or serializable.(§¾¬„ıÿÿÿÿ
-jsquid:S3776ô	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.( øÆ
-<squid:S1659ø	"Declare "s" on a separate line.(™Í¼øÿÿÿÿ
-<squid:S1659ø	"Declare "x" on a separate line.(™Í¼øÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheckü	";Refactor the code to remove this label and the need for it.(ó¸ï–üÿÿÿÿ
-Bsquid:S1181’
-"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293Ÿ
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Â´òıÿÿÿÿ
-vsquid:S2293¡
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ÙƒŠÿÿÿÿÿ
-<squid:S1948ª
-"$Make "fn" transient or serializable.(Ù ú
-isquid:S3776½
-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•ß?
-<squid:S1659¿
-"Declare "s" on a separate line.(™Í¼øÿÿÿÿ
-<squid:S1659¿
-"Declare "x" on a separate line.(™Í¼øÿÿÿÿ
-Bsquid:S1181Î
-"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293Ú
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Â´òıÿÿÿÿ
-<squid:S1659ö
-"Declare "s" on a separate line.(™Í¼øÿÿÿÿ
-<squid:S1659ö
-"Declare "x" on a separate line.(™Í¼øÿÿÿÿ
-vsquid:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Â´òıÿÿÿÿ
-7squid:S1659Œ"Declare "b" on a separate line.(”¤ú
-asquid:S3358"DExtract this nested ternary operation into an independent statement.(«¼Å˜ÿÿÿÿÿ
-jsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¶²£¤
-<squid:S1948²"$Make "fn" transient or serializable.(ìÌƒÀ
-osquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸ß‚‹úÿÿÿÿ
-6squid:S1659É"Declare "x" on a separate line.(ÔÈŠ
-m squid:LabelsShouldNotBeUsedCheckÍ";Refactor the code to remove this label and the need for it.(ó¸ï–üÿÿÿÿ
-Bsquid:S1181Ú"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-qsquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄĞçƒ
-vsquid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıûä¬úÿÿÿÿ
-<squid:S1948ò"$Make "fn" transient or serializable.(ŞáğÉ
-isquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(üª‰;
-6squid:S1659‰"Declare "x" on a separate line.(ÔÈŠ
-m squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(ó¸ï–üÿÿÿÿ
-Bsquid:S1181›"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Â´òıÿÿÿÿ
-vsquid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò§­ıÿÿÿÿ
-<squid:S1948²"$Make "fn" transient or serializable.(Ù ú
-6squid:S1659Ç"Declare "x" on a separate line.(ÔÈŠ
-Bsquid:S1181Õ"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Â´òıÿÿÿÿ
-vsquid:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş˜°ÿÿÿÿÿ
-7squid:S1659Š"Declare "b" on a separate line.(”¤ú
-asquid:S3358"DExtract this nested ternary operation into an independent statement.(«¼Å˜ÿÿÿÿÿ
-8squid:S1659Ÿ" Declare "fn" on a separate line.(µ·²‰
-squid:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ÚÉ¹üÿÿÿÿ
-=squid:S1948Ÿ"%Make "dep" transient or serializable.(µ·²‰
-<squid:S1948Ÿ"$Make "fn" transient or serializable.(µ·²‰
-<squid:S1659©"Declare "f" on a separate line.(›¯Òäÿÿÿÿÿ
-Bsquid:S1181¯"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓõÎşÿÿÿÿ
-8squid:S1659Ã" Declare "fn" on a separate line.(Ä“ÿÇ
-squid:S1186É"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ÚÉ¹üÿÿÿÿ
-=squid:S1948Ã"%Make "dep" transient or serializable.(Ä“ÿÇ
-<squid:S1948Ã"$Make "fn" transient or serializable.(Ä“ÿÇ
-<squid:S1659Í"Declare "f" on a separate line.(ûÌ¬Åùÿÿÿÿ
-Bsquid:S1181Ô"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-vsquid:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Â´òıÿÿÿÿ
-Fsquid:S3077ô".Remove the "volatile" keyword from this field.(«ùä´
-@squid:S1948ô"(Make "thread" transient or serializable.(«ùä´
-osquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(×ñ÷ñúÿÿÿÿ
-csquid:S2142À"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
-osquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(·¬üÑøÿÿÿÿ
-csquid:S2142ñ"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
-vsquid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(úñÊøÿÿÿÿ
-asquid:S3358©"DExtract this nested ternary operation into an independent statement.(§†ßÓşÿÿÿÿ
-\squid:S3358¬"DExtract this nested ternary operation into an independent statement.(ËÒ©‰
-csquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(Ôè©‚

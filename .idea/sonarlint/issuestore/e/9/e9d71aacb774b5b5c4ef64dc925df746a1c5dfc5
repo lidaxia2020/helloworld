@@ -1,14 +1,0 @@
-
-psquid:S1192Õ"SDefine a constant instead of duplicating this literal "No match available" 5 times.(®ä‡êÿÿÿÿÿ
-gsquid:S1192ü"JDefine a constant instead of duplicating this literal "No group " 3 times.(ÚÂŒõýÿÿÿÿ
-u
-squid:S135à"YReduce the total number of break and continue statements in this loop to use at most one.(ƒÁœÄýÿÿÿÿ
-8squid:S1659®" Declare "to" on a separate line.(ÐóœŽ
-?squid:S1659Ö""Declare "last" on a separate line.(ë¾ˆÆýÿÿÿÿ
-wsquid:S1149œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŸôìÓ
-|squid:S1149—	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(»‚Êþþÿÿÿÿ
-|squid:S1149—	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(»‚Êþþÿÿÿÿ
-wsquid:S1149Ñ	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-wsquid:S1149’
-"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-jsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ŸôìÓ

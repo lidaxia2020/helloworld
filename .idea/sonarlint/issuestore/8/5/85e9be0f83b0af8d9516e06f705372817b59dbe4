@@ -1,12 +1,0 @@
-
-Zsquid:S3034z">Prevent "int" promotion by adding "& 0xff" to this expression.(šøõœùÿÿÿÿ
-Vsquid:S3034„">Prevent "int" promotion by adding "& 0xff" to this expression.(ˆßÌ¼
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¤™‡‘ùÿÿÿÿ
-Ksquid:S1066p"/Merge this if statement with the enclosing one.(®Áâ©ùÿÿÿÿ
-jsquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¿ß¨
-isquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïôø 
-jsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‹÷š
-jsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì±ü
-xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ÍˆÌ
-nsquid:UselessImportCheck#"ERemove this unused import 'com.sun.corba.se.impl.orbutil.ORBUtility'.(×˜´ùşÿÿÿÿ
-`squid:S4201a"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÖòĞ¾

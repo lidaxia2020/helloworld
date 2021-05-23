@@ -1,9 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(†ƒî
-?squid:S1659-"#Declare "minor" on a separate line.(»ÀÉìşÿÿÿÿ
-O
-squid:S106_"9Replace this use of System.out or System.err by a logger.(‘ÎâË
-N
-squid:S106`"9Replace this use of System.out or System.err by a logger.(“ğğ2
-T
-squid:S106a"9Replace this use of System.out or System.err by a logger.(ÊÎÃúÿÿÿÿ

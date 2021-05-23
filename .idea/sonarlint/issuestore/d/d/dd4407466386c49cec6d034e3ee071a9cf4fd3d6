@@ -1,15 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-esquid:MaximumInheritanceDepth8"<This class has 6 parents which is greater than 5 authorized.(‚ÜÑ
-Vsquid:S1161_":Add the "@Override" annotation above this method signature(ÿñùÿÿÿÿ
-Qsquid:S1161u":Add the "@Override" annotation above this method signature(ùáø°
-š%squid:RedundantThrowsDeclarationCheck‚"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-Rsquid:S1161":Add the "@Override" annotation above this method signature(Ìë†å
-•%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ƒøôÉ
-Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(‡ ªç
-š%squid:RedundantThrowsDeclarationCheck˜"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-Wsquid:S1161—":Add the "@Override" annotation above this method signature(Œ¢‹Üÿÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck£"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(àöÉŞÿÿÿÿÿ
-Rsquid:S1161¢":Add the "@Override" annotation above this method signature(®â¡â
-Wsquid:S1161°":Add the "@Override" annotation above this method signature(é¸‰úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

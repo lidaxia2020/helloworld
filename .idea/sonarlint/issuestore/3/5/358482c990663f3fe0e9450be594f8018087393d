@@ -1,45 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ä³ùÿÿÿÿ
-Vsquid:S4973“"9Use the "equals" method if value comparison was intended.(“Ù¶şÿÿÿÿ
-Vsquid:S4973”"9Use the "equals" method if value comparison was intended.(ÚÖôÖıÿÿÿÿ
-Vsquid:S4973£"9Use the "equals" method if value comparison was intended.(ÚÓá¾şÿÿÿÿ
-Qsquid:S4973Ë"9Use the "equals" method if value comparison was intended.(ùÃ¦º
-Qsquid:S4973Ë"9Use the "equals" method if value comparison was intended.(ùÃ¦º
-Vsquid:S4973í"9Use the "equals" method if value comparison was intended.(“Ù¶şÿÿÿÿ
-Vsquid:S4973î"9Use the "equals" method if value comparison was intended.(ÚÖôÖıÿÿÿÿ
-Vsquid:S4973ı"9Use the "equals" method if value comparison was intended.(“Ù¶şÿÿÿÿ
-Vsquid:S4973ş"9Use the "equals" method if value comparison was intended.(ÚÖôÖıÿÿÿÿ
-Qsquid:S4973¦"9Use the "equals" method if value comparison was intended.(±çâ
-Qsquid:S4973Ä"9Use the "equals" method if value comparison was intended.(÷Òóƒ
-Vsquid:S4973Å"9Use the "equals" method if value comparison was intended.(‚•Ğµıÿÿÿÿ
-Vsquid:S4973Æ"9Use the "equals" method if value comparison was intended.(á‚†üøÿÿÿÿ
-Qsquid:S4973Ç"9Use the "equals" method if value comparison was intended.(ö  „
-Qsquid:S4973Ç"9Use the "equals" method if value comparison was intended.(ö  „
-´%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Vsquid:S1161}":Add the "@Override" annotation above this method signature(Ï‘ Äøÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck˜"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ª¢ïÃ
-Rsquid:S1161˜":Add the "@Override" annotation above this method signature(ª¢ïÃ
-°%squid:RedundantThrowsDeclarationCheck«"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ƒ­¨„
-Rsquid:S1161«":Add the "@Override" annotation above this method signature(ƒ­¨„
-µ%squid:RedundantThrowsDeclarationCheckÊ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161É":Add the "@Override" annotation above this method signature(†µğ§ıÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckİ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Â¸¶¼
-Rsquid:S1161İ":Add the "@Override" annotation above this method signature(Â¸¶¼
-µ%squid:RedundantThrowsDeclarationCheckŠ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161‰":Add the "@Override" annotation above this method signature(óÅ‰¾ıÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÈ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-isquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒë–y
-Qsquid:S1161Ç":Add the "@Override" annotation above this method signature(ƒë–y
-µ%squid:RedundantThrowsDeclarationCheck•"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(×¯”şÿÿÿÿ
-osquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(×¯”şÿÿÿÿ
-Wsquid:S1161•":Add the "@Override" annotation above this method signature(×¯”şÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckà"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¦š¬ö
-Rsquid:S1161à":Add the "@Override" annotation above this method signature(¦š¬ö
-°%squid:RedundantThrowsDeclarationCheckó"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÚ ı
-Rsquid:S1161ó":Add the "@Override" annotation above this method signature(äÚ ı
-µ%squid:RedundantThrowsDeclarationCheck†"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Åş†ÿÿÿÿÿ
-Wsquid:S1161†":Add the "@Override" annotation above this method signature(Åş†ÿÿÿÿÿ
-squid:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Úö» üÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ï½í‰şÿÿÿÿ
-hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ñ‡¿æşÿÿÿÿ

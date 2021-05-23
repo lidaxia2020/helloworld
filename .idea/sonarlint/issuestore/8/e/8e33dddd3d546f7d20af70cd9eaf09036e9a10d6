@@ -1,18 +1,0 @@
-
-Lsquid:S1066Ò"/Merge this if statement with the enclosing one.(û¨Éïúÿÿÿÿ
-Lsquid:S1066Ì"/Merge this if statement with the enclosing one.(©çşıÿÿÿÿ
-gsquid:S2886Ø"JSynchronize this method to match the synchronization on "getPropertyType".(ğ¨ó‘ùÿÿÿÿ
-jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(˜ğƒô
-jsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ö¾ ú
-Wsquid:S1161ş":Add the "@Override" annotation above this method signature(’ö¨ûÿÿÿÿ
-Usquid:S3878ş"8Remove this array creation and simply pass the elements.(ÏŸÎÉøÿÿÿÿ
-[squid:CallToDeprecatedMethod…"3Remove this use of "newInstance"; it is deprecated.(‹ã‘W
-Psquid:S3878‡"8Remove this array creation and simply pass the elements.(ôñÑ–
-fsquid:S4201¢"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¢½÷—üÿÿÿÿ
-osquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(×½Ìàøÿÿÿÿ
-6squid:S2178¬"Correct this "|" to "||".(ïç¨”ùÿÿÿÿ
-1squid:S2178­"Correct this "|" to "||".(Óğ‹ö
-tsquid:S2737ø"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ
-Fsquid:S1125˜")Remove the literal "false" boolean value.(¸€¶Êúÿÿÿÿ
-Asquid:S1125™")Remove the literal "false" boolean value.(ÄÃâ¶
-Wsquid:S1161¦":Add the "@Override" annotation above this method signature(ÆıÒÔüÿÿÿÿ

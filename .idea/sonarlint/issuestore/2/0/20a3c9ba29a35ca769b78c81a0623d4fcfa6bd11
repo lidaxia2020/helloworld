@@ -1,5 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
-‚squid:UselessImportCheck "^Remove this unused import 'com.sun.corba.se.spi.protocol.LocalClientRequestDispatcherFactory'.(£€ìö
-{squid:UselessImportCheck!"WRemove this unused import 'com.sun.corba.se.spi.protocol.LocalClientRequestDispatcher'.(ğµ£Ã
-˜squid:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅÇô½

@@ -1,7 +1,0 @@
-
-Msquid:S1191î"5Use classes from the Java API instead of Sun classes.(’œ°‡
-jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÉãÜ
-Jsquid:S3077J".Remove the "volatile" keyword from this field.(ŸâËéüÿÿÿÿ
-xsquid:S00115ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ý»Òªøÿÿÿÿ
-psquid:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Œñ’
-[squid:HiddenFieldCheck‚"8Rename "pair" which hides the field declared at line 74.(¾ûŽÌ

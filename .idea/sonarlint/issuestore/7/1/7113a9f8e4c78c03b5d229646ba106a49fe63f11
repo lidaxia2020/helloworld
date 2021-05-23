@@ -1,156 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(í™¼şÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck•".Extract the assignment out of this expression.(ŞËøÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckí".Extract the assignment out of this expression.(òŒ¾
-_$squid:AssignmentInSubExpressionCheckÓ".Extract the assignment out of this expression.(Ò„‰”
-u
-squid:S135İ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-u
-squid:S135ò"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-dsquid:S2259ÿ"GA "NullPointerException" could be thrown; "attrQName" is nullable here.(˜½Ùëşÿÿÿÿ
-`squid:S00107Ä"BConstructor has 10 parameters, which is greater than 7 authorized.(Ïö™áüÿÿÿÿ
-rsquid:S00116ö"YRename this field "m_exptype_map0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏöÇ‚
-rsquid:S00116÷"YRename this field "m_nextsib_map0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôîü¡
-wsquid:S00116ø"YRename this field "m_firstch_map0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¶ôøÿÿÿÿ
-vsquid:S00116ù"XRename this field "m_parent_map0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŞ¦ûúÿÿÿÿ
-vsquid:S00116ü"XRename this field "m_exptype_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê”õ¶üÿÿÿÿ
-qsquid:S00116ı"XRename this field "m_nextsib_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ­ğÄ
-qsquid:S00116ş"XRename this field "m_firstch_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á±
-psquid:S00116ÿ"WRename this field "m_parent_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™—ÖÌ
-ssquid:S00116‚"ZRename this field "m_extendedTypes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûšº
-lsquid:S00116Œ"SRename this field "m_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØğÄ¼
-psquid:S00116"WRename this field "m_valueIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ß•
-wsquid:S00116’"YRename this field "m_maxNodeIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÍı¾ıÿÿÿÿ
-ksquid:S00116•"RRename this field "m_SHIFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ·í
-osquid:S00116–"QRename this field "m_MASK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÚ¦Âøÿÿÿÿ
-tsquid:S00116—"VRename this field "m_blocksize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì™œüÿÿÿÿ
-rsquid:S00116¬"YRename this field "m_buildIdIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á½¼Ñ
-}squid:S1149Œ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ØğÄ¼
-Isquid:S11358"2Complete the task associated to this TODO comment.(óó ğ
-msquid:S00116„"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¹³
-rsquid:S00116à"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-osquid:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¹î«üÿÿÿÿ
-Wsquid:S1161¶":Add the "@Override" annotation above this method signature(¹î«üÿÿÿÿ
-rsquid:S00116â"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-Rsquid:S1161ô":Add the "@Override" annotation above this method signature(…ú¼ó
-rsquid:S00116Ç"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(…ú¼ó
-Bsquid:S00108ã")Either remove or fill this block of code.(•¥ê÷
-Gsquid:S00108æ")Either remove or fill this block of code.(™ÉÉ¨øÿÿÿÿ
-rsquid:S00116¬"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-usquid:S00116ì"WRename this field "_startNodeID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÈğıÿÿÿÿ
-Qsquid:S1161ó":Add the "@Override" annotation above this method signature(Ğœü)
-rsquid:S00116Å"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-Rsquid:S1161×":Add the "@Override" annotation above this method signature(…ú¼ó
-Qsquid:S1161ö":Add the "@Override" annotation above this method signature(¼áÍ8
-;squid:S1659«"$Declare "_oldsp" on a separate line.(”ÊÑm
-Fsquid:S1659­")Declare "_markedNode" on a separate line.( Ô¦Àÿÿÿÿÿ
-Lsquid:S1659­"/Declare "_markedDescendant" on a separate line.( Ô¦Àÿÿÿÿÿ
-9squid:S1170¢"!Make this final field static too.(–ù«¾
-[squid:S2387­">"_markedNode" is the name of a field in "DTMAxisIteratorBase".( Ô¦Àÿÿÿÿÿ
-qsquid:S00116¢"XRename this field "_maxAncestors" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ù«¾
-jsquid:S00116¨"QRename this field "_stack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä›Ú¿
-fsquid:S00116«"NRename this field "_sp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÊÑm
-isquid:S00116«"QRename this field "_oldsp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÊÑm
-rsquid:S00116­"TRename this field "_markedsp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ô¦Àÿÿÿÿÿ
-tsquid:S00116­"VRename this field "_markedNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ô¦Àÿÿÿÿÿ
-zsquid:S00116­"\Rename this field "_markedDescendant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ô¦Àÿÿÿÿÿ
-Qsquid:S1161¶":Add the "@Override" annotation above this method signature(Ğœü)
-Wsquid:S1161À":Add the "@Override" annotation above this method signature(ßôà’ûÿÿÿÿ
-;squid:S1659ç"#Declare "index" on a separate line.(±ßÌê
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(…½…Å
-Rsquid:S1161°":Add the "@Override" annotation above this method signature(ª³í
-Rsquid:S1161¶":Add the "@Override" annotation above this method signature(‡ÀÃœ
-rsquid:S00116Å"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-jsquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(…ú¼ó
-Rsquid:S1161×":Add the "@Override" annotation above this method signature(…ú¼ó
-rsquid:S00116ş"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-jsquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(…ú¼ó
-Rsquid:S1161	":Add the "@Override" annotation above this method signature(…ú¼ó
-tsquid:S00116È	"VRename this field "m_ancestors" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¨…¯ùÿÿÿÿ
-jsquid:S00116Ë	"QRename this field "m_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯åÈ¤
-wsquid:S00116Í	"YRename this field "m_ancestorsPos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ëÃ…üÿÿÿÿ
-tsquid:S00116Ï	"VRename this field "m_markedPos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÃƒ¼şÿÿÿÿ
-ssquid:S00116Ò	"ZRename this field "m_realStartNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÃëË
-xsquid:S00115Å	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õ÷Åäøÿÿÿÿ
-Wsquid:S1161Ú	":Add the "@Override" annotation above this method signature(ä×µæúÿÿÿÿ
-Rsquid:S1161ä	":Add the "@Override" annotation above this method signature(ÕÕ³
-Wsquid:S1161î	":Add the "@Override" annotation above this method signature(ßôà’ûÿÿÿÿ
-Rsquid:S1161Ä
-":Add the "@Override" annotation above this method signature(…½…Å
-Rsquid:S1161á
-":Add the "@Override" annotation above this method signature(ª³í
-Rsquid:S1161å
-":Add the "@Override" annotation above this method signature(‡ÀÃœ
-rsquid:S00116ó
-"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-osquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(üÚ‘…üÿÿÿÿ
-Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(üÚ‘…üÿÿÿÿ
-Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(¹î«üÿÿÿÿ
-Rsquid:S1161á":Add the "@Override" annotation above this method signature(›ëı™
-jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(…ú¼ó
-Rsquid:S1161Ó":Add the "@Override" annotation above this method signature(…½…Å
-rsquid:S00116ê"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-jsquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(…ú¼ó
-Rsquid:S1161ü":Add the "@Override" annotation above this method signature(…ú¼ó
-rsquid:S00116Ã"TRename this field "_nodeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“¿ûúÿÿÿÿ
-Rsquid:S1161Õ":Add the "@Override" annotation above this method signature(…ú¼ó
-psquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(Í„ÿÿüÿÿÿÿ
-psquid:ModifiersOrderCheck£"EReorder the modifiers to comply with the Java Language Specification.(Ãï£ïùÿÿÿÿ
-ksquid:ModifiersOrderCheck¦"EReorder the modifiers to comply with the Java Language Specification.(ÚÂ—™
-ksquid:ModifiersOrderCheck©"EReorder the modifiers to comply with the Java Language Specification.(ç±¥À
-Wsquid:S1161ï":Add the "@Override" annotation above this method signature(ˆ¬ÆÕÿÿÿÿÿ
-lsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ºûÿÿÿÿ
-gsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡É“
-gsquid:S00100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÌÿÉ
-lsquid:S00100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óäæˆûÿÿÿÿ
-lsquid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆéÄ¦ùÿÿÿÿ
-gsquid:S00100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À»û×
-Wsquid:S1161":Add the "@Override" annotation above this method signature(Ñ÷´ôşÿÿÿÿ
-jsquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(îÖÌÀ
-Rsquid:S1161¤":Add the "@Override" annotation above this method signature(îÖÌÀ
-Asquid:S1905Ê")Remove this unnecessary cast to "String".(ûØ™
-Asquid:S1905Ï")Remove this unnecessary cast to "String".(•Šï
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(àİ³ÿıÿÿÿÿ
-Qsquid:S1161Ô":Add the "@Override" annotation above this method signature(ÎÇ’(
-Osquid:S1197Ô"8Move the array designator from the variable to the type.(ÎÇ’(
-Rsquid:S1161ì":Add the "@Override" annotation above this method signature(Ä¿œ
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(¹Ìı›üÿÿÿÿ
-Wsquid:S1161 ":Add the "@Override" annotation above this method signature(¢ó©öûÿÿÿÿ
-Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(‘û‹›
-Rsquid:S1161™":Add the "@Override" annotation above this method signature(ï±´
-Rsquid:S1161³":Add the "@Override" annotation above this method signature(¤ÈÓè
-Wsquid:S1161Û":Add the "@Override" annotation above this method signature(ìÌÈşÿÿÿÿ
-Rsquid:S1161…":Add the "@Override" annotation above this method signature(ù…¨‚
-jsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯÷Áë
-Rsquid:S1161 ":Add the "@Override" annotation above this method signature(¯÷Áë
-Rsquid:S1161Ï":Add the "@Override" annotation above this method signature(ìĞô
-Wsquid:S1161æ":Add the "@Override" annotation above this method signature(åÀ‚šşÿÿÿÿ
-Rsquid:S1161•":Add the "@Override" annotation above this method signature(“Ÿ†Ó
-osquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(ŸõŸıÿÿÿÿ
-Wsquid:S1161×":Add the "@Override" annotation above this method signature(ŸõŸıÿÿÿÿ
-jsquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(«ØœÑ
-osquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(ôŒÇ™úÿÿÿÿ
-Wsquid:S1161Ç":Add the "@Override" annotation above this method signature(ôŒÇ™úÿÿÿÿ
-Rsquid:S1161¸":Add the "@Override" annotation above this method signature(š”°›
-jsquid:S3776°"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(æ¤©å
-Osquid:S1905¼"8Remove this unnecessary cast to "SuballocatedIntVector".(Ø€Œ^
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(Òú¤
-hsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(œœ†£øÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œé‰Ù
-hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(åã”›ûÿÿÿÿ
-csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(ùŠÖ¸
-csquid:CommentedOutCodeLineø	"<This block of commented-out lines of code should be removed.(Òú¤
-hsquid:CommentedOutCodeLineı	"<This block of commented-out lines of code should be removed.(œœ†£øÿÿÿÿ
-hsquid:CommentedOutCodeLine¥
-"<This block of commented-out lines of code should be removed.(©°€ øÿÿÿÿ
-csquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(“…şØ
-csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(Í¶¢
-hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(¹ºŸÑøÿÿÿÿ
-csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(«İ²§
-csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(½–›ì
-csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(úüü‰
-hsquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(Ç›õûÿÿÿÿ
-hsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(½çÀíûÿÿÿÿ
-csquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(·£ïË

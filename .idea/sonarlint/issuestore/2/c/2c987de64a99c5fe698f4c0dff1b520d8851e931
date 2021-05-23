@@ -1,12 +1,0 @@
-
-dsquid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(–Ùğíúÿÿÿÿ
-dsquid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(şãßÜúÿÿÿÿ
-;squid:S1659ˆ"#Declare "count" on a separate line.(Æ’ú÷
-Esquid:S3077„".Remove the "volatile" keyword from this field.(Ö‚”r
-ksquid:ModifiersOrderCheckƒ"EReorder the modifiers to comply with the Java Language Specification.(İ÷„ş
-Usquid:S1197‡"8Move the array designator from the variable to the type.(ïŞû¦ÿÿÿÿÿ
-asquid:CallToDeprecatedMethod±"3Remove this use of "newInstance"; it is deprecated.(²¥¥Çùÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheck¼"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ñÕ›ëıÿÿÿÿ
-˜%squid:RedundantThrowsDeclarationCheckÏ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ë‰É
-_squid:S2886à"GSynchronize this method to match the synchronization on "setPushLevel".(©¾ˆ
-@squid:S1185÷"(Remove this method to simply inherit it.(¯¦«®

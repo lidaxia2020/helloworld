@@ -1,7 +1,0 @@
-
-hsquid:S1301ö"KReplace this "switch" statement by "if" statements to increase readability.(¶Ô‡´ÿÿÿÿÿ
-hsquid:S1301„"KReplace this "switch" statement by "if" statements to increase readability.(¶Ô‡´ÿÿÿÿÿ
-Csquid:S1452µ"&Remove usage of generic wildcard type.(£ˆÖûÿÿÿÿ
->squid:S1452Û"&Remove usage of generic wildcard type.(®ªòÉ
-"squid:SwitchLastCaseIsDefaultCheckö"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶Ô‡´ÿÿÿÿÿ
-"squid:SwitchLastCaseIsDefaultCheck„"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶Ô‡´ÿÿÿÿÿ

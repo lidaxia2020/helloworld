@@ -1,61 +1,0 @@
-
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheckË"XRefactor the code in order to not assign to this loop counter from within the loop body.(ü¢”¥
-„ squid:ForLoopCounterChangedCheckÎ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
-Š squid:ForLoopCounterChangedCheckå	"XRefactor the code in order to not assign to this loop counter from within the loop body.(­Éø—üÿÿÿÿ
-… squid:ForLoopCounterChangedCheckç	"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨‰©±
-… squid:ForLoopCounterChangedCheckè	"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ²ÓÒ
-Š squid:ForLoopCounterChangedCheckò	"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÍ×µşÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(­Éø—üÿÿÿÿ
-… squid:ForLoopCounterChangedCheckó"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨‰©±
-… squid:ForLoopCounterChangedCheckô"XRefactor the code in order to not assign to this loop counter from within the loop body.(ñ²ÓÒ
-… squid:ForLoopCounterChangedCheckƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(†âô
-Lsquid:S1191>"5Use classes from the Java API instead of Sun classes.(’¢Ÿà
-Lsquid:S1066Ê"/Merge this if statement with the enclosing one.(®Æµ®ùÿÿÿÿ
-Gsquid:S1066¤"/Merge this if statement with the enclosing one.(¥é©–
-Gsquid:S1066Ö"/Merge this if statement with the enclosing one.(˜¤´÷
-Lsquid:S1066š"/Merge this if statement with the enclosing one.(ôÛÇ†øÿÿÿÿ
-Lsquid:S1066Ñ"/Merge this if statement with the enclosing one.(ëÔŠ¤úÿÿÿÿ
-Jsquid:S1199¦"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Ş"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199œ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-p
-squid:S135ø"YReduce the total number of break and continue statements in this loop to use at most one.(Ááöµ
-Zsquid:S00107ø"<Method has 9 parameters, which is greater than 7 authorized.(ùÿİûÿÿÿÿ
-xsquid:S00115ß"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï™¶üıÿÿÿÿ
-jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(úÖz
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Š°¨ûÿÿÿÿ
-ksquid:ModifiersOrderCheck–"EReorder the modifiers to comply with the Java Language Specification.(º¨ü‰
-psquid:ModifiersOrderCheckŸ"EReorder the modifiers to comply with the Java Language Specification.(°ÍæÕùÿÿÿÿ
-ksquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(ü¹˜—
-psquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(ôøÈèûÿÿÿÿ
-psquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(Çåì¹üÿÿÿÿ
-psquid:ModifiersOrderCheck¸"EReorder the modifiers to comply with the Java Language Specification.(á“µıÿÿÿÿ
-ksquid:ModifiersOrderCheckÃ"EReorder the modifiers to comply with the Java Language Specification.(éÖú«
-ksquid:ModifiersOrderCheckŞ"EReorder the modifiers to comply with the Java Language Specification.(¦¦ùÚ
-jsquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(Öáç˜
->squid:S1659õ"&Declare "tagcount" on a separate line.(´ø²
-Bsquid:S1659ö"%Declare "prevTag" on a separate line.(÷÷Çìøÿÿÿÿ
-qsquid:HiddenFieldChecká	"IRename "useDateFormatSymbols" which hides the field declared at line 777.(š“¹ûÿÿÿÿ
-ksquid:S3776ƒ"SRefactor this method to reduce its Cognitive Complexity from 121 to the 15 allowed.(íÎğÏ
-isquid:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(”ıõU
-Bsquid:S00108©")Either remove or fill this block of code.(”ı¾
-osquid:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(á‘½¨şÿÿÿÿ
-Dsquid:S1659ô"'Declare "bestMatch" on a separate line.(ŒÆËãùÿÿÿÿ
-osquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¯û¸èÿÿÿÿÿ
-Osquid:S1135”"2Complete the task associated to this TODO comment.(¡µü´øÿÿÿÿ
-Lsquid:S2864–"4Iterate over the "entrySet" instead of the "keySet".(Æûœà
-^squid:S1126Ã"AReplace this if-then-else statement by a single return statement.(ó¥ï¤ûÿÿÿÿ
-osquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¦®Äÿÿÿÿÿ
-osquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(½¸ˆıÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck¨";Refactor the code to remove this label and the need for it.(Êæ¦
-Gsquid:S00108Ú")Either remove or fill this block of code.(Ñˆ¿‘úÿÿÿÿ
-psquid:S3776ø"SRefactor this method to reduce its Cognitive Complexity from 191 to the 15 allowed.(ùÿİûÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheck–";Refactor the code to remove this label and the need for it.(µä±‡şÿÿÿÿ
-qsquid:HiddenFieldCheck½"IRename "useDateFormatSymbols" which hides the field declared at line 777.(š“¹ûÿÿÿÿ
-Gsquid:S00108–")Either remove or fill this block of code.(Ñˆ¿‘úÿÿÿÿ
-osquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Õ”ışÿÿÿÿ
-ksquid:S2975’"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-Ysquid:UnusedPrivateMethod¿"3Remove this unused private "matchDSTString" method.(ù®€ø
-hsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(Šêìàøÿÿÿÿ
-csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(ªõ‰Ô

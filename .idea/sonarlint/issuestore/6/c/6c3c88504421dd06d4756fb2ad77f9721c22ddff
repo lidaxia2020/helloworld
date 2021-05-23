@@ -1,14 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨Ä¹ûÿÿÿÿ
-{squid:S1192Ê"cDefine a constant instead of duplicating this literal "wf-invalid-character-in-node-name" 26 times.(Ìç…ø
-msquid:S1192È"VDefine a constant instead of duplicating this literal "wf-invalid-character" 77 times.(‚Ù˜"
-rsquid:S1192æ"UDefine a constant instead of duplicating this literal "unsupported-encoding" 4 times.( Ëº¨üÿÿÿÿ
-‹"squid:ClassVariableVisibilityCheckS"XMake fCurrentNode a static final constant or non-public and provide accessors if needed.(…¬ä©üÿÿÿÿ
-ssquid:S1149À"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(æ½µÚøÿÿÿÿ
-T
-squid:S106c"9Replace this use of System.out or System.err by a logger.(¯ü§ıüÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck”"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½ªé§
-°%squid:RedundantThrowsDeclarationCheck¼"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½ªé§
-°%squid:RedundantThrowsDeclarationCheckî"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½ªé§
-ssquid:S1149À"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(æ½µÚøÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,13 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-Ksquid:S1066U"/Merge this if statement with the enclosing one.(â¶úÿÿÿÿ
-Vsquid:UselessImportCheck%"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
-Ssquid:UselessImportCheck""/Remove this unused import 'java.awt.Container'.(˜ƒ×‹
-Ssquid:UselessImportCheck!"/Remove this unused import 'java.awt.Component'.(Ÿğ¯ö
-Ssquid:UselessImportCheck#"/Remove this unused import 'java.awt.Dimension'.(˜‚º·
-^squid:UselessImportCheck "5Remove this unused import 'javax.swing.JLayeredPane'.(ÚÂİíüÿÿÿÿ
-Gsquid:S1948E"1Make "currentFrameRef" transient or serializable.(ŸÂÇ#
-isquid:S3776G"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¡ÙÒê
-Qsquid:S1161G":Add the "@Override" annotation above this method signature(¡ÙÒê
-Fsquid:S00108j")Either remove or fill this block of code.(Ğçõÿÿÿÿÿ
-usquid:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ñ®üÿÿÿÿ

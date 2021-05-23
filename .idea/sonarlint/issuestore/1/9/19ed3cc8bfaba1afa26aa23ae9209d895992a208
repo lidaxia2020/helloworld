@@ -1,14 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
-qsquid:S00116P"TRename this field "_systemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¤šØüÿÿÿÿ
-psquid:S00116X"XRename this field "_indentNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ïû
-osquid:S00116`"WRename this field "_uriResolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä•‘î
-qsquid:S00116i"TRename this field "_tfactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¨³¡üÿÿÿÿ
-jsquid:S00116q"RRename this field "_parser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÓª¤
-rsquid:S00116y"URename this field "_templates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—»ˆŸÿÿÿÿÿ
-wsquid:S1149Ï"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¥Ó«ó
-‚squid:S1149Ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ìóÛŸøÿÿÿÿ
-_squid:S1126”"BReplace this if-then-else statement by a single method invocation.(Ò¦¹ãúÿÿÿÿ
-jsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¶ÌÑ±
-_squid:S1126¢"BReplace this if-then-else statement by a single method invocation.(ÀûÒİÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

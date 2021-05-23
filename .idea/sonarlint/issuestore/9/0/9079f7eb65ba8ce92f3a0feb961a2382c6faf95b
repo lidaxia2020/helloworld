@@ -1,45 +1,0 @@
-
-9squid:S1643¹
-"Use a StringBuilder instead.(ÇÌûŞúÿÿÿÿ
-9squid:S1643½
-"Use a StringBuilder instead.(ºØøºşÿÿÿÿ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
-csquid:S1192†"FDefine a constant instead of duplicating this literal "value" 3 times.(­¶¿ôøÿÿÿÿ
-p
-squid:S135â"YReduce the total number of break and continue statements in this loop to use at most one.(ã ³
-p
-squid:S135´"YReduce the total number of break and continue statements in this loop to use at most one.(¼üò
-csquid:S2259¥
-"KA "NullPointerException" could be thrown; "propertyNames" is nullable here.(ÖšÇ
-_squid:S00112í"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-dsquid:S00112Œ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-_squid:S00112ş"FDefine and throw a dedicated exception instead of using a generic one.(†ô•†
-^squid:S00112	"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
-psquid:ModifiersOrderCheck“"EReorder the modifiers to comply with the Java Language Specification.(•˜åşÿÿÿÿ
-qsquid:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê“§˜
-Csquid:S1172Ñ"+Remove this unused method parameter "fake".(ŒÉ¶¼
-jsquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“ŠÔÔ
-½%squid:RedundantThrowsDeclarationCheckÇ"…Remove the declaration of thrown exception 'javax.management.openmbean.OpenDataException', as it cannot be thrown from method's body.(Û×›Áúÿÿÿÿ
-Dsquid:S1872Ó"'Use an "instanceof" comparison instead.(˜ªæúÿÿÿÿ
-Wsquid:S1161¦":Add the "@Override" annotation above this method signature(ÕŞïÅùÿÿÿÿ
-Rsquid:S1172Ó"5Remove this unused method parameter "openArrayClass".(¡î˜„ÿÿÿÿÿ
-Wsquid:S1161ı":Add the "@Override" annotation above this method signature(‡ó±Ìûÿÿÿÿ
-Msquid:S1172"5Remove this unused method parameter "openArrayClass".(½‹ëé
-\squid:CallToDeprecatedMethodÉ"3Remove this use of "newInstance"; it is deprecated.(¦Ğ  
-Wsquid:S1161Ú":Add the "@Override" annotation above this method signature(‡ó±Ìûÿÿÿÿ
-isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Îß¤D
-h squid:LabelsShouldNotBeUsedCheck²";Refactor the code to remove this label and the need for it.(ÍÙì¥
-psquid:ModifiersOrderCheckç"EReorder the modifiers to comply with the Java Language Specification.(É—³Éıÿÿÿÿ
-csquid:HiddenFieldCheck¨"@Rename "fromMethod" which hides the field declared at line 1103.(ª£Â
-Msquid:S1854	"5Remove this useless assignment to local variable "c".(µƒëÙ
-esquid:HiddenFieldCheck“	"=Rename "setters" which hides the field declared at line 1215.(ù¤ë¥ûÿÿÿÿ
-asquid:CallToDeprecatedMethod°	"3Remove this use of "newInstance"; it is deprecated.(İ±–øÿÿÿÿ
-Wsquid:S1118Ë	":Add a private constructor to hide the implicit public one.(ëß×ùÿÿÿÿ
->squid:S1168ç	"&Return an empty array instead of null.(¥¹ï
->squid:S1168ê	"&Return an empty array instead of null.(ë©¾ì
-^squid:S2147ğ	"FCombine this catch with the one at line 1262, which has the same body.(Å¡ß
-jsquid:S3776ú	"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(éº¾ª
-qsquid:S2293ÿ
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜È¥–
-ksquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(•ÆöÚ
->squid:S1481	"&Remove this unused "c" local variable.(µƒëÙ

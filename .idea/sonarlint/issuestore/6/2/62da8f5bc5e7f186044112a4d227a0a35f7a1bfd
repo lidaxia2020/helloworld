@@ -1,12 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÞÄÿá
-}squid:S1149’"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”…Çˆ
-œ%squid:RedundantThrowsDeclarationCheck°"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(…Ú÷Í
-œ%squid:RedundantThrowsDeclarationCheckÖ"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ØáÑÍ
-ž%squid:RedundantThrowsDeclarationCheck‡"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ã¯Ø 
-¤%squid:RedundantThrowsDeclarationCheck‚"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ŽŸ‹™ùÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck”"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(«äºÃ
-¡%squid:RedundantThrowsDeclarationCheck”"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(í·¡¢þÿÿÿÿ
->squid:S1452’"&Remove usage of generic wildcard type.(”…Çˆ
-¡%squid:RedundantThrowsDeclarationCheckº"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(í·¡¢þÿÿÿÿ
-œ%squid:RedundantThrowsDeclarationCheckà"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(›•Úú

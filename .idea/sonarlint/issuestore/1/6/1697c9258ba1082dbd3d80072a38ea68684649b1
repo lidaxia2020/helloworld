@@ -1,6 +1,0 @@
-
-vsquid:S1210ž"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ìªí°üÿÿÿÿ
-usquid:S3038ž"X"compareTo" is defined in the "Comparable" interface and can be removed from this class.(ìªí°üÿÿÿÿ
-psquid:ModifiersOrderCheckž"EReorder the modifiers to comply with the Java Language Specification.(ìªí°üÿÿÿÿ
-psquid:ModifiersOrderCheck»"EReorder the modifiers to comply with the Java Language Specification.(£ÐÔ¸üÿÿÿÿ
-psquid:ModifiersOrderCheckÐ"EReorder the modifiers to comply with the Java Language Specification.(æÉ¼Ëûÿÿÿÿ

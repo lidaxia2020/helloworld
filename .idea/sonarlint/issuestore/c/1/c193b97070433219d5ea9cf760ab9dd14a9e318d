@@ -1,22 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(äİĞùÿÿÿÿ
-rsquid:S1192Œ"ZDefine a constant instead of duplicating this literal ".consumeServiceContexts: " 3 times.(Çˆ•¡
-rsquid:S1192ñ"UDefine a constant instead of duplicating this literal ".dispatchToServant: " 4 times.(«èÉ”ùÿÿÿÿ
-isquid:S1192È"LDefine a constant instead of duplicating this literal ".dispatch: " 6 times.(÷’ŒŸøÿÿÿÿ
-xsquid:UselessImportCheckN"TRemove this unnecessary import: same package classes are always implicitly imported.(ºÂØ÷
-}squid:UselessImportCheck]"TRemove this unnecessary import: same package classes are always implicitly imported.(ÙÉöÔûÿÿÿÿ
-xsquid:UselessImportCheckX"ORemove this unused import 'com.sun.corba.se.impl.encoding.MarshalOutputStream'.(£íãÂûÿÿÿÿ
-Wsquid:UselessImportCheck*"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-psquid:UselessImportCheck["GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
-gsquid:UselessImportCheck3"CRemove this unused import 'org.omg.CORBA.portable.ResponseHandler'.(ê‡Ì¯
-3squid:S3626¥"Remove this redundant jump.(ûÁİ…
-isquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¹Š„X
-Bsquid:S1181œ"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
-osquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ØÏ‚ùÿÿÿÿ
-Bsquid:S1181Ÿ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-^squid:UnusedPrivateMethod­"3Remove this unused private "releaseServant" method.(£´¯¶øÿÿÿÿ
-Jsquid:S1068f".Remove this unused "poaWrapper" private field.(½çÜ¢ÿÿÿÿÿ
-bsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(ÁĞ‚ó
-hsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(Ù´ÒÙùÿÿÿÿ
-hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(×Š‘‹ıÿÿÿÿ
-hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(œ“§•ûÿÿÿÿ

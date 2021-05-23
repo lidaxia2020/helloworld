@@ -1,109 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(£ÿõ•ûÿÿÿÿ
-^squid:S1192 "FDefine a constant instead of duplicating this literal "false" 4 times.(ÜİËŒ
-^squid:S1192"FDefine a constant instead of duplicating this literal "dummy" 6 times.(’Ÿéø
-xsquid:S1488ğ"`Immediately return this expression instead of assigning it to the temporary variable "ttcprtOp".(ıšé—
-xsquid:S1488…"`Immediately return this expression instead of assigning it to the temporary variable "listenop".(œç‚
-ysquid:S1488•"\Immediately return this expression instead of assigning it to the temporary variable "sfop".(‚Ãé­ÿÿÿÿÿ
-ysquid:S1488³"\Immediately return this expression instead of assigning it to the temporary variable "sfop".(‚Ãé­ÿÿÿÿÿ
-wsquid:S1488Ñ"ZImmediately return this expression instead of assigning it to the temporary variable "op".(Ï¡Ğøÿÿÿÿ
-wsquid:S1488ï"ZImmediately return this expression instead of assigning it to the temporary variable "op".(Ï¡Ğøÿÿÿÿ
-wsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "op".(Ï¡Ğøÿÿÿÿ
-ssquid:S1488­"\Immediately return this expression instead of assigning it to the temporary variable "csop".(­²Ü
-vsquid:S1488Ê"^Immediately return this expression instead of assigning it to the temporary variable "result".(®€á”
-{squid:S1488à"^Immediately return this expression instead of assigning it to the temporary variable "result".(ø´Êªüÿÿÿÿ
-vsquid:S1488ó"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥…ÍÉ
-vsquid:S1488Ğ"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÉÍÎë
-vsquid:S1488Å"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÉÍÎë
-osquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãê”ˆıÿÿÿÿ
-jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‘€²
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«¶Ø
-jsquid:S00117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚’µ
-osquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ï·Âúÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îËòÖüÿÿÿÿ
-Ysquid:UselessImportCheck""0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
-usquid:UselessImportCheck6"LRemove this unused import 'com.sun.corba.se.pept.transport.ContactInfoList'.(®ËÍıÿÿÿÿ
-zsquid:UselessImportCheckF"QRemove this unused import 'com.sun.corba.se.spi.transport.CorbaTransportManager'.(Šø‘ğşÿÿÿÿ
-tsquid:S3008b"XRename this field "MY_CLASS_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ƒÔãüÿÿÿÿ
-Gsquid:S00108¦")Either remove or fill this block of code.(ä±üÿÿÿÿ
-9squid:S2129¹"!Remove this "Integer" constructor(“Ùí
-Xsquid:CallToDeprecatedMethod¹"/Remove this use of "Integer"; it is deprecated.(“Ùí
-9squid:S2129Å"!Remove this "Integer" constructor(éô¦¯
-Xsquid:CallToDeprecatedMethodÅ"/Remove this use of "Integer"; it is deprecated.(éô¦¯
->squid:S2129Æ"!Remove this "Integer" constructor(ƒ©Ÿéùÿÿÿÿ
-]squid:CallToDeprecatedMethodÆ"/Remove this use of "Integer"; it is deprecated.(ƒ©Ÿéùÿÿÿÿ
->squid:S2129Ú"!Remove this "Integer" constructor(ıø÷åùÿÿÿÿ
-]squid:CallToDeprecatedMethodÚ"/Remove this use of "Integer"; it is deprecated.(ıø÷åùÿÿÿÿ
-7squid:S2129Û"!Remove this "Integer" constructor(•—\
-Vsquid:CallToDeprecatedMethodÛ"/Remove this use of "Integer"; it is deprecated.(•—\
->squid:S2129ñ"!Remove this "Integer" constructor(‹ŸÖşÿÿÿÿ
-]squid:CallToDeprecatedMethodñ"/Remove this use of "Integer"; it is deprecated.(‹ŸÖşÿÿÿÿ
->squid:S2129ò"!Remove this "Integer" constructor(â—Íøÿÿÿÿ
-]squid:CallToDeprecatedMethodò"/Remove this use of "Integer"; it is deprecated.(â—Íøÿÿÿÿ
-9squid:S2129õ"!Remove this "Integer" constructor(Í›İ¢
-Xsquid:CallToDeprecatedMethodõ"/Remove this use of "Integer"; it is deprecated.(Í›İ¢
->squid:S2129ö"!Remove this "Integer" constructor(’ÊÏƒüÿÿÿÿ
-]squid:CallToDeprecatedMethodö"/Remove this use of "Integer"; it is deprecated.(’ÊÏƒüÿÿÿÿ
-8squid:S2129ù"!Remove this "Integer" constructor(Ğ–ëI
-Wsquid:CallToDeprecatedMethodù"/Remove this use of "Integer"; it is deprecated.(Ğ–ëI
-9squid:S2129ú"!Remove this "Integer" constructor(°Ù
-Xsquid:CallToDeprecatedMethodú"/Remove this use of "Integer"; it is deprecated.(°Ù
-9squid:S2129‚"!Remove this "Integer" constructor(·´´
-Xsquid:CallToDeprecatedMethod‚"/Remove this use of "Integer"; it is deprecated.(·´´
->squid:S2129†"!Remove this "Integer" constructor(½ÁÖªùÿÿÿÿ
-]squid:CallToDeprecatedMethod†"/Remove this use of "Integer"; it is deprecated.(½ÁÖªùÿÿÿÿ
-9squid:S2129Š"!Remove this "Integer" constructor(»äï
-Xsquid:CallToDeprecatedMethodŠ"/Remove this use of "Integer"; it is deprecated.(»äï
->squid:S2129"!Remove this "Integer" constructor(ã˜ßûÿÿÿÿ
-]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ã˜ßûÿÿÿÿ
-<squid:S2129˜"Remove this "Short" constructor(›è¡åùÿÿÿÿ
-[squid:CallToDeprecatedMethod˜"-Remove this use of "Short"; it is deprecated.(›è¡åùÿÿÿÿ
-<squid:S2129œ"Remove this "Short" constructor(›è¡åùÿÿÿÿ
-[squid:CallToDeprecatedMethodœ"-Remove this use of "Short"; it is deprecated.(›è¡åùÿÿÿÿ
-9squid:S2129Ø"!Remove this "Integer" constructor(îé˜¶
-Xsquid:CallToDeprecatedMethodØ"/Remove this use of "Integer"; it is deprecated.(îé˜¶
-8squid:S2129Ù"!Remove this "Integer" constructor(ûú¾S
-Wsquid:CallToDeprecatedMethodÙ"/Remove this use of "Integer"; it is deprecated.(ûú¾S
->squid:S2129à"!Remove this "Integer" constructor(ÕŒ™óşÿÿÿÿ
-]squid:CallToDeprecatedMethodà"/Remove this use of "Integer"; it is deprecated.(ÕŒ™óşÿÿÿÿ
-9squid:S2129á"!Remove this "Integer" constructor(Ó¢¸™
-Xsquid:CallToDeprecatedMethodá"/Remove this use of "Integer"; it is deprecated.(Ó¢¸™
-™squid:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ù†ã’
-™squid:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦‹ÎÂ
-squid:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—’°¶şÿÿÿÿ
-Csquid:S1168Õ"+Return an empty collection instead of null.(¥¹ï
-squid:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÖ¤èúÿÿÿÿ
-squid:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È¡Ïõÿÿÿÿÿ
->squid:S2129"!Remove this "Integer" constructor(ĞğŞÏÿÿÿÿÿ
-]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ĞğŞÏÿÿÿÿÿ
-8squid:S2129"!Remove this "Integer" constructor(åş
-Wsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(åş
->squid:S2129"!Remove this "Integer" constructor(Ü‡€Åøÿÿÿÿ
-]squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(Ü‡€Åøÿÿÿÿ
-\squid:CallToDeprecatedMethod¡"3Remove this use of "newInstance"; it is deprecated.(†üÔï
-asquid:CallToDeprecatedMethod¿"3Remove this use of "newInstance"; it is deprecated.(üÀ£ıÿÿÿÿ
-[squid:CallToDeprecatedMethodİ"3Remove this use of "newInstance"; it is deprecated.(¬ªäG
-\squid:CallToDeprecatedMethodû"3Remove this use of "newInstance"; it is deprecated.(¨êÀú
-asquid:CallToDeprecatedMethodš"3Remove this use of "newInstance"; it is deprecated.(·„àüÿÿÿÿ
-8squid:S2129Ô"!Remove this "Integer" constructor(»°ÖO
-Wsquid:CallToDeprecatedMethodÔ"/Remove this use of "Integer"; it is deprecated.(»°ÖO
-8squid:S2129Ù"!Remove this "Integer" constructor(òä†
-Wsquid:CallToDeprecatedMethodÙ"/Remove this use of "Integer"; it is deprecated.(òä†
-™squid:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶Â­¯
-™squid:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏúÊ§
-™squid:S1186˜"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶Â­¯
-™squid:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏúÊ§
-\squid:CallToDeprecatedMethod½"3Remove this use of "newInstance"; it is deprecated.(¡ü¦×
-™squid:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ±ñÖ
-™squid:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïìéÑ
-squid:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıœ¤úÿÿÿÿ
-˜squid:S1186è"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïÏãj
-™squid:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éí–µ
-™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ±ñÖ
-™squid:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïìéÑ
-squid:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıœ¤úÿÿÿÿ
-˜squid:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïÏãj
-™squid:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éí–µ
-\squid:CallToDeprecatedMethod²"3Remove this use of "newInstance"; it is deprecated.(¡ü¦×
-Qsquid:S1481¡"4Remove this unused "testServicesURL" local variable.(š¿ñÂûÿÿÿÿ
-dsquid:UnusedPrivateMethodÊ"9Remove this unused private "makeInitRefOperation" method.(¼¬ƒ´úÿÿÿÿ

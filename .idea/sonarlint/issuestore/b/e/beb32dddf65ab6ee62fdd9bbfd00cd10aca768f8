@@ -1,13 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-hsquid:S00116D"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ù™ï
-nsquid:S00116L"WRename this field "_escapedName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÿ°l
-osquid:S00116T"RRename this field "_select" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê÷¬çşÿÿÿÿ
-zsquid:S00116`"cRename this field "_doParameterOptimization" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö«ºy
-Vsquid:S1161h":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-Rsquid:S1161¢":Add the "@Override" annotation above this method signature(ÁØ’›
-Wsquid:S1161¿":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Fsquid:S1125Â")Remove the literal "false" boolean value.(‡Ã“İıÿÿÿÿ
-Rsquid:S1161í":Add the "@Override" annotation above this method signature(†“‹Ø
-Jsquid:S1135ş"2Complete the task associated to this TODO comment.(ÇíÒ©
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

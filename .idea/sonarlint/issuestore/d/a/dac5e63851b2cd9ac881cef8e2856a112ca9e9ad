@@ -1,18 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‹µ›äûÿÿÿÿ
-Gsquid:S1066"/Merge this if statement with the enclosing one.(ä€ÏË
-Psquid:S4973:"9Use the "equals" method if value comparison was intended.(ˆº®‚
-Psquid:S4973<"9Use the "equals" method if value comparison was intended.(ˆº®‚
-8squid:S1700."!Rename field "caseInsensitiveMap"(ÓÙœ
-rsquid:S3008)"VRename this field "CHUNK_SHIFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“÷«Ãûÿÿÿÿ
-qsquid:S3008*"URename this field "CHUNK_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¿Â•ÿÿÿÿÿ
-qsquid:S3008+"URename this field "CHUNK_MASK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ÿñµıÿÿÿÿ
-usquid:S3008,"^Rename this field "INITIAL_CHUNK_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹˜¹Ã
-rsquid:S30081"[Rename this field "LOWER_CASE_MATCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òñü
-rsquid:S30082"[Rename this field "UPPER_CASE_MATCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùºê§
-Qsquid:S1118'":Add a private constructor to hide the implicit public one.(à»¥ƒ
-jsquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(»ï£Ó
-Bsquid:S1860;"&Synchronize on a new "Object" instead.(°ü¥óüÿÿÿÿ
-isquid:S3776L"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(òëÄœ
-Usquid:S1854j"9Remove this useless assignment to local variable "index".(òğ†©ûÿÿÿÿ
-<squid:S1659R" Declare "uc" on a separate line.(»•Û¤şÿÿÿÿ

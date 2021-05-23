@@ -1,16 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÝéÔÑøÿÿÿÿ
-xsquid:UselessImportCheck7"TRemove this unnecessary import: same package classes are always implicitly imported.(­—Ú›
-xsquid:UselessImportCheck8"TRemove this unnecessary import: same package classes are always implicitly imported.(‡êïš
-nsquid:UselessImportCheck&"ERemove this unused import 'com.sun.corba.se.pept.transport.Acceptor'.(Ÿ÷“ûÿÿÿÿ
-|squid:UselessImportCheck:"XRemove this unused import 'com.sun.corba.se.impl.transport.SocketOrChannelAcceptorImpl'.(•†µÜ
-nsquid:UselessImportCheck)"ERemove this unused import 'com.sun.corba.se.pept.transport.Selector'.(Ïë§âÿÿÿÿÿ
-bsquid:UselessImportCheck.">Remove this unused import 'com.sun.corba.se.spi.ior.ObjectId'.(”ŠóÚ
-Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-psquid:UselessImportCheck-"GRemove this unused import 'com.sun.corba.se.spi.ior.ObjectKeyTemplate'.(·ÛûÀþÿÿÿÿ
-wsquid:UselessImportCheck3"SRemove this unused import 'com.sun.corba.se.spi.transport.SocketOrChannelAcceptor'.(ëšã‰
-wsquid:UselessImportCheck6"NRemove this unused import 'com.sun.corba.se.impl.encoding.EncapsOutputStream'.(ùûÞ‰øÿÿÿÿ
-zsquid:UselessImportCheck0"QRemove this unused import 'com.sun.corba.se.spi.transport.CorbaTransportManager'.(Šø‘ðþÿÿÿÿ
-Ysquid:UselessImportCheck""5Remove this unused import 'org.omg.CORBA.INITIALIZE'.(ÅË‘‡
-tsquid:UselessImportCheck'"KRemove this unused import 'com.sun.corba.se.pept.transport.ByteBufferPool'.(Å¡«÷üÿÿÿÿ
-qsquid:UselessImportCheck("HRemove this unused import 'com.sun.corba.se.pept.transport.ContactInfo'.(é¯ªÓúÿÿÿÿ

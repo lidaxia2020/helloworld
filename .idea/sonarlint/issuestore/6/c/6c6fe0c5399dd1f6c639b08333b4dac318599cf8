@@ -1,9 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-jsquid:S00101b"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÜĞÏÿÿÿÿÿ
-csquid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(úƒ©ªûÿÿÿÿ
-dsquid:S00112‡"FDefine and throw a dedicated exception instead of using a generic one.(Ïáó„øÿÿÿÿ
-6squid:S2129"Remove this "Long" constructor(ø¡û
-Usquid:CallToDeprecatedMethod",Remove this use of "Long"; it is deprecated.(ø¡û
-=squid:S2129„" Remove this "Double" constructor(ä©ùøÿÿÿÿ
-\squid:CallToDeprecatedMethod„".Remove this use of "Double"; it is deprecated.(ä©ùøÿÿÿÿ

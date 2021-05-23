@@ -1,37 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŞÄÿá
-psquid:S1192Ó"SDefine a constant instead of duplicating this literal "makeResponsePacket" 3 times.(¾ŠĞúÿÿÿÿÿ
-dsquid:S1192Í"GDefine a constant instead of duplicating this literal " with " 4 times.(â óŠúÿÿÿÿ
-hsquid:S1192Ì"KDefine a constant instead of duplicating this literal "sender is " 4 times.(¿”÷æøÿÿÿÿ
-fsquid:S1192Ì"IDefine a constant instead of duplicating this literal "checkAcl" 4 times.(¿”÷æøÿÿÿÿ
-msquid:S1192ı"PDefine a constant instead of duplicating this literal "an error occurs" 3 times.(¹øåÆúÿÿÿÿ
-rsquid:S1192š"UDefine a constant instead of duplicating this literal "makeResponseMessage" 10 times.(±ÒÄ¯üÿÿÿÿ
-osquid:S1192à"RDefine a constant instead of duplicating this literal "reduceResponsePdu" 3 times.(ı¨äåıÿÿÿÿ
-csquid:S1192‘"FDefine a constant instead of duplicating this literal "doRun" 6 times.(­úÑ§şÿÿÿÿ
-Rsquid:S1141Ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-_squid:S00107i"BConstructor has 11 parameters, which is greater than 7 authorized.(Ï¸ÆËûÿÿÿÿ
-isquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯„Ùe
-osquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÎÁÂùÿÿÿÿ
-jsquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚È«Û
-osquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÁÛùÿÿÿÿ
-isquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†‹
-Vsquid:S1155£">Use isEmpty() to check whether the collection is empty or not.(ÇùäÂ
-rsquid:S00115®	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠñÃj
-|squid:S1149M"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„šŸ¯
-rsquid:S1149U"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ëéøÖüÿÿÿÿ
-squid:S1149k"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(çÙİ»ÿÿÿÿÿ
-osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(òµ§™øÿÿÿÿ
-jsquid:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ü¤Çû
-osquid:S3776†"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(²•ô“ûÿÿÿÿ
-jsquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ı‰²Á
-V"squid:SwitchLastCaseIsDefaultCheck«""Add a default case to this switch.(å“×ñşÿÿÿÿ
-osquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ğ§µâùÿÿÿÿ
-psquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ªô•k
-jsquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÏÛ°¼
-Asquid:S1125€")Remove the literal "false" boolean value.(ãµÉ•
-vsquid:S3012ƒ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(è‡º˜ûÿÿÿÿ
-jsquid:ModifiersOrderCheck®	"EReorder the modifiers to comply with the Java Language Specification.(ŠñÃj
-Csquid:S1481æ"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ
-bsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(Ô±¼‚
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯çÔÒûÿÿÿÿ
-csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(Ø‹ÊÇ

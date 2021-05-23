@@ -1,20 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÃÂµ
-jsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öìÓ
-jsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
-osquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…öäıÿÿÿÿ
-isquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÊÜB
-jsquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Õ“«
-jsquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¬Àò
-@squid:S1148ê"#Use a logger to log this exception.(•«¶ªûÿÿÿÿ
-msquid:S00116z"URename this field "name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÆÒœ
-usquid:S00116}"XRename this field "constant_pool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉªçÖşÿÿÿÿ
-Ksquid:S1948}"/Make "constant_pool" transient or serializable.(ÉªçÖşÿÿÿÿ
-lsquid:S3038’"O"accept" is defined in the "Node" interface and can be removed from this class.(Âö¤›úÿÿÿÿ
-`squid:CallToDeprecatedMethod±"7Remove this use of "AttributeReader"; it is deprecated.(†æá
-Â%squid:RedundantThrowsDeclarationCheckÑ"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(éõÕ—ıÿÿÿÿ
-Csquid:S1905Ú"&Remove this unnecessary cast to "int".(äâ¶Ÿÿÿÿÿÿ
-`squid:CallToDeprecatedMethodí"7Remove this use of "AttributeReader"; it is deprecated.(Ò„¥İ
-`squid:CallToDeprecatedMethodí"7Remove this use of "AttributeReader"; it is deprecated.(Ò„¥İ
-ksquid:S2975ä"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ

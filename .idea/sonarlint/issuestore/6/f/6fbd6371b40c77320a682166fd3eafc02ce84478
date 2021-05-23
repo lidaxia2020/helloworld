@@ -1,35 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡Ó²íùÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÑ".Extract the assignment out of this expression.(Œ£ƒÌ
-_$squid:AssignmentInSubExpressionCheck†".Extract the assignment out of this expression.(Ÿ»Èİ
-_$squid:AssignmentInSubExpressionCheck‘".Extract the assignment out of this expression.(‘õšğ
-€"squid:ClassVariableVisibilityCheck,"RMake bufpos a static final constant or non-public and provide accessors if needed.(âëË
-jsquid:S00101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙôÏûÿÿÿÿ
-csquid:S00112e"FDefine and throw a dedicated exception instead of using a generic one.(½¾‡Ïùÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
-rsquid:S00115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷İÕ·
-Osquid:S1197-"8Move the array designator from the variable to the type.(¯İ±Ê
-Osquid:S1197."8Move the array designator from the variable to the type.(ºŒˆ
-fsquid:S00100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á­ëÓ
-Tsquid:S1197?"8Move the array designator from the variable to the type.(œˆãÃşÿÿÿÿ
-Tsquid:S1197@"8Move the array designator from the variable to the type.(•ŒÎ¨ıÿÿÿÿ
-<squid:S1181c"%Catch Exception instead of Throwable.(Ñ´¯
-3squid:S3626"Remove this redundant jump.(ûÁİ…
-nsquid:S3776n"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ËºÈŒüÿÿÿÿ
-ksquid:S00100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËºÈŒüÿÿÿÿ
-gsquid:S00100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÇœÍ
-lsquid:S00100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ËÃŠÿÿÿÿÿ
-Rsquid:S1133ä"5Do not forget to remove this deprecated code someday.(‡¤Ø‹øÿÿÿÿ
-Rsquid:S1133ï"5Do not forget to remove this deprecated code someday.(¿ÑÅ÷ûÿÿÿÿ
-gsquid:S00100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•–“ß
-gsquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•–“ß
-Nsquid:S1172µ"1Remove this unused method parameter "buffersize".(ÅñúÇÿÿÿÿÿ
-gsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿşóÜ
-Nsquid:S1172Á"1Remove this unused method parameter "buffersize".(ÅñúÇÿÿÿÿÿ
-gsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿşóÜ
-lsquid:S00100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ²êãşÿÿÿÿ
-lsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óù úÿÿÿÿ
-lsquid:S00100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÿÃûÿÿÿÿ
-<squid:S1659ı"Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ
-<squid:S1659ı"Declare "k" on a separate line.(ãäÚ‘üÿÿÿÿ
-Esquid:S1659ş"(Declare "columnDiff" on a separate line.(ÙşÙúÿÿÿÿ

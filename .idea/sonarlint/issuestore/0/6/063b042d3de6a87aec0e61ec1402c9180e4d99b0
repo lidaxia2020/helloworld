@@ -1,17 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-lsquid:S1192£"ODefine a constant instead of duplicating this literal "INDEX_SIZE_ERR" 4 times.(‹ú·üıÿÿÿÿ
-ysquid:S1192’"\Define a constant instead of duplicating this literal "NO_MODIFICATION_ALLOWED_ERR" 5 times.(Ñ°°ßşÿÿÿÿ
-zsquid:S4144Ç"]Update this method so that its implementation is not identical to "getNodeValue" on line 113.(ƒà¡ şÿÿÿÿ
-Qsquid:S1161g":Add the "@Override" annotation above this method signature(¾éåÕ
-Vsquid:S1161q":Add the "@Override" annotation above this method signature(™ãÒñÿÿÿÿÿ
-Rsquid:S1161¯":Add the "@Override" annotation above this method signature(Åçš
-Rsquid:S1161Õ":Add the "@Override" annotation above this method signature(èïÊ’
-š%squid:RedundantThrowsDeclarationCheckŠ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck™"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÊ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÛ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheck—"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÁ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckİ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(„öÚùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

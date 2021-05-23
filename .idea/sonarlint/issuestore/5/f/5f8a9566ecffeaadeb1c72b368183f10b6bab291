@@ -1,28 +1,0 @@
-
-4squid:S1643‘"Use a StringBuilder instead.(èŸö
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(©÷Éêúÿÿÿÿ
-jsquid:S00101U"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ó­¼Èúÿÿÿÿ
-}squid:UselessImportCheck!"TRemove this unnecessary import: same package classes are always implicitly imported.(‹±®Íıÿÿÿÿ
-}squid:UselessImportCheck""TRemove this unnecessary import: same package classes are always implicitly imported.(ÿœœÑşÿÿÿÿ
-isquid:S3776c"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›ß£º
-jsquid:ModifiersOrderCheckc"EReorder the modifiers to comply with the Java Language Specification.(›ß£º
-O
-squid:S106k"9Replace this use of System.out or System.err by a logger.(õ–ª˜
-9squid:S1181¢"!Catch Exception instead of Error.(Œå³Û
-O
-squid:S106z"9Replace this use of System.out or System.err by a logger.(Àœ†÷
-O
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(°•Ş
-P
-squid:S106“"9Replace this use of System.out or System.err by a logger.(¥óŸ
-P
-squid:S106—"9Replace this use of System.out or System.err by a logger.(ëÂßŒ
-P
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(£™â¤
-P
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(…½şû
-U
-squid:S106 "9Replace this use of System.out or System.err by a logger.(”şŞæùÿÿÿÿ
-P
-squid:S106¤"9Replace this use of System.out or System.err by a logger.( ’®§
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

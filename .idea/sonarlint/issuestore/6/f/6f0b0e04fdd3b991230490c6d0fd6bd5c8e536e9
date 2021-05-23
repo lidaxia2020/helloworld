@@ -1,28 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
-lsquid:S1192˜"ODefine a constant instead of duplicating this literal "Input not set!" 4 times.(–¼¨·üÿÿÿÿ
-@squid:S1148õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-;squid:S1659l"$Declare "height" on a separate line.(‘Æ¬•
-<squid:S1659o"%Declare "streamY" on a separate line.(éŸ´õ
-vsquid:S1149€"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤ÊÉ
-Rsquid:S1161„":Add the "@Override" annotation above this method signature(­°§é
-Wsquid:S1161¤":Add the "@Override" annotation above this method signature(íóÕúÿÿÿÿ
-]squid:HiddenFieldCheckš":Rename "width" which hides the field declared at line 108.(ƒ¦µ´
-jsquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ü‚˜ö
-osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(…ÂÅ´øÿÿÿÿ
-Qsquid:S1854À"9Remove this useless assignment to local variable "label".(ÉÔØ³
-6squid:S2129ë"Remove this "Long" constructor(ë…ª
-Usquid:CallToDeprecatedMethodë",Remove this use of "Long"; it is deprecated.(ë…ª
-osquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¶“®úÿÿÿÿ
-Tsquid:S1854º"=Remove this useless assignment to local variable "gceLength".(Œô”$
-Vsquid:S1854Ç">Remove this useless assignment to local variable "terminator".(‹Öøú
-Rsquid:S1854É":Remove this useless assignment to local variable "length".(ø¹™
-Hsquid:S1172§"+Remove this unused method parameter "pass".(“ıÑƒıÿÿÿÿ
-osquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¨É×úÿÿÿÿ
-=squid:S1659©"%Declare "oldCode" on a separate line.(¦¶… 
-Rsquid:S1161":Add the "@Override" annotation above this method signature(¡ÀØ”
-Bsquid:S1481À"*Remove this unused "label" local variable.(ÉÔØ³
-Esquid:S1481º".Remove this unused "gceLength" local variable.(Œô”$
-Gsquid:S1481Ç"/Remove this unused "terminator" local variable.(‹Öøú
-Csquid:S1481É"+Remove this unused "length" local variable.(ø¹™
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•úÕ»

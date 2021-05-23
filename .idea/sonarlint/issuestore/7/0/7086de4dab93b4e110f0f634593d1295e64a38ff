@@ -1,14 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
-Vsquid:S1118-":Add a private constructor to hide the implicit public one.(Ïá¦…øÿÿÿÿ
-xsquid:S00115­"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùÐê³øÿÿÿÿ
-xsquid:S00115®"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Áºï·ÿÿÿÿÿ
-xsquid:S00115³"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ™”¹üÿÿÿÿ
-ssquid:S00115µ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯¸Äý
-xsquid:S00115·"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛÏß»øÿÿÿÿ
-xsquid:S00115¹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òý»Îùÿÿÿÿ
-ssquid:S00115À"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß«Ð€
-xsquid:S00115Ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´ˆ°Ðúÿÿÿÿ
-ksquid:S3008ß"NRename this field "YCC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áàöýþÿÿÿÿ
-Wsquid:S1118Û":Add a private constructor to hide the implicit public one.(¾åúòþÿÿÿÿ
-P"squid:SwitchLastCaseIsDefaultCheckÂ""Add a default case to this switch.(¥Ð¨M

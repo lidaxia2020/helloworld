@@ -1,20 +1,0 @@
-
-Msquid:S1191Â"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
-tsquid:S1192•"\Define a constant instead of duplicating this literal "Maximum lock count exceeded" 4 times.(‡Êà–
-gsquid:S1192â"JDefine a constant instead of duplicating this literal "not owner" 3 times.(¶¼‰õûÿÿÿÿ
-_squid:S00112•"FDefine and throw a dedicated exception instead of using a generic one.(‡Êà–
-_squid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(‡Êà–
-_squid:S00112Å"FDefine and throw a dedicated exception instead of using a generic one.(‡Êà–
-_squid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(‡Êà–
-_squid:S00112Ë"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-Rsquid:S1161ÿ":Add the "@Override" annotation above this method signature(š´™ù
-Wsquid:S1161ò":Add the "@Override" annotation above this method signature(ÊÇ¼…üÿÿÿÿ
-Qsquid:S1161ı":Add the "@Override" annotation above this method signature(•Ü)
-jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ÿ‘ê»
-Rsquid:S1161¡":Add the "@Override" annotation above this method signature(Ÿ‘ê»
-Wsquid:S1161Å":Add the "@Override" annotation above this method signature(®ñ›úıÿÿÿÿ
-jsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Èßù¯
-jsquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(«¿¿ø
-Rsquid:S1161ò":Add the "@Override" annotation above this method signature(¯şš×
-csquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(æ´®´
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æ´®´

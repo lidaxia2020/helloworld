@@ -1,14 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(Ó¢¸ìûÿÿÿÿ
-jsquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñİñÅ
-jsquid:S00117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌàÂ
-wsquid:S00115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç“¬Íûÿÿÿÿ
-wsquid:S00115>"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®ªËûşÿÿÿÿ
-wsquid:S00115A"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úŒªşÿÿÿÿ
-rsquid:S00115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÂÕ©´
-rsquid:S00115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Áüî
-rsquid:S00115J"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼˜ÇÎ
-wsquid:S00115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç‡Ô¸üÿÿÿÿ
-Xsquid:S10758"ARefactor your code to get this URI from a customizable parameter.(ºØî
-Osquid:S1135¹"2Complete the task associated to this TODO comment.(¾ØíÉüÿÿÿÿ
-Osquid:S1135½"2Complete the task associated to this TODO comment.(é·åÇÿÿÿÿÿ

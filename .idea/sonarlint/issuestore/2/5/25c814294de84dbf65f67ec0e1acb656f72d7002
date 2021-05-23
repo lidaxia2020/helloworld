@@ -1,48 +1,0 @@
-
-Lsquid:S1191("5Use classes from the Java API instead of Sun classes.(¼¸Ñá
-hsquid:S1192Ô"PDefine a constant instead of duplicating this literal "application/xml" 6 times.(Çúæ·
-osquid:S1192Š	"RDefine a constant instead of duplicating this literal "Already connected" 9 times.(ë¯Õªıÿÿÿÿ
-Lsquid:S1066Ú"/Merge this if statement with the enclosing one.(ñÉáıÿÿÿÿ
-Gsquid:S1066á"/Merge this if statement with the enclosing one.(ä¡É
-Gsquid:S1066è"/Merge this if statement with the enclosing one.(¥ß„“
-Gsquid:S1066ğ"/Merge this if statement with the enclosing one.( ½û
-Lsquid:S1066ø"/Merge this if statement with the enclosing one.(ğ°í¶øÿÿÿÿ
-Gsquid:S1066¶"/Merge this if statement with the enclosing one.(ÖÇİ–
-wsquid:S1488»"_Immediately return this expression instead of assigning it to the temporary variable "handler".(åŒùÇ
-Rsquid:S1141±"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Qsquid:S4973ğ"9Use the "equals" method if value comparison was intended.(ñ›òà
-dsquid:S00112Ë"FDefine and throw a dedicated exception instead of using a generic one.(øÎ¡Õıÿÿÿÿ
-osquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÜêşÿÿÿÿ
-osquid:S00117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸á«áşÿÿÿÿ
-osquid:S00117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÖÊ¿ıÿÿÿÿ
-@squid:S1148ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-ssquid:S00115Œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔóÑ’
-ssquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏĞ½–
-ssquid:S1149Ô"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(§ÇÉ‰úÿÿÿÿ
-fsquid:S2886Í"ISynchronize this method to match the synchronization on "getFileNameMap".(ú¨—èüÿÿÿÿ
-ksquid:ModifiersOrderCheckô"EReorder the modifiers to comply with the Java Language Specification.(ÜÃñö
-Gsquid:S00108¸")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
-Gsquid:S00108Õ")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
-[squid:CallToDeprecatedMethodó"-Remove this use of "parse"; it is deprecated.(¼ğşÑûÿÿÿÿ
-Gsquid:S00108ô")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
-Nsquid:S2696ş
-"6Make the enclosing method "static" or remove this set.(‡®»³
-Msquid:S1133‰"5Do not forget to remove this deprecated code someday.(œƒ†÷
-Rsquid:S1133¡"5Do not forget to remove this deprecated code someday.(ÎÎŸôúÿÿÿÿ
-Bsquid:S00108ç")Either remove or fill this block of code.(”ı¾
-\squid:CallToDeprecatedMethod»"3Remove this use of "newInstance"; it is deprecated.(åŒùÇ
-Bsquid:S00108¾")Either remove or fill this block of code.(”ı¾
-Psquid:S1197Ñ"8Move the array designator from the variable to the type.(šÄøŞ
-osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(æÆö·øÿÿÿÿ
-psquid:ModifiersOrderCheck¦"EReorder the modifiers to comply with the Java Language Specification.(æÆö·øÿÿÿÿ
-Ksquid:UselessParenthesesCheckÊ"!Remove these useless parentheses.(’åÖÌ
-Ksquid:UselessParenthesesCheckÍ"!Remove these useless parentheses.(èæï’
-jsquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(£†±±
-Psquid:S1854Â"8Remove this useless assignment to local variable "posn".(—²¥×
-ksquid:ModifiersOrderCheckÙ"EReorder the modifiers to comply with the Java Language Specification.(£†±±
-Usquid:S1197"8Move the array designator from the variable to the type.(åÏˆØúÿÿÿÿ
-ksquid:S1871„"NThis branch's code block is the same as the block for the branch on line 2170.(¦Ãÿÿÿÿÿ
-ksquid:ModifiersOrderCheck’"EReorder the modifiers to comply with the Java Language Specification.(¡â–è
-Psquid:S1197’"8Move the array designator from the variable to the type.(¡â–è
-Psquid:S1197•"8Move the array designator from the variable to the type.(ĞêíÌ
-ksquid:ModifiersOrderCheckª"EReorder the modifiers to comply with the Java Language Specification.(Ç´‚é

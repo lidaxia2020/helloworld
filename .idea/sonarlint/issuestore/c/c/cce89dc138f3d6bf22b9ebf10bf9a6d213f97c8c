@@ -1,36 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-esquid:S1192}"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(ì‚¹Šşÿÿÿÿ
-fsquid:S1192}"JDefine a constant instead of duplicating this literal "dummy.xsl" 3 times.(ì‚¹Šşÿÿÿÿ
-Jsquid:S1199ú"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199²"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Ã"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Ï"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Ø"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199ê"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199°"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-u
-squid:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(İÃÆÅùÿÿÿÿ
-u
-squid:S135£"YReduce the total number of break and continue statements in this loop to use at most one.(İÃÆÅùÿÿÿÿ
-Xsquid:S2259Ê"@A "NullPointerException" could be thrown; "lh" is nullable here.(Ò’¶
-Wsquid:S2259Ò"@A "NullPointerException" could be thrown; "lh" is nullable here.(”Í¬7
-xsquid:S00116C"[Rename this field "m_contentHandler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®›–Íşÿÿÿÿ
-lsquid:S00116I"ORename this field "m_dh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸôÓ†ıÿÿÿÿ
-lsquid:S00116L"TRename this field "m_locator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÙöª
-Bsquid:S2440°"*Remove this instantiation of "DOM2Helper".(Èè×·
-osquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ñ„°Ïùÿÿÿÿ
-jsquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(©èüè
-jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÌœÓ¤
-^squid:S3027"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ù£Úª
-^squid:S3027¦"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(Ù£Úª
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(áâìé
-hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(Ö¤òÆıÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œºû©
-hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(³¥òäıÿÿÿÿ
-hsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(³¥òäıÿÿÿÿ
-hsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(Ÿî¦ÿüÿÿÿÿ
-hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(¬ù¼ıÿÿÿÿ
-csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(§õëë
-csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(¡ŞÕ•

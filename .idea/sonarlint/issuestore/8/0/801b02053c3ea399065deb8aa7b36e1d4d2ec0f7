@@ -1,20 +1,0 @@
-
-Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(°ä€–
-qsquid:S1192É"TDefine a constant instead of duplicating this literal "Register Resolver: " 4 times.(Æ÷Ò´üÿÿÿÿ
-tsquid:S1192û"\Define a constant instead of duplicating this literal "algorithm.classDoesNotExist" 3 times.(¯õĞÈ
-bsquid:S1192ó"JDefine a constant instead of duplicating this literal "JAVACLASS" 5 times.(í‘êí
-Rsquid:S1141ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141¯"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-@squid:S1148½"#Use a logger to log this exception.(­·×Âøÿÿÿÿ
-@squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-Vsquid:S1118G":Add a private constructor to hide the implicit public one.(¶‰Üııÿÿÿÿ
-jsquid:ModifiersOrderCheck["EReorder the modifiers to comply with the Java Language Specification.(ßãí´
-psquid:S3776Æ"SRefactor this method to reduce its Cognitive Complexity from 126 to the 15 allowed.(—ÂÔüøÿÿÿÿ
-Psquid:S1197ú"8Move the array designator from the variable to the type.(®¤ ƒ
-Psquid:S1197"8Move the array designator from the variable to the type.(®¤ ƒ
-Jsquid:S1135­"2Complete the task associated to this TODO comment.(­­íÌ
-Psquid:S1197¶"8Move the array designator from the variable to the type.(®¤ ƒ
-Bsquid:S1181Ô"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
-qsquid:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Äç™

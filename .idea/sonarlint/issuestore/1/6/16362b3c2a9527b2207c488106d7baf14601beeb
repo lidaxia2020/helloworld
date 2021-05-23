@@ -1,26 +1,0 @@
-
-Rsquid:S1191…"5Use classes from the Java API instead of Sun classes.(‡ç´õùÿÿÿÿ
-Rsquid:S1141¨"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141¬"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141¸"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Ysquid:S2259™"AA "NullPointerException" could be thrown; "cfs" is nullable here.(âù¡¢
-[squid:S2259·"CA "NullPointerException" could be thrown; "certs" is nullable here.(™Âš£
-;squid:S1148Ë"#Use a logger to log this exception.(…œœŠ
-@squid:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-ssquid:S1149…"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°ò€îûÿÿÿÿ
-Psquid:S1197«"8Move the array designator from the variable to the type.(è¬–ù
-osquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ëÔí¯úÿÿÿÿ
-Usquid:S1197Å"8Move the array designator from the variable to the type.(şîàøÿÿÿÿ
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(øäÁÁ
-Psquid:S1197"8Move the array designator from the variable to the type.(øäÁÁ
-2squid:S3878ª"Remove this array creation.(²Èı
-Psquid:S3878¯"8Remove this array creation and simply pass the elements.(ˆä‡—
-Usquid:S3878³"8Remove this array creation and simply pass the elements.(Ì»ì½ûÿÿÿÿ
-Psquid:S3878»"8Remove this array creation and simply pass the elements.(ˆä‡—
-Usquid:S3878¿"8Remove this array creation and simply pass the elements.(Ì»ì½ûÿÿÿÿ
-Usquid:S3878Ä"8Remove this array creation and simply pass the elements.(Ì»ì½ûÿÿÿÿ
-jsquid:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÜÑã
-<squid:S1659§"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
-Rsquid:S1161»":Add the "@Override" annotation above this method signature(Á»›ê
-Wsquid:S1161Ë":Add the "@Override" annotation above this method signature(‘¹ÿÖşÿÿÿÿ
-qsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(±„ç

@@ -1,12 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(½ßÙÍ
-|squid:S1149£"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆÄĞ³üÿÿÿÿ
-/squid:S2176…"Rename this class.(Ü¶¿Ûıÿÿÿÿ
-|squid:S1149£"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆÄĞ³üÿÿÿÿ
-osquid:S3252”"XUse static access with "com.sun.org.apache.xerces.internal.impl.xpath.XPath" for "Axis".(ó•˜
-Rsquid:S1161â":Add the "@Override" annotation above this method signature(É§
-Wsquid:S1161õ":Add the "@Override" annotation above this method signature(“º…şÿÿÿÿ
-Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(¸¯ô×
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(²„Ñ‘
-csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(ŞàŒé

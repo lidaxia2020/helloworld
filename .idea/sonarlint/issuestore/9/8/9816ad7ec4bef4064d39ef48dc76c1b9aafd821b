@@ -1,20 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ğÔñ¯ıÿÿÿÿ
-isquid:S1192¿"LDefine a constant instead of duplicating this literal "_cp.html#cp" 3 times.(îñ§ üÿÿÿÿ
-`squid:S1192Õ"HDefine a constant instead of duplicating this literal "</UL>\n" 3 times.(ı×ìÛ
-lsquid:S1192t"PDefine a constant instead of duplicating this literal "_code.html#code" 3 times.(¶ÑÌğûÿÿÿÿ
-lsquid:S1192u"PDefine a constant instead of duplicating this literal "\" TARGET=Code>" 3 times.(ê£°üÿÿÿÿ
-gsquid:S1192t"KDefine a constant instead of duplicating this literal "<A HREF=\"" 3 times.(¶ÑÌğûÿÿÿÿ
-isquid:S00117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùæş£
-isquid:S00117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùæş£
-nsquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğµë€şÿÿÿÿ
-isquid:S00117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ºªÁ
-osquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò§˜úÿÿÿÿ
-osquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºŠÀıÿÿÿÿ
-osquid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¨¾Şúÿÿÿÿ
-rsquid:S00116b"URename this field "class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À°¤üÿÿÿÿÿ
-rsquid:S00116d"URename this field "attr_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šô¬¬ıÿÿÿÿ
-osquid:S00116e"XRename this field "constant_html" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÂû}
-usquid:S00116f"XRename this field "constant_pool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıéì¼øÿÿÿÿ
-osquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ò§˜úÿÿÿÿ
-;squid:S1659†"$Declare "access" on a separate line.(µ÷µI

@@ -1,47 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ıäÌİûÿÿÿÿ
-?squid:S1604V"(Make this anonymous inner class a lambda(°ûº
-dsquid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(Ó€é×ÿÿÿÿÿ
-dsquid:S00112¦"FDefine and throw a dedicated exception instead of using a generic one.(ø«Áüÿÿÿÿ
-_squid:S00112Ú"FDefine and throw a dedicated exception instead of using a generic one.(¶ÔÒÏ
-_squid:S00112”"FDefine and throw a dedicated exception instead of using a generic one.(¶ÔÒÏ
-_squid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(¶ÔÒÏ
-jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×“æª
-osquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶·Ë˜ûÿÿÿÿ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»±àö
-jsquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’»ğÊ
-rsquid:S1450„"ZRemove the "utilWrapper" field and declare it as a local variable in the relevant methods.(ÉãìŠ
-rsquid:S00115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ô‹íÈ
-wsquid:S00115x"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ê™³Çûÿÿÿÿ
-qsquid:S00115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆå©Z
-rsquid:S1149{"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¬Ë¦øÿÿÿÿ
-msquid:S1149|"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(şÄÊŞ
-9squid:S2129—"!Remove this "Integer" constructor(è… Ã
-Xsquid:CallToDeprecatedMethod—"/Remove this use of "Integer"; it is deprecated.(è… Ã
-jsquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ü»Ç´
-gsquid:S00100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü»Ç´
-Usquid:S1854¼"=Remove this useless assignment to local variable "className".(ñÍ·‚
-<squid:S1659ş"$Declare "length" on a separate line.(çš·İ
-Q"squid:SwitchLastCaseIsDefaultCheckÍ""Add a default case to this switch.(ÒÌ
-jsquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(©¦ÄÈ
-gsquid:S00100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¦ÄÈ
-Dsquid:S1172ğ"-Remove this unused method parameter "sender".(ìõì^
-Gsquid:S1905‡"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Gsquid:S1905‹"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Gsquid:S1905"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Gsquid:S1905“"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Gsquid:S1905—"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Gsquid:S1905›"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Gsquid:S1905Ÿ"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Gsquid:S1905£"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Gsquid:S1905È"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-jsquid:S1871ä"MThis branch's code block is the same as the block for the branch on line 732.(×–çûÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck†""Add a default case to this switch.(ÒÌ
-Gsquid:S1905¬"/Remove this unnecessary cast to "Serializable".(é†ªÑ
-Qsquid:S3400¼"9Remove this method and declare a constant for this value.(ë€¿¼
-Vsquid:S3400ö"9Remove this method and declare a constant for this value.(®‘Û¡ÿÿÿÿÿ
-\squid:CallToDeprecatedMethodÄ"3Remove this use of "newInstance"; it is deprecated.(Áî³õ
-Fsquid:S1481¼".Remove this unused "className" local variable.(ñÍ·‚
-Msquid:S1068"1Remove this unused "isInputStream" private field.(İ€˜áÿÿÿÿÿ
-csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(¼ÎŠÀ
-csquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(¿òØü

@@ -1,19 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
-bsquid:S1192<"KDefine a constant instead of duplicating this literal "app14Adobe" 5 times.(Âó¢à
-fsquid:S11928"JDefine a constant instead of duplicating this literal "app0JFIF" 11 times.(ŒÀ€ÿÿÿÿÿ
-bsquid:S1192e"FDefine a constant instead of duplicating this literal "65535" 6 times.(ˆÀ‘Éüÿÿÿÿ
-ksquid:S1192Ï"NDefine a constant instead of duplicating this literal "componentSpec" 5 times.(Ú¡Õýÿÿÿÿ
-ksquid:S11924"ODefine a constant instead of duplicating this literal "markerSequence" 7 times.(Š¯¶ªøÿÿÿÿ
-hsquid:S1192v"LDefine a constant instead of duplicating this literal "thumbHeight" 3 times.(×¿Ã­þÿÿÿÿ
-hsquid:S1192~"QDefine a constant instead of duplicating this literal "JFIFthumbPalette" 3 times.(í‰Ùâ
-isquid:S1192"MDefine a constant instead of duplicating this literal "JFIFthumbRGB" 3 times.(â¡áõûÿÿÿÿ
-esquid:S1192D"IDefine a constant instead of duplicating this literal "app0JFXX" 5 times.( û–¾øÿÿÿÿ
-csquid:S11920"LDefine a constant instead of duplicating this literal "JPEGvariety" 3 times.(‰™£ì
-gsquid:S1192o"KDefine a constant instead of duplicating this literal "thumbWidth" 3 times.(ŠíÔ±üÿÿÿÿ
-jsquid:S1192›"RDefine a constant instead of duplicating this literal "scanComponentSpec" 4 times.(‹Ïè°
-_squid:UselessImportCheck""6Remove this unused import 'java.awt.color.ColorSpace'.(­ âåùÿÿÿÿ
-msquid:UselessImportCheck"IRemove this unused import 'javax.imageio.metadata.IIOMetadataFormatImpl'.(¥Ï”ï
-_squid:UselessImportCheck#"6Remove this unused import 'java.awt.image.ColorModel'.(ïˆÏÍþÿÿÿÿ
-Rsquid:S1161Õ":Add the "@Override" annotation above this method signature(„Ë˜â
-^squid:S1126à"AReplace this if-then-else statement by a single return statement.(§¸öÖùÿÿÿÿ

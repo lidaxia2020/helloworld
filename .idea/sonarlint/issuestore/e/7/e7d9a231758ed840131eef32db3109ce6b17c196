@@ -1,10 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-Dsquid:S1172K"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
-Vsquid:S1161[":Add the "@Override" annotation above this method signature(„¦¡öûÿÿÿÿ
-Esquid:S1172z".Remove this unused method parameter "bgColor".(¿¯Ú
-Esquid:S1125š"(Remove the literal "true" boolean value.(êÂÕØøÿÿÿÿ
-Nsquid:S1172¥"1Remove this unused method parameter "menuItemUI".(¡®”Šşÿÿÿÿ
-Csquid:S1172°"&Remove these unused method parameters.(•í‘™şÿÿÿÿ
-Jsquid:S1135µ"2Complete the task associated to this TODO comment.(ÎşÒÎ
-Jsquid:S1135¹"2Complete the task associated to this TODO comment.(©ú¶‰

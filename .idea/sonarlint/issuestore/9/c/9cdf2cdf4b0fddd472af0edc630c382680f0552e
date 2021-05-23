@@ -1,38 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ÿò“µşÿÿÿÿ
-msquid:S1192˜"UUse already-defined constant 'MAX_OCCUR_LIMIT' instead of duplicating its value here.(ÙÑëÈ
-tsquid:S1192„"\Use already-defined constant 'ENTITY_EXPANSION_LIMIT' instead of duplicating its value here.(×ÈËö
-zsquid:S1192"]Use already-defined constant 'ELEMENT_ATTRIBUTE_LIMIT' instead of duplicating its value here.(«ï€Öüÿÿÿÿ
-psquid:ModifiersOrderCheck“"EReorder the modifiers to comply with the Java Language Specification.(Íğ¥¨şÿÿÿÿ
-psquid:ModifiersOrderCheck•"EReorder the modifiers to comply with the Java Language Specification.(íŸ‚Ìúÿÿÿÿ
-ksquid:ModifiersOrderCheckË"EReorder the modifiers to comply with the Java Language Specification.(ÙûÑ«
-psquid:ModifiersOrderCheckÎ"EReorder the modifiers to comply with the Java Language Specification.(ºÕ¬…üÿÿÿÿ
-ksquid:ModifiersOrderCheckØ"EReorder the modifiers to comply with the Java Language Specification.(‡»¢ò
-ksquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(ˆ»µë
-ksquid:ModifiersOrderCheckù"EReorder the modifiers to comply with the Java Language Specification.(â’™
-ksquid:ModifiersOrderCheck†"EReorder the modifiers to comply with the Java Language Specification.(‚ê«
-ksquid:ModifiersOrderCheck“"EReorder the modifiers to comply with the Java Language Specification.(åÙ’°
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(á®ğ
-psquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(Ëª…æÿÿÿÿÿ
-psquid:ModifiersOrderCheck¡"EReorder the modifiers to comply with the Java Language Specification.(Î´â™ıÿÿÿÿ
-ksquid:ModifiersOrderCheck¢"EReorder the modifiers to comply with the Java Language Specification.(«ÿä´
-ksquid:ModifiersOrderCheck§"EReorder the modifiers to comply with the Java Language Specification.(Œù¥ƒ
-ksquid:ModifiersOrderCheck­"EReorder the modifiers to comply with the Java Language Specification.(²• 
-psquid:ModifiersOrderCheck®"EReorder the modifiers to comply with the Java Language Specification.(ß•ªÑüÿÿÿÿ
-ksquid:ModifiersOrderCheck¯"EReorder the modifiers to comply with the Java Language Specification.(ÜÑËê
-Usquid:S1197½"8Move the array designator from the variable to the type.(„ß¾•üÿÿÿÿ
-^squid:S1126¾"AReplace this if-then-else statement by a single return statement.(¦¶Ìïøÿÿÿÿ
-Csquid:S1150Ó"+Implement Iterator rather than Enumeration.(Õ³í
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(øù¡©
-U
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-P
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(×•œ²
-P
-squid:S106£"9Replace this use of System.out or System.err by a logger.(¡×«ù
-U
-squid:S106¤"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ
-P
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(’Üà¯
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

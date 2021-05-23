@@ -1,9 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-msquid:S00116A"PRename this field "_sets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ùşºşÿÿÿÿ
-squid:S1149A"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¢Ùşºşÿÿÿÿ
-osquid:ModifiersOrderCheck="EReorder the modifiers to comply with the Java Language Specification.(Ï¥Ğ¥øÿÿÿÿ
-Vsquid:S1161g":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Qsquid:S1161p":Add the "@Override" annotation above this method signature(†“‹Ø
-Rsquid:S1068="6Remove this unused "ATTR_SET_NOT_FOUND" private field.(Ï¥Ğ¥øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

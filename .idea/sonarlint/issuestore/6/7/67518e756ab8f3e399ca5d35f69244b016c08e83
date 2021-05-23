@@ -1,24 +1,0 @@
-
-Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-\squid:UselessImportCheck'"3Remove this unused import 'java.text.CollationKey'.(Ê”á…ûÿÿÿÿ
-qsquid:S00116U"TRename this field "_collator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìäï†şÿÿÿÿ
-rsquid:S00116V"URename this field "_collators" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì††üüÿÿÿÿ
-osquid:S00116a"RRename this field "_locale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª£À‰ûÿÿÿÿ
-xsquid:S00116c"[Rename this field "_collatorFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¿à€ÿÿÿÿÿ
-ksquid:S00116e"TRename this field "_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØØ¤B
-gsquid:S00116g"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ëà
-msquid:S00116h"PRename this field "_node" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á×Êáüÿÿÿÿ
-msquid:S00116i"PRename this field "_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıª¤›øÿÿÿÿ
-psquid:S00116j"SRename this field "_scanned" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÄº¿ùÿÿÿÿ
-osquid:S00116l"RRename this field "_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Áú¾úÿÿÿÿ
-Lsquid:S1133J"5Do not forget to remove this deprecated code someday.(¡„‰¬
-Osquid:MissingDeprecatedCheckJ"'Add the missing @Deprecated annotation.(¡„‰¬
-Qsquid:S1133U"5Do not forget to remove this deprecated code someday.(Ìäï†şÿÿÿÿ
-Tsquid:MissingDeprecatedCheckU"'Add the missing @Deprecated annotation.(Ìäï†şÿÿÿÿ
-Qsquid:S1133a"5Do not forget to remove this deprecated code someday.(ª£À‰ûÿÿÿÿ
-Tsquid:MissingDeprecatedChecka"'Add the missing @Deprecated annotation.(ª£À‰ûÿÿÿÿ
-\squid:CallToDeprecatedMethodè".Remove this use of "Double"; it is deprecated.(¸õÂúÿÿÿÿÿ
-8squid:S2129ì" Remove this "Double" constructor(Œ’Ä
-Wsquid:CallToDeprecatedMethodì".Remove this use of "Double"; it is deprecated.(Œ’Ä
-@squid:S1659"#Declare "level" on a separate line.(Ç©‹›úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

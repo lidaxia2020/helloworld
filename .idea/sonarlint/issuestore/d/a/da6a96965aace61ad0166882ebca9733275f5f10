@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(›Âýþ
-dsquid:UselessImportCheck&";Remove this unused import 'java.awt.image.IndexColorModel'.(­²ÇÊúÿÿÿÿ
-csquid:UselessImportCheck":Remove this unused import 'javax.imageio.spi.IIORegistry'.(¦¢ëÛùÿÿÿÿ
-_squid:UselessImportCheck%"6Remove this unused import 'java.awt.image.ColorModel'.(ïˆÏÍþÿÿÿÿ
-Ssquid:S2387,"<"readerSpiNames" is the name of a field in "ImageWriterSpi".(ÜîÝ®
-Vsquid:S1161G":Add the "@Override" annotation above this method signature(øŽ€™ÿÿÿÿÿ
-]squid:S1126T"AReplace this if-then-else statement by a single return statement.(ˆÈèùÿÿÿÿ

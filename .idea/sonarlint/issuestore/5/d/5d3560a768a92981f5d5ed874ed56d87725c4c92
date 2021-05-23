@@ -1,46 +1,0 @@
-
-Lsquid:S1066å"/Merge this if statement with the enclosing one.(Ìÿ¯Àûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckü".Extract the assignment out of this expression.(ÓÄ’·ûÿÿÿÿ
-Tsquid:S2589ñ
-"7Remove this expression which always evaluates to "true"( ³ŸŽýÿÿÿÿ
-Tsquid:S2589Ç
-"7Remove this expression which always evaluates to "true"( ³ŸŽýÿÿÿÿ
-\squid:S3358Ð"DExtract this nested ternary operation into an independent statement.(Œ¨…Å
-jsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(éáÌÑ
-vsquid:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ¸¤±ýÿÿÿÿ
-vsquid:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ¸¤±ýÿÿÿÿ
-@squid:S1185Â"(Remove this method to simply inherit it.(®”ð©
-@squid:S1185ã"(Remove this method to simply inherit it.(Á˜ââ
-@squid:S1185ù"(Remove this method to simply inherit it.(ŸÜÆ’
-Rsquid:S1161ù":Add the "@Override" annotation above this method signature(ŸÜÆ’
-]squid:HiddenFieldCheck­	":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheck·	":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheckÎ	":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheckà	":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheckí	":Rename "lock" which hides the field declared at line 1067.(º·úã
-V
-squid:S899…
-":Do something with the "boolean" value returned by "offer".(çÆßêúÿÿÿÿ
-]squid:HiddenFieldCheck¥
-":Rename "lock" which hides the field declared at line 1067.(º·úã
-osquid:S3776²
-"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(½µð˜ûÿÿÿÿ
-]squid:HiddenFieldCheck³
-":Rename "lock" which hides the field declared at line 1067.(º·úã
-S
-squid:S899Å
-"<Do something with the "long" value returned by "awaitNanos".(Ý«ø
-jsquid:S3776Ô
-"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ž¨†ž
-]squid:HiddenFieldCheck×
-":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheckÿ
-":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheck¢":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheck¹":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheckÊ":Rename "lock" which hides the field declared at line 1067.(º·úã
-]squid:HiddenFieldCheckÕ":Rename "lock" which hides the field declared at line 1067.(º·úã
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Q
-squid:S899ƒ";Do something with the "boolean" value returned by "remove".(Ø˜äk
-hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(·†ÁÈýÿÿÿÿ

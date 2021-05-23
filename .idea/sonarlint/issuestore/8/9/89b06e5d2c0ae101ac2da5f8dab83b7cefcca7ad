@@ -1,8 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÉÏ“Éùÿÿÿÿ
-?squid:S1148:"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-Ssquid:S2387%"<"vendorName" is the name of a field in "IIOServiceProvider".(žÊºº
-Usquid:S2387'"9"version" is the name of a field in "IIOServiceProvider".(ÆÍñ´üÿÿÿÿ
-[squid:S2387)"?"outputClass" is the name of a field in "ImageOutputStreamSpi".(—˜ÁÔúÿÿÿÿ
-rsquid:S00115%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(žÊºº
-wsquid:S00115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÍñ´üÿÿÿÿ

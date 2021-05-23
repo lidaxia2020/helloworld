@@ -1,48 +1,0 @@
-
-Zsquid:S2184ˆ"BCast one of the operands of this addition operation to a "double".(©İ“­
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Šæƒ¼
-xsquid:S1488ƒ"[Immediately return this expression instead of assigning it to the temporary variable "day".(¢Üÿ úÿÿÿÿ
-Qsquid:S1118J":Add a private constructor to hide the implicit public one.(ÿì©°
-rsquid:S00115M"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„âÎÊ
-rsquid:S00115N"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šîŞË
-wsquid:S00115O"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…ÜÒÂÿÿÿÿÿ
-wsquid:S00115P"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çîˆ‚şÿÿÿÿ
-rsquid:S00115Q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß¤Šõ
-rsquid:S00115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ë›ç¾
-qsquid:S00115S"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹µÄw
-wsquid:S00115T"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘ÛŒÍûÿÿÿÿ
-vsquid:S1149r"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆ€æª
-|squid:S1149Ó
-"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÜÍã§ûÿÿÿÿ
-Zsquid:S1858×"B"dateTime" returns a string, there's no need to call "toString()".(¤™ˆ‹
-csquid:S3027Ø"FPut single-quotes around 'T' to use the faster "indexOf(char)" method.(Ó¼Á×üÿÿÿÿ
-Zsquid:S1858š"B"dateTime" returns a string, there's no need to call "toString()".(¤™ˆ‹
-]squid:S3027›"FPut single-quotes around 'T' to use the faster "indexOf(char)" method.(³­
-Csquid:S1905¥"&Remove this unnecessary cast to "int".(€Ñ¢şÿÿÿÿ
-Tsquid:S1854Û"7Remove this useless assignment to local variable "cal".(¿ÍÜŞüÿÿÿÿ
-Lsquid:S1854²"5Remove this useless assignment to local variable "d".(¬µÙ
-csquid:S3027§"FPut single-quotes around 'Z' to use the faster "indexOf(char)" method.(ˆî§œüÿÿÿÿ
-P
-squid:S106·"9Replace this use of System.out or System.err by a logger.(›¶‡œ
-Gsquid:S00108Ò")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-Gsquid:S00108‚	")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-osquid:S3776Æ	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿë¤üÿÿÿÿ
-Gsquid:S00108‚
-")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-Gsquid:S00108’
-")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-Gsquid:S00108¤
-")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-Gsquid:S00108°
-")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-Gsquid:S00108¼
-")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
-Ysquid:S1854â
-"<Remove this useless assignment to local variable "endQuote".(ù¾Ÿ²ıÿÿÿÿ
-Esquid:S1481Û"(Remove this unused "cal" local variable.(¿ÍÜŞüÿÿÿÿ
-=squid:S1481²"&Remove this unused "d" local variable.(¬µÙ
-Ksquid:S1481Ñ
-"3Remove this unused "quoteSemaphore" local variable.(í‡°
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(‰ñ‹Ø
-hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(£•Ö³ıÿÿÿÿ

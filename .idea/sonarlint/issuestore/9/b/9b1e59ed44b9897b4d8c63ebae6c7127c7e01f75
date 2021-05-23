@@ -1,202 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ýäÌÝûÿÿÿÿ
-psquid:S1192•"SDefine a constant instead of duplicating this literal "Unknown callType: " 3 times.(¹Ü„›þÿÿÿÿ
-‘squid:S1192Ó"tDefine a constant instead of duplicating this literal "InstantiationException accessing no-arg constructor" 4 times.(Ê‘ÍÉÿÿÿÿÿ
-˜squid:S1192Í"{Define a constant instead of duplicating this literal "UnsupportedOperationException accessing no-arg constructor" 4 times.(¨‘¦²ÿÿÿÿÿ
-usquid:S1192°"]Define a constant instead of duplicating this literal "Assigning instance of class " 5 times.(Ñ±æº
-”squid:S1192Ç"wDefine a constant instead of duplicating this literal "InvocationTargetException accessing no-arg constructor" 4 times.(Ø²óÉÿÿÿÿÿ
-gsquid:S1192Ô"ODefine a constant instead of duplicating this literal "Unknown kind: " 3 times.(ßÉÀ™
-csquid:S1192²"KDefine a constant instead of duplicating this literal " to field " 5 times.(êÿ¥
-Lsquid:S1066¦"/Merge this if statement with the enclosing one.(›×¬ûÿÿÿÿ
-dsquid:S3973—"GUse indentation to denote the code conditionally executed by this "if".(¤¥ãíýÿÿÿÿ
-dsquid:S3973œ"GUse indentation to denote the code conditionally executed by this "if".(¤¥ãíýÿÿÿÿ
-dsquid:S3973§"GUse indentation to denote the code conditionally executed by this "if".(¤¥ãíýÿÿÿÿ
-dsquid:S3973¬"GUse indentation to denote the code conditionally executed by this "if".(¤¥ãíýÿÿÿÿ
-dsquid:S3973±"GUse indentation to denote the code conditionally executed by this "if".(¤¥ãíýÿÿÿÿ
-dsquid:S3973¶"GUse indentation to denote the code conditionally executed by this "if".(¤¥ãíýÿÿÿÿ
-dsquid:S3973»"GUse indentation to denote the code conditionally executed by this "if".(¤¥ãíýÿÿÿÿ
-dsquid:S3973À"GUse indentation to denote the code conditionally executed by this "if".(¤¥ãíýÿÿÿÿ
-Rsquid:S1141Å"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141“"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-fsquid:S2259ô"IA "NullPointerException" could be thrown; "objectValue" is nullable here.(°¾æùÿÿÿÿ
-Vsquid:S2259½"?A "NullPointerException" could be thrown; "v" is nullable here.(‰éÂu
-?squid:S1604l"(Make this anonymous inner class a lambda(°Žûº
-dsquid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(Ö‘µÆüÿÿÿÿ
-dsquid:S00112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(Þ§×ëüÿÿÿÿ
-_squid:S00112‰"FDefine and throw a dedicated exception instead of using a generic one.(¨¸óÞ
-_squid:S00112ñ"FDefine and throw a dedicated exception instead of using a generic one.(ø‹—Ì
-_squid:S00112Ë"FDefine and throw a dedicated exception instead of using a generic one.(°µžÈ
-^squid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
-jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ò¤ç
-jsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ò¤ç
-}squid:UselessImportCheck="TRemove this unnecessary import: same package classes are always implicitly imported.(Ä£Ò¦ûÿÿÿÿ
-lsquid:UselessImportCheckU"HRemove this unused import 'com.sun.corba.se.impl.orbutil.ObjectUtility'.(¨«û—
-csquid:UselessImportCheck/":Remove this unused import 'java.io.WriteAbortedException'.(ç˜–¥üÿÿÿÿ
-dsquid:UselessImportCheckN";Remove this unused import 'javax.rmi.PortableRemoteObject'.(þ¤¥±øÿÿÿÿ
-]squid:UselessImportCheck-"4Remove this unused import 'java.io.DataInputStream'.(”•úºÿÿÿÿÿ
-Usquid:UselessImportCheck4",Remove this unused import 'java.util.Stack'.(ÞÈ†üúÿÿÿÿ
-Ysquid:UselessImportCheck5"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
-xsquid:S00115¹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íçÞ†øÿÿÿÿ
-ssquid:S00115Ä"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Öƒ¡¥
-|squid:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ë–…
-‚squid:S1149ê
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µôŠ¸øÿÿÿÿ
-‚squid:S1149ì
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Õø·ûûÿÿÿÿ
-Psquid:S1197ƒ"8Move the array designator from the variable to the type.(úÓÛ
-%squid:RedundantThrowsDeclarationCheckà"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(™Ÿó†ùÿÿÿÿ
-^squid:S3878ä"ADisambiguate this call by either casting as "Class" or "Class[]".(ØêñËûÿÿÿÿ
-Usquid:S3878þ"8Remove this array creation and simply pass the elements.(ô«ÙÙúÿÿÿÿ
-3squid:S3626‡"Remove this redundant jump.(ûÁÝ…
-3squid:S3626Œ"Remove this redundant jump.(ûÁÝ…
-3squid:S3626«"Remove this redundant jump.(ûÁÝ…
-3squid:S3626®"Remove this redundant jump.(ûÁÝ…
-¯%squid:RedundantThrowsDeclarationCheckÃ"xRemove the declaration of thrown exception 'java.io.OptionalDataException' which is a subclass of 'java.io.IOException'.(Óþ¸üÿÿÿÿÿ
->squid:S1181»"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181×"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-Usquid:S1197Þ"8Move the array designator from the variable to the type.(›ä¹ªÿÿÿÿÿ
->squid:S1181ì"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181ý"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181¬"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181»"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-Usquid:S1197Â"8Move the array designator from the variable to the type.(ôŠŒùÿÿÿÿ
-Psquid:S1197È"8Move the array designator from the variable to the type.(šÅ´
->squid:S1181Ò"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181á"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181õ"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181„"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-­%squid:RedundantThrowsDeclarationCheck‹"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(–ÁË
->squid:S1181—"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181¦"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181Ã"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
->squid:S1181Š"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
-Psquid:S1197ƒ"8Move the array designator from the variable to the type.(ÐêíÌ
-osquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(¯ÞØøÿÿÿÿ
-Psquid:S1172’"3Remove this unused method parameter "repositoryID".(òÐ˜èøÿÿÿÿ
-Lsquid:S1656‡
-"/Remove or correct this useless self-assignment.(‡ÿœ¤øÿÿÿÿ
-psquid:S3776‘"SRefactor this method to reduce its Cognitive Complexity from 112 to the 15 allowed.(Ð¨Ãéüÿÿÿÿ
-Psquid:S1197¡"8Move the array designator from the variable to the type.(‘Ò¤ç
-ª%squid:RedundantThrowsDeclarationCheckµ"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheckµ"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-Jsquid:S1172´"-Remove this unused method parameter "aclass".(Ê¿þ¤úÿÿÿÿ
-ž%squid:RedundantThrowsDeclarationCheck×"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ûÙº«
-¯%squid:RedundantThrowsDeclarationCheckø"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(¤þãÀùÿÿÿÿ
-²%squid:RedundantThrowsDeclarationCheck½"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(Ì€¯ÿÿÿÿÿ
-jsquid:S3776º"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Â•Ü³
-Esquid:S1172»"-Remove this unused method parameter "sender".(åœ¸§
-ª%squid:RedundantThrowsDeclarationCheck©"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheck©"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-jsquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ˆöÞ
-ª%squid:RedundantThrowsDeclarationCheck„"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheck„"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-ª%squid:RedundantThrowsDeclarationCheckŽ"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheckŽ"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-Usquid:S1197“"8Move the array designator from the variable to the type.( ƒùÿÿÿÿ
-Bsquid:S1181Ø"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-6squid:S2129"Remove this "Byte" constructor(®–š‹
-Usquid:CallToDeprecatedMethod",Remove this use of "Byte"; it is deprecated.(®–š‹
->squid:S2129¡"!Remove this "Boolean" constructor(É’œùûÿÿÿÿ
-]squid:CallToDeprecatedMethod¡"/Remove this use of "Boolean"; it is deprecated.(É’œùûÿÿÿÿ
-:squid:S2129«"#Remove this "Character" constructor(‹ß™p
-Ysquid:CallToDeprecatedMethod«"1Remove this use of "Character"; it is deprecated.(‹ß™p
-<squid:S2129¯"Remove this "Short" constructor(”ç€×þÿÿÿÿ
-[squid:CallToDeprecatedMethod¯"-Remove this use of "Short"; it is deprecated.(”ç€×þÿÿÿÿ
-9squid:S2129³"!Remove this "Integer" constructor(ë¼œÆ
-Xsquid:CallToDeprecatedMethod³"/Remove this use of "Integer"; it is deprecated.(ë¼œÆ
-;squid:S2129·"Remove this "Long" constructor(¨¦†ýÿÿÿÿ
-Zsquid:CallToDeprecatedMethod·",Remove this use of "Long"; it is deprecated.(¨¦†ýÿÿÿÿ
-6squid:S2129»"Remove this "Float" constructor(ãÌ¯<
-Usquid:CallToDeprecatedMethod»"-Remove this use of "Float"; it is deprecated.(ãÌ¯<
-=squid:S2129¿" Remove this "Double" constructor(òƒþàüÿÿÿÿ
-\squid:CallToDeprecatedMethod¿".Remove this use of "Double"; it is deprecated.(òƒþàüÿÿÿÿ
-ª%squid:RedundantThrowsDeclarationCheckí"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheckí"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-;squid:S2129û"Remove this "Byte" constructor(›–¥îúÿÿÿÿ
-Zsquid:CallToDeprecatedMethodû",Remove this use of "Byte"; it is deprecated.(›–¥îúÿÿÿÿ
-9squid:S2129€"!Remove this "Boolean" constructor(à°š”
-Xsquid:CallToDeprecatedMethod€"/Remove this use of "Boolean"; it is deprecated.(à°š”
-:squid:S2129…"#Remove this "Character" constructor(Üíí#
-Ysquid:CallToDeprecatedMethod…"1Remove this use of "Character"; it is deprecated.(Üíí#
-6squid:S2129Š"Remove this "Short" constructor(èÄ·i
-Usquid:CallToDeprecatedMethodŠ"-Remove this use of "Short"; it is deprecated.(èÄ·i
-9squid:S2129"!Remove this "Integer" constructor(ÎœÀ
-Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ÎœÀ
-;squid:S2129”"Remove this "Long" constructor(å’·þúÿÿÿÿ
-Zsquid:CallToDeprecatedMethod”",Remove this use of "Long"; it is deprecated.(å’·þúÿÿÿÿ
-7squid:S2129™"Remove this "Float" constructor(²Ž‚“
-Vsquid:CallToDeprecatedMethod™"-Remove this use of "Float"; it is deprecated.(²Ž‚“
-=squid:S2129ž" Remove this "Double" constructor(ùÛÒžüÿÿÿÿ
-\squid:CallToDeprecatedMethodž".Remove this use of "Double"; it is deprecated.(ùÛÒžüÿÿÿÿ
-ª%squid:RedundantThrowsDeclarationCheckÊ"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheckÊ"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-osquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ì ì½ûÿÿÿÿ
-Esquid:S1172É"-Remove this unused method parameter "sender".(åœ¸§
-ª%squid:RedundantThrowsDeclarationCheckŽ"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheckŽ"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-osquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(ì ì½ûÿÿÿÿ
-Bsquid:S1181€"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-ª%squid:RedundantThrowsDeclarationCheckŠ"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheckŠ"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-ª%squid:RedundantThrowsDeclarationCheck£"xRemove the declaration of thrown exception 'java.io.InvalidClassException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-­%squid:RedundantThrowsDeclarationCheck£"{Remove the declaration of thrown exception 'java.io.StreamCorruptedException' which is a subclass of 'java.io.IOException'.(ÿÿ·Ø
-3squid:S3626“"Remove this redundant jump.(ÉŠ©ƒ
-jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(™½Ï£
->squid:S2129Ê"!Remove this "Boolean" constructor(æˆ–Ÿûÿÿÿÿ
-]squid:CallToDeprecatedMethodÊ"/Remove this use of "Boolean"; it is deprecated.(æˆ–Ÿûÿÿÿÿ
-6squid:S2129×"Remove this "Byte" constructor(¾ª˜í
-Usquid:CallToDeprecatedMethod×",Remove this use of "Byte"; it is deprecated.(¾ª˜í
-@squid:S2129ä"#Remove this "Character" constructor(ðÙèäøÿÿÿÿ
-_squid:CallToDeprecatedMethodä"1Remove this use of "Character"; it is deprecated.(ðÙèäøÿÿÿÿ
-<squid:S2129ñ"Remove this "Short" constructor(¾­Àüÿÿÿÿ
-[squid:CallToDeprecatedMethodñ"-Remove this use of "Short"; it is deprecated.(¾­Àüÿÿÿÿ
-8squid:S2129þ"!Remove this "Integer" constructor(ÊŸR
-Wsquid:CallToDeprecatedMethodþ"/Remove this use of "Integer"; it is deprecated.(ÊŸR
-;squid:S2129‹"Remove this "Long" constructor( ºÇšþÿÿÿÿ
-Zsquid:CallToDeprecatedMethod‹",Remove this use of "Long"; it is deprecated.( ºÇšþÿÿÿÿ
-<squid:S2129˜"Remove this "Float" constructor(­®ïùÿÿÿÿ
-[squid:CallToDeprecatedMethod˜"-Remove this use of "Float"; it is deprecated.(­®ïùÿÿÿÿ
-7squid:S2129¥" Remove this "Double" constructor(ù¿a
-Vsquid:CallToDeprecatedMethod¥".Remove this use of "Double"; it is deprecated.(ù¿a
-9squid:S2129Á"!Remove this "Integer" constructor(íØ™ø
-Xsquid:CallToDeprecatedMethodÁ"/Remove this use of "Integer"; it is deprecated.(íØ™ø
-9squid:S2129Ê"!Remove this "Integer" constructor(€€ÖÄ
-Xsquid:CallToDeprecatedMethodÊ"/Remove this use of "Integer"; it is deprecated.(€€ÖÄ
->squid:S2129Ù"!Remove this "Integer" constructor(±¤¦•úÿÿÿÿ
-]squid:CallToDeprecatedMethodÙ"/Remove this use of "Integer"; it is deprecated.(±¤¦•úÿÿÿÿ
-9squid:S2129à"!Remove this "Integer" constructor(®šã©
-Xsquid:CallToDeprecatedMethodà"/Remove this use of "Integer"; it is deprecated.(®šã©
-@squid:S1481ù"(Remove this unused "obj" local variable.(¢ðâ³
-Isquid:S1481°",Remove this unused "ordinal" local variable.(Ä¸èÌûÿÿÿÿ
-6squid:S2183Î"Remove this useless shift(§Ú«®ùÿÿÿÿ
-6squid:S2183“"Remove this useless shift(§Ú«®ùÿÿÿÿ
-1squid:S2183¢"Remove this useless shift(úÄßÞ
-Fsquid:S1068Ä".Remove this unused "useFVDOnly" private field.(Öƒ¡¥
-bsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(íÑÚq
-hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(Ùü˜þúÿÿÿÿ
-hsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(öüôüÿÿÿÿ
-csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(ŽÁø„
-bsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(èºÄ
-hsquid:CommentedOutCodeLine¨	"<This block of commented-out lines of code should be removed.(¿æÌ¢úÿÿÿÿ
-hsquid:CommentedOutCodeLine×	"<This block of commented-out lines of code should be removed.(ùúóýÿÿÿÿ
-hsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(¿æÌ¢úÿÿÿÿ
-hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(ùúóýÿÿÿÿ
-csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ÙÄãÀ
-csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ÙÄãÀ
-csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(Îðó´
-hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(“ŽÉøÿÿÿÿ
-hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(ž­Íäûÿÿÿÿ
-csquid:CommentedOutCodeLineŽ"<This block of commented-out lines of code should be removed.(ëã™ž
-hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(”œ¿Êÿÿÿÿÿ
-hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(²ñŸÝþÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôÌ¦ª
-csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(Çµûº
-csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(Û–Ùº
-hsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(›”æúùÿÿÿÿ
-hsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(õìÝÒüÿÿÿÿ

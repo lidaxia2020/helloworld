@@ -1,13 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶å¤
-jsquid:S1192ª"MDefine a constant instead of duplicating this literal "PaletteEntry" 5 times.(ÿâ¾¿üÿÿÿÿ
-ksquid:S1192?"ODefine a constant instead of duplicating this literal "PixelsPerMeter" 3 times.(ÑŠ©‹ùÿÿÿÿ
-]squid:S1192L"FDefine a constant instead of duplicating this literal "value" 5 times.(¡ØüË
-jsquid:S1192k"TDefine a constant instead of duplicating this literal "LCS_CALIBRATED_RGB" 10 times.(ãªİ
-`squid:S1192¡"HDefine a constant instead of duplicating this literal "Palette" 4 times.(…ùÉ‡
-isquid:S1192W"RDefine a constant instead of duplicating this literal "BI_BITFIELDS_Mask" 4 times.(øĞåÚ
-\squid:S1192]"FDefine a constant instead of duplicating this literal "green" 3 times.(ÿÇÔJ
-lsquid:S1192+"PDefine a constant instead of duplicating this literal "ImageDescriptor" 7 times.(Ö™Êøÿÿÿÿ
-csquid:S11922"GDefine a constant instead of duplicating this literal "65535" 25 times.(¬ÒÀûÿÿÿÿ
-vsquid:S1192Œ"YDefine a constant instead of duplicating this literal "LCS_CALIBRATED_RGB_GAMMA" 4 times.(Úó¯§ıÿÿÿÿ
-Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

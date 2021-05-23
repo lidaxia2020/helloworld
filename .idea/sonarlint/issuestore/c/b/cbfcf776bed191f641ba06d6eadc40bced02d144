@@ -1,7 +1,0 @@
-
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(íØÎàşÿÿÿÿ
-gsquid:S1192}"KDefine a constant instead of duplicating this literal "KeyFactory" 4 times.(Ù¥äùÿÿÿÿ
-Fsquid:S3077†".Remove the "volatile" keyword from this field.(È¼Ë
-Fsquid:S1125é")Remove the literal "false" boolean value.(÷«Õ‹ùÿÿÿÿ
-[squid:HiddenFieldCheckì"8Rename "spi" which hides the field declared at line 134.(Í÷«ú
-Esquid:S1068|")Remove this unused "debug" private field.(¨µƒÿşÿÿÿÿ

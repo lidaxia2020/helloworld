@@ -1,28 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍŞÁ
-jsquid:S1192i"NDefine a constant instead of duplicating this literal "controlShadow" 4 times.(ßñ„·ÿÿÿÿÿ
-msquid:S1192j"QDefine a constant instead of duplicating this literal "controlHighlight" 3 times.(±—Ö˜üÿÿÿÿ
-Tsquid:S00107É"<Method has 8 parameters, which is greater than 7 authorized.(›”-
-Qsquid:UselessImportCheck%"-Remove this unused import 'java.awt.Polygon'.(Á±ª
-Ssquid:UselessImportCheck#"/Remove this unused import 'java.awt.Dimension'.(˜‚º·
-wsquid:S00115e"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œûªşÿÿÿÿ
-osquid:ModifiersOrderChecke"EReorder the modifiers to comply with the Java Language Specification.(Œûªşÿÿÿÿ
-isquid:S3776m"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(»€ıÎ
-Tsquid:S1854y"=Remove this useless assignment to local variable "isEnabled".(àİ¬…
-Ysquid:S1854·"ARemove this useless assignment to local variable "controlShadow".(¢÷Œí
-isquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(›”-
-Usquid:S1854¡"=Remove this useless assignment to local variable "isEnabled".(àİ¬…
-Msquid:S1854"5Remove this useless assignment to local variable "h".(ÁÒŸç
-Rsquid:S1854œ"5Remove this useless assignment to local variable "w".(›¤±†ûÿÿÿÿ
-Msquid:S3985í"5Remove this unused private "MenuItemCheckIcon" class.(§éğ§
-squid:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´÷Œúÿÿÿÿ
-squid:S1186ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´÷Œúÿÿÿÿ
-Rsquid:S1854Œ"5Remove this useless assignment to local variable "w".(›¤±†ûÿÿÿÿ
-Esquid:S1481y".Remove this unused "isEnabled" local variable.(àİ¬…
-Jsquid:S1481·"2Remove this unused "controlShadow" local variable.(¢÷Œí
-Csquid:S1481œ"&Remove this unused "w" local variable.(›¤±†ûÿÿÿÿ
->squid:S1481"&Remove this unused "h" local variable.(ÁÒŸç
-Fsquid:S1481¡".Remove this unused "isEnabled" local variable.(àİ¬…
-Csquid:S1481Œ"&Remove this unused "w" local variable.(›¤±†ûÿÿÿÿ
-Qsquid:S1068@"5Remove this unused "menuItemCheckIcon" private field.(Ï¤±ùÿÿÿÿ
-bsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ÛÉc

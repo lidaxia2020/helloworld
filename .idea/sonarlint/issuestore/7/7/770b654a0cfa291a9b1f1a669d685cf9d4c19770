@@ -1,14 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘¬‡ó
-osquid:S001169"RRename this field "m_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–º¿şÿÿÿÿ
-jsquid:S00116B"RRename this field "m_attrs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âüşö
-Fsquid:S1125Ø")Remove the literal "false" boolean value.(³¹ßÈüÿÿÿÿ
-Lsquid:UnusedPrivateMethodª"'Remove this unused private "is" method.(…©œ5
-Dsquid:S1068H"(Remove this unused "FLOW" private field.(‘ËÜÅûÿÿÿÿ
-@squid:S1068T")Remove this unused "CDATA" private field.(¿“¯
-Asquid:S1068W"*Remove this unused "PCDATA" private field.(öó‡²
-Asquid:S1068]"*Remove this unused "INLINE" private field.(Ô·Öá
-Bsquid:S1068`"+Remove this unused "INLINEA" private field.(ÊúÈá
-Isquid:S1068‡",Remove this unused "HTMLELEM" private field.(‡§ëııÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(Ÿİñ¼ÿÿÿÿÿ

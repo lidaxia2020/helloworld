@@ -1,20 +1,0 @@
-
-Lsquid:S1191""5Use classes from the Java API instead of Sun classes.(—Ì½‹
-Usquid:S1444U"9Make this "public static suppressExplanation" field final(²±óêûÿÿÿÿ
-’"squid:ClassVariableVisibilityCheckU"_Make suppressExplanation a static final constant or non-public and provide accessors if needed.(²±óêûÿÿÿÿ
-|squid:S1450d"`Remove the "oasisXMLCatalogPI" field and declare it as a local variable in the relevant methods.(×¥«…şÿÿÿÿ
-Wsquid:S1161±":Add the "@Override" annotation above this method signature(ü©ûÏûÿÿÿÿ
-Wsquid:S1161Å":Add the "@Override" annotation above this method signature(©¬øïúÿÿÿÿ
-Wsquid:S1161Û":Add the "@Override" annotation above this method signature(ÈçË¬ıÿÿÿÿ
-Wsquid:S1161Š":Add the "@Override" annotation above this method signature(Œ©û–úÿÿÿÿ
-Wsquid:S1161™":Add the "@Override" annotation above this method signature(­¹Òşüÿÿÿÿ
-Wsquid:S1161«":Add the "@Override" annotation above this method signature(èÂá­ıÿÿÿÿ
-jsquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(ÉÖ‡€
-Rsquid:S1161¸":Add the "@Override" annotation above this method signature(ÉÖ‡€
-U
-squid:S106“"9Replace this use of System.out or System.err by a logger.(‘ˆÙ—ıÿÿÿÿ
-P
-squid:S106”"9Replace this use of System.out or System.err by a logger.(çÜ¨
-Ssquid:S2696–"6Make the enclosing method "static" or remove this set.(úÍ²âÿÿÿÿÿ
-Qsquid:S1068d"5Remove this unused "oasisXMLCatalogPI" private field.(×¥«…şÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

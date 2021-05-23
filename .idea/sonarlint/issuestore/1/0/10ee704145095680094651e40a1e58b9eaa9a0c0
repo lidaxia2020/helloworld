@@ -1,6 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ú¹ç²
-™squid:S1192Q"}Define a constant instead of duplicating this literal "com.sun.org.apache.xerces.internal.impl.msg.XIncludeMessages" 3 times.(’ºïˆøÿÿÿÿ
-Isquid:S1135&"2Complete the task associated to this TODO comment.(å¦Î³
-£%squid:RedundantThrowsDeclarationCheckM"mRemove the declaration of thrown exception 'java.util.MissingResourceException' which is a runtime exception.(¥˜‹—úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

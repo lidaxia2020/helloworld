@@ -1,15 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(­Ÿóú
-ksquid:S1450D"TRemove the "fduse" field and declare it as a local variable in the relevant methods.(¸Û…°
-Vsquid:S1161f":Add the "@Override" annotation above this method signature(Â¢æ¬þÿÿÿÿ
-Vsquid:S1161p":Add the "@Override" annotation above this method signature(›¾ä¹ÿÿÿÿÿ
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(î¾êôøÿÿÿÿ
-Wsquid:S1161‰":Add the "@Override" annotation above this method signature(ó‡€¼úÿÿÿÿ
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(…¦Æý
-Esquid:S1125©"(Remove the literal "true" boolean value.(ð‚À–ûÿÿÿÿ
-Wsquid:S1161¬":Add the "@Override" annotation above this method signature(•¬ïíøÿÿÿÿ
-Lsquid:S1133É"5Do not forget to remove this deprecated code someday.(¿“ˆ
-Psquid:MissingDeprecatedCheckÉ"(Add the missing @deprecated Javadoc tag.(¿“ˆ
-Rsquid:S1133Ì"5Do not forget to remove this deprecated code someday.(–‰ê§ÿÿÿÿÿ
-Vsquid:MissingDeprecatedCheckÌ"(Add the missing @deprecated Javadoc tag.(–‰ê§ÿÿÿÿÿ
-ksquid:ModifiersOrderCheckè"EReorder the modifiers to comply with the Java Language Specification.(×æÄó

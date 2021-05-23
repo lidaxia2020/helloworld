@@ -1,21 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
-jsquid:MaximumInheritanceDepth2"<This class has 6 parents which is greater than 5 authorized.(È¯—öüÿÿÿÿ
-Dsquid:S11725"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
-Vsquid:S1161F":Add the "@Override" annotation above this method signature(ûà›øÿÿÿÿ
-Tsquid:S1197J"8Move the array designator from the variable to the type.(œäâÒøÿÿÿÿ
-Vsquid:S1161U":Add the "@Override" annotation above this method signature(öÐçÓøÿÿÿÿ
-Vsquid:S1161_":Add the "@Override" annotation above this method signature(™ÍÖúÿÿÿÿ
-^squid:S1126a"BReplace this if-then-else statement by a single method invocation.(œßŒ›ÿÿÿÿÿ
-˜squid:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÞÉô
-™squid:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
-™squid:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
-žsquid:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»‰¥åþÿÿÿÿ
-`squid:S4201w"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÉË¢…
-Tsquid:S1197x"8Move the array designator from the variable to the type.(Ëÿü¹üÿÿÿÿ
-Usquid:S1197€"8Move the array designator from the variable to the type.(É–Òþÿÿÿÿ
-Usquid:S1197‚"8Move the array designator from the variable to the type.(Ë­ÆÌùÿÿÿÿ
-Zsquid:UnusedPrivateMethodJ"0Remove this unused private "popupIsOpen" method.(œäâÒøÿÿÿÿ
-gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(›•æ‰úÿÿÿÿ
-asquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(áÆòq
-bsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(à˜ Ò

@@ -1,11 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-jsquid:S001165"RRename this field "_active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ±§—
-Vsquid:S1161=":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Qsquid:S1161[":Add the "@Override" annotation above this method signature(ÁØ’›
-Lsquid:S1854g"6Remove this useless assignment to local variable "il".(İÔÒ8
-Nsquid:S1854f"7Remove this useless assignment to local variable "cpg".(„àü
-Qsquid:S1161e":Add the "@Override" annotation above this method signature(†“‹Ø
-?squid:S1481f"(Remove this unused "cpg" local variable.(„àü
-=squid:S1481g"'Remove this unused "il" local variable.(İÔÒ8
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

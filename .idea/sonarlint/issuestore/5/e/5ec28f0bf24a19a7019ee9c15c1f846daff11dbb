@@ -1,22 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheckÀ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïßóùøÿÿÿÿ
-Asquid:S2160l"+Override the "equals" method in this class.(Á‰A
-msquid:S4144œ"UUpdate this method so that its implementation is not identical to "peek" on line 814.(ùÎ³
-rsquid:S4144¾"UUpdate this method so that its implementation is not identical to "poll" on line 844.(ÓÈ¸óøÿÿÿÿ
-?squid:S1659""Declare "succ" on a separate line.(È®Ğûÿÿÿÿ
-Qsquid:S1161¡	":Add the "@Override" annotation above this method signature(ºˆ¡
-ksquid:S2272Ò	"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¤¿ğßıÿÿÿÿ
-Wsquid:S1161Õ	":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-ksquid:S2975í	"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-`squid:S1182í	"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
-asquid:HiddenFieldCheckˆ"9Rename "size" which hides the field declared at line 112.(Ó•š•øÿÿÿÿ
-vsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÊúùúÿÿÿÿ
-Qsquid:S1161İ":Add the "@Override" annotation above this method signature(ºˆ¡
-7squid:S1659Ş"Declare "n" on a separate line.(´£ºŒ
-csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ûöÿ
-csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(Ã‚à
-hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(Üµê’ùÿÿÿÿ
-hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(´¶«øÿÿÿÿ
-csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(Şõß½
-csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(¸œş
-hsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(àı‘Ïûÿÿÿÿ

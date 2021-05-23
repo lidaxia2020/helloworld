@@ -1,229 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ø«è°
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(èÄş’
-… squid:ForLoopCounterChangedCheckš"XRefactor the code in order to not assign to this loop counter from within the loop body.(ë¡†¬
-… squid:ForLoopCounterChangedCheck¤"XRefactor the code in order to not assign to this loop counter from within the loop body.(İ²­¡
-… squid:ForLoopCounterChangedCheck®"XRefactor the code in order to not assign to this loop counter from within the loop body.(€Ò´™
-Š squid:ForLoopCounterChangedCheck¹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÚÀë¡ùÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckÅ"XRefactor the code in order to not assign to this loop counter from within the loop body.(‡”Ô&
-Š squid:ForLoopCounterChangedCheckÉ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ĞµãŠøÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck‰"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ô¿£óúÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck’"XRefactor the code in order to not assign to this loop counter from within the loop body.(§‚†Øûÿÿÿÿ
-… squid:ForLoopCounterChangedCheck®"XRefactor the code in order to not assign to this loop counter from within the loop body.(ßÒçà
-… squid:ForLoopCounterChangedCheckÉ"XRefactor the code in order to not assign to this loop counter from within the loop body.(‡Ù’ª
-Š squid:ForLoopCounterChangedCheck¨"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿¾ôÿÿÿÿÿ
-… squid:ForLoopCounterChangedCheck°"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheckº"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡·øÁ
-… squid:ForLoopCounterChangedCheckÅ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedCheckÒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸË”ñ
-… squid:ForLoopCounterChangedCheckİ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-… squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(óƒ‰
-… squid:ForLoopCounterChangedCheckó"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(º…¹ıÿÿÿÿ
-osquid:S1192§"RDefine a constant instead of duplicating this literal "generate-translet" 3 times.(¶“Ì¾ûÿÿÿÿ
-Rsquid:S1141É"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141á"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141™"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141È"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141Ï"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141á"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141ê"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-Rsquid:S1141¼	"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-fsquid:S2259™"IA "NullPointerException" could be thrown; "transformer" is nullable here.(ÊõÄ¿ùÿÿÿÿ
-_squid:S00112
-"FDefine and throw a dedicated exception instead of using a generic one.(Ç·¼ú
-Qsquid:S1118h":Add a private constructor to hide the implicit public one.(ûÀƒÚ
-‚squid:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ì¶ææúÿÿÿÿ
-O
-squid:S106u"9Replace this use of System.out or System.err by a logger.(ôçÇù
-O
-squid:S106v"9Replace this use of System.out or System.err by a logger.(¬Ë¾™
-T
-squid:S106w"9Replace this use of System.out or System.err by a logger.(÷«µ³ûÿÿÿÿ
-O
-squid:S106x"9Replace this use of System.out or System.err by a logger.( ş½–
-T
-squid:S106y"9Replace this use of System.out or System.err by a logger.(°ûÜÈşÿÿÿÿ
-T
-squid:S106z"9Replace this use of System.out or System.err by a logger.(áèìûÿÿÿÿ
-N
-squid:S106}"9Replace this use of System.out or System.err by a logger.(®¨—{
-U
-squid:S106€"9Replace this use of System.out or System.err by a logger.(ÆŠË‚üÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(ïñÙ•
-U
-squid:S106‚"9Replace this use of System.out or System.err by a logger.(ùùäØøÿÿÿÿ
-U
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(Ùñ•—üÿÿÿÿ
-U
-squid:S106„"9Replace this use of System.out or System.err by a logger.(«°ùëÿÿÿÿÿ
-P
-squid:S106†"9Replace this use of System.out or System.err by a logger.(ÜÏ¸Ê
-P
-squid:S106‡"9Replace this use of System.out or System.err by a logger.(¸’á±
-U
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÿşÛ­ùÿÿÿÿ
-U
-squid:S106‰"9Replace this use of System.out or System.err by a logger.(ÿÉÎüÿÿÿÿ
-U
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(Õ°–Ãıÿÿÿÿ
-P
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(Ä¨«ò
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(¿äò”
-U
-squid:S106©"9Replace this use of System.out or System.err by a logger.(â½¸¼ÿÿÿÿÿ
-U
-squid:S106ª"9Replace this use of System.out or System.err by a logger.(Æº¬¾ÿÿÿÿÿ
-P
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(âÈÕ
-O
-squid:S106­"9Replace this use of System.out or System.err by a logger.(«âéA
-U
-squid:S106®"9Replace this use of System.out or System.err by a logger.(ÎÛÂÈşÿÿÿÿ
-P
-squid:S106¯"9Replace this use of System.out or System.err by a logger.(íó¸Ù
-U
-squid:S106°"9Replace this use of System.out or System.err by a logger.(çÀ¡’şÿÿÿÿ
-U
-squid:S106±"9Replace this use of System.out or System.err by a logger.(´Ìôæùÿÿÿÿ
-psquid:S3776Ë"SRefactor this method to reduce its Cognitive Complexity from 452 to the 15 allowed.(‹âˆƒùÿÿÿÿ
-lsquid:S00100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹âˆƒùÿÿÿÿ
-Xsquid:S1854ƒ"@Remove this useless assignment to local variable "indentAmount".(Ø«è°
-]squid:S1854‡"@Remove this useless assignment to local variable "indentAmount".(úñªøùÿÿÿÿ
-]squid:S1854ñ"@Remove this useless assignment to local variable "setQuietMode".(…ïíŒşÿÿÿÿ
-Usquid:S1197Ë"8Move the array designator from the variable to the type.(‹âˆƒùÿÿÿÿ
-O
-squid:S106Ş"9Replace this use of System.out or System.err by a logger.(é½h
-U
-squid:S106’"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106¦"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106°"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106¼"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106›"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
-U
-squid:S106¤"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
-U
-squid:S106µ"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
-U
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
-U
-squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
-U
-squid:S106Ú"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
-U
-squid:S106¼"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106Õ"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106ë"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-Gsquid:S00108Ÿ")Either remove or fill this block of code.(Ş”¢ùÿÿÿÿ
-U
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(„Ó±âûÿÿÿÿ
-U
-squid:S106«"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
-<squid:S1181Ğ	"%Catch Exception instead of Throwable.(‡ä”$
-Gsquid:S00108Í")Either remove or fill this block of code.(ÛÅœ†úÿÿÿÿ
-U
-squid:S106ì"9Replace this use of System.out or System.err by a logger.(óñÖÆşÿÿÿÿ
-Gsquid:S00108å")Either remove or fill this block of code.(ÛÅœ†úÿÿÿÿ
-csquid:S2147®"FCombine this catch with the one at line 1069, which has the same body.(ğŒù‚üÿÿÿÿ
-Gsquid:S00108")Either remove or fill this block of code.(¦éåÚıÿÿÿÿ
-Bsquid:S00108­")Either remove or fill this block of code.(îÁ®í
-Gsquid:S00108®")Either remove or fill this block of code.(ğŒù‚üÿÿÿÿ
-Jsquid:S2755²"-Disable XML external entity (XXE) processing.(‡¼Òüÿÿÿÿ
-fsquid:CallToDeprecatedMethod²"8Remove this use of "XMLReaderFactory"; it is deprecated.(‡¼Òüÿÿÿÿ
-csquid:S2147Î"FCombine this catch with the one at line 1101, which has the same body.(ú†”Şúÿÿÿÿ
-Bsquid:S00108Í")Either remove or fill this block of code.(–É€
-Gsquid:S00108Î")Either remove or fill this block of code.(ú†”Şúÿÿÿÿ
-Gsquid:S00108Ó")Either remove or fill this block of code.(ö›èøÿÿÿÿ
-csquid:S2147ÿ"FCombine this catch with the one at line 1150, which has the same body.(ğŒù‚üÿÿÿÿ
-Gsquid:S00108î")Either remove or fill this block of code.(¦éåÚıÿÿÿÿ
-Bsquid:S00108ş")Either remove or fill this block of code.(îÁ®í
-Gsquid:S00108ÿ")Either remove or fill this block of code.(ğŒù‚üÿÿÿÿ
-Jsquid:S2755ƒ	"-Disable XML external entity (XXE) processing.(‡¼Òüÿÿÿÿ
-fsquid:CallToDeprecatedMethodƒ	"8Remove this use of "XMLReaderFactory"; it is deprecated.(‡¼Òüÿÿÿÿ
-Gsquid:S00108Á	")Either remove or fill this block of code.(ÈÍ²ˆøÿÿÿÿ
-6squid:S2129É	"Remove this "Long" constructor(øÕÀ
-Usquid:CallToDeprecatedMethodÉ	",Remove this use of "Long"; it is deprecated.(øÕÀ
-Wsquid:S1193Ó	"@Replace the usage of the "instanceof" operator by a catch block.(½É˜{
-]squid:S1193Ù	"@Replace the usage of the "instanceof" operator by a catch block.(Ò…Ò÷øÿÿÿÿ
-]squid:S1193Ú	"@Replace the usage of the "instanceof" operator by a catch block.(•³ùÕÿÿÿÿÿ
-P
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(¼«ê·
-Bsquid:S00108¢
-")Either remove or fill this block of code.(—öñü
-P
-squid:S106°
-"9Replace this use of System.out or System.err by a logger.(¸¼Öá
-O
-squid:S106½
-"9Replace this use of System.out or System.err by a logger.(Ü¥—X
-Nsquid:S1481ÿ"1Remove this unused "indentAmount" local variable.(èŠ»üÿÿÿÿ
-Isquid:S1481Ş"1Remove this unused "resultWriter" local variable.(Û¾ÁÇ
-Nsquid:S1481’"1Remove this unused "formatOutput" local variable.(ö«¦¿øÿÿÿÿ
-Ssquid:S1481“"6Remove this unused "useSourceLocation" local variable.(‹®ÀÓûÿÿÿÿ
-Rsquid:S1481˜"5Remove this unused "treedumpFileName" local variable.(“ã…³úÿÿÿÿ
-Wsquid:S1481£":Remove this unused "quietConflictWarnings" local variable.(ÀÌœˆûÿÿÿÿ
-Ksquid:S1481§"3Remove this unused "recursionLimit" local variable.(­¤®Ú
-Hsquid:S1481Ğ"1Remove this unused "setQuietMode" local variable.(Î‹…Y
-gsquid:UnusedPrivateMethod®
-"<Remove this unused private "printInvalidXSLTCOption" method.(Ïó‡ûúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Äô¨©
-bsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(ôçÇù
-bsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.( ş½–
-gsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(ƒÇóşÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦ë¢ûşÿÿÿÿ
-hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(ÿÉÎüÿÿÿÿ
-csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(Ä¨«ò
-csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(á¾¾À
-csquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(šÅà‚
-csquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ä†—Ë
-csquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(î†áí
-hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(†Ü³ëúÿÿÿÿ
-hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Ó¨ßÙşÿÿÿÿ
-hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(—¦éŸøÿÿÿÿ
-hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ÓÅçºùÿÿÿÿ
-hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(Ç–°µúÿÿÿÿ
-csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(ÈÔé÷
-csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(ñéåö
-csquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(Óß÷˜
-bsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(²¨ò$
-csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(õ¾†à
-hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(´¶Í§ûÿÿÿÿ
-hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(Ö¹Æüÿÿÿÿ
-csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(úãô
-csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(úãô
-csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(„ï‘ 
-csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(ãš ‚
-bsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(Æ“
-hsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(òÆ©òùÿÿÿÿ
-hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(œõøªüÿÿÿÿ
-csquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(ğ¢ª
-hsquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(ğ‘Åúÿÿÿÿ
-csquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(áÅß
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›¤¼ıÿÿÿÿ
-csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(îéÒ‡
-hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(»Ñ·øüÿÿÿÿ
-hsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Ö‡½½ıÿÿÿÿ
-hsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(‹òâşÿÿÿÿ
-bsquid:CommentedOutCodeLineŸ	"<This block of commented-out lines of code should be removed.(ÿ¨¥0
-csquid:CommentedOutCodeLine¢	"<This block of commented-out lines of code should be removed.(áÓ
-csquid:CommentedOutCodeLine°	"<This block of commented-out lines of code should be removed.(ä†—Ë
-csquid:CommentedOutCodeLineê	"<This block of commented-out lines of code should be removed.(¨ãüõ
-csquid:CommentedOutCodeLineû	"<This block of commented-out lines of code should be removed.(Œ²à‘
-hsquid:CommentedOutCodeLineş	"<This block of commented-out lines of code should be removed.(¦É×Ìşÿÿÿÿ
-csquid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(³³²´

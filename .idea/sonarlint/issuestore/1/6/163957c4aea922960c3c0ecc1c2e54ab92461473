@@ -1,8 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
-Wsquid:UselessImportCheck!"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-Zsquid:UselessImportCheck$"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ
-msquid:UselessImportCheck"DRemove this unused import 'org.omg.PortableInterceptor.ORBInitInfo'.(Œ„Êƒÿÿÿÿÿ
-Vsquid:S1155’">Use isEmpty() to check whether the collection is empty or not.(Áû§
-fsquid:S00100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¬„¹
-osquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Á÷Í¬úÿÿÿÿ

@@ -1,89 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.( ¸¤
-isquid:S2259—"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259ß"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259¸"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259è"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259ù"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259˜"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259Á"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259ñ"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259Ë"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259 "LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259¢"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259¯"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259Õ"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259¤"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-isquid:S2259…"LA "NullPointerException" could be thrown; "getWidgetType()" can return null.(Œ¶©³üÿÿÿÿ
-Zsquid:S00107Š"<Method has 9 parameters, which is greater than 7 authorized.(ÑÉç‡úÿÿÿÿ
-Vsquid:S00107"=Method has 10 parameters, which is greater than 7 authorized.(½ˆ²ğ
-Vsquid:S00107"=Method has 11 parameters, which is greater than 7 authorized.(ƒÌú»
-Usquid:S00107—"<Method has 8 parameters, which is greater than 7 authorized.(ª«·å
-Usquid:S00107š"<Method has 9 parameters, which is greater than 7 authorized.(Åİ¶Ä
-Zsquid:S00107"<Method has 9 parameters, which is greater than 7 authorized.(ƒÖëªıÿÿÿÿ
-Zsquid:S00107£"<Method has 9 parameters, which is greater than 7 authorized.(½•êŒÿÿÿÿÿ
-Vsquid:S00107¬"=Method has 10 parameters, which is greater than 7 authorized.(­“¿Ò
-Usquid:S00107¯"<Method has 9 parameters, which is greater than 7 authorized.(Ê—ıÕ
-[squid:S00107’"=Method has 11 parameters, which is greater than 7 authorized.(áıÂöüÿÿÿÿ
-Vsquid:S00107œ"=Method has 10 parameters, which is greater than 7 authorized.(Ñ–®ä
-Vsquid:S00107©"=Method has 13 parameters, which is greater than 7 authorized.(»Ó¬É
-Zsquid:S00107´"<Method has 8 parameters, which is greater than 7 authorized.(ã¹êœúÿÿÿÿ
-[squid:S00107¼"=Method has 10 parameters, which is greater than 7 authorized.(¦ÚÚÂüÿÿÿÿ
-Vsquid:S00107Æ"=Method has 12 parameters, which is greater than 7 authorized.(˜ÙÁ“
-Usquid:S00107Ğ"=Method has 11 parameters, which is greater than 7 authorized.(Óñ×4
-Usquid:S00107Û"<Method has 9 parameters, which is greater than 7 authorized.(œ¾
-Vsquid:S00107ã"=Method has 11 parameters, which is greater than 7 authorized.(¡”üé
-Zsquid:S00107í"<Method has 9 parameters, which is greater than 7 authorized.(Ù™æÒÿÿÿÿÿ
-Usquid:S00107õ"<Method has 8 parameters, which is greater than 7 authorized.(åòÔ‘
-Vsquid:S00107ı"=Method has 10 parameters, which is greater than 7 authorized.(†¹„™
-[squid:S00107Š"=Method has 11 parameters, which is greater than 7 authorized.(õúÛ¢üÿÿÿÿ
-Zsquid:S00107”"<Method has 9 parameters, which is greater than 7 authorized.(¥›Şùÿÿÿÿ
-Zsquid:S00107œ"<Method has 9 parameters, which is greater than 7 authorized.(‹¬ØÇüÿÿÿÿ
-8squid:S1659†" Declare "y0" on a separate line.(úş°ë
-8squid:S1659†" Declare "w0" on a separate line.(úş°ë
-8squid:S1659†" Declare "h0" on a separate line.(úş°ë
-osquid:ModifiersOrderCheckC"EReorder the modifiers to comply with the Java Language Specification.(æö×ûÿÿÿÿ
-Esquid:S2786I")Remove this redundant "static" qualifier.(Š÷—èúÿÿÿÿ
-@squid:S2786i")Remove this redundant "static" qualifier.(í­Ãå
-tsquid:S3008|"XRename this field "TITLED_BORDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ×ìˆûÿÿÿÿ
-lsquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÉç‡úÿÿÿÿ
-gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ˆ²ğ
-gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÌú»
-lsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÚ…£øÿÿÿÿ
-gsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª«·å
-gsquid:S00100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åİ¶Ä
-lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÖëªıÿÿÿÿ
-fsquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÛÊ
-lsquid:S00100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½•êŒÿÿÿÿÿ
-gsquid:S00100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›şÛØ
-gsquid:S00100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ó§Ğ
-gsquid:S00100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­“¿Ò
-gsquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê—ıÕ
-gsquid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øì©®
-gsquid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÈÅ
-lsquid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¬®øÿÿÿÿ
-fsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ùı_
-vsquid:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆüÙîÿÿÿÿÿ
-osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(“ñ›Àşÿÿÿÿ
-[squid:S3252°">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(É™ £ùÿÿÿÿ
-]squid:S3252Á"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ÄüÑù
-bsquid:S3252Ä"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(ÚˆÇûÿÿÿÿ
-bsquid:S3252Ç"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(‘áÔúÿÿÿÿ
-Esquid:S1172’"(Remove this unused method parameter "g".(áıÂöüÿÿÿÿ
-@squid:S1172œ"(Remove this unused method parameter "g".(Ñ–®ä
-@squid:S1172©"(Remove this unused method parameter "g".(»Ó¬É
-Esquid:S1172´"(Remove this unused method parameter "g".(ã¹êœúÿÿÿÿ
-Esquid:S1172¼"(Remove this unused method parameter "g".(¦ÚÚÂüÿÿÿÿ
->squid:S1172Æ"&Remove these unused method parameters.(˜ÙÁ“
-=squid:S1172Ğ"&Remove these unused method parameters.(Óñ×4
-@squid:S1172Û"(Remove this unused method parameter "g".(œ¾
-@squid:S1172ã"(Remove this unused method parameter "g".(¡”üé
-Esquid:S1172í"(Remove this unused method parameter "g".(Ù™æÒÿÿÿÿÿ
-@squid:S1172õ"(Remove this unused method parameter "g".(åòÔ‘
-@squid:S1172ı"(Remove this unused method parameter "g".(†¹„™
-Esquid:S1172Š"(Remove this unused method parameter "g".(õúÛ¢üÿÿÿÿ
-Esquid:S1172”"(Remove this unused method parameter "g".(¥›Şùÿÿÿÿ
-Csquid:S1172œ"&Remove these unused method parameters.(‹¬ØÇüÿÿÿÿ
-ksquid:ModifiersOrderCheck¤"EReorder the modifiers to comply with the Java Language Specification.(ø¤çò
-psquid:ModifiersOrderCheck­"EReorder the modifiers to comply with the Java Language Specification.(Ò»‘øøÿÿÿÿ

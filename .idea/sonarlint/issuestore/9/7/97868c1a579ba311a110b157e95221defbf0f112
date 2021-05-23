@@ -1,345 +1,0 @@
-
-Xsquid:S2184ş"@Cast one of the operands of this addition operation to a "long".(ŞÚ§â
-]squid:S2184³	"@Cast one of the operands of this addition operation to a "long".(Ã±ìüÿÿÿÿ
-Wsquid:S2184‘
-"@Cast one of the operands of this addition operation to a "long".(Ÿ–÷I
-Xsquid:S2184É
-"@Cast one of the operands of this addition operation to a "long".(İ·¶™
-Xsquid:S2184Š"@Cast one of the operands of this addition operation to a "long".(ÌÓÚú
-Wsquid:S2184µ"@Cast one of the operands of this addition operation to a "long".(üíq
-]squid:S2184ç"@Cast one of the operands of this addition operation to a "long".(û·›Üıÿÿÿÿ
-]squid:S2184å"@Cast one of the operands of this addition operation to a "long".(º¦¢‘ıÿÿÿÿ
-Wsquid:S2184ù"@Cast one of the operands of this addition operation to a "long".(üíq
-Š squid:ForLoopCounterChangedCheckÈ
-"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾Ä­üÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ò¨éÛüÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÌ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Î¦Æøÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(àİúl
-Š squid:ForLoopCounterChangedCheckŒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(øÎ‚Ïşÿÿÿÿ
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÇÍüü
-… squid:ForLoopCounterChangedCheck˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(ò¦òó
-… squid:ForLoopCounterChangedCheckš"XRefactor the code in order to not assign to this loop counter from within the loop body.(Åİ·
-… squid:ForLoopCounterChangedCheckš"XRefactor the code in order to not assign to this loop counter from within the loop body.(Åİ·
-… squid:ForLoopCounterChangedCheckš"XRefactor the code in order to not assign to this loop counter from within the loop body.(Åİ·
-… squid:ForLoopCounterChangedCheckœ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾Ê«¶
-… squid:ForLoopCounterChangedCheck¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÒÑ›¹
-Š squid:ForLoopCounterChangedCheckø"XRefactor the code in order to not assign to this loop counter from within the loop body.(×ŸÃÍıÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckø"XRefactor the code in order to not assign to this loop counter from within the loop body.(×ŸÃÍıÿÿÿÿ
-… squid:ForLoopCounterChangedCheckù"XRefactor the code in order to not assign to this loop counter from within the loop body.(”¢éŒ
-… squid:ForLoopCounterChangedCheckù"XRefactor the code in order to not assign to this loop counter from within the loop body.(”¢éŒ
-Š squid:ForLoopCounterChangedCheckü"XRefactor the code in order to not assign to this loop counter from within the loop body.(üªÕäúÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckş"XRefactor the code in order to not assign to this loop counter from within the loop body.(åœÆÓùÿÿÿÿ
-… squid:ForLoopCounterChangedCheck€"XRefactor the code in order to not assign to this loop counter from within the loop body.(ê•ùÛ
-Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(É²Çúÿÿÿÿ
-… squid:ForLoopCounterChangedCheckª"XRefactor the code in order to not assign to this loop counter from within the loop body.(úÅ©ù
-Š squid:ForLoopCounterChangedCheck®"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ë¾èÊşÿÿÿÿ
-… squid:ForLoopCounterChangedCheck´"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã¡’
-… squid:ForLoopCounterChangedCheck„"XRefactor the code in order to not assign to this loop counter from within the loop body.(”¢éŒ
-… squid:ForLoopCounterChangedCheck„"XRefactor the code in order to not assign to this loop counter from within the loop body.(”¢éŒ
-Š squid:ForLoopCounterChangedCheckŠ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğº—¯úÿÿÿÿ
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(åÅ–
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(”¢éŒ
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(”¢éŒ
-Š squid:ForLoopCounterChangedCheck’"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÚúÒÉøÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck“"XRefactor the code in order to not assign to this loop counter from within the loop body.(å÷Ê¶úÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck•"XRefactor the code in order to not assign to this loop counter from within the loop body.(É²Çúÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck¾"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆÎèüıÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckç"XRefactor the code in order to not assign to this loop counter from within the loop body.(üªÕäúÿÿÿÿ
-Š squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(“Ï£¯ÿÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckê"XRefactor the code in order to not assign to this loop counter from within the loop body.(å÷Ê¶úÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckì"XRefactor the code in order to not assign to this loop counter from within the loop body.(É²Çúÿÿÿÿ
-„ squid:ForLoopCounterChangedCheckƒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âê¨H
-Š squid:ForLoopCounterChangedCheck’"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â€üÂşÿÿÿÿ
-… squid:ForLoopCounterChangedCheck§"XRefactor the code in order to not assign to this loop counter from within the loop body.(éşá€
-… squid:ForLoopCounterChangedCheck«"XRefactor the code in order to not assign to this loop counter from within the loop body.(íü´ 
-Š squid:ForLoopCounterChangedCheck§"XRefactor the code in order to not assign to this loop counter from within the loop body.(å÷Ê¶úÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(˜‰ÁŠıÿÿÿÿ
-Rsquid:S1191ä"5Use classes from the Java API instead of Sun classes.(Ü„ÃÚşÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckç".Extract the assignment out of this expression.(›êĞ 
-_$squid:AssignmentInSubExpressionCheck™	".Extract the assignment out of this expression.(ï‹íó
-_$squid:AssignmentInSubExpressionCheck™	".Extract the assignment out of this expression.(ï‹íó
-_$squid:AssignmentInSubExpressionCheck²	".Extract the assignment out of this expression.(ä·¤µ
-_$squid:AssignmentInSubExpressionCheckÄ
-".Extract the assignment out of this expression.(ş¼·ğ
-d$squid:AssignmentInSubExpressionCheckÍ
-".Extract the assignment out of this expression.(í‚ßËşÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckß
-".Extract the assignment out of this expression.(â÷Ô¥øÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck´".Extract the assignment out of this expression.(Ûë­
-_$squid:AssignmentInSubExpressionCheckä".Extract the assignment out of this expression.(óç³«
-d$squid:AssignmentInSubExpressionCheckü".Extract the assignment out of this expression.(›™Êƒùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckı".Extract the assignment out of this expression.(ÄîŸ‹ÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckŒ".Extract the assignment out of this expression.(øÎ‚Ïşÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ÇÍüü
-d$squid:AssignmentInSubExpressionCheckõ".Extract the assignment out of this expression.(İ×Øëüÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÿ".Extract the assignment out of this expression.(Š…ø„
-d$squid:AssignmentInSubExpressionCheck¡".Extract the assignment out of this expression.(ÙÖ­»ıÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÌ".Extract the assignment out of this expression.(ñèÇ¶
-_$squid:AssignmentInSubExpressionCheckÚ".Extract the assignment out of this expression.(…şÖ™
-_$squid:AssignmentInSubExpressionCheckã".Extract the assignment out of this expression.(ûÙ×ş
-_$squid:AssignmentInSubExpressionCheckó".Extract the assignment out of this expression.(¾¾«Ö
-_$squid:AssignmentInSubExpressionCheck…".Extract the assignment out of this expression.(î‰Ÿ
-d$squid:AssignmentInSubExpressionCheck»".Extract the assignment out of this expression.(Ë£×ıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(ˆÎèüıÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Îî0
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(°ÖÕ½ıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckå".Extract the assignment out of this expression.(îÇŠÍÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck†".Extract the assignment out of this expression.(Ïû×Üüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‚ƒñæúÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck”".Extract the assignment out of this expression.(úÚÕÀ
-_$squid:AssignmentInSubExpressionCheck«".Extract the assignment out of this expression.(íü´ 
-d$squid:AssignmentInSubExpressionCheckë".Extract the assignment out of this expression.(Ææ©Ìûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckì".Extract the assignment out of this expression.(Ãàˆÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckì".Extract the assignment out of this expression.(Ãàˆÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckî".Extract the assignment out of this expression.(Â­şÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckğ".Extract the assignment out of this expression.(§Ö¸
-d$squid:AssignmentInSubExpressionCheckñ".Extract the assignment out of this expression.(éÒêÍúÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckò".Extract the assignment out of this expression.(ëÄ»
-^$squid:AssignmentInSubExpressionCheckó".Extract the assignment out of this expression.(ß‹º
-_$squid:AssignmentInSubExpressionCheckŸ".Extract the assignment out of this expression.(¾¾«Ö
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(È™Øÿıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck§".Extract the assignment out of this expression.(éœç™úÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÎ".Extract the assignment out of this expression.(ÀÌ¥Ãÿÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckß".Extract the assignment out of this expression.(¶æô 
-_$squid:AssignmentInSubExpressionCheckò".Extract the assignment out of this expression.(ÏõÙ‚
-d$squid:AssignmentInSubExpressionCheck˜".Extract the assignment out of this expression.(™Ëİ“ÿÿÿÿÿ
-o
-squid:S135Ç
-"YReduce the total number of break and continue statements in this loop to use at most one.(Å´Æ4
-p
-squid:S135‰"YReduce the total number of break and continue statements in this loop to use at most one.(°—¬
-u
-squid:S135¹"YReduce the total number of break and continue statements in this loop to use at most one.(Ì£æÅıÿÿÿÿ
-u
-squid:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(Ì£æÅıÿÿÿÿ
-u
-squid:S135ğ"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
-u
-squid:S135Ô"YReduce the total number of break and continue statements in this loop to use at most one.(–äÙºøÿÿÿÿ
-u
-squid:S135ù"YReduce the total number of break and continue statements in this loop to use at most one.(—Âöêÿÿÿÿÿ
-p
-squid:S135ß"YReduce the total number of break and continue statements in this loop to use at most one.(¼ºü
-p
-squid:S135©"YReduce the total number of break and continue statements in this loop to use at most one.(å—ôƒ
-p
-squid:S135û"YReduce the total number of break and continue statements in this loop to use at most one.(Òƒ”Œ
-p
-squid:S135»"YReduce the total number of break and continue statements in this loop to use at most one.(ÒÖ­
-u
-squid:S135Æ"YReduce the total number of break and continue statements in this loop to use at most one.(·•øÿÿÿÿ
-p
-squid:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-u
-squid:S135ş"YReduce the total number of break and continue statements in this loop to use at most one.(¼õËáşÿÿÿÿ
-p
-squid:S135”"YReduce the total number of break and continue statements in this loop to use at most one.(œ½ä«
-u
-squid:S135²"YReduce the total number of break and continue statements in this loop to use at most one.(‹‘Í—úÿÿÿÿ
-\squid:S2583ú"DChange this condition so that it does not always evaluate to "false"(ôë‰ö
-Esquid:S1604ò"(Make this anonymous inner class a lambda(‚²ùùÿÿÿÿ
-?squid:S1604Ã "(Make this anonymous inner class a lambda(úİ
-_squid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(­§äç
-_squid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-_squid:S00112æ"FDefine and throw a dedicated exception instead of using a generic one.(­§äç
-_squid:S00112é"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-}squid:UselessImportCheck0"TRemove this unnecessary import: same package classes are always implicitly imported.(¿÷îİûÿÿÿÿ
-}squid:UselessImportCheck1"TRemove this unnecessary import: same package classes are always implicitly imported.(¾×¶îûÿÿÿÿ
-}squid:UselessImportCheck2"TRemove this unnecessary import: same package classes are always implicitly imported.(æ÷–£ùÿÿÿÿ
-}squid:UselessImportCheck3"TRemove this unnecessary import: same package classes are always implicitly imported.(á¬øíıÿÿÿÿ
-}squid:UselessImportCheck4"TRemove this unnecessary import: same package classes are always implicitly imported.(É‘Äııÿÿÿÿ
-}squid:UselessImportCheck5"TRemove this unnecessary import: same package classes are always implicitly imported.(§·¶ùÿÿÿÿ
-xsquid:UselessImportCheck6"TRemove this unnecessary import: same package classes are always implicitly imported.(¨ÏÙî
-xsquid:UselessImportCheck7"TRemove this unnecessary import: same package classes are always implicitly imported.(Æ™ş
->squid:S3077î"&Use an "AtomicReferenceArray" instead.(««Éñ
-Ksquid:S3077ò".Remove the "volatile" keyword from this field.(Ø­Ğıÿÿÿÿ
-|squid:S1845¼"_Rename field "CTL" to prevent any misunderstanding/clash with field "ctl" defined on line 1770.(ö‹±Ûùÿÿÿÿ
-†squid:S1845½"iRename field "RUNSTATE" to prevent any misunderstanding/clash with field "runState" defined on line 1771.(ñ“éÿÿÿÿÿ
-squid:S1845¾"qRename field "STEALCOUNTER" to prevent any misunderstanding/clash with field "stealCounter" defined on line 1778.(éÂ®‰úÿÿÿÿ
-ssquid:S00115Ù"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒùœ’
-squid:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇÂÖÿıÿÿÿÿ
-Fsquid:S3077½".Remove the "volatile" keyword from this field.(… ƒ³
-Ksquid:S3077¾".Remove the "volatile" keyword from this field.(×‰Î—úÿÿÿÿ
-Fsquid:S3077¿".Remove the "volatile" keyword from this field.(âÔÅ¾
-{squid:S1845˜"cRename field "QLOCK" to prevent any misunderstanding/clash with field "qlock" defined on line 1079.(¶öä²
-7squid:S1659æ"Declare "n" on a separate line.(ğÄññ
-7squid:S1659æ"Declare "m" on a separate line.(ğÄññ
-7squid:S1659æ"Declare "s" on a separate line.(ğÄññ
-6squid:S1659ú"Declare "p" on a separate line.(ü¶ı
-7squid:S1659û"Declare "s" on a separate line.(î­Àó
-7squid:S1659û"Declare "n" on a separate line.(î­Àó
->squid:S1452‘	"&Remove usage of generic wildcard type.(½ş÷ñ
-<squid:S1659–	"Declare "t" on a separate line.(¤×á™ÿÿÿÿÿ
-<squid:S1659–	"Declare "b" on a separate line.(¤×á™ÿÿÿÿÿ
-Csquid:S1452¯	"&Remove usage of generic wildcard type.(ÁÕÉæùÿÿÿÿ
-<squid:S1659°	"Declare "t" on a separate line.(¹ıÔ¹úÿÿÿÿ
-<squid:S1659°	"Declare "m" on a separate line.(¹ıÔ¹úÿÿÿÿ
->squid:S1452Ç	"&Remove usage of generic wildcard type.(™‘é·
-7squid:S1659È	"Declare "a" on a separate line.(“àÀˆ
-Csquid:S1452Ú	"&Remove usage of generic wildcard type.(ÓÍ«ıÿÿÿÿ
-<squid:S1659Û	"Declare "b" on a separate line.(²”õİúÿÿÿÿ
-<squid:S1659Û	"Declare "t" on a separate line.(²”õİúÿÿÿÿ
-=squid:S1452ó	"&Remove usage of generic wildcard type.(­ÑÁ&
-Csquid:S1452ı	"&Remove usage of generic wildcard type.(ë¬Ñòıÿÿÿÿ
-7squid:S1659ş	"Declare "m" on a separate line.(öó‚
-<squid:S1659
-"Declare "s" on a separate line.(¿›’ƒıÿÿÿÿ
-jsquid:S3776Á
-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(çà¦ñ
-7squid:S1659Â
-"Declare "m" on a separate line.(ˆÏğ·
-7squid:S1659Â
-"Declare "s" on a separate line.(ˆÏğ·
-^squid:S3078å
-"AUse an "AtomicInteger" for this field; its operations are atomic.(¦¸¹éÿÿÿÿÿ
-jsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ÿï’¤
-<squid:S1659…"Declare "m" on a separate line.(üŸ½Ôşÿÿÿÿ
-<squid:S1659…"Declare "s" on a separate line.(üŸ½Ôşÿÿÿÿ
-<squid:S1659…"Declare "b" on a separate line.(üŸ½Ôşÿÿÿÿ
-<squid:S1659…"Declare "n" on a separate line.(üŸ½Ôşÿÿÿÿ
->squid:S1452²"&Remove usage of generic wildcard type.(ÄØá«
-jsquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÄØá«
-7squid:S1659³"Declare "a" on a separate line.(ö³Ÿ
-7squid:S1659³"Declare "o" on a separate line.(ö³Ÿ
-jsquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(’Ü¦Í
-7squid:S1659ã"Declare "h" on a separate line.(ï€éß
-7squid:S1659ã"Declare "a" on a separate line.(ï€éß
-7squid:S1659ã"Declare "o" on a separate line.(ï€éß
-<squid:S1659‹"Declare "s" on a separate line.(Ã¹‰¹şÿÿÿÿ
-jsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(«Èù‘
-Gsquid:S00108‘")Either remove or fill this block of code.(¦ñ¾›úÿÿÿÿ
-csquid:S2142¥"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
-Rsquid:S2274¤":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ
-=squid:S1181Û"%Catch Exception instead of Throwable.( Œã
-?squid:S1659ô""Declare "stop" on a separate line.(À éßúÿÿÿÿ
-7squid:S1659—"Declare "n" on a separate line.(ßëÛ
-jsquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¡„®·
-Gsquid:S00108Ë")Either remove or fill this block of code.(„®‘îûÿÿÿÿ
-7squid:S1659Õ"Declare "m" on a separate line.( ‚˜
-8squid:S1659Õ" Declare "sp" on a separate line.( ‚˜
-jsquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Îæã±
-=squid:S1659ø" Declare "sp" on a separate line.(¨ˆıÿÿÿÿ
-<squid:S1659ø"Declare "i" on a separate line.(¨ˆıÿÿÿÿ
-<squid:S1659ø"Declare "v" on a separate line.(¨ˆıÿÿÿÿ
-<squid:S1659ø"Declare "p" on a separate line.(¨ˆıÿÿÿÿ
-8squid:S1659¢" Declare "vs" on a separate line.(Ì÷õõ
-7squid:S1659¢"Declare "p" on a separate line.(Ì÷õõ
-jsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(“Ÿè˜
-7squid:S1659Ü"Declare "m" on a separate line.(şÔµ
-<squid:S1659à"Declare "a" on a separate line.(ÄÚ°ùÿÿÿÿÿ
-<squid:S1659à"Declare "t" on a separate line.(ÄÚ°ùÿÿÿÿÿ
-<squid:S1659á"Declare "n" on a separate line.(É·úäûÿÿÿÿ
-<squid:S1659á"Declare "c" on a separate line.(É·úäûÿÿÿÿ
-osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(ÆÕõ¤ùÿÿÿÿ
-=squid:S1659¯" Declare "ws" on a separate line.(ŸÔÓ”ÿÿÿÿÿ
-<squid:S1659¯"Declare "s" on a separate line.(ŸÔÓ”ÿÿÿÿÿ
-<squid:S1659¯"Declare "j" on a separate line.(ŸÔÓ”ÿÿÿÿÿ
-=squid:S1659¯" Declare "sc" on a separate line.(ŸÔÓ”ÿÿÿÿÿ
-=squid:S1659º"%Declare "prevctl" on a separate line.(“¢ğå
->squid:S1659º"&Declare "parkTime" on a separate line.(“¢ğå
->squid:S1659º"&Declare "deadline" on a separate line.(“¢ğå
-osquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(‘†õ€şÿÿÿÿ
-<squid:S1659ô"Declare "s" on a separate line.(¼‰Ë‚ÿÿÿÿÿ
-<squid:S1659ô"Declare "m" on a separate line.(¼‰Ë‚ÿÿÿÿÿ
-7squid:S1659ü"Declare "q" on a separate line.(Õ©Š·
-osquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(ÖÊ¥ÿÿÿÿÿ
->squid:S1659³"&Declare "checkSum" on a separate line.(¦ë÷¾
-7squid:S1659³"Declare "m" on a separate line.(¦ë÷¾
-<squid:S1659¹"Declare "v" on a separate line.(Ó½šïúÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckº";Refactor the code to remove this label and the need for it.(·•ÀÆ
-<squid:S1659Ç"Declare "b" on a separate line.(âÍŸùÿÿÿÿ
-osquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(è¹úÿÿÿÿ
-<squid:S1659ü"Declare "c" on a separate line.(ÎÂ÷½şÿÿÿÿ
-<squid:S1659ü"Declare "m" on a separate line.(ÎÂ÷½şÿÿÿÿ
-=squid:S1659ü" Declare "pc" on a separate line.(ÎÂ÷½şÿÿÿÿ
-=squid:S1659ü" Declare "sp" on a separate line.(ÎÂ÷½şÿÿÿÿ
-8squid:S1659›" Declare "rs" on a separate line.(ş€ ö
-osquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(‹·ãªûÿÿÿÿ
-8squid:S1659Ã" Declare "ns" on a separate line.(•Öß½
-jsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(öåêŠ
-<squid:S1659ß"Declare "m" on a separate line.(ÅËÿÿÿÿÿ
-7squid:S1659ã"Declare "b" on a separate line.(›Ğùì
-jsquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(á½íÒ
-<squid:S1659ÿ"Declare "q" on a separate line.(—Ğšâùÿÿÿÿ
-<squid:S1659ÿ"Declare "t" on a separate line.(—Ğšâùÿÿÿÿ
-<squid:S1659ÿ"Declare "b" on a separate line.(—Ğšâùÿÿÿÿ
->squid:S1452¤"&Remove usage of generic wildcard type.(ÌüÿÖ
-7squid:S1659¦"Declare "b" on a separate line.(›Ğùì
-8squid:S1659ê" Declare "wt" on a separate line.(Èéı¼
-:squid:S1659ê""Declare "pool" on a separate line.(Èéı¼
-7squid:S1659ê"Declare "q" on a separate line.(Èéı¼
-asquid:S3358ñ"DExtract this nested ternary operation into an independent statement.(éÒêÍúÿÿÿÿ
-\squid:S3358ò"DExtract this nested ternary operation into an independent statement.(ëÄ»
-[squid:S3358ó"DExtract this nested ternary operation into an independent statement.(ß‹º
-jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 97 to the 15 allowed.(´úœÇ
-<squid:S1659•"Declare "w" on a separate line.(ªİÇ¡ùÿÿÿÿ
-<squid:S1659•"Declare "m" on a separate line.(ªİÇ¡ùÿÿÿÿ
-<squid:S1659•"Declare "b" on a separate line.(ªİÇ¡ùÿÿÿÿ
-<squid:S1659•"Declare "c" on a separate line.(ªİÇ¡ùÿÿÿÿ
-7squid:S1659³"Declare "w" on a separate line.(ò¨Ÿ•
-8squid:S1659³" Declare "wt" on a separate line.(ò¨Ÿ•
-7squid:S1659³"Declare "m" on a separate line.(ò¨Ÿ•
-=squid:S1181È"%Catch Exception instead of Throwable.(Æ·™‹
-Bsquid:S00108È")Either remove or fill this block of code.(Æ·™‹
-<squid:S1659Ø"Declare "j" on a separate line.(Îò¹úÿÿÿÿ
-=squid:S1659Ø" Declare "sp" on a separate line.(Îò¹úÿÿÿÿ
-jsquid:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(èì
-<squid:S1659ö"Declare "q" on a separate line.(ü¿ÂÓşÿÿÿÿ
-=squid:S1659ö" Declare "rs" on a separate line.(ü¿ÂÓşÿÿÿÿ
-<squid:S1659ö"Declare "m" on a separate line.(ü¿ÂÓşÿÿÿÿ
-<squid:S1659ö"Declare "k" on a separate line.(ü¿ÂÓşÿÿÿÿ
-7squid:S1659Æ"Declare "q" on a separate line.(úç³
-7squid:S1659Æ"Declare "m" on a separate line.(úç³
-=squid:S1659Ì" Declare "am" on a separate line.(Ì®Êıÿÿÿÿ
-<squid:S1659Ì"Declare "n" on a separate line.(Ì®Êıÿÿÿÿ
-<squid:S1659Ì"Declare "s" on a separate line.(Ì®Êıÿÿÿÿ
-7squid:S1659å"Declare "m" on a separate line.(şÔµ
-<squid:S1659ô"Declare "w" on a separate line.(ÁÒ¹ğùÿÿÿÿ
-<squid:S1659ô"Declare "a" on a separate line.(ÁÒ¹ğùÿÿÿÿ
-<squid:S1659ô"Declare "m" on a separate line.(ÁÒ¹ğùÿÿÿÿ
-<squid:S1659ô"Declare "s" on a separate line.(ÁÒ¹ğùÿÿÿÿ
-<squid:S1659"Declare "n" on a separate line.(©ƒşÿûÿÿÿÿ
-Wsquid:S1161ˆ":Add the "@Override" annotation above this method signature(¨èï®üÿÿÿÿ
-vsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Çí†ùÿÿÿÿ
-Rsquid:S1161•":Add the "@Override" annotation above this method signature(âÒ¼ª
-qsquid:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Íâ§
-Wsquid:S1161¢":Add the "@Override" annotation above this method signature(ã÷«“øÿÿÿÿ
-Rsquid:S1161´":Add the "@Override" annotation above this method signature(‘®Ş
-vsquid:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ã¶Ñüÿÿÿÿ
-<squid:S1659¯"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
-<squid:S1659ğ"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
-<squid:S1659Š"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
-<squid:S1659¡"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
-<squid:S1659¶"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
->squid:S1452Ë"&Remove usage of generic wildcard type.(¤€ñŠ
-7squid:S1659Ì"Declare "w" on a separate line.(ØŠöÅ
-7squid:S1659Ì"Declare "t" on a separate line.(ØŠöÅ
-7squid:S1659î"Declare "w" on a separate line.(ØŠöÅ
-7squid:S1659î"Declare "t" on a separate line.(ØŠöÅ
-jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Á»›ê
-8squid:S1659‰" Declare "qs" on a separate line.(ª¼Ó¦
-8squid:S1659‰" Declare "rc" on a separate line.(ª¼Ó¦
-<squid:S1659"Declare "w" on a separate line.(ô¯…¬ûÿÿÿÿ
-\squid:S3358¤"DExtract this nested ternary operation into an independent statement.(£Ñ¹Â
-asquid:S3358¥"DExtract this nested ternary operation into an independent statement.(Ë§¼Õùÿÿÿÿ
-osquid:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(»„±‰şÿÿÿÿ
-7squid:S1659å"Declare "m" on a separate line.(ûÇôÂ
-<squid:S1659ğ"Declare "q" on a separate line.(üÇ¬³úÿÿÿÿ
-<squid:S1659ğ"Declare "b" on a separate line.(üÇ¬³úÿÿÿÿ
-<squid:S1659ğ"Declare "k" on a separate line.(üÇ¬³úÿÿÿÿ
-osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²íë—ÿÿÿÿÿ
-Bsquid:S00108")Either remove or fill this block of code.(¼á™ù
-Bsquid:S00108§")Either remove or fill this block of code.(¼á™ù
-Wsquid:S1161°":Add the "@Override" annotation above this method signature(ÿúëêûÿÿÿÿ
-qsquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÛ‹Ò
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(—¯ÕËøÿÿÿÿ
-qsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÒÌ
-asquid:CallToDeprecatedMethod "3Remove this use of "newInstance"; it is deprecated.(ÒãÇ±ÿÿÿÿÿ
-\squid:CallToDeprecatedMethod‘ "3Remove this use of "newInstance"; it is deprecated.(ô¯É•
-Bsquid:S00108’ ")Either remove or fill this block of code.(ìŠÈ
-Xsquid:S1905Á "@Remove this unnecessary cast to "InnocuousForkJoinWorkerThread".(ï¡»©
-Csquid:S1481¯"&Remove this unused "s" local variable.(ŸÔÓ”ÿÿÿÿÿ
-Dsquid:S1481¯"'Remove this unused "sc" local variable.(ŸÔÓ”ÿÿÿÿÿ
-]squid:S3398ÿ"@Move this method into the anonymous class declared at line 4082.(‰Œ¾«ûÿÿÿÿ
-hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÔïşÊÿÿÿÿÿ
-hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(„ÛùÕùÿÿÿÿ

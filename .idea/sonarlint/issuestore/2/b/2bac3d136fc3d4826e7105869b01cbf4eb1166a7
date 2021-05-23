@@ -1,13 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¬ª™üÿÿÿÿÿ
-esquid:S1192Î"MDefine a constant instead of duplicating this literal "KeyTransport" 3 times.(‘”½Ö
-jsquid:S1192Â"RDefine a constant instead of duplicating this literal "AES/GCM/NoPadding" 3 times.(£¾Âì
-msquid:S1192²"PDefine a constant instead of duplicating this literal "BlockEncryption" 7 times.(ëžû…ûÿÿÿÿ
-esquid:S1192â"HDefine a constant instead of duplicating this literal "AESWrap" 3 times.(äçµ¨øÿÿÿÿ
-gsquid:S1192n"KDefine a constant instead of duplicating this literal "Signature" 11 times.(õÖèãÿÿÿÿÿ
-isquid:S1192ú"QDefine a constant instead of duplicating this literal "Request for URI " 4 times.(ßŸ ´
-nsquid:S1192Þ"QDefine a constant instead of duplicating this literal "SymmetricKeyWrap" 4 times.(ïÙ©Äúÿÿÿÿ
-esquid:S1192V"NDefine a constant instead of duplicating this literal "MessageDigest" 6 times.(õãÿâ
-psquid:S1192¶"XDefine a constant instead of duplicating this literal "AES/CBC/ISO10126Padding" 3 times.(Íý‰Û
-Vsquid:S11181":Add a private constructor to hide the implicit public one.(Ÿôè­üÿÿÿÿ
-psquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(×Éà¢

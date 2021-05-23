@@ -1,10 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ıŒÇ
-Psquid:S1854W":Remove this useless assignment to local variable "prefix".(ü·´-
-Vsquid:S1161K":Add the "@Override" annotation above this method signature(Ú£óùÿÿÿÿ
-wsquid:S3252X"aUse static access with "com.sun.org.apache.xml.internal.utils.Constants" for "S_XSLNAMESPACEURL".(Ò†…
-}squid:S3252d"aUse static access with "com.sun.org.apache.xml.internal.utils.Constants" for "S_XSLNAMESPACEURL".(­ÅÁáúÿÿÿÿ
-squid:S3252e"hUse static access with "com.sun.org.apache.xml.internal.utils.Constants" for "S_BUILTIN_EXTENSIONS_URL".(¹•ÚŠ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ÅÉâ
-gsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ

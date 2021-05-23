@@ -1,29 +1,0 @@
-
-Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(–¥á¤
-}squid:S1192¿"eDefine a constant instead of duplicating this literal "signature.Transform.UnknownTransform" 6 times.(§­ËÃ
-osquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‹€‚ÿÿÿÿÿ
-usquid:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼•ÒØıÿÿÿÿ
-•%squid:RedundantThrowsDeclarationCheck±"İRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(‘†õ‰ıÿÿÿÿ
-“%squid:RedundantThrowsDeclarationCheck±"ÛRemove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.TransformationException' which is a subclass of 'com.sun.org.apache.xml.internal.security.exceptions.XMLSecurityException'.(‘†õ‰ıÿÿÿÿ
-Psquid:S1197¸"8Move the array designator from the variable to the type.(üñŞ£
-Usquid:S1197¾"8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
-]squid:S2147È"ECombine this catch with the one at line 195, which has the same body.(ã€ 
-asquid:CallToDeprecatedMethodÂ"3Remove this use of "newInstance"; it is deprecated.(öãÀÏıÿÿÿÿ
-Usquid:S1197Ä"8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
-osquid:CallToDeprecatedMethodÅ"ARemove this use of "InvalidTransformException"; it is deprecated.(Â…Ëêøÿÿÿÿ
-Usquid:S1197É"8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
-osquid:CallToDeprecatedMethodÊ"ARemove this use of "InvalidTransformException"; it is deprecated.(Â…Ëêøÿÿÿÿ
-Ş%squid:RedundantThrowsDeclarationCheckâ"¦Remove the declaration of thrown exception 'com.sun.org.apache.xml.internal.security.transforms.InvalidTransformException', as it cannot be thrown from method's body.(µËşûÿÿÿÿ
-Psquid:S1197ç"8Move the array designator from the variable to the type.(ê˜èÇ
-Psquid:S1197…"8Move the array designator from the variable to the type.(ê˜èÇ
-Osquid:S1197ò"8Move the array designator from the variable to the type.(ÄğÈ
-osquid:CallToDeprecatedMethodó"ARemove this use of "CanonicalizationException"; it is deprecated.(”É€úúÿÿÿÿ
-Psquid:S1197ö"8Move the array designator from the variable to the type.(Œ²î¥
-osquid:CallToDeprecatedMethod÷"ARemove this use of "CanonicalizationException"; it is deprecated.(”É€úúÿÿÿÿ
-Usquid:S1197"8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
-]squid:S2147š"ECombine this catch with the one at line 405, which has the same body.(ã€ 
-\squid:CallToDeprecatedMethod”"3Remove this use of "newInstance"; it is deprecated.(ËÕ¤ÿ
-Usquid:S1197–"8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
-osquid:CallToDeprecatedMethod—"ARemove this use of "InvalidTransformException"; it is deprecated.(Â…Ëêøÿÿÿÿ
-Usquid:S1197›"8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
-osquid:CallToDeprecatedMethodœ"ARemove this use of "InvalidTransformException"; it is deprecated.(Â…Ëêøÿÿÿÿ

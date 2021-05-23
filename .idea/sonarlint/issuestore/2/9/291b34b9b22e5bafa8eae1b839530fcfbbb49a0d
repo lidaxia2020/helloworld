@@ -1,14 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-c$squid:AssignmentInSubExpressionCheckF".Extract the assignment out of this expression.(¥„àüÿÿÿÿ
-c$squid:AssignmentInSubExpressionCheckG".Extract the assignment out of this expression.(ÿıõæÿÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheck{".Extract the assignment out of this expression.(ˆ¢Ç³
-ssquid:S00116A"VRename this field "_filterExpr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¥©êıÿÿÿÿ
-msquid:S00116B"PRename this field "_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÍş÷øÿÿÿÿ
-zsquid:S00116C"]Rename this field "_hasDescendantAxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¥±Øÿÿÿÿÿ
-Qsquid:S1161J":Add the "@Override" annotation above this method signature(­‘“
-Vsquid:S1161`":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-@squid:S1125b")Remove the literal "false" boolean value.(™¤Ô‰
-Qsquid:S1161~":Add the "@Override" annotation above this method signature(†“‹Ø
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(¾¼Úßüÿÿÿÿ

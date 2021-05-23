@@ -1,9 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-Œ"squid:ClassVariableVisibilityCheckC"YMake fColumnNumber a static final constant or non-public and provide accessors if needed.(æÔê½ùÿÿÿÿ
-Š"squid:ClassVariableVisibilityCheckL"WMake fLineNumber a static final constant or non-public and provide accessors if needed.(ÏÉ®ªıÿÿÿÿ
-‹"squid:ClassVariableVisibilityCheckO"XMake fRelatedNode a static final constant or non-public and provide accessors if needed.(®ÏÍ½úÿÿÿÿ
-ƒ"squid:ClassVariableVisibilityCheckX"PMake fUri a static final constant or non-public and provide accessors if needed.(«ÅïÒıÿÿÿÿ
-…"squid:ClassVariableVisibilityChecka"WMake fByteOffset a static final constant or non-public and provide accessors if needed.(¹Ñ
-‹"squid:ClassVariableVisibilityCheckk"XMake fUtf16Offset a static final constant or non-public and provide accessors if needed.(ÑÁ’ùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

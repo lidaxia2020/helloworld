@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-psquid:UselessImportCheckZ"GRemove this unused import 'com.sun.org.apache.bcel.internal.Constants'.(Öü«ûÿÿÿÿ
-Gsquid:S2160j"+Override the "equals" method in this class.(ßˆıøÿÿÿÿ
-Wsquid:S1161Š":Add the "@Override" annotation above this method signature(Ğœáõüÿÿÿÿ
-Rsquid:S1161œ":Add the "@Override" annotation above this method signature(¹Û‚æ
-Rsquid:S1161©":Add the "@Override" annotation above this method signature(‹¢ºï
-Rsquid:S1161º":Add the "@Override" annotation above this method signature(­åì…

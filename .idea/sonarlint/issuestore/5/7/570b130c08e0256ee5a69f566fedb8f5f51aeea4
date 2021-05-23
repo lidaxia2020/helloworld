@@ -1,9 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ƒ·¸ëúÿÿÿÿ
-Isquid:S1199u"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199„"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199Š"-Extract this nested code block into a method.(«¦ÿäüÿÿÿÿ
-Jsquid:S1199’"-Extract this nested code block into a method.(µ®Ô£üÿÿÿÿ
-}squid:S1149±"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ËüšÕ
-Tsquid:S1854…"<Remove this useless assignment to local variable "hereNode".(Æ‹éó
-Jsquid:S1135 "2Complete the task associated to this TODO comment.(Ú…â­

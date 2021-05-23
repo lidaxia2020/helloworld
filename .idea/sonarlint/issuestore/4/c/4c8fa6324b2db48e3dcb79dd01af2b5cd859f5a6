@@ -1,14 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ýŒÇ
-isquid:S00116:"QRename this field "m_arg1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ê©æ
-|squid:S1149Y"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Vsquid:S1161n":Add the "@Override" annotation above this method signature(ÆúäÁùÿÿÿÿ
-Wsquid:S1161Š":Add the "@Override" annotation above this method signature(Å¯³Ïýÿÿÿÿ
-Rsquid:S1161š":Add the "@Override" annotation above this method signature(ÿ…áž
-ƒsquid:S3252›"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(€°Óµýÿÿÿÿ
-Wsquid:S1161¨":Add the "@Override" annotation above this method signature(ö™±¨ûÿÿÿÿ
-Esquid:S1125«"(Remove the literal "true" boolean value.(ªûÈŸúÿÿÿÿ
-Wsquid:S1161Í":Add the "@Override" annotation above this method signature(Éâè—ýÿÿÿÿ
-Wsquid:S1161Ù":Add the "@Override" annotation above this method signature(ôÝè¬ýÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-gsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(ü…Â¬üÿÿÿÿ

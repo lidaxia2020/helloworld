@@ -1,376 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheckĞ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îæ„‚ùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÑ"XRefactor the code in order to not assign to this loop counter from within the loop body.(­‡øÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÕ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê·×”
-Š squid:ForLoopCounterChangedCheck×"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍàŸûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckİ"XRefactor the code in order to not assign to this loop counter from within the loop body.(–º·
-… squid:ForLoopCounterChangedCheckŞ"XRefactor the code in order to not assign to this loop counter from within the loop body.(šÖ±“
-… squid:ForLoopCounterChangedCheckâ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âé«æ
-… squid:ForLoopCounterChangedCheckä"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¾™²
-Š squid:ForLoopCounterChangedCheckÁ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îæ„‚ùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÂ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ô—Ÿíûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê·×”
-Š squid:ForLoopCounterChangedCheckÈ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍàŸûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÎ"XRefactor the code in order to not assign to this loop counter from within the loop body.(–º·
-Š squid:ForLoopCounterChangedCheckÏ"XRefactor the code in order to not assign to this loop counter from within the loop body.(à·–†úÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÓ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âé«æ
-… squid:ForLoopCounterChangedCheckÕ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¾™²
-Š squid:ForLoopCounterChangedCheck°"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îæ„‚ùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck±"XRefactor the code in order to not assign to this loop counter from within the loop body.(Öƒ‡ùÿÿÿÿ
-… squid:ForLoopCounterChangedCheckµ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê·×”
-Š squid:ForLoopCounterChangedCheck·"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍàŸûÿÿÿÿ
-… squid:ForLoopCounterChangedCheck½"XRefactor the code in order to not assign to this loop counter from within the loop body.(–º·
-Š squid:ForLoopCounterChangedCheck¾"XRefactor the code in order to not assign to this loop counter from within the loop body.(İÉåıÿÿÿÿ
-… squid:ForLoopCounterChangedCheckÂ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âé«æ
-… squid:ForLoopCounterChangedCheckÄ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¾™²
-Š squid:ForLoopCounterChangedCheckŸ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îæ„‚ùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck "XRefactor the code in order to not assign to this loop counter from within the loop body.(Ö¬œƒşÿÿÿÿ
-… squid:ForLoopCounterChangedCheck¤"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê·×”
-Š squid:ForLoopCounterChangedCheck¦"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍàŸûÿÿÿÿ
-… squid:ForLoopCounterChangedCheck¬"XRefactor the code in order to not assign to this loop counter from within the loop body.(–º·
-Š squid:ForLoopCounterChangedCheck­"XRefactor the code in order to not assign to this loop counter from within the loop body.(»ÍÓÏüÿÿÿÿ
-… squid:ForLoopCounterChangedCheck±"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âé«æ
-… squid:ForLoopCounterChangedCheck³"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¾™²
-Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îæ„‚ùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(œÍÒ†şÿÿÿÿ
-… squid:ForLoopCounterChangedCheck“"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê·×”
-Š squid:ForLoopCounterChangedCheck•"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍàŸûÿÿÿÿ
-… squid:ForLoopCounterChangedCheck›"XRefactor the code in order to not assign to this loop counter from within the loop body.(–º·
-Š squid:ForLoopCounterChangedCheckœ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÿˆáçúÿÿÿÿ
-… squid:ForLoopCounterChangedCheck "XRefactor the code in order to not assign to this loop counter from within the loop body.(Âé«æ
-… squid:ForLoopCounterChangedCheck¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¾™²
-Š squid:ForLoopCounterChangedCheckı"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îæ„‚ùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckş"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ûà²şÿÿÿÿ
-… squid:ForLoopCounterChangedCheck‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê·×”
-Š squid:ForLoopCounterChangedCheck„"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍàŸûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckŠ"XRefactor the code in order to not assign to this loop counter from within the loop body.(–º·
-„ squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ëÒ1
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âé«æ
-… squid:ForLoopCounterChangedCheck‘"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¾™²
-Š squid:ForLoopCounterChangedCheckì"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îæ„‚ùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(€‚±ûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê·×”
-Š squid:ForLoopCounterChangedCheckó"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍàŸûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckù"XRefactor the code in order to not assign to this loop counter from within the loop body.(–º·
-„ squid:ForLoopCounterChangedCheckú"XRefactor the code in order to not assign to this loop counter from within the loop body.(¹Ôp
-… squid:ForLoopCounterChangedCheckş"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âé«æ
-… squid:ForLoopCounterChangedCheck€"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¾™²
-Š squid:ForLoopCounterChangedCheckÛ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Îæ„‚ùÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckÜ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ë–ß¤ıÿÿÿÿ
-… squid:ForLoopCounterChangedCheckà"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ê·×”
-Š squid:ForLoopCounterChangedCheckâ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÍàŸûÿÿÿÿ
-… squid:ForLoopCounterChangedCheckè"XRefactor the code in order to not assign to this loop counter from within the loop body.(–º·
-… squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(Çò‘Ÿ
-… squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(Âé«æ
-… squid:ForLoopCounterChangedCheckï"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾¾™²
-d$squid:AssignmentInSubExpressionCheckÑ".Extract the assignment out of this expression.(­‡øÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckŞ".Extract the assignment out of this expression.(šÖ±“
-d$squid:AssignmentInSubExpressionCheckó".Extract the assignment out of this expression.(÷î×Ëùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckó".Extract the assignment out of this expression.(÷î×Ëùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÂ".Extract the assignment out of this expression.(Ô—Ÿíûÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÏ".Extract the assignment out of this expression.(à·–†úÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck±".Extract the assignment out of this expression.(Öƒ‡ùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(İÉåıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck ".Extract the assignment out of this expression.(Ö¬œƒşÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck­".Extract the assignment out of this expression.(»ÍÓÏüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(œÍÒ†şÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckœ".Extract the assignment out of this expression.(ÿˆáçúÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckş".Extract the assignment out of this expression.(Ûà²şÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheck‹".Extract the assignment out of this expression.(ëÒ1
-d$squid:AssignmentInSubExpressionCheckí".Extract the assignment out of this expression.(€‚±ûÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheckú".Extract the assignment out of this expression.(¹Ôp
-d$squid:AssignmentInSubExpressionCheckÜ".Extract the assignment out of this expression.(Ë–ß¤ıÿÿÿÿ
-_$squid:AssignmentInSubExpressionChecké".Extract the assignment out of this expression.(Çò‘Ÿ
-u
-squid:S135Ì"YReduce the total number of break and continue statements in this loop to use at most one.(±”ãğÿÿÿÿÿ
-u
-squid:S135½"YReduce the total number of break and continue statements in this loop to use at most one.(±”ãğÿÿÿÿÿ
-u
-squid:S135¬"YReduce the total number of break and continue statements in this loop to use at most one.(±”ãğÿÿÿÿÿ
-u
-squid:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(±”ãğÿÿÿÿÿ
-u
-squid:S135Š"YReduce the total number of break and continue statements in this loop to use at most one.(±”ãğÿÿÿÿÿ
-u
-squid:S135ù"YReduce the total number of break and continue statements in this loop to use at most one.(±”ãğÿÿÿÿÿ
-u
-squid:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(±”ãğÿÿÿÿÿ
-u
-squid:S135×"YReduce the total number of break and continue statements in this loop to use at most one.(±”ãğÿÿÿÿÿ
-_squid:S00107“"AConstructor has 8 parameters, which is greater than 7 authorized.(…•»çÿÿÿÿÿ
-`squid:S00107¸"BConstructor has 10 parameters, which is greater than 7 authorized.(ôíÆ›ÿÿÿÿÿ
-_squid:S00107­"AConstructor has 9 parameters, which is greater than 7 authorized.(øªÏøüÿÿÿÿ
-_squid:S00107œ"AConstructor has 9 parameters, which is greater than 7 authorized.(¥ÊÄ€ùÿÿÿÿ
-Ysquid:S00107‹"AConstructor has 9 parameters, which is greater than 7 authorized.(Ëœú0
-Zsquid:S00107ú"AConstructor has 9 parameters, which is greater than 7 authorized.(ÌşÚÜ
-_squid:S00107é"AConstructor has 9 parameters, which is greater than 7 authorized.(‚Üˆéıÿÿÿÿ
-Zsquid:S00107Ø"AConstructor has 9 parameters, which is greater than 7 authorized.(¿ãáê
-Zsquid:S00107Ç"AConstructor has 9 parameters, which is greater than 7 authorized.(ìğ‚
-jsquid:UselessImportCheck"ARemove this unused import 'java.util.concurrent.RecursiveAction'.( Ú¼ıÿÿÿÿÿ
-Vsquid:S1118\":Add a private constructor to hide the implicit public one.(’´Û³ùÿÿÿÿ
-squid:S1186v"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï•¥Çøÿÿÿÿ
-squid:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï•¥Çøÿÿÿÿ
-Rsquid:S1161‡":Add the "@Override" annotation above this method signature(è—å‡
-Rsquid:S1118":Add a private constructor to hide the implicit public one.(ŸÛ£
-7squid:S1659"Declare "w" on a separate line.(äÅéÇ
-:squid:S1659‘""Declare "size" on a separate line.(€­ßÔ
-;squid:S1659‘"#Declare "wbase" on a separate line.(€­ßÔ
-:squid:S1659‘""Declare "gran" on a separate line.(€­ßÔ
-;squid:S1948"#Make "a" transient or serializable.(äÅéÇ
-;squid:S1948"#Make "w" transient or serializable.(äÅéÇ
-Dsquid:S1948’",Make "comparator" transient or serializable.(ğ‹ŠÅ
-7squid:S1659"Declare "w" on a separate line.(Êˆ–…
-<squid:S1659Ÿ"Declare "n" on a separate line.(êÀ‰§ûÿÿÿÿ
-=squid:S1659Ÿ" Declare "wb" on a separate line.(êÀ‰§ûÿÿÿÿ
-<squid:S1659Ÿ"Declare "g" on a separate line.(êÀ‰§ûÿÿÿÿ
-Ysquid:HiddenFieldCheck"6Rename "a" which hides the field declared at line 144.(Êˆ–…
-Ysquid:HiddenFieldCheck"6Rename "w" which hides the field declared at line 144.(Êˆ–…
-6squid:S1659¡"Declare "q" on a separate line.(…µ°3
-6squid:S1659¡"Declare "u" on a separate line.(…µ°3
-Gsquid:EmptyStatementUsageCheck§"Remove this empty statement.(ŸĞø
-7squid:S1659µ"Declare "w" on a separate line.(š¨º
-@squid:S1659¶"#Declare "lsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659¶"#Declare "rbase" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659¶"#Declare "rsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659¶"#Declare "wbase" on a separate line.(Õìåïùÿÿÿÿ
-?squid:S1659¶""Declare "gran" on a separate line.(Õìåïùÿÿÿÿ
-;squid:S1948µ"#Make "a" transient or serializable.(š¨º
-;squid:S1948µ"#Make "w" transient or serializable.(š¨º
-Dsquid:S1948·",Make "comparator" transient or serializable.(ğ‹ŠÅ
-osquid:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-7squid:S1659Æ"Declare "w" on a separate line.(Êˆ–…
-=squid:S1659Ç" Declare "ln" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659Ç" Declare "rb" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659È" Declare "rn" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659È"Declare "k" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659È"Declare "g" on a separate line.(×¢‹Óÿÿÿÿÿ
-8squid:S1659ğ" Declare "rf" on a separate line.(ĞŞÿé
-Ysquid:HiddenFieldCheckÆ"6Rename "a" which hides the field declared at line 181.(Êˆ–…
-Ysquid:HiddenFieldCheckÆ"6Rename "w" which hides the field declared at line 181.(Êˆ–…
-qsquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ÿ…ë
-=squid:S1659ò" Declare "al" on a separate line.(ªã¢ûÿÿÿÿ
-=squid:S1659ò" Declare "ar" on a separate line.(ªã¢ûÿÿÿÿ
-Rsquid:S1118‡":Add a private constructor to hide the implicit public one.(¼£¨ı
-7squid:S1659Š"Declare "w" on a separate line.(Â—‚
-:squid:S1659‹""Declare "size" on a separate line.(€­ßÔ
-;squid:S1659‹"#Declare "wbase" on a separate line.(€­ßÔ
-:squid:S1659‹""Declare "gran" on a separate line.(€­ßÔ
-7squid:S1659”"Declare "w" on a separate line.(Ï€”ß
-<squid:S1659•"Declare "n" on a separate line.(êÀ‰§ûÿÿÿÿ
-=squid:S1659•" Declare "wb" on a separate line.(êÀ‰§ûÿÿÿÿ
-<squid:S1659•"Declare "g" on a separate line.(êÀ‰§ûÿÿÿÿ
-Ysquid:HiddenFieldCheck”"6Rename "a" which hides the field declared at line 266.(Ï€”ß
-Ysquid:HiddenFieldCheck”"6Rename "w" which hides the field declared at line 266.(Ï€”ß
-6squid:S1659—"Declare "q" on a separate line.(…µ°3
-6squid:S1659—"Declare "u" on a separate line.(…µ°3
-Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(†ü¶
-7squid:S1659«"Declare "w" on a separate line.(Š’Ù‘
-@squid:S1659¬"#Declare "lsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659¬"#Declare "rbase" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659¬"#Declare "rsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659¬"#Declare "wbase" on a separate line.(Õìåïùÿÿÿÿ
-?squid:S1659¬""Declare "gran" on a separate line.(Õìåïùÿÿÿÿ
-osquid:S3776·"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-7squid:S1659¸"Declare "w" on a separate line.(Ï€”ß
-=squid:S1659¹" Declare "ln" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659¹" Declare "rb" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659º" Declare "rn" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659º"Declare "k" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659º"Declare "g" on a separate line.(×¢‹Óÿÿÿÿÿ
-8squid:S1659á" Declare "rf" on a separate line.(ĞŞÿé
-Ysquid:HiddenFieldCheck¸"6Rename "a" which hides the field declared at line 299.(Ï€”ß
-Ysquid:HiddenFieldCheck¸"6Rename "w" which hides the field declared at line 299.(Ï€”ß
-=squid:S1659ã" Declare "al" on a separate line.(ñ…Î’ıÿÿÿÿ
-=squid:S1659ã" Declare "ar" on a separate line.(ñ…Î’ıÿÿÿÿ
-Rsquid:S1118ö":Add a private constructor to hide the implicit public one.(´ÚÂÄ
-7squid:S1659ù"Declare "w" on a separate line.(òÚó
-:squid:S1659ú""Declare "size" on a separate line.(€­ßÔ
-;squid:S1659ú"#Declare "wbase" on a separate line.(€­ßÔ
-:squid:S1659ú""Declare "gran" on a separate line.(€­ßÔ
-7squid:S1659ƒ"Declare "w" on a separate line.(ßêÜ¯
-<squid:S1659„"Declare "n" on a separate line.(êÀ‰§ûÿÿÿÿ
-=squid:S1659„" Declare "wb" on a separate line.(êÀ‰§ûÿÿÿÿ
-<squid:S1659„"Declare "g" on a separate line.(êÀ‰§ûÿÿÿÿ
-Ysquid:HiddenFieldCheckƒ"6Rename "a" which hides the field declared at line 377.(ßêÜ¯
-Ysquid:HiddenFieldCheckƒ"6Rename "w" which hides the field declared at line 377.(ßêÜ¯
-6squid:S1659†"Declare "q" on a separate line.(…µ°3
-6squid:S1659†"Declare "u" on a separate line.(…µ°3
-Fsquid:EmptyStatementUsageCheckŒ"Remove this empty statement.(†ü¶
-<squid:S1659š"Declare "w" on a separate line.(ëÈçÈúÿÿÿÿ
-@squid:S1659›"#Declare "lsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659›"#Declare "rbase" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659›"#Declare "rsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659›"#Declare "wbase" on a separate line.(Õìåïùÿÿÿÿ
-?squid:S1659›""Declare "gran" on a separate line.(Õìåïùÿÿÿÿ
-osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-7squid:S1659§"Declare "w" on a separate line.(ßêÜ¯
-=squid:S1659¨" Declare "ln" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659¨" Declare "rb" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659©" Declare "rn" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659©"Declare "k" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659©"Declare "g" on a separate line.(×¢‹Óÿÿÿÿÿ
-8squid:S1659Ğ" Declare "rf" on a separate line.(ĞŞÿé
-Ysquid:HiddenFieldCheck§"6Rename "a" which hides the field declared at line 410.(ßêÜ¯
-Ysquid:HiddenFieldCheck§"6Rename "w" which hides the field declared at line 410.(ßêÜ¯
-8squid:S1659Ò" Declare "al" on a separate line.(›ÓôÂ
-8squid:S1659Ò" Declare "ar" on a separate line.(›ÓôÂ
-Qsquid:S1118å":Add a private constructor to hide the implicit public one.(”ìæ?
-<squid:S1659è"Declare "w" on a separate line.(º‹Ğöıÿÿÿÿ
-:squid:S1659é""Declare "size" on a separate line.(€­ßÔ
-;squid:S1659é"#Declare "wbase" on a separate line.(€­ßÔ
-:squid:S1659é""Declare "gran" on a separate line.(€­ßÔ
-<squid:S1659ò"Declare "w" on a separate line.(Œİ´”úÿÿÿÿ
-<squid:S1659ó"Declare "n" on a separate line.(êÀ‰§ûÿÿÿÿ
-=squid:S1659ó" Declare "wb" on a separate line.(êÀ‰§ûÿÿÿÿ
-<squid:S1659ó"Declare "g" on a separate line.(êÀ‰§ûÿÿÿÿ
-^squid:HiddenFieldCheckò"6Rename "a" which hides the field declared at line 488.(Œİ´”úÿÿÿÿ
-^squid:HiddenFieldCheckò"6Rename "w" which hides the field declared at line 488.(Œİ´”úÿÿÿÿ
-6squid:S1659õ"Declare "q" on a separate line.(…µ°3
-6squid:S1659õ"Declare "u" on a separate line.(…µ°3
-Fsquid:EmptyStatementUsageCheckû"Remove this empty statement.(†ü¶
-<squid:S1659‰"Declare "w" on a separate line.(‚Ş»‡ûÿÿÿÿ
-@squid:S1659Š"#Declare "lsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659Š"#Declare "rbase" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659Š"#Declare "rsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659Š"#Declare "wbase" on a separate line.(Õìåïùÿÿÿÿ
-?squid:S1659Š""Declare "gran" on a separate line.(Õìåïùÿÿÿÿ
-osquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-<squid:S1659–"Declare "w" on a separate line.(Œİ´”úÿÿÿÿ
-=squid:S1659—" Declare "ln" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659—" Declare "rb" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659˜" Declare "rn" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659˜"Declare "k" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659˜"Declare "g" on a separate line.(×¢‹Óÿÿÿÿÿ
-8squid:S1659¿" Declare "rf" on a separate line.(ĞŞÿé
-^squid:HiddenFieldCheck–"6Rename "a" which hides the field declared at line 521.(Œİ´”úÿÿÿÿ
-^squid:HiddenFieldCheck–"6Rename "w" which hides the field declared at line 521.(Œİ´”úÿÿÿÿ
-=squid:S1659Á" Declare "al" on a separate line.(ÅÊ÷Øùÿÿÿÿ
-=squid:S1659Á" Declare "ar" on a separate line.(ÅÊ÷Øùÿÿÿÿ
-Wsquid:S1118Ô":Add a private constructor to hide the implicit public one.(½ıê‹ıÿÿÿÿ
-7squid:S1659×"Declare "w" on a separate line.(í¹·¶
-:squid:S1659Ø""Declare "size" on a separate line.(€­ßÔ
-;squid:S1659Ø"#Declare "wbase" on a separate line.(€­ßÔ
-:squid:S1659Ø""Declare "gran" on a separate line.(€­ßÔ
-<squid:S1659á"Declare "w" on a separate line.(Í–‹‚şÿÿÿÿ
-<squid:S1659â"Declare "n" on a separate line.(êÀ‰§ûÿÿÿÿ
-=squid:S1659â" Declare "wb" on a separate line.(êÀ‰§ûÿÿÿÿ
-<squid:S1659â"Declare "g" on a separate line.(êÀ‰§ûÿÿÿÿ
-^squid:HiddenFieldChecká"6Rename "a" which hides the field declared at line 599.(Í–‹‚şÿÿÿÿ
-^squid:HiddenFieldChecká"6Rename "w" which hides the field declared at line 599.(Í–‹‚şÿÿÿÿ
-6squid:S1659ä"Declare "q" on a separate line.(…µ°3
-6squid:S1659ä"Declare "u" on a separate line.(…µ°3
-Fsquid:EmptyStatementUsageCheckê"Remove this empty statement.(†ü¶
-7squid:S1659ø"Declare "w" on a separate line.(®Úó»
-@squid:S1659ù"#Declare "lsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659ù"#Declare "rbase" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659ù"#Declare "rsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659ù"#Declare "wbase" on a separate line.(Õìåïùÿÿÿÿ
-?squid:S1659ù""Declare "gran" on a separate line.(Õìåïùÿÿÿÿ
-osquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-<squid:S1659…"Declare "w" on a separate line.(Í–‹‚şÿÿÿÿ
-=squid:S1659†" Declare "ln" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659†" Declare "rb" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659‡" Declare "rn" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659‡"Declare "k" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659‡"Declare "g" on a separate line.(×¢‹Óÿÿÿÿÿ
-8squid:S1659®" Declare "rf" on a separate line.(ĞŞÿé
-^squid:HiddenFieldCheck…"6Rename "a" which hides the field declared at line 632.(Í–‹‚şÿÿÿÿ
-^squid:HiddenFieldCheck…"6Rename "w" which hides the field declared at line 632.(Í–‹‚şÿÿÿÿ
-8squid:S1659°" Declare "al" on a separate line.(æì·õ
-8squid:S1659°" Declare "ar" on a separate line.(æì·õ
-Rsquid:S1118Ã":Add a private constructor to hide the implicit public one.(à¼Š
-<squid:S1659Æ"Declare "w" on a separate line.(òü¬õıÿÿÿÿ
-:squid:S1659Ç""Declare "size" on a separate line.(€­ßÔ
-;squid:S1659Ç"#Declare "wbase" on a separate line.(€­ßÔ
-:squid:S1659Ç""Declare "gran" on a separate line.(€­ßÔ
-7squid:S1659Ğ"Declare "w" on a separate line.(æ­¸À
-<squid:S1659Ñ"Declare "n" on a separate line.(êÀ‰§ûÿÿÿÿ
-=squid:S1659Ñ" Declare "wb" on a separate line.(êÀ‰§ûÿÿÿÿ
-<squid:S1659Ñ"Declare "g" on a separate line.(êÀ‰§ûÿÿÿÿ
-Ysquid:HiddenFieldCheckĞ"6Rename "a" which hides the field declared at line 710.(æ­¸À
-Ysquid:HiddenFieldCheckĞ"6Rename "w" which hides the field declared at line 710.(æ­¸À
-6squid:S1659Ó"Declare "q" on a separate line.(…µ°3
-6squid:S1659Ó"Declare "u" on a separate line.(…µ°3
-Fsquid:EmptyStatementUsageCheckÙ"Remove this empty statement.(†ü¶
-<squid:S1659ç"Declare "w" on a separate line.(¡ıÏÅúÿÿÿÿ
-@squid:S1659è"#Declare "lsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659è"#Declare "rbase" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659è"#Declare "rsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659è"#Declare "wbase" on a separate line.(Õìåïùÿÿÿÿ
-?squid:S1659è""Declare "gran" on a separate line.(Õìåïùÿÿÿÿ
-osquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-7squid:S1659ô"Declare "w" on a separate line.(æ­¸À
-=squid:S1659õ" Declare "ln" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659õ" Declare "rb" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659ö" Declare "rn" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659ö"Declare "k" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659ö"Declare "g" on a separate line.(×¢‹Óÿÿÿÿÿ
-8squid:S1659" Declare "rf" on a separate line.(ĞŞÿé
-Ysquid:HiddenFieldCheckô"6Rename "a" which hides the field declared at line 743.(æ­¸À
-Ysquid:HiddenFieldCheckô"6Rename "w" which hides the field declared at line 743.(æ­¸À
-8squid:S1659Ÿ" Declare "al" on a separate line.(ºÃòë
-8squid:S1659Ÿ" Declare "ar" on a separate line.(ºÃòë
-Wsquid:S1118²":Add a private constructor to hide the implicit public one.(Ü™¾ıÿÿÿÿ
-<squid:S1659µ"Declare "w" on a separate line.(Õ›«ûÿÿÿÿ
-:squid:S1659¶""Declare "size" on a separate line.(€­ßÔ
-;squid:S1659¶"#Declare "wbase" on a separate line.(€­ßÔ
-:squid:S1659¶""Declare "gran" on a separate line.(€­ßÔ
-7squid:S1659¿"Declare "w" on a separate line.(Ó«—°
-<squid:S1659À"Declare "n" on a separate line.(êÀ‰§ûÿÿÿÿ
-=squid:S1659À" Declare "wb" on a separate line.(êÀ‰§ûÿÿÿÿ
-<squid:S1659À"Declare "g" on a separate line.(êÀ‰§ûÿÿÿÿ
-Ysquid:HiddenFieldCheck¿"6Rename "a" which hides the field declared at line 821.(Ó«—°
-Ysquid:HiddenFieldCheck¿"6Rename "w" which hides the field declared at line 821.(Ó«—°
-6squid:S1659Â"Declare "q" on a separate line.(…µ°3
-6squid:S1659Â"Declare "u" on a separate line.(…µ°3
-Fsquid:EmptyStatementUsageCheckÈ"Remove this empty statement.(†ü¶
-<squid:S1659Ö"Declare "w" on a separate line.(ÉÖô¢úÿÿÿÿ
-@squid:S1659×"#Declare "lsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659×"#Declare "rbase" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659×"#Declare "rsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659×"#Declare "wbase" on a separate line.(Õìåïùÿÿÿÿ
-?squid:S1659×""Declare "gran" on a separate line.(Õìåïùÿÿÿÿ
-osquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-7squid:S1659ã"Declare "w" on a separate line.(Ó«—°
-=squid:S1659ä" Declare "ln" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659ä" Declare "rb" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659å" Declare "rn" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659å"Declare "k" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659å"Declare "g" on a separate line.(×¢‹Óÿÿÿÿÿ
-8squid:S1659Œ" Declare "rf" on a separate line.(ĞŞÿé
-Ysquid:HiddenFieldCheckã"6Rename "a" which hides the field declared at line 854.(Ó«—°
-Ysquid:HiddenFieldCheckã"6Rename "w" which hides the field declared at line 854.(Ó«—°
-8squid:S1659" Declare "al" on a separate line.(á£ê÷
-8squid:S1659" Declare "ar" on a separate line.(á£ê÷
-Rsquid:S1118¡":Add a private constructor to hide the implicit public one.(ò”ë±
-6squid:S1659¤"Declare "w" on a separate line.(Ú±Î
-:squid:S1659¥""Declare "size" on a separate line.(€­ßÔ
-;squid:S1659¥"#Declare "wbase" on a separate line.(€­ßÔ
-:squid:S1659¥""Declare "gran" on a separate line.(€­ßÔ
-7squid:S1659®"Declare "w" on a separate line.(Ùÿ¸Ø
-<squid:S1659¯"Declare "n" on a separate line.(êÀ‰§ûÿÿÿÿ
-=squid:S1659¯" Declare "wb" on a separate line.(êÀ‰§ûÿÿÿÿ
-<squid:S1659¯"Declare "g" on a separate line.(êÀ‰§ûÿÿÿÿ
-Ysquid:HiddenFieldCheck®"6Rename "a" which hides the field declared at line 932.(Ùÿ¸Ø
-Ysquid:HiddenFieldCheck®"6Rename "w" which hides the field declared at line 932.(Ùÿ¸Ø
-6squid:S1659±"Declare "q" on a separate line.(…µ°3
-6squid:S1659±"Declare "u" on a separate line.(…µ°3
-Fsquid:EmptyStatementUsageCheck·"Remove this empty statement.(†ü¶
-<squid:S1659Å"Declare "w" on a separate line.(Àó’ıÿÿÿÿ
-@squid:S1659Æ"#Declare "lsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659Æ"#Declare "rbase" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659Æ"#Declare "rsize" on a separate line.(Õìåïùÿÿÿÿ
-@squid:S1659Æ"#Declare "wbase" on a separate line.(Õìåïùÿÿÿÿ
-?squid:S1659Æ""Declare "gran" on a separate line.(Õìåïùÿÿÿÿ
-osquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ºòË‰ıÿÿÿÿ
-7squid:S1659Ò"Declare "w" on a separate line.(Ùÿ¸Ø
-=squid:S1659Ó" Declare "ln" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659Ó" Declare "rb" on a separate line.(¹¢÷úÿÿÿÿ
-=squid:S1659Ô" Declare "rn" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659Ô"Declare "k" on a separate line.(×¢‹Óÿÿÿÿÿ
-<squid:S1659Ô"Declare "g" on a separate line.(×¢‹Óÿÿÿÿÿ
-8squid:S1659û" Declare "rf" on a separate line.(ĞŞÿé
-Ysquid:HiddenFieldCheckÒ"6Rename "a" which hides the field declared at line 965.(Ùÿ¸Ø
-Ysquid:HiddenFieldCheckÒ"6Rename "w" which hides the field declared at line 965.(Ùÿ¸Ø
-=squid:S1659ı" Declare "al" on a separate line.(ÅÎÕ†ûÿÿÿÿ
-=squid:S1659ı" Declare "ar" on a separate line.(ÅÎÕ†ûÿÿÿÿ

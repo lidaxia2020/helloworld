@@ -1,9 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Φ²‰τ
-dsquid:S00101,"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ό
-nsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϋτργωÿÿÿÿ
-nsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϋτργωÿÿÿÿ
-isquid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Νµϋ
-rsquid:S001162"URename this field "request_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ²Φÿÿÿÿÿ
-msquid:S001163"URename this field "object_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò°ή®
-Bsquid:S19052"&Remove this unnecessary cast to "int".(µ²Φÿÿÿÿÿ

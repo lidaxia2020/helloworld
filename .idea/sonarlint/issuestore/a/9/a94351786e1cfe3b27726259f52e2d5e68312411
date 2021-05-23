@@ -1,13 +1,0 @@
-
-Gsquid:S1066¹"/Merge this if statement with the enclosing one.(‹¯—²
-jsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(„¯¿ï
-isquid:S2886"QSynchronize this method to match the synchronization on "getIndexedPropertyType".(¦Ê³—
-osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹­õËıÿÿÿÿ
-Usquid:S1197‘"8Move the array designator from the variable to the type.(üªÂÓûÿÿÿÿ
-Psquid:S1197"8Move the array designator from the variable to the type.(Öú ²
-Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(ÜÑã
-asquid:S4201Ê"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ø±»ü
-jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ì¾‡
-Rsquid:S1161¢":Add the "@Override" annotation above this method signature(øÇÄù
-Rsquid:S1161¶":Add the "@Override" annotation above this method signature(ğÜşŠ
-Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(ÆıÒÔüÿÿÿÿ

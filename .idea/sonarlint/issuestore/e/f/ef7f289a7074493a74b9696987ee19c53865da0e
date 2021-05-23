@@ -1,7 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(áŽóš
-^squid:UselessImportCheck(":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
-[squid:UselessImportCheck'"7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
-lsquid:S001160"ORename this field "_orb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†à«Þøÿÿÿÿ
-Ksquid:EmptyStatementUsageChecke"Remove this empty statement.(ôŸŽìúÿÿÿÿ
-Dsquid:S10680"(Remove this unused "_orb" private field.(†à«Þøÿÿÿÿ

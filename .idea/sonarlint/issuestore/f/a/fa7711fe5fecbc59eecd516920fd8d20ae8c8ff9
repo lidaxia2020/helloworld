@@ -1,13 +1,0 @@
-
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿ¡Íìûÿÿÿÿ
-‹squid:S1319y"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(€ÑŠ¦ùÿÿÿÿ
->squid:S12145""Move constants to a class or enum.(’Şø”øÿÿÿÿ
-osquid:ModifiersOrderCheck6"EReorder the modifiers to comply with the Java Language Specification.(üˆÅéùÿÿÿÿ
-osquid:ModifiersOrderCheck8"EReorder the modifiers to comply with the Java Language Specification.(…«É¤şÿÿÿÿ
-osquid:ModifiersOrderCheck;"EReorder the modifiers to comply with the Java Language Specification.(ï¸µüÿÿÿÿ
-jsquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(ŒôÖ¡
-osquid:ModifiersOrderCheck?"EReorder the modifiers to comply with the Java Language Specification.(°Õåüÿÿÿÿ
-jsquid:ModifiersOrderCheckB"EReorder the modifiers to comply with the Java Language Specification.(„Â°í
-osquid:ModifiersOrderCheckC"EReorder the modifiers to comply with the Java Language Specification.(ğš¥¾úÿÿÿÿ
-osquid:ModifiersOrderCheckD"EReorder the modifiers to comply with the Java Language Specification.(Çğõªÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

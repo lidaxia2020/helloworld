@@ -1,12 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ùİ‚Ë
-_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ıìú’
-psquid:S00116N"SRename this field "m_parent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜şø†üÿÿÿÿ
-‚squid:S1149°"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„›õ÷şÿÿÿÿ
-Fsquid:S1948N"*Make "m_parent" transient or serializable.(˜şø†üÿÿÿÿ
-~squid:S3252í"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHWarning".(€€ß
-ƒsquid:S3252Œ"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ŞÓ­‚ûÿÿÿÿ
-ƒsquid:S3252¬"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ï„·šúÿÿÿÿ
-fsquid:S4201Â"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‰œ¬êúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Ú°à¬

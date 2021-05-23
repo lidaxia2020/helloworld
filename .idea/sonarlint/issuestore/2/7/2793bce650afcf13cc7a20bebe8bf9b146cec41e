@@ -1,8 +1,0 @@
-
-Qsquid:S1191	"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
-|squid:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-jsquid:ModifiersOrderChecks"EReorder the modifiers to comply with the Java Language Specification.(ŠØŞô
-ksquid:ModifiersOrderCheck‚"EReorder the modifiers to comply with the Java Language Specification.(Ô™Ç‰
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ã¡â
-ksquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(ÓüŸ®
-psquid:ModifiersOrderCheck¥"EReorder the modifiers to comply with the Java Language Specification.(­òüìùÿÿÿÿ

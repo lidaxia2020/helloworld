@@ -1,5 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(²×Ÿâ
-xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(úÙê¿
-wsquid:UselessImportCheck "SRemove this unused import 'com.sun.corba.se.spi.transport.SocketOrChannelAcceptor'.(ëšã‰
-Zsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ

@@ -1,117 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-Lsquid:S1066å"/Merge this if statement with the enclosing one.(ş¤ô”øÿÿÿÿ
-csquid:S1301î"KReplace this "switch" statement by "if" statements to increase readability.(ŸùÿÌ
-Qsquid:S4973Û"9Use the "equals" method if value comparison was intended.(ûâª°
-Qsquid:S4973×	"9Use the "equals" method if value comparison was intended.(•ãÅ¼
-Qsquid:S4973Ú	"9Use the "equals" method if value comparison was intended.(œ¶óá
-Esquid:S1604Ü"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
-Esquid:S1604ë"(Make this anonymous inner class a lambda(Ë¢¦’ıÿÿÿÿ
-Esquid:S1604Ã"(Make this anonymous inner class a lambda(Ø¸°çøÿÿÿÿ
-dsquid:UselessImportCheck,";Remove this unused import 'java.security.PrivilegedAction'.(£Şóšùÿÿÿÿ
-dsquid:UselessImportCheck+";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
-fsquid:MaximumInheritanceDepth©"<This class has 6 parents which is greater than 5 authorized.(ÔÒ’Á
-fsquid:MaximumInheritanceDepthĞ"<This class has 6 parents which is greater than 5 authorized.(Ä¿´Ç
-ksquid:MaximumInheritanceDepthá"<This class has 6 parents which is greater than 5 authorized.( ›°âÿÿÿÿÿ
-ksquid:MaximumInheritanceDepthá"<This class has 6 parents which is greater than 5 authorized.(ªŠœ™úÿÿÿÿ
-fsquid:MaximumInheritanceDepthò"<This class has 6 parents which is greater than 5 authorized.(ƒ¢¦™
-esquid:MaximumInheritanceDepth±	"<This class has 6 parents which is greater than 5 authorized.(ÓÙşO
-qsquid:S3008_"URename this field "PREF_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëêêØùÿÿÿÿ
-rsquid:S3008`"VRename this field "PREF_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÁ»şÿÿÿÿ
-jsquid:S3008a"TRename this field "PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÔÊ:
-psquid:S3008c"TRename this field "MIN_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ùêóÿÿÿÿÿ
-lsquid:S3008d"URename this field "MIN_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÙÕ¡
-osquid:S3008e"SRename this field "MIN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÁÊğúÿÿÿÿ
-vsquid:S3008g"ZRename this field "LIST_PREF_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú£¶ªùÿÿÿÿ
-rsquid:S3008h"[Rename this field "LIST_PREF_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èççÀ
-usquid:S3008i"YRename this field "LIST_PREF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æååêùÿÿÿÿ
-vsquid:S1450A"ZRemove the "centerPanel" field and declare it as a local variable in the relevant methods.(Ş—¶³üÿÿÿÿ
-ysquid:S1450T"]Remove the "filterComboBox" field and declare it as a local variable in the relevant methods.(Í÷Æœøÿÿÿÿ
-xsquid:S00115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â²ë’ùÿÿÿÿ
-|squid:S1149¿"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-}squid:S1149¯"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•Å©·
-‚squid:S1149å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Êúùÿÿÿÿ
-Esquid:S1185š"(Remove this method to simply inherit it.(À‘‹¬üÿÿÿÿ
-Wsquid:S1161š":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
-Rsquid:S1161":Add the "@Override" annotation above this method signature(Ç¦¡ş
-jsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ú¯ò©
-Osquid:S1854Õ"7Remove this useless assignment to local variable "fsv".(÷Êºâ
-Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(Ú¯ò©
-`squid:S3252é"CUse static access with "javax.swing.SwingConstants" for "TRAILING".(Æø†»üÿÿÿÿ
-Wsquid:S1161ê":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
-Wsquid:S1161î":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
-Ysquid:S3252÷"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ø‹Ø
-`squid:S3252ø"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(û£÷Èøÿÿÿÿ
-Wsquid:S1161ş":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ
-Wsquid:S1161„":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
-^squid:S3252‘"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ŞÖÈ“ÿÿÿÿÿ
-[squid:S3252’"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(¾Â•Ù
-Wsquid:S1161Å":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
-Qsquid:S1161Î":Add the "@Override" annotation above this method signature(İ¼õA
-squid:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„Ãâ¨ÿÿÿÿÿ
-squid:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ÓáÌıÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckî""Add a default case to this switch.(ŸùÿÌ
-Wsquid:S1161ª":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
-Wsquid:S1161²":Add the "@Override" annotation above this method signature(¿˜œÔşÿÿÿÿ
-vsquid:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÕ¯”üÿÿÿÿ
-Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
-Wsquid:S1161â":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
-Wsquid:S1161“":Add the "@Override" annotation above this method signature(ŸŸÁ¯şÿÿÿÿ
-osquid:S2177®"WRename this method; there is a "private" method in the parent class with the same name.(ÕÅ´õ
-Wsquid:S1161²":Add the "@Override" annotation above this method signature(ß›³øÿÿÿÿ
-usquid:S2177¸"^Rename this method or correct the type of the argument(s) to override the parent class method.(Í’¾3
-vsquid:S2177¼"^Rename this method or correct the type of the argument(s) to override the parent class method.(ÌÊø
-Fsquid:S1172Â")Remove this unused method parameter "fc".(¨‘ıÎÿÿÿÿÿ
-Asquid:S1172Æ")Remove this unused method parameter "fc".(ò»îÑ
-@squid:S1185Ô"(Remove this method to simply inherit it.(ë‚„ä
-Rsquid:S1161Ô":Add the "@Override" annotation above this method signature(ë‚„ä
-Wsquid:S1161ä":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
-Wsquid:S1161‡":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(Íæó‰ùÿÿÿÿ
-Wsquid:S1161¬":Add the "@Override" annotation above this method signature(¶¼Óıÿÿÿÿ
-@squid:S1172æ"(Remove this unused method parameter "e".(ñœ¤€
-@squid:S1172ù"(Remove this unused method parameter "e".(„ñŸÅ
-@squid:S1172ı"(Remove this unused method parameter "e".(‚ˆá»
-Esquid:S1172œ"(Remove this unused method parameter "e".(ÄÊâùıÿÿÿÿ
-Esquid:S1172£"(Remove this unused method parameter "e".(ã¯İµúÿÿÿÿ
-@squid:S1172¯"(Remove this unused method parameter "e".(øóø·
-Esquid:S1172³"(Remove this unused method parameter "e".(ôš×Éûÿÿÿÿ
-osquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ú¯ü¼üÿÿÿÿ
-Wsquid:S1161Â":Add the "@Override" annotation above this method signature(Ú¯ü¼üÿÿÿÿ
-Wsquid:S1161ø":Add the "@Override" annotation above this method signature(Êğùôÿÿÿÿÿ
-Wsquid:S1161ü":Add the "@Override" annotation above this method signature(ï‡÷ıÿÿÿÿ
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(“Êûşÿÿÿÿ
-Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(Êœˆÿ
-Rsquid:S1161™":Add the "@Override" annotation above this method signature(·Â¨­
-Rsquid:S1161§":Add the "@Override" annotation above this method signature(“Ñ™î
-Wsquid:S1161¬":Add the "@Override" annotation above this method signature(ÖÑ¾ùÿÿÿÿ
-Fsquid:S1172°")Remove this unused method parameter "fc".(ÏÛˆæúÿÿÿÿ
-jsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­Š§
-^squid:S3252½"AUse static access with "java.awt.Component" for "LEFT_ALIGNMENT".(ÿÉøÿÿÿÿ
-`squid:S3252¾"CUse static access with "java.awt.Component" for "CENTER_ALIGNMENT".(‹•ƒ¶şÿÿÿÿ
-Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(äÒÚï
-Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(ÎœÃáÿÿÿÿÿ
-Qsquid:S1161×":Add the "@Override" annotation above this method signature(È™íj
-Wsquid:S1161ã":Add the "@Override" annotation above this method signature(¿˜œÔşÿÿÿÿ
-Rsquid:S1161ç":Add the "@Override" annotation above this method signature(›™¥…
-Asquid:S1948ó"$Make "ii" transient or serializable.(¯é¬ûøÿÿÿÿ
-Qsquid:S1161ô":Add the "@Override" annotation above this method signature(ñºà<
-psquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(â²ë’ùÿÿÿÿ
-Fsquid:S1172¤")Remove this unused method parameter "fc".(ŞêÛôûÿÿÿÿ
-}squid:S1149¯"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•Å©·
-‚squid:S1149å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Êúùÿÿÿÿ
-@squid:S1948¯"(Make "directories" private or transient.(•Å©·
-=squid:S1948³"%Make "fsv" transient or serializable.(¥’„¾
-qsquid:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Å©·
-vsquid:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Êúùÿÿÿÿ
-Qsquid:S1161²	":Add the "@Override" annotation above this method signature(÷²«k
-asquid:S4201¸	"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ö×…¶
-Asquid:S1948Ï	")Make "filters" transient or serializable.(¸¬ÇË
-Fsquid:S1125ô	")Remove the literal "false" boolean value.(­šÕÅûÿÿÿÿ
-Wsquid:S1161¨
-":Add the "@Override" annotation above this method signature(Áª¬Çúÿÿÿÿ
-Wsquid:S1161¬
-":Add the "@Override" annotation above this method signature(ô•†üÿÿÿÿ
-Rsquid:S1161¶
-":Add the "@Override" annotation above this method signature(ú€İÖ
-@squid:S1481Õ"(Remove this unused "fsv" local variable.(÷Êºâ

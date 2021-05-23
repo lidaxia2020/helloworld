@@ -1,14 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
-bsquid:S1192l"FDefine a constant instead of duplicating this literal "value" 7 times.(ºßÙ¹ıÿÿÿÿ
-hsquid:UselessImportCheck("?Remove this unused import 'javax.imageio.metadata.IIOMetadata'.(î¥åçøÿÿÿÿ
-fsquid:UselessImportCheck&"=Remove this unused import 'javax.imageio.ImageTypeSpecifier'.(ıÒ´½ÿÿÿÿÿ
-lsquid:UselessImportCheck)"CRemove this unused import 'javax.imageio.metadata.IIOMetadataNode'.(¦®ø€üÿÿÿÿ
-nsquid:UselessImportCheck*"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
-Qsquid:S1161>":Add the "@Override" annotation above this method signature(ã³¦
-Vsquid:S1161B":Add the "@Override" annotation above this method signature(Â°“øşÿÿÿÿ
-Qsquid:S1161T":Add the "@Override" annotation above this method signature(¡ÀØ”
-Qsquid:S1161a":Add the "@Override" annotation above this method signature(ÇëÍ®
-osquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(Ú‡ »øÿÿÿÿ
-Wsquid:S1161­":Add the "@Override" annotation above this method signature(Ú‡ »øÿÿÿÿ
-Wsquid:S1161‹":Add the "@Override" annotation above this method signature(ù„Àºüÿÿÿÿ

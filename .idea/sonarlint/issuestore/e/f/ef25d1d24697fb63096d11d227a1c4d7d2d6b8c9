@@ -1,80 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(„·Ìú
-ƒsquid:S1192µ"kDefine a constant instead of duplicating this literal "ServerManagerImpl: shutdown for server Id " 4 times.(½“•ş
-hsquid:S1192µ"KDefine a constant instead of duplicating this literal " serverId=" 3 times.(¨¦Óİÿÿÿÿÿ
-ˆsquid:S1192¤"kDefine a constant instead of duplicating this literal "ServerManagerImpl: activate for server Id " 3 times.(¤Â°øÿÿÿÿ
-squid:S1192ü"bDefine a constant instead of duplicating this literal "ServerManagerImpl: locateServer: " 3 times.(­¤ß±üÿÿÿÿ
-Gsquid:UselessImportCheckB"Remove this duplicated import.(†¶½¾üÿÿÿÿ
-^squid:UselessImportCheck.":Remove this unused import 'org.omg.CORBA.SystemException'.(ÈÓ¡Œ
-csquid:UselessImportCheck'":Remove this unused import 'java.lang.reflect.Constructor'.(¿ã–şúÿÿÿÿ
-nsquid:UselessImportCheckW"ERemove this unused import 'com.sun.corba.se.impl.orbutil.ORBUtility'.(×˜´ùşÿÿÿÿ
-csquid:UselessImportCheckX"?Remove this unused import 'com.sun.corba.se.impl.util.Utility'.(…Ú³–
-_squid:UselessImportCheck-";Remove this unused import 'org.omg.CORBA.OBJECT_NOT_EXIST'.(îÈ›±
-@squid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-wsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-9squid:S2129œ"!Remove this "Integer" constructor(ñå¬û
-Xsquid:CallToDeprecatedMethodœ"/Remove this use of "Integer"; it is deprecated.(ñå¬û
-U
-squid:S106¤"9Replace this use of System.out or System.err by a logger.(¤Â°øÿÿÿÿ
-P
-squid:S106´"9Replace this use of System.out or System.err by a logger.(õÆ–Æ
-U
-squid:S106»"9Replace this use of System.out or System.err by a logger.(¤Â°øÿÿÿÿ
-U
-squid:S106À"9Replace this use of System.out or System.err by a logger.(¤Â°øÿÿÿÿ
-9squid:S2129È"!Remove this "Integer" constructor(ñå¬û
-Xsquid:CallToDeprecatedMethodÈ"/Remove this use of "Integer"; it is deprecated.(ñå¬û
-U
-squid:S106Ï"9Replace this use of System.out or System.err by a logger.(İñ°˜ùÿÿÿÿ
-U
-squid:S106Õ"9Replace this use of System.out or System.err by a logger.(İñ°˜ùÿÿÿÿ
-9squid:S2129ã"!Remove this "Integer" constructor(ñå¬û
-Xsquid:CallToDeprecatedMethodã"/Remove this use of "Integer"; it is deprecated.(ñå¬û
-P
-squid:S106ê"9Replace this use of System.out or System.err by a logger.(ÆÀûı
-P
-squid:S106ñ"9Replace this use of System.out or System.err by a logger.(ÆÀûı
-P
-squid:S106¤"9Replace this use of System.out or System.err by a logger.(­§êª
-9squid:S2129®"!Remove this "Integer" constructor(ñå¬û
-Xsquid:CallToDeprecatedMethod®"/Remove this use of "Integer"; it is deprecated.(ñå¬û
-P
-squid:S106µ"9Replace this use of System.out or System.err by a logger.(½“•ş
-P
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(½“•ş
-P
-squid:S106Ã"9Replace this use of System.out or System.err by a logger.(½“•ş
-9squid:S2129Ì"!Remove this "Integer" constructor(ñå¬û
-Xsquid:CallToDeprecatedMethodÌ"/Remove this use of "Integer"; it is deprecated.(ñå¬û
-Isquid:S5261Ö"1Add explicit curly braces to avoid dangling else.(å¥‡
-U
-squid:S106Ô"9Replace this use of System.out or System.err by a logger.(µ‹§»ûÿÿÿÿ
-U
-squid:S106×"9Replace this use of System.out or System.err by a logger.(µ‹§»ûÿÿÿÿ
-U
-squid:S106ü"9Replace this use of System.out or System.err by a logger.(­¤ß±üÿÿÿÿ
-U
-squid:S106’"9Replace this use of System.out or System.err by a logger.(­¤ß±üÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨ò›ıùÿÿÿÿ
-P
-squid:S106®"9Replace this use of System.out or System.err by a logger.(íªôî
-U
-squid:S106Ä"9Replace this use of System.out or System.err by a logger.(­¤ß±üÿÿÿÿ
-`squid:S1854á"HRemove this useless assignment to local variable "serverORBAndPortList".(µ¬¸ü
->squid:S2129÷"!Remove this "Integer" constructor(¬‰Òáÿÿÿÿÿ
-]squid:CallToDeprecatedMethod÷"/Remove this use of "Integer"; it is deprecated.(¬‰Òáÿÿÿÿÿ
->squid:S2129ü"!Remove this "Integer" constructor(¬€—¼ÿÿÿÿÿ
-]squid:CallToDeprecatedMethodü"/Remove this use of "Integer"; it is deprecated.(¬€—¼ÿÿÿÿÿ
-P
-squid:S106€"9Replace this use of System.out or System.err by a logger.(½“•ş
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(õÆ–Æ
-P
-squid:S106§"9Replace this use of System.out or System.err by a logger.(ÇÛûƒ
-P
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(Ÿ÷›“
-P
-squid:S106å"9Replace this use of System.out or System.err by a logger.(™óü
-U
-squid:S106ğ"9Replace this use of System.out or System.err by a logger.(†³Ğóÿÿÿÿÿ
-Qsquid:S1481á"9Remove this unused "serverORBAndPortList" local variable.(µ¬¸ü

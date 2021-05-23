@@ -1,17 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-Zsquid:S00107Õ"<Method has 8 parameters, which is greater than 7 authorized.(™ÕÃ¢ùÿÿÿÿ
-Qsquid:S1161N":Add the "@Override" annotation above this method signature(ïÆ•ø
-Msquid:S2696T"6Make the enclosing method "static" or remove this set.(ó¸÷œ
-psquid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¸÷œ
-Rsquid:S2696Z"6Make the enclosing method "static" or remove this set.(µñ½Ëùÿÿÿÿ
-usquid:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(µñ½Ëùÿÿÿÿ
-_squid:CallToDeprecatedMethod["2Remove this use of "SHIFT_MASK"; it is deprecated.(ôıË×üÿÿÿÿ
-Qsquid:S1161`":Add the "@Override" annotation above this method signature(¦¬ûú
-Dsquid:S1172h"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
-Vsquid:S1161l":Add the "@Override" annotation above this method signature(¬ñ´ûÿÿÿÿ
-osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥­å¿şÿÿÿÿ
-Wsquid:S1161…":Add the "@Override" annotation above this method signature(¥­å¿şÿÿÿÿ
-Rsquid:S1161©":Add the "@Override" annotation above this method signature(¢Ë’ª
-jsquid:S3776°"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İ“ü
-Rsquid:S1161°":Add the "@Override" annotation above this method signature(İ“ü

@@ -1,5 +1,0 @@
-
-Lsquid:S11916"5Use classes from the Java API instead of Sun classes.(§ª›‰
-Gsquid:S1066Ú"/Merge this if statement with the enclosing one.(©’ÖÄ
-psquid:S2975Õ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckó""Add a default case to this switch.(ÜŸ•

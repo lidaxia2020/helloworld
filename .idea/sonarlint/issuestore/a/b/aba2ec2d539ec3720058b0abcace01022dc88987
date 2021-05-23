@@ -1,13 +1,0 @@
-
-Fsquid:S1612",Replace this lambda with a method reference.(òÕ—™ûÿÿÿÿ
-Tsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
-Xsquid:UselessImportCheck"6Remove this unused import 'think.classinfo.Interface'.(äË´Õ
-ssquid:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(´Ú´Èüÿÿÿÿ
-lsquid:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ÛŠ¿…úÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(¦Òë‘
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(òÕ—™ûÿÿÿÿ
-ssquid:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(ï—Ê¡øÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñÈõðúÿÿÿÿ

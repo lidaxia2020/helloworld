@@ -1,4 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¦Š»Ç
-rsquid:S11495"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÓÙ³‰ÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

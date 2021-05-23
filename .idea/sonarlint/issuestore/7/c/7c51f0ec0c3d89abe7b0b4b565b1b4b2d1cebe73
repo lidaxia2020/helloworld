@@ -1,8 +1,0 @@
-
->squid:S1214/""Move constants to a class or enum.(£„εϋÿÿÿÿ
-Qsquid:S1133/"5Do not forget to remove this deprecated code someday.(£„εϋÿÿÿÿ
-wsquid:S001152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(΅‹Ϋωÿÿÿÿ
-osquid:ModifiersOrderCheck2"EReorder the modifiers to comply with the Java Language Specification.(΅‹Ϋωÿÿÿÿ
-Qsquid:S1133H"5Do not forget to remove this deprecated code someday.(½½ΐόÿÿÿÿ
-Qsquid:S1133_"5Do not forget to remove this deprecated code someday.(Μιη€ψÿÿÿÿ
-Lsquid:S1133n"5Do not forget to remove this deprecated code someday.(ΎΏΨ©

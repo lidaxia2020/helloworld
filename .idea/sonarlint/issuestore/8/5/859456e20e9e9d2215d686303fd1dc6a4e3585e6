@@ -1,14 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-vsquid:S1488š"^Immediately return this expression instead of assigning it to the temporary variable "result".(¾‘ÍÉ
-vsquid:S1488Á"^Immediately return this expression instead of assigning it to the temporary variable "result".(¾‘ÍÉ
-dsquid:S00112»"FDefine and throw a dedicated exception instead of using a generic one.(‚‚ı™şÿÿÿÿ
-]squid:S2147¸"ECombine this catch with the one at line 183, which has the same body.(Ğàö
-[squid:CallToDeprecatedMethodµ"3Remove this use of "newInstance"; it is deprecated.(²¸ F
-Gsquid:S00108·")Either remove or fill this block of code.(İÕ÷æşÿÿÿÿ
-Bsquid:S00108¸")Either remove or fill this block of code.(Ğàö
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(‚‚ı™şÿÿÿÿ
-bsquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(Õû¡1
-hsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(Ú°à¬

@@ -1,71 +1,0 @@
-
-[squid:S3034²">Prevent "int" promotion by adding "& 0xff" to this expression.(±üÅ¨øÿÿÿÿ
-[squid:S3034¶">Prevent "int" promotion by adding "& 0xff" to this expression.(Â­® üÿÿÿÿ
-Vsquid:S3034·">Prevent "int" promotion by adding "& 0xff" to this expression.(ªâŞ×
-[squid:S3034Ò">Prevent "int" promotion by adding "& 0xff" to this expression.(Â­® üÿÿÿÿ
-Vsquid:S3034">Prevent "int" promotion by adding "& 0xff" to this expression.(ğ„µ
-Vsquid:S3034µ">Prevent "int" promotion by adding "& 0xff" to this expression.(ğ„µ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ôŠ×©
-_$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(„Ì¥
-d$squid:AssignmentInSubExpressionCheck‚".Extract the assignment out of this expression.(ÃäÆ›şÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckƒ".Extract the assignment out of this expression.(ÆèÆ‚şÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck„".Extract the assignment out of this expression.(ŠÅà‰
-_$squid:AssignmentInSubExpressionCheck‘".Extract the assignment out of this expression.(„Ì¥
-_$squid:AssignmentInSubExpressionCheck’".Extract the assignment out of this expression.(Ä »µ
-Vsquid:S1118<":Add a private constructor to hide the implicit public one.(¸ª™éÿÿÿÿÿ
-rsquid:S00115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±«ˆ×
-osquid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(¤”Øêúÿÿÿÿ
-jsquid:ModifiersOrderCheck?"EReorder the modifiers to comply with the Java Language Specification.(…ú½›
-isquid:ModifiersOrderCheck@"EReorder the modifiers to comply with the Java Language Specification.(ò¶8
-osquid:ModifiersOrderCheckA"EReorder the modifiers to comply with the Java Language Specification.(˜Öíøÿÿÿÿ
-osquid:ModifiersOrderCheckB"EReorder the modifiers to comply with the Java Language Specification.(×õ˜şÿÿÿÿ
-jsquid:ModifiersOrderCheckC"EReorder the modifiers to comply with the Java Language Specification.(œÍ
-jsquid:ModifiersOrderCheckD"EReorder the modifiers to comply with the Java Language Specification.(¹Ğİ³
-osquid:ModifiersOrderCheckE"EReorder the modifiers to comply with the Java Language Specification.(í—›Œÿÿÿÿÿ
-osquid:ModifiersOrderCheckF"EReorder the modifiers to comply with the Java Language Specification.(ŞÓàÀşÿÿÿÿ
-jsquid:ModifiersOrderCheckG"EReorder the modifiers to comply with the Java Language Specification.(±«ˆ×
-jsquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(¨°ÃÏ
-osquid:ModifiersOrderCheckI"EReorder the modifiers to comply with the Java Language Specification.(¥»³üÿÿÿÿ
->squid:S1905f"'Remove this unnecessary cast to "char".(û—µŞ
-Csquid:S1905g"'Remove this unnecessary cast to "char".(ö¤ØÈúÿÿÿÿ
-jsquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ÿ²
-]squid:S1854Ç"@Remove this useless assignment to local variable "encodedIndex".(¤³Ïıÿÿÿÿ
-]squid:S1854Ô"@Remove this useless assignment to local variable "encodedIndex".(¤³Ïıÿÿÿÿ
-<squid:S1659–"Declare "l" on a separate line.(şÇ» ıÿÿÿÿ
-=squid:S1659–" Declare "b1" on a separate line.(şÇ» ıÿÿÿÿ
-=squid:S1659–" Declare "b2" on a separate line.(şÇ» ıÿÿÿÿ
-=squid:S1659–" Declare "b3" on a separate line.(şÇ» ıÿÿÿÿ
-Psquid:S1197’"8Move the array designator from the variable to the type.(’º³
-P
-squid:S106›"9Replace this use of System.out or System.err by a logger.(Òºğÿ
-U
-squid:S106¤"9Replace this use of System.out or System.err by a logger.(ãÀ½áúÿÿÿÿ
-P
-squid:S106°"9Replace this use of System.out or System.err by a logger.(şˆùı
-P
-squid:S106±"9Replace this use of System.out or System.err by a logger.(…Û’î
-U
-squid:S106²"9Replace this use of System.out or System.err by a logger.(±üÅ¨øÿÿÿÿ
-P
-squid:S106À"9Replace this use of System.out or System.err by a logger.(ûê¼›
-O
-squid:S106Á"9Replace this use of System.out or System.err by a logger.(Û„7
-isquid:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ŞÌı>
-Usquid:S1854š"=Remove this useless assignment to local variable "dataIndex".(½·ê
-Xsquid:S1854µ"@Remove this useless assignment to local variable "encodedIndex".(ğ„µ
-=squid:S1659÷" Declare "b2" on a separate line.(»ÈŞãøÿÿÿÿ
-=squid:S1659÷" Declare "b3" on a separate line.(»ÈŞãøÿÿÿÿ
-=squid:S1659÷" Declare "b4" on a separate line.(»ÈŞãøÿÿÿÿ
-=squid:S1659ø" Declare "d2" on a separate line.(õ›Ñûÿÿÿÿ
-=squid:S1659ø" Declare "d3" on a separate line.(õ›Ñûÿÿÿÿ
-=squid:S1659ø" Declare "d4" on a separate line.(õ›Ñûÿÿÿÿ
->squid:S1168ç"&Return an empty array instead of null.(¥¹ï
->squid:S1168î"&Return an empty array instead of null.(»¤ËÜ
-Usquid:S1197ö"8Move the array designator from the variable to the type.(„ˆª›ûÿÿÿÿ
-Csquid:S1168…"&Return an empty array instead of null.(‰ñ­±ıÿÿÿÿ
-Csquid:S1168“"&Return an empty array instead of null.(‰ñ­±ıÿÿÿÿ
->squid:S1168Ÿ"&Return an empty array instead of null.(¥¹ï
->squid:S1168§"&Return an empty array instead of null.(¥¹ï
-Csquid:S1168®"&Return an empty array instead of null.(®†ºñşÿÿÿÿ
-Asquid:S1068C"*Remove this unused "SIXBIT" private field.(œÍ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

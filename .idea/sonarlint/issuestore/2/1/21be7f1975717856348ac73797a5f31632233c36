@@ -1,18 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö²‰ô
-hsquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É«
-nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èĞÿúşÿÿÿÿ
-isquid:S00117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øì¬¹
-nsquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¡ãÁıÿÿÿÿ
-isquid:S00117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÜÔÌ
-isquid:S00117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄùÕ
-isquid:S00117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íµû
-isquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õäˆ‘
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ë…Ç
-esquid:S3008*"NRename this field "_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èà÷š
-qsquid:S30089"URename this field "__typeCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ô”Çıÿÿÿÿ
-Vsquid:S1118(":Add a private constructor to hide the implicit public one.(µĞò¢üÿÿÿÿ
-osquid:ModifiersOrderCheck("EReorder the modifiers to comply with the Java Language Specification.(µĞò¢üÿÿÿÿ
-isquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(ÇÚÅ
-Psquid:S1854p"9Remove this useless assignment to local variable "_dis0".(¯ÜÔÌ
-Osquid:S1197u"8Move the array designator from the variable to the type.(ëÄùÕ

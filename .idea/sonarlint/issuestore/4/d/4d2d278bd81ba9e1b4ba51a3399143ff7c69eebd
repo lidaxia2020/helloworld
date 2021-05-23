@@ -1,14 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ä³ùÿÿÿÿ
-rsquid:S1192v"VDefine a constant instead of duplicating this literal "Method not supported" 10 times.(»©”Âúÿÿÿÿ
-™%squid:RedundantThrowsDeclarationChecku"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(¨•ïÅıÿÿÿÿ
-”%squid:RedundantThrowsDeclarationCheckz"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ùò•Ä
-”%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ñÇû¨
-•%squid:RedundantThrowsDeclarationCheck„"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(§û÷Ë
-•%squid:RedundantThrowsDeclarationCheck‰"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(Á‡î¼
-š%squid:RedundantThrowsDeclarationCheck"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ãĞ²–úÿÿÿÿ
-•%squid:RedundantThrowsDeclarationCheck“"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(©¦ÉÛ
-”%squid:RedundantThrowsDeclarationCheck—"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(°¢Á\
-š%squid:RedundantThrowsDeclarationCheckš"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(±İéĞıÿÿÿÿ
-”%squid:RedundantThrowsDeclarationCheckŸ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(”ØÔ~
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

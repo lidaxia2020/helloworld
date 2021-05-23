@@ -1,14 +1,0 @@
-
-Lsquid:S1191Z"5Use classes from the Java API instead of Sun classes.(™ã£ü
-Gsquid:S1066•"/Merge this if statement with the enclosing one.(»”€
-Qsquid:S4973†"9Use the "equals" method if value comparison was intended.(»”€
-Qsquid:S4973•"9Use the "equals" method if value comparison was intended.(»”€
-Vsquid:S4973¬"9Use the "equals" method if value comparison was intended.(ä‰Äæúÿÿÿÿ
-Vsquid:S4973Á"9Use the "equals" method if value comparison was intended.(ä‰Äæúÿÿÿÿ
-Vsquid:S4973Ğ"9Use the "equals" method if value comparison was intended.(ˆ—¥øüÿÿÿÿ
-Vsquid:S4973Ñ"9Use the "equals" method if value comparison was intended.(£Ä¢Šøÿÿÿÿ
-Qsquid:S4973à"9Use the "equals" method if value comparison was intended.(»”€
-Qsquid:S4973ã"9Use the "equals" method if value comparison was intended.(ğïßİ
-^squid:S00112ò"FDefine and throw a dedicated exception instead of using a generic one.(ß§ı
-osquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(¶¥ÓÍÿÿÿÿÿ
-bsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(›öÑh

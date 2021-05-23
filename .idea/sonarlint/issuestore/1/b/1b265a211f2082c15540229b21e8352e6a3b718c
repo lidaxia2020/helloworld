@@ -1,13 +1,0 @@
-
-jsquid:S3824H"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ğªÇ€øÿÿÿÿ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheckJ".Extract the assignment out of this expression.(¦®Ãì
-"squid:ClassVariableVisibilityCheckD"TMake captures a static final constant or non-public and provide accessors if needed.(‡–¡y
-€"squid:ClassVariableVisibilityCheckD"SMake bubbles a static final constant or non-public and provide accessors if needed.(‡–¡y
-"squid:ClassVariableVisibilityCheckD"TMake defaults a static final constant or non-public and provide accessors if needed.(‡–¡y
-~"squid:ClassVariableVisibilityCheckD"QMake total a static final constant or non-public and provide accessors if needed.(‡–¡y
-;squid:S1659D"%Declare "bubbles" on a separate line.(‡–¡y
-<squid:S1659D"&Declare "defaults" on a separate line.(‡–¡y
-9squid:S1659D"#Declare "total" on a separate line.(‡–¡y
-msquid:S1149C"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(áÛäÇ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

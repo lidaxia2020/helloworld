@@ -1,5 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Å·¯∆
-Bsquid:S2160b"+Override the "equals" method in this class.(è–ªó
-8squid:S2129|"!Remove this "Integer" constructor(Àç‰Ø
-Wsquid:CallToDeprecatedMethod|"/Remove this use of "Integer"; it is deprecated.(Àç‰Ø

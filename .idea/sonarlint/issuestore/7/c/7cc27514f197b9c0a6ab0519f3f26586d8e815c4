@@ -1,7 +1,0 @@
-
-msquid:S1206£"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
-Tsquid:S11974"8Move the array designator from the variable to the type.(¾»Òøûÿÿÿÿ
-Wsquid:S1161â":Add the "@Override" annotation above this method signature(‚Õ°ªÿÿÿÿÿ
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(Ý¢êÍýÿÿÿÿ
-psquid:S2975¼"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(»£·ÿüÿÿÿÿ
-Wsquid:S1161¼":Add the "@Override" annotation above this method signature(»£·ÿüÿÿÿÿ

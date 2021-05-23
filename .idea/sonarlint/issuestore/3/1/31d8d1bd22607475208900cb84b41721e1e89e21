@@ -1,9 +1,0 @@
-
-Msquid:S1191ï"5Use classes from the Java API instead of Sun classes.(“„ò
-„squid:S3038›"g"createSocket" is defined in the "RMIClientSocketFactory" interface and can be removed from this class.( è€ıÿÿÿÿ
-Šsquid:S3038«"m"createServerSocket" is defined in the "RMIServerSocketFactory" interface and can be removed from this class.(–’Óçùÿÿÿÿ
-ksquid:ModifiersOrderCheckÂ"EReorder the modifiers to comply with the Java Language Specification.(“ùÜ
-psquid:ModifiersOrderCheckÛ"EReorder the modifiers to comply with the Java Language Specification.(îšÎÓüÿÿÿÿ
-ksquid:ModifiersOrderCheckì"EReorder the modifiers to comply with the Java Language Specification.(†øÆ»
-jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¬á©I
-ksquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(ˆí€ê

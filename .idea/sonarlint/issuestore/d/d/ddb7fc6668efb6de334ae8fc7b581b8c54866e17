@@ -1,25 +1,0 @@
-
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-u
-squid:S135œ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-Vsquid:UselessImportCheck%"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
-\squid:UselessImportCheck*"3Remove this unused import 'java.text.CollationKey'.(Ê”á…ûÿÿÿÿ
-psquid:S1210S"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
-nsquid:S00116;"QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¥•Öøÿÿÿÿ
-ksquid:S00116<"SRename this field "m_locale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş§³
-rsquid:S00116="URename this field "m_collator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜ’×şÿÿÿÿ
-nsquid:S00116>"VRename this field "m_caseOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šæïÄ
-nsquid:S00116?"QRename this field "m_mask" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Öè•úÿÿÿÿ
-osquid:ModifiersOrderCheck7"EReorder the modifiers to comply with the Java Language Specification.(„„²öûÿÿÿÿ
-osquid:ModifiersOrderCheck8"EReorder the modifiers to comply with the Java Language Specification.(§ô÷³üÿÿÿÿ
-osquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(‹õ‡ûÿÿÿÿ
-jsquid:ModifiersOrderCheckI"EReorder the modifiers to comply with the Java Language Specification.(şÊŠË
-Osquid:S1197w"8Move the array designator from the variable to the type.(‹·¥–
-3squid:S3626È"Remove this redundant jump.(ÉŠ©ƒ
-3squid:S3626Ë"Remove this redundant jump.(ÉŠ©ƒ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ÇİËşùÿÿÿÿ
-Bsquid:S1659™"+Declare "targetElement" on a separate line.(¾Ó7
-Dsquid:S1659š"'Declare "getTarget" on a separate line.(‡Œ­“üÿÿÿÿ
->squid:S1168©"&Return an empty array instead of null.(¥¹ï
-Usquid:S1197¸"8Move the array designator from the variable to the type.(‡Êøšûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,48 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(©¥Ÿùÿÿÿÿ
-psquid:S1192Ð"SDefine a constant instead of duplicating this literal "SOCKS: TTL expired" 3 times.(ÆÃêÓüÿÿÿÿ
-†squid:S1192Ÿ"iDefine a constant instead of duplicating this literal "Reply from SOCKS server badly formatted" 12 times.(êåÇøþÿÿÿÿ
-usquid:S1192Á"]Define a constant instead of duplicating this literal "SOCKS server general failure" 3 times.(ÇÍÓÜ
-csquid:S1192¼"KDefine a constant instead of duplicating this literal "ISO-8859-1" 6 times.(ËÌæ…
-osquid:S1192Ê"XDefine a constant instead of duplicating this literal "SOCKS: Host unreachable" 3 times.(ÅÚ¢g
-xsquid:S1192Ç"[Define a constant instead of duplicating this literal "SOCKS: Network unreachable" 3 times.(»ê°íùÿÿÿÿ
-squid:S1192Ö"bDefine a constant instead of duplicating this literal "SOCKS: address type not supported" 3 times.(õ”¼Åùÿÿÿÿ
-bsquid:S1192µ"JDefine a constant instead of duplicating this literal "user.name" 3 times.(ùãÒë
-zsquid:S1192Ó"]Define a constant instead of duplicating this literal "SOCKS: Command not supported" 3 times.(žèÙ¹þÿÿÿÿ
-rsquid:S1192Í"ZDefine a constant instead of duplicating this literal "SOCKS: Connection refused" 3 times.(¤Ì¯ª
-Lsquid:S1066ª"/Merge this if statement with the enclosing one.(Èëªøÿÿÿÿ
-Lsquid:S1066í"/Merge this if statement with the enclosing one.(Èëªøÿÿÿÿ
-csquid:S2259Ç"FA "NullPointerException" could be thrown; "savedExc" is nullable here.(žæø»úÿÿÿÿ
-csquid:S2259’"FA "NullPointerException" could be thrown; "savedExc" is nullable here.(žæø»úÿÿÿÿ
-@squid:S1604ª"(Make this anonymous inner class a lambda(úÅ½ 
-?squid:S1604÷"(Make this anonymous inner class a lambda(ÕîÝ&
-Esquid:S1604í"(Make this anonymous inner class a lambda(“—‡Ìÿÿÿÿÿ
-?squid:S1604½"(Make this anonymous inner class a lambda(ÕîÝ&
-osquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò÷ Çÿÿÿÿÿ
-xsquid:S001162"[Rename this field "external_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ—È»ÿÿÿÿÿ
-osquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œÄÉ·üÿÿÿÿ
-Vsquid:S4719¼">Replace charset name argument with StandardCharsets.ISO_8859_1(ËÌæ…
-Vsquid:S4719Ã">Replace charset name argument with StandardCharsets.ISO_8859_1(£åÅÇ
-Vsquid:S4719£">Replace charset name argument with StandardCharsets.ISO_8859_1(ËÌæ…
-jsquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(ÛŽ£Å
-fsquid:S4201ç"IRemove this unnecessary null check; "instanceof" returns false for nulls.(³ã²ýÿÿÿÿ
-csquid:S3027‹"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(åúåŒÿÿÿÿÿ
-[squid:S4719þ">Replace charset name argument with StandardCharsets.ISO_8859_1(Žøâúøÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck—""Add a default case to this switch.(Ýá§¼
-Vsquid:S4719ü">Replace charset name argument with StandardCharsets.ISO_8859_1(ËÌæ…
-osquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(Òëñãúÿÿÿÿ
-Msquid:S1854Þ"5Remove this useless assignment to local variable "i".(ôçŸµ
-;squid:S1659à"#Declare "nport" on a separate line.(¥šÁ‡
-csquid:S3027Ð"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(åúåŒÿÿÿÿÿ
-Usquid:S4719Å">Replace charset name argument with StandardCharsets.ISO_8859_1(˜¸™
-Q"squid:SwitchLastCaseIsDefaultCheckâ""Add a default case to this switch.(Ýá§¼
-V"squid:SwitchLastCaseIsDefaultCheckå""Add a default case to this switch.(Ì›³çýÿÿÿÿ
-P"squid:SwitchLastCaseIsDefaultCheckÓ""Add a default case to this switch.(ìúÇV
-P"squid:SwitchLastCaseIsDefaultCheck×""Add a default case to this switch.(ìúÇV
-gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ÖŠˆýúÿÿÿÿ
-csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(°Ã÷Û
-csquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(ÎÄ¾
-csquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(÷þ“ý
-bsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(ÄÂ¿>
-csquid:CommentedOutCodeLineð"<This block of commented-out lines of code should be removed.(¬‰ý©
-csquid:CommentedOutCodeLineŽ"<This block of commented-out lines of code should be removed.(†€éˆ

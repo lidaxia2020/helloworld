@@ -1,93 +1,0 @@
-
-ksquid:S3824ß"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(††ŒŞüÿÿÿÿ
-Qsquid:S1191'"5Use classes from the Java API instead of Sun classes.(åŒßÛıÿÿÿÿ
-_squid:S1192"GDefine a constant instead of duplicating this literal ".level" 4 times.(óúŞÑ
-p
-squid:S135Â	"YReduce the total number of break and continue statements in this loop to use at most one.(±Öê³
-p
-squid:S135â"YReduce the total number of break and continue statements in this loop to use at most one.(ú÷„Â
-u
-squid:S135¤"YReduce the total number of break and continue statements in this loop to use at most one.(ß½ƒøÿÿÿÿ
-\squid:S2583Ã	"DChange this condition so that it does not always evaluate to "false"(‰ÏÖÏ
-Rsquid:S1141ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141ü
-"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-_squid:S2259·"GA "NullPointerException" could be thrown; "sysLogger" is nullable here.(¥½²õ
-@squid:S1604ì"(Make this anonymous inner class a lambda(‘†™ô
-@squid:S1604™"(Make this anonymous inner class a lambda(ËÖñ
-?squid:S1604º"(Make this anonymous inner class a lambda(ÆŞÖ
-?squid:S1604´"(Make this anonymous inner class a lambda(ÆŞÖ
-@squid:S1604œ"(Make this anonymous inner class a lambda(ËÖñ
-@squid:S1604…
-"(Make this anonymous inner class a lambda(ËÖñ
-@squid:S1604˜
-"(Make this anonymous inner class a lambda(ËÖñ
-_squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(œ’á´
-osquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÁŸæùÿÿÿÿ
-osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÁ´™ıÿÿÿÿ
-;squid:S1148€"#Use a logger to log this exception.(Ç’Çê
-;squid:S1148¶"#Use a logger to log this exception.(Ç’Çê
-Fsquid:S3077Ó".Remove the "volatile" keyword from this field.( ­¥»
-Fsquid:S3077à".Remove the "volatile" keyword from this field.(šòûâ
-nsquid:S1149Ğ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¦€Êº
-jsquid:ModifiersOrderCheckÔ"EReorder the modifiers to comply with the Java Language Specification.(êÄÕ\
-asquid:CallToDeprecatedMethod÷"3Remove this use of "newInstance"; it is deprecated.(ñÍ®ÿÿÿÿÿ
-asquid:CallToDeprecatedMethodû"3Remove this use of "newInstance"; it is deprecated.(ñÍ®ÿÿÿÿÿ
-P
-squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(Ô‹œÖ
-Tsquid:S1854"7Remove this useless assignment to local variable "mgr".(¥í›øÿÿÿÿ
-Esquid:S1172¼".Remove this unused method parameter "checked".(©çÅ}
-Esquid:S1125„"(Remove the literal "true" boolean value.(ø¸‘øÿÿÿÿ
-Wsquid:CallToDeprecatedMethod­".Remove this use of "global"; it is deprecated.(ŠõÉ¤
-U
-squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(éÃë¡úÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheck†"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ñ¦ùõüÿÿÿÿ
-Rsquid:S1133†"5Do not forget to remove this deprecated code someday.(ñ¦ùõüÿÿÿÿ
-—%squid:RedundantThrowsDeclarationCheck¶"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ÌÁ¹W
-Lsquid:S1133¶"5Do not forget to remove this deprecated code someday.(ÌÁ¹W
-nsquid:S1149Ğ"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¦€Êº
-Wsquid:CallToDeprecatedMethodó".Remove this use of "global"; it is deprecated.(ŠõÉ¤
-Vsquid:CallToDeprecatedMethodº".Remove this use of "global"; it is deprecated.(å¦Ô-
-^squid:S3027Ã"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(€é¬ƒ
-csquid:S3027Ú"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(Òì‹ûÿÿÿÿ
-Csquid:S1172™"+Remove this unused method parameter "name".(”òİ¢
-Usquid:S1197Ÿ"8Move the array designator from the variable to the type.(áÇ†²ûÿÿÿÿ
-asquid:CallToDeprecatedMethod¤"3Remove this use of "newInstance"; it is deprecated.(­½ÁÈûÿÿÿÿ
-P
-squid:S106®"9Replace this use of System.out or System.err by a logger.(üéß—
-P
-squid:S106´"9Replace this use of System.out or System.err by a logger.(îéıÿ
-U
-squid:S106µ"9Replace this use of System.out or System.err by a logger.(Ä´şÿÿÿÿ
-ksquid:ModifiersOrderCheckÀ	"EReorder the modifiers to comply with the Java Language Specification.(÷Œ¼ù
-˜%squid:RedundantThrowsDeclarationCheckò
-"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(†ıí»
-\squid:CallToDeprecatedMethodş
-"3Remove this use of "newInstance"; it is deprecated.(Ó®éô
-\squid:CallToDeprecatedMethod‚"3Remove this use of "newInstance"; it is deprecated.(Ó®éô
-U
-squid:S106†"9Replace this use of System.out or System.err by a logger.(àŒÄßşÿÿÿÿ
-U
-squid:S106‡"9Replace this use of System.out or System.err by a logger.(Ä´şÿÿÿÿ
-—%squid:RedundantThrowsDeclarationCheck­"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ü¸-
-˜%squid:RedundantThrowsDeclarationCheck‰"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¥“Õ´
-Psquid:S1197"8Move the array designator from the variable to the type.(ÂóÁê
-\squid:CallToDeprecatedMethod–"3Remove this use of "newInstance"; it is deprecated.(Ó®éô
-U
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(ó³¤üúÿÿÿÿ
-U
-squid:S106™"9Replace this use of System.out or System.err by a logger.(Ä´şÿÿÿÿ
-\squid:CallToDeprecatedMethod‹"3Remove this use of "newInstance"; it is deprecated.(Êš˜
-asquid:CallToDeprecatedMethod "3Remove this use of "newInstance"; it is deprecated.(’ãÃ…ıÿÿÿÿ
-—%squid:RedundantThrowsDeclarationCheckÖ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ÜŠï#
-psquid:ModifiersOrderCheck¢"EReorder the modifiers to comply with the Java Language Specification.(Ÿ¶ıÿÿÿÿ
-O
-squid:S106®"9Replace this use of System.out or System.err by a logger.(Á¨V
-^squid:CallToDeprecatedMethod¼"5Remove this use of "LoggingMXBean"; it is deprecated.(ı•¢
-psquid:ModifiersOrderCheckË"EReorder the modifiers to comply with the Java Language Specification.(‘Çƒ©üÿÿÿÿ
-^squid:CallToDeprecatedMethodæ"5Remove this use of "LoggingMXBean"; it is deprecated.(¸Ğİ
-Esquid:S1481"(Remove this unused "mgr" local variable.(¥í›øÿÿÿÿ
-Csquid:S3398ü	"&Move this method into "LoggerContext".(˜¢û“ùÿÿÿÿ
-;squid:S3398®"#Move this method into "RootLogger".(áàéª
-hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(‘Éîúÿÿÿÿ
-csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ì‘òŠ

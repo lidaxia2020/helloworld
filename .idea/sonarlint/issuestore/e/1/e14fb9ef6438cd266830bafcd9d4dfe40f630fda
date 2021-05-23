@@ -1,145 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckè"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß«±¿
-… squid:ForLoopCounterChangedCheckí"XRefactor the code in order to not assign to this loop counter from within the loop body.(©¬§À
-… squid:ForLoopCounterChangedCheck™"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß«±¿
-Š squid:ForLoopCounterChangedCheckŸ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÙæÄ¦üÿÿÿÿ
-… squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-Qsquid:S11919"5Use classes from the Java API instead of Sun classes.(˜ÛÂàıÿÿÿÿ
-gsquid:S1192î"ODefine a constant instead of duplicating this literal "ArgumentIsNull" 3 times.(Ä¡æ”
-fsquid:S1192"IDefine a constant instead of duplicating this literal " SYSTEM " 3 times.(°ôøúÿÿÿÿ
-hsquid:S1192ñ"PDefine a constant instead of duplicating this literal "The character '" 5 times.(î©Š
-vsquid:S1192ñ"^Define a constant instead of duplicating this literal "' is an invalid XML character" 5 times.(î©Š
-dsquid:S1192ú"GDefine a constant instead of duplicating this literal "]]>&#x" 3 times.(ñ¼àşÿÿÿÿ
-asquid:S1192•"IDefine a constant instead of duplicating this literal " PUBLIC " 3 times.(½­øş
-gsquid:S1192î"JDefine a constant instead of duplicating this literal "<!ENTITY " 3 times.(öîÀÑşÿÿÿÿ
-csquid:S1192ü"KDefine a constant instead of duplicating this literal ";<![CDATA[" 3 times.(‘¼¨ÿ
-Gsquid:S1066ê
-"/Merge this if statement with the enclosing one.(ŞüÙı
-Jsquid:S1199à"-Extract this nested code block into a method.(µ®Ô£üÿÿÿÿ
-Esquid:S1199ê"-Extract this nested code block into a method.(›œïĞ
-Jsquid:S1199í"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Esquid:S1199ú"-Extract this nested code block into a method.(Åô²ô
-Jsquid:S1199†	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199‹	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Esquid:S1199š	"-Extract this nested code block into a method.(”ğ¿Å
-Esquid:S1199¦	"-Extract this nested code block into a method.(›œïĞ
-Jsquid:S1199ª	"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Jsquid:S1199µ	"-Extract this nested code block into a method.(æéÍ®şÿÿÿÿ
-Jsquid:S1199Á	"-Extract this nested code block into a method.(•¦µ¡üÿÿÿÿ
-Esquid:S1199Ä	"-Extract this nested code block into a method.(›œïĞ
-Jsquid:S1199Í	"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
-Jsquid:S1199ã	"-Extract this nested code block into a method.(«¦ÿäüÿÿÿÿ
-Esquid:S1199ê	"-Extract this nested code block into a method.(›œïĞ
-Jsquid:S1199í	"-Extract this nested code block into a method.(©øíøÿÿÿÿ
-Esquid:S1199ô	"-Extract this nested code block into a method.(—®–Œ
-Jsquid:S1199ú	"-Extract this nested code block into a method.(•¦µ¡üÿÿÿÿ
-Esquid:S1199ı	"-Extract this nested code block into a method.(›œïĞ
-Jsquid:S1199†
-"-Extract this nested code block into a method.(©øíøÿÿÿÿ
-Jsquid:S1199
-"-Extract this nested code block into a method.(¨§´½ûÿÿÿÿ
-Esquid:S1199Í
-"-Extract this nested code block into a method.(‘âÏ™
-dsquid:S3973Ü"GUse indentation to denote the code conditionally executed by this "if".(Ø˜åıÿÿÿÿ
-dsquid:S3973Ş"GUse indentation to denote the code conditionally executed by this "if".(Ø˜åıÿÿÿÿ
-u
-squid:S135ã"YReduce the total number of break and continue statements in this loop to use at most one.(ƒâÙ‡şÿÿÿÿ
-p
-squid:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(îÑíİ
-jsquid:S00117õ
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”Æ
-squid:S4144Ú"bUpdate this method so that its implementation is not identical to "asDocumentHandler" on line 338.(Ñ†ßƒøÿÿÿÿ
-squid:S4144â"bUpdate this method so that its implementation is not identical to "asDocumentHandler" on line 338.(²£úÿÿÿÿ
-qsquid:S00116¬"XRename this field "_encodingInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¡èÜ
-wsquid:S00116¸"YRename this field "_elementStates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦³…úÿÿÿÿ
-vsquid:S00116Ã"]Rename this field "_elementStateCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬…í–
-qsquid:S00116Í"SRename this field "_preRoot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¾àùÿÿÿÿ
-qsquid:S00116×"SRename this field "_started" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡·öŒıÿÿÿÿ
-msquid:S00116â"TRename this field "_prepared" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©˜şá
-rsquid:S00116í"TRename this field "_prefixes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›£óûÿÿÿÿ
-ysquid:S00116ö"[Rename this field "_docTypePublicId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„³ß‰ùÿÿÿÿ
-ysquid:S00116ÿ"[Rename this field "_docTypeSystemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ëÕÁùÿÿÿÿ
-psquid:S00116‹"RRename this field "_format" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›áœŸÿÿÿÿÿ
-qsquid:S00116”"SRename this field "_printer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¤Öùÿÿÿÿ
-msquid:S00116"URename this field "_indenting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ê
-ksquid:S00116¨"RRename this field "_writer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óè¯‡
-ksquid:S00116±"RRename this field "_output" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰½ˆÊ
-‚squid:S1149Í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(İ¾àùÿÿÿÿ
-ssquid:S1149í"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(›£óûÿÿÿÿ
-|squid:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ğÉ›èùÿÿÿÿ
-wsquid:S1149ë
-"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôœÀ
-esquid:CallToDeprecatedMethod¢"7Remove this use of "DocumentHandler"; it is deprecated.(©”»Õûÿÿÿÿ
-csquid:CallToDeprecatedMethod£"5Remove this use of "DOMSerializer"; it is deprecated.( óƒşÿÿÿÿ
-`squid:CallToDeprecatedMethod£"2Remove this use of "Serializer"; it is deprecated.( óƒşÿÿÿÿ
-]squid:CallToDeprecatedMethod¬"4Remove this use of "EncodingInfo"; it is deprecated.(Î¡èÜ
-bsquid:CallToDeprecatedMethod¸"4Remove this use of "ElementState"; it is deprecated.(¦³…úÿÿÿÿ
-bsquid:CallToDeprecatedMethod‹"4Remove this use of "OutputFormat"; it is deprecated.(›áœŸÿÿÿÿÿ
-]squid:CallToDeprecatedMethod”"/Remove this use of "Printer"; it is deprecated.(Ë¤Öùÿÿÿÿ
-bsquid:CallToDeprecatedMethodÇ"4Remove this use of "OutputFormat"; it is deprecated.(¬©˜Ğûÿÿÿÿ
-]squid:CallToDeprecatedMethodË"4Remove this use of "ElementState"; it is deprecated.(ï³¼
-]squid:CallToDeprecatedMethodÍ"4Remove this use of "ElementState"; it is deprecated.(šÑõ›
-esquid:CallToDeprecatedMethodÒ"7Remove this use of "DocumentHandler"; it is deprecated.(—â§¦úÿÿÿÿ
-csquid:CallToDeprecatedMethodâ"5Remove this use of "DOMSerializer"; it is deprecated.(²£úÿÿÿÿ
-]squid:CallToDeprecatedMethod„"4Remove this use of "OutputFormat"; it is deprecated.(³§ÃÜ
-csquid:CallToDeprecatedMethodµ"5Remove this use of "IndentPrinter"; it is deprecated.(è‡±ıÿÿÿÿ
-]squid:CallToDeprecatedMethod¸"/Remove this use of "Printer"; it is deprecated.(ø­™˜ûÿÿÿÿ
-\squid:CallToDeprecatedMethod»"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-3squid:S3626ó"Remove this redundant jump.(ÉŠ©ƒ
-osquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(éìåÁÿÿÿÿÿ
-\squid:CallToDeprecatedMethodÌ"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-?squid:S1905ñ"'Remove this unnecessary cast to "char".(î©Š
-\squid:CallToDeprecatedMethod½"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-\squid:CallToDeprecatedMethodó"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-\squid:CallToDeprecatedMethodœ"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-\squid:CallToDeprecatedMethod¥"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-\squid:CallToDeprecatedMethod®"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-\squid:CallToDeprecatedMethod·"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-\squid:CallToDeprecatedMethodÀ"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-\squid:CallToDeprecatedMethodÉ"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-psquid:S3776×"SRefactor this method to reduce its Cognitive Complexity from 107 to the 15 allowed.(ß‡ÎÅÿÿÿÿÿ
-Rsquid:S1854œ
-";Remove this useless assignment to local variable "domImpl".(³ì M
-bsquid:CallToDeprecatedMethodü"9Remove this use of "DOMSerializerImpl"; it is deprecated.(Ìÿ¥
-gsquid:CallToDeprecatedMethod»	"9Remove this use of "DOMSerializerImpl"; it is deprecated.(ØïŞ³ûÿÿÿÿ
-Tsquid:S1854ç
-"7Remove this useless assignment to local variable "dtd".(à”˜¼şÿÿÿÿ
-jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¼Œ„É
-]squid:CallToDeprecatedMethodÊ"4Remove this use of "ElementState"; it is deprecated.(üçëº
-\squid:CallToDeprecatedMethodÍ"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-\squid:CallToDeprecatedMethodı"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-3squid:S3626¥"Remove this redundant jump.(ÉŠ©ƒ
-osquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ãŒÉÚûÿÿÿÿ
-gsquid:CallToDeprecatedMethod÷"9Remove this use of "DOMSerializerImpl"; it is deprecated.(ì¿—ëÿÿÿÿÿ
-bsquid:CallToDeprecatedMethodü"9Remove this use of "DOMSerializerImpl"; it is deprecated.(ñ†Ÿ—
-?squid:S1905£"'Remove this unnecessary cast to "char".(î©Š
-osquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÀƒÃùÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğ¬‚¿ûÿÿÿÿ
-]squid:CallToDeprecatedMethod¤"4Remove this use of "ElementState"; it is deprecated.(«¼à½
-bsquid:CallToDeprecatedMethodµ"4Remove this use of "ElementState"; it is deprecated.(†ÒÚòÿÿÿÿÿ
-\squid:CallToDeprecatedMethod¸"4Remove this use of "ElementState"; it is deprecated.(ÁÌôM
-]squid:CallToDeprecatedMethod»"4Remove this use of "ElementState"; it is deprecated.(øÑ”’
-]squid:CallToDeprecatedMethod¿"4Remove this use of "ElementState"; it is deprecated.(à¯–
-qsquid:S3012Á"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(’ŸŠ
-bsquid:CallToDeprecatedMethodÃ"4Remove this use of "ElementState"; it is deprecated.(Óí†Åùÿÿÿÿ
-\squid:CallToDeprecatedMethodä"4Remove this use of "ElementState"; it is deprecated.(ÀÑş;
-Fsquid:S1905")Remove this unnecessary cast to "String".(ñÉ…Ïıÿÿÿÿ
-Dsquid:S1481
-",Remove this unused "domImpl" local variable.(Á“ 
-@squid:S1481
-"(Remove this unused "map" local variable.(»¬Ÿ
-Bsquid:S1481‘
-"+Remove this unused "entity" local variable.(å Õ`
-Jsquid:S1481’
-"-Remove this unused "notation" local variable.(ºĞññÿÿÿÿÿ
-Csquid:S1481“
-"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ
-Csquid:S1481å
-"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ
-Esquid:S1481ç
-"(Remove this unused "dtd" local variable.(à”˜¼şÿÿÿÿ
-Bsquid:S1481…"*Remove this unused "index" local variable.(Î‚í„
-Bsquid:S1481ê"*Remove this unused "index" local variable.(Î‚í„
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Ÿ±ÿıÿÿÿÿ
-csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(äœ¾

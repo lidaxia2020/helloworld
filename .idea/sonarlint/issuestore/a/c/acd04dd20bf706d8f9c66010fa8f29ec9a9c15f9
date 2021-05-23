@@ -1,11 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(» à—
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÅëÑ
-osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ûñ„ûÿÿÿÿ
-osquid:S00117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÄœııÿÿÿÿ
-Hsquid:S1659k"1Declare "name_and_type_index" on a separate line.(ì¾Öº
-Gsquid:S2160e"+Override the "equals" method in this class.(ñ¡Ê—ÿÿÿÿÿ
-nsquid:S00116k"VRename this field "class_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¾Öº
-vsquid:S00116k"^Rename this field "name_and_type_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¾Öº
-Wsquid:S1161Ó":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ

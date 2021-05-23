@@ -1,8 +1,0 @@
-
-Lsquid:S1191!"5Use classes from the Java API instead of Sun classes.(¼¸Ñá
-xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(èÛò§
-_squid:UselessImportCheck "6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñþÿÿÿÿ
-Ysquid:UselessImportCheck"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ
-Bsquid:S1172]"&Remove these unused method parameters.(ãÔ–ˆüÿÿÿÿ
-Wsquid:S1161¨":Add the "@Override" annotation above this method signature(‘¹ÿÖþÿÿÿÿ
-osquid:S00116Ë"VRename this field "all_allowed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆ¢÷

@@ -1,15 +1,0 @@
-
-Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(Ù‚Ò¥
-jsquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÕà
-osquid:S00117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁàÕÓøÿÿÿÿ
-qsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕÔŞ
-qsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÓÊ‹
-qsquid:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ¸ÖÀ
-qsquid:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(š€Ø„
-Osquid:S1135˜"2Complete the task associated to this TODO comment.(ßÁí¿ıÿÿÿÿ
-Jsquid:S1135›"2Complete the task associated to this TODO comment.(ú­¬û
-Osquid:S1135"2Complete the task associated to this TODO comment.(ßÁí¿ıÿÿÿÿ
-Jsquid:S1135 "2Complete the task associated to this TODO comment.(ú­¬û
-jsquid:S3776•	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ì·Ñ
-jsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ßæœ‰
-vsquid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏŞÓŞûÿÿÿÿ

@@ -1,5 +1,0 @@
-
-Ksquid:S1191!"5Use classes from the Java API instead of Sun classes.(Õªü@
-®%squid:RedundantThrowsDeclarationCheckA"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ş¶×Áÿÿÿÿÿ
-Xsquid:S1126Z"AReplace this if-then-else statement by a single return statement.(¤·…Ç
-Qsquid:S1161a":Add the "@Override" annotation above this method signature(Ç½Ÿ

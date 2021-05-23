@@ -1,19 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ğÔñ¯ıÿÿÿÿ
-fsquid:S3973Ò"IUse indentation to denote the code conditionally executed by this "else".(Àµ´¡ÿÿÿÿÿ
-jsquid:S00117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ø´Û
-isquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êùí_
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁúºÆ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îûÂŒşÿÿÿÿ
-osquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¿ çøÿÿÿÿ
-osquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌŠˆÁşÿÿÿÿ
-osquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êƒ’Ûúÿÿÿÿ
-@squid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-.squid:S2176v"Rename this class.(ŠÃÁÓùÿÿÿÿ
-ssquid:S00116x"[Rename this field "ignored_packages" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¥ÿ­
-msquid:S1149w"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(µŒß
-fsquid:S3252|"JUse static access with "java.lang.ClassLoader" for "getSystemClassLoader".(ºÎ§Şüÿÿÿÿ
-osquid:S3776§"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(œ¿ çøÿÿÿÿ
-Wsquid:S1161§":Add the "@Override" annotation above this method signature(œ¿ çøÿÿÿÿ
-Bsquid:S1181ƒ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
-^squid:CallToDeprecatedMethod"0Remove this use of "setBytes"; it is deprecated.(²êº—úÿÿÿÿ

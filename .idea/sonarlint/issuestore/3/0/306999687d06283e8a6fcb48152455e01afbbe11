@@ -1,12 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
-Wsquid:UselessImportCheck"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-_squid:UselessImportCheck";Remove this unused import 'org.omg.CORBA.CompletionStatus'.(ÖÂ“
-dsquid:UselessImportCheck""@Remove this unused import 'com.sun.corba.se.impl.corba.AnyImpl'.(Ð¾‚ü
-hsquid:UselessImportCheck "DRemove this unused import 'org.omg.PortableInterceptor.InvalidSlot'.(±Í¾¨
-=squid:S1170:"!Make this final field static too.(‡œäùÿÿÿÿ
-wsquid:S00116:"ZRename this field "HIGH_WATER_MARK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡œäùÿÿÿÿ
-9squid:S2129¦"!Remove this "Integer" constructor(¸ê¡˜
-Xsquid:CallToDeprecatedMethod¦"/Remove this use of "Integer"; it is deprecated.(¸ê¡˜
->squid:S2129§"!Remove this "Integer" constructor(ù„ƒ•üÿÿÿÿ
-]squid:CallToDeprecatedMethod§"/Remove this use of "Integer"; it is deprecated.(ù„ƒ•üÿÿÿÿ

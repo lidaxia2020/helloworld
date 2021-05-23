@@ -1,44 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
-esquid:S3973_"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
-_squid:S00112û"FDefine and throw a dedicated exception instead of using a generic one.(™³æÉ
-_squid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(™³æÉ
-squid:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒÖïÃúÿÿÿÿ
-‚squid:S1149ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®¿ÜÎøÿÿÿÿ
-Rsquid:S1161¥":Add the "@Override" annotation above this method signature(æ”Âó
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(ÂëÀıùÿÿÿÿ
-Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(øâ²¨şÿÿÿÿ
-Rsquid:S1161æ":Add the "@Override" annotation above this method signature(ğñÈğ
-Rsquid:S1161÷":Add the "@Override" annotation above this method signature(«›‹
-Rsquid:S1161†":Add the "@Override" annotation above this method signature(‚‘Ò®
-Rsquid:S1161´":Add the "@Override" annotation above this method signature(Ö×Ì
-Rsquid:S1161É":Add the "@Override" annotation above this method signature(ËĞÁ
-Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(ËÉÖüùÿÿÿÿ
-Wsquid:S1161é":Add the "@Override" annotation above this method signature(¡‰‚”şÿÿÿÿ
-Rsquid:S1161ù":Add the "@Override" annotation above this method signature(ï¸šÎ
-Wsquid:S1161¬":Add the "@Override" annotation above this method signature(ÌÊ€Ïıÿÿÿÿ
-Wsquid:S1161¼":Add the "@Override" annotation above this method signature(Úşäÿÿÿÿÿ
-Wsquid:S1161ğ":Add the "@Override" annotation above this method signature(ŠäÿÀøÿÿÿÿ
-Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(ƒœèÏ
-Wsquid:S1161 ":Add the "@Override" annotation above this method signature(£íğÖùÿÿÿÿ
-jsquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ÊÙµ›
-jsquid:S1871Ö"MThis branch's code block is the same as the block for the branch on line 707.(ÒÌâ–øÿÿÿÿ
-Rsquid:S1161ƒ":Add the "@Override" annotation above this method signature(¨’Íá
-Wsquid:S1161•":Add the "@Override" annotation above this method signature(â—ôşÿÿÿÿÿ
-Rsquid:S1161§":Add the "@Override" annotation above this method signature(ı©Ò
-Wsquid:S1161¹":Add the "@Override" annotation above this method signature(½˜¹’øÿÿÿÿ
-msquid:S1201Ì"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¯¢…Ò
-Rsquid:S1161Ì":Add the "@Override" annotation above this method signature(¯¢…Ò
-Rsquid:S1161å":Add the "@Override" annotation above this method signature(â´³³
-Wsquid:S1610ñ":Convert the abstract class "Comparator" into an interface.(‚³Ôáıÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú°à¬
-hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(û—ıÜıÿÿÿÿ
-hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(ºÍ™Õüÿÿÿÿ
-csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(Ÿë´‡
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µç
-csquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(Ú°à¬
-csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(—Ø÷—
-hsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(Ì¼ŠÎüÿÿÿÿ
-hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(Øƒ²Òúÿÿÿÿ
-hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(„Îšƒúÿÿÿÿ

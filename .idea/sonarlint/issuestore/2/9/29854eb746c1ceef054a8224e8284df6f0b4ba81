@@ -1,19 +1,0 @@
-
-Qsquid:S1191&"5Use classes from the Java API instead of Sun classes.(òÀ½şÿÿÿÿ
-Lsquid:S1066Ñ"/Merge this if statement with the enclosing one.(¥€‘Ÿúÿÿÿÿ
-?squid:S1604¸"(Make this anonymous inner class a lambda(ÆŞÖ
-;squid:S1948æ"#Make "h" transient or serializable.(ú‰Ñ‰
-Ÿ%squid:RedundantThrowsDeclarationCheck‚"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-psquid:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌúÀ-
-@squid:S1659"#Declare "intf2" on a separate line.(µ˜ëĞüÿÿÿÿ
-xsquid:S00115ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹Ê±òıÿÿÿÿ
-osquid:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(À¹í§úÿÿÿÿ
-Bsquid:S00108ÿ")Either remove or fill this block of code.(ıàÑÎ
-Ÿ%squid:RedundantThrowsDeclarationCheck˜"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-Nsquid:S1854¶"6Remove this useless assignment to local variable "ih".(ÈÍ½è
-bsquid:S2147É"ECombine this catch with the one at line 960, which has the same body.(¼¯•¶ùÿÿÿÿ
-Usquid:S3878¿"8Remove this array creation and simply pass the elements.(½¼’Äúÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-?squid:S1481¶"'Remove this unused "ih" local variable.(ÈÍ½è
-Gsquid:S3398ª"*Move this method into "ProxyClassFactory".(óŒè×şÿÿÿÿ
-hsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ËÉÔ øÿÿÿÿ

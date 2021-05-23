@@ -1,19 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-jsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÊ©â
-osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áùÒĞùÿÿÿÿ
-osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áùÒĞùÿÿÿÿ
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈŞ¾£
-jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
-jsquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Õ“«
-isquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÊÜB
-isquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÑ´T
-osquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•úüÿÿÿÿ
-<squid:S2157e"%Add a "clone()" method to this class.(÷¢ìÒ
-psquid:S00116h"SRename this field "start_pc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üëƒ²üÿÿÿÿ
-msquid:S00116j"URename this field "name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½±ßë
-rsquid:S00116k"ZRename this field "signature_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î€â
-usquid:S00116s"XRename this field "constant_pool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıéì¼øÿÿÿÿ
-Ksquid:S1948s"/Make "constant_pool" transient or serializable.(ıéì¼øÿÿÿÿ
-?squid:S1659Æ"'Declare "signature" on a separate line.(«Ààˆ
-Gsquid:S00108Ô")Either remove or fill this block of code.(³›åùşÿÿÿÿ

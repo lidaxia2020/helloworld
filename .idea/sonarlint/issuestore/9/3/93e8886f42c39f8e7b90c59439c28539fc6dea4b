@@ -1,5 +1,0 @@
-
-†squid:S1192³"nDefine a constant instead of duplicating this literal "Minimum value must be less than maximum value" 3 times.(—Ú¦ 
-Asquid:S1125´")Remove the literal "false" boolean value.(¨ÍíÂ
-Fsquid:S1125Í")Remove the literal "false" boolean value.(Àýö“ýÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckì"yRemove the declaration of thrown exception 'java.io.InvalidObjectException' which is a subclass of 'java.io.IOException'.(œ‡¥¹ùÿÿÿÿ

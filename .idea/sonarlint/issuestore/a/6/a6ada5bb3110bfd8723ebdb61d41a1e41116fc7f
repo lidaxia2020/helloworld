@@ -1,16 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¤™‡‘ùÿÿÿÿ
-xsquid:S1488R"\Immediately return this expression instead of assigning it to the temporary variable "comp".(íÑ×şÿÿÿÿ
-xsquid:S1488e"\Immediately return this expression instead of assigning it to the temporary variable "comp".(ØùŸ‚üÿÿÿÿ
-ysquid:S1488†"\Immediately return this expression instead of assigning it to the temporary variable "comp".(›ëˆËûÿÿÿÿ
-tsquid:S1488˜"\Immediately return this expression instead of assigning it to the temporary variable "comp".(îñ¦
-ysquid:S1488©"\Immediately return this expression instead of assigning it to the temporary variable "comp".(íŸ«éúÿÿÿÿ
-xsquid:S1488¹"[Immediately return this expression instead of assigning it to the temporary variable "cmp".(‹ò–Šûÿÿÿÿ
-{squid:S1488È"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÃŒäÕşÿÿÿÿ
-{squid:S1488ß"^Immediately return this expression instead of assigning it to the temporary variable "result".(§³û…ıÿÿÿÿ
-}squid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(é›¢ùÿÿÿÿ
-xsquid:UselessImportCheck&"TRemove this unnecessary import: same package classes are always implicitly imported.(úËªº
-xsquid:UselessImportCheck'"TRemove this unnecessary import: same package classes are always implicitly imported.(Å¯›ë
-Gsquid:UselessImportCheck8"Remove this duplicated import.(Ëó’œıÿÿÿÿ
-wsquid:UselessImportCheck+"NRemove this unused import 'com.sun.corba.se.impl.encoding.MarshalInputStream'.(¡Ÿ©µÿÿÿÿÿ
-Ysquid:S1610H"=Convert the abstract class "IIOPFactories" into an interface.(÷Œñƒÿÿÿÿÿ

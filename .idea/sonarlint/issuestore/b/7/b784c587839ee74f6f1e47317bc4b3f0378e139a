@@ -1,10 +1,0 @@
-
-?squid:S1604<"(Make this anonymous inner class a lambda(’­Ûü
-Tsquid:S1197f"8Move the array designator from the variable to the type.(ÕòÎÿÿÿÿÿ
-Nsquid:S1197|"8Move the array designator from the variable to the type.(àÖ–E
-Usquid:S1197•"8Move the array designator from the variable to the type.(›ãâ¹ùÿÿÿÿ
-Usquid:S1197±"8Move the array designator from the variable to the type.(ü÷Î¼úÿÿÿÿ
-Psquid:S1197Æ"8Move the array designator from the variable to the type.(àè²ò
-Usquid:S1197Ü"8Move the array designator from the variable to the type.(‡óıüÿÿÿÿ
-fsquid:S4201‡"IRemove this unnecessary null check; "instanceof" returns false for nulls.(­»Øşÿÿÿÿ
-ksquid:ModifiersOrderCheckà"EReorder the modifiers to comply with the Java Language Specification.(×æÄó

@@ -1,19 +1,0 @@
-
-bsquid:S1192½"JDefine a constant instead of duplicating this literal "Provider " 3 times.(ƒ‚ò­
-@squid:S1604Ó"(Make this anonymous inner class a lambda(Ô®©è
-Esquid:S1604Þ"(Make this anonymous inner class a lambda(ºÿ½°ùÿÿÿÿ
-_squid:S00112Ì"FDefine and throw a dedicated exception instead of using a generic one.(ôÛØ§
-xsquid:UselessImportCheck%"TRemove this unnecessary import: same package classes are always implicitly imported.(÷‰îƒ
-xsquid:UselessImportCheck&"TRemove this unnecessary import: same package classes are always implicitly imported.(»îÜ®
-xsquid:UselessImportCheck'"TRemove this unnecessary import: same package classes are always implicitly imported.(¥ÍòÕ
-}squid:UselessImportCheck("TRemove this unnecessary import: same package classes are always implicitly imported.(Õë±Äøÿÿÿÿ
-}squid:UselessImportCheck)"TRemove this unnecessary import: same package classes are always implicitly imported.(®“ÿéúÿÿÿÿ
-jsquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Þ”‡Þ
-Gsquid:S2093÷"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-Bsquid:S1181Ç"%Catch Exception instead of Throwable.(€çØýÿÿÿÿÿ
-\squid:CallToDeprecatedMethodÄ"3Remove this use of "newInstance"; it is deprecated.(¿µÍ®
-ksquid:S2272Ú"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(—Ã§„ûÿÿÿÿ
-Wsquid:S1161å":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Wsquid:S1161³":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-<squid:S3398ñ"%Move this method into "LazyIterator".(ÏÉÛ
-hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(‰óÌîùÿÿÿÿ

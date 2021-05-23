@@ -1,12 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(£ÿõ•ûÿÿÿÿ
-zsquid:UselessImportCheck-"QRemove this unused import 'com.sun.corba.se.spi.transport.CorbaTransportManager'.(Šø‘ðþÿÿÿÿ
-vsquid:S00116<"YRename this field "ORBInitialHost" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¤Ž§úÿÿÿÿ
-qsquid:S00116="YRename this field "ORBInitialPort" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™²³õ
-psquid:S00116>"XRename this field "ORBServerHost" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ð§Ï¶
-usquid:S00116?"XRename this field "ORBServerPort" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¹é“ùÿÿÿÿ
-Ksquid:S1068H"/Remove this unused "servicesURL" private field.(Öž”¬øÿÿÿÿ
-Isquid:S1068I"3Remove this unused "propertyInitRef" private field.(ö·¶\
-hsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(ò¾¢Ãýÿÿÿÿ
-csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(Ú°à¬
-csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(Ú°à¬

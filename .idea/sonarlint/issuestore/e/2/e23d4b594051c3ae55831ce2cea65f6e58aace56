@@ -1,22 +1,0 @@
-
-Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-Zsquid:S00107€"<Method has 8 parameters, which is greater than 7 authorized.(¬üÝŒûÿÿÿÿ
-Zsquid:S00107«"<Method has 9 parameters, which is greater than 7 authorized.(¬üÝŒûÿÿÿÿ
-fsquid:S3551"IMake this method "synchronized" to match the parent class implementation.(¬üÝŒûÿÿÿÿ
-osquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 83 to the 15 allowed.(¬üÝŒûÿÿÿÿ
-P
-squid:S106±"9Replace this use of System.out or System.err by a logger.(ù¼Å·
-asquid:S4201¹"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÚøÁ
-fsquid:S4201é"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ßÒŸÄúÿÿÿÿ
-Esquid:S1125"(Remove the literal "true" boolean value.(©£æ®üÿÿÿÿ
-@squid:S1125’")Remove the literal "false" boolean value.(³í™(
-U
-squid:S106©"9Replace this use of System.out or System.err by a logger.(ÐÔ¥Åùÿÿÿÿ
-]squid:S2147Ô"ECombine this catch with the one at line 467, which has the same body.(“­ÿÏ
-Bsquid:S00108Ó")Either remove or fill this block of code.(Ö«Ýö
-Bsquid:S00108Ô")Either remove or fill this block of code.(“­ÿÏ
-P
-squid:S106å"9Replace this use of System.out or System.err by a logger.(í½é
-P
-squid:S106æ"9Replace this use of System.out or System.err by a logger.(Ü¯ÎÍ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

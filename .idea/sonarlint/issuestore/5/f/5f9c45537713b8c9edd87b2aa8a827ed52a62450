@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
-|squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(š§µùÿÿÿÿ
-osquid:ModifiersOrderCheck;"EReorder the modifiers to comply with the Java Language Specification.(Œêƒşÿÿÿÿ
-Ç%squid:RedundantThrowsDeclarationCheck["Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDateTimeException' which is a runtime exception.(³æ—Ÿşÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(Ïş‡şÿÿÿÿ
-Wsquid:S1161˜":Add the "@Override" annotation above this method signature(÷Òå´øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

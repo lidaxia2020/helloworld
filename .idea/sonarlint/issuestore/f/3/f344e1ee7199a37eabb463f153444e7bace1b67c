@@ -1,32 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
-Usquid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ
-Vsquid:UselessImportCheck "-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
-ssquid:UselessImportCheck="JRemove this unused import 'javax.xml.stream.events.ProcessingInstruction'.(Ä•İƒÿÿÿÿÿ
-csquid:UselessImportCheck;"?Remove this unused import 'javax.xml.stream.events.EndElement'.(¯‚şó
-jsquid:UselessImportCheck>"ARemove this unused import 'javax.xml.stream.events.StartElement'.(·§¸ùÿÿÿÿ
-Ssquid:UselessImportCheck!"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-bsquid:UselessImportCheck<">Remove this unused import 'javax.xml.stream.events.Namespace'.(üƒˆ
-ksquid:UselessImportCheck?"BRemove this unused import 'javax.xml.stream.events.StartDocument'.(ü«Ì¡ÿÿÿÿÿ
-osquid:S1450T"SRemove the "_lex" field and declare it as a local variable in the relevant methods.(öÂôùÿÿÿÿ
-msquid:S1450U"WRemove the "_saxImpl" field and declare it as a local variable in the relevant methods.(ÎøÑa
-™squid:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûğ„Û
-™squid:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌëŸõ
-squid:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô®öÙÿÿÿÿÿ
-squid:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı²ıÿıÿÿÿÿ
-™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰›”°
-gsquid:S00116S"ORename this field "_sax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¬Èè
-lsquid:S00116T"ORename this field "_lex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÂôùÿÿÿÿ
-jsquid:S00116U"SRename this field "_saxImpl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎøÑa
-Ÿ%squid:RedundantThrowsDeclarationChecka"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
-%squid:RedundantThrowsDeclarationCheckx"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ŠúÌ
-¢%squid:RedundantThrowsDeclarationCheckx"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ŠúÌ
-›%squid:RedundantThrowsDeclarationCheckğ"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(ÌëŸõ
- %squid:RedundantThrowsDeclarationCheckû"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
- %squid:RedundantThrowsDeclarationCheck’"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.( èä¯üÿÿÿÿ
-Dsquid:S1068T"(Remove this unused "_lex" private field.(öÂôùÿÿÿÿ
-Bsquid:S1068U",Remove this unused "_saxImpl" private field.(ÎøÑa
-bsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ıêÊ‘
-bsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(£˜šÖ
-bsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(Ÿá¹û
-bsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ƒ÷»=

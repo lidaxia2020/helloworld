@@ -1,11 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-nsquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÀøüÿÿÿÿ
-isquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”å»
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã§«ºúÿÿÿÿ
-osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‰õ‚şÿÿÿÿ
-isquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­ø0
-rsquid:S00116m"URename this field "map_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â«ò†ıÿÿÿÿ
-vsquid:S1149Å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Íòƒl
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(¼çØıùÿÿÿÿ
-Wsquid:S1161Ä":Add the "@Override" annotation above this method signature(Îê‚‡úÿÿÿÿ

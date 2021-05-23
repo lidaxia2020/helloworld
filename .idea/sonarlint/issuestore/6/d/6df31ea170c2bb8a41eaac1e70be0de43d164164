@@ -1,26 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ëñ“€üÿÿÿÿ
-{squid:S1488…"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ü•Äşÿÿÿÿ
-]squid:S00112X"FDefine and throw a dedicated exception instead of using a generic one.(ø¦úb
-^squid:S00112`"FDefine and throw a dedicated exception instead of using a generic one.(ƒ•µ
-]squid:S00112h"FDefine and throw a dedicated exception instead of using a generic one.(²´
-dsquid:S00112¼"FDefine and throw a dedicated exception instead of using a generic one.(›­üáùÿÿÿÿ
-lsquid:UselessImportCheck'"HRemove this unused import 'com.sun.corba.se.impl.orbutil.ObjectUtility'.(¨«û—
-usquid:S3008°"XRename this field "URLActionImpl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÏ±–ùÿÿÿÿ
-osquid:ModifiersOrderCheckk"EReorder the modifiers to comply with the Java Language Specification.(Ğ”©¾úÿÿÿÿ
-Gsquid:S2160"+Override the "equals" method in this class.(ñË±ôûÿÿÿÿ
-Hsquid:S2160œ"+Override the "equals" method in this class.(ë±‹äúÿÿÿÿ
-]squid:CallToDeprecatedMethodİ"/Remove this use of "Boolean"; it is deprecated.(æ¡º¸ûÿÿÿÿ
-]squid:CallToDeprecatedMethodé"/Remove this use of "Integer"; it is deprecated.(Àé¯‡ıÿÿÿÿ
-lsquid:S00100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÒåøÿÿÿÿ
-Csquid:S2160ß"+Override the "equals" method in this class.(£Ğ–±
-9squid:S2129î"!Remove this "Integer" constructor(ãƒµ‚
-Xsquid:CallToDeprecatedMethodî"/Remove this use of "Integer"; it is deprecated.(ãƒµ‚
-Hsquid:S2160ÿ"+Override the "equals" method in this class.(ó»®Œüÿÿÿÿ
-Hsquid:S2160ª"+Override the "equals" method in this class.(Ú‡µãûÿÿÿÿ
-Hsquid:S2160×"+Override the "equals" method in this class.(ÅÑğŒùÿÿÿÿ
-Hsquid:S2160ñ"+Override the "equals" method in this class.(ØØÅçüÿÿÿÿ
-Csquid:S2160"+Override the "equals" method in this class.(·–ì
-7squid:S2129²"Remove this "Short" constructor(Ê÷ó
-Vsquid:CallToDeprecatedMethod²"-Remove this use of "Short"; it is deprecated.(Ê÷ó
-@squid:S3398["$Move this method into "IndexAction".(Àø„üÿÿÿÿ

@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(â’Öåüÿÿÿÿ
-|"squid:ClassVariableVisibilityCheckI"NMake ch a static final constant or non-public and provide accessors if needed.(õå¨û
-…"squid:ClassVariableVisibilityCheckL"RMake offset a static final constant or non-public and provide accessors if needed.(É‚Þèúÿÿÿÿ
-"squid:ClassVariableVisibilityCheckO"RMake length a static final constant or non-public and provide accessors if needed.(ÇÈÕ[
-rsquid:S1201Ñ"UEither override Object.equals(Object), or rename the method to prevent any confusion.(³œÈ—ûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

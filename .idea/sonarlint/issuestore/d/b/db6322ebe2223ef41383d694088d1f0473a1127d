@@ -1,18 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
-zsquid:UselessImportCheck4"WRemove this unused import 'com.sun.corba.se.impl.protocol.giopmsgheaders.ReplyMessage'.(¶¹*
-qsquid:UselessImportCheck&"HRemove this unused import 'com.sun.corba.se.pept.encoding.OutputObject'.(Ü‹÷íıÿÿÿÿ
-Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-lsquid:S00116M"TRename this field "out_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùİªÏ
-jsquid:ModifiersOrderCheck?"EReorder the modifiers to comply with the Java Language Specification.(äÒÃˆ
-jsquid:ModifiersOrderCheckM"EReorder the modifiers to comply with the Java Language Specification.(ùİªÏ
-isquid:S3776{"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷‘–Û
-csquid:S2142¦"FEither re-interrupt this method or rethrow the "InterruptedException".(“Çêıÿÿÿÿ
-Gsquid:S00108¦")Either remove or fill this block of code.(“Çêıÿÿÿÿ
-Lsquid:EmptyStatementUsageCheck¦"Remove this empty statement.(“Çêıÿÿÿÿ
-Hsquid:S2446ü"0"notify" may not wake up the appropriate thread.(ı™š­
-Bsquid:S00108¬")Either remove or fill this block of code.(”ı¾
->squid:S2129º"!Remove this "Integer" constructor(ÊÚÙ¼úÿÿÿÿ
-]squid:CallToDeprecatedMethodº"/Remove this use of "Integer"; it is deprecated.(ÊÚÙ¼úÿÿÿÿ
-Jsquid:S1068K".Remove this unused "connection" private field.(‚­×²ıÿÿÿÿ
-csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(ÕÍ€

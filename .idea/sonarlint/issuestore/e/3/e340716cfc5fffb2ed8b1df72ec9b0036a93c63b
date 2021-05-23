@@ -1,34 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckÒ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ĞÙµ÷
-… squid:ForLoopCounterChangedCheckş"XRefactor the code in order to not assign to this loop counter from within the loop body.(µš¾‚
-Lsquid:S11911"5Use classes from the Java API instead of Sun classes.(—„Ìø
-^$squid:AssignmentInSubExpressionCheckÓ".Extract the assignment out of this expression.(æè
-csquid:S1301”"KReplace this "switch" statement by "if" statements to increase readability.(ÁôÍœ
-p
-squid:S135Ğ"YReduce the total number of break and continue statements in this loop to use at most one.(¾•ş
-dsquid:S2259ò"GA "NullPointerException" could be thrown; "groupList" is nullable here.(½øÖúÿÿÿÿ
-osquid:S1450–"WRemove the "mPattern" field and declare it as a local variable in the relevant methods.(ü¡‰Ï
-nsquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷±Š‡üÿÿÿÿ
-Hsquid:S1172b",Remove this unused method parameter "decmp".(÷±Š‡üÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck”""Add a default case to this switch.(ÁôÍœ
-jsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ïîÙ‘
-Jsquid:S1135Ù"2Complete the task associated to this TODO comment.(—†¹
-osquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿ“‘ùúÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÈ""Add a default case to this switch.(ß§ùÿÿÿÿ
-Csquid:S1168"+Return an empty collection instead of null.(¥¹ï
-£%squid:RedundantThrowsDeclarationCheck›"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Ÿ®¶‰
-£%squid:RedundantThrowsDeclarationCheck²"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(å·©³
-osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿ„…ñÿÿÿÿÿ
-psquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(÷Ûûüÿÿÿÿ
-ksquid:ModifiersOrderCheck‰"EReorder the modifiers to comply with the Java Language Specification.(ÄÕöÙ
-psquid:ModifiersOrderCheckŠ"EReorder the modifiers to comply with the Java Language Specification.(ö÷Ìœøÿÿÿÿ
-ksquid:ModifiersOrderCheck‹"EReorder the modifiers to comply with the Java Language Specification.(ëÉÖì
-psquid:ModifiersOrderCheckŒ"EReorder the modifiers to comply with the Java Language Specification.(ĞÖ„Ğøÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ğşÛìûÿÿÿÿ
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(­œ‹¸şÿÿÿÿ
-Isquid:S1481d"-Remove this unused "isSource" local variable.(ƒ±¤òıÿÿÿÿ
-bsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(ëÿ£ß
-gsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(ì¬…ãıÿÿÿÿ
-csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(Ê€«Ä
-hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ú·Ñ‹ùÿÿÿÿ
-hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(ú·Ñ‹ùÿÿÿÿ

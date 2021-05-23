@@ -1,21 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ì—ğá
-usquid:S00116X"XRename this field "m_intToString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆã¾ïıÿÿÿÿ
-nsquid:S00116Z"VRename this field "m_hashStart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‚¥
-nsquid:S00116["VRename this field "m_hashChain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¾‰
-squid:S1149X"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆã¾ïıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck‰"sRemove the declaration of thrown exception 'java.lang.ArrayIndexOutOfBoundsException' which is a runtime exception.(ªÃê8
-jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ä¥°
-gsquid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¥°
-Csquid:S1172µ"+Remove this unused method parameter "args".(ä¥°
-P
-squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ÆøÔ×
-P
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(¶ŸÎ
-U
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(å…À¾øÿÿÿÿ
-U
-squid:S106Ş"9Replace this use of System.out or System.err by a logger.(«à­üÿÿÿÿ
-U
-squid:S106ä"9Replace this use of System.out or System.err by a logger.(šùğæşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

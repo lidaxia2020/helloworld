@@ -1,13 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-|squid:S00116G"_Rename this field "defaults_initialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¨Äÿÿÿÿÿ
-Dsquid:S1172N"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
-Qsquid:S1161]":Add the "@Override" annotation above this method signature(óı¶Œ
-Qsquid:S1161p":Add the "@Override" annotation above this method signature(¬ôŒµ
-Rsquid:S1161ƒ":Add the "@Override" annotation above this method signature(¢øéÄ
-Rsquid:S1161‡":Add the "@Override" annotation above this method signature(ıÿ‰ñ
-Wsquid:S1161‘":Add the "@Override" annotation above this method signature(¨©”¨ÿÿÿÿÿ
-Wsquid:S1161˜":Add the "@Override" annotation above this method signature(¬€œïûÿÿÿÿ
-Wsquid:S1161´":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
-osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Æ‚ŒÆşÿÿÿÿ
-Dsquid:S1068²",Remove this unused "viewRect" private field.(ÁØ‹†

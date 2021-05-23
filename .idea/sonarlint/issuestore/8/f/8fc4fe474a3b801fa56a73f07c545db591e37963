@@ -1,18 +1,0 @@
-
-Lsquid:S11916"5Use classes from the Java API instead of Sun classes.(§ª›‰
-u
-squid:S135Ù"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-psquid:ModifiersOrderCheckÁ"EReorder the modifiers to comply with the Java Language Specification.(Ÿ¤ğĞúÿÿÿÿ
-psquid:ModifiersOrderCheckĞ"EReorder the modifiers to comply with the Java Language Specification.(¤æüùÿÿÿÿ
-jsquid:ModifiersOrderCheckİ"EReorder the modifiers to comply with the Java Language Specification.(Ó±‚4
-ksquid:ModifiersOrderCheckñ"EReorder the modifiers to comply with the Java Language Specification.(àâ©ã
-psquid:ModifiersOrderCheckÿ"EReorder the modifiers to comply with the Java Language Specification.(ĞÛ¦˜øÿÿÿÿ
-psquid:ModifiersOrderCheck•"EReorder the modifiers to comply with the Java Language Specification.(„ìİşÿÿÿÿ
-psquid:ModifiersOrderCheck±"EReorder the modifiers to comply with the Java Language Specification.(ôõâ÷ùÿÿÿÿ
-psquid:S2975Ì"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
-Hsquid:S1905Ï"+Remove this unnecessary cast to "Collator".(àô’øÿÿÿÿ
-ksquid:ModifiersOrderCheck÷"EReorder the modifiers to comply with the Java Language Specification.(ˆ¡æ
-psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(÷™ãøıÿÿÿÿ
-\squid:S1134"DTake the required action to fix the issue indicated by this comment.(˜±‡®
-psquid:ModifiersOrderCheck¤"EReorder the modifiers to comply with the Java Language Specification.(ú¸–€ÿÿÿÿÿ
-psquid:ModifiersOrderCheck­"EReorder the modifiers to comply with the Java Language Specification.(ŒŞ‡»ıÿÿÿÿ

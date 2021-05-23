@@ -1,34 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-osquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºí¹úÿÿÿÿ
-osquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºí¹úÿÿÿÿ
-osquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºí¹úÿÿÿÿ
-isquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‰´)
-osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºí¹úÿÿÿÿ
-osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºí¹úÿÿÿÿ
-osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºí¹úÿÿÿÿ
-osquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¼‹›ûÿÿÿÿ
-osquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ç‹àúÿÿÿÿ
-osquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ˆ÷Îıÿÿÿÿ
-osquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëñéÿÿÿÿÿ
-osquid:S00117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¼€úÿÿÿÿ
-osquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¦™üÿÿÿÿ
-osquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÿğúÿÿÿÿ
-Jsquid:S1659m".Declare "super_class_name" on a separate line.(§ãİÿûÿÿÿÿ
-Csquid:S1659m"'Declare "file_name" on a separate line.(§ãİÿûÿÿÿÿ
-Jsquid:S1659n"3Declare "superclass_name_index" on a separate line.(ƒ»¥
-9squid:S1659o"#Declare "minor" on a separate line.(úÀµy
-rsquid:S00116m"URename this field "class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ãİÿûÿÿÿÿ
-xsquid:S00116m"[Rename this field "super_class_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ãİÿûÿÿÿÿ
-qsquid:S00116m"TRename this field "file_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ãİÿûÿÿÿÿ
-ssquid:S00116n"[Rename this field "class_name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ»¥
-xsquid:S00116n"`Rename this field "superclass_name_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ»¥
-qsquid:S00116t"TRename this field "field_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–²ÀÏúÿÿÿÿ
-rsquid:S00116u"URename this field "method_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾è¹Úúÿÿÿÿ
-psquid:S00116v"XRename this field "attribute_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª²ˆ
-usquid:S00116w"XRename this field "interface_vec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ö©¥üÿÿÿÿ
-Zsquid:HiddenFieldCheckÚ"7Rename "cp" which hides the field declared at line 113.(œ²´
-ksquid:S2975£"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-U
-squid:S106§"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
-1squid:S2225¨"Return a non null object.(¥¹ï

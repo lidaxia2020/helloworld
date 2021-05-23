@@ -1,32 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÎÚ¶…øÿÿÿÿ
-csquid:S1192:"LDefine a constant instead of duplicating this literal "<<FAILURE>>" 9 times.(»†¶§
-hsquid:S11928"LDefine a constant instead of duplicating this literal "<<SUCCESS>>" 9 times.(üÈ†›ıÿÿÿÿ
-Vsquid:S1118'":Add a private constructor to hide the implicit public one.(ÈòîĞıÿÿÿÿ
-isquid:ModifiersOrderCheck1"EReorder the modifiers to comply with the Java Language Specification.(Õö¶C
-isquid:ModifiersOrderCheck2"EReorder the modifiers to comply with the Java Language Specification.(¡òìi
-osquid:ModifiersOrderCheck3"EReorder the modifiers to comply with the Java Language Specification.(è´šµûÿÿÿÿ
-isquid:ModifiersOrderCheck4"EReorder the modifiers to comply with the Java Language Specification.(Óõó
-jsquid:ModifiersOrderCheck7"EReorder the modifiers to comply with the Java Language Specification.(‘ĞôÉ
-jsquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(ŞæÆ
-jsquid:ModifiersOrderCheck;"EReorder the modifiers to comply with the Java Language Specification.(ò€è»
-osquid:ModifiersOrderCheck="EReorder the modifiers to comply with the Java Language Specification.(½Äù†úÿÿÿÿ
-jsquid:ModifiersOrderCheck?"EReorder the modifiers to comply with the Java Language Specification.(›ÓÁÛ
-jsquid:ModifiersOrderCheckA"EReorder the modifiers to comply with the Java Language Specification.(ÉÔ©ú
-osquid:ModifiersOrderCheckC"EReorder the modifiers to comply with the Java Language Specification.(©ÑöŒÿÿÿÿÿ
-osquid:ModifiersOrderCheckE"EReorder the modifiers to comply with the Java Language Specification.(…‘Öèùÿÿÿÿ
-jsquid:ModifiersOrderCheckO"EReorder the modifiers to comply with the Java Language Specification.(ŠÆ›ó
-jsquid:ModifiersOrderCheckP"EReorder the modifiers to comply with the Java Language Specification.(ÛıæÔ
-osquid:ModifiersOrderCheckR"EReorder the modifiers to comply with the Java Language Specification.(¥‡úÜıÿÿÿÿ
-jsquid:ModifiersOrderCheckT"EReorder the modifiers to comply with the Java Language Specification.(Ÿû×Ï
-jsquid:ModifiersOrderCheckV"EReorder the modifiers to comply with the Java Language Specification.(¿õÅå
-osquid:ModifiersOrderCheckX"EReorder the modifiers to comply with the Java Language Specification.(ª…Şìüÿÿÿÿ
-osquid:ModifiersOrderChecka"EReorder the modifiers to comply with the Java Language Specification.(ô—Äııÿÿÿÿ
-isquid:ModifiersOrderCheckb"EReorder the modifiers to comply with the Java Language Specification.(ÖÁá
-osquid:ModifiersOrderCheckc"EReorder the modifiers to comply with the Java Language Specification.(´®¯ıÿÿÿÿ
-osquid:ModifiersOrderChecke"EReorder the modifiers to comply with the Java Language Specification.(²Ğğ×ÿÿÿÿÿ
-osquid:ModifiersOrderCheckg"EReorder the modifiers to comply with the Java Language Specification.(Å¬¡éşÿÿÿÿ
-jsquid:ModifiersOrderChecki"EReorder the modifiers to comply with the Java Language Specification.(äã÷ğ
-osquid:ModifiersOrderCheckk"EReorder the modifiers to comply with the Java Language Specification.(Ø¼»Ëúÿÿÿÿ
-osquid:ModifiersOrderCheckm"EReorder the modifiers to comply with the Java Language Specification.(¶¦î”ùÿÿÿÿ
-jsquid:ModifiersOrderChecko"EReorder the modifiers to comply with the Java Language Specification.(’İ¸Ê

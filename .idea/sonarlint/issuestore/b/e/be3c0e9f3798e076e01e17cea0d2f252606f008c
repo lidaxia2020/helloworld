@@ -1,14 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
-nsquid:S1192Ž"VDefine a constant instead of duplicating this literal "(Ljava/lang/String;)V" 6 times.(øƒºß
-isquid:S1192—"LDefine a constant instead of duplicating this literal "setInfinity" 3 times.(—üÉšþÿÿÿÿ
-_squid:S1192Ž"GDefine a constant instead of duplicating this literal "setNaN" 3 times.(øƒºß
-Ksquid:S1066W"/Merge this if statement with the enclosing one.(‹ÐÞñÿÿÿÿÿ
-hsquid:S00116A"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ôó—
-Vsquid:S1161I":Add the "@Override" annotation above this method signature(šžíïÿÿÿÿÿ
-Qsquid:S1161S":Add the "@Override" annotation above this method signature(ÁØ’›
-isquid:S3776s"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(†“‹Ø
-Qsquid:S1161s":Add the "@Override" annotation above this method signature(†“‹Ø
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-bsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ñ—‘Ì
-csquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(²Áÿù

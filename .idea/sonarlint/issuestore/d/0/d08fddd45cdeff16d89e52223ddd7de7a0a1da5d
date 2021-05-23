@@ -1,33 +1,0 @@
-
-Qsquid:S1191("5Use classes from the Java API instead of Sun classes.(ÉÃ¾åüÿÿÿÿ
-wsquid:S1192¨"ZDefine a constant instead of duplicating this literal "timeout value is negative" 3 times.(­¤„õûÿÿÿÿ
-esquid:S1192¸"HDefine a constant instead of duplicating this literal "Thread-" 4 times.(ì°‰²üÿÿÿÿ
-Gsquid:S1066ş"/Merge this if statement with the enclosing one.(ªä®â
-_$squid:AssignmentInSubExpressionCheckı
-".Extract the assignment out of this expression.(Ÿü×é
-jsquid:S00117â	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¡»ë
-Fsquid:S3077¼".Remove the "volatile" keyword from this field.(³ë§Ş
-Ksquid:S3077".Remove the "volatile" keyword from this field.(•Ç¤üÿÿÿÿ
-Fsquid:S3077¢".Remove the "volatile" keyword from this field.(ÔÙêê
-Fsquid:S3077«".Remove the "volatile" keyword from this field.(ŞƒÚÓ
-Fsquid:S3077Ï".Remove the "volatile" keyword from this field.(‹¬˜
-Fsquid:S3077Ò".Remove the "volatile" keyword from this field.(û²Ğ„
-tsquid:S00116Â"VRename this field "single_step" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³”íàøÿÿÿÿ
-Psquid:S1197¼"8Move the array designator from the variable to the type.(³ë§Ş
-ksquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(Ë²‰
-psquid:ModifiersOrderCheckÅ"EReorder the modifiers to comply with the Java Language Specification.(÷º÷Úúÿÿÿÿ
-ksquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(ŞÁ³¶
-_squid:S1182¦"HUse super.clone() to create and seed the cloned instance to be returned.(™”” 
-Msquid:S1133´"5Do not forget to remove this deprecated code someday.(®¦“
-Rsquid:S1133Ù"5Do not forget to remove this deprecated code someday.(‘©Ìúÿÿÿÿ
-Msquid:S1133ú	"5Do not forget to remove this deprecated code someday.(‚“¶î
-Rsquid:S1133¬
-"5Do not forget to remove this deprecated code someday.(Ü¡ó¶øÿÿÿÿ
-Msquid:S1133Î
-"5Do not forget to remove this deprecated code someday.(’ıœÀ
-Psquid:S1197†"8Move the array designator from the variable to the type.(®ğš½
-Msquid:S1133š"5Do not forget to remove this deprecated code someday.(È°Ã‚
-Gsquid:S00108Ë")Either remove or fill this block of code.(ª¤Ùºûÿÿÿÿ
-Gsquid:S00108Ñ")Either remove or fill this block of code.(ª¤Ùºûÿÿÿÿ
-psquid:ModifiersOrderCheckÛ"EReorder the modifiers to comply with the Java Language Specification.(Ë®°Ôúÿÿÿÿ
-ksquid:ModifiersOrderCheckÜ"EReorder the modifiers to comply with the Java Language Specification.(“Õ–§

@@ -1,6 +1,0 @@
-
-Ksquid:S1191 "5Use classes from the Java API instead of Sun classes.(Õªü@
-Osquid:S1197g"8Move the array designator from the variable to the type.(úÃ¿ã
-Osquid:S1197o"8Move the array designator from the variable to the type.(úÃ¿ã
-Ysquid:S1126"AReplace this if-then-else statement by a single return statement.(á‡Ö¹
-^squid:S1126Ÿ"AReplace this if-then-else statement by a single return statement.(©œ¾Šøÿÿÿÿ

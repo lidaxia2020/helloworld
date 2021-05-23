@@ -1,11 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
-squid:S32525"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_LENGTH".(¦‹‡@
-‚squid:S32525"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MINLENGTH".(¦‹‡@
-‚squid:S32525"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_MAXLENGTH".(¦‹‡@
-€squid:S32525"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_PATTERN".(¦‹‡@
-„squid:S32525"nUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_ENUMERATION".(¦‹‡@
-ƒsquid:S32525"mUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "FACET_WHITESPACE".(¦‹‡@
-Qsquid:S1161A":Add the "@Override" annotation above this method signature(ÝÞÿÀ
-Qsquid:S1161J":Add the "@Override" annotation above this method signature(µ™¬ù
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

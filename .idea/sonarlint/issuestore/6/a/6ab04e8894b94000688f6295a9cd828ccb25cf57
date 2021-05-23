@@ -1,7 +1,0 @@
-
-ksquid:ModifiersOrderCheckğ"EReorder the modifiers to comply with the Java Language Specification.(Ñşûœ
-Lsquid:EmptyStatementUsageCheck¢"Remove this empty statement.(ôŸìúÿÿÿÿ
-jsquid:S3776Ğ
-"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(â§›
-]squid:S1193ñ
-"@Replace the usage of the "instanceof" operator by a catch block.(£œÍùÿÿÿÿ

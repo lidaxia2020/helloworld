@@ -1,8 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-rsquid:S00116/"URename this field "_localname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘š™ÿıÿÿÿÿ
-jsquid:S001160"RRename this field "_prefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•‰ã
-rsquid:S001161"URename this field "_namespace" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÜñ±úÿÿÿÿ
-msquid:S001162"URename this field "_stringRep" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÊĞó
-qsquid:S001163"TRename this field "_hashCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¢ÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

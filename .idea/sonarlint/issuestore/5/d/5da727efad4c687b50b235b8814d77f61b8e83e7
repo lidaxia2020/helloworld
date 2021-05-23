@@ -1,5 +1,0 @@
-
-Csquid:S1905ã"&Remove this unnecessary cast to "int".(ó•Û€øÿÿÿÿ
-ƒsquid:S2178ƒ"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¥àò¤şÿÿÿÿ
-ˆ"squid:SwitchLastCaseIsDefaultCheck”"YComplete cases by adding the missing enum constants or add a default case to this switch.(°åÎğ
-«%squid:RedundantThrowsDeclarationCheckÉ"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(áŒ

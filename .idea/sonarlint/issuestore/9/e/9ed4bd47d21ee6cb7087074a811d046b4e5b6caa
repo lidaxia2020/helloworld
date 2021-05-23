@@ -1,8 +1,0 @@
-
-wsquid:S1149…"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŒôßÍ
-wsquid:S1149†"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(üÜÅ¤
-|squid:S1149™"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬ÙƒÈþÿÿÿÿ
-|squid:S1149ª"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(žìŸ•ûÿÿÿÿ
-ksquid:S2975î"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
-|squid:S1149™"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬ÙƒÈþÿÿÿÿ
-|squid:S1149ª"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(žìŸ•ûÿÿÿÿ

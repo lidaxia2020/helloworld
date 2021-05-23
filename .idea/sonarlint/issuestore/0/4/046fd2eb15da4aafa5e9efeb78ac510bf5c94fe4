@@ -1,114 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¢Ø†ä
-Lsquid:S1066¯"/Merge this if statement with the enclosing one.(ğì­Èÿÿÿÿÿ
-Gsquid:S1066Ş"/Merge this if statement with the enclosing one.(˜È×û
-Gsquid:S1066ã
-"/Merge this if statement with the enclosing one.(ÿÒúÊ
-Lsquid:S1066î
-"/Merge this if statement with the enclosing one.(ÿ©ñÏüÿÿÿÿ
-csquid:S2259•	"KA "NullPointerException" could be thrown; "streamQTables" is nullable here.(¾‡ü
-Vsquid:S00107µ"=Method has 26 parameters, which is greater than 7 authorized.(ÂŠ»‹
-@squid:S1604Á"(Make this anonymous inner class a lambda(’­Ûü
-jsquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÑà°
-osquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‰‡Ğûÿÿÿÿ
-osquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÏÿğüÿÿÿÿ
-jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÑ˜
-osquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªâƒøÿÿÿÿ
-osquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‡®üÿÿÿÿ
-osquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ®®Åşÿÿÿÿ
-jsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıãà
-jsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶à’Á
-osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ®·°şÿÿÿÿ
-jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹…†°
-osquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úæ¿¿ıÿÿÿÿ
-jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıãà
-osquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÓå²øÿÿÿÿ
-[squid:UselessImportCheck/"7Remove this unused import 'java.awt.image.SampleModel'.(’ïÎÒ
-_squid:UselessImportCheck0"6Remove this unused import 'java.awt.image.DataBuffer'.(İ²Âüÿÿÿÿ
-Vsquid:S1155Ñ">Use isEmpty() to check whether the collection is empty or not.(ğà¡á
-Vsquid:S1155ø">Use isEmpty() to check whether the collection is empty or not.(ğà¡á
-Wsquid:S1161Ô":Add the "@Override" annotation above this method signature(‹·® ûÿÿÿÿ
-Wsquid:S1161ã":Add the "@Override" annotation above this method signature(ºšõ×ÿÿÿÿÿ
-Wsquid:S1161½":Add the "@Override" annotation above this method signature(ë‚òûÿÿÿÿ
-Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(ÖÑ¥ìúÿÿÿÿ
-Ksquid:S1905Ï".Remove this unnecessary cast to "Dimension[]".(ãûœ×şÿÿÿÿ
->squid:S1168Ñ"&Return an empty array instead of null.(¥¹ï
-Msquid:S1172Ö"5Remove this unused method parameter "streamMetadata".(­µ³
-esquid:HiddenFieldCheckŞ"=Rename "metadata" which hides the field declared at line 152.(ëæœ¯üÿÿÿÿ
-Rsquid:S1161ï":Add the "@Override" annotation above this method signature(íîÚå
-psquid:S3776€"SRefactor this method to reduce its Cognitive Complexity from 392 to the 15 allowed.(Ëû™³ûÿÿÿÿ
-Usquid:S1854á"=Remove this useless assignment to local variable "inputType".(ØãÇ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ùÍŠëùÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(âµ‘äıÿÿÿÿ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯™©§øÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(“–¥
-U
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(Ñ†ÚÜıÿÿÿÿ
-P
-squid:S106“"9Replace this use of System.out or System.err by a logger.(°€ë®
-U
-squid:S106•"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÑ""Add a default case to this switch.(ÛÕÍŠùÿÿÿÿ
-U
-squid:S106ó"9Replace this use of System.out or System.err by a logger.(’Ø¸¡üÿÿÿÿ
-Fsquid:S1125®")Remove the literal "false" boolean value.(åº×Èüÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckè""Add a default case to this switch.(ıíŞ‡
-Asquid:S1125–")Remove the literal "false" boolean value.(§¯ØË
-Fsquid:S1125æ")Remove the literal "false" boolean value.(°œ…ğıÿÿÿÿ
-Fsquid:S1125è")Remove the literal "false" boolean value.(ÁåÓ…úÿÿÿÿ
-Fsquid:S1125†")Remove the literal "false" boolean value.(ˆò¨ûÿÿÿÿ
-U
-squid:S106­"9Replace this use of System.out or System.err by a logger.(èïõóüÿÿÿÿ
-P
-squid:S106®"9Replace this use of System.out or System.err by a logger.(”™²ê
-Wsquid:S1161Ü":Add the "@Override" annotation above this method signature(çşÄÃÿÿÿÿÿ
-osquid:S3776è"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Şé¿ßşÿÿÿÿ
-Asquid:S1125€	")Remove the literal "false" boolean value.(ºÔµï
-@squid:S1125‹	"(Remove the literal "true" boolean value.(âãé“
-P
-squid:S106“	"9Replace this use of System.out or System.err by a logger.(ËÊÑ‚
-Rsquid:S1161±	":Add the "@Override" annotation above this method signature(ÈÔ—ù
-Fsquid:S1125·	")Remove the literal "false" boolean value.(»Íá·ùÿÿÿÿ
-Wsquid:S1161Á	":Add the "@Override" annotation above this method signature(ŞèØåşÿÿÿÿ
-Fsquid:S1125Æ	")Remove the literal "false" boolean value.(»Íá·ùÿÿÿÿ
-Wsquid:S1161Ï	":Add the "@Override" annotation above this method signature(›ĞÌ¿øÿÿÿÿ
-Rsquid:S1161í	":Add the "@Override" annotation above this method signature(¡ÀØ”
-Wsquid:S1161ø	":Add the "@Override" annotation above this method signature(¹Ïƒıÿÿÿÿ
-jsquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(èêç
-osquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«Æ«ùÿÿÿÿ
-Fsquid:S1905ğ")Remove this unnecessary cast to "Htable".(ñ¥•Úÿÿÿÿÿ
-isquid:S3776š"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŠçäP
-Wsquid:S1854´":Remove this useless assignment to local variable "retval".(Á˜Œ¶úÿÿÿÿ
-Wsquid:S1854¶":Remove this useless assignment to local variable "retval".(šÑÿóıÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckŸ""Add a default case to this switch.(ıíŞ‡
-h
-squid:S128±"LEnd this switch case with an unconditional break, return or throw statement.(é‘–Ìûÿÿÿÿ
-Wsquid:S1854Û":Remove this useless assignment to local variable "retval".(Á˜Œ¶úÿÿÿÿ
-Wsquid:S1854İ":Remove this useless assignment to local variable "retval".(šÑÿóıÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckÆ""Add a default case to this switch.(ıíŞ‡
-h
-squid:S128Ø"LEnd this switch case with an unconditional break, return or throw statement.(é‘–Ìûÿÿÿÿ
-isquid:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(©§ÁR
-Wsquid:S1854‰":Remove this useless assignment to local variable "retval".(Á˜Œ¶úÿÿÿÿ
-Wsquid:S1854‹":Remove this useless assignment to local variable "retval".(šÑÿóıÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckô""Add a default case to this switch.(ıíŞ‡
-h
-squid:S128†"LEnd this switch case with an unconditional break, return or throw statement.(é‘–Ìûÿÿÿÿ
-Wsquid:S1854˜":Remove this useless assignment to local variable "vsamp0".(ÈñŞ†ÿÿÿÿÿ
-bsquid:S1764›"KCorrect one of the identical sub-expressions on both sides of operator "||"(Í¾¥6
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(œıœ§úÿÿÿÿ
-Fsquid:S2786¨")Remove this redundant "static" qualifier.(º¿¸˜ıÿÿÿÿ
-xsquid:S00115©"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çİæ™øÿÿÿÿ
-xsquid:S00115ª"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”šË®ùÿÿÿÿ
-Fsquid:S1481á".Remove this unused "inputType" local variable.(ØãÇ
-Hsquid:S1481˜"+Remove this unused "vsamp0" local variable.(ÈñŞ†ÿÿÿÿÿ
-]squid:UnusedPrivateMethodÁ"2Remove this unused private "getDestCSType" method.(È•‡âûÿÿÿÿ
-]squid:UnusedPrivateMethod×"2Remove this unused private "writeMetadata" method.(ÕóÅœúÿÿÿÿ
-Tsquid:UnusedPrivateMethodƒ"/Remove this unused private "grabPixels" method.(¢ìÌE
-Zsquid:UnusedPrivateMethodâ"4Remove this unused private "writeOutputData" method.(ïâçş
-Nsquid:S3398Æ"1Move this method into "JPEGWriterDisposerRecord".(Ü•—øÿÿÿÿ

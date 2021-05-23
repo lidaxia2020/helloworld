@@ -1,11 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ùùşÿÿÿÿÿ
-Qsquid:S1141d"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Vsquid:S4973…"9Use the "equals" method if value comparison was intended.(•ß——ÿÿÿÿÿ
-Qsquid:S4973‡"9Use the "equals" method if value comparison was intended.(ğ¬ûğ
-Vsquid:S4973‰"9Use the "equals" method if value comparison was intended.(úğÍãşÿÿÿÿ
-vsquid:S1149v"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½ˆŸ‰
-?squid:S3010@"#Remove this assignment of "locale".(öŸ™ƒüÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckW"mRemove the declaration of thrown exception 'java.util.MissingResourceException' which is a runtime exception.(¥˜‹—úÿÿÿÿ
-hsquid:S3776U"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(É¯”Q
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

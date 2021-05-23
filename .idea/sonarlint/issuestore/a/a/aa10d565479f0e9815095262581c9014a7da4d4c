@@ -1,6 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(îæÅ‰ûÿÿÿÿ
-_squid:UselessImportCheck$"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
-Bsquid:S00108¢")Either remove or fill this block of code.(”ı¾
-Gsquid:S00108¨")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
-Gsquid:S2093œ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

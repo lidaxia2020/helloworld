@@ -1,6 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(À…Ÿöûÿÿÿÿ
-Vsquid:S11186":Add a private constructor to hide the implicit public one.(îÃ¼’ûÿÿÿÿ
-Msquid:S2692F"10 is a valid index, but is ignored by this check.(‚Åãºşÿÿÿÿ
-Msquid:S2692["10 is a valid index, but is ignored by this check.(‚Åãºşÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(€×ë
-rsquid:S1450@"VRemove the "handler" field and declare it as a local variable in the relevant methods.(šÚ—øÿÿÿÿ
-isquid:S3776G"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(‹ÃÄŠ
-vsquid:S4435O"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(æÏ¼’ıÿÿÿÿ
-nsquid:S3252O"RUse static access with "javax.xml.transform.TransformerFactory" for "newInstance".(æÏ¼’ıÿÿÿÿ
-vsquid:S4435P"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(è¾òøÿÿÿÿ

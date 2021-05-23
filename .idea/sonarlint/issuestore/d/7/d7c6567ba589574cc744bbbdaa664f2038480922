@@ -1,17 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-^$squid:AssignmentInSubExpressionCheckg".Extract the assignment out of this expression.(½–Ù³
-gsquid:S00116="ORename this field "_arg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»´À…
-osquid:S00116>"WRename this field "_nameOfFunct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à•áæ
-ysquid:S00116?"\Rename this field "_namespaceOfFunct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¾Ğúÿÿÿÿ
-wsquid:S00116@"_Rename this field "_isFunctionAvailable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÕÊë
-squid:S1149K"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®ÒÑËıÿÿÿÿ
-Vsquid:S1161b":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-Vsquid:S1161v":Add the "@Override" annotation above this method signature(´Ó•ûÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ô³Ìûÿÿÿÿÿ
-Tsquid:S1854‚"7Remove this useless assignment to local variable "arg".(§É¯™ùÿÿÿÿ
-^squid:S3027‰"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(òÿÁ
-Nsquid:S2692Ÿ"10 is a valid index, but is ignored by this check.(¨ºáÂøÿÿÿÿ
-Rsquid:S1161â":Add the "@Override" annotation above this method signature(†“‹Ø
-Esquid:S1481‚"(Remove this unused "arg" local variable.(§É¯™ùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

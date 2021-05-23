@@ -1,10 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
-esquid:S2259m"IA "NullPointerException" could be thrown; "memberName()" can return null.(Üñˆêûÿÿÿÿ
-Wsquid:UselessImportCheck "3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-usquid:UselessImportCheck("QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
-rsquid:UselessImportCheck'"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
-Fsquid:S00108[")Either remove or fill this block of code.(®¾ö·þÿÿÿÿ
-asquid:S2147e"ECombine this catch with the one at line 100, which has the same body.(»ýÕ‚þÿÿÿÿ
-Fsquid:S00108d")Either remove or fill this block of code.(®¾ö·þÿÿÿÿ
-Fsquid:S00108e")Either remove or fill this block of code.(»ýÕ‚þÿÿÿÿ

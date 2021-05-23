@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‘´¦¸
-Usquid:S4973)"9Use the "equals" method if value comparison was intended.(—Ë¬‰ÿÿÿÿÿ
-Usquid:S4973;"9Use the "equals" method if value comparison was intended.(»³à©øÿÿÿÿ
-Lsquid:S1133%"5Do not forget to remove this deprecated code someday.(Š¹š˜
-Xsquid:S1126("AReplace this if-then-else statement by a single return statement.(—ò×È
-Tsquid:S1197="8Move the array designator from the variable to the type.(¤Ñí¼ýÿÿÿÿ
-Tsquid:S1197Q"8Move the array designator from the variable to the type.(¤Ñí¼ýÿÿÿÿ

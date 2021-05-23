@@ -1,15 +1,0 @@
-
-_squid:S1192Ë"GDefine a constant instead of duplicating this literal "offset" 3 times.(ÍõÏ¢
-Esquid:S1199Ş"-Extract this nested code block into a method.(Ü  î
-hsquid:S1301Ü"KReplace this "switch" statement by "if" statements to increase readability.(ÍÂŠºøÿÿÿÿ
-Vsquid:S1155À">Use isEmpty() to check whether the collection is empty or not.(û«¿É
-Csquid:S1452Û"&Remove usage of generic wildcard type.(êã¡óüÿÿÿÿ
-Asquid:S1125„")Remove the literal "false" boolean value.(ï·ü
-Fsquid:S1125¨")Remove the literal "false" boolean value.(¡İÂœüÿÿÿÿ
-^squid:HiddenFieldCheck³";Rename "offset" which hides the field declared at line 157.(†”€ø
-Asquid:S1125´")Remove the literal "false" boolean value.(ÅÑÃà
-"squid:SwitchLastCaseIsDefaultCheckÜ"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÍÂŠºøÿÿÿÿ
-csquid:HiddenFieldCheckß";Rename "offset" which hides the field declared at line 157.(…–óòûÿÿÿÿ
-Jsquid:S1135î"2Complete the task associated to this TODO comment.(ù¡
-Csquid:S1452¨"&Remove usage of generic wildcard type.(£Ô½îúÿÿÿÿ
-Jsquid:S1135­"2Complete the task associated to this TODO comment.(Çø×Æ

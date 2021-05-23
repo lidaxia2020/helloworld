@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áé”Ü
-isquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ýû±Ç
-isquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á«Ü‡
-usquid:UselessImportCheck1"QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
-psquid:UselessImportCheck%"GRemove this unused import 'com.sun.corba.se.pept.encoding.InputObject'.(çššÑþÿÿÿÿ
-qsquid:UselessImportCheck&"HRemove this unused import 'com.sun.corba.se.pept.encoding.OutputObject'.(Ü‹÷íýÿÿÿÿ
-9squid:S12148""Move constants to a class or enum.(‘½çý

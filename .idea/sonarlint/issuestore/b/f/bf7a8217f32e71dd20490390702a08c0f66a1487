@@ -1,33 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ùİ‚Ë
-Rsquid:S1141¥"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141¸"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
-_squid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
-tsquid:S00116B"WRename this field "m_sourceTree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜õŸÄıÿÿÿÿ
-psquid:S00116Q"XRename this field "m_uriResolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íñ‹€
-squid:S1149B"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜õŸÄıÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(†áŸüÿÿÿÿ
-Ksquid:S1172œ".Remove this unused method parameter "locator".(ïì·üÿÿÿÿ
-Jsquid:S1135²"2Complete the task associated to this TODO comment.( â½­
-Osquid:S1135µ"2Complete the task associated to this TODO comment.(õ‘äâÿÿÿÿÿ
-Jsquid:S1135Í"2Complete the task associated to this TODO comment.(òßÆ‚
-Osquid:S1135Ğ"2Complete the task associated to this TODO comment.(Ë¶˜êøÿÿÿÿ
-Fsquid:S1940İ")Use the opposite operator ("!=") instead.(Òˆšªûÿÿÿÿ
-Osquid:S1135û"2Complete the task associated to this TODO comment.(áĞì…øÿÿÿÿ
-asquid:S4201õ"IRemove this unnecessary null check; "instanceof" returns false for nulls.(·Ïè²
-bsquid:S2147³"ECombine this catch with the one at line 433, which has the same body.(ğŒù‚üÿÿÿÿ
-Jsquid:S2755§"-Disable XML external entity (XXE) processing.(õ·êŸøÿÿÿÿ
-Bsquid:S00108±")Either remove or fill this block of code.(­ïÍ
-Gsquid:S00108³")Either remove or fill this block of code.(ğŒù‚üÿÿÿÿ
-Jsquid:S2755µ"-Disable XML external entity (XXE) processing.(‡¼Òüÿÿÿÿ
-fsquid:CallToDeprecatedMethodµ"8Remove this use of "XMLReaderFactory"; it is deprecated.(‡¼Òüÿÿÿÿ
-Jsquid:S1135Á"2Complete the task associated to this TODO comment.(Ê‰—§
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(Õ£°
-hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(•Êÿ¦ÿÿÿÿÿ
-hsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(¶ßäâıÿÿÿÿ
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯à·ö
-hsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(ş„ÄÖùÿÿÿÿ
-hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(ê­”·ùÿÿÿÿ
-hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(¨Öƒûÿÿÿÿ
-csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(†€éˆ

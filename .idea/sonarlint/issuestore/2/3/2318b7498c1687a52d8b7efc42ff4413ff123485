@@ -1,98 +1,0 @@
-
-gsquid:S3824ô"OReplace this "Map.get()" and condition with a call to "Map.computeIfPresent()".(íÅîÑ
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(şİòúùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÖ".Extract the assignment out of this expression.(’î™ùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckŞ".Extract the assignment out of this expression.(öí÷¤ıÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckæ".Extract the assignment out of this expression.(ß®Œïşÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckŒ
-".Extract the assignment out of this expression.(…Ùùı
-^$squid:AssignmentInSubExpressionCheck¤".Extract the assignment out of this expression.(ó¶şR
-Qsquid:S3516
-"9Refactor this method to not always return the same value.(ùı¡÷
-u
-squid:S135ë
-"YReduce the total number of break and continue statements in this loop to use at most one.(µ™¯¿ûÿÿÿÿ
-p
-squid:S135ô"YReduce the total number of break and continue statements in this loop to use at most one.(©×›®
-Asquid:S1659 ")Declare "LAST_RESULT" on a separate line.(ñø¾Ä
-Ksquid:S3077".Remove the "volatile" keyword from this field.(®üˆüÿÿÿÿ
-jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¥‡¾
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(üÃ¨
-=squid:S1659º" Declare "n2" on a separate line.(µ¿ÿíüÿÿÿÿ
-8squid:S1181¸"!Catch Exception instead of Error.(š²èD
-Usquid:S1854É"8Remove this useless assignment to local variable "form".(ôĞÄÈüÿÿÿÿ
-gsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¦æ’
-lsquid:S00100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—áòşúÿÿÿÿ
-lsquid:S00100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èñ¢±ûÿÿÿÿ
-P
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(…ı…”
-osquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(‹çéÜøÿÿÿÿ
-Ssquid:S1854";Remove this useless assignment to local variable "inTypes".(ø‹şç
-gsquid:S00100„	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãõŠ
-fsquid:S00100Š	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šå•9
-lsquid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àá±ºşÿÿÿÿ
-lsquid:S00100–	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾„Ğ†üÿÿÿÿ
-gsquid:S00100œ	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÓŸá
-lsquid:S00100¢	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡è¼¯øÿÿÿÿ
-lsquid:S00100©	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ª¤ıÿÿÿÿ
-lsquid:S00100®	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¸Õúÿÿÿÿ
-lsquid:S00100³	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÇ¶Œüÿÿÿÿ
-gsquid:S00100¸	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÄ¬å
-lsquid:S00100½	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çöìÁùÿÿÿÿ
-gsquid:S00100Â	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úõ‡
-\squid:S1134
-"DTake the required action to fix the issue indicated by this comment.(ÚÒ‹
-osquid:S3776ä
-"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥¸­Öùÿÿÿÿ
-Bsquid:S1659æ
-"%Declare "MIN_RUN" on a separate line.(—ÙÕÌüÿÿÿÿ
-8squid:S1659ç
-" Declare "c1" on a separate line.(„´Ê­
-<squid:S1659ç
-"$Declare "c1reps" on a separate line.(„´Ê­
-\squid:S1134Î"DTake the required action to fix the issue indicated by this comment.(ÂŸ¾Õ
-gsquid:HiddenFieldCheckÑ"?Rename "arguments" which hides the field declared at line 1414.(¥×µÅøÿÿÿÿ
-osquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(»Óû×øÿÿÿÿ
-gsquid:HiddenFieldChecké"?Rename "arguments" which hides the field declared at line 1414.(¥×µÅøÿÿÿÿ
-m squid:LabelsShouldNotBeUsedCheckë";Refactor the code to remove this label and the need for it.(À¶ªÀüÿÿÿÿ
-gsquid:HiddenFieldCheck‡"?Rename "arguments" which hides the field declared at line 1414.(¥×µÅøÿÿÿÿ
-ˆ"squid:SwitchLastCaseIsDefaultCheckº"YComplete cases by adding the missing enum constants or add a default case to this switch.(ğ¤¬û
-?squid:S1659ƒ""Declare "nmax" on a separate line.(…ËÊœùÿÿÿÿ
-Ssquid:S1854"6Remove this useless assignment to local variable "ni".(…ËÊœùÿÿÿÿ
-?squid:S1659""Declare "nmax" on a separate line.(…ËÊœùÿÿÿÿ
-lsquid:S00100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‚ŒÖúÿÿÿÿ
-lsquid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¢‹ñûÿÿÿÿ
-lsquid:S00100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ§÷ûùÿÿÿÿ
-gsquid:S00100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÿÑı
-lsquid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´™Øüüÿÿÿÿ
-3squid:S3626¶"Remove this redundant jump.(—­àô
-gsquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—­àô
-Vsquid:S3400·"9Remove this method and declare a constant for this value.(á†¾Áûÿÿÿÿ
-lsquid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á†¾Áûÿÿÿÿ
-Vsquid:S3400¸"9Remove this method and declare a constant for this value.(ì¤Å¤ıÿÿÿÿ
-lsquid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¤Å¤ıÿÿÿÿ
-Vsquid:S3400¹"9Remove this method and declare a constant for this value.(÷Áâ¡ÿÿÿÿÿ
-lsquid:S00100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Áâ¡ÿÿÿÿÿ
-Qsquid:S3400º"9Remove this method and declare a constant for this value.(Á¬ãš
-gsquid:S00100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¬ãš
-lsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÅòÛúÿÿÿÿ
-3squid:S3626¼"Remove this redundant jump.(«ÿ¤Ğ
-gsquid:S00100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÿ¤Ğ
-Dsquid:S1481",Remove this unused "inTypes" local variable.(ø‹şç
-Dsquid:S1481"'Remove this unused "ni" local variable.(…ËÊœùÿÿÿÿ
-Zsquid:UnusedPrivateMethod±"/Remove this unused private "identity_I" method.(‚‚ŒÖúÿÿÿÿ
-Zsquid:UnusedPrivateMethod²"/Remove this unused private "identity_J" method.(İ¢‹ñûÿÿÿÿ
-Zsquid:UnusedPrivateMethod³"/Remove this unused private "identity_F" method.(ñ§÷ûùÿÿÿÿ
-Usquid:UnusedPrivateMethod´"/Remove this unused private "identity_D" method.(œÿÑı
-Zsquid:UnusedPrivateMethodµ"/Remove this unused private "identity_L" method.(´™Øüüÿÿÿÿ
-Usquid:UnusedPrivateMethod¶"/Remove this unused private "identity_V" method.(—­àô
-Vsquid:UnusedPrivateMethod·"+Remove this unused private "zero_I" method.(á†¾Áûÿÿÿÿ
-Vsquid:UnusedPrivateMethod¸"+Remove this unused private "zero_J" method.(ì¤Å¤ıÿÿÿÿ
-Vsquid:UnusedPrivateMethod¹"+Remove this unused private "zero_F" method.(÷Áâ¡ÿÿÿÿÿ
-Qsquid:UnusedPrivateMethodº"+Remove this unused private "zero_D" method.(Á¬ãš
-Vsquid:UnusedPrivateMethod»"+Remove this unused private "zero_L" method.(ÇÅòÛúÿÿÿÿ
-Qsquid:UnusedPrivateMethod¼"+Remove this unused private "zero_V" method.(«ÿ¤Ğ
-hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(Úı€«ûÿÿÿÿ
-csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ÛÇüÆ
-csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(Ô¤ÿà
-csquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ãœÁâ

@@ -1,11 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Å·¯∆
-osquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…û∑¢˘ˇˇˇˇ
-Vsquid:S1155õ">Use isEmpty() to check whether the collection is empty or not.(ôµˆ‰
->squid:S1659u""Declare "prev" on a separate line.(âæŸƒ˚ˇˇˇˇ
-jsquid:S3008•"RRename this field "ih_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±áØÃ
-msquid:S00116w"URename this field "i_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷⁄Õå
-Dsquid:S1948v"-Make "instruction" transient or serializable.(ôÅŒñ
-Ssquid:S2696Á"6Make the enclosing method "static" or remove this set.(⁄∫Êû˚ˇˇˇˇ
->squid:S1168•"&Return an empty array instead of null.(•πÔç
-hsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.( ≈ú®˝ˇˇˇˇ

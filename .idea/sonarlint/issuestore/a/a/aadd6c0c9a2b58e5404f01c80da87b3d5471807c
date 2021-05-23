@@ -1,29 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈþ×
-dsquid:S1192ª"GDefine a constant instead of duplicating this literal "select" 3 times.(–‘¥œÿÿÿÿÿ
-Xsquid:S2387Q"<"_dependencies" is the name of a field in "TopLevelElement".(ÿðÄíÿÿÿÿÿ
-hsquid:S00116C"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«üÎ°
-nsquid:S00116D"WRename this field "_escapedName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÌžw
-hsquid:S00116E"PRename this field "_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Àÿ™
-psquid:S00116F"SRename this field "_isLocal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¸Íëþÿÿÿÿ
-isquid:S00116G"QRename this field "_local" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ²ûØ
-ssquid:S00116H"[Rename this field "_loadInstruction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÊçŽ
-ysquid:S00116I"\Rename this field "_storeInstruction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô±ÏÀùÿÿÿÿ
-osquid:S00116J"RRename this field "_select" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âØ˜Âùÿÿÿÿ
-gsquid:S00116N"PRename this field "_refs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï«ú}
-usquid:S00116Q"XRename this field "_dependencies" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿðÄíÿÿÿÿÿ
-jsquid:S00116T"RRename this field "_ignore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öòöÿ
-{squid:S1149N"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ï«ú}
-squid:S1149Q"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿðÄíÿÿÿÿÿ
-Jsquid:S1135„"2Complete the task associated to this TODO comment.(ê«ïæ
-Qsquid:S1854¢"9Remove this useless assignment to local variable "instr".(§»§š
-Psquid:S1854±"9Remove this useless assignment to local variable "instr".(¸àô
-Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-U
-squid:S106Ô"9Replace this use of System.out or System.err by a logger.(÷ÿÆûÿÿÿÿ
-U
-squid:S106×"9Replace this use of System.out or System.err by a logger.(ûšû×ùÿÿÿÿ
-Rsquid:S1161–":Add the "@Override" annotation above this method signature(ÁØ’›
-Bsquid:S1481¢"*Remove this unused "instr" local variable.(§»§š
-Asquid:S1481±"*Remove this unused "instr" local variable.(¸àô
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

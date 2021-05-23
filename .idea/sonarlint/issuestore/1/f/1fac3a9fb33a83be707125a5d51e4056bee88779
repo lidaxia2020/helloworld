@@ -1,90 +1,0 @@
-
-Msquid:S1191„"5Use classes from the Java API instead of Sun classes.(Ú¥ú·
-osquid:S1192Ú"RDefine a constant instead of duplicating this literal "Invalid operation" 3 times.(ÇşÌ¯ùÿÿÿÿ
-asquid:S1192Š"IDefine a constant instead of duplicating this literal "Overflow" 9 times.(ÖÄÊ—
-^squid:S1192É"FDefine a constant instead of duplicating this literal "audit" 4 times.(ıÓÌú
-bsquid:S1192"JDefine a constant instead of duplicating this literal "Underflow" 4 times.(Ä›Ì
-Gsquid:S1066ÿ "/Merge this if statement with the enclosing one.(¢²‡
-Lsquid:S1066Î!"/Merge this if statement with the enclosing one.(ÆÚëşÿÿÿÿÿ
-Gsquid:S1066í&"/Merge this if statement with the enclosing one.(³¬œ…
-Jsquid:S1199«
-"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-p
-squid:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(‰Èø×
-p
-squid:S135‘""YReduce the total number of break and continue statements in this loop to use at most one.(÷Ïİ™
-u
-squid:S135¨""YReduce the total number of break and continue statements in this loop to use at most one.(£õ«êÿÿÿÿÿ
-{squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(«óê…ùÿÿÿÿ
-wsquid:S2259¨"_"NullPointerException" will be thrown when invoking method "createAndStripZerosToMatchScale()".(ûàê
-osquid:S00117 %"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ƒªŞúÿÿÿÿ
-jsquid:S00117¡%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ü·¼
-jsquid:S00117¢%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íò‚
-osquid:S00117£%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øµ”‡üÿÿÿÿ
-isquid:S00117Ë%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÍ¹=
-jsquid:S00117®'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıà”ë
-osquid:S00117¯'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âï Şùÿÿÿÿ
-jsquid:S00117°'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è·ˆ’
-osquid:S00117±'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‹Àıÿÿÿÿ
-|squid:S3008"_Rename this field "BIG_TEN_POWERS_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÑëïûÿÿÿÿ
-Csquid:S3077"&Use an "AtomicReferenceArray" instead.(òÑëïûÿÿÿÿ
-Qsquid:S5164–"4Call "remove()" on "threadLocalStringBuilderHelper".(¹½ë¿ıÿÿÿÿ
-csquid:S4065–"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(¹½ë¿ıÿÿÿÿ
-Usquid:S1197"8Move the array designator from the variable to the type.(Õ§›Ûşÿÿÿÿ
-psquid:S3776™"SRefactor this method to reduce its Cognitive Complexity from 150 to the 15 allowed.(¸ºÛæüÿÿÿÿ
-]squid:S2147Õ"ECombine this catch with the one at line 595, which has the same body.(æ®Ş©
-Psquid:S1197„"8Move the array designator from the variable to the type.(˜¦éØ
-isquid:S3776é"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ôÀãx
-jsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ñëë‘
-]squid:HiddenFieldCheck›":Rename "scale" which hides the field declared at line 236.(ˆõ
-csquid:HiddenFieldCheck";Rename "intVal" which hides the field declared at line 228.(ã†î±üÿÿÿÿ
-]squid:HiddenFieldCheckÍ":Rename "scale" which hides the field declared at line 236.(ˆõ
-jsquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ö¤¤
-]squid:HiddenFieldCheckû":Rename "scale" which hides the field declared at line 236.(ˆõ
-^squid:HiddenFieldCheckü";Rename "intVal" which hides the field declared at line 228.(‘õÕ§
-jsquid:S3776¤
-"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦íÂÙ
-Psquid:S1197É
-"8Move the array designator from the variable to the type.(ûúºª
-Psquid:S1197â"8Move the array designator from the variable to the type.(„Ã¢õ
-Psquid:S1197€"8Move the array designator from the variable to the type.(¡¢Çœ
-psquid:ModifiersOrderCheckÚ"EReorder the modifiers to comply with the Java Language Specification.(‚šëÆúÿÿÿÿ
-ksquid:ModifiersOrderChecká"EReorder the modifiers to comply with the Java Language Specification.(Õ¢¹Ù
-ksquid:ModifiersOrderCheckê"EReorder the modifiers to comply with the Java Language Specification.(ÖôÇ³
-psquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(—¶„·şÿÿÿÿ
-psquid:ModifiersOrderCheckı"EReorder the modifiers to comply with the Java Language Specification.(ºÏ€Éıÿÿÿÿ
-ksquid:ModifiersOrderCheck†"EReorder the modifiers to comply with the Java Language Specification.(ûˆÂš
-jsquid:ModifiersOrderCheck’"EReorder the modifiers to comply with the Java Language Specification.(Şíÿ	
-psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(µÑ‚•üÿÿÿÿ
-jsquid:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¤î¸÷
-osquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ëÈÅÑùÿÿÿÿ
-\squid:S3358Å"DExtract this nested ternary operation into an independent statement.(Ï‡ÌÆ
-osquid:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ìº¾Îıÿÿÿÿ
-Osquid:S1197Ó"8Move the array designator from the variable to the type.(¶Û}
-Psquid:S1197Ş"8Move the array designator from the variable to the type.(èÙæÌ
-ksquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(…€“è
-psquid:ModifiersOrderCheckÊ"EReorder the modifiers to comply with the Java Language Specification.(ñÕ¸Ãùÿÿÿÿ
-jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(À‘ó
-Usquid:S1197"8Move the array designator from the variable to the type.(òÑëïûÿÿÿÿ
-Psquid:S1197ª"8Move the array designator from the variable to the type.(æÇ
-3squid:S3626û"Remove this redundant jump.(ûÁİ…
-xsquid:S00115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÚÍ¦ûÿÿÿÿ
-xsquid:S00115†"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰Œ½íüÿÿÿÿ
-\squid:S3358Ÿ"DExtract this nested ternary operation into an independent statement.(©¾±±
-\squid:S3358¤"DExtract this nested ternary operation into an independent statement.(’²Îí
-U
-squid:S106«"9Replace this use of System.out or System.err by a logger.(•ä«øÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ßâ…àûÿÿÿÿ
-Usquid:S1197""8Move the array designator from the variable to the type.(¥¾À¬ıÿÿÿÿ
-Ksquid:UselessParenthesesCheckÄ""!Remove these useless parentheses.(ñÌ¢Ù
-jsquid:S3776¯#"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(úãˆ—
-jsquid:S3776¿%"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ø¸çÒ
-=squid:S1659Ê%" Declare "q0" on a separate line.(Áìò”şÿÿÿÿ
-Psquid:UnusedPrivateMethodÆ"*Remove this unused private "audit" method.(µÚß€
-hsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(’‘Ñøÿÿÿÿ
-hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(æÈŸÎıÿÿÿÿ
-csquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(–£‡¬
-hsquid:CommentedOutCodeLineü""<This block of commented-out lines of code should be removed.(Ô¡ÿÍÿÿÿÿÿ
-hsquid:CommentedOutCodeLine–%"<This block of commented-out lines of code should be removed.(”ÙÙüıÿÿÿÿ
-hsquid:CommentedOutCodeLine¼%"<This block of commented-out lines of code should be removed.(”âëüÿÿÿÿ
-hsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ô Äûÿÿÿÿ

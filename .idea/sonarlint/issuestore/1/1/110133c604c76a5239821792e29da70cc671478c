@@ -1,5 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶å¤
-msquid:UselessImportCheck"IRemove this unused import 'javax.imageio.metadata.IIOMetadataFormatImpl'.(¥Ï”ï
-nsquid:UselessImportCheck"ERemove this unused import 'javax.imageio.metadata.IIOMetadataFormat'.(‡ªÉüÿÿÿÿ
-˜squid:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉŞ¯¥

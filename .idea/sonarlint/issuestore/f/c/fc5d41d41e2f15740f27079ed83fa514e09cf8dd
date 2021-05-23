@@ -1,19 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-Ksquid:S1659P"/Declare "S_XSLNAMESPACEURL" on a separate line.(·ÒÅ¨úÿÿÿÿ
-Nsquid:S1659Q"2Declare "S_OLDXSLNAMESPACEURL" on a separate line.(›°„úıÿÿÿÿ
-@squid:S1659c")Declare "S_VENDORURL" on a separate line.(â€ä
-Psquid:S1659„"3Declare "S_EXTENSIONS_JAVA_URL" on a separate line.(úÕ÷ùÿÿÿÿ
-Ysquid:S1659…"<Declare "S_EXTENSIONS_LOTUSXSL_JAVA_URL" on a separate line.(şï¿úÿÿÿÿ
-Osquid:S1659†"7Declare "S_EXTENSIONS_XALANLIB_URL" on a separate line.(ÔÙØ—
-Nsquid:S1659‡"7Declare "S_EXTENSIONS_REDIRECT_URL" on a separate line.(©°ÀP
-Psquid:S1659ˆ"3Declare "S_EXTENSIONS_PIPE_URL" on a separate line.(…§òøÿÿÿÿ
-Jsquid:S1659‰"2Declare "S_EXTENSIONS_SQL_URL" on a separate line.(ö²İ
-Ksquid:S1659“".Declare "S_EXSLT_MATH_URL" on a separate line.(Û¥ÓÈıÿÿÿÿ
-Ksquid:S1659”".Declare "S_EXSLT_SETS_URL" on a separate line.(ŒŒÑÜùÿÿÿÿ
-Osquid:S1659•"2Declare "S_EXSLT_DATETIME_URL" on a separate line.(ßæ¿®úÿÿÿÿ
-Ksquid:S1659–"3Declare "S_EXSLT_FUNCTIONS_URL" on a separate line.(¿Õã¡
-Nsquid:S1659—"1Declare "S_EXSLT_DYNAMIC_URL" on a separate line.(õÆÏ‡üÿÿÿÿ
-Isquid:S1659˜"1Declare "S_EXSLT_STRINGS_URL" on a separate line.(ƒ¸·¾
-Qsquid:S1118-":Add a private constructor to hide the implicit public one.(Ñˆ™½
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

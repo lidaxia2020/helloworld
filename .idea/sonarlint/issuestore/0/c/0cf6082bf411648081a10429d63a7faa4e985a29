@@ -1,28 +1,0 @@
-
-Ksquid:S1191%"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-Ksquid:S1066}"/Merge this if statement with the enclosing one.(á‚ñùÿÿÿÿ
-Lsquid:S1066‡"/Merge this if statement with the enclosing one.(á‚ñùÿÿÿÿ
-Lsquid:S1066’"/Merge this if statement with the enclosing one.(á‚ñùÿÿÿÿ
-Lsquid:S1066›"/Merge this if statement with the enclosing one.(á‚ñùÿÿÿÿ
-bsquid:S2259Ã"EA "NullPointerException" could be thrown; "reverse" is nullable here.(ÒæË®ıÿÿÿÿ
-bsquid:S2259ı"EA "NullPointerException" could be thrown; "mapping" is nullable here.(ßæŒŞüÿÿÿÿ
-bsquid:S2259Ü"EA "NullPointerException" could be thrown; "reverse" is nullable here.(ñƒÀÚıÿÿÿÿ
-bsquid:S2259"JA "NullPointerException" could be thrown; "getNSMapping" is nullable here.(³ˆëİ
-`squid:S2259ì"HA "NullPointerException" could be thrown; "getReverse" is nullable here.(¢˜‹é
-bsquid:S2259Ì"JA "NullPointerException" could be thrown; "getNSReverse" is nullable here.(‰¹Ä¤
-`squid:S2259™"HA "NullPointerException" could be thrown; "getReverse" is nullable here.(Š›îÿ
-lsquid:S1450K"VRemove the "_filter" field and declare it as a local variable in the relevant methods.(ÃÜ¯(
-osquid:S00116<"WRename this field "_enhancedDOM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û˜·
-lsquid:S00116>"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹¯¢şÿÿÿÿ
-ssquid:S00116@"VRename this field "_namesArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıõ“ïşÿÿÿÿ
-msquid:S00116A"URename this field "_urisArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³³•
-ssquid:S00116B"VRename this field "_typesArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùª³ìúÿÿÿÿ
-rsquid:S00116C"ZRename this field "_namespaceArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‰Øµ
-psquid:S00116F"SRename this field "_mapping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íõŞšüÿÿÿÿ
-psquid:S00116G"SRename this field "_reverse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó“¤¯ùÿÿÿÿ
-msquid:S00116H"URename this field "_NSmapping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ï‰í
-msquid:S00116I"URename this field "_NSreverse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚éá
-isquid:S00116K"RRename this field "_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÜ¯(
-usquid:S00116M"XRename this field "_multiDOMMask" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÏì¦üÿÿÿÿ
-Asquid:S1068K"+Remove this unused "_filter" private field.(ÃÜ¯(
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

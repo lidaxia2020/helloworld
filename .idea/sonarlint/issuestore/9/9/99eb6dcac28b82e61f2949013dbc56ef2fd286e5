@@ -1,18 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(ƒ·¸ëúÿÿÿÿ
-hsquid:S1301Ä"KReplace this "switch" statement by "if" statements to increase readability.(÷èøäúÿÿÿÿ
-Rsquid:S1141ª"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-wsquid:S00115a"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ÏÃıÿÿÿÿ
-Psquid:S1161":Add the "@Override" annotation above this method signature(¸É
-isquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸É
-Qsquid:S1161…":Add the "@Override" annotation above this method signature(¸É
-\squid:CallToDeprecatedMethod‘".Remove this use of "Base64"; it is deprecated.(³¾ôƒúÿÿÿÿ
-\squid:CallToDeprecatedMethod”".Remove this use of "Base64"; it is deprecated.(‹’ş§øÿÿÿÿ
-Wsquid:CallToDeprecatedMethod".Remove this use of "Base64"; it is deprecated.(¾¢‚©
-Wsquid:CallToDeprecatedMethod¡".Remove this use of "Base64"; it is deprecated.(„ª¿Å
-\squid:CallToDeprecatedMethod£".Remove this use of "Base64"; it is deprecated.(ûŒšøÿÿÿÿ
-\squid:CallToDeprecatedMethodµ".Remove this use of "Base64"; it is deprecated.(³¾ôƒúÿÿÿÿ
-msquid:CallToDeprecatedMethod¸"?Remove this use of "TransformationException"; it is deprecated.(ÛØ´”úÿÿÿÿ
-hsquid:CallToDeprecatedMethodº"?Remove this use of "TransformationException"; it is deprecated.(ĞÒÓı
-msquid:CallToDeprecatedMethod½"?Remove this use of "TransformationException"; it is deprecated.(õ¨®ºşÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÄ""Add a default case to this switch.(÷èøäúÿÿÿÿ

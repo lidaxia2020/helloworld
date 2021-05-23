@@ -1,23 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¢üß–ùÿÿÿÿ
-Bsquid:UselessImportCheck3"Remove this duplicated import.(ÄÜÊ
-esquid:UselessImportCheck-"ARemove this unused import 'javax.xml.namespace.NamespaceContext'.(úõÁ«
-^squid:UselessImportCheck7":Remove this unused import 'org.w3c.dom.DOMImplementation'.(ëéŞÇ
-zsquid:UselessImportCheck'"QRemove this unused import 'com.sun.org.apache.xml.internal.utils.PrefixResolver'.(ğäğüşÿÿÿÿ
-nsquid:UselessImportCheck#"ERemove this unused import 'javax.xml.transform.TransformerException'.(¨Û¥üÿÿÿÿ
-Ksquid:EmptyStatementUsageChecka"Remove this empty statement.(ôŸìúÿÿÿÿ
-Ksquid:EmptyStatementUsageChecki"Remove this empty statement.(ôŸìúÿÿÿÿ
-Ksquid:EmptyStatementUsageCheckv"Remove this empty statement.(ôŸìúÿÿÿÿ
-~squid:S3252Ï"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
-~squid:S3252×"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
-~squid:S3252Ó"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
-~squid:S3252Û"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
-Ssquid:S2696â"6Make the enclosing method "static" or remove this set.(Çúœ¾øÿÿÿÿ
-Ssquid:S2696æ"6Make the enclosing method "static" or remove this set.(²¡øÔúÿÿÿÿ
-^squid:S1126"AReplace this if-then-else statement by a single return statement.(‘ƒ£…ıÿÿÿÿ
-=squid:S2129 " Remove this "Double" constructor(¤§£õûÿÿÿÿ
-\squid:CallToDeprecatedMethod ".Remove this use of "Double"; it is deprecated.(¤§£õûÿÿÿÿ
-9squid:S2129¤"!Remove this "Boolean" constructor(ù×ë¹
-Xsquid:CallToDeprecatedMethod¤"/Remove this use of "Boolean"; it is deprecated.(ù×ë¹
-~squid:S3252²"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(Ú¾™
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

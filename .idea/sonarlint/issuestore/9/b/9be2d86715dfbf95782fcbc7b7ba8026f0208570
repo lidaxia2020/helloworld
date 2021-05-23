@@ -1,8 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÞÄÿá
-Xsquid:UselessImportCheck#"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶
-Dsquid:S1172I"(Remove this unused method parameter "r".(‚Ó¡¶ÿÿÿÿÿ
-bsquid:S2142\"FEither re-interrupt this method or rethrow the "InterruptedException".(ÐñÓ»ýÿÿÿÿ
-Fsquid:S00108\")Either remove or fill this block of code.(ÐñÓ»ýÿÿÿÿ
-gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(¿ñ˜Ïøÿÿÿÿ
-bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(¡Õ±š

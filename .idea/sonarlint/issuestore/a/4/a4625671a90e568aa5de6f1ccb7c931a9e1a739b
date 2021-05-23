@@ -1,52 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
-Usquid:S4973Q"9Use the "equals" method if value comparison was intended.(ŸŒ¦’øÿÿÿÿ
-Usquid:S4973T"9Use the "equals" method if value comparison was intended.(Ûçò«ùÿÿÿÿ
-¿squid:S18459"¢Rename field "String" to prevent any misunderstanding/clash with field "STRING" defined in interface "com.sun.org.apache.xalan.internal.xsltc.compiler.Constants".(´¤ıÿÿÿÿ
-¶squid:S1845A"Rename field "Node" to prevent any misunderstanding/clash with field "NODE" defined in interface "com.sun.org.apache.xalan.internal.xsltc.compiler.Constants".(ª•‘ç
-?squid:S23905"#Remove this reference to "IntType".(óÕ¸øøÿÿÿÿ
-;squid:S23906"$Remove this reference to "RealType".(Ã®Ğé
->squid:S23907"'Remove this reference to "BooleanType".(®ë“ö
-Csquid:S23908"'Remove this reference to "NodeSetType".(Ä›ÿ¤üÿÿÿÿ
-Bsquid:S23909"&Remove this reference to "StringType".(´¤ıÿÿÿÿ
-Fsquid:S2390:"*Remove this reference to "ResultTreeType".(´ø·´şÿÿÿÿ
-Esquid:S2390;")Remove this reference to "ReferenceType".(©‹íæúÿÿÿÿ
-;squid:S2390<"$Remove this reference to "VoidType".(…°É
-<squid:S2390>"&Remove this reference to "ObjectType".(´¢ p
-Bsquid:S2390?"&Remove this reference to "ObjectType".(ã€Ê’ûÿÿÿÿ
-;squid:S2390A"$Remove this reference to "NodeType".(ª•‘ç
-@squid:S2390B"$Remove this reference to "NodeType".(ÏÀ¯úÿÿÿÿ
-@squid:S2390C"$Remove this reference to "NodeType".(¯éÂÌşÿÿÿÿ
-;squid:S2390D"$Remove this reference to "NodeType".(‘ÕÚ
-@squid:S2390E"$Remove this reference to "NodeType".(Ø‰Ô¬øÿÿÿÿ
-;squid:S2390F"$Remove this reference to "NodeType".(¨’„”
-;squid:S2390G"$Remove this reference to "NodeType".(Ôø÷¬
-Msquid:S1172À"0Remove this unused method parameter "methodGen".(˜©Ì¡üÿÿÿÿ
-Hsquid:S1172è"0Remove this unused method parameter "methodGen".(³ïÑñ
-Msquid:S1172ø"0Remove this unused method parameter "methodGen".(˜©Ì¡üÿÿÿÿ
-Hsquid:S1172‡"0Remove this unused method parameter "methodGen".(Éä®†
-Msquid:S1172•"0Remove this unused method parameter "methodGen".(ÌÙùûÿÿÿÿ
-Msquid:S1172¢"0Remove this unused method parameter "methodGen".(ÌÙùûÿÿÿÿ
-gsquid:S00100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¬Ö
-gsquid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŠ®Ş
-lsquid:S00100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÌÙ©üÿÿÿÿ
-lsquid:S00100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±àëæıÿÿÿÿ
-lsquid:S00100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïáùöüÿÿÿÿ
-fsquid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±
-gsquid:S00100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¤ÍŞ
-Csquid:S1172É"+Remove this unused method parameter "slot".(Ó¤ÍŞ
-lsquid:S00100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚İ±¹ÿÿÿÿÿ
-Hsquid:S1172Í"+Remove this unused method parameter "slot".(‚İ±¹ÿÿÿÿÿ
-gsquid:S00100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÈç
-gsquid:S00100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê×øÄ
-Esquid:S1172Õ"-Remove this unused method parameter "tozero".(ê×øÄ
-gsquid:S00100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âàºÎ
-Esquid:S1172Ù"-Remove this unused method parameter "tozero".(âàºÎ
-fsquid:S00100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÍö
-Dsquid:S1172İ"-Remove this unused method parameter "tozero".(ÑÍö
-gsquid:S00100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿êÊ„
-Esquid:S1172á"-Remove this unused method parameter "tozero".(¿êÊ„
-lsquid:S00100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÀœÑÿÿÿÿÿ
-Hsquid:S1172å"+Remove this unused method parameter "less".(ÆÀœÑÿÿÿÿÿ
-lsquid:S00100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÌ´©ÿÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

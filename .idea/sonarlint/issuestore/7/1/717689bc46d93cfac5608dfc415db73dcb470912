@@ -1,4 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(„”¯şÿÿÿÿ
-csquid:UselessImportCheck":Remove this unused import 'sun.reflect.LangReflectAccess'.(„”¯şÿÿÿÿ
-Vsquid:S11184":Add a private constructor to hide the implicit public one.(¨ı²…øÿÿÿÿ

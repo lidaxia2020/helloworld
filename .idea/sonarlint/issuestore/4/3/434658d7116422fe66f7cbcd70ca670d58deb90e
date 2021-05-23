@@ -1,14 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-Ksquid:S1066o"/Merge this if statement with the enclosing one.(³¨‘üıÿÿÿÿ
-jsquid:MaximumInheritanceDepth8"<This class has 6 parents which is greater than 5 authorized.(‰ï¦úÿÿÿÿ
-Dsquid:S1172{"(Remove this unused method parameter "x".(Î¦Íèúÿÿÿÿ
-Qsquid:S1161":Add the "@Override" annotation above this method signature(ïÆ•ø
-Esquid:S1125ˆ"(Remove the literal "true" boolean value.(ğÆø ûÿÿÿÿ
-osquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(æûÄ‘ùÿÿÿÿ
-Wsquid:S1161“":Add the "@Override" annotation above this method signature(æûÄ‘ùÿÿÿÿ
-Wsquid:S1161æ":Add the "@Override" annotation above this method signature(„¦¡öûÿÿÿÿ
-Wsquid:S1161‰":Add the "@Override" annotation above this method signature(öĞçÓøÿÿÿÿ
-Rsquid:S1161–":Add the "@Override" annotation above this method signature(€İ§ò
-Qsquid:S1161 ":Add the "@Override" annotation above this method signature(îÓ…
-Rsquid:S1161¬":Add the "@Override" annotation above this method signature(ÚıÄÑ

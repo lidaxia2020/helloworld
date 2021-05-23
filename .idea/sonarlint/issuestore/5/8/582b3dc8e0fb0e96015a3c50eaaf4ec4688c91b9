@@ -1,25 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
-]squid:S00112m"FDefine and throw a dedicated exception instead of using a generic one.( Ò%
-Gsquid:S21601"+Override the "equals" method in this class.(¸Šç¬ÿÿÿÿÿ
-jsquid:S001165"RRename this field "m_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ€¤Ä
-psquid:S001168"SRename this field "m_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×€äâıÿÿÿÿ
-rsquid:S00116:"URename this field "m_strCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹ê”ûÿÿÿÿ
-‚squid:S3252N"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(º±Œºúÿÿÿÿ
-}squid:S3252_"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(ÔíÙ
-|squid:S3252m"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".( Ò%
-Vsquid:S1161y":Add the "@Override" annotation above this method signature(ËÉÖüùÿÿÿÿ
-Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(™ëĞ¾
-Wsquid:S1161—":Add the "@Override" annotation above this method signature(¡‰‚”şÿÿÿÿ
-Rsquid:S1161ª":Add the "@Override" annotation above this method signature(ï¸šÎ
-Rsquid:S1161¾":Add the "@Override" annotation above this method signature(Ö×Ì
-Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(Øä«‹
-Wsquid:S1161á":Add the "@Override" annotation above this method signature(­¨÷èÿÿÿÿÿ
-Wsquid:S1161ø":Add the "@Override" annotation above this method signature(‚§Í²ûÿÿÿÿ
-Wsquid:S1161”":Add the "@Override" annotation above this method signature(·ñ¾üùÿÿÿÿ
-Usquid:S1197”"8Move the array designator from the variable to the type.(·ñ¾üùÿÿÿÿ
-]squid:UnusedPrivateMethod["9Remove this unused private "XStringForChars" constructor.(¦Œáv
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(º±Œºúÿÿÿÿ
-bsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(ÔíÙ
-asquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.( Ò%

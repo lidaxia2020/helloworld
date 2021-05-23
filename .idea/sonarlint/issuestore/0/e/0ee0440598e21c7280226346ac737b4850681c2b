@@ -1,8 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬è‹«ûÿÿÿÿ
-{squid:S1192:"_Define a constant instead of duplicating this literal "ImplementationMessages.VAL_BST" 4 times.(Ìçã·ûÿÿÿÿ
-csquid:S00112:"FDefine and throw a dedicated exception instead of using a generic one.(Ìçã·ûÿÿÿÿ
-csquid:S00112]"FDefine and throw a dedicated exception instead of using a generic one.(Ìçã·ûÿÿÿÿ
-csquid:S00112u"FDefine and throw a dedicated exception instead of using a generic one.(Ìçã·ûÿÿÿÿ
-dsquid:S00112Š"FDefine and throw a dedicated exception instead of using a generic one.(Ìçã·ûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

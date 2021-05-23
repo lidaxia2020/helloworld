@@ -1,7 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ıŒÇ
-csquid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(¶¦Æøÿÿÿÿ
-usquid:UselessImportCheck'"LRemove this unused import 'com.sun.org.apache.xml.internal.dtm.DTMIterator'.(Í§Ãâûÿÿÿÿ
-|squid:S1149e"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Vsquid:S1161J":Add the "@Override" annotation above this method signature(Ú£óùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

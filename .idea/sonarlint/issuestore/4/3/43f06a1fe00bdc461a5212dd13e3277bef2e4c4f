@@ -1,8 +1,0 @@
-
-Qsquid:S1191("5Use classes from the Java API instead of Sun classes.(öž åÿÿÿÿÿ
-csquid:S1192ö"KDefine a constant instead of duplicating this literal " not found" 3 times.(“½óÌ
-ksquid:S1192ñ"SDefine a constant instead of duplicating this literal "CertificateFactory" 3 times.(û–‚·
-dsquid:UselessImportCheck$";Remove this unused import 'java.security.PrivilegedAction'.(£Þóšùÿÿÿÿ
-dsquid:UselessImportCheck#";Remove this unused import 'java.security.AccessController'.(Ç›àŠÿÿÿÿÿ
->squid:S1452Õ"&Remove usage of generic wildcard type.(òŠù‹
->squid:S1452²"&Remove usage of generic wildcard type.(ó¢ƒ‹

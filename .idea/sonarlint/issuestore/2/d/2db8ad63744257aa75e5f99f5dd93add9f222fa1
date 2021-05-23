@@ -1,27 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(÷ıá…ÿÿÿÿÿ
-osquid:S1192Œ"WDefine a constant instead of duplicating this literal "No Catalog parser for " 4 times.(üÆœ
-rsquid:S1149w"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ê‹ÉĞüÿÿÿÿ
-dsquid:CallToDeprecatedMethodd"7Remove this use of "DocumentHandler"; it is deprecated.(Ùâœ‡ùÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckì"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(¹Ù×şÿÿÿÿ
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(à¦¼œÿÿÿÿÿ
-bsquid:S2147±"ECombine this catch with the one at line 303, which has the same body.(Â–şºıÿÿÿÿ
-]squid:S2147³"ECombine this catch with the one at line 303, which has the same body.(•¶ĞÜ
-Wsquid:CallToDeprecatedMethod¨".Remove this use of "Parser"; it is deprecated.(Ãêª™
-Wsquid:CallToDeprecatedMethod¨".Remove this use of "Parser"; it is deprecated.(Ãêª™
-\squid:CallToDeprecatedMethod¨"3Remove this use of "newInstance"; it is deprecated.(Ãêª™
-\squid:S1134¹"DTake the required action to fix the issue indicated by this comment.(Ô‰Ê²
-jsquid:S1871À"MThis branch's code block is the same as the block for the branch on line 317.(÷Ù½üÿÿÿÿ
-ksquid:S2133º"NRemove this object instantiation and use "UnknownHostException.class" instead.(œ®ü½ıÿÿÿÿ
-gsquid:S2133»"ORemove this object instantiation and use "FileNotFoundException.class" instead.(Óı–„
-3squid:S3626×"Remove this redundant jump.(ûÁİ…
-jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ŠñèÂ
-^squid:CallToDeprecatedMethodí"5Remove this use of "AttributeList"; it is deprecated.(ò³Ú©
-Nsquid:S2692ö"10 is a valid index, but is ignored by this check.(‚Åãºşÿÿÿÿ
-Nsquid:S2692û"10 is a valid index, but is ignored by this check.(õ“¢ıÿÿÿÿ
-\squid:CallToDeprecatedMethod—"3Remove this use of "newInstance"; it is deprecated.(®ù¨Ò
-osquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¹šíğıÿÿÿÿ
-\squid:CallToDeprecatedMethod×"3Remove this use of "newInstance"; it is deprecated.(®ù¨Ò
-Usquid:S1197ƒ"8Move the array designator from the variable to the type.(š‹ÊØøÿÿÿÿ
-Usquid:S1197‹"8Move the array designator from the variable to the type.(ò©…©úÿÿÿÿ
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

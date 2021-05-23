@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(è¬á¿üÿÿÿÿ
-Vsquid:S00107‹"=Method has 11 parameters, which is greater than 7 authorized.(ü†
-Usquid:S00107ª"<Method has 8 parameters, which is greater than 7 authorized.(Æªš
-Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
-Ysquid:UselessImportCheck"5Remove this unused import 'com.sun.jmx.snmp.SnmpMsg'.(Ç”­ˆ
-]squid:UselessImportCheck "9Remove this unused import 'com.sun.jmx.snmp.SnmpVarBind'.(¦ôÛ°

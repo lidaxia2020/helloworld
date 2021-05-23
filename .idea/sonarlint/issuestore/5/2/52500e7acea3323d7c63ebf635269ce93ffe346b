@@ -1,31 +1,0 @@
-
-¨squid:S1192Œ"Define a constant instead of duplicating this literal "\u01F0\u01F0\u01F0\u01F0\u01F0\u01F0\u01F0\u01F0\u01F0\u01F0\u01F0\u01F0\u01F0" 4 times.(ü¨ÔÈ
-¨squid:S1192„"Define a constant instead of duplicating this literal "\u02DC\u02DC\u02DC\u02DC\u02DC\u02DC\u02DC\u02DC\u02DC\u02DC\u02DC\u02DC\u02DC" 3 times.(¦çÀ¤
-¨squid:S1192™"Define a constant instead of duplicating this literal "\u1440\u1440\u1440\u1440\u1440\u1440\u1440\u1440\u1440\u1440\u1440\u1440\u1440" 4 times.(„×Ë
-®squid:S1192 "Define a constant instead of duplicating this literal "\u06F0\u06F0\u06F0\u06F0\u06F0\u06F0\u06F0\u06F0\u06F0\u06F0\u06F0\u06F0\u06F0" 29 times.(œû–ÿÿÿÿÿ
-­squid:S1192İ"Define a constant instead of duplicating this literal "\u0170\u0170\u0170\u0170\u0170\u0170\u0170\u0170\u0170\u0170\u0170\u0170\u0170" 5 times.(¯Çß÷øÿÿÿÿ
-®squid:S1192"Define a constant instead of duplicating this literal "\u1450\u1450\u1450\u1450\u1450\u1450\u1450\u1450\u1450\u1450\u1450\u1450\u1450" 14 times.(Ã¯Îìÿÿÿÿÿ
-§squid:S1192¶
-"Define a constant instead of duplicating this literal "\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000" 24 times.(Â‚¹ú
-©squid:S1192´"Define a constant instead of duplicating this literal "\u11B0\u11B0\u11B0\u11B0\u11B0\u11B0\u11B0\u11B0\u11B0\u11B0\u11B0\u11B0\u11B0" 64 times.(øöö€
-Esquid:S1199Ô"-Extract this nested code block into a method.(æ£ÑÒ
-tsquid:S1488T"]Immediately return this expression instead of assigning it to the temporary variable "props".(…èò¶
-ysquid:S1488Z"]Immediately return this expression instead of assigning it to the temporary variable "props".(ğĞª¦şÿÿÿÿ
-_squid:S1479–"BReduce the number of non-empty switch cases from 86 to at most 30.(Œ¹ÿÿÿÿÿ
-_squid:S1479„"BReduce the number of non-empty switch cases from 84 to at most 30.(Œ¹ÿÿÿÿÿ
-_squid:S1479¦"BReduce the number of non-empty switch cases from 52 to at most 30.(Œ¹ÿÿÿÿÿ
-_squid:S1479"BReduce the number of non-empty switch cases from 58 to at most 30.(Œ¹ÿÿÿÿÿ
-Asquid:S1659ú"$Declare "bottom" on a separate line.(òô‚ôüÿÿÿÿ
-Bsquid:S1659ú"%Declare "current" on a separate line.(òô‚ôüÿÿÿÿ
-Gsquid:EmptyStatementUsageCheckŒ"Remove this empty statement.(£‡‹ã
-Osquid:S1197“"8Move the array designator from the variable to the type.(×ªÊ
-Usquid:S1197´"8Move the array designator from the variable to the type.(ø¡ºíúÿÿÿÿ
-Psquid:S1197­	"8Move the array designator from the variable to the type.(ŠÓñ
-Usquid:S1197µ
-"8Move the array designator from the variable to the type.(¢¡ñèıÿÿÿÿ
-<squid:S1659×"Declare "j" on a separate line.(á”æåşÿÿÿÿ
-bsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(Ôµ¶
-csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(—™§ª
-csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(—™§ª
-hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
-csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(Ç˜ÁÔ

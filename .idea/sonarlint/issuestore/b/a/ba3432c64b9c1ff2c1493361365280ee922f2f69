@@ -1,16 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ýŒÇ
-_squid:S00112®"FDefine and throw a dedicated exception instead of using a generic one.(ýìú’
-jsquid:MaximumInheritanceDepth4"<This class has 6 parents which is greater than 5 authorized.(Êø‹ûÿÿÿÿ
-žsquid:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ¿§•ÿÿÿÿÿ
-nsquid:S00116<"QRename this field "m_args" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ìàÃúÿÿÿÿ
-}squid:S1149„"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Vsquid:S1161Z":Add the "@Override" annotation above this method signature(ÆúäÁùÿÿÿÿ
-Wsquid:S1161œ":Add the "@Override" annotation above this method signature(õ¿§•ÿÿÿÿÿ
-Rsquid:S1161©":Add the "@Override" annotation above this method signature(ÿ…áž
-}squid:S3252ª"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(¤šl
-Wsquid:S1161»":Add the "@Override" annotation above this method signature(ö™±¨ûÿÿÿÿ
-ssquid:S00116Ð"URename this field "m_argIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ýâ×üÿÿÿÿ
-Wsquid:S1161ô":Add the "@Override" annotation above this method signature(Éâè—ýÿÿÿÿ
-Wsquid:S1161†":Add the "@Override" annotation above this method signature(ôÝè¬ýÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

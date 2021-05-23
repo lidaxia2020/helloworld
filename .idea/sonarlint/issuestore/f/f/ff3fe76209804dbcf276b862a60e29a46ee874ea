@@ -1,14 +1,0 @@
-
-„ squid:ForLoopCounterChangedCheckj"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ï¯†Á
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(ÊĞ·Îûÿÿÿÿ
-^$squid:AssignmentInSubExpressionCheckH".Extract the assignment out of this expression.(ëÜÌö
-^squid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(Ôá¾Ù
-vsquid:S001161"^Rename this field "_firstAvailableSlot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÂãÖ
-gsquid:S001162"PRename this field "_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÍ‰!
-msquid:S001163"PRename this field "_free" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŞÚòùÿÿÿÿ
-nsquid:S001164"VRename this field "_slotsTaken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÒŒÄ
-8squid:S16598""Declare "size" on a separate line.(“Øú
-9squid:S16598"#Declare "index" on a separate line.(“Øú
-:squid:S1659E"#Declare "where" on a separate line.(ºùÍî
-psquid:S3012J"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾Îãª
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

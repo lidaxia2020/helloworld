@@ -1,15 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Å°ò£øÿÿÿÿ
-Isquid:S1199)"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-gsquid:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(Æ¯”ƒúÿÿÿÿ
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó´Ï·
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ã½¨
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÒ¼
-isquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¿í‰
-nsquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Çˆ†ûÿÿÿÿ
-osquid:S3008"SRename this field "_methods" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÉñ¯øÿÿÿÿ
-gsquid:S3008?"PRename this field "__ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŸˆ™
-rsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(µÉñ¯øÿÿÿÿ
-8squid:S2129"!Remove this "Integer" constructor(›ªß
-Wsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(›ªß
-Gsquid:S1905D"+Remove this unnecessary cast to "String[]".(È«çéúÿÿÿÿ

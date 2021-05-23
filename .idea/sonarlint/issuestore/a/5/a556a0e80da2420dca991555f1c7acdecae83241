@@ -1,45 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÃêØ»ùÿÿÿÿ
-msquid:S1192§"UDefine a constant instead of duplicating this literal "\t\t[NTLoginModule] " 3 times.(–Õ¢Á
-\squid:S2583¥"DChange this condition so that it does not always evaluate to "false"(Ò‡¨Ô
-Osquid:S2589å"7Remove this expression which always evaluates to "true"(±ªœ¦
-Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
-usquid:S1450M"^Remove the "callbackHandler" field and declare it as a local variable in the relevant methods.(”¢ö¸
-qsquid:S1450N"ZRemove the "sharedState" field and declare it as a local variable in the relevant methods.(”ÃıÂ
-msquid:S1450O"VRemove the "options" field and declare it as a local variable in the relevant methods.(ØÌŸ¼
-Osquid:S1197^"8Move the array designator from the variable to the type.(µ¶ƒÕ
-@squid:S1125ˆ"(Remove the literal "true" boolean value.(Ãéê¡
-osquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ß™“øÿÿÿÿ
-P
-squid:S106§"9Replace this use of System.out or System.err by a logger.(–Õ¢Á
-P
-squid:S106¶"9Replace this use of System.out or System.err by a logger.(–Õ¢Á
-P
-squid:S106¸"9Replace this use of System.out or System.err by a logger.(Ñ¤ìü
-P
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(ÃÈ—
-U
-squid:S106Æ"9Replace this use of System.out or System.err by a logger.( ï±‰şÿÿÿÿ
-O
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(ı™‹
-O
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(¡áİc
-Usquid:S1197İ"8Move the array designator from the variable to the type.(ç•àÒıÿÿÿÿ
-U
-squid:S106â"9Replace this use of System.out or System.err by a logger.(Ú½˜ùÿÿÿÿ
-U
-squid:S106ê"9Replace this use of System.out or System.err by a logger.(¸‰Â×úÿÿÿÿ
-jsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(›¶§ş
-Fsquid:S1125”")Remove the literal "false" boolean value.(ç§åÏûÿÿÿÿ
-P
-squid:S106–"9Replace this use of System.out or System.err by a logger.(È¿¾—
-P
-squid:S106ß"9Replace this use of System.out or System.err by a logger.(È¿¾—
-Fsquid:S1125ã")Remove the literal "false" boolean value.(ç§åÏûÿÿÿÿ
-@squid:S1125å"(Remove the literal "true" boolean value.(±ªœ¦
-Asquid:S1125å")Remove the literal "false" boolean value.(±ªœ¦
-P
-squid:S106¹"9Replace this use of System.out or System.err by a logger.(–Õ¢Á
-Jsquid:S1068M"3Remove this unused "callbackHandler" private field.(”¢ö¸
-Fsquid:S1068N"/Remove this unused "sharedState" private field.(”ÃıÂ
-Bsquid:S1068O"+Remove this unused "options" private field.(ØÌŸ¼

@@ -1,76 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(¿ÎÑœ
-Qsquid:S1141v"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141…"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-@squid:S1148·"#Use a logger to log this exception.(œ„úíøÿÿÿÿ
-@squid:S1148¼"#Use a logger to log this exception.(œ„úíøÿÿÿÿ
-@squid:S1148Á"#Use a logger to log this exception.(œ„úíøÿÿÿÿ
-@squid:S1148Ç"#Use a logger to log this exception.(œ„úíøÿÿÿÿ
-@squid:S1148Í"#Use a logger to log this exception.(œ„úíøÿÿÿÿ
-@squid:S1148Ó"#Use a logger to log this exception.(œ„úíøÿÿÿÿ
-@squid:S1148Û"#Use a logger to log this exception.(òôí›ùÿÿÿÿ
-@squid:S1148Ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-@squid:S1148å"#Use a logger to log this exception.(œ„úíøÿÿÿÿ
-@squid:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-@squid:S1659P"$Declare "_debug" on a separate line.(¥ŸÕ†øÿÿÿÿ
-qsquid:S1450M"ZRemove the "_jarFileSrc" field and declare it as a local variable in the relevant methods.(¿èı
-ysquid:S1450N"bRemove the "_isJarFileSpecified" field and declare it as a local variable in the relevant methods.(“Åá¾
-psquid:S00116I"SRename this field "_handler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹³­²ıÿÿÿÿ
-qsquid:S00116K"TRename this field "_fileName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¢Ñ ıÿÿÿÿ
-msquid:S00116L"URename this field "_className" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Éô±
-nsquid:S00116M"VRename this field "_jarFileSrc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿èı
-vsquid:S00116N"^Rename this field "_isJarFileSpecified" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Åá¾
-osquid:S00116O"RRename this field "_params" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™–Âêşÿÿÿÿ
-lsquid:S00116P"ORename this field "_uri" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ŸÕ†øÿÿÿÿ
-nsquid:S00116P"QRename this field "_debug" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ŸÕ†øÿÿÿÿ
-nsquid:S00116Q"VRename this field "_iterations" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úôû
-squid:S1149O"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(™–Âêşÿÿÿÿ
-squid:S1149_"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ò¾áıÿÿÿÿ
-‚squid:S1149š"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ì¶ææúÿÿÿÿ
-osquid:ModifiersOrderCheckG"EReorder the modifiers to comply with the Java Language Specification.(œ˜óªøÿÿÿÿ
-Nsquid:S1135d"2Complete the task associated to this TODO comment.(Åï×–ÿÿÿÿÿ
-Hsquid:S1135j"2Complete the task associated to this TODO comment.(¢¡¬@
-isquid:S3776n"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(âéÖ
-]squid:S2147»"ECombine this catch with the one at line 182, which has the same body.(§Ôë½
-bsquid:S2147Ò"ECombine this catch with the one at line 198, which has the same body.(¿Â„ÿÿÿÿÿ
-bsquid:S2147ä"ECombine this catch with the one at line 182, which has the same body.(ñ“Š±üÿÿÿÿ
-[squid:CallToDeprecatedMethodq"3Remove this use of "newInstance"; it is deprecated.(Ê“¼
-Dsquid:S2755u"-Disable XML external entity (XXE) processing.(óÜİ´
-fsquid:S4201„"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÕÏ¢‚øÿÿÿÿ
-U
-squid:S106«"9Replace this use of System.out or System.err by a logger.(¿ùö‹ûÿÿÿÿ
-U
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(­â«şÿÿÿÿ
-P
-squid:S106¯"9Replace this use of System.out or System.err by a logger.(€ø«ë
-P
-squid:S106³"9Replace this use of System.out or System.err by a logger.(ˆ·šå
-P
-squid:S106¸"9Replace this use of System.out or System.err by a logger.(á¢„Ô
-P
-squid:S106½"9Replace this use of System.out or System.err by a logger.(á¢„Ô
-P
-squid:S106Ã"9Replace this use of System.out or System.err by a logger.(á¢„Ô
-P
-squid:S106É"9Replace this use of System.out or System.err by a logger.(á¢„Ô
-P
-squid:S106Ï"9Replace this use of System.out or System.err by a logger.(á¢„Ô
-P
-squid:S106Õ"9Replace this use of System.out or System.err by a logger.(á¢„Ô
-U
-squid:S106Ş"9Replace this use of System.out or System.err by a logger.(†±Õúÿÿÿÿ
-P
-squid:S106à"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
-U
-squid:S106â"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
-P
-squid:S106æ"9Replace this use of System.out or System.err by a logger.(á¢„Ô
-U
-squid:S106ì"9Replace this use of System.out or System.err by a logger.(ÎöÀ¿ıÿÿÿÿ
-jsquid:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Çµí‘
-;squid:S1659ô"#Declare "debug" on a separate line.(Â‡Äê
-Hsquid:S1068I",Remove this unused "_handler" private field.(‹³­²ıÿÿÿÿ
-Fsquid:S1068M"/Remove this unused "_jarFileSrc" private field.(¿èı
-Nsquid:S1068N"7Remove this unused "_isJarFileSpecified" private field.(“Åá¾
-Dsquid:S1068P"(Remove this unused "_uri" private field.(¥ŸÕ†øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

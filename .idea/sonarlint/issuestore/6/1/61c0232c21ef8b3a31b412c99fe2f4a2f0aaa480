@@ -1,8 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(áóš
-=squid:S11700"!Make this final field static too.(š°Ëæıÿÿÿÿ
-8squid:S11701"!Make this final field static too.(ª’ó¶
-xsquid:S001160"[Rename this field "INITIAL_CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š°Ëæıÿÿÿÿ
-usquid:S001161"]Rename this field "CAPACITY_INCREMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª’ó¶
-tsquid:S001163"WRename this field "_namedValues" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÎÉ¤ùÿÿÿÿ
-squid:S11493"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¢ÎÉ¤ùÿÿÿÿ

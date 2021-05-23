@@ -1,39 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(÷ıá…ÿÿÿÿÿ
-asquid:S1192¬"IDefine a constant instead of duplicating this literal "xml:base" 6 times.(¶Ø¦É
-dsquid:S1192Ê"GDefine a constant instead of duplicating this literal "public" 3 times.(‰Éèùÿÿÿÿ
-fsquid:S1192»"IDefine a constant instead of duplicating this literal "publicId" 4 times.(šÃ„Çıÿÿÿÿ
-`squid:S1192Æ"IDefine a constant instead of duplicating this literal "catalog" 15 times.(êİª8
-dsquid:S1192Ì"GDefine a constant instead of duplicating this literal "system" 3 times.(»äƒèşÿÿÿÿ
-qsquid:S1192î"TDefine a constant instead of duplicating this literal "publicIdStartString" 3 times.(ƒ¼Ö±üÿÿÿÿ
-lsquid:S1192–"ODefine a constant instead of duplicating this literal "systemIdSuffix" 3 times.(¬Öü»ÿÿÿÿÿ
-lsquid:S1192ø"TDefine a constant instead of duplicating this literal "systemIdStartString" 6 times.(ÍÜë§
-xsquid:S1192¹"[Define a constant instead of duplicating this literal "Invalid catalog entry type" 9 times.(ªœĞÄüÿÿÿÿ
-bsquid:S1192©"JDefine a constant instead of duplicating this literal "uriSuffix" 5 times.(ñ´—Â
-fsquid:S1192Å"IDefine a constant instead of duplicating this literal "systemId" 3 times.(¶ÁÆ—üÿÿÿÿ
-lsquid:S1192‚"ODefine a constant instead of duplicating this literal "uriStartString" 6 times.(²ÅùÁüÿÿÿÿ
-fsquid:S1192Œ"NDefine a constant instead of duplicating this literal "rewritePrefix" 6 times.(ãë÷ì
-]squid:S1192Æ"FDefine a constant instead of duplicating this literal "group" 3 times.(êİª8
-Lsquid:S1066ó"/Merge this if statement with the enclosing one.(øñ”şÿÿÿÿ
-rsquid:S00115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯‹±ª
-rsquid:S00115J"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—œı¦
-gsquid:S1149L"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(è’œü
-gsquid:S1149M"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÄÜ …
-lsquid:S1149N"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(îÕ«ƒÿÿÿÿÿ
-‚squid:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸÊ¨¾ÿÿÿÿÿ
-‚squid:S1149Ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸÊ¨¾ÿÿÿÿÿ
-2squid:S3626{"Remove this redundant jump.(ûÁİ…
-3squid:S3626ƒ"Remove this redundant jump.(ûÁİ…
-3squid:S3626‰"Remove this redundant jump.(ûÁİ…
-psquid:S3776›"SRefactor this method to reduce its Cognitive Complexity from 121 to the 15 allowed.(¹šíğıÿÿÿÿ
-3squid:S3626"Remove this redundant jump.(ûÁİ…
-jsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(îòÚ†
-3squid:S3626”"Remove this redundant jump.(ûÁİ…
-Usquid:S1197’"8Move the array designator from the variable to the type.(š‹ÊØøÿÿÿÿ
-3squid:S3626š"Remove this redundant jump.(ûÁİ…
-Usquid:S1197˜"8Move the array designator from the variable to the type.(ò©…©úÿÿÿÿ
-3squid:S3626 "Remove this redundant jump.(ûÁİ…
-3squid:S3626¦"Remove this redundant jump.(ûÁİ…
-3squid:S3626¬"Remove this redundant jump.(ûÁİ…
-3squid:S3626²"Remove this redundant jump.(ûÁİ…
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

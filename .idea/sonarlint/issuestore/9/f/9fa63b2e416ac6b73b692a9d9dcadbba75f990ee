@@ -1,10 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-csquid:S1192º"FDefine a constant instead of duplicating this literal "CDATA" 3 times.(Í„Ûôşÿÿÿÿ
-jsquid:S001167"RRename this field "m_attrs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÛ–Ã
-ssquid:S00116:"VRename this field "m_lastIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯´ìºúÿÿÿÿ
-gsquid:S00116@"ORename this field "m_dh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛ½ü
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(áâìé
-bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Ú°à¬
-bsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(Ìíêô

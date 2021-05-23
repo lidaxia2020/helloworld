@@ -1,26 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÆßÓÛıÿÿÿÿ
-ƒsquid:S1192ı"lDefine a constant instead of duplicating this literal "(annotation?, (restriction | list | union))" 3 times.(Ù† Q
-msquid:S1192‘"UDefine a constant instead of duplicating this literal "s4s-elt-must-match.1" 5 times.(ÁÙ»Ÿ
-Lsquid:S1066œ"/Merge this if statement with the enclosing one.(÷Æä·ùÿÿÿÿ
-Vsquid:S4973‰"9Use the "equals" method if value comparison was intended.(ÁÅ©úûÿÿÿÿ
-‚squid:UselessImportCheck'"^Remove this unused import 'com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDVFactoryImpl'.(üÓıš
-€squid:UselessImportCheck%"WRemove this unused import 'com.sun.org.apache.xerces.internal.impl.dv.SchemaDVFactory'.(­âŠšÿÿÿÿÿ
-Vsquid:S1155Î">Use isEmpty() to check whether the collection is empty or not.(®ÖÊŠ
-Vsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(òú¨
-[squid:S1155š">Use isEmpty() to check whether the collection is empty or not.(¢¦ñ«üÿÿÿÿ
-wsquid:S1149Ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×Æ¹†
-}squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(âøŸË
-isquid:S3776y"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ô¬¶
-ksquid:S3776è"SRefactor this method to reduce its Cognitive Complexity from 131 to the 15 allowed.(÷ÜŠ
-Xsquid:S1854‚";Remove this useless assignment to local variable "refType".(ÙšíÖûÿÿÿÿ
-:squid:S1659ƒ""Declare "list" on a separate line.(ø¨Ë¥
-;squid:S1659ƒ"#Declare "union" on a separate line.(ø¨Ë¥
-‚squid:S3252Ø"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_UNION".(ã¬°™
-‚squid:S3252ú"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_UNION".(ã¬°™
-†squid:S3252’"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_LIST".(÷Ç Ãüÿÿÿÿ
-‚squid:S3252•"jUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_UNION".(âŸàî
-†squid:S3252˜"iUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "VARIETY_LIST".(šßğ×úÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheck£""Add a default case to this switch.(¯ë•½
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.( Ø¯@

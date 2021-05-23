@@ -1,9 +1,0 @@
-
-jsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª´‹
-osquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¿ÃÀøÿÿÿÿ
-osquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¿ÃÀøÿÿÿÿ
-jsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª´‹
-jsquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª´‹
-Bsquid:S1165à"%Make this "updateCounts" field final.(¨™ûÿÿÿÿ
-Fsquid:S1165‹")Make this "longUpdateCounts" field final.(’ö…şÿÿÿÿ
-qsquid:S3012˜"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(êÔ×Â

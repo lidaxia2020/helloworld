@@ -1,54 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-osquid:S00116—"VRename this field "m_chunkBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šåçÂ
-wsquid:S00116¡"YRename this field "m_maxChunkBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿšõÿÿÿÿÿ
-wsquid:S00116¯"YRename this field "m_rebundleBits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¨‚ƒÿÿÿÿÿ
-tsquid:S00116¹"VRename this field "m_chunkSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ÷´ þÿÿÿÿ
-tsquid:S00116Ã"VRename this field "m_chunkMask" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ñû«ýÿÿÿÿ
-psquid:S00116Ñ"RRename this field "m_array" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÆˆ¿þÿÿÿÿ
-tsquid:S00116â"VRename this field "m_lastChunk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÛ†­ûÿÿÿÿ
-tsquid:S00116ï"VRename this field "m_firstFree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š·¥ùûÿÿÿÿ
-nsquid:S00116ü"URename this field "m_innerFSB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü×±ß
-wsquid:S1149Ä"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ß²à¢
-wsquid:S1149›"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(»õ¤Ã
-wsquid:S1149›"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(»õ¤Ã
-|squid:S1149Á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ã§œþÿÿÿÿ
-|squid:S1149Á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ã§œþÿÿÿÿ
-Usquid:S1854¯"=Remove this useless assignment to local variable "lastchunk".(’øº¡
-jsquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê™³
-Vsquid:S1854÷"9Remove this useless assignment to local variable "chunk".(‹ôŠ§ùÿÿÿÿ
-Qsquid:S1854©"9Remove this useless assignment to local variable "chunk".(Þ—‰”
-jsquid:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ß²à¢
-Vsquid:S1854Ï"9Remove this useless assignment to local variable "chunk".(‹ôŠ§ùÿÿÿÿ
-Qsquid:S1854"9Remove this useless assignment to local variable "chunk".(Þ—‰”
-jsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(åà¿¥
-Vsquid:S1854¨"9Remove this useless assignment to local variable "chunk".(‹ôŠ§ùÿÿÿÿ
-Qsquid:S1854Ú"9Remove this useless assignment to local variable "chunk".(Þ—‰”
-jsquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Å§ï
-Vsquid:S1854…"9Remove this useless assignment to local variable "chunk".(‹ôŠ§ùÿÿÿÿ
-Qsquid:S1854Ä"9Remove this useless assignment to local variable "chunk".(Þ—‰”
-osquid:S3776¬
-"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼¢”‘þÿÿÿÿ
-ksquid:S1854µ
-"NRemove this useless assignment to local variable "suppressTrailingWhitespace".(šÒ÷×ùÿÿÿÿ
-Usquid:S1197¬
-"8Move the array designator from the variable to the type.(¼¢”‘þÿÿÿÿ
-Gsquid:S00108¾
-")Either remove or fill this block of code.(§­óŒúÿÿÿÿ
-Gsquid:S00108Î
-")Either remove or fill this block of code.(§­óŒúÿÿÿÿ
-Gsquid:S00108à
-")Either remove or fill this block of code.(§­óŒúÿÿÿÿ
-Psquid:S1197ù
-"8Move the array designator from the variable to the type.(°óì¹
->squid:S1172·"&Remove these unused method parameters.(Œñþí
-Psquid:S1197·"8Move the array designator from the variable to the type.(Œñþí
-Fsquid:S1481¯".Remove this unused "lastchunk" local variable.(’øº¡
-\squid:S1481µ
-"?Remove this unused "suppressTrailingWhitespace" local variable.(šÒ÷×ùÿÿÿÿ
-Ssquid:UnusedPrivateMethod·"-Remove this unused private "getChars" method.(Œñþí
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(æ÷´ þÿÿÿÿ
-hsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(¼ñû«ýÿÿÿÿ
-csquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(´Ï†ö
-csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(×‰“è

@@ -1,8 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(‘Å¬Œøÿÿÿÿ
-Ssquid:S1854n"7Remove this useless assignment to local variable "dtm".(ÿ‘Ñêüÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(Ï€”ƒùÿÿÿÿ
-Rsquid:S1161 ":Add the "@Override" annotation above this method signature(ÁòÙÃ
-Dsquid:S1481n"(Remove this unused "dtm" local variable.(ÿ‘Ñêüÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ªÇ¯

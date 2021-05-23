@@ -1,5 +1,0 @@
-
-asquid:UselessImportCheck "=Remove this unused import 'java.security.cert.X509Extension'.(Û¸•Ñ
-4squid:S1700?"Rename field "timestamp"(œ¥½¾üÿÿÿÿ
-wsquid:S1149·"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
-asquid:S4201¡"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ñ»åÓ

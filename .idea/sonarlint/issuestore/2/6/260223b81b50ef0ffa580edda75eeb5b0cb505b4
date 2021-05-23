@@ -1,20 +1,0 @@
-
-jsquid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ˆÎœ
-jsquid:S00117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şü
-xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Ö¦¨°
-xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(¿€Ÿ™
-}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ÔüÆøÿÿÿÿ
-}squid:UselessImportCheck "TRemove this unnecessary import: same package classes are always implicitly imported.(Ä®íÿÿÿÿÿ
-[squid:S1155¼">Use isEmpty() to check whether the collection is empty or not.(€°èÃúÿÿÿÿ
-usquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òİ—äøÿÿÿÿ
-psquid:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶àîÿ
-usquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(±•‰öüÿÿÿÿ
-vsquid:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ö˜­ûÿÿÿÿ
-qsquid:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ææ¢±
-Msquid:S1854¨"5Remove this useless assignment to local variable "H".(­ˆÎœ
-osquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Òôöûÿÿÿÿ
-qsquid:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Ù°Ë
-jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÊÅ€Ï
-Qsquid:S2864å"4Iterate over the "entrySet" instead of the "keySet".(» Ù“üÿÿÿÿ
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰›ŒÌ
->squid:S1481¨"&Remove this unused "H" local variable.(­ˆÎœ

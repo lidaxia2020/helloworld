@@ -1,14 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(©ıŒÇ
-ssquid:S1488["\Immediately return this expression instead of assigning it to the temporary variable "prox".(²Ğêå
-tsquid:S001168"WRename this field "m_isTopLevel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÊıÕúÿÿÿÿ
-}squid:S1149¡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Qsquid:S1161A":Add the "@Override" annotation above this method signature(î·û
-nsquid:S3776R"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(â¶ÏÍùÿÿÿÿ
-Wsquid:S1161•":Add the "@Override" annotation above this method signature(Ú£óùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-bsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(‰…˜è
-bsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(´î¦ 
-bsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(—‚Àü
-bsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(¤‚4
-hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¨˜ƒäşÿÿÿÿ

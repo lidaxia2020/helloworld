@@ -1,88 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ˆ¨
-Lsquid:S1066à"/Merge this if statement with the enclosing one.(†Ôøÿÿÿÿ
-Gsquid:S1066Î"/Merge this if statement with the enclosing one.(ÚÇËÒ
-Lsquid:S1066Ë"/Merge this if statement with the enclosing one.(‡²Êşüÿÿÿÿ
-Gsquid:S1066Ì"/Merge this if statement with the enclosing one.(´¦çÓ
-zsquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "state".(·‚†ùÿÿÿÿ
-Rsquid:S1141´"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Vsquid:S4973—"9Use the "equals" method if value comparison was intended.(×¢–ùÿÿÿÿ
-Qsquid:S4973˜"9Use the "equals" method if value comparison was intended.(ËõÌä
-Vsquid:S4973¡"9Use the "equals" method if value comparison was intended.(×¢–ùÿÿÿÿ
-Qsquid:S4973¢"9Use the "equals" method if value comparison was intended.(ËõÌä
-wsquid:S1149§"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ
-Vsquid:CallToDeprecatedMethodc".Remove this use of "Parser"; it is deprecated.(Øåúù
-`squid:CallToDeprecatedMethodÅ"7Remove this use of "DocumentHandler"; it is deprecated.(–Áæ«
-µ%squid:RedundantThrowsDeclarationCheckª"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161¨":Add the "@Override" annotation above this method signature(Ï‘ Äøÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck×"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(™ÁÑüÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckğ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161î":Add the "@Override" annotation above this method signature(Š±Ïúÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheck§"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161¥":Add the "@Override" annotation above this method signature(ïëŒÏúÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÚ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Œ£¯Å
-Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(Œ£¯Å
-µ%squid:RedundantThrowsDeclarationCheckû"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-osquid:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(óÅ‰¾ıÿÿÿÿ
-Wsquid:S1161ú":Add the "@Override" annotation above this method signature(óÅ‰¾ıÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckÉ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Â¸¶¼
-Rsquid:S1161É":Add the "@Override" annotation above this method signature(Â¸¶¼
-°%squid:RedundantThrowsDeclarationCheckö"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¦š¬ö
-Rsquid:S1161ö":Add the "@Override" annotation above this method signature(¦š¬ö
-µ%squid:RedundantThrowsDeclarationCheck•"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(×¯”şÿÿÿÿ
-Wsquid:S1161•":Add the "@Override" annotation above this method signature(×¯”şÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckº"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÚ ı
-Rsquid:S1161º":Add the "@Override" annotation above this method signature(äÚ ı
-µ%squid:RedundantThrowsDeclarationCheckÒ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Åş†ÿÿÿÿÿ
-Wsquid:S1161Ò":Add the "@Override" annotation above this method signature(Åş†ÿÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheckì"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ƒ­¨„
-Rsquid:S1161ì":Add the "@Override" annotation above this method signature(ƒ­¨„
-µ%squid:RedundantThrowsDeclarationCheck’"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161‘":Add the "@Override" annotation above this method signature(†µğ§ıÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck·"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(ª¢ïÃ
-Rsquid:S1161·":Add the "@Override" annotation above this method signature(ª¢ïÃ
-µ%squid:RedundantThrowsDeclarationCheckÛ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(¡–ÆÎ
-°%squid:RedundantThrowsDeclarationCheckë"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(äÍ¨´
-Rsquid:S1161ë":Add the "@Override" annotation above this method signature(äÍ¨´
-µ%squid:RedundantThrowsDeclarationCheck”"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Rsquid:S1161‘":Add the "@Override" annotation above this method signature(²œä
-°%squid:RedundantThrowsDeclarationCheckÈ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(°ı¿Í
-Rsquid:S1161È":Add the "@Override" annotation above this method signature(°ı¿Í
-µ%squid:RedundantThrowsDeclarationChecké"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(±§¥‚ÿÿÿÿÿ
-Wsquid:S1161è":Add the "@Override" annotation above this method signature(µ–Åùøÿÿÿÿ
-°%squid:RedundantThrowsDeclarationCheck˜"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(¼ûĞñ
-osquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(œ»Âúÿÿÿÿ
-Wsquid:S1161•":Add the "@Override" annotation above this method signature(œ»Âúÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckÚ"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(æã˜°ùÿÿÿÿ
-µ%squid:RedundantThrowsDeclarationCheckú"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Rsquid:S1161ù":Add the "@Override" annotation above this method signature(ˆé–“
-µ%squid:RedundantThrowsDeclarationCheck	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Qsquid:S1161›	":Add the "@Override" annotation above this method signature(Œ»Ä5
-µ%squid:RedundantThrowsDeclarationCheck½	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(½Îõîøÿÿÿÿ
-Rsquid:S1161¼	":Add the "@Override" annotation above this method signature(ò•¸
-°%squid:RedundantThrowsDeclarationCheckÙ	"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(’«‹Í
-Rsquid:S1161Ù	":Add the "@Override" annotation above this method signature(’«‹Í
-asquid:S4201–"IRemove this unnecessary null check; "instanceof" returns false for nulls.(—Ğ„©
-`squid:CallToDeprecatedMethodì"7Remove this use of "DocumentHandler"; it is deprecated.(ÅÜ«ß
-osquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(°‘òŞşÿÿÿÿ
-osquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(€áóéÿÿÿÿÿ
-jsquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(šıšº
-jsquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(µÅŠ‘
-¯%squid:RedundantThrowsDeclarationCheck¨"~Remove the declaration of thrown exception 'org.xml.sax.SAXNotRecognizedException', as it cannot be thrown from method's body.(¡ô¸^
-¯%squid:RedundantThrowsDeclarationCheck¾"~Remove the declaration of thrown exception 'org.xml.sax.SAXNotRecognizedException', as it cannot be thrown from method's body.(¡ô¸^
-®%squid:RedundantThrowsDeclarationCheck¾"}Remove the declaration of thrown exception 'org.xml.sax.SAXNotSupportedException', as it cannot be thrown from method's body.(¡ô¸^
-¯%squid:RedundantThrowsDeclarationCheckÙ"~Remove the declaration of thrown exception 'org.xml.sax.SAXNotRecognizedException', as it cannot be thrown from method's body.(¡ô¸^
-¯%squid:RedundantThrowsDeclarationCheckï"~Remove the declaration of thrown exception 'org.xml.sax.SAXNotRecognizedException', as it cannot be thrown from method's body.(¡ô¸^
-®%squid:RedundantThrowsDeclarationCheckï"}Remove the declaration of thrown exception 'org.xml.sax.SAXNotSupportedException', as it cannot be thrown from method's body.(¡ô¸^
-µ%squid:RedundantThrowsDeclarationCheck¢"~Remove the declaration of thrown exception 'com.sun.org.apache.xerces.internal.xni.XNIException' which is a runtime exception.(Ø¿ï÷üÿÿÿÿ
-Wsquid:S1161¢":Add the "@Override" annotation above this method signature(Ø¿ï÷üÿÿÿÿ
-csquid:CallToDeprecatedMethodì"5Remove this use of "AttributeList"; it is deprecated.(±†ùÿÿÿÿ
-Gsquid:S1068ì"/Remove this unused "fCharBuffer" private field.(¨Õîì
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(®­›ƒ
-hsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(çû¦åùÿÿÿÿ
-hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(çû¦åùÿÿÿÿ

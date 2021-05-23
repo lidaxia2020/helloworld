@@ -1,7 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¶ε¤
-msquid:UselessImportCheck*"IRemove this unused import 'javax.imageio.plugins.bmp.BMPImageWriteParam'.(…β²΅
-csquid:UselessImportCheck#":Remove this unused import 'javax.imageio.spi.IIORegistry'.(¦ΆλΫωÿÿÿÿ
-Ssquid:S2387-"<"readerSpiNames" is the name of a field in "ImageWriterSpi".(άξέ®
-Vsquid:S1161J":Add the "@Override" annotation above this method signature(ψ€™ÿÿÿÿÿ
-]squid:S1126`"AReplace this if-then-else statement by a single return statement.(›¬—ÿÿÿÿÿ

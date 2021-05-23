@@ -1,28 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-[squid:UselessImportCheck2"2Remove this unused import 'javax.swing.UIManager'.(ó·Âûÿÿÿÿ
-esquid:UselessImportCheck:"ARemove this unused import 'javax.swing.plaf.ActionMapUIResource'.(Ãâ™
-Tsquid:UselessImportCheck"+Remove this unused import 'java.awt.Event'.(¤§şøÿÿÿÿ
-Ssquid:UselessImportCheck"/Remove this unused import 'java.awt.Container'.(˜ƒ×‹
-Zsquid:UselessImportCheck3"7Remove this unused import 'javax.swing.AbstractButton'.(¡İÁ2
-[squid:UselessImportCheck+"2Remove this unused import 'javax.swing.ActionMap'.(‚ˆˆ´ùÿÿÿÿ
-Vsquid:UselessImportCheck-"2Remove this unused import 'javax.swing.KeyStroke'.(µ©ı
-isquid:UselessImportCheck<"@Remove this unused import 'javax.swing.plaf.InputMapUIResource'.(üæ×òıÿÿÿÿ
-[squid:UselessImportCheck'"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘
-`squid:UselessImportCheck*"7Remove this unused import 'javax.swing.AbstractAction'.(á§Çşÿÿÿÿ
-Ssquid:UselessImportCheck/"/Remove this unused import 'javax.swing.JLabel'.(ı—àÓ
-Usquid:UselessImportCheck,"1Remove this unused import 'javax.swing.InputMap'.(Ü
-osquid:ModifiersOrderCheckM"EReorder the modifiers to comply with the Java Language Specification.(ƒ¯Èæûÿÿÿÿ
-Dsquid:S1172P"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
-Msquid:S2696`"6Make the enclosing method "static" or remove this set.(Ëø÷À
-Rsquid:S2696c"6Make the enclosing method "static" or remove this set.(ô†‰İıÿÿÿÿ
-Rsquid:S2696h"6Make the enclosing method "static" or remove this set.(ô†‰İıÿÿÿÿ
-nsquid:S3776v"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‚Œ‰½øÿÿÿÿ
-osquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ãşö§ÿÿÿÿÿ
-Nsquid:S2696±"6Make the enclosing method "static" or remove this set.(©¥€¡
-Nsquid:S2696²"6Make the enclosing method "static" or remove this set.(ş‘¡›
-Msquid:S2696¹"6Make the enclosing method "static" or remove this set.(îĞã
-Nsquid:S2696Ç"6Make the enclosing method "static" or remove this set.(éëÈş
-Ssquid:S2696É"6Make the enclosing method "static" or remove this set.(ûªÙĞøÿÿÿÿ
-Nsquid:S2696Ê"6Make the enclosing method "static" or remove this set.(–Ææ¥
-Nsquid:S2696Ì"6Make the enclosing method "static" or remove this set.(éëÈş

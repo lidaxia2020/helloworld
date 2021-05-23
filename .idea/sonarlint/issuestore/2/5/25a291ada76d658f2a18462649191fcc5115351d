@@ -1,12 +1,0 @@
-
-Qsquid:S11910"5Use classes from the Java API instead of Sun classes.(¸…Áçøÿÿÿÿ
-asquid:S2583­"DChange this condition so that it does not always evaluate to "false"(’×è¿ÿÿÿÿÿ
-asquid:S2583ğ"DChange this condition so that it does not always evaluate to "false"(’×è¿ÿÿÿÿÿ
-osquid:S00116¾"QRename this field "debug_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÇ®ıÿÿÿÿ
-osquid:S00116Á"QRename this field "mutex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿üÎãşÿÿÿÿ
-ksquid:S00116Â"SRename this field "remutex_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¼¨5
-Qsquid:S2274›":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
-Msquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-Rsquid:S2274Ü":Remove this call to "wait" or move it into a "while" loop.(—éÕ§
-Msquid:S2446à"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
-Msquid:S2446„"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ

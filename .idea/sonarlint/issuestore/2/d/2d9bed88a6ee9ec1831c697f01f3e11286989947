@@ -1,16 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(À…Ÿöûÿÿÿÿ
-Nsquid:S2589¡"7Remove this expression which always evaluates to "true"(ûm
-rsquid:S00115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èÁáñ
-rsquid:S00115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½«÷ò
-wsquid:S00115K"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔŠôÈüÿÿÿÿ
-rsquid:S00115N"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èøÄü
-rsquid:S1149Q"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¤İ¡ëøÿÿÿÿ
-msquid:S1149T"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ê«ù½
-msquid:S1149W"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ËÄïÆ
-asquid:S1134Œ"DTake the required action to fix the issue indicated by this comment.(Ÿ£Ì”øÿÿÿÿ
-isquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Öê—
-Ysquid:S1854"<Remove this useless assignment to local variable "fragment".( ô¯¤ÿÿÿÿÿ
-csquid:S3027š"FPut single-quotes around '#' to use the faster "indexOf(char)" method.(İÎºóşÿÿÿÿ
-Esquid:S1481™"-Remove this unused "fragment" local variable.(€Š¸î
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,36 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-lsquid:S1192‚"UDefine a constant instead of duplicating this literal "componentOrientation" 3 times.(ûÍG
-d$squid:AssignmentInSubExpressionCheckƒ".Extract the assignment out of this expression.(Œú­†ıÿÿÿÿ
-Psquid:S4973‚"9Use the "equals" method if value comparison was intended.(ûÍG
-Dsquid:S1604~"(Make this anonymous inner class a lambda(ãáÆşÿÿÿÿ
-fsquid:MaximumInheritanceDepthÓ"<This class has 7 parents which is greater than 5 authorized.(’Œ„±
-ksquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(¬ıÖ›ÿÿÿÿÿ
-fsquid:MaximumInheritanceDepthÌ"<This class has 7 parents which is greater than 5 authorized.(÷¬¥ª
-Vsquid:S1161\":Add the "@Override" annotation above this method signature(Ö„˜şúÿÿÿÿ
-Vsquid:S1161`":Add the "@Override" annotation above this method signature(•ßçùÿÿÿÿ
-Esquid:S1172“"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
-Wsquid:S1161—":Add the "@Override" annotation above this method signature(À‘‹¬üÿÿÿÿ
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
-Qsquid:S1161Ö":Add the "@Override" annotation above this method signature(–™Ë
-Wsquid:S1161å":Add the "@Override" annotation above this method signature(Äò¯ıÿÿÿÿ
-Wsquid:S1161ò":Add the "@Override" annotation above this method signature(¨æÖÕÿÿÿÿÿ
-Qsquid:S1161£":Add the "@Override" annotation above this method signature(ŒåƒH
-Wsquid:S1161ç":Add the "@Override" annotation above this method signature(Ş¢‚Üúÿÿÿÿ
-Wsquid:S1161î":Add the "@Override" annotation above this method signature(Íæó‰ùÿÿÿÿ
-Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(Ûƒ«¥ùÿÿÿÿ
-Wsquid:S1161…":Add the "@Override" annotation above this method signature(âµô«şÿÿÿÿ
-@squid:S1185–"(Remove this method to simply inherit it.(˜ˆßË
-Rsquid:S1161–":Add the "@Override" annotation above this method signature(˜ˆßË
-Esquid:S1185š"(Remove this method to simply inherit it.(ÒÒ’Ëùÿÿÿÿ
-Wsquid:S1161š":Add the "@Override" annotation above this method signature(ÒÒ’Ëùÿÿÿÿ
-Wsquid:S1161ª":Add the "@Override" annotation above this method signature(Ä¡ßüÿÿÿÿ
-Wsquid:S1161Ê":Add the "@Override" annotation above this method signature(×Í€êıÿÿÿÿ
-\squid:S3358Ø"DExtract this nested ternary operation into an independent statement.(Ö“Æœ
-Wsquid:S1161ô":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
-Rsquid:S1133"5Do not forget to remove this deprecated code someday.(¬ıÖ›ÿÿÿÿÿ
-Rsquid:S1161•":Add the "@Override" annotation above this method signature(Ÿµğ
-/squid:S2176™"Rename this class.(°»·ğşÿÿÿÿ
-Rsquid:S1161²":Add the "@Override" annotation above this method signature(²È›
-Wsquid:S1161¼":Add the "@Override" annotation above this method signature(˜‘±Éùÿÿÿÿ
-jsquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(œĞóØ

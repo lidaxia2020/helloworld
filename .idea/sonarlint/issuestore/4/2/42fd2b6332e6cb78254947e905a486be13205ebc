@@ -1,91 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
-fsquid:S1192	"NDefine a constant instead of duplicating this literal "indent-amount" 4 times.(ÇáÏ™
-Gsquid:S1066¤	"/Merge this if statement with the enclosing one.(›²Ûª
-Lsquid:S1066ì	"/Merge this if statement with the enclosing one.(ÎÏªÊûÿÿÿÿ
-Jsquid:S1199Ë
-"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckè".Extract the assignment out of this expression.(¢Ü÷ÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckî".Extract the assignment out of this expression.(ÉÔ¬•üÿÿÿÿ
-Rsquid:S1141Ê"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-_squid:S2259±"GA "NullPointerException" could be thrown; "_translet" is nullable here.(ó†ƒî
-dsquid:S00112Ø"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
-osquid:S00117É
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–É†ıÿÿÿÿ
-csquid:UselessImportCheck9":Remove this unused import 'java.lang.reflect.Constructor'.(¿ã–şúÿÿÿÿ
-zsquid:UselessImportCheckU"VRemove this unused import 'com.sun.org.apache.xalan.internal.xsltc.DOMEnhancedForDTM'.(ó…í»
-{squid:S1157Š	"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¤¿®ì
-{squid:S1157	"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¤¿®ì
-€squid:S1157Ö	"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(úùÖÎûÿÿÿÿ
-€squid:S1157Ú	"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(úùÖÎûÿÿÿÿ
-Ksquid:S1659»".Declare "_propertiesClone" on a separate line.(€´Ğıÿÿÿÿ
-rsquid:S00116‹"TRename this field "_translet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ú†Àÿÿÿÿÿ
-ksquid:S00116“"RRename this field "_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş±Ô¢
-msquid:S00116›"TRename this field "_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïñ¬„
-xsquid:S00116£"ZRename this field "_sourceSystemId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§»àÆúÿÿÿÿ
-rsquid:S00116«"YRename this field "_errorListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬È¸ö
-psquid:S00116³"WRename this field "_uriResolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä•‘î
-tsquid:S00116»"VRename this field "_properties" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€´Ğıÿÿÿÿ
-ysquid:S00116»"[Rename this field "_propertiesClone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€´Ğıÿÿÿÿ
-nsquid:S00116Ã"VRename this field "_tohFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î•Ì_
-hsquid:S00116Ë"ORename this field "_dom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ëà
-qsquid:S00116Ó"XRename this field "_indentNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ïû
-rsquid:S00116Ü"TRename this field "_tfactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¨³¡üÿÿÿÿ
-qsquid:S00116ä"SRename this field "_ostream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ˆ¤ÿÿÿÿÿ
-osquid:S00116í"VRename this field "_dtmManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë–Âı
-rsquid:S00116õ"YRename this field "_readerManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğéƒÁ
-tsquid:S00116†"VRename this field "_isIdentity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü£¨ñüÿÿÿÿ
-|squid:S00116"^Rename this field "_isSecureProcessing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¥ş³úÿÿÿÿ
-~squid:S00116˜"`Rename this field "_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ôô²øÿÿÿÿ
-‚squid:S00116Ÿ"dRename this field "_accessExternalStylesheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¯®’üÿÿÿÿ
-{squid:S00116¦"]Rename this field "_accessExternalDTD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿí¼¦øÿÿÿÿ
-ysquid:S00116¨"[Rename this field "_securityManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úû¤Øúÿÿÿÿ
-nsquid:S00116±"VRename this field "_parameters" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆõ…R
-‚squid:S1149î	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ş”£‰üÿÿÿÿ
-jsquid:ModifiersOrderCheckw"EReorder the modifiers to comply with the Java Language Specification.(ğ‹³ë
-/squid:S2176º"Rename this class.(‡ãƒşÿÿÿÿ
-wsquid:S00116½"YRename this field "_errorListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÂĞÒüÿÿÿÿ
-U
-squid:S106Æ"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ
-P
-squid:S106Û"9Replace this use of System.out or System.err by a logger.(ï‚Œ
-osquid:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Æôô£ıÿÿÿÿ
-Asquid:S1905î")Remove this unnecessary cast to "String".(›—¯Ù
-bsquid:S2147÷"ECombine this catch with the one at line 628, which has the same body.(ˆá¥µûÿÿÿÿ
-bsquid:S2147û"ECombine this catch with the one at line 628, which has the same body.(©œ¡ÿÿÿÿÿ
-asquid:S4201—"IRemove this unnecessary null check; "instanceof" returns false for nulls.(à£Ô»
-Fsquid:S1125")Remove the literal "false" boolean value.(³¹ßÈüÿÿÿÿ
-osquid:S3776×"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ìşÔñşÿÿÿÿ
-osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(²ú³ûÿÿÿÿ
-Lsquid:S1172Ç"/Remove this unused method parameter "encoding".(şà—üÿÿÿÿ
-bsquid:S2147ò"ECombine this catch with the one at line 879, which has the same body.(È¶ƒÈşÿÿÿÿ
-]squid:S2147õ"ECombine this catch with the one at line 879, which has the same body.(”ı¾
-Bsquid:S00108")Either remove or fill this block of code.(á·¶ß
-¤%squid:RedundantThrowsDeclarationCheck¤"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck‘"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-Ÿ%squid:RedundantThrowsDeclarationCheck©"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-Ÿ%squid:RedundantThrowsDeclarationCheckÓ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(À“õÄ
-jsquid:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(İšÂ¢
-jsquid:S3776²	"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(ƒş˜ğ
-P
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(£ëê
-P
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(—ºúˆ
-U
-squid:S106Ê"9Replace this use of System.out or System.err by a logger.(åå øüÿÿÿÿ
-P
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(±æ€•
-U
-squid:S106ë"9Replace this use of System.out or System.err by a logger.(øó¦øÿÿÿÿ
-P
-squid:S106ï"9Replace this use of System.out or System.err by a logger.(‡ËÆî
-esquid:UnusedPrivateMethodÆ":Remove this unused private "postWarningToListener" method.(ÑÉÃüûÿÿÿÿ
-Zsquid:UnusedPrivateMethod×"4Remove this unused private "makeCDATAString" method.(Çìì
-Qsquid:S1068y"5Remove this unused "NAMESPACE_FEATURE" private field.(³¹Ûõÿÿÿÿÿ
-Zsquid:S1068Ÿ"=Remove this unused "_accessExternalStylesheet" private field.(Ë¯®’üÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(¨Ã¯úúÿÿÿÿ
-bsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(İ‡À9
-hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(‚ºÛìúÿÿÿÿ
-csquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(ñÜÇ
-hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(¡µ‘ìÿÿÿÿÿ

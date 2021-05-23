@@ -1,6 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheckà"XRefactor the code in order to not assign to this loop counter from within the loop body.(’¢³†şÿÿÿÿ
-Psquid:S3516m"9Refactor this method to not always return the same value.(¨¯øä
-;squid:S1659)"$Declare "length" on a separate line.(Àöë
-Asquid:S16592"%Declare "F_OWNED" on a separate line.(×¿¬ºÿÿÿÿÿ
-;squid:S1659¶"#Declare "exprp" on a separate line.(òêü„

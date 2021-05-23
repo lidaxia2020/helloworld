@@ -1,15 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ĞµŒëşÿÿÿÿ
-Gsquid:S1066Ì"/Merge this if statement with the enclosing one.(´Şá®
-jsquid:S00101="MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•³ñ¹ùÿÿÿÿ
-psquid:UselessImportCheck."GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œıÿÿÿÿ
-rsquid:UselessImportCheck'"ORemove this unused import 'org.omg.PortableServer.POAPackage.ServantNotActive'.(ÖŠÏ 
-|squid:UselessImportCheck)"SRemove this unused import 'org.omg.PortableServer.POAPackage.ServantAlreadyActive'.(è”ÁÓûÿÿÿÿ
-vsquid:UselessImportCheck("RRemove this unused import 'org.omg.PortableServer.POAPackage.ObjectAlreadyActive'.(ÜÔ±ç
-rsquid:UselessImportCheck,"NRemove this unused import 'com.sun.corba.se.impl.orbutil.concurrent.SyncUtil'.(ÂŠ¨‹
-psquid:UselessImportCheck2"GRemove this unused import 'com.sun.corba.se.impl.javax.rmi.CORBA.Util'.(Á¯Ø‹ûÿÿÿÿ
-Lsquid:S1143Ó"4Remove this throw statement from this finally block.(§ƒÉş
-Usquid:S1163Ó"=Refactor this code to not throw exceptions in finally blocks.(§ƒÉş
-hsquid:S3776h"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(‹¯‰W
-Bsquid:S1181§"%Catch Exception instead of Throwable.(Ñú³úÿÿÿÿ
-Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(“–ış

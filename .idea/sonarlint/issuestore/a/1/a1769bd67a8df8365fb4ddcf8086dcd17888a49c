@@ -1,34 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckÎ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ìÂ´
-… squid:ForLoopCounterChangedCheckÎ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ìÂ´
-… squid:ForLoopCounterChangedCheckð"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚þù–
-… squid:ForLoopCounterChangedCheckð"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚þù–
-Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(²É“
-Lsquid:S1066Ñ"/Merge this if statement with the enclosing one.(ç¡ž‚þÿÿÿÿ
-Gsquid:S1066î"/Merge this if statement with the enclosing one.(µÖ‘Ò
-Jsquid:S1199»"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-msquid:S00116;"URename this field "m_compiler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž£¶ð
-zsquid:S00116C"]Rename this field "m_namespaceContext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹õòÄøÿÿÿÿ
-ssquid:S00116K"VRename this field "m_processor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…·©Ùüÿÿÿÿ
-tsquid:S00116b"WRename this field "m_patternMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘³ÎÑþÿÿÿÿ
-ssquid:S00116k"[Rename this field "m_patternMapSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛÒ¯
-‚squid:S1149ž"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(å÷³¿ÿÿÿÿÿ
-}squid:S1149²"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(žÅæÿ
-Tsquid:S1197b"8Move the array designator from the variable to the type.(‘³ÎÑþÿÿÿÿ
-psquid:S3776ž"SRefactor this method to reduce its Cognitive Complexity from 113 to the 15 allowed.(å÷³¿ÿÿÿÿÿ
-]squid:S1854’"@Remove this useless assignment to local variable "isStartOfPat".(×øßëþÿÿÿÿ
-Vsquid:S1854‘"9Remove this useless assignment to local variable "isNum".(§Ñð™üÿÿÿÿ
-[squid:S1854—">Remove this useless assignment to local variable "posOfNSSep".(½Š¯âøÿÿÿÿ
-Psquid:S1197Â"8Move the array designator from the variable to the type.(˜ž±¦
-asquid:S3358ø"DExtract this nested ternary operation into an independent statement.(¿óÂÑÿÿÿÿÿ
-]squid:S2147¡"ECombine this catch with the one at line 541, which has the same body.(“ÇÊÁ
-Asquid:S1905™"*Remove this unnecessary cast to "Integer".(’¡Þ
-osquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‹È‡±ýÿÿÿÿ
-Nsquid:S1905š"1Remove this unnecessary cast to "PrefixResolver".(Ýå•ðýÿÿÿÿ
-Isquid:S1905°"1Remove this unnecessary cast to "PrefixResolver".( šÛì
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-bsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(Àçƒ	
-csquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(Ñéˆú
-hsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(ØÌ©Äûÿÿÿÿ
-csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(Âöý‚
-csquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(Þ€Ý¶

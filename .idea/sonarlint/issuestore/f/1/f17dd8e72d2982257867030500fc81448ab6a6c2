@@ -1,12 +1,0 @@
-
-Lsquid:S1191("5Use classes from the Java API instead of Sun classes.(‹èı…
-Rsquid:S1141†"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-xsquid:UselessImportCheck#"TRemove this unnecessary import: same package classes are always implicitly imported.( ‹Û™
-}squid:UselessImportCheck$"TRemove this unnecessary import: same package classes are always implicitly imported.(úÏÑÊşÿÿÿÿ
-;squid:S1148£"#Use a logger to log this exception.(şŞ‚Û
-Bsquid:S2160"+Override the "equals" method in this class.(‘ƒí
-Asquid:S1948")Make "monitor" transient or serializable.(ŒÓ¦ì
-Ñ%squid:RedundantThrowsDeclarationCheckğ"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(£ß”öúÿÿÿÿ
-Ñ%squid:RedundantThrowsDeclarationCheck"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(ÉÙö™ÿÿÿÿÿ
-Asquid:S1125ö")Remove the literal "false" boolean value.(Ìù€Ó
-Ñ%squid:RedundantThrowsDeclarationCheckÒ"™Remove the declaration of thrown exception 'java.rmi.activation.UnknownObjectException' which is a subclass of 'java.rmi.activation.ActivationException'.(£ß”öúÿÿÿÿ

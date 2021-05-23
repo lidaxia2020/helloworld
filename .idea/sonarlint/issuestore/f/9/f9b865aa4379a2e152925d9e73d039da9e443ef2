@@ -1,89 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÃêØ»ùÿÿÿÿ
-usquid:S1192ä"XDefine a constant instead of duplicating this literal "\t\t[JndiLoginModule]: " 3 times.(Ï£‘ƒüÿÿÿÿ
-usquid:S1192ó"XDefine a constant instead of duplicating this literal "\t\t[JndiLoginModule] " 13 times.(¸¯”Àşÿÿÿÿ
-esquid:S1192É"HDefine a constant instead of duplicating this literal "user: '" 3 times.(÷’í´şÿÿÿÿ
-Osquid:S2589–"7Remove this expression which always evaluates to "true"(±ªœ¦
-_squid:S2259â"GA "NullPointerException" could be thrown; "gidNumber" is nullable here.(¦Ö²
-Esquid:S1604Ü"(Make this anonymous inner class a lambda(•„òíıÿÿÿÿ
-@squid:S1148ú"#Use a logger to log this exception.(¿µ¿›üÿÿÿÿ
-@squid:S1148‚"#Use a logger to log this exception.(Ûÿ·÷ıÿÿÿÿ
-nsquid:S1450†"VRemove the "options" field and declare it as a local variable in the relevant methods.(ØÌŸ¼
->squid:S1170å"!Make this final field static too.( ¯Ù¤ÿÿÿÿÿ
-9squid:S1170æ"!Make this final field static too.(ş´¼ı
-vsquid:S00116å"XRename this field "USER_PROVIDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¯Ù¤ÿÿÿÿÿ
-rsquid:S00116æ"YRename this field "GROUP_PROVIDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş´¼ı
-usquid:S00116ı"WRename this field "UIDPrincipal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïä²†ÿÿÿÿÿ
-usquid:S00116ş"WRename this field "GIDPrincipal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…©’¼ıÿÿÿÿ
-isquid:S2068‰"Q'PWD' detected in this expression, review this potentially hard-coded credential.(Õî‘
-hsquid:S2068"Q'PWD' detected in this expression, review this potentially hard-coded credential.(÷õ¹)
-osquid:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ß™“øÿÿÿÿ
-U
-squid:S106â"9Replace this use of System.out or System.err by a logger.(é»—Îûÿÿÿÿ
-U
-squid:S106ä"9Replace this use of System.out or System.err by a logger.(œÁÿÿÿÿÿ
-U
-squid:S106ó"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106û"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106‹"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106“"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106¡"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-jsquid:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›¶§ş
-Fsquid:S1125Ï")Remove the literal "false" boolean value.(ç§åÏûÿÿÿÿ
-U
-squid:S106ä"9Replace this use of System.out or System.err by a logger.(Ï£‘ƒüÿÿÿÿ
-U
-squid:S106æ"9Replace this use of System.out or System.err by a logger.(Üì—õıÿÿÿÿ
-P
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(Ã§½
-U
-squid:S106è"9Replace this use of System.out or System.err by a logger.(¬“ªıÿÿÿÿ
-U
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(Ï£‘ƒüÿÿÿÿ
-Fsquid:S1125”")Remove the literal "false" boolean value.(ç§åÏûÿÿÿÿ
-@squid:S1125–"(Remove the literal "true" boolean value.(±ªœ¦
-Asquid:S1125–")Remove the literal "false" boolean value.(±ªœ¦
-vsquid:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(–á¬ãøÿÿÿÿ
-vsquid:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(–á¬ãøÿÿÿÿ
-U
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(Ï£‘ƒüÿÿÿÿ
-osquid:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ú ¹èıÿÿÿÿ
-Qsquid:S4719£"9Replace charset name argument with StandardCharsets.UTF_8(‰Ëêã
-@squid:S1125¨"(Remove the literal "true" boolean value.(¼Ç÷–
-U
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106²"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106È"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106Ó"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106ò"9Replace this use of System.out or System.err by a logger.(½£áÛÿÿÿÿÿ
-U
-squid:S106ù"9Replace this use of System.out or System.err by a logger.(½£áÛÿÿÿÿÿ
-U
-squid:S106€"9Replace this use of System.out or System.err by a logger.(Ï£‘ƒüÿÿÿÿ
-csquid:S3027­"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(¶è§Üıÿÿÿÿ
-U
-squid:S106É"9Replace this use of System.out or System.err by a logger.(¸¯”Àşÿÿÿÿ
-U
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ßòË–üÿÿÿÿ
-U
-squid:S106Ï"9Replace this use of System.out or System.err by a logger.(üÚä½ûÿÿÿÿ
-U
-squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Psquid:S1197å"8Move the array designator from the variable to the type.(–ÇÄ£
-Qsquid:S4719å"9Replace charset name argument with StandardCharsets.UTF_8(–ÇÄ£
-Usquid:S1197æ"8Move the array designator from the variable to the type.(‡ãŸ¦ùÿÿÿÿ
-Vsquid:S4719æ"9Replace charset name argument with StandardCharsets.UTF_8(‡ãŸ¦ùÿÿÿÿ
-Csquid:S1068†"+Remove this unused "options" private field.(ØÌŸ¼
-csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò³¾

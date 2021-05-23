@@ -1,16 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(▄▒ь─√    
-╔%squid:RedundantThrowsDeclarationCheckД"ЦRemove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(╓г√т
-Rsquid:S1133Г"5Do not forget to remove this deprecated code someday.(ью¤Ж√    
-Vsquid:MissingDeprecatedCheckГ"(Add the missing @deprecated Javadoc tag.(ью¤Ж√    
-Wsquid:S1161Г":Add the "@Override" annotation above this method signature(ью¤Ж√    
-Lsquid:S1133О"5Do not forget to remove this deprecated code someday.(┼┴к
-
-Psquid:MissingDeprecatedCheckО"(Add the missing @deprecated Javadoc tag.(┼┴к
-
-Qsquid:S1161О":Add the "@Override" annotation above this method signature(┼┴к
-
-╬%squid:RedundantThrowsDeclarationCheckЫ"ЦRemove the declaration of thrown exception 'javax.management.InstanceNotFoundException' which is a subclass of 'javax.management.OperationsException'.(■Р║√·    
-Msquid:S1133Щ"5Do not forget to remove this deprecated code someday.(П╚·╓
-Qsquid:MissingDeprecatedCheckЩ"(Add the missing @deprecated Javadoc tag.(П╚·╓
-Rsquid:S1161Щ":Add the "@Override" annotation above this method signature(П╚·╓

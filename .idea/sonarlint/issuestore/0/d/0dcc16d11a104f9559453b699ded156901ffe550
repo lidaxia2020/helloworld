@@ -1,23 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Äıç•ıÿÿÿÿ
-isquid:S2975A"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(­æğ
-^squid:S1182A"HUse super.clone() to create and seed the cloned instance to be returned.(­æğ
-Gsquid:S2065S"0Remove the "transient" modifier from this field.(‡™»é
-Gsquid:S2065T"0Remove the "transient" modifier from this field.(°æ€
-|squid:S1149ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
-Osquid:S1197S"8Move the array designator from the variable to the type.(‡™»é
-Usquid:S1197µ"8Move the array designator from the variable to the type.( ŒÍòüÿÿÿÿ
-Usquid:S1197É"8Move the array designator from the variable to the type.( ŒÍòüÿÿÿÿ
-Usquid:S1197Ü"8Move the array designator from the variable to the type.( ŒÍòüÿÿÿÿ
->squid:S1659ñ"!Declare "old" on a separate line.(¦Íˆçüÿÿÿÿ
-@squid:S1659ò"#Declare "index" on a separate line.(‰ªç·üÿÿÿÿ
-Usquid:S1197ô"8Move the array designator from the variable to the type.(ø°¯úÿÿÿÿ
-Psquid:S1197÷"8Move the array designator from the variable to the type.(°úë÷
-Usquid:S1197š"8Move the array designator from the variable to the type.( ŒÍòüÿÿÿÿ
-?squid:S1659¿""Declare "prev" on a separate line.(ÈÕ†Şÿÿÿÿÿ
-Usquid:S1197À"8Move the array designator from the variable to the type.( ŒÍòüÿÿÿÿ
-Usquid:S1197×"8Move the array designator from the variable to the type.( ŒÍòüÿÿÿÿ
-Csquid:S1150ü"+Implement Iterator rather than Enumeration.(íí–
-Psquid:S1197ÿ"8Move the array designator from the variable to the type.(š¡šÔ
-Usquid:S1197‚"8Move the array designator from the variable to the type.(Óğƒ—øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

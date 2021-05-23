@@ -1,48 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ê€‰¾üÿÿÿÿ
-Lsquid:S1066ü"/Merge this if statement with the enclosing one.(«ÔÅØıÿÿÿÿ
-Gsquid:S1066"/Merge this if statement with the enclosing one.(Ë´Ôù
-Rsquid:S1141¾"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-jsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚®ı›
-Wsquid:UselessImportCheck5"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-_squid:UselessImportCheck2"6Remove this unused import 'org.omg.CORBA.ContextList'.(Ù²ºòÿÿÿÿÿ
-[squid:UselessImportCheck8"7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
-_squid:UselessImportCheck'"6Remove this unused import 'org.omg.IOP.TaggedProfile'.(òôúÅÿÿÿÿÿ
-rsquid:UselessImportCheckV"NRemove this unused import 'com.sun.corba.se.impl.encoding.CDRInputStream_1_0'.(¸Šüï
-Zsquid:UselessImportCheck<"1Remove this unused import 'org.omg.CORBA.Policy'.(ùŠÒïøÿÿÿÿ
-fsquid:UselessImportCheck3"=Remove this unused import 'org.omg.CORBA.CTX_RESTRICT_SCOPE'.(šš­öúÿÿÿÿ
-\squid:UselessImportCheck("8Remove this unused import 'org.omg.IOP.TaggedComponent'.(·ºÙ½
-\squid:UselessImportCheck4"8Remove this unused import 'org.omg.CORBA.ExceptionList'.(‚İùÜ
-Lsquid:S1143Â"4Remove this throw statement from this finally block.(Å¤ä›
-Usquid:S1163Â"=Refactor this code to not throw exceptions in finally blocks.(Å¤ä›
-psquid:ModifiersOrderCheck›"EReorder the modifiers to comply with the Java Language Specification.(‰øÕŞÿÿÿÿÿ
-psquid:ModifiersOrderCheck¨"EReorder the modifiers to comply with the Java Language Specification.(¹£ÍÒøÿÿÿÿ
-psquid:ModifiersOrderCheck³"EReorder the modifiers to comply with the Java Language Specification.(Ù‰ùÿÿÿÿ
-psquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(èæÌûÿÿÿÿ
-ksquid:ModifiersOrderCheckÇ"EReorder the modifiers to comply with the Java Language Specification.(€÷şİ
-psquid:ModifiersOrderCheckÑ"EReorder the modifiers to comply with the Java Language Specification.(È‹êşøÿÿÿÿ
-psquid:ModifiersOrderCheckÛ"EReorder the modifiers to comply with the Java Language Specification.(¨è×»øÿÿÿÿ
-psquid:ModifiersOrderCheckí"EReorder the modifiers to comply with the Java Language Specification.( áÌªúÿÿÿÿ
-psquid:ModifiersOrderCheck­"EReorder the modifiers to comply with the Java Language Specification.(ØÀù¤şÿÿÿÿ
-ksquid:ModifiersOrderCheckØ"EReorder the modifiers to comply with the Java Language Specification.(şá«
-ksquid:ModifiersOrderChecké"EReorder the modifiers to comply with the Java Language Specification.(şá«
-bsquid:S2147Ë"ECombine this catch with the one at line 585, which has the same body.(¼¯•¶ùÿÿÿÿ
-bsquid:S2147Í"ECombine this catch with the one at line 585, which has the same body.(ÿëÛßúÿÿÿÿ
-]squid:S2147Ï"ECombine this catch with the one at line 585, which has the same body.(Å¡ß
-bsquid:S2147Ñ"ECombine this catch with the one at line 585, which has the same body.(¥¨›ıÿÿÿÿ
-]squid:S2147Ó"ECombine this catch with the one at line 585, which has the same body.(åşáÿ
-bsquid:S2147ÿ"ECombine this catch with the one at line 637, which has the same body.(¼¯•¶ùÿÿÿÿ
-bsquid:S2147"ECombine this catch with the one at line 637, which has the same body.(ÿëÛßúÿÿÿÿ
-]squid:S2147ƒ"ECombine this catch with the one at line 637, which has the same body.(Å¡ß
-bsquid:S2147…"ECombine this catch with the one at line 637, which has the same body.(¥¨›ıÿÿÿÿ
-]squid:S2147‡"ECombine this catch with the one at line 637, which has the same body.(åşáÿ
-9squid:S2129ö"!Remove this "Integer" constructor(š˜èÃ
-Xsquid:CallToDeprecatedMethodö"/Remove this use of "Integer"; it is deprecated.(š˜èÃ
-Nsquid:S5261Ç"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
->squid:S2129È"!Remove this "Integer" constructor(á©œóùÿÿÿÿ
-]squid:CallToDeprecatedMethodÈ"/Remove this use of "Integer"; it is deprecated.(á©œóùÿÿÿÿ
->squid:S2129Í"!Remove this "Integer" constructor(Øş©”ıÿÿÿÿ
-]squid:CallToDeprecatedMethodÍ"/Remove this use of "Integer"; it is deprecated.(Øş©”ıÿÿÿÿ
-gsquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(«şıÜùÿÿÿÿ
-hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(«şıÜùÿÿÿÿ
-hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(­¯¦Øùÿÿÿÿ

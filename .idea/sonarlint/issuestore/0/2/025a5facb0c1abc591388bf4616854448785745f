@@ -1,7 +1,0 @@
-
-Ksquid:S1191#"5Use classes from the Java API instead of Sun classes.(€Ó¤0
-psquid:S001164"XRename this field "_precSiblings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô•Æè
-nsquid:S3776I"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ûşıÿÿÿÿ
-Wsquid:S1854f";Remove this useless assignment to local variable "counter".(²ÜÅ’üÿÿÿÿ
-Hsquid:S1481f",Remove this unused "counter" local variable.(²ÜÅ’üÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,62 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ì—ğá
-u
-squid:S135ª"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
-\squid:S2583İ"DChange this condition so that it does not always evaluate to "false"(÷ßÖ
-Tsquid:S2589Æ"7Remove this expression which always evaluates to "true"(†„‡şÿÿÿÿ
-}squid:UselessImportCheck."TRemove this unused import 'com.sun.org.apache.xalan.internal.xsltc.dom.NodeCounter'.(£øöÃÿÿÿÿÿ
-ksquid:MaximumInheritanceDepthë"<This class has 6 parents which is greater than 5 authorized.(ÉÙ¤¨şÿÿÿÿ
-fsquid:MaximumInheritanceDepthÔ"<This class has 7 parents which is greater than 5 authorized.(­°Ïô
-Usquid:S1854"=Remove this useless assignment to local variable "traverser".(‹ıµÄ
-Rsquid:S1161´":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-Wsquid:S1161É":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(©Ç—øÿÿÿÿ
-Fsquid:S1940Ï")Use the opposite operator ("!=") instead.(ïÅ×‹ùÿÿÿÿ
-Rsquid:S1161è":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-Asquid:S1940Ú")Use the opposite operator ("!=") instead.(¨òÛ”
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-Rsquid:S1161¢":Add the "@Override" annotation above this method signature(Ó©¾Ÿ
-Rsquid:S1161´":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(ñÁŠÂÿÿÿÿÿ
-Ssquid:S1751à"6Remove this "return" statement or make it conditional.(¿²ãÇûÿÿÿÿ
-Rsquid:S1161ù":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-osquid:S3776£"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ş¯§óúÿÿÿÿ
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-Wsquid:S1161×":Add the "@Override" annotation above this method signature(ñÁŠÂÿÿÿÿÿ
-Rsquid:S1161û":Add the "@Override" annotation above this method signature(ï“Ù
-Rsquid:S1161Ü
-":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-Qsquid:S1161õ
-":Add the "@Override" annotation above this method signature(¯¸ï
-asquid:S1854«"DRemove this useless assignment to local variable "subtreeRootIdent".(Ï¼ƒ¼øÿÿÿÿ
-asquid:S1854Ë"DRemove this useless assignment to local variable "subtreeRootIdent".(Ï¼ƒ¼øÿÿÿÿ
-Rsquid:S1161¦":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-Wsquid:S1161»":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-Rsquid:S1161ù":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-Wsquid:S1161Š":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-asquid:S1854Ÿ"DRemove this useless assignment to local variable "subtreeRootIdent".(Ï¼ƒ¼øÿÿÿÿ
-Wsquid:S1161œ":Add the "@Override" annotation above this method signature(ñÁŠÂÿÿÿÿÿ
-Ssquid:S1751¨"6Remove this "return" statement or make it conditional.(¿²ãÇûÿÿÿÿ
-asquid:S1854½"DRemove this useless assignment to local variable "subtreeRootIdent".(Ï¼ƒ¼øÿÿÿÿ
-Rsquid:S1161º":Add the "@Override" annotation above this method signature(ï“Ù
-Wsquid:S1161ã":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-Wsquid:S1161ö":Add the "@Override" annotation above this method signature(ñÁŠÂÿÿÿÿÿ
-Rsquid:S1161‰":Add the "@Override" annotation above this method signature(ï“Ù
-Rsquid:S1161¥":Add the "@Override" annotation above this method signature(Ó©¾Ÿ
-Rsquid:S1161³":Add the "@Override" annotation above this method signature(ğõ…„
-Rsquid:S1161Ä":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-Wsquid:S1161İ":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-Rsquid:S1161‚":Add the "@Override" annotation above this method signature(Ó©¾Ÿ
-Rsquid:S1161":Add the "@Override" annotation above this method signature(ğõ…„
-Rsquid:S1161 ":Add the "@Override" annotation above this method signature(ĞÎÏÏ
-Wsquid:S1161·":Add the "@Override" annotation above this method signature(Ş¯§óúÿÿÿÿ
-Rsquid:S1481«"5Remove this unused "subtreeRootIdent" local variable.(Ï¼ƒ¼øÿÿÿÿ
-Rsquid:S1481Ë"5Remove this unused "subtreeRootIdent" local variable.(Ï¼ƒ¼øÿÿÿÿ
-Rsquid:S1481Ÿ"5Remove this unused "subtreeRootIdent" local variable.(Ï¼ƒ¼øÿÿÿÿ
-Rsquid:S1481½"5Remove this unused "subtreeRootIdent" local variable.(Ï¼ƒ¼øÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(ŞÎì†
-hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(‚â¶Üúÿÿÿÿ
-csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(Ò«ä÷
-csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(Ò«ä÷

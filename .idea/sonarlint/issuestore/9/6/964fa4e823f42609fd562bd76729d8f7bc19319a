@@ -1,6 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(¬¼é§üÿÿÿÿ
-hsquid:S001166"PRename this field "m_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÉ€‡
-lsquid:S1201U"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¯¢…Ò
-Qsquid:S1161U":Add the "@Override" annotation above this method signature(¯¢…Ò
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ

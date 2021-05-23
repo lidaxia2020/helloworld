@@ -1,63 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ÙÝ‚Ë
-fsquid:S3973Ø"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
-Š"squid:ClassVariableVisibilityCheck÷"[Make m_primaryReader a static final constant or non-public and provide accessors if needed.(¼ˆ§Š
-Vsquid:S1155·">Use isEmpty() to check whether the collection is empty or not.(¦æº
-|squid:S00116Q"_Rename this field "m_last_pushed_rtfdtm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸóÒýúÿÿÿÿ
-vsquid:S00116a"YRename this field "m_rtfdtm_stack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÎ¤Šýÿÿÿÿ
-vsquid:S00116c"YRename this field "m_which_rtfdtm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±©î ýÿÿÿÿ
-wsquid:S00116l"ZRename this field "m_global_rtfdtm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ú³†ýÿÿÿÿ
-xsquid:S00116u"[Rename this field "m_DTMXRTreeFrags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ûƒèûÿÿÿÿ
-wsquid:S00116}"_Rename this field "m_isSecureProcessing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛŽ
-~squid:S00116"aRename this field "m_useServicesMechanism" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼»ÁŒûÿÿÿÿ
-usquid:S00116‰"WRename this field "m_dtmManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èñÔþÿÿÿÿ
-rsquid:S00116Þ"YRename this field "m_saxLocations" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÍå‹
-ksquid:S00116©"RRename this field "m_owner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žàž—
-{squid:S00116±"bRename this field "m_ownerGetErrorListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŸûŸ
-tsquid:S00116Ë"[Rename this field "m_variableStacks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¡åÖ
-|squid:S00116ñ"^Rename this field "m_sourceTreeManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡÷©»ùÿÿÿÿ
-ssquid:S00116“"ZRename this field "m_errorListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»ì
-ysquid:S00116›"aRename this field "m_defaultErrorListener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òîà_
-vsquid:S00116Õ"XRename this field "m_uriResolver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý´å©øÿÿÿÿ
-ssquid:S00116÷"ZRename this field "m_primaryReader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ˆ§Š
-{squid:S00116¥"]Rename this field "m_contextNodeLists" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖØ‚šúÿÿÿÿ
-wsquid:S00116í"YRename this field "m_currentNodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶“ý¥ýÿÿÿÿ
-xsquid:S00116›"ZRename this field "m_iteratorRoots" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã±•¼ûÿÿÿÿ
-tsquid:S00116ž"[Rename this field "m_predicateRoots" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¶’
-squid:S00116¡"cRename this field "m_currentExpressionNodes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Üß€üÿÿÿÿ
-rsquid:S00116§"YRename this field "m_predicatePos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÀ“…
-usquid:S00116à"\Rename this field "m_prefixResolvers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö£¿
-|squid:S00116±	"^Rename this field "m_axesIteratorStack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ö·°ùÿÿÿÿ
-squid:S1149a"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌÎ¤Šýÿÿÿÿ
-msquid:S1149¥"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÖØ‚šúÿÿÿÿ
-hsquid:S1149§"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(íÕöÂ
-msquid:S1149¨"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Î×Øüÿÿÿÿ
-msquid:S1149±	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”ö·°ùÿÿÿÿ
-msquid:S1149³	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(«µôÿÿÿÿÿ
-hsquid:S1149´	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Þ‰Ç
-^squid:S3878¢"ADisambiguate this call by either casting as "Class" or "Class[]".(×æ¡µÿÿÿÿÿ
-Bsquid:S00108¤")Either remove or fill this block of code.(íåº¦
-8squid:S3878°"Remove this array creation.(È‡ìòÿÿÿÿÿ
-Bsquid:S00108²")Either remove or fill this block of code.(‚Üò
-Ÿ%squid:RedundantThrowsDeclarationCheckÇ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ïÄ·¸
-~squid:S3252Ê"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(»ÿ€ö
-U
-squid:S106×"9Replace this use of System.out or System.err by a logger.(ÑÐáòûÿÿÿÿ
-Fsquid:S1172Œ")Remove this unused method parameter "en".(’øã‰ûÿÿÿÿ
-Asquid:S1172©")Remove this unused method parameter "en".(·¸Ç‘
-Xsquid:S1854ã";Remove this useless assignment to local variable "isEmpty".(œ¯¼‚ÿÿÿÿÿ
-Ssquid:S1854ë";Remove this useless assignment to local variable "isEmpty".(»­§ã
->squid:S2129þ"!Remove this "Integer" constructor(ÇæóÎøÿÿÿÿ
-]squid:CallToDeprecatedMethodþ"/Remove this use of "Integer"; it is deprecated.(ÇæóÎøÿÿÿÿ
->squid:S2129ÿ"!Remove this "Integer" constructor(á­Çîýÿÿÿÿ
-]squid:CallToDeprecatedMethodÿ"/Remove this use of "Integer"; it is deprecated.(á­Çîýÿÿÿÿ
->squid:S2129‚"!Remove this "Integer" constructor(·¼ßœþÿÿÿÿ
-]squid:CallToDeprecatedMethod‚"/Remove this use of "Integer"; it is deprecated.(·¼ßœþÿÿÿÿ
-Isquid:S1481ã",Remove this unused "isEmpty" local variable.(œ¯¼‚ÿÿÿÿÿ
-Dsquid:S1481ë",Remove this unused "isEmpty" local variable.(»­§ã
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-csquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(€ýÕŽ
-hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(Ã´‹Ãûÿÿÿÿ
-csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(»ÿ€ö
-csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.( ¸ãù
-hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(Ãµ¶ºùÿÿÿÿ

@@ -1,25 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-Ksquid:S1066z"/Merge this if statement with the enclosing one.(‹ĞŞñÿÿÿÿÿ
-u
-squid:S135ƒ"YReduce the total number of break and continue statements in this loop to use at most one.(Ø½šÚşÿÿÿÿ
-Psquid:S4973™"9Use the "equals" method if value comparison was intended.(—’Ÿr
-Vsquid:S4973"9Use the "equals" method if value comparison was intended.(•¨ø¨üÿÿÿÿ
-Qsquid:S4973©"9Use the "equals" method if value comparison was intended.(åÕ‡Ò
-jsquid:S00116H"RRename this field "_prefix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•‰ã
-hsquid:S00116I"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›«Æ
-msquid:S00116J"URename this field "_namespace" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îóõ­
-osquid:S00116K"RRename this field "_ignore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕß²ÿÿÿÿÿ
-rsquid:S00116L"URename this field "_isLiteral" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒä³¸ÿÿÿÿÿ
-}squid:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼¥»í
-Vsquid:S1161^":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-isquid:S3776j"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÁØ’›
-Qsquid:S1161j":Add the "@Override" annotation above this method signature(ÁØ’›
-Osquid:S1135¹"2Complete the task associated to this TODO comment.(ÉüÔşÿÿÿÿ
-Osquid:S1135½"2Complete the task associated to this TODO comment.(…µŞ„şÿÿÿÿ
-Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(šíïÿÿÿÿÿ
-jsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(†“‹Ø
-Rsquid:S1161Ş":Add the "@Override" annotation above this method signature(†“‹Ø
-ˆsquid:S3252®"pUse static access with "com.sun.org.apache.xml.internal.serializer.ExtendedContentHandler" for "HTML_ATTREMPTY".(¯ÓØâ
-‹squid:S3252±"nUse static access with "com.sun.org.apache.xml.internal.serializer.ExtendedContentHandler" for "HTML_ATTRURL".(Œ¡Éıÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

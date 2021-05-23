@@ -1,7 +1,0 @@
-
-Msquid:S1191Ş"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
-asquid:S1192³"IDefine a constant instead of duplicating this literal "hostname" 3 times.(Ó“Û“
-_squid:S00112æ"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-esquid:S4201{"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ƒîÆöüÿÿÿÿ
-fsquid:S4201á"IRemove this unnecessary null check; "instanceof" returns false for nulls.(½Õˆ…øÿÿÿÿ
-Wsquid:S1068²":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ

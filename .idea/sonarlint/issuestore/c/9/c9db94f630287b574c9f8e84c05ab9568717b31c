@@ -1,12 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‰å½†ıÿÿÿÿ
-Asquid:S1444f"*Make this "public static comp" field final(—ÑÂ¼
-vsquid:S1488ù"^Immediately return this expression instead of assigning it to the temporary variable "result".(’ƒ‡›
-wsquid:S1488Õ"_Immediately return this expression instead of assigning it to the temporary variable "servant".(É²Œ‹
-~"squid:ClassVariableVisibilityCheckf"PMake comp a static final constant or non-public and provide accessors if needed.(—ÑÂ¼
-osquid:UselessImportCheck7"FRemove this unused import 'com.sun.corba.se.spi.ior.ObjectKeyFactory'.(®®±èùÿÿÿÿ
-Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-isquid:UselessImportCheck4"ERemove this unused import 'com.sun.corba.se.spi.ior.TaggedComponent'.(…àË
-gsquid:UselessImportCheck%"CRemove this unused import 'org.omg.IOP.TAG_ALTERNATE_IIOP_ADDRESS'.(ÃûÃù
-_squid:UnusedPrivateMethod“"9Remove this unused private "IIOPProfileImpl" constructor.(á”Ë°
-Fsquid:S1068r"/Remove this unused "giopVersion" private field.(¥ü”–

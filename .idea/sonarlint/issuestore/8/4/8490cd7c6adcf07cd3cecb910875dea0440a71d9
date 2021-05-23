@@ -1,68 +1,0 @@
-
-Lsquid:S1191:"5Use classes from the Java API instead of Sun classes.(éª‚€
-Lsquid:S1066´
-"/Merge this if statement with the enclosing one.(ý›©úÿÿÿÿ
-Lsquid:S1066Ö"/Merge this if statement with the enclosing one.(÷»ž†øÿÿÿÿ
-Gsquid:S1066í"/Merge this if statement with the enclosing one.(ÂØœ„
-Lsquid:S1066ª"/Merge this if statement with the enclosing one.(Ñ¨†ßûÿÿÿÿ
-Gsquid:S1066±"/Merge this if statement with the enclosing one.(Êêå¢
-Jsquid:S1199”"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-p
-squid:S135ç"YReduce the total number of break and continue statements in this loop to use at most one.(®™­Ø
-Fsquid:S3077".Remove the "volatile" keyword from this field.(â˜ó‡
-Fsquid:S3077ž".Remove the "volatile" keyword from this field.(´ÕÊÜ
-Ksquid:S3077ë".Remove the "volatile" keyword from this field.(ï¹ëÿÿÿÿÿ
-Fsquid:S3077ï".Remove the "volatile" keyword from this field.(°ô‹ä
-Ksquid:S3077š".Remove the "volatile" keyword from this field.(¨ý‹œûÿÿÿÿ
-Ksquid:S3077Ý".Remove the "volatile" keyword from this field.(¿’¯‚øÿÿÿÿ
-Fsquid:S3077÷".Remove the "volatile" keyword from this field.(‡ ’Õ
-Ksquid:S3077¦ ".Remove the "volatile" keyword from this field.(Ñþé‚üÿÿÿÿ
-Fsquid:S3077Ý ".Remove the "volatile" keyword from this field.(ú  Ý
-asquid:S3358¸"DExtract this nested ternary operation into an independent statement.(Æ¤ˆ•ÿÿÿÿÿ
-osquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(û«»‰þÿÿÿÿ
-=squid:S1452¿"&Remove usage of generic wildcard type.(ëÇ…5
->squid:S1452Ÿ"&Remove usage of generic wildcard type.(…ãï¼
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(â˜ó‡
-ksquid:ModifiersOrderCheckž"EReorder the modifiers to comply with the Java Language Specification.(´ÕÊÜ
->squid:S1452’"&Remove usage of generic wildcard type.(ÐÔ„
-=squid:S1452«"&Remove usage of generic wildcard type.(ú£Ô
-Csquid:S1452”	"&Remove usage of generic wildcard type.(¼÷ªòýÿÿÿÿ
-osquid:S3776…
-"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ññìŸúÿÿÿÿ
-psquid:ModifiersOrderCheckÊ
-"EReorder the modifiers to comply with the Java Language Specification.(šˆ°âÿÿÿÿÿ
->squid:S1452î
-"&Remove usage of generic wildcard type.(ÊÆÓã
-=squid:S1452¦"&Remove usage of generic wildcard type.(é®Ï
-isquid:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(é®Ï
-Csquid:S1452ñ"&Remove usage of generic wildcard type.(¯‰šŒüÿÿÿÿ
->squid:S1452"&Remove usage of generic wildcard type.(Â‚âÚ
-Csquid:S1452ž"&Remove usage of generic wildcard type.(½Íþ³ûÿÿÿÿ
->squid:S1452©"&Remove usage of generic wildcard type.(¯“š
->squid:S1452é"&Remove usage of generic wildcard type.(…£ç¦
->squid:S1452û"&Remove usage of generic wildcard type.(æÊ÷ï
->squid:S1452·"&Remove usage of generic wildcard type.(°’ðœ
->squid:S1452¶"&Remove usage of generic wildcard type.(ô¶Ðç
-Fsquid:S3077Ø".Remove the "volatile" keyword from this field.(ÔÏø¤
-Ksquid:S3077Ù".Remove the "volatile" keyword from this field.(„ËÎüÿÿÿÿ
-Dsquid:S3077Ú".Remove the "volatile" keyword from this field.(Æ†
-Ksquid:S3077Û".Remove the "volatile" keyword from this field.(‡¬ÔÍýÿÿÿÿ
-Esquid:S3077Ü".Remove the "volatile" keyword from this field.(ÇÞÍK
-Ksquid:S3077Ý".Remove the "volatile" keyword from this field.(½×€‹ûÿÿÿÿ
-Fsquid:S3077ß".Remove the "volatile" keyword from this field.(´¹£ê
-Ksquid:S3077à".Remove the "volatile" keyword from this field.(ù“ž¬úÿÿÿÿ
-Fsquid:S3077á".Remove the "volatile" keyword from this field.(‰§¤š
-psquid:ModifiersOrderCheckë"EReorder the modifiers to comply with the Java Language Specification.(ï¹ëÿÿÿÿÿ
-ksquid:ModifiersOrderCheckï"EReorder the modifiers to comply with the Java Language Specification.(°ô‹ä
-psquid:ModifiersOrderCheckš"EReorder the modifiers to comply with the Java Language Specification.(¨ý‹œûÿÿÿÿ
-osquid:S3776Þ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÐÆûÛüÿÿÿÿ
-isquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›Š
-U
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(éÃë¡úÿÿÿÿ
-psquid:ModifiersOrderCheckÝ"EReorder the modifiers to comply with the Java Language Specification.(¿’¯‚øÿÿÿÿ
-ksquid:ModifiersOrderCheck÷"EReorder the modifiers to comply with the Java Language Specification.(‡ ’Õ
-Csquid:S1452³"&Remove usage of generic wildcard type.(Íñ»üÿÿÿÿ
-psquid:ModifiersOrderCheck¦ "EReorder the modifiers to comply with the Java Language Specification.(Ñþé‚üÿÿÿÿ
-ksquid:ModifiersOrderCheckÝ "EReorder the modifiers to comply with the Java Language Specification.(ú  Ý
->squid:S1452ç "&Remove usage of generic wildcard type.(®‡Ìá
-hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(“½ýÿÿÿÿ

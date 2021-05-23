@@ -1,16 +1,0 @@
-
-Š squid:ForLoopCounterChangedCheckŞ"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚„¸Õşÿÿÿÿ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ú¹ç²
-hsquid:S1192¤"PDefine a constant instead of duplicating this literal "ISO-10646-UCS-4" 4 times.(ŞØÀ»
-rsquid:S1192í"UDefine a constant instead of duplicating this literal "InvalidCharInContent" 3 times.(÷“‹ƒÿÿÿÿÿ
-fsquid:S1192ê"IDefine a constant instead of duplicating this literal "UTF-16BE" 3 times.(’‘¦ˆùÿÿÿÿ
-fsquid:S1192í"IDefine a constant instead of duplicating this literal "UTF-16LE" 3 times.(³Áñ…ûÿÿÿÿ
-^squid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(ìÜš°
-dsquid:S2259Ô"LA "NullPointerException" could be thrown; "rawContentType" is nullable here.(ØåÒ°
-csquid:S2259½"LA "NullPointerException" could be thrown; "rawContentType" is nullable here.(ŸÙ\
-¢%squid:RedundantThrowsDeclarationCheckg"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(¹£ş
-osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(°•µÓùÿÿÿÿ
-osquid:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ßõ‹úÿÿÿÿ
-osquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(†ıÍñúÿÿÿÿ
-isquid:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(¸„Ûu
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

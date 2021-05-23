@@ -1,7 +1,0 @@
-
-ssquid:S4144ך"[Update this method so that its implementation is not identical to "writeShort" on line 215.(ױפרב
-Psquid:S1197…"8Move the array designator from the variable to the type.(ר°אß
-Rsquid:S1161":Add the "@Override" annotation above this method signature(ז¯וµ
-Psquid:S1197…"8Move the array designator from the variable to the type.(וצÚÙ
-osquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(נ¨‡ִûÿÿÿÿ
-;squid:S1659¾"#Declare "count" on a separate line.(ָ¹׃ק

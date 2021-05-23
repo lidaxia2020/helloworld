@@ -1,54 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(ú¸ÿşÿÿÿÿ
-Lsquid:S1066Ò"/Merge this if statement with the enclosing one.(æ›·Ôûÿÿÿÿ
-u
-squid:S135™"YReduce the total number of break and continue statements in this loop to use at most one.(ÿ™á¯ÿÿÿÿÿ
-u
-squid:S135Æ"YReduce the total number of break and continue statements in this loop to use at most one.(ÑÀêâùÿÿÿÿ
-_squid:UselessImportCheck%";Remove this unused import 'sun.util.calendar.CalendarDate'.(ó•ã¦
-[squid:UselessImportCheck("2Remove this unused import 'sun.util.calendar.Era'.(‰…Òùÿÿÿÿ
-\squid:UselessImportCheck""8Remove this unused import 'java.lang.ref.SoftReference'.(ïÇø½
-Ysquid:UselessImportCheck"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ
-Msquid:S1133ú"5Do not forget to remove this deprecated code someday.(Àà´Æ
-Rsquid:S1133–"5Do not forget to remove this deprecated code someday.(ü‘’åøÿÿÿÿ
-Rsquid:S1133³"5Do not forget to remove this deprecated code someday.(Œ‘º²ÿÿÿÿÿ
-Msquid:S1133Õ"5Do not forget to remove this deprecated code someday.(ªÆù›
-ksquid:S2975ß"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-Bsquid:S00108æ")Either remove or fill this block of code.(Á²ıú
-Rsquid:S1133‰"5Do not forget to remove this deprecated code someday.(Ú‹Äˆûÿÿÿÿ
-lsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‹Äˆûÿÿÿÿ
-Msquid:S1133³"5Do not forget to remove this deprecated code someday.(ëŸù¤
-ksquid:S3776³"SRefactor this method to reduce its Cognitive Complexity from 169 to the 15 allowed.(ëŸù¤
-g squid:LabelsShouldNotBeUsedCheckÁ";Refactor the code to remove this label and the need for it.(Ä¬]
-Isquid:S5261ë"1Add explicit curly braces to avoid dangling else.(Óºã¶
-Nsquid:S5261ó"1Add explicit curly braces to avoid dangling else.(”²¶úÿÿÿÿ
-Nsquid:S5261ú"1Add explicit curly braces to avoid dangling else.(Ä¥²°ıÿÿÿÿ
-Psquid:S1197Ø"8Move the array designator from the variable to the type.(¤ŞËÓ
-ksquid:ModifiersOrderCheckØ"EReorder the modifiers to comply with the Java Language Specification.(¤ŞËÓ
-Usquid:S1197á"8Move the array designator from the variable to the type.(õÖ¥Çÿÿÿÿÿ
-psquid:ModifiersOrderChecká"EReorder the modifiers to comply with the Java Language Specification.(õÖ¥Çÿÿÿÿÿ
-Rsquid:S1133û"5Do not forget to remove this deprecated code someday.(±»—Áùÿÿÿÿ
-Msquid:S1133”"5Do not forget to remove this deprecated code someday.(¾Æòä
-Rsquid:S1133©"5Do not forget to remove this deprecated code someday.(³Éİûÿÿÿÿ
-Rsquid:S1133Ã"5Do not forget to remove this deprecated code someday.(Äú÷„üÿÿÿÿ
-Rsquid:S1133æ"5Do not forget to remove this deprecated code someday.(¤Œó¤úÿÿÿÿ
-Msquid:S1133€"5Do not forget to remove this deprecated code someday.(¶€Õ›
-Rsquid:S1133˜"5Do not forget to remove this deprecated code someday.(Ôö¾œûÿÿÿÿ
-Msquid:S1133®"5Do not forget to remove this deprecated code someday.(ùÅ˜‰
-Rsquid:S1133Ã"5Do not forget to remove this deprecated code someday.(†üÇÀûÿÿÿÿ
-Msquid:S1133Ö"5Do not forget to remove this deprecated code someday.(ìÒê†
-Rsquid:S1133ë"5Do not forget to remove this deprecated code someday.(Îš¢èøÿÿÿÿ
-Rsquid:S1133€"5Do not forget to remove this deprecated code someday.(Ğ™»ßÿÿÿÿÿ
-Msquid:S1133•"5Do not forget to remove this deprecated code someday.(é»Ÿ
-\squid:S3358	"DExtract this nested ternary operation into an independent statement.(Œİå
-Rsquid:S1133
-"5Do not forget to remove this deprecated code someday.(ˆñ»‹ùÿÿÿÿ
-Msquid:S1133Ê
-"5Do not forget to remove this deprecated code someday.(’ÅĞø
-Rsquid:S1133†"5Do not forget to remove this deprecated code someday.(õ„Íìúÿÿÿÿ
-[squid:S3252Ñ">Use static access with "java.util.Calendar" for "MILLISECOND".(‘ê¢Œùÿÿÿÿ
-ksquid:ModifiersOrderCheck”"EReorder the modifiers to comply with the Java Language Specification.(ÉÄ”
-Csquid:S1481º"+Remove this unused "millis" local variable.(±¨­
-?squid:S1481¾"(Remove this unused "wst" local variable.(¢Ñ«Y
-hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(Ãîó¾ÿÿÿÿÿ
-csquid:CommentedOutCodeLineá	"<This block of commented-out lines of code should be removed.(Ûõ­ú

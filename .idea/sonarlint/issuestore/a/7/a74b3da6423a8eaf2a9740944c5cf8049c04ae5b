@@ -1,42 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
-msquid:S1192œ"PDefine a constant instead of duplicating this literal "output == null!" 3 times.(çŸâŞùÿÿÿÿ
-Vsquid:S00107ê"=Method has 13 parameters, which is greater than 7 authorized.(Û¹»
-Vsquid:S00107Š"=Method has 10 parameters, which is greater than 7 authorized.(šû¬Ô
-Zsquid:S00107İ"<Method has 9 parameters, which is greater than 7 authorized.(•ŒíÈşÿÿÿÿ
-Usquid:S00107›
-"<Method has 8 parameters, which is greater than 7 authorized.(Çñ“·
-fsquid:UselessImportCheck1"=Remove this unused import 'javax.imageio.spi.ImageWriterSpi'.(®„·íøÿÿÿÿ
-^squid:UselessImportCheck&":Remove this unused import 'java.awt.image.WritableRaster'.(Üï€
-U
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(Çí‚­øÿÿÿÿ
-Rsquid:S1161°":Add the "@Override" annotation above this method signature(±ßÆÎ
-jsquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ù÷ïÿ
-Rsquid:S2209“"5Change this instance-reference to a static reference.(ÿÊ…£ûÿÿÿÿ
-Wsquid:S1161š":Add the "@Override" annotation above this method signature(ŞèØåşÿÿÿÿ
-Wsquid:S1161Û":Add the "@Override" annotation above this method signature(ºšõ×ÿÿÿÿÿ
-Wsquid:S1161ß":Add the "@Override" annotation above this method signature(çşÄÃÿÿÿÿÿ
-Rsquid:S1161õ":Add the "@Override" annotation above this method signature(¡ÀØ”
-Wsquid:S1161‡":Add the "@Override" annotation above this method signature(‹·® ûÿÿÿÿ
-Rsquid:S1161°":Add the "@Override" annotation above this method signature(ÈÔ—ù
-jsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(›Ô…¸
-osquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(íÄâøÿÿÿÿ
-[squid:S1854¡">Remove this useless assignment to local variable "colorModel".(€•³‰üÿÿÿÿ
-asquid:S3358ß"DExtract this nested ternary operation into an independent statement.(–¡™ÿÿÿÿÿ
-P
-squid:S106ï"9Replace this use of System.out or System.err by a logger.(¤àé¸
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(Š™±ÿÿÿÿÿ
-osquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¼İÿ±ùÿÿÿÿ
-]squid:S1854«"@Remove this useless assignment to local variable "sourceHeight".(ñõ¶Éúÿÿÿÿ
-U
-squid:S106Ş"9Replace this use of System.out or System.err by a logger.(’ëÄÖıÿÿÿÿ
-U
-squid:S106¹"9Replace this use of System.out or System.err by a logger.(øş…Îûÿÿÿÿ
-Rsquid:S1161Û
-":Add the "@Override" annotation above this method signature(•ÿŒÆ
-Bsquid:S1481¤"*Remove this unused "param" local variable.(ÕñÜ
-Lsquid:S1481¡"/Remove this unused "colorModel" local variable.(€•³‰üÿÿÿÿ
-Nsquid:S1481«"1Remove this unused "sourceHeight" local variable.(ñõ¶Éúÿÿÿÿ
-hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(¿¸¿ğüÿÿÿÿ
-hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(–’ŠÜûÿÿÿÿ

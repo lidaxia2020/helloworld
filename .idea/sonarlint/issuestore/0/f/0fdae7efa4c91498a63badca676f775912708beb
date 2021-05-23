@@ -1,11 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÐµŒëþÿÿÿÿ
-Ksquid:S1066q"/Merge this if statement with the enclosing one.(”àø­øÿÿÿÿ
-jsquid:S001012"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“Ž´Úýÿÿÿÿ
-Vsquid:UselessImportCheck"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
-psquid:UselessImportCheck+"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ORBConstants'.(Ëó’œýÿÿÿÿ
-rsquid:UselessImportCheck$"ORemove this unused import 'org.omg.PortableServer.POAPackage.ServantNotActive'.(ÖŠÏ 
-nsquid:UselessImportCheck*"ERemove this unused import 'com.sun.corba.se.impl.orbutil.ORBUtility'.(×˜´ùþÿÿÿÿ
-|squid:UselessImportCheck&"SRemove this unused import 'org.omg.PortableServer.POAPackage.ServantAlreadyActive'.(è”ÁÓûÿÿÿÿ
-vsquid:UselessImportCheck%"RRemove this unused import 'org.omg.PortableServer.POAPackage.ObjectAlreadyActive'.(ÜÔ±ç
-rsquid:UselessImportCheck)"NRemove this unused import 'com.sun.corba.se.impl.orbutil.concurrent.SyncUtil'.(ÂŠ¨‹

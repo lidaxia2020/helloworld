@@ -1,34 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(ÿÈş×
-fsquid:S1192š"NDefine a constant instead of duplicating this literal "indent-amount" 4 times.(‘×ÊÏ
-tsquid:S1192"WDefine a constant instead of duplicating this literal "cdata-section-elements" 5 times.(¨öû¿ıÿÿÿÿ
-Gsquid:S1066Ê"/Merge this if statement with the enclosing one.(´˜™Ä
-psquid:S00116F"SRename this field "_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ëßâÿÿÿÿÿ
-isquid:S00116G"RRename this field "_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¾…
-qsquid:S00116H"TRename this field "_encoding" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åœ«ªúÿÿÿÿ
-nsquid:S00116I"VRename this field "_omitHeader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›ş¨
-ssquid:S00116J"VRename this field "_standalone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×â×óüÿÿÿÿ
-qsquid:S00116K"YRename this field "_doctypePublic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Šò
-vsquid:S00116L"YRename this field "_doctypeSystem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğïëúûÿÿÿÿ
-nsquid:S00116M"QRename this field "_cdata" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤å–¹ûÿÿÿÿ
-jsquid:S00116N"RRename this field "_indent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¼ï¾
-rsquid:S00116O"URename this field "_mediaType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¡×üûÿÿÿÿ
-psquid:S00116P"XRename this field "_indentamount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÆ¢Ó
-qsquid:S00116S"TRename this field "_disabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢–Â›øÿÿÿÿ
-|squid:S1149Œ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰³ùöıÿÿÿÿ
-Nsquid:S1135B"2Complete the task associated to this TODO comment.(‡¡ò­ÿÿÿÿÿ
-jsquid:ModifiersOrderCheckV"EReorder the modifiers to comply with the Java Language Specification.(‡¼–œ
-jsquid:ModifiersOrderCheckW"EReorder the modifiers to comply with the Java Language Specification.(•ºïŸ
-jsquid:ModifiersOrderCheckX"EReorder the modifiers to comply with the Java Language Specification.(äùµ»
-Vsquid:S1161`":Add the "@Override" annotation above this method signature(¡ƒ¯ÿÿÿÿÿ
-jsquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ÁØ’›
-Wsquid:S1854×":Remove this useless assignment to local variable "writer".(‹˜Ú¥şÿÿÿÿ
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(ÁØ’›
-Psquid:UselessParenthesesCheckÆ"!Remove these useless parentheses.(›³ÙÅıÿÿÿÿ
-Nsquid:S2692Æ"10 is a valid index, but is ignored by this check.(›³ÙÅıÿÿÿÿ
-csquid:S3027Æ"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(›³ÙÅıÿÿÿÿ
-U
-squid:S106Ø"9Replace this use of System.out or System.err by a logger.(¥»¤Áıÿÿÿÿ
-Rsquid:S1161Ú":Add the "@Override" annotation above this method signature(†“‹Ø
-Hsquid:S1481×"+Remove this unused "writer" local variable.(‹˜Ú¥şÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

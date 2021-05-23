@@ -1,8 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ò¡Ã1
-~squid:S1488u"gImmediately return this expression instead of assigning it to the temporary variable "messageMediator".(éŽœÕ
-^squid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(ÓØ•ô
-tsquid:UselessImportCheck-"KRemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputStream'.(ÁÐ˜Úÿÿÿÿÿ
-tsquid:UselessImportCheck,"KRemove this unused import 'com.sun.corba.se.impl.encoding.CDROutputObject'.(Àä­®øÿÿÿÿ
-Rsquid:S2696|"6Make the enclosing method "static" or remove this set.(¬èÑôüÿÿÿÿ
-bsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(¦±¬¤

@@ -1,10 +1,0 @@
-
-=squid:S30778"&Use an "AtomicReferenceArray" instead.(­âÉ²
-psquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼î‡
-[squid:HiddenFieldCheckB"9Rename "table" which hides the field declared at line 56.(²Ğ‚£
-usquid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ‡×ôüÿÿÿÿ
-nsquid:S3776p"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(†“Æâÿÿÿÿÿ
-Ksquid:S3077µ".Remove the "volatile" keyword from this field.(äõë’şÿÿÿÿ
-Esquid:S3077¶".Remove the "volatile" keyword from this field.(˜Ú6
-Dsquid:S2387¶"-"next" is the name of a field in "Reference".(˜Ú6
-Esquid:S2388À"(Prefix this call to "get" with "super.".(…‚¥İøÿÿÿÿ

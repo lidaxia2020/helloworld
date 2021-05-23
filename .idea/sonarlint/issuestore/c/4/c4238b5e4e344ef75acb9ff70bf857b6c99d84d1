@@ -1,19 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŞÄÿá
-jsquid:S1192®"MDefine a constant instead of duplicating this literal "updateResult" 3 times.(³ƒ÷Ãÿÿÿÿÿ
-dsquid:S1192¼"LDefine a constant instead of duplicating this literal "findVarBind" 8 times.(½ô
-p
-squid:S135¢"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸
-u
-squid:S135Æ"YReduce the total number of break and continue statements in this loop to use at most one.(œŒº ıÿÿÿÿ
-^squid:S00107>"AConstructor has 8 parameters, which is greater than 7 authorized.(Ä×¯–ùÿÿÿÿ
-hsquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†‹
-hsquid:S00117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†‹
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†‹
-osquid:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ê“ğˆúÿÿÿÿ
-Tsquid:S1854·"7Remove this useless assignment to local variable "val".(ŞĞœ€ùÿÿÿÿ
-jsquid:S3776š"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ª¹±
-Fsquid:S1125¥")Remove the literal "false" boolean value.(œÙ„Ñúÿÿÿÿ
-Fsquid:S1125Ê")Remove the literal "false" boolean value.(œÙ„Ñúÿÿÿÿ
-Esquid:S1481·"(Remove this unused "val" local variable.(ŞĞœ€ùÿÿÿÿ
-csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(íÒ«

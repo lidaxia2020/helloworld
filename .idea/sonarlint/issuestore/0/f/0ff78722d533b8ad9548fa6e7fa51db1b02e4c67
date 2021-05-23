@@ -1,20 +1,0 @@
-
-Qsquid:S1191""5Use classes from the Java API instead of Sun classes.(«ª§Ûüÿÿÿÿ
-lsquid:S1192Œ"ODefine a constant instead of duplicating this literal "    skipping: " 3 times.(‘şúôúÿÿÿÿ
-csquid:S1192’"FDefine a constant instead of duplicating this literal "08001" 3 times.(ÕµŞéüÿÿÿÿ
-Esquid:S1604Æ"(Make this anonymous inner class a lambda(±¾£šıÿÿÿÿ
-?squid:S1604Ó"(Make this anonymous inner class a lambda(ÆŞÖ
-Esquid:S3077w".Remove the "volatile" keyword from this field.(®û±Æ
-Esquid:S3077x".Remove the "volatile" keyword from this field.(ÆÖ€£
-‚squid:S1149©"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(£‹áøûÿÿÿÿ
-jsquid:ModifiersOrderChecku"EReorder the modifiers to comply with the Java Language Specification.(“ĞŸ§
-jsquid:ModifiersOrderCheckz"EReorder the modifiers to comply with the Java Language Specification.(–áøÉ
-psquid:ModifiersOrderCheck•"EReorder the modifiers to comply with the Java Language Specification.(Š½üíüÿÿÿÿ
-ksquid:ModifiersOrderCheck¡"EReorder the modifiers to comply with the Java Language Specification.(©´Á
-¥%squid:RedundantThrowsDeclarationCheckÃ"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¿‡ïÿÿÿÿÿ
-Rsquid:S1133÷"5Do not forget to remove this deprecated code someday.(“–Õùøÿÿÿÿ
-Msquid:S1133’"5Do not forget to remove this deprecated code someday.(Ì–ˆ¢
-Rsquid:S1854º":Remove this useless assignment to local variable "result".(ˆáŒƒ
-@squid:S1125½"(Remove the literal "true" boolean value.(Ô£Ú
-Bsquid:S1181ï"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
-isquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(˜ÁS

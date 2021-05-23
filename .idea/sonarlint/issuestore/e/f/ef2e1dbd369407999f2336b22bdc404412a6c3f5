@@ -1,14 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÎÚ¶…øÿÿÿÿ
-rsquid:S1149$"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(µó«Šúÿÿÿÿ
-rsquid:S1149&"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(«ü™Žüÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheck<"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckG"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckT"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckb"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheckp"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-£%squid:RedundantThrowsDeclarationCheck~"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckŒ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckš"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck¨"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckµ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ËÚžèøÿÿÿÿ

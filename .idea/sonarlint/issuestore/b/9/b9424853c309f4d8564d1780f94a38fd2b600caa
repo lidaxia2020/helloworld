@@ -1,11 +1,0 @@
-
-gsquid:S1192ê"ODefine a constant instead of duplicating this literal "bitIndex < 0: " 4 times.(™ÈÞ¶
-msquid:S1192Ô"PDefine a constant instead of duplicating this literal "fromIndex < 0: " 3 times.(¥÷Úüÿÿÿÿ
-u
-squid:S135£"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
-jsquid:ModifiersOrderCheckX"EReorder the modifiers to comply with the Java Language Specification.(™æ—È
-isquid:ModifiersOrderCheckY"EReorder the modifiers to comply with the Java Language Specification.(ì˜¯F
-jsquid:ModifiersOrderCheckZ"EReorder the modifiers to comply with the Java Language Specification.(ÇÁËë
-ksquid:S2975°
-"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
-Vsquid:S1068h":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ

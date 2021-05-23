@@ -1,7 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š²÷ùÿÿÿÿ
-lsquid:S3038‚"O"accept" is defined in the "Node" interface and can be removed from this class.(Âö¤›úÿÿÿÿ
-Gsquid:S00108¡")Either remove or fill this block of code.(³›åùşÿÿÿÿ
-ksquid:S2975¦"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
-Â%squid:RedundantThrowsDeclarationCheck³"ŠRemove the declaration of thrown exception 'com.sun.org.apache.bcel.internal.classfile.ClassFormatException' which is a runtime exception.(éõÕ—ıÿÿÿÿ
-gsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(®¢ú úÿÿÿÿ

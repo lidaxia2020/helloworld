@@ -1,117 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŞÄÿá
-fsquid:S1192¢"IDefine a constant instead of duplicating this literal "trapOid=" 5 times.(Àƒª şÿÿÿÿ
-ssquid:S1192Í"VDefine a constant instead of duplicating this literal "Trap pdu is too big. " 6 times.(óª±Çÿÿÿÿÿ
-isquid:S1192Í"LDefine a constant instead of duplicating this literal "sendTrapPdu" 6 times.(óª±Çÿÿÿÿÿ
-dsquid:S1192˜"LDefine a constant instead of duplicating this literal ", specific=" 3 times.(Û¬åë
-hsquid:S1192—"KDefine a constant instead of duplicating this literal "snmpV1Trap" 3 times.(ãÔïŸùÿÿÿÿ
-fsquid:S1192—"IDefine a constant instead of duplicating this literal "generic=" 3 times.(ãÔïŸùÿÿÿÿ
-hsquid:S1192¢"KDefine a constant instead of duplicating this literal "snmpV2Trap" 3 times.(Àƒª şÿÿÿÿ
-[squid:S00107æ"=Method has 11 parameters, which is greater than 7 authorized.(¼üİùÿÿÿÿ
-Usquid:S00107³"<Method has 8 parameters, which is greater than 7 authorized.(ïá‰Ê
-Zsquid:S00107÷"<Method has 9 parameters, which is greater than 7 authorized.(»ªÑ³ıÿÿÿÿ
-rsquid:S1450"URemove the "packet" field and declare it as a local variable in the relevant methods.(Ù«Ïªøÿÿÿÿ
-™squid:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î¬—ä
-˜squid:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÔÃ,
-xsquid:S00115¶"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€×çøÿÿÿÿ
-}squid:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ö­íá
-}squid:S1149ë"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(…Úò¬
-}squid:S1149Å"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼¯Óö
-@squid:S1185¢"(Remove this method to simply inherit it.(¤¯
-@squid:S1185²"(Remove this method to simply inherit it.(Ôèô
-Esquid:S1185Â"(Remove this method to simply inherit it.(ïùàÖÿÿÿÿÿ
-¡%squid:RedundantThrowsDeclarationCheckÕ"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ÿìÁôûÿÿÿÿ
-Esquid:S1185Ô"(Remove this method to simply inherit it.(şòÍúÿÿÿÿ
->squid:S2129ô"!Remove this "Integer" constructor(ÚÙ†íùÿÿÿÿ
-]squid:CallToDeprecatedMethodô"/Remove this use of "Integer"; it is deprecated.(ÚÙ†íùÿÿÿÿ
-9squid:S2129Ò"!Remove this "Integer" constructor(üµÀ
-Xsquid:CallToDeprecatedMethodÒ"/Remove this use of "Integer"; it is deprecated.(üµÀ
-¡%squid:RedundantThrowsDeclarationCheckå"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ÿìÁôûÿÿÿÿ
-psquid:ModifiersOrderCheckø"EReorder the modifiers to comply with the Java Language Specification.(·…Àøÿÿÿÿ
-csquid:S2886ø"FSynchronize this method to match the synchronization on "setMaxTries".(·…Àøÿÿÿÿ
-psquid:ModifiersOrderCheck†"EReorder the modifiers to comply with the Java Language Specification.(Öœ€òşÿÿÿÿ
-psquid:ModifiersOrderCheck–"EReorder the modifiers to comply with the Java Language Specification.(‘Í”Ÿøÿÿÿÿ
-bsquid:S2886–"ESynchronize this method to match the synchronization on "setTimeout".(‘Í”Ÿøÿÿÿÿ
-ksquid:ModifiersOrderCheck£"EReorder the modifiers to comply with the Java Language Specification.(¾úÅŞ
-¤%squid:RedundantThrowsDeclarationCheckÔ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¶ ıµøÿÿÿÿ
-6squid:S2129ú"Remove this "Long" constructor(´Á¾—
-Usquid:CallToDeprecatedMethodú",Remove this use of "Long"; it is deprecated.(´Á¾—
-;squid:S2129ˆ	"Remove this "Long" constructor(°êŞ·ûÿÿÿÿ
-Zsquid:CallToDeprecatedMethodˆ	",Remove this use of "Long"; it is deprecated.(°êŞ·ûÿÿÿÿ
-;squid:S2129–	"Remove this "Long" constructor(Î£àŒşÿÿÿÿ
-Zsquid:CallToDeprecatedMethod–	",Remove this use of "Long"; it is deprecated.(Î£àŒşÿÿÿÿ
-;squid:S2129¤	"Remove this "Long" constructor(…‡ÅÄıÿÿÿÿ
-Zsquid:CallToDeprecatedMethod¤	",Remove this use of "Long"; it is deprecated.(…‡ÅÄıÿÿÿÿ
-;squid:S2129²	"Remove this "Long" constructor(•ÆÌÿúÿÿÿÿ
-Zsquid:CallToDeprecatedMethod²	",Remove this use of "Long"; it is deprecated.(•ÆÌÿúÿÿÿÿ
-6squid:S2129À	"Remove this "Long" constructor(¹‡÷Œ
-Usquid:CallToDeprecatedMethodÀ	",Remove this use of "Long"; it is deprecated.(¹‡÷Œ
-;squid:S2129Î	"Remove this "Long" constructor(©¥ñùûÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÎ	",Remove this use of "Long"; it is deprecated.(©¥ñùûÿÿÿÿ
-;squid:S2129Ü	"Remove this "Long" constructor(–Áàòüÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÜ	",Remove this use of "Long"; it is deprecated.(–Áàòüÿÿÿÿ
-;squid:S2129ë	"Remove this "Long" constructor(†Ê³§şÿÿÿÿ
-Zsquid:CallToDeprecatedMethodë	",Remove this use of "Long"; it is deprecated.(†Ê³§şÿÿÿÿ
-;squid:S2129ù	"Remove this "Long" constructor(ìªáøÿÿÿÿ
-Zsquid:CallToDeprecatedMethodù	",Remove this use of "Long"; it is deprecated.(ìªáøÿÿÿÿ
-6squid:S2129‡
-"Remove this "Long" constructor(êª¢Ø
-Usquid:CallToDeprecatedMethod‡
-",Remove this use of "Long"; it is deprecated.(êª¢Ø
-;squid:S2129•
-"Remove this "Long" constructor(Èö›ùÿÿÿÿ
-Zsquid:CallToDeprecatedMethod•
-",Remove this use of "Long"; it is deprecated.(Èö›ùÿÿÿÿ
-;squid:S2129£
-"Remove this "Long" constructor(‡”Š›ıÿÿÿÿ
-Zsquid:CallToDeprecatedMethod£
-",Remove this use of "Long"; it is deprecated.(‡”Š›ıÿÿÿÿ
-;squid:S2129±
-"Remove this "Long" constructor(×ìÇÿøÿÿÿÿ
-Zsquid:CallToDeprecatedMethod±
-",Remove this use of "Long"; it is deprecated.(×ìÇÿøÿÿÿÿ
-;squid:S2129¿
-"Remove this "Long" constructor(˜Àšüÿÿÿÿ
-Zsquid:CallToDeprecatedMethod¿
-",Remove this use of "Long"; it is deprecated.(˜Àšüÿÿÿÿ
-;squid:S2129Í
-"Remove this "Long" constructor(†‚Ëçúÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÍ
-",Remove this use of "Long"; it is deprecated.(†‚Ëçúÿÿÿÿ
-;squid:S2129Û
-"Remove this "Long" constructor(àÈ³Àıÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÛ
-",Remove this use of "Long"; it is deprecated.(àÈ³Àıÿÿÿÿ
-5squid:S2129ì
-"Remove this "Long" constructor(éƒÜ=
-Tsquid:CallToDeprecatedMethodì
-",Remove this use of "Long"; it is deprecated.(éƒÜ=
-;squid:S2129ı
-"Remove this "Long" constructor(Şöùÿÿÿÿ
-Zsquid:CallToDeprecatedMethodı
-",Remove this use of "Long"; it is deprecated.(Şöùÿÿÿÿ
-Esquid:S1185±"(Remove this method to simply inherit it.(Ï¸¢°şÿÿÿÿ
-?squid:S1185¼"(Remove this method to simply inherit it.(Şò§
-Esquid:S1185Ç"(Remove this method to simply inherit it.(ÿ½’ùÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckÚ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckı"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheck£"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-¤%squid:RedundantThrowsDeclarationCheckÂ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
-Jsquid:S1172æ"-Remove this unused method parameter "server".(¼üİùÿÿÿÿ
-Bsquid:S1181ñ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
-osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»ªÑ³ıÿÿÿÿ
-;squid:S2153²"#Remove the unboxing from "Integer".(ïÆƒÍ
-jsquid:S3776½"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(õ‰±¶
-asquid:S1134Ñ"DTake the required action to fix the issue indicated by this comment.(êÇª°ıÿÿÿÿ
-^squid:S2147ı"FCombine this catch with the one at line 2679, which has the same body.(´ú§â
-asquid:S1134¢"DTake the required action to fix the issue indicated by this comment.(êÇª°ıÿÿÿÿ
-csquid:HiddenFieldCheckÃ";Rename "packet" which hides the field declared at line 257.(ù›Ô•úÿÿÿÿ
-¡%squid:RedundantThrowsDeclarationCheck§"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(·†‚ıÿÿÿÿ
-¡%squid:RedundantThrowsDeclarationCheckˆ"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(·†‚ıÿÿÿÿ
-¡%squid:RedundantThrowsDeclarationCheckÅ"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(·†‚ıÿÿÿÿ
-¡%squid:RedundantThrowsDeclarationChecké"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(·†‚ıÿÿÿÿ
->squid:S2165Å"&Remove this nullification of "socket".(Œ±—–
-a"squid:ObjectFinalizeOverridenCheckÁ"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
-Q"squid:SwitchLastCaseIsDefaultCheckŠ""Add a default case to this switch.( Ï‘
-Esquid:S1125ä"(Remove the literal "true" boolean value.(‹íêªùÿÿÿÿ
-fsquid:UnusedPrivateMethodû";Remove this unused private "SnmpAdaptorServer" constructor.(×û“ûÿÿÿÿ

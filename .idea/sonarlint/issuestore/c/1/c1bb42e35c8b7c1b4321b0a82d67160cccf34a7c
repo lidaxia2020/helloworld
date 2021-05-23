@@ -1,8 +1,0 @@
-
-Lsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ›ÇÀ
-jsquid:S00116?"RRename this field "m_qname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≠úûÎ
-hsquid:S00116c"PRename this field "m_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»©«≤
-psquid:S00116ö"WRename this field "m_expression" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˙“¥á
-usquid:S00116√"\Rename this field "m_isFromWithParam" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÙù”
-osquid:S00116€"VRename this field "m_isVisible" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–·ﬂ•
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÕõÅ∏˝ˇˇˇˇ

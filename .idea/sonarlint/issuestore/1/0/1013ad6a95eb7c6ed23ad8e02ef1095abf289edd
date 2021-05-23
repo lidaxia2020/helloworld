@@ -1,28 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¨’¯À
-^squid:S1192f"GDefine a constant instead of duplicating this literal "value" 12 times.(×¸ş
-osquid:S1192°"WDefine a constant instead of duplicating this literal "Metadata is read-only!" 4 times.(ØŸ»¾
-"squid:ClassVariableVisibilityCheck,"SMake version a static final constant or non-public and provide accessors if needed.(Ş¾««
-Œ"squid:ClassVariableVisibilityCheck-"^Make logicalScreenWidth a static final constant or non-public and provide accessors if needed.(ÁµÕ
-Œ"squid:ClassVariableVisibilityCheck."_Make logicalScreenHeight a static final constant or non-public and provide accessors if needed.(İ‚ÈK
-"squid:ClassVariableVisibilityCheck/"[Make colorResolution a static final constant or non-public and provide accessors if needed.(Ø’Ÿÿÿÿÿÿ
-Š"squid:ClassVariableVisibilityCheck0"\Make pixelAspectRatio a static final constant or non-public and provide accessors if needed.(ñ¤Õ«
-“"squid:ClassVariableVisibilityCheck2"`Make backgroundColorIndex a static final constant or non-public and provide accessors if needed.(‹´Ò¿øÿÿÿÿ
-‚"squid:ClassVariableVisibilityCheck3"TMake sortFlag a static final constant or non-public and provide accessors if needed.( ±Á¬
-Š"squid:ClassVariableVisibilityCheck:"\Make globalColorTable a static final constant or non-public and provide accessors if needed.(ÆÅø­
-jsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŒ™Û
-osquid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÇÌ›úÿÿÿÿ
-osquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÅµÇüÿÿÿÿ
-osquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß³™úÿÿÿÿ
-osquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğ€Ñıÿÿÿÿ
-_squid:S2387("C"nativeMetadataFormatName" is the name of a field in "IIOMetadata".(¹£Ûıÿÿÿÿ
-wsquid:S00115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹£Ûıÿÿÿÿ
-Isquid:S1135""2Complete the task associated to this TODO comment.(œÙ£û
-Wsquid:S1161›":Add the "@Override" annotation above this method signature(ƒ•Ğ”ıÿÿÿÿ
-Rsquid:S1161Ä":Add the "@Override" annotation above this method signature(ªÙ“¹
-Wsquid:S1161Ö":Add the "@Override" annotation above this method signature(ŠôïÇùÿÿÿÿ
-Rsquid:S1161ì":Add the "@Override" annotation above this method signature(¿ÌÆ­
-Wsquid:S1161”":Add the "@Override" annotation above this method signature(”Â÷òüÿÿÿÿ
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(ú´ëÄúÿÿÿÿ
-Qsquid:S1161¨":Add the "@Override" annotation above this method signature(ÿû·,
-Wsquid:S1161­":Add the "@Override" annotation above this method signature(ù„Àºüÿÿÿÿ

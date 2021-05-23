@@ -1,39 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Å°ò£øÿÿÿÿ
-Isquid:S1199,"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Isquid:S1199D"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Isquid:S1199\"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Isquid:S1199m"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸Ô»ÿÿÿÿÿ
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ã½¨
-isquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÒ¼
-isquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¿í‰
-isquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£§‡
-isquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëãèô
-nsquid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşõáûÿÿÿÿ
-nsquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×òêŸøÿÿÿÿ
-nsquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ô‡¦øÿÿÿÿ
-isquid:S00117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Îã‹
-nsquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üşõáûÿÿÿÿ
-nsquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×òêŸøÿÿÿÿ
-isquid:S00117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖí³
-isquid:S00117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëãèô
-isquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÖí³
-isquid:S00117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëãèô
-osquid:S3008"SRename this field "_methods" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÉñ¯øÿÿÿÿ
-hsquid:S3008„"PRename this field "__ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŸˆ™
-rsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(µÉñ¯øÿÿÿÿ
-=squid:S2129"!Remove this "Integer" constructor(Åíë­üÿÿÿÿ
-\squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(Åíë­üÿÿÿÿ
-8squid:S2129"!Remove this "Integer" constructor(ì…®õ
-Wsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(ì…®õ
-7squid:S2129"!Remove this "Integer" constructor(¿„Õb
-Vsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(¿„Õb
-=squid:S2129"!Remove this "Integer" constructor(É¥ëíıÿÿÿÿ
-\squid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(É¥ëíıÿÿÿÿ
-isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸ã½¨
-Rsquid:S1854_";Remove this useless assignment to local variable "$result".(ÀÖí³
-Rsquid:S1854q";Remove this useless assignment to local variable "$result".(ÀÖí³
-=squid:S1905_"&Remove this unnecessary cast to "int".(ÀÖí³
-=squid:S1905q"&Remove this unnecessary cast to "int".(ÀÖí³
-Hsquid:S1905‰"+Remove this unnecessary cast to "String[]".(È«çéúÿÿÿÿ

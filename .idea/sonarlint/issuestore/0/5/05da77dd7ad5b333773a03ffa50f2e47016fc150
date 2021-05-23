@@ -1,18 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬Ô«ûÿÿÿÿ
-fsquid:S3014Û"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".( ÖàŠıÿÿÿÿ
-fsquid:S3014Ü"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(•±Ìûûÿÿÿÿ
-p
-squid:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
-Rsquid:S1141Æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Hsquid:S2065"0Remove the "transient" modifier from this field.(ŞÛğå
-Esquid:S3077y".Remove the "volatile" keyword from this field.(ûàÎä
-ksquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ŞÛğå
-Ysquid:S2094˜"BRemove this empty class, write its code or make it an "interface".(Åµ™9
-jsquid:ModifiersOrderCheck˜"EReorder the modifiers to comply with the Java Language Specification.(Åµ™9
-Fsquid:EmptyStatementUsageCheck˜"Remove this empty statement.(Åµ™9
-Rsquid:S1161¯":Add the "@Override" annotation above this method signature(“–ış
-csquid:S2142É"FEither re-interrupt this method or rethrow the "InterruptedException".(ÅáÄÛøÿÿÿÿ
-Bsquid:S00108È")Either remove or fill this block of code.(¹é…
-Gsquid:S00108É")Either remove or fill this block of code.(ÅáÄÛøÿÿÿÿ
-gsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(¦“Á ûÿÿÿÿ

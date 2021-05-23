@@ -1,24 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‹µ›äûÿÿÿÿ
-ssquid:S1192—"VDefine a constant instead of duplicating this literal "Internal Error: type=" 6 times.(•Ú‡¸şÿÿÿÿ
-dsquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(•Ú‡¸şÿÿÿÿ
-dsquid:S00112š"FDefine and throw a dedicated exception instead of using a generic one.(•Ú‡¸şÿÿÿÿ
-dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(•Ú‡¸şÿÿÿÿ
-dsquid:S00112¡"FDefine and throw a dedicated exception instead of using a generic one.(•Ú‡¸şÿÿÿÿ
-dsquid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(•Ú‡¸şÿÿÿÿ
-dsquid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(•Ú‡¸şÿÿÿÿ
-‚squid:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡ºÁìûÿÿÿÿ
-Qsquid:S3400”"9Remove this method and declare a constant for this value.(”·³›
-Rsquid:S1161±":Add the "@Override" annotation above this method signature(ÿŸÆ¦
-‚squid:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡ºÁìûÿÿÿÿ
-Wsquid:S1161À":Add the "@Override" annotation above this method signature(£Óà¥üÿÿÿÿ
-Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(—€”üÿÿÿÿ
-Wsquid:S1161Ñ":Add the "@Override" annotation above this method signature(óÕï‚ùÿÿÿÿ
-Rsquid:S1161Ş":Add the "@Override" annotation above this method signature(ÿŸÆ¦
-Wsquid:S1161á":Add the "@Override" annotation above this method signature(’âã®ùÿÿÿÿ
-Rsquid:S1161ì":Add the "@Override" annotation above this method signature(ÈÑôñ
-¸squid:S1845ò"ŸRename field "string" to prevent any misunderstanding/clash with field "STRING" defined in superclass "com.sun.org.apache.xerces.internal.impl.xpath.regex.Op".(°û×Õ
-Rsquid:S1161÷":Add the "@Override" annotation above this method signature(¯ÚºÉ
-½squid:S1845ş"¥Rename field "condition" to prevent any misunderstanding/clash with field "CONDITION" defined in superclass "com.sun.org.apache.xerces.internal.impl.xpath.regex.Op".(â±÷7
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-gsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(‹»˜çúÿÿÿÿ

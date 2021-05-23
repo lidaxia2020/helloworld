@@ -1,18 +1,0 @@
-
-Msquid:S1191Œ"5Use classes from the Java API instead of Sun classes.(¾¯Œ÷
-_squid:S00112•"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
-\squid:UselessImportCheck/"3Remove this unused import 'java.util.NavigableMap'.(õ Ì§ûÿÿÿÿ
-msquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
-xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­Âİçúÿÿÿÿ
-@squid:S1948ˆ"#Make "m" transient or serializable.(âÓ¯Õúÿÿÿÿ
-vsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(â˜î²ÿÿÿÿÿ
-vsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(»œöÂûÿÿÿÿ
-vsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(â˜î²ÿÿÿÿÿ
-qsquid:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã¦Ú
-psquid:S2975Ş"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(è…–äùÿÿÿÿ
-bsquid:S2147˜"ECombine this catch with the one at line 406, which has the same body.(Ü–›×øÿÿÿÿ
-qsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÌûİ
-vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö”Ñøÿÿÿÿ
-vsquid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÖ¤…ùÿÿÿÿ
-qsquid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(É“¶È
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ

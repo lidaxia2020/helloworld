@@ -1,22 +1,0 @@
-
-Lsquid:S1191&"5Use classes from the Java API instead of Sun classes.(õ‹½
-p
-squid:S135ë"YReduce the total number of break and continue statements in this loop to use at most one.(¨µ„«
-^squid:S2259ı"FA "NullPointerException" could be thrown; "lastline" is nullable here.(Şù‰ç
-]squid:UselessImportCheck"4Remove this unused import 'java.io.DataInputStream'.(”•úºÿÿÿÿÿ
-[squid:UselessImportCheck$"2Remove this unused import 'java.util.AbstractSet'.(Ñ®Ğ’üÿÿÿÿ
-+squid:S1700¸"Rename field "name"(Ë¥¼
-ksquid:S2975Š"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-`squid:S1182Š"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
-Vsquid:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8( ×Õ¡şÿÿÿÿ
-Wsquid:CallToDeprecatedMethod ".Remove this use of "String"; it is deprecated.(ªœ·œ
-Vsquid:S4719Ò"9Replace charset name argument with StandardCharsets.UTF_8( ×Õ¡şÿÿÿÿ
-Wsquid:CallToDeprecatedMethodÓ".Remove this use of "String"; it is deprecated.(ªœ·œ
-jsquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(·õì·
-;squid:S1659ç"#Declare "value" on a separate line.(Ä´¢®
-Vsquid:S4719„"9Replace charset name argument with StandardCharsets.UTF_8(‡ãßÆÿÿÿÿÿ
-Vsquid:CallToDeprecatedMethod".Remove this use of "String"; it is deprecated.(£—§w
-Vsquid:S4719•"9Replace charset name argument with StandardCharsets.UTF_8(ä”Éêşÿÿÿÿ
-Rsquid:S1133"5Do not forget to remove this deprecated code someday.(ÃñÑúÿÿÿÿ
-Msquid:S1133´"5Do not forget to remove this deprecated code someday.(ÔöÎÖ
-Rsquid:S1133Ã"5Do not forget to remove this deprecated code someday.(ÂıÍÍùÿÿÿÿ

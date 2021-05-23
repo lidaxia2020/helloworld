@@ -1,21 +1,0 @@
-
-`squid:S2184Ü"CCast one of the operands of this subtraction operation to a "long".(ËïíÙıÿÿÿÿ
-[squid:S2184å"CCast one of the operands of this subtraction operation to a "long".(üÄÛ
-fsquid:S1192Õ"NDefine a constant instead of duplicating this literal "Stream closed" 3 times.(Ã¯ûå
-usquid:S3008>"^Rename this field "DEFAULT_BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ˆ¡ï
-psquid:S3008I"ZRename this field "MAX_BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§óD
-Bsquid:S3077S"&Use an "AtomicReferenceArray" instead.(•‘Š·ûÿÿÿÿ
-Tsquid:S1197S"8Move the array designator from the variable to the type.(•‘Š·ûÿÿÿÿ
-isquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ä—˜9
-Hsquid:S5261¥"1Add explicit curly braces to avoid dangling else.(ù»ìs
-Usquid:S1197¯"8Move the array designator from the variable to the type.(ØŒÄ ûÿÿÿÿ
-Rsquid:S1161Ñ":Add the "@Override" annotation above this method signature(ê†§Ş
-Wsquid:S1161±":Add the "@Override" annotation above this method signature(çúšóûÿÿÿÿ
-Usquid:S1197±"8Move the array designator from the variable to the type.(çúšóûÿÿÿÿ
-Wsquid:S1161×":Add the "@Override" annotation above this method signature(ÃºŞüÿÿÿÿ
-Wsquid:S1161‡":Add the "@Override" annotation above this method signature(°‡Ÿ©ÿÿÿÿÿ
-Wsquid:S1161›":Add the "@Override" annotation above this method signature(Èı……øÿÿÿÿ
-Rsquid:S1161·":Add the "@Override" annotation above this method signature(Ñ®ÏÔ
-Rsquid:S1161Î":Add the "@Override" annotation above this method signature(ª©ˆ›
-Wsquid:S1161ß":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
-csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(•…

@@ -1,26 +1,0 @@
-
-… squid:ForLoopCounterChangedCheckö"XRefactor the code in order to not assign to this loop counter from within the loop body.(œ–±‹
-… squid:ForLoopCounterChangedCheck‘"XRefactor the code in order to not assign to this loop counter from within the loop body.(œ–±‹
-Š squid:ForLoopCounterChangedCheckÐ"XRefactor the code in order to not assign to this loop counter from within the loop body.(µË·©úÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡‚©ðüÿÿÿÿ
-Š squid:ForLoopCounterChangedCheck†"XRefactor the code in order to not assign to this loop counter from within the loop body.(œºÞ¸ýÿÿÿÿ
-Rsquid:S1191×"5Use classes from the Java API instead of Sun classes.(´ è¸ÿÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckø".Extract the assignment out of this expression.(éßÀýÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck’".Extract the assignment out of this expression.(éßÀýÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckš".Extract the assignment out of this expression.(ß¦Ú·ýÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheck›".Extract the assignment out of this expression.(ÂÕ©Ý
-_squid:S00112ß"FDefine and throw a dedicated exception instead of using a generic one.(Âðð
-}squid:S1845Ø"fRename field "PENDING" to prevent any misunderstanding/clash with field "pending" defined on line 527.(Ýñƒw
-Csquid:S1452"&Remove usage of generic wildcard type.(Å®œûÿÿÿÿ
-Gsquid:S00108Ô")Either remove or fill this block of code.(ãÅøÑýÿÿÿÿ
->squid:S1452ã"&Remove usage of generic wildcard type.(ˆ‰Ìú
-7squid:S1659ä"Declare "p" on a separate line.(Òß‡¸
-7squid:S1659ô"Declare "s" on a separate line.(©Îåü
-Msquid:S1854"5Remove this useless assignment to local variable "s".(©Îåü
-7squid:S1659"Declare "s" on a separate line.(©Îåü
-Rsquid:S1161´":Add the "@Override" annotation above this method signature(Î¯ðê
-Csquid:S1452Î"&Remove usage of generic wildcard type.(îÓÀþÿÿÿÿ
->squid:S1452ì"&Remove usage of generic wildcard type.(½¤â£
-=squid:S1659˜" Declare "wt" on a separate line.(ì€Âÿùÿÿÿÿ
-Rsquid:S1161¨":Add the "@Override" annotation above this method signature(«ÜÑ–
-7squid:S1659©"Declare "s" on a separate line.(©Îåü

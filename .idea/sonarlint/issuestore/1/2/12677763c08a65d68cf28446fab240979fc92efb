@@ -1,91 +1,0 @@
-
-Ksquid:S1191$"5Use classes from the Java API instead of Sun classes.(²É“
-msquid:UselessImportCheck&"IRemove this unused import 'com.sun.org.apache.xpath.internal.Expression'.(ºÿ²Ö
-nsquid:S3008¥"VRename this field "m_functions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù”Ú
-tsquid:S3008¨"WRename this field "m_functionID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ì¤Žüÿÿÿÿ
-žsquid:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾‰–Óüÿÿÿÿ
-}squid:S00116°"_Rename this field "m_functions_customer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ØÐùÿÿÿÿ
-~squid:S00116¸"`Rename this field "m_functionID_customer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ ñŽþÿÿÿÿ
-wsquid:S00116Ñ"^Rename this field "m_funcNextFreeIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Å‘¬
-Psquid:S1197¥"8Move the array designator from the variable to the type.(Ù”Ú
-Usquid:S1197°"8Move the array designator from the variable to the type.(‰ØÐùÿÿÿÿ
-9squid:S2129Ž"!Remove this "Integer" constructor(®¸Þ‰
-Xsquid:CallToDeprecatedMethodŽ"/Remove this use of "Integer"; it is deprecated.(®¸Þ‰
-9squid:S2129"!Remove this "Integer" constructor(´±ô·
-Xsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(´±ô·
->squid:S2129’"!Remove this "Integer" constructor(°ëŠ¹þÿÿÿÿ
-]squid:CallToDeprecatedMethod’"/Remove this use of "Integer"; it is deprecated.(°ëŠ¹þÿÿÿÿ
-9squid:S2129”"!Remove this "Integer" constructor(ÃÈº–
-Xsquid:CallToDeprecatedMethod”"/Remove this use of "Integer"; it is deprecated.(ÃÈº–
->squid:S2129–"!Remove this "Integer" constructor(¦Óöüÿÿÿÿ
-]squid:CallToDeprecatedMethod–"/Remove this use of "Integer"; it is deprecated.(¦Óöüÿÿÿÿ
-9squid:S2129˜"!Remove this "Integer" constructor(Õ–»¼
-Xsquid:CallToDeprecatedMethod˜"/Remove this use of "Integer"; it is deprecated.(Õ–»¼
-9squid:S2129š"!Remove this "Integer" constructor(ŽðÑð
-Xsquid:CallToDeprecatedMethodš"/Remove this use of "Integer"; it is deprecated.(ŽðÑð
-9squid:S2129œ"!Remove this "Integer" constructor(èÀ½ö
-Xsquid:CallToDeprecatedMethodœ"/Remove this use of "Integer"; it is deprecated.(èÀ½ö
->squid:S2129ž"!Remove this "Integer" constructor(çÍ†–ûÿÿÿÿ
-]squid:CallToDeprecatedMethodž"/Remove this use of "Integer"; it is deprecated.(çÍ†–ûÿÿÿÿ
-9squid:S2129 "!Remove this "Integer" constructor(áå¡µ
-Xsquid:CallToDeprecatedMethod "/Remove this use of "Integer"; it is deprecated.(áå¡µ
-9squid:S2129¢"!Remove this "Integer" constructor(çÓ„€
-Xsquid:CallToDeprecatedMethod¢"/Remove this use of "Integer"; it is deprecated.(çÓ„€
->squid:S2129¤"!Remove this "Integer" constructor(ÄÅæ·ÿÿÿÿÿ
-]squid:CallToDeprecatedMethod¤"/Remove this use of "Integer"; it is deprecated.(ÄÅæ·ÿÿÿÿÿ
-9squid:S2129¦"!Remove this "Integer" constructor(¡ú¦
-Xsquid:CallToDeprecatedMethod¦"/Remove this use of "Integer"; it is deprecated.(¡ú¦
-9squid:S2129¨"!Remove this "Integer" constructor(ÁÊ¡ú
-Xsquid:CallToDeprecatedMethod¨"/Remove this use of "Integer"; it is deprecated.(ÁÊ¡ú
-9squid:S2129ª"!Remove this "Integer" constructor(ûÛßž
-Xsquid:CallToDeprecatedMethodª"/Remove this use of "Integer"; it is deprecated.(ûÛßž
-9squid:S2129¬"!Remove this "Integer" constructor(ŠŠÆ§
-Xsquid:CallToDeprecatedMethod¬"/Remove this use of "Integer"; it is deprecated.(ŠŠÆ§
-9squid:S2129®"!Remove this "Integer" constructor(ß§ô·
-Xsquid:CallToDeprecatedMethod®"/Remove this use of "Integer"; it is deprecated.(ß§ô·
-9squid:S2129°"!Remove this "Integer" constructor(—îÏÅ
-Xsquid:CallToDeprecatedMethod°"/Remove this use of "Integer"; it is deprecated.(—îÏÅ
->squid:S2129²"!Remove this "Integer" constructor(Í€¾òúÿÿÿÿ
-]squid:CallToDeprecatedMethod²"/Remove this use of "Integer"; it is deprecated.(Í€¾òúÿÿÿÿ
-9squid:S2129´"!Remove this "Integer" constructor(¿ Þ²
-Xsquid:CallToDeprecatedMethod´"/Remove this use of "Integer"; it is deprecated.(¿ Þ²
-9squid:S2129¶"!Remove this "Integer" constructor(ãù¾
-Xsquid:CallToDeprecatedMethod¶"/Remove this use of "Integer"; it is deprecated.(ãù¾
->squid:S2129¸"!Remove this "Integer" constructor(€—Ãîúÿÿÿÿ
-]squid:CallToDeprecatedMethod¸"/Remove this use of "Integer"; it is deprecated.(€—Ãîúÿÿÿÿ
->squid:S2129º"!Remove this "Integer" constructor(Êå—Ñÿÿÿÿÿ
-]squid:CallToDeprecatedMethodº"/Remove this use of "Integer"; it is deprecated.(Êå—Ñÿÿÿÿÿ
-8squid:S2129¼"!Remove this "Integer" constructor(–Žž
-Wsquid:CallToDeprecatedMethod¼"/Remove this use of "Integer"; it is deprecated.(–Žž
->squid:S2129¾"!Remove this "Integer" constructor(”Á¢‰ÿÿÿÿÿ
-]squid:CallToDeprecatedMethod¾"/Remove this use of "Integer"; it is deprecated.(”Á¢‰ÿÿÿÿÿ
->squid:S2129À"!Remove this "Integer" constructor(öî‹³ûÿÿÿÿ
-]squid:CallToDeprecatedMethodÀ"/Remove this use of "Integer"; it is deprecated.(öî‹³ûÿÿÿÿ
-9squid:S2129Â"!Remove this "Integer" constructor(“ö€˜
-Xsquid:CallToDeprecatedMethodÂ"/Remove this use of "Integer"; it is deprecated.(“ö€˜
-9squid:S2129Ä"!Remove this "Integer" constructor(í¦ë¶
-Xsquid:CallToDeprecatedMethodÄ"/Remove this use of "Integer"; it is deprecated.(í¦ë¶
->squid:S2129Æ"!Remove this "Integer" constructor(Íÿï³þÿÿÿÿ
-]squid:CallToDeprecatedMethodÆ"/Remove this use of "Integer"; it is deprecated.(Íÿï³þÿÿÿÿ
->squid:S2129È"!Remove this "Integer" constructor(©‘ÕÝûÿÿÿÿ
-]squid:CallToDeprecatedMethodÈ"/Remove this use of "Integer"; it is deprecated.(©‘ÕÝûÿÿÿÿ
->squid:S2129Ê"!Remove this "Integer" constructor(ìØÉµûÿÿÿÿ
-]squid:CallToDeprecatedMethodÊ"/Remove this use of "Integer"; it is deprecated.(ìØÉµûÿÿÿÿ
->squid:S2129Ì"!Remove this "Integer" constructor(î·Óýÿÿÿÿ
-]squid:CallToDeprecatedMethodÌ"/Remove this use of "Integer"; it is deprecated.(î·Óýÿÿÿÿ
->squid:S2129Î"!Remove this "Integer" constructor(îÎä™ÿÿÿÿÿ
-]squid:CallToDeprecatedMethodÎ"/Remove this use of "Integer"; it is deprecated.(îÎä™ÿÿÿÿÿ
->squid:S2129Ð"!Remove this "Integer" constructor(õñðžøÿÿÿÿ
-]squid:CallToDeprecatedMethodÐ"/Remove this use of "Integer"; it is deprecated.(õñðžøÿÿÿÿ
->squid:S2129Ò"!Remove this "Integer" constructor(þÕÛâûÿÿÿÿ
-]squid:CallToDeprecatedMethodÒ"/Remove this use of "Integer"; it is deprecated.(þÕÛâûÿÿÿÿ
-]squid:S2147ÿ"ECombine this catch with the one at line 381, which has the same body.(¨¦Š½
-\squid:CallToDeprecatedMethodù"3Remove this use of "newInstance"; it is deprecated.(žèÆ
-\squid:CallToDeprecatedMethodü"3Remove this use of "newInstance"; it is deprecated.(¹âÉ
-9squid:S2129«"!Remove this "Integer" constructor(“è¯í
-Xsquid:CallToDeprecatedMethod«"/Remove this use of "Integer"; it is deprecated.(“è¯í
->squid:S2129¶"!Remove this "Integer" constructor(ë×æËþÿÿÿÿ
-]squid:CallToDeprecatedMethod¶"/Remove this use of "Integer"; it is deprecated.(ë×æËþÿÿÿÿ
-@squid:S1125Ë"(Remove the literal "true" boolean value.(×ç²à
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
-hsquid:CommentedOutCodeLineÝ"<This block of commented-out lines of code should be removed.(à¦ò ÿÿÿÿÿ

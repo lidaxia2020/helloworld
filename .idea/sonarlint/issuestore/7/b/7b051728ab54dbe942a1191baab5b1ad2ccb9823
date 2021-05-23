@@ -1,13 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ÍÞÁ
-jsquid:UselessImportCheck "GRemove this unused import 'javax.swing.plaf.basic.BasicButtonListener'.(ö§ÄG
-esquid:MaximumInheritanceDepth2"<This class has 6 parents which is greater than 5 authorized.(ˆÅø
-?squid:S11726"(Remove this unused method parameter "b".(àË”
-Vsquid:S1161:":Add the "@Override" annotation above this method signature(Ó‰Ï”üÿÿÿÿ
-Vsquid:S1161@":Add the "@Override" annotation above this method signature(ä¯¨‚ýÿÿÿÿ
-Dsquid:S1172E"(Remove this unused method parameter "c".(ûà›øÿÿÿÿ
-Vsquid:S1161P":Add the "@Override" annotation above this method signature(öÐçÓøÿÿÿÿ
-˜squid:S1186V"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÞÉô
-˜squid:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
-˜squid:S1186i"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
-squid:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»‰¥åþÿÿÿÿ

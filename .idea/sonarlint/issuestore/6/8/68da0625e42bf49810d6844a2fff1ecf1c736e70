@@ -1,17 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(áüƒøÿÿÿÿ
-Qsquid:S1141m"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-`squid:UselessImportCheck!"<Remove this unused import 'javax.xml.stream.XMLEventWriter'.(ê ›ï
-Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
-Vsquid:S1161L":Add the "@Override" annotation above this method signature(Ÿ®…ëşÿÿÿÿ
-Qsquid:S1161U":Add the "@Override" annotation above this method signature(¶ÌÑ±
-nsquid:S3776e"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(èÂá­ıÿÿÿÿ
-Vsquid:S1161e":Add the "@Override" annotation above this method signature(èÂá­ıÿÿÿÿ
-Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(àİ³ÿıÿÿÿÿ
-Rsquid:S1161â":Add the "@Override" annotation above this method signature(ó›İŒ
-Wsquid:S1161ñ":Add the "@Override" annotation above this method signature(Ğòšøÿÿÿÿ
-Rsquid:S1161…":Add the "@Override" annotation above this method signature(¨ŸŠ‰
-Rsquid:S1161•":Add the "@Override" annotation above this method signature(³•–¤
-Rsquid:S1161¥":Add the "@Override" annotation above this method signature(ï±´
-csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(˜ƒü
-hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(¸¢€¨şÿÿÿÿ

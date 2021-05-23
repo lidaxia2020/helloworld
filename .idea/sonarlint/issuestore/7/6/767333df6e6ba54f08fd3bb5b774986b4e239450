@@ -1,16 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ŠÊÙßşÿÿÿÿ
-Vsquid:S4973—"9Use the "equals" method if value comparison was intended.(Ÿ“¾…ûÿÿÿÿ
-Xsquid:S2259«"@A "NullPointerException" could be thrown; "gs" is nullable here.(²ç
-Bsquid:S2160N"+Override the "equals" method in this class.(ÁÉ‘ğ
-‚squid:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌéÃçúÿÿÿÿ
-jsquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(÷«ãã
->squid:S1659¡"!Declare "sg2" on a separate line.(çÈ’Ïûÿÿÿÿ
-<squid:S1659£"Declare "j" on a separate line.(Æ™‚ùÿÿÿÿ
-<squid:S1659£"Declare "k" on a separate line.(Æ™‚ùÿÿÿÿ
-lsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸĞíÎşÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÖ""Add a default case to this switch.(Í’¤úÿÿÿÿ
-osquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(â·èàÿÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck©""Add a default case to this switch.(Í’¤úÿÿÿÿ
-bsquid:UnusedPrivateMethodÜ"7Remove this unused private "buildSubGroups_Org" method.(ŸĞíÎşÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

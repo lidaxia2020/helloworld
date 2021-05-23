@@ -1,28 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-msquid:S1192é"PDefine a constant instead of duplicating this literal "CheckBox.shadow" 3 times.(§Û¤Ëıÿÿÿÿ
-{squid:S1488¬"^Immediately return this expression instead of assigning it to the temporary variable "height".( œêöùÿÿÿÿ
-Vsquid:S4973Ô"9Use the "equals" method if value comparison was intended.(ìà±Ïÿÿÿÿÿ
-Qsquid:S4973Ö"9Use the "equals" method if value comparison was intended.(µ¶ı
-Qsquid:S4973Ø"9Use the "equals" method if value comparison was intended.(ÂÅâ¥
-Qsquid:S4973Ú"9Use the "equals" method if value comparison was intended.(ı¼Ùó
-qsquid:S3008@"ZRename this field "frame_closeIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¯ê¶
-xsquid:S3008A"\Rename this field "frame_iconifyIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À˜ñüÿÿÿÿ
-osquid:S3008B"XRename this field "frame_maxIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À–Îä
-tsquid:S3008C"XRename this field "frame_minIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İêÌ–şÿÿÿÿ
-rsquid:S3008D"[Rename this field "frame_resizeIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èõÚú
-osquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(‘Æˆ‡şÿÿÿÿ
-Lsquid:EmptyStatementUsageCheckÄ"Remove this empty statement.(ôŸìúÿÿÿÿ
-xsquid:S00115È"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œûªşÿÿÿÿ
-psquid:ModifiersOrderCheckÈ"EReorder the modifiers to comply with the Java Language Specification.(Œûªşÿÿÿÿ
-jsquid:S3776É"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(»€ıÎ
-jsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(»€ıÎ
-Vsquid:S1854Æ"9Remove this useless assignment to local variable "model".(Úğ¿ñıÿÿÿÿ
-Esquid:S1125Ç"(Remove the literal "true" boolean value.(†Àøÿÿÿÿ
-Esquid:S4274¥"(Replace this assert with a proper check.(ë¢úüùÿÿÿÿ
-jsquid:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(»€ıÎ
-Bsquid:S1481Â"*Remove this unused "index" local variable.(ìüà·
-Gsquid:S1481Æ"*Remove this unused "model" local variable.(Úğ¿ñıÿÿÿÿ
-Gsquid:S3398Ä"/Move this method into "VistaMenuItemCheckIcon".(ÔˆŸÚ
-hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(‰ƒçøÿÿÿÿÿ
-hsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(‰ƒçøÿÿÿÿÿ

@@ -1,27 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(© ±ºûÿÿÿÿ
-Lsquid:S1066÷"/Merge this if statement with the enclosing one.(óĞÅšÿÿÿÿÿ
-ssquid:S00116C"[Rename this field "m_fixUpWasCalled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õà¤†
-osquid:S00116I"RRename this field "m_qname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»©¯ãıÿÿÿÿ
-jsquid:S00116S"RRename this field "m_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬æÛ“
-nsquid:S00116’"URename this field "m_isGlobal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÄÉÀ
-}squid:S1149¢"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë’îê
-Ssquid:S1854¥"6Remove this useless assignment to local variable "sz".(½Ü¥§øÿÿÿÿ
-ƒsquid:S3252¼"fUse static access with "com.sun.org.apache.xpath.internal.res.XPATHMessages" for "createXPATHMessage".(€ôÇıÿÿÿÿ
-`squid:S1854‹"CRemove this useless assignment to local variable "xprefixResolver".(“€¼ûÿÿÿÿ
-Rsquid:S1161‰":Add the "@Override" annotation above this method signature(®ƒÓÈ
-Wsquid:S1161›":Add the "@Override" annotation above this method signature(–æä½ûÿÿÿÿ
-Xsquid:S1126Ù"AReplace this if-then-else statement by a single return statement.(şû
-Dsquid:S1481¥"'Remove this unused "sz" local variable.(½Ü¥§øÿÿÿÿ
-Qsquid:S1481‹"4Remove this unused "xprefixResolver" local variable.(“€¼ûÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
-hsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(–©óÑüÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íİğıÿÿÿÿ
-csquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(îÃ³
-csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ÀÚÛ
-hsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-csquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(Ú°à¬
-csquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(Ú°à¬
-hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
-csquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(¡ÛÜÎ
-hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(úÃ¦¶úÿÿÿÿ

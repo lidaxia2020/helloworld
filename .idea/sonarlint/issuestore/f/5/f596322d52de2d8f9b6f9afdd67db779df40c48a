@@ -1,18 +1,0 @@
-
-Qsquid:S1191 "5Use classes from the Java API instead of Sun classes.(¬Ô«ûÿÿÿÿ
-[squid:S2583Ó"CChange this condition so that it does not always evaluate to "true"(ü¯¦Û
-Ksquid:UselessImportCheck""(Remove this unused import 'sun.misc.VM'.(«‹ú3
-Vsquid:UselessImportCheck "-Remove this unused import 'sun.misc.Cleaner'.(¬Ô«ûÿÿÿÿ
-Psquid:UselessImportCheck!",Remove this unused import 'sun.misc.Unsafe'.(éª‚€
-Wsquid:UselessImportCheck"3Remove this unused import 'java.io.FileDescriptor'.(Ş…º†
-Wsquid:S1161Ï":Add the "@Override" annotation above this method signature(óÓï‰şÿÿÿÿ
-Rsquid:S1161Ù":Add the "@Override" annotation above this method signature(‡€Ó÷
-Wsquid:S1161â":Add the "@Override" annotation above this method signature(Å®¿Şøÿÿÿÿ
-Wsquid:S1161¨":Add the "@Override" annotation above this method signature(Úèı¬ùÿÿÿÿ
-Rsquid:S1161±":Add the "@Override" annotation above this method signature(Ğ‹ô½
-Qsquid:S1161º":Add the "@Override" annotation above this method signature(æç¥v
-Rsquid:S1161ã":Add the "@Override" annotation above this method signature(‡áïı
-Rsquid:S1161€":Add the "@Override" annotation above this method signature(¡¢“¬
-Wsquid:S1161‘":Add the "@Override" annotation above this method signature(ë ¸Îøÿÿÿÿ
-Rsquid:S1161•":Add the "@Override" annotation above this method signature(ã³¦
-Rsquid:S1161Ç":Add the "@Override" annotation above this method signature(“ÀìÎ

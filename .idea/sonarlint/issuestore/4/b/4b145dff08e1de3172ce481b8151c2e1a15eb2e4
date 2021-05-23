@@ -1,14 +1,0 @@
-
-osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á…õÁøÿÿÿÿ
-ssquid:S2177J"WRename this method; there is a "private" method in the parent class with the same name.(‘®‡Ìûÿÿÿÿ
-Rsquid:S1161Š":Add the "@Override" annotation above this method signature(˜´·
-Wsquid:S1161¤":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ
-ksquid:ModifiersOrderCheck²"EReorder the modifiers to comply with the Java Language Specification.(Øú™¤
-ksquid:ModifiersOrderCheckº"EReorder the modifiers to comply with the Java Language Specification.(÷õ
-psquid:ModifiersOrderCheck»"EReorder the modifiers to comply with the Java Language Specification.(÷ª˜çşÿÿÿÿ
-psquid:ModifiersOrderCheck¼"EReorder the modifiers to comply with the Java Language Specification.(ù«¦¬şÿÿÿÿ
-ksquid:ModifiersOrderCheck½"EReorder the modifiers to comply with the Java Language Specification.(†Ğ¡
-psquid:ModifiersOrderCheck¾"EReorder the modifiers to comply with the Java Language Specification.(£¥÷¡øÿÿÿÿ
-squid:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àô£çúÿÿÿÿ
-Wsquid:S1161„":Add the "@Override" annotation above this method signature(àô£çúÿÿÿÿ
-Asquid:S1068º")Remove this unused "FTEXT" private field.(÷õ

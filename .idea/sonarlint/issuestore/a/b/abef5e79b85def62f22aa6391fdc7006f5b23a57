@@ -1,17 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-Vsquid:S4973é"9Use the "equals" method if value comparison was intended.(Å«‡Úøÿÿÿÿ
-Qsquid:S1161M":Add the "@Override" annotation above this method signature(ğŒË
-Qsquid:S1161S":Add the "@Override" annotation above this method signature(ç¨Î§
-Vsquid:S1161b":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
-Qsquid:S1161g":Add the "@Override" annotation above this method signature(ãÆĞÂ
-Wsquid:S1161…":Add the "@Override" annotation above this method signature(¢­øÿÿÿÿ
-Zsquid:S3252ˆ"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(©™Åa
-Rsquid:S1161›":Add the "@Override" annotation above this method signature(éø–±
-Wsquid:S1161£":Add the "@Override" annotation above this method signature(äí–¬úÿÿÿÿ
-Rsquid:S1161«":Add the "@Override" annotation above this method signature(Ú¬éŸ
-Rsquid:S1161³":Add the "@Override" annotation above this method signature(Ÿ£ÕŒ
-Rsquid:S1161¼":Add the "@Override" annotation above this method signature(³Š…´
-Wsquid:S1161Õ":Add the "@Override" annotation above this method signature(ó‚Õµøÿÿÿÿ
-Zsquid:S3252ä"CUse static access with "javax.swing.SwingConstants" for "VERTICAL".(©™Åa
-asquid:S3358í"DExtract this nested ternary operation into an independent statement.(³‡’áıÿÿÿÿ

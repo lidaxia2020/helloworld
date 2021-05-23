@@ -1,6 +1,0 @@
-
-Lsquid:S1191#"5Use classes from the Java API instead of Sun classes.(Êùô
-Lsquid:S1066ê"/Merge this if statement with the enclosing one.(Íšóÿÿÿÿÿ
-Esquid:S1604³"(Make this anonymous inner class a lambda(ŒØô´şÿÿÿÿ
-osquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(½ú­úÿÿÿÿ
-Zsquid:S2094"BRemove this empty class, write its code or make it an "interface".(‡‹É

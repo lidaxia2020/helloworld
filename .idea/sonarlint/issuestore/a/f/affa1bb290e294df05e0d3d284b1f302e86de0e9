@@ -1,90 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(‡Ó²íùÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÜ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckş".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¡".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck½".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckä".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck€".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck¾".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckØ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckğ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck„".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck˜".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheck®".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-d$squid:AssignmentInSubExpressionCheckÀ".Extract the assignment out of this expression.(İæöıüÿÿÿÿ
-_$squid:AssignmentInSubExpressionCheckÎ
-".Extract the assignment out of this expression.(ÂÊâö
-hsquid:S1301µ"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
-hsquid:S1301Ç"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
-u
-squid:S135±"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
-Tsquid:S2589ã"7Remove this expression which always evaluates to "true"(Ÿ¦ıÿÿÿÿ
-dsquid:S00112ò
-"FDefine and throw a dedicated exception instead of using a generic one.(ŸÛÈÆüÿÿÿÿ
-jsquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎÎ™
-jsquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜøŒŞ
-osquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‡”Ùùÿÿÿÿ
-jsquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àˆº´
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ó²íùÿÿÿÿ
-:squid:S2386Ù
-"Make this member "protected".(éŸì¯ÿÿÿÿÿ
-:squid:S2386â
-"Make this member "protected".(¼Íîüÿÿÿÿ
-psquid:S00116ë
-"WRename this field "input_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¢à
-isquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(¼š‘Ğ
-fsquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼š‘Ğ
-lsquid:S00100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü–Ğ²üÿÿÿÿ
-fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡Ä
-gsquid:S00100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¢õ§
-gsquid:S00100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áıŠÉ
-lsquid:S00100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ñ©ùÿÿÿÿ
-Psquid:UselessParenthesesCheckÜ"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-lsquid:S00100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ïä·ùÿÿÿÿ
-Psquid:UselessParenthesesCheckş"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-lsquid:S00100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é•Õ¨ûÿÿÿÿ
-Psquid:UselessParenthesesCheck¡"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-lsquid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¼Öàúÿÿÿÿ
-Psquid:UselessParenthesesCheck½"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-lsquid:S00100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¦‚úÿÿÿÿ
-Psquid:UselessParenthesesCheckä"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-lsquid:S00100ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÀ««ûÿÿÿÿ
-Psquid:UselessParenthesesCheck€"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ĞÉ€
-Psquid:UselessParenthesesCheck "!Remove these useless parentheses.(İæöıüÿÿÿÿ
-lsquid:S00100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ìö÷üÿÿÿÿ
-Psquid:UselessParenthesesCheck¾"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-lsquid:S00100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¦€Åşÿÿÿÿ
-Psquid:UselessParenthesesCheckØ"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-gsquid:S00100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùé„¶
-Psquid:UselessParenthesesCheckğ"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-gsquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¸ø£
-Psquid:UselessParenthesesCheck„"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-gsquid:S00100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£á Ç
-Psquid:UselessParenthesesCheck˜"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-gsquid:S00100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íæ¼
-Psquid:UselessParenthesesCheck®"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-gsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë—«„
-Psquid:UselessParenthesesCheckÀ"!Remove these useless parentheses.(İæöıüÿÿÿÿ
-psquid:S3776ó"SRefactor this method to reduce its Cognitive Complexity from 836 to the 15 allowed.(ôÄà®şÿÿÿÿ
-lsquid:S00100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄà®şÿÿÿÿ
-?squid:S1659ú""Declare "kind" on a separate line.(ø€Â¤ıÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck‚";Refactor the code to remove this label and the need for it.(Ÿ£µ™
-1squid:S1065‚"Remove this unused label.(Ÿ£µ™
-_squid:S1479„"BReduce the number of non-empty switch cases from 49 to at most 30.(±Ø¹Ìúÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckâ";Refactor the code to remove this label and the need for it.(Ÿ£µ™
-1squid:S1065â"Remove this unused label.(Ÿ£µ™
-h squid:LabelsShouldNotBeUsedCheck³
-";Refactor the code to remove this label and the need for it.(Ÿ£µ™
-1squid:S1065³
-"Remove this unused label.(Ÿ£µ™
-gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘ºà
-osquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ù¿©Œúÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheck°";Refactor the code to remove this label and the need for it.(œÈ‹ã
-Lsquid:S1481õ"/Remove this unused "nextStates" local variable.(¼¶òúÿÿÿÿ
-Csquid:S1481ú"&Remove this unused "j" local variable.(ø€Â¤ıÿÿÿÿ
-Fsquid:S1481«")Remove this unused "kind" local variable.(Øî©¬úÿÿÿÿ
-Nsquid:S1481¬"1Remove this unused "specialToken" local variable.(Œ£Î¼şÿÿÿÿ
-asquid:UnusedPrivateMethodë"6Remove this unused private "jjCheckNAddStates" method.(ÜÇ˜µÿÿÿÿÿ

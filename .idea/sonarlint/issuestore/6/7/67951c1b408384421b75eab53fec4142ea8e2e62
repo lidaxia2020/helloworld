@@ -1,19 +1,0 @@
-
-Lsquid:S1191%"5Use classes from the Java API instead of Sun classes.(Î»±·
-{squid:S4165Ÿ"dRemove this useless assignment; "retval" already holds the assigned value along all execution paths.(º»–
-t
-squid:S135J"YReduce the total number of break and continue statements in this loop to use at most one.(ÕÈñúÿÿÿÿ
-Zsquid:S1155`">Use isEmpty() to check whether the collection is empty or not.(ƒíÇÂùÿÿÿÿ
-nsquid:S3776D"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ñ´ıÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı¸áÔ
-P
-squid:S106“"9Replace this use of System.out or System.err by a logger.(é™ˆÚ
-U
-squid:S106•"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Ÿ%squid:RedundantThrowsDeclarationCheck­"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(“¸¯˜
-@squid:S2129¸"#Remove this "Character" constructor(¹ÿØÍùÿÿÿÿ
-_squid:CallToDeprecatedMethod¸"1Remove this use of "Character"; it is deprecated.(¹ÿØÍùÿÿÿÿ
-@squid:S2129½"#Remove this "Character" constructor(¹ÿØÍùÿÿÿÿ
-_squid:CallToDeprecatedMethod½"1Remove this use of "Character"; it is deprecated.(¹ÿØÍùÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

@@ -1,8 +1,0 @@
-
-Bsquid:S1181†"%Catch Exception instead of Throwable.(€çØıÿÿÿÿÿ
-Bsquid:S1181‰"%Catch Exception instead of Throwable.(ñ²Ñşÿÿÿÿ
-tsquid:S3038ç"\"read" is defined in the "ReadableByteChannel" interface and can be removed from this class.(‹ş€
-{squid:S3038ï"^"read" is defined in the "ScatteringByteChannel" interface and can be removed from this class.(øÅæ¼ıÿÿÿÿ
-zsquid:S3038‚"]"write" is defined in the "WritableByteChannel" interface and can be removed from this class.(–Ê“±ùÿÿÿÿ
-{squid:S3038Š"^"write" is defined in the "GatheringByteChannel" interface and can be removed from this class.(‰Ó°¸úÿÿÿÿ
-squid:S3038¯"b"getLocalAddress" is defined in the "NetworkChannel" interface and can be removed from this class.(òº‘ïûÿÿÿÿ

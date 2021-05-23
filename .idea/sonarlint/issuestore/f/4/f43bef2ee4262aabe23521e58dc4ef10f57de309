@@ -1,6 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¯¼Š«
-~"squid:ClassVariableVisibilityCheck,"PMake name a static final constant or non-public and provide accessors if needed.(˜ßƒÚ
-Esquid:S1125X")Remove the literal "false" boolean value.(ÇŠıÿÿÿÿ
-Xsquid:S1126\"AReplace this if-then-else statement by a single return statement.(Ğ’Àõ
-@squid:S1125\")Remove the literal "false" boolean value.(Ğ’Àõ

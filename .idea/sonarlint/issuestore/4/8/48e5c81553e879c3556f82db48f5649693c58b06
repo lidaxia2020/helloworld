@@ -1,20 +1,0 @@
-
-Qsquid:S1191:"5Use classes from the Java API instead of Sun classes.(øÜˆøÿÿÿÿ
-Lsquid:S1066ò"/Merge this if statement with the enclosing one.(±¾òúÿÿÿÿ
-Lsquid:S1066ú"/Merge this if statement with the enclosing one.(ê¾”•şÿÿÿÿ
-osquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù£”ıÿÿÿÿ
-jsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÅİå
-osquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¡±ıÿÿÿÿ
-psquid:S00116Ä"WRename this field "stdin_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÇÖ¦
-qsquid:S00116Å"XRename this field "stdout_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¬ˆ«
-vsquid:S00116Æ"XRename this field "stderr_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ×°•ıÿÿÿÿ
-nsquid:S3776`"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ˆúÁ¸úÿÿÿÿ
-Tsquid:S1197`"8Move the array designator from the variable to the type.(ˆúÁ¸úÿÿÿÿ
-Lsquid:EmptyStatementUsageCheck¥"Remove this empty statement.(ôŸìúÿÿÿÿ
-Usquid:S1197¾"8Move the array designator from the variable to the type.(ş—Œ…ıÿÿÿÿ
-Usquid:S1197É"8Move the array designator from the variable to the type.(°¬¤ôøÿÿÿÿ
-Usquid:S1197"8Move the array designator from the variable to the type.(‡£Èòıÿÿÿÿ
-osquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¾Ú¯üÿÿÿÿ
-Usquid:S1197È"8Move the array designator from the variable to the type.(¾Ú¯üÿÿÿÿ
-a"squid:ObjectFinalizeOverridenCheck¿"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
-hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ÌŸŞşÿÿÿÿ

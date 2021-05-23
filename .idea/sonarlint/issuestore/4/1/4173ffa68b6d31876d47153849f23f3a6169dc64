@@ -1,19 +1,0 @@
-
-]squid:S2259—"EA "NullPointerException" could be thrown; "signers" is nullable here.(¢¼Ÿé
-Ysquid:S2259¦"AA "NullPointerException" could be thrown; "cfs" is nullable here.(âù¡¢
-ssquid:S1149•"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(°ò€îûÿÿÿÿ
-Osquid:S1197R"8Move the array designator from the variable to the type.(ˆ™—ø
-Osquid:S1197g"8Move the array designator from the variable to the type.(¸˜§’
-7squid:S2112“"Use the URI class instead.(×Œ„˜úÿÿÿÿ
-7squid:S2112¸"Use the URI class instead.(…Ñóùÿÿÿÿ
->squid:S1168÷"&Return an empty array instead of null.(¥¹ï
->squid:S1168š"&Return an empty array instead of null.(¥¹ï
-jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(‰—Å£
-osquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(¥‰„õøÿÿÿÿ
-7squid:S2112à"Use the URI class instead.(½õøªûÿÿÿÿ
-qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±„ç
->squid:S1168Ü"&Return an empty array instead of null.(¥¹ï
-csquid:HiddenFieldCheckç";Rename "signers" which hides the field declared at line 74.(şâÎ»şÿÿÿÿ
->squid:S1168ü"&Return an empty array instead of null.(¥¹ï
->squid:S1168‚"&Return an empty array instead of null.(ú²ã
-Jsquid:S1135‚"2Complete the task associated to this TODO comment.(ú²ã

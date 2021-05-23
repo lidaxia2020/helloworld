@@ -1,8 +1,0 @@
-
-Qsquid:S1191#"5Use classes from the Java API instead of Sun classes.(Äıç•ıÿÿÿÿ
-ksquid:S001161"SRename this field "_element" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­Ö
-qsquid:S001162"TRename this field "_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ô¥Êıÿÿÿÿ
-]squid:CallToDeprecatedMethod0"5Remove this use of "AttributeList"; it is deprecated.(“¬¬ä
-Csquid:S10681",Remove this unused "_element" private field.(é­Ö
-Isquid:S10682"-Remove this unused "_document" private field.(—Ô¥Êıÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

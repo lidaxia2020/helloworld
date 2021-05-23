@@ -1,31 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(­Ÿóú
-?squid:S1604L"(Make this anonymous inner class a lambda(’­Ûü
-wsquid:S001158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Þ©ô ýÿÿÿÿ
-qsquid:S00115B"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªäÓ/
-isquid:ModifiersOrderCheckB"EReorder the modifiers to comply with the Java Language Specification.(ªäÓ/
-Wsquid:S1161‹":Add the "@Override" annotation above this method signature(ïîÈºÿÿÿÿÿ
-Wsquid:S1161™":Add the "@Override" annotation above this method signature(µæ„òþÿÿÿÿ
-Rsquid:S1133Õ"5Do not forget to remove this deprecated code someday.(ÊÒÂ´üÿÿÿÿ
-Vsquid:MissingDeprecatedCheckÕ"(Add the missing @deprecated Javadoc tag.(ÊÒÂ´üÿÿÿÿ
-Msquid:S1133Þ"5Do not forget to remove this deprecated code someday.(Þ‘‰¸
-Qsquid:MissingDeprecatedCheckÞ"(Add the missing @deprecated Javadoc tag.(Þ‘‰¸
-asquid:S4201‡"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¤Úë¢
-asquid:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¤Úë¢
-@squid:S1125´"(Remove the literal "true" boolean value.(£ÙÉ
-xsquid:CallToDeprecatedMethod·"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
-a"squid:ObjectFinalizeOverridenCheck·"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
-osquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(šÆû±úÿÿÿÿ
-asquid:S4201Ð"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ò§±¶
-asquid:S4201Ù"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ò§±¶
-asquid:S4201ß"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¿Õ”Ä
-asquid:S4201ä"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¿Õ”Ä
-fsquid:S4201ì"IRemove this unnecessary null check; "instanceof" returns false for nulls.(€€Ç«üÿÿÿÿ
-`squid:S4201ó"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¡ßÛ
-fsquid:S4201÷"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‹²â¬úÿÿÿÿ
-fsquid:S4201û"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Á·êýÿÿÿÿ
->squid:S2129“"!Remove this "Integer" constructor(¸˜¬Ýûÿÿÿÿ
-]squid:CallToDeprecatedMethod“"/Remove this use of "Integer"; it is deprecated.(¸˜¬Ýûÿÿÿÿ
-9squid:S2129™"!Remove this "Integer" constructor(”ü’Ô
-Xsquid:CallToDeprecatedMethod™"/Remove this use of "Integer"; it is deprecated.(”ü’Ô
-Rsquid:S1161¼":Add the "@Override" annotation above this method signature(†Äòç

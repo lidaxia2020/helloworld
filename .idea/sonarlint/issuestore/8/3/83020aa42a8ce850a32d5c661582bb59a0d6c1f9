@@ -1,47 +1,0 @@
-
-lsquid:S3824±"OReplace this "Map.get()" and condition with a call to "Map.computeIfPresent()".(‹­ƒÿüÿÿÿÿ
-Š squid:ForLoopCounterChangedCheckì"XRefactor the code in order to not assign to this loop counter from within the loop body.(ïš©Ôúÿÿÿÿ
-… squid:ForLoopCounterChangedCheckñ"XRefactor the code in order to not assign to this loop counter from within the loop body.(›¨Á¤
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(çÿc
-Lsquid:S1066Ö"/Merge this if statement with the enclosing one.(÷ó˜ïûÿÿÿÿ
-hsquid:S1301†"KReplace this "switch" statement by "if" statements to increase readability.(”ŠÖ‡øÿÿÿÿ
-fsquid:MaximumInheritanceDepthÁ"<This class has 7 parents which is greater than 5 authorized.(œé‰¯
-Dsquid:S1172J"(Remove this unused method parameter "c".(å‚Ú”ûÿÿÿÿ
-Qsquid:S1161N":Add the "@Override" annotation above this method signature(ïÆ•ø
-Usquid:S3252f">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(ùÔª
-Vsquid:S1161k":Add the "@Override" annotation above this method signature(ã¼‚½ıÿÿÿÿ
-Vsquid:S1161p":Add the "@Override" annotation above this method signature(¿ĞÎşÿÿÿÿ
-Qsquid:S1161}":Add the "@Override" annotation above this method signature(îÜÚ’
-Wsquid:S1161…":Add the "@Override" annotation above this method signature(Õšå‰üÿÿÿÿ
-Rsquid:S1161›":Add the "@Override" annotation above this method signature(€İ§ò
-Qsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(îÓ…
-Rsquid:S1161¬":Add the "@Override" annotation above this method signature(Ï“Ö‘
-Tsquid:S3252­"<Use static access with "java.awt.Adjustable" for "VERTICAL".(Ûó»‰
-jsquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÌåÙò
-Rsquid:S1161È":Add the "@Override" annotation above this method signature(ÌåÙò
-Tsquid:S3252É"<Use static access with "java.awt.Adjustable" for "VERTICAL".(Ûó»‰
-Rsquid:S1161ò":Add the "@Override" annotation above this method signature(å‘×æ
-7squid:S1659ù"Declare "y" on a separate line.(ÏÛ²Â
-7squid:S1659ù"Declare "w" on a separate line.(ÏÛ²Â
-7squid:S1659ù"Declare "h" on a separate line.(ÏÛ²Â
-Ssquid:S3252û"<Use static access with "java.awt.Adjustable" for "VERTICAL".(áÕË
-
-Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(ù¸öè
-7squid:S1659“"Declare "y" on a separate line.(ÏÛ²Â
-7squid:S1659“"Declare "w" on a separate line.(ÏÛ²Â
-7squid:S1659“"Declare "h" on a separate line.(ÏÛ²Â
-Ssquid:S3252•"<Use static access with "java.awt.Adjustable" for "VERTICAL".(áÕË
-
-jsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¶øÂÁ
-Rsquid:S1161Ì":Add the "@Override" annotation above this method signature(¶øÂÁ
-V"squid:SwitchLastCaseIsDefaultCheckÙ""Add a default case to this switch.(Æóõµıÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckà""Add a default case to this switch.(Æóõµıÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckç""Add a default case to this switch.(Æóõµıÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckî""Add a default case to this switch.(Æóõµıÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckõ""Add a default case to this switch.(Æóõµıÿÿÿÿ
-Wsquid:S1161ƒ":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheck†""Add a default case to this switch.(”ŠÖ‡øÿÿÿÿ
-Ysquid:S3252‡"<Use static access with "java.awt.Adjustable" for "VERTICAL".(Äİ¸Ûûÿÿÿÿ
-Vsquid:S3252Š">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(ÇûÒ™
-vsquid:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úİø¡ùÿÿÿÿ
-Usquid:S1197»"8Move the array designator from the variable to the type.(½¶’£úÿÿÿÿ

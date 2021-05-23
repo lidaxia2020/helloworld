@@ -1,37 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Â¹åÂ
-Jsquid:S1199¢"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-Jsquid:S1199«"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-squid:S1488Ú"xImmediately return this expression instead of assigning it to the temporary variable "theObjectFromStringfiedReference".(ù¿’ö
-Rsquid:S1141Ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ÿ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-Rsquid:S1141Ë"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-_squid:S2259û"BA "NullPointerException" could be thrown; "name" is nullable here.(¢… şûÿÿÿÿ
-dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
-jsquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ôè
-jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üù©¤
-tsquid:UselessImportCheck%"PRemove this unused import 'org.omg.PortableServer.RequestProcessingPolicyValue'.(¥Ê¨à
-squid:S1845±"bRename method "Bind" to prevent any misunderstanding/clash with method "bind" defined on line 221.(–Üß‚ùÿÿÿÿ
-…squid:S1845÷"hRename method "Resolve" to prevent any misunderstanding/clash with method "resolve" defined on line 394.(ƒÈ—ıÿÿÿÿÿ
-ƒsquid:S1845Å"fRename method "Unbind" to prevent any misunderstanding/clash with method "unbind" defined on line 426.(Ü¡ûÌşÿÿÿÿ
-zsquid:S1845ú"bRename method "List" to prevent any misunderstanding/clash with method "list" defined on line 454.(Üù©¤
-€squid:S1845Ë	"hRename method "Destroy" to prevent any misunderstanding/clash with method "destroy" defined on line 554.(æÔÒ´
-rsquid:S1149h"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(®òí”ùÿÿÿÿ
-|squid:S1149ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(À¢øãúÿÿÿÿ
-?squid:S3010—""Remove this assignment of "debug".(¿Òªíüÿÿÿÿ
-Bsquid:S00108™")Either remove or fill this block of code.(£Ä‡É
-@squid:S1125±"(Remove the literal "true" boolean value.(ÔÍ¾¯
-jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÉÄ™¥
-asquid:S2445ö"I"impl" is a method parameter, and should not be used for synchronization.(ÁÏª¶
-asquid:S2445é"I"impl" is a method parameter, and should not be used for synchronization.(ÁÏª¶
-3squid:S3626µ"Remove this redundant jump.(ûÁİ…
-asquid:S2445¬"I"impl" is a method parameter, and should not be used for synchronization.(ÁÏª¶
-asquid:S2445İ"I"impl" is a method parameter, and should not be used for synchronization.(ÁÏª¶
-Rsquid:S1854¥	"5Remove this useless assignment to local variable "i".(µ ÷äùÿÿÿÿ
-U
-squid:S106–"9Replace this use of System.out or System.err by a logger.(ùûÀÌùÿÿÿÿ
-Dsquid:S1264˜",Replace this "for" loop with a "while" loop.(—„Ãõ
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ç±ñıÿÿÿÿ
-hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(¿Òªíüÿÿÿÿ
-csquid:CommentedOutCodeLine×	"<This block of commented-out lines of code should be removed.(È©î

@@ -1,27 +1,0 @@
-
-`squid:S2184"CCast one of the operands of this subtraction operation to a "long".(„¨¸ÿÿÿÿÿ
-tsquid:S1192ˆ"]Define a constant instead of duplicating this literal "malformed input around byte " 3 times.(Àš¡R
-_$squid:AssignmentInSubExpressionCheck„".Extract the assignment out of this expression.(™¬ù
-osquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÚĞ™ùÿÿÿÿ
-Osquid:S1197H"8Move the array designator from the variable to the type.(¬áú
-Osquid:S1197I"8Move the array designator from the variable to the type.(É¶Ö
-Wsquid:S1161€":Add the "@Override" annotation above this method signature(ˆÜØşıÿÿÿÿ
-Usquid:S1197€"8Move the array designator from the variable to the type.(ˆÜØşıÿÿÿÿ
-Rsquid:S1161Ã":Add the "@Override" annotation above this method signature(½Óª
-Psquid:S1197Ã"8Move the array designator from the variable to the type.(½Óª
-Usquid:S1197İ"8Move the array designator from the variable to the type.(ñã‡ûÿÿÿÿ
-Psquid:S1197ù"8Move the array designator from the variable to the type.(ªÎß«
-Psquid:S1197÷"8Move the array designator from the variable to the type.(ûæÙô
-Usquid:S1197Ô"8Move the array designator from the variable to the type.(óÖ«Òøÿÿÿÿ
-Rsquid:S1133ø"5Do not forget to remove this deprecated code someday.(úÎìáşÿÿÿÿ
-osquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(úÎìáşÿÿÿÿ
-Usquid:S1197ù"8Move the array designator from the variable to the type.(­ú–Äıÿÿÿÿ
-h squid:LabelsShouldNotBeUsedCheckƒ";Refactor the code to remove this label and the need for it.(ÂúœÎ
-osquid:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ñ§¤ıÿÿÿÿ
-psquid:ModifiersOrderCheckÙ"EReorder the modifiers to comply with the Java Language Specification.(Ñ§¤ıÿÿÿÿ
-@squid:S1659ê"#Declare "char2" on a separate line.(†ÖÜ™ıÿÿÿÿ
-@squid:S1659ê"#Declare "char3" on a separate line.(†ÖÜ™ıÿÿÿÿ
-1squid:S2183•"Remove this useless shift(Å¨ªè
-1squid:S2183´"Remove this useless shift(ÑÄÓã
-6squid:S2183Ó"Remove this useless shift(Ïºñûúÿÿÿÿ
-1squid:S2183ô"Remove this useless shift(Ã•®ç

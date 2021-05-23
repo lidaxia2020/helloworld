@@ -1,9 +1,0 @@
-
-Qsquid:S1191%"5Use classes from the Java API instead of Sun classes.(°½““ùÿÿÿÿ
-nsquid:S00116"PRename this field "m_doc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¸Şşÿÿÿÿ
-¢%squid:RedundantThrowsDeclarationCheckÙ"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(ÈÿÀ¿úÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÙ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ÈÿÀ¿úÿÿÿÿ
-]squid:S1193ç"@Replace the usage of the "instanceof" operator by a catch block.( ÉÉµúÿÿÿÿ
-¢%squid:RedundantThrowsDeclarationCheckÇ"kRemove the declaration of thrown exception 'org.w3c.dom.xpath.XPathException' which is a runtime exception.(ÈÿÀ¿úÿÿÿÿ
-š%squid:RedundantThrowsDeclarationCheckÇ"cRemove the declaration of thrown exception 'org.w3c.dom.DOMException' which is a runtime exception.(ÈÿÀ¿úÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

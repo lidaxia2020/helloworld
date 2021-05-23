@@ -1,13 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚×…ª
-fsquid:S2259¦"IA "NullPointerException" could be thrown; "integerPart" is nullable here.(Â…íòÿÿÿÿÿ
-gsquid:S2259§"JA "NullPointerException" could be thrown; "fractionPart" is nullable here.(û¸¹ºûÿÿÿÿ
-usquid:UselessImportCheck("QRemove this unused import 'com.sun.corba.se.impl.logging.ORBUtilSystemException'.(®¬¯€
-[squid:UselessImportCheck"7Remove this unused import 'org.omg.CORBA.NO_IMPLEMENT'.(ÂÅÏ™
-rsquid:UselessImportCheck'"IRemove this unused import 'com.sun.corba.se.spi.logging.CORBALogDomains'.(‘Ú«Æüÿÿÿÿ
-nsquid:S3776e"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(›¹úıÿÿÿÿ
-Usquid:S1854q"9Remove this useless assignment to local variable "scale".(­±ş÷şÿÿÿÿ
-Xsquid:S1854•"@Remove this useless assignment to local variable "currentScale".(®€
-Asquid:S1481m"*Remove this unused "scale" local variable.(ˆõ
-gsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(²‹ÏÑûÿÿÿÿ
-csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(ğ…§—

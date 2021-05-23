@@ -1,21 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬íü×
-Vsquid:S3516¾"9Refactor this method to not always return the same value.(Úş¦¶şÿÿÿÿ
-usquid:S1488‡"]Immediately return this expression instead of assigning it to the temporary variable "index".(Ğ“¤º
-vsquid:S1488ƒ"YImmediately return this expression instead of assigning it to the temporary variable "c".(•îôùÿÿÿÿ
-"squid:ClassVariableVisibilityCheckĞ"RMake isLeaf a static final constant or non-public and provide accessors if needed.(µËµù
-Š"squid:ClassVariableVisibilityCheckÑ"VMake childCount a static final constant or non-public and provide accessors if needed.(ÒœÜÔùÿÿÿÿ
-…"squid:ClassVariableVisibilityCheckÔ"VMake colorCount a static final constant or non-public and provide accessors if needed.(…ìäø
-~"squid:ClassVariableVisibilityCheckÕ"OMake red a static final constant or non-public and provide accessors if needed.(ºç’
-„"squid:ClassVariableVisibilityCheckÖ"PMake blue a static final constant or non-public and provide accessors if needed.(ÕÇÖæıÿÿÿÿ
-€"squid:ClassVariableVisibilityCheck×"QMake green a static final constant or non-public and provide accessors if needed.(¥¼‰ÿ
-Œ"squid:ClassVariableVisibilityCheckÙ"XMake paletteIndex a static final constant or non-public and provide accessors if needed.(êµËøÿÿÿÿ
-€"squid:ClassVariableVisibilityCheckÛ"QMake level a static final constant or non-public and provide accessors if needed.(Ì–íï
-osquid:S00117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ïš‰şÿÿÿÿ
-jsquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°İåÏ
-jsquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ƒƒ¨
-osquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ú“»şÿÿÿÿ
-Rsquid:S1854·":Remove this useless assignment to local variable "aDepth".(©Ñ—¿
-Esquid:S1481›"(Remove this unused "cnt" local variable.(áÌÇ¦üÿÿÿÿ
-Csquid:S1481·"+Remove this unused "aDepth" local variable.(©Ñ—¿
-hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(È‚õÏşÿÿÿÿ

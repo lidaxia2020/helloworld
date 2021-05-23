@@ -1,5 +1,0 @@
-
-Lsquid:S1191 "5Use classes from the Java API instead of Sun classes.(†³®³
-nsquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÿĞÍüÿÿÿÿ
-Usquid:S1197¡"8Move the array designator from the variable to the type.(Ü¸öùÿÿÿÿ
-Osquid:S1197©"8Move the array designator from the variable to the type.( —åg

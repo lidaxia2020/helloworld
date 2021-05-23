@@ -1,62 +1,0 @@
-
-[squid:S3034Û">Prevent "int" promotion by adding "& 0xff" to this expression.(“åÌüÿÿÿÿÿ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(¡ãø‘şÿÿÿÿ
-qsquid:S1192q"UDefine a constant instead of duplicating this literal "Method not available" 4 times.(õé§üÿÿÿÿ
-|squid:S1192À"_Define a constant instead of duplicating this literal "The chunk will not be written." 3 times.(ÊğÉèúÿÿÿÿ
-hsquid:S1301Ó"KReplace this "switch" statement by "if" statements to increase readability.(Îıº„üÿÿÿÿ
-ysquid:S1488ø"\Immediately return this expression instead of assigning it to the temporary variable "type".(¿”Å§üÿÿÿÿ
-csquid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(õé§üÿÿÿÿ
-csquid:S00112u"FDefine and throw a dedicated exception instead of using a generic one.(õé§üÿÿÿÿ
-dsquid:S00112É"FDefine and throw a dedicated exception instead of using a generic one.(õé§üÿÿÿÿ
-dsquid:S00112Í"FDefine and throw a dedicated exception instead of using a generic one.(õé§üÿÿÿÿ
-Bsquid:S5411¼"*Use the primitive boolean expression here.(ç’›ı
-Bsquid:S5411È"*Use the primitive boolean expression here.(Îü¦®
-isquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íU
-Gsquid:UselessImportCheck2"Remove this duplicated import.(î¥åçøÿÿÿÿ
-Zsquid:UselessImportCheck'"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
-Ssquid:UselessImportCheck%"/Remove this unused import 'java.io.DataOutput'.(‰Ş£¨
-_squid:UselessImportCheck"6Remove this unused import 'java.awt.image.ColorModel'.(ïˆÏÍşÿÿÿÿ
-)squid:S1700:"Rename field "crc"(Ø¿Ç„
-squid:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ß†¼øÿÿÿÿ
-xsquid:CallToDeprecatedMethod"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ
-a"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
-Wsquid:S1161":Add the "@Override" annotation above this method signature(ÖÒ˜Ùùÿÿÿÿ
-™4squid:ObjectFinalizeOverridenCallsSuperFinalizeCheck"SAdd a call to super.finalize() at the end of this Object.finalize() implementation.(ÖÒ˜Ùùÿÿÿÿ
-xsquid:CallToDeprecatedMethod…"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ
-a"squid:ObjectFinalizeOverridenCheck…"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
-Wsquid:S1161…":Add the "@Override" annotation above this method signature(ÖÒ˜Ùùÿÿÿÿ
-™4squid:ObjectFinalizeOverridenCallsSuperFinalizeCheck…"SAdd a call to super.finalize() at the end of this Object.finalize() implementation.(ÖÒ˜Ùùÿÿÿÿ
-Wsquid:S1161É":Add the "@Override" annotation above this method signature(‹·® ûÿÿÿÿ
-Wsquid:S1161×":Add the "@Override" annotation above this method signature(ºšõ×ÿÿÿÿÿ
-Jsquid:S1135î"2Complete the task associated to this TODO comment.(–îÄ±
-lsquid:S00100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÌÍõıÿÿÿÿ
-lsquid:S00100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÆìŸıÿÿÿÿ
-gsquid:S00100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şˆö
-lsquid:S00100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î–ûúşÿÿÿÿ
-gsquid:S00100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¿¹
-gsquid:S00100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³İÌ
-gsquid:S00100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¦©
-gsquid:S00100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¢Í´
-¦%squid:RedundantThrowsDeclarationCheckû"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(şß´.
-fsquid:S00100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şß´.
-¬%squid:RedundantThrowsDeclarationCheck‰"uRemove the declaration of thrown exception 'javax.imageio.IIOException' which is a subclass of 'java.io.IOException'.(¯Û´æıÿÿÿÿ
-lsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Û´æıÿÿÿÿ
-lsquid:S00100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çªÀšşÿÿÿÿ
-lsquid:S00100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÛÛ®üÿÿÿÿ
-lsquid:S00100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¾ÉÚüÿÿÿÿ
-lsquid:S00100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºßàÎÿÿÿÿÿ
-gsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¤§õ
-lsquid:S00100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÏûÿÿÿÿ
-Vsquid:S4719Ä"9Replace charset name argument with StandardCharsets.UTF_8(è·ù¯ûÿÿÿÿ
-Vsquid:S4719É"9Replace charset name argument with StandardCharsets.UTF_8(öøë¸ıÿÿÿÿ
-Qsquid:S4719Ë"9Replace charset name argument with StandardCharsets.UTF_8(¶úêÿ
-gsquid:S00100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±û²¦
-[squid:S4719à">Replace charset name argument with StandardCharsets.ISO_8859_1(¼¢ÖÊşÿÿÿÿ
-osquid:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(½‡“Íÿÿÿÿÿ
-Vsquid:S1854ç"9Remove this useless assignment to local variable "count".(ªÂ˜ÿÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÔ""Add a default case to this switch.(Íİ”øÿÿÿÿ
-gsquid:S00100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÛüÛ
-osquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ìÁÇ»øÿÿÿÿ
-V"squid:SwitchLastCaseIsDefaultCheckÓ""Add a default case to this switch.(Îıº„üÿÿÿÿ
-Tsquid:S1068Õ"<Remove this unused "allowedProgressivePasses" private field.(ÙıÈş
-csquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(€®…ı

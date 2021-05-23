@@ -1,5 +1,0 @@
-
-Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ς΅Γ1
-~squid:S1488{"bImmediately return this expression instead of assigning it to the temporary variable "connection".(θό¬Òψÿÿÿÿ
-}squid:UselessImportCheck&"TRemove this unnecessary import: same package classes are always implicitly imported.(ν–‹›ÿÿÿÿÿ
-esquid:S1871°"MThis branch's code block is the same as the block for the branch on line 174.(Ρ¨΄ξ

@@ -1,5 +1,0 @@
-
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ëñ“€üÿÿÿÿ
-Wsquid:UselessImportCheck'"3Remove this unused import 'org.omg.CORBA.INTERNAL'.(¦‰­Ú
-lsquid:UselessImportCheck-"HRemove this unused import 'com.sun.corba.se.impl.orbutil.ObjectUtility'.(¨«û—
-%squid:RedundantThrowsDeclarationCheckv"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ğ¾³

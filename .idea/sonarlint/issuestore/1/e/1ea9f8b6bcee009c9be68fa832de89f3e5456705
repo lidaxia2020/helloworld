@@ -1,22 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ûõ¥
-nsquid:S1192?"RDefine a constant instead of duplicating this literal "SpecificationName" 3 times.(Ä™›Ôıÿÿÿÿ
-qsquid:S1192@"UDefine a constant instead of duplicating this literal "SpecificationVersion" 3 times.(Èš¿øşÿÿÿÿ
-psquid:S1192A"TDefine a constant instead of duplicating this literal "SpecificationVendor" 3 times.(ì‹Ş§ÿÿÿÿÿ
-ysquid:S1192N"]Define a constant instead of duplicating this literal "implemented by this product." 3 times.(‘Ãªšúÿÿÿÿ
-jsquid:S1192>"NDefine a constant instead of duplicating this literal "MBeanServerId" 3 times.(Í¶ôÿÿÿÿÿ
-lsquid:S1192D"UDefine a constant instead of duplicating this literal "ImplementationVendor" 3 times.(‹¯Ş»
-osquid:S1192B"SDefine a constant instead of duplicating this literal "ImplementationName" 3 times.(ëå©˜ùÿÿÿÿ
-msquid:S1192I"QDefine a constant instead of duplicating this literal "java.lang.String" 7 times.(œˆÌ‰øÿÿÿÿ
-rsquid:S1192C"VDefine a constant instead of duplicating this literal "ImplementationVersion" 3 times.(Ì½Ğıÿÿÿÿ
-˜squid:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ—Ñ•
-squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Îó™Åûÿÿÿÿ
-jsquid:ModifiersOrderCheck="EReorder the modifiers to comply with the Java Language Specification.(àÛÛ¹
-jsquid:ModifiersOrderCheckr"EReorder the modifiers to comply with the Java Language Specification.(äèËÔ
-jsquid:ModifiersOrderCheckx"EReorder the modifiers to comply with the Java Language Specification.(ñ—Ñ•
-jsquid:ModifiersOrderCheck{"EReorder the modifiers to comply with the Java Language Specification.(ÓÄİ»
-psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Îó™Åûÿÿÿÿ
-Nsquid:S1854Ş"7Remove this useless assignment to local variable "val".(½—é*
-Psquid:S1197¾"8Move the array designator from the variable to the type.(ô†ş
-Psquid:S1197¿"8Move the array designator from the variable to the type.(‘ˆÛÂ
-?squid:S1481Ş"(Remove this unused "val" local variable.(½—é*

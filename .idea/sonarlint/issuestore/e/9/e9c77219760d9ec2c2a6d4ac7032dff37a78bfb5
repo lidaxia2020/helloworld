@@ -1,5 +1,0 @@
-
-Lsquid:S1191	"5Use classes from the Java API instead of Sun classes.(ÞÄÿá
-lsquid:S11929"PDefine a constant instead of duplicating this literal "processDatagram" 6 times.(Þ¿œÐüÿÿÿÿ
-nsquid:S37762"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÿïžƒýÿÿÿÿ
-Ssquid:S1854h"<Remove this useless assignment to local variable "snmpProt".(ôä¡°

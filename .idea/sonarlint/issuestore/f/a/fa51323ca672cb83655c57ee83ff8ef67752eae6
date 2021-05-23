@@ -1,15 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(…ŞüÏ
-psquid:S1192Ø
-"SUse already-defined constant 'FORMAT_FAILED' instead of duplicating its value here.(ıøıÿÿÿÿ
-csquid:S1192Ô
-"FDefine a constant instead of duplicating this literal "pt-BR" 3 times.(»ÙÖÆûÿÿÿÿ
-ksquid:S1192×
-"NUse already-defined constant 'BAD_CODE' instead of duplicating its value here.(ƒÇÎüşÿÿÿÿ
-jsquid:S001013"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ù›Åöşÿÿÿÿ
-hsquid:UselessImportCheck""?Remove this unused import 'java.util.MissingResourceException'.(å—¡Şşÿÿÿÿ
-^squid:UselessImportCheck#"5Remove this unused import 'java.util.ResourceBundle'.(ıÆ£¯øÿÿÿÿ
-Vsquid:UselessImportCheck!"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
-Msquid:S1133Ñ"5Do not forget to remove this deprecated code someday.(ğõî¸
-Psquid:MissingDeprecatedCheckÑ"'Add the missing @Deprecated annotation.(ğõî¸
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

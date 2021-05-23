@@ -1,10 +1,0 @@
-
-]squid:S2789ä"@Methods with an "Optional" return type should never return null.(ÍÒ‘ÿÿÿÿÿ
-gsquid:S00119¼"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(İ—±¸ıÿÿÿÿ
-ksquid:ModifiersOrderCheckÍ"EReorder the modifiers to comply with the Java Language Specification.(Å¼¯À
-*squid:S2176é"Rename this class.(©ÜÂğ
-/squid:S2176ø"Rename this class.(ì“º‡şÿÿÿÿ
-*squid:S2176‡"Rename this class.(–‰á
-Asquid:S1948¢"$Make "op" transient or serializable.(™ôù¡úÿÿÿÿ
-gsquid:S00119 "IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ºØ¡€ıÿÿÿÿ
-gsquid:S00119 "IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ºØ¡€ıÿÿÿÿ

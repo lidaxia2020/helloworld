@@ -1,59 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.( ¸¤
-esquid:S1192Ú"MDefine a constant instead of duplicating this literal "slider-width" 4 times.(º„®±
-esquid:S1192³	"MDefine a constant instead of duplicating this literal "cursor-color" 6 times.(ÒŒæÒ
-ksquid:S1192·"NDefine a constant instead of duplicating this literal "focus-padding" 5 times.(ß¥¾šúÿÿÿÿ
-lsquid:S1192´	"TDefine a constant instead of duplicating this literal "cursor-aspect-ratio" 5 times.( ¹ºé
-isquid:S1192¶"QDefine a constant instead of duplicating this literal "focus-line-width" 8 times.(†åÄ„
-Vsquid:S4973"9Use the "equals" method if value comparison was intended.(şµà§ÿÿÿÿÿ
-Vsquid:S4973é"9Use the "equals" method if value comparison was intended.(şÿĞ©üÿÿÿÿ
-Vsquid:S4973ê"9Use the "equals" method if value comparison was intended.(åş‰˜úÿÿÿÿ
-Vsquid:S4973ƒ"9Use the "equals" method if value comparison was intended.(øøÈüÿÿÿÿ
-Vsquid:S4973‰"9Use the "equals" method if value comparison was intended.(„Ò÷éıÿÿÿÿ
-Qsquid:S4973¤"9Use the "equals" method if value comparison was intended.(ä¾ÌŒ
-Qsquid:S4973¦"9Use the "equals" method if value comparison was intended.(°øı¦
-Qsquid:S4973¦"9Use the "equals" method if value comparison was intended.(°øı¦
-isquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‰ÈT
-Dsquid:S1659f"(Declare "yThickness" on a separate line.(Í³­ƒøÿÿÿÿ
-wsquid:S1149Ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ë›æ÷
-hsquid:S1764¶"KCorrect one of the identical sub-expressions on both sides of operator "||"(¦ä½úÿÿÿÿ
-Fsquid:S1172Ğ".Remove this unused method parameter "context".(Õ¸î
-osquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÍÍ¾şÿÿÿÿ
-osquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Û¼ÄØûÿÿÿÿ
-isquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(™‘ë 
-gsquid:HiddenFieldCheck¸"?Rename "xThickness" which hides the field declared at line 102.(ÖÂÚ‡üÿÿÿÿ
-bsquid:HiddenFieldCheck¹"?Rename "yThickness" which hides the field declared at line 102.(åäÛâ
-gsquid:HiddenFieldCheckù"?Rename "xThickness" which hides the field declared at line 102.(ÖÂÚ‡üÿÿÿÿ
-bsquid:HiddenFieldCheckú"?Rename "yThickness" which hides the field declared at line 102.(åäÛâ
-gsquid:HiddenFieldCheck…"?Rename "xThickness" which hides the field declared at line 102.(ÖÂÚ‡üÿÿÿÿ
-bsquid:HiddenFieldCheck†"?Rename "yThickness" which hides the field declared at line 102.(åäÛâ
-Ksquid:S1172Œ".Remove this unused method parameter "context".(°¥•ûÿÿÿÿ
-Ksquid:S1172¥".Remove this unused method parameter "context".(æ‚ışÿÿÿÿ
-gsquid:HiddenFieldCheck«"?Rename "xThickness" which hides the field declared at line 102.(ÖÂÚ‡üÿÿÿÿ
-bsquid:HiddenFieldCheck¬"?Rename "yThickness" which hides the field declared at line 102.(åäÛâ
-gsquid:HiddenFieldCheckº"?Rename "xThickness" which hides the field declared at line 102.(ÖÂÚ‡üÿÿÿÿ
-bsquid:HiddenFieldCheck»"?Rename "yThickness" which hides the field declared at line 102.(åäÛâ
-[squid:S3252Ø">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(ùÚœ³ÿÿÿÿÿ
-Ysquid:S1126¦"AReplace this if-then-else statement by a single return statement.(°øı¦
-isquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(öƒÉ
-[squid:S3252Â">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(õÜÿİùÿÿÿÿ
-bsquid:S3252Ê"EUse static access with "javax.swing.SwingConstants" for "HORIZONTAL".(²³˜üÿÿÿÿ
-[squid:S3252×">Use static access with "java.awt.Adjustable" for "HORIZONTAL".(úÆÜ¼ûÿÿÿÿ
-psquid:S3008Ñ"XRename this field "ICON_TYPE_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õçç
-Wsquid:S1118Ğ":Add a private constructor to hide the implicit public one.(…ÑÍÓùÿÿÿÿ
-wsquid:S1149Ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ë›æ÷
-qsquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(áîÇ
-^squid:HiddenFieldCheckã";Rename "style" which hides the field declared at line 1080.(˜‘şÑ
-csquid:S2147¢	"FCombine this catch with the one at line 1185, which has the same body.(Â–şºıÿÿÿÿ
-^squid:S2147£	"FCombine this catch with the one at line 1185, which has the same body.(ÄéÍõ
-csquid:S2147¤	"FCombine this catch with the one at line 1185, which has the same body.(Î‹©Èüÿÿÿÿ
-^squid:S2147¥	"FCombine this catch with the one at line 1185, which has the same body.(•¶ĞÜ
-\squid:CallToDeprecatedMethodœ	"3Remove this use of "newInstance"; it is deprecated.(µš÷
-Gsquid:S00108¡	")Either remove or fill this block of code.(àöÆœøÿÿÿÿ
-Gsquid:S00108¢	")Either remove or fill this block of code.(Â–şºıÿÿÿÿ
-Bsquid:S00108£	")Either remove or fill this block of code.(ÄéÍõ
-Gsquid:S00108¤	")Either remove or fill this block of code.(Î‹©Èüÿÿÿÿ
-Bsquid:S00108¥	")Either remove or fill this block of code.(•¶ĞÜ
-vsquid:S2293¬	"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÃãÑüÿÿÿÿ
-vsquid:S2293À	"YReplace the type specification in this constructor call with the diamond operator ("<>").(±‰ïøşÿÿÿÿ
-=squid:S3398¤"%Move this method into "GTKStockIcon".(ëÿÓ¾

@@ -1,15 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(áøÆ
-osquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’€Ú—ùÿÿÿÿ
-osquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş½òÓÿÿÿÿÿ
-osquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Üİ³üÿÿÿÿ
-osquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
-osquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏüùÿÿÿÿ
-=squid:S1659p"!Declare "end" on a separate line.(·Èì›ÿÿÿÿÿ
-Bsquid:S1948o"&Make "type" transient or serializable.(ƒàöùÿÿÿÿ
-Csquid:S1948p"'Make "start" transient or serializable.(·Èì›ÿÿÿÿÿ
-Asquid:S1948p"%Make "end" transient or serializable.(·Èì›ÿÿÿÿÿ
-ksquid:S2975Ò"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
-U
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
-1squid:S2225×"Return a non null object.(¥¹ï

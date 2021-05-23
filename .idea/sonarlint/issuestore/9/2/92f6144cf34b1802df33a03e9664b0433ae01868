@@ -1,5 +1,0 @@
-
-Qsquid:S1191$"5Use classes from the Java API instead of Sun classes.(Ÿ¼öüÿÿÿÿ
-;squid:S11656"$Make this "m_exception" field final.(€õ–—
-nsquid:S001166"VRename this field "m_exception" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€õ–—
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ

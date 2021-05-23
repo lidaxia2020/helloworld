@@ -1,5 +1,0 @@
-
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(°˜ãÁ
-ƒsquid:S3252I"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(áëàœ
-ˆsquid:S3252J"lUse static access with "com.sun.org.apache.xerces.internal.xs.XSSimpleTypeDefinition" for "ORDERED_PARTIAL".(¢þƒÂøÿÿÿÿ
-Dsquid:S1905k"-Remove this unnecessary cast to "SymbolHash".(¢ù½Î
