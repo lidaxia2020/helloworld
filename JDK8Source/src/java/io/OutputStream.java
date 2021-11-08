@@ -151,4 +151,5 @@ public abstract class OutputStream implements Closeable, Flushable {
     public void close() throws IOException {
     }
 
+    public abstract void println(String s, int position, int limit, int capacity);
 }
