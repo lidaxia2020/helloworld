@@ -54,11 +54,17 @@ public class Customer {
                     break;
             }
 
+            // add frequent renter points
             frequentRenterPoints++;
-           // if ()
+            if ((rental.get_movie().get_priceCode() == Movie.NEW_RELEASE) &&
+                    rental.get_daysRented() > 1) frequentRenterPoints++;
+
+            result += "\t" + rental.get_movie().get_title() + "\t" + String.valueOf(thisAmount) + "\n";
+            thisAmount += totalAmount;
         }
 
-        result += "";
+        result += "Amount owed is " + String.valueOf(totalAmount) + "\n";
+        result += "You earned " + String.valueOf(frequentRenterPoints) + " frequent renter points";
         return result;
     }
 }
