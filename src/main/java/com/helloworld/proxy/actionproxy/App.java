@@ -4,7 +4,7 @@ package com.helloworld.proxy.actionproxy;
 import com.helloworld.proxy.staticproxy.Dog;
 
 /**
- * @author lijn
+ * @author daxia li
  * @date 2019/3/29 17:00
  */
 public class App {

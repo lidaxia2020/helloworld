@@ -1,7 +1,7 @@
 package reconsitution.entity;
 
 /**
- * @author lijiannan
+ * @author daxia li
  * @desc
  * @date 2021/11/8 17:45（
  */
@@ -16,9 +16,11 @@ public class Movie {
     private String _title;
     private int _priceCode;
 
+    private Price _price;
+
     public Movie(String _title, int _priceCode) {
         this._title = _title;
-        this._priceCode = _priceCode;
+        set_priceCode(_priceCode);
     }
 
 
@@ -31,10 +33,30 @@ public class Movie {
     }
 
     public int get_priceCode() {
-        return _priceCode;
+        return _price.getPriceCode();
     }
 
-    public void set_priceCode(int _priceCode) {
-        this._priceCode = _priceCode;
+    public void set_priceCode(int arg) {
+        switch (arg) {
+            case Movie.REGULAR:
+                _price = new RegularPrice();
+                break;
+            case Movie.NEW_RELEASE:
+                _price = new ChildrensPrice();
+                break;
+            case Movie.CHILDRENS:
+               _price = new NewReleasePrice();
+                break;
+            default:
+                throw new IllegalArgumentException("Incorrenct Price Code");
+        }
+    }
+
+    int getFrequentRenterPoints(int daysRented) {
+        return _price.getFrequentRenterPoints(daysRented);
+    }
+
+    double getCharge(int daysRented) {
+        return _price.getCharge(daysRented);
     }
 }

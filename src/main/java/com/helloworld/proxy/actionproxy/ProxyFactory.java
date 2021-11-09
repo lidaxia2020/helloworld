@@ -7,7 +7,7 @@ import java.lang.reflect.Proxy;
 /**
  * 创建动态代理对象
  * 动态代理不需要实现接口，但是需要指定接口类型
- * @author lijn
+ * @author daxia li
  * @date 2019/3/29 16:56
  */
 public class ProxyFactory {

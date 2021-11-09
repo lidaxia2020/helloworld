@@ -2,7 +2,7 @@ package com.helloworld.proxy.staticproxy;
 
 /**
  *  测试
- * @author lijn
+ * @author daxia li
  * @date 2019/3/29 16:46
  */
 public class App {

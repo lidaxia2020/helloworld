@@ -1,7 +1,7 @@
 package reconsitution.entity;
 
 /**
- * @author lijiannan
+ * @author daxia li
  * @desc
  * @date 2021/11/8 17:47（
  */
@@ -30,5 +30,13 @@ public class Rental {
 
     public void set_daysRented(int _daysRented) {
         this._daysRented = _daysRented;
+    }
+
+    int getFrequentRenterPoints() {
+        return _movie.getFrequentRenterPoints(_daysRented);
+    }
+
+    double getCharge() {
+        return _movie.getCharge(_daysRented);
     }
 }

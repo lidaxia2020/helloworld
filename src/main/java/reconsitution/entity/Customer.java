@@ -4,7 +4,7 @@ import java.util.Enumeration;
 import java.util.Vector;
 
 /**
- * @author lijiannan
+ * @author daxia li
  * @desc
  * @date 2021/11/8 17:48（
  */
@@ -26,6 +26,46 @@ public class Customer {
     }
 
     public String statement() {
+
+        Enumeration enumeration = _rentals.elements();
+        String result = "Rental Record for " + getName() + " \n";
+        while (enumeration.hasMoreElements()) {
+            Rental rental = (Rental) enumeration.nextElement();
+
+            result += "\t" + rental.get_movie().get_title() + "\t" + String.valueOf(rental.getCharge()) + "\n";
+        }
+
+        result += "Amount owed is " + String.valueOf(getTotalCharge()) + "\n";
+        result += "You earned " + String.valueOf(getTotalFrequentRenterPoints()) + " frequent renter points";
+        return result;
+    }
+
+    private double getTotalFrequentRenterPoints() {
+        int result = 0;
+        Enumeration enumeration = _rentals.elements();
+        while (enumeration.hasMoreElements()) {
+            Rental rental = (Rental) enumeration.nextElement();
+            result += rental.getFrequentRenterPoints();
+        }
+        return result;
+    }
+
+    private double getTotalCharge() {
+        double result = 0;
+        Enumeration enumeration = _rentals.elements();
+        while (enumeration.hasMoreElements()) {
+            Rental rental = (Rental) enumeration.nextElement();
+            result += rental.getCharge();
+        }
+        return result;
+    }
+
+    /**
+     * 修改前
+     *
+     * @return
+     */
+    public String statementStart() {
         double totalAmount = 0;
         int frequentRenterPoints = 0;
 
@@ -57,7 +97,9 @@ public class Customer {
             // add frequent renter points
             frequentRenterPoints++;
             if ((rental.get_movie().get_priceCode() == Movie.NEW_RELEASE) &&
-                    rental.get_daysRented() > 1) frequentRenterPoints++;
+                    rental.get_daysRented() > 1) {
+                frequentRenterPoints++;
+            }
 
             result += "\t" + rental.get_movie().get_title() + "\t" + String.valueOf(thisAmount) + "\n";
             thisAmount += totalAmount;

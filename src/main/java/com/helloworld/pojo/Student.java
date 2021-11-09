@@ -2,7 +2,7 @@ package com.helloworld.pojo;
 
 /**
  *  实体类
- * @author lijn
+ * @author daxia li
  * @date 2019/3/29 14:18
  */
 public class Student {
